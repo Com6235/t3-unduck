@@ -7,4 +7,5 @@ export default defineConfig({
       registerType: "autoUpdate",
     }),
   ],
+  base: "/t3-unduck/"
 });
