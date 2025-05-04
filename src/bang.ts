@@ -1,6 +1,8 @@
 // This file was (mostly) ripped from https://duckduckgo.com/bang.js
 
-export const bangs = [
+import {Bang} from "./types.ts";
+
+export const bangs: Bang[] = [
   {
     c: "AI",
     d: "www.t3.chat",

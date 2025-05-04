@@ -1,5 +1,7 @@
 import { bangs } from "./bang";
 import "./global.css";
+import {customBangs} from "./custom-bangs.ts";
+import {Bang} from "./types.ts";
 
 function noSearchDefaultPageRender() {
   const app = document.querySelector<HTMLDivElement>("#app")!;
@@ -12,20 +14,20 @@ function noSearchDefaultPageRender() {
           <input 
             type="text" 
             class="url-input"
-            value="https://unduck.link?q=%s"
+            value="https://com6235.github.io/t3-unduck?q=%s"
             readonly 
           />
           <button class="copy-button">
-            <img src="/clipboard.svg" alt="Copy" />
+            <img src="/t3-unduck/clipboard.svg" alt="Copy" />
           </button>
         </div>
       </div>
       <footer class="footer">
-        <a href="https://t3.chat" target="_blank">t3.chat</a>
+        <a href="https://github.com/Com6235/unduck" target="_blank">github</a>
         •
         <a href="https://x.com/theo" target="_blank">theo</a>
         •
-        <a href="https://github.com/t3dotgg/unduck" target="_blank">github</a>
+        <a href="https://github.com/t3dotgg/unduck" target="_blank">original github (please give it a 🌟)</a>
       </footer>
     </div>
   `;
@@ -44,8 +46,9 @@ function noSearchDefaultPageRender() {
   });
 }
 
-const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "g";
-const defaultBang = bangs.find((b) => b.t === LS_DEFAULT_BANG);
+const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "ya";
+const defaultBang = customBangs.find((b) => b.t === LS_DEFAULT_BANG)
+    ?? bangs.find((b) => b.t === LS_DEFAULT_BANG);
 
 function getBangredirectUrl() {
   const url = new URL(window.location.href);
@@ -58,7 +61,8 @@ function getBangredirectUrl() {
   const match = query.match(/!(\S+)/i);
 
   const bangCandidate = match?.[1]?.toLowerCase();
-  const selectedBang = bangs.find((b) => b.t === bangCandidate) ?? defaultBang;
+  const predicate = (b: Bang) => b.t === bangCandidate
+  const selectedBang = customBangs.find(predicate) ?? bangs.find(predicate) ?? defaultBang;
 
   // Remove the first bang from the query
   const cleanQuery = query.replace(/!\S+\s*/i, "").trim();
