@@ -23,7 +23,7 @@ function noSearchDefaultPageRender() {
         </div>
       </div>
       <footer class="footer">
-        <a href="https://github.com/Com6235/unduck" target="_blank">github</a>
+        <a href="https://github.com/Com6235/t3-unduck" target="_blank">github</a>
         •
         <a href="https://x.com/theo" target="_blank">theo</a>
         •

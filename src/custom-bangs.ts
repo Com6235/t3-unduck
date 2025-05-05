@@ -6,5 +6,11 @@ export const customBangs: Bang[] = [
         s: "Minecraft Wiki",
         t: "mcwiki",
         u: "https://minecraft.wiki?search={{{s}}}",
+    },
+    {
+        d: "modrinth.com",
+        s: "Modrinth",
+        t: "modrinth",
+        u: "https://modrinth.com/mods?q={{{s}}}",
     }
 ]
