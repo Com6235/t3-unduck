@@ -1,0 +1,32 @@
+[
+  {
+    "d": "www.750g.com",
+    "s": "750g",
+    "t": "750g",
+    "u": "https://www.750g.com/recherche.htm?search={{{s}}}"
+  },
+  {
+    "d": "www.7digital.com",
+    "s": "7digital",
+    "t": "7digital",
+    "u": "https://www.7digital.com/search?q={{{s}}}"
+  },
+  {
+    "d": "no.7digital.com",
+    "s": "7digital (Norway)",
+    "t": "7digitalno",
+    "u": "https://no.7digital.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.7switch.com",
+    "s": "7switch",
+    "t": "7switch",
+    "u": "https://www.7switch.com/fr/list/search/page/1?q={{{s}}}"
+  },
+  {
+    "d": "www.7tv.de",
+    "s": "7TV",
+    "t": "7tv",
+    "u": "https://www.7tv.de/suche?q={{{s}}}"
+  }
+]

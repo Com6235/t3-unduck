@@ -1,0 +1,4646 @@
+[
+  {
+    "d": "www.wikizero.com",
+    "s": "Wikizero",
+    "t": "w0",
+    "u": "https://www.wikizero.com/search.php?s={{{s}}}&lang=en"
+  },
+  {
+    "d": "fr.wiki2.org",
+    "s": "WIKI2 Fr",
+    "t": "w2fr",
+    "u": "https://fr.wiki2.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wiki2.org",
+    "s": "WIKI2",
+    "t": "w2",
+    "u": "https://en.wiki2.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "W3C",
+    "t": "w3c",
+    "u": "/?q={{{s}}}+site:w3.org"
+  },
+  {
+    "d": "welovedevs.com",
+    "s": "WeLoveDevs",
+    "t": "w3d",
+    "u": "https://welovedevs.com/app/companies/search?query={{{s}}}&type=company"
+  },
+  {
+    "d": "www.kaskus.co.id",
+    "s": "Kaskus",
+    "t": "w3kaskus",
+    "u": "http://www.kaskus.co.id/search/forum?q={{{s}}}"
+  },
+  {
+    "d": "www.w3schools.com",
+    "s": "W3Schools Tag Attributes",
+    "t": "w3satt",
+    "u": "https://www.w3schools.com/tags/att_{{{s}}}.asp"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "W3Schools.com",
+    "t": "w3schools",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:w3schools.com"
+  },
+  {
+    "d": "www.google.com",
+    "s": "w3school中文",
+    "t": "w3scn",
+    "u": "http://www.google.com/search?q={{{s}}}+site:w3school.com.cn"
+  },
+  {
+    "d": "www.w3schools.com",
+    "s": "W3 Schools Tag",
+    "t": "w3stag",
+    "u": "http://www.w3schools.com/tags/tag_{{{s}}}.asp"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "w3schools.com",
+    "t": "w3s",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:w3schools.com"
+  },
+  {
+    "d": "validator.w3.org",
+    "s": "W3C Validator",
+    "t": "w3v",
+    "u": "https://validator.w3.org/nu/?doc={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "W3C",
+    "t": "w3",
+    "u": "/?q={{{s}}}+site:w3.org"
+  },
+  {
+    "d": "map.what3words.com",
+    "s": "https://what3words.com/",
+    "t": "w3w",
+    "u": "https://map.what3words.com/{{{s}}}"
+  },
+  {
+    "d": "waapt.wiki.tropi.us",
+    "s": "We Are All Pokémon Trainers Wiki",
+    "t": "waapt",
+    "u": "https://waapt.wiki.tropi.us/wiki/Special:Search/{{{s}}}"
+  },
+  {
+    "d": "www.wacotrib.com",
+    "s": "Waco Tribune-Herald",
+    "t": "wacotrib",
+    "u": "http://www.wacotrib.com/search/?sd=desc&l=25&s=start_time&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q={{{s}}}"
+  },
+  {
+    "d": "www.wadoku.de",
+    "s": "WaDoKu",
+    "t": "wadoku",
+    "u": "http://www.wadoku.de/search/{{{s}}}"
+  },
+  {
+    "d": "www.wad-archive.com",
+    "s": "Wad Archive",
+    "t": "wad",
+    "u": "http://www.wad-archive.com/search?o=d&q={{{s}}}"
+  },
+  {
+    "d": "www.wafresh.com.au",
+    "s": "WA Fresh Delivered",
+    "t": "wafresh",
+    "u": "https://www.wafresh.com.au/search.php?Search=&search_query={{{s}}}"
+  },
+  {
+    "d": "waitbutwhy.com",
+    "s": "Wait But Why",
+    "t": "waitbutwhy",
+    "u": "http://waitbutwhy.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.waitrose.com",
+    "s": "Waitrose",
+    "t": "waitrose",
+    "u": "http://www.waitrose.com/shop/HeaderSearchCmd?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.w3.org",
+    "s": "W3C Web Accessibility Initiative",
+    "t": "wai",
+    "u": "https://www.w3.org/WAI/search/?q={{{s}}}"
+  },
+  {
+    "d": "social.wakoopa.com",
+    "s": "Wakoopa",
+    "t": "wakoopa",
+    "u": "http://social.wakoopa.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.walkscore.com",
+    "s": "Walk Score",
+    "t": "walkscore",
+    "u": "http://www.walkscore.com/score/{{{s}}}"
+  },
+  {
+    "d": "walkypedia.wikia.com",
+    "s": "Walkypedia",
+    "t": "walky",
+    "u": "http://walkypedia.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "es.wallapop.com",
+    "s": "Wallapop",
+    "t": "wallapop",
+    "u": "https://es.wallapop.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "wallhaven.cc",
+    "s": "Wallhaven Alpha",
+    "t": "walla",
+    "u": "https://wallhaven.cc/search?q={{{s}}}"
+  },
+  {
+    "d": "wallhaven.cc",
+    "s": "wallhaven",
+    "t": "wallbase",
+    "u": "https://wallhaven.cc/search?q={{{s}}}"
+  },
+  {
+    "d": "wallhaven.cc",
+    "s": "wallhaven",
+    "t": "wallhaven",
+    "u": "https://wallhaven.cc/search?q={{{s}}}"
+  },
+  {
+    "d": "wallhaven.cc",
+    "s": "wallhaven",
+    "t": "wallheaven",
+    "u": "https://wallhaven.cc/search?q={{{s}}}"
+  },
+  {
+    "d": "wallhaven.cc",
+    "s": "Wallhaven",
+    "t": "wallh",
+    "u": "https://wallhaven.cc/search?q={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Images",
+    "t": "wallpaper",
+    "u": "http://google.com/search?tbm=isch&imgsz=xxlarge&gbv=2&safe=off&q={{{s}}}+wallpaper&btnG=Search+Images&tbs=imgo:1"
+  },
+  {
+    "d": "www.walmart.ca",
+    "s": "Walmart Canada",
+    "t": "walmartca",
+    "u": "http://www.walmart.ca/search/{{{s}}}"
+  },
+  {
+    "d": "www.walmart.com",
+    "s": "Walmart",
+    "t": "walmart",
+    "u": "https://www.walmart.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "Wolfram|Alpha",
+    "t": "walpha",
+    "u": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "thewalrus.ca",
+    "s": "The Walrus",
+    "t": "walrus",
+    "u": "https://thewalrus.ca/?s={{{s}}}"
+  },
+  {
+    "d": "als.wikipedia.org",
+    "s": "Wikipedia Alemannisch",
+    "t": "wals",
+    "u": "https://als.wikipedia.org/w/index.php/search={{{s}}}"
+  },
+  {
+    "d": "m.wolframalpha.com",
+    "s": "WolframAlpha Mobile",
+    "t": "wam",
+    "u": "http://m.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "Wikiwand",
+    "t": "wandsk",
+    "u": "https://www.wikiwand.com/sk/{{{s}}}"
+  },
+  {
+    "d": "wanelo.com",
+    "s": "Wanelo",
+    "t": "wanelo",
+    "u": "http://wanelo.com/search?query={{{s}}}"
+  },
+  {
+    "d": "an.wikipedia.org",
+    "s": "Wikipedia (AN)",
+    "t": "wan",
+    "u": "https://an.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3AMirar"
+  },
+  {
+    "d": "www.westonaprice.org",
+    "s": "Weston A Price Foundation",
+    "t": "wapf",
+    "u": "https://www.westonaprice.org/?s={{{s}}}"
+  },
+  {
+    "d": "api.whatsapp.com",
+    "s": "WhatsApp",
+    "t": "wapp",
+    "u": "https://api.whatsapp.com/send?phone={{{s}}}&text="
+  },
+  {
+    "d": "www.wap.org",
+    "s": "Washington Apple Pi",
+    "t": "wap",
+    "u": "https://www.wap.org/search?q={{{s}}}"
+  },
+  {
+    "d": "warframe.wikia.com",
+    "s": "Warframe",
+    "t": "warframe",
+    "u": "http://warframe.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "totalwarwarhammer.gamepedia.com",
+    "s": "Total war Warhammer Wiki",
+    "t": "warhammer",
+    "u": "https://totalwarwarhammer.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.world-art.ru",
+    "s": "World-Art.ru",
+    "t": "waru",
+    "u": "http://www.world-art.ru/search.php?public_search={{{s}}}&global_sector=all"
+  },
+  {
+    "d": "search.warwick.ac.uk",
+    "s": "University of Warwick",
+    "t": "warwick",
+    "u": "https://search.warwick.ac.uk/?q={{{s}}}"
+  },
+  {
+    "d": "ar.wikipedia.org",
+    "s": "Wikipedia (AR)",
+    "t": "war",
+    "u": "https://ar.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.waschbaer.de",
+    "s": "Waschbär",
+    "t": "waschbaer",
+    "u": "https://www.waschbaer.de/shop/frontend/search/result?q={{{s}}}"
+  },
+  {
+    "d": "www.washingtonpost.com",
+    "s": "The Washington Post",
+    "t": "washingtonpost",
+    "u": "http://www.washingtonpost.com/ac2/wp-dyn/NewsSearch?sb=-1&st={{{s}}}"
+  },
+  {
+    "d": "www.watchcount.com",
+    "s": "WatchCount.com",
+    "t": "watchcount",
+    "u": "http://www.watchcount.com/completed.php?bkw={{{s}}}&bcat=0&bcts=&sfsb=Show+Me%21&csbin=all&cssrt=ts&bslr=&bnp=&bxp="
+  },
+  {
+    "d": "myrwatches.com",
+    "s": "MyrWatches",
+    "t": "watches",
+    "u": "https://myrwatches.com/?s={{{s}}} &post_type=product"
+  },
+  {
+    "d": "watchkin.com",
+    "s": "Watchkin",
+    "t": "watchkin",
+    "u": "https://watchkin.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "wol.jw.org",
+    "s": "Watchtower Online Library",
+    "t": "watchtower",
+    "u": "http://wol.jw.org/en/wol/qt/r1/lp-e?q={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube",
+    "t": "watch",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "www.waterstones.com",
+    "s": "Waterstones",
+    "t": "waterstones",
+    "u": "https://www.waterstones.com/books/search/term/{{{s}}}"
+  },
+  {
+    "d": "watercontainerstore.com",
+    "s": "Water Container Store",
+    "t": "watertank",
+    "u": "https://watercontainerstore.com/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "www.watson.ch",
+    "s": "Watson",
+    "t": "watson",
+    "u": "http://www.watson.ch/u/search?#{{{s}}}"
+  },
+  {
+    "d": "www.wattpad.com",
+    "s": "Wattpad",
+    "t": "wattpad",
+    "u": "http://www.wattpad.com/stories/search/{{{s}}}"
+  },
+  {
+    "d": "wave.webaim.org",
+    "s": "WAVE",
+    "t": "wave",
+    "u": "http://wave.webaim.org/report#/{{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "Wolfram|Alpha",
+    "t": "wa",
+    "u": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Internet Archive: Wayback Machine",
+    "t": "wayback",
+    "u": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Internet Wayback Machine",
+    "t": "waybackmachine",
+    "u": "http://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "d": "www.wayfair.ca",
+    "s": "Wayfair.ca",
+    "t": "wayfairca",
+    "u": "https://www.wayfair.ca/keyword.php?keyword={{{s}}}&command=dosearch&new_keyword_search=true"
+  },
+  {
+    "d": "www.wayfair.com",
+    "s": "Wayfair",
+    "t": "wayfair",
+    "u": "http://www.wayfair.com/keyword.php?keyword={{{s}}}"
+  },
+  {
+    "d": "wayne.edu",
+    "s": "Wayne State University",
+    "t": "wayne",
+    "u": "https://wayne.edu/search/?type=all&q={{{s}}}"
+  },
+  {
+    "d": "az.wikipedia.org",
+    "s": "Vikipediya (AZ)",
+    "t": "waz",
+    "u": "https://az.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "wb3.io",
+    "s": "web3data",
+    "t": "wb3",
+    "u": "https://wb3.io/{{{s}}}"
+  },
+  {
+    "d": "www.wba.co.uk",
+    "s": "West Bromwich Albion F.C.",
+    "t": "wbafc",
+    "u": "https://www.wba.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "de.wikibooks.org",
+    "s": "Wikibooks De",
+    "t": "wbde",
+    "u": "https://de.wikibooks.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/worldbuilding",
+    "t": "wbd",
+    "u": "https://www.reddit.com/r/worldbuilding/?q={{{s}}}&restrict_sr=on&include_over_18=on&sort=relevance&t=all"
+  },
+  {
+    "d": "bg.wikipedia.org",
+    "s": "Wikipedia (BG)",
+    "t": "wbg",
+    "u": "https://bg.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "mywiki.wooledge.org",
+    "s": "Wooledge - Greg's Wiki",
+    "t": "wbgw",
+    "u": "https://mywiki.wooledge.org/EnglishFrontPage?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "d": "boilerinvasion.org",
+    "s": "Westside Boiler Invasion",
+    "t": "wbi",
+    "u": "http://boilerinvasion.org/search?search={{{s}}}"
+  },
+  {
+    "d": "ja.wikibooks.org",
+    "s": "Wikibooks JP",
+    "t": "wbj",
+    "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}&title=特別%3A検索&go=表示"
+  },
+  {
+    "d": "ml.wikibooks.org",
+    "s": "Wikibooks Malayalam",
+    "t": "wbml",
+    "u": "https://ml.wikibooks.org/wiki/special:search/{{{s}}}"
+  },
+  {
+    "d": "webmasterparadies.de",
+    "s": "Webmasterparadies.de",
+    "t": "wbmp",
+    "u": "https://webmasterparadies.de/?s={{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "WayBack Machine",
+    "t": "wbm",
+    "u": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "d": "br.wikipedia.org",
+    "s": "Wikipedia Brezhoneg",
+    "t": "wbr",
+    "u": "https://br.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "pt.wikipedia.org",
+    "s": "Wikipedia (BR)",
+    "t": "w.br",
+    "u": "https://pt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Wayback Maschine",
+    "t": "wbs",
+    "u": "https://web.archive.org/save/*/{{{s}}}"
+  },
+  {
+    "d": "www.wbur.org",
+    "s": "WBUR",
+    "t": "wbur",
+    "u": "http://www.wbur.org/search?q={{{s}}}"
+  },
+  {
+    "d": "en.wikibooks.org",
+    "s": "Wikibooks",
+    "t": "wb",
+    "u": "http://en.wikibooks.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.worldcubeassociation.org",
+    "s": "World Cube Association Championships",
+    "t": "wcach",
+    "u": "https://www.worldcubeassociation.org/competitions?utf8=%E2%9C%93&region={{{s}}}&search=&state=present&year=all+years&display=list"
+  },
+  {
+    "d": "www.wikicanaan.org",
+    "s": "Wiki Canaan",
+    "t": "wcanaan",
+    "u": "http://www.wikicanaan.org/wiki/bienvenue?do=search&id={{{s}}}&fulltext=Recherche"
+  },
+  {
+    "d": "ca.wikipedia.org",
+    "s": "Viquipèdia",
+    "t": "wcat",
+    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ca.wikipedia.org",
+    "s": "Wikipedia (CA)",
+    "t": "wca",
+    "u": "https://ca.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "catalog.wccls.org",
+    "s": "Washington County Cooperative Library Services",
+    "t": "wccls",
+    "u": "http://catalog.wccls.org/polaris/search/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "d": "www.worldcat.org",
+    "s": "World Cat Identities",
+    "t": "wci",
+    "u": "http://www.worldcat.org/identities/find?fullName={{{s}}}"
+  },
+  {
+    "d": "www.warcraftlogs.com",
+    "s": "Warcraftlogs",
+    "t": "wcl",
+    "u": "https://www.warcraftlogs.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "spark.apache.org",
+    "s": "PySpark documentation",
+    "t": "wcme",
+    "u": "https://spark.apache.org/docs/latest/api/python/search.html?q={{{s}}}"
+  },
+  {
+    "d": "whocallsme.com",
+    "s": "WhoCallsMe",
+    "t": "wcm",
+    "u": "http://whocallsme.com/nb/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.whitcoulls.co.nz",
+    "s": "Whitcoulls",
+    "t": "wcoulls",
+    "u": "https://www.whitcoulls.co.nz/search?q={{{s}}}"
+  },
+  {
+    "d": "cs.wikipedia.org",
+    "s": "Wikipedia (Cs)",
+    "t": "wcs",
+    "u": "https://cs.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.weather.com",
+    "s": "The Weather Channel",
+    "t": "wc",
+    "u": "http://www.weather.com/search/enhancedlocalsearch?where={{{s}}}&loctypes=1/5/9/11/13/19/"
+  },
+  {
+    "d": "whocalled.us",
+    "s": "Who Called Us",
+    "t": "wcu",
+    "u": "http://whocalled.us/lookup/{{{s}}}"
+  },
+  {
+    "d": "cy.wikipedia.org",
+    "s": "Wikipedia (CY)",
+    "t": "wcy",
+    "u": "https://cy.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "cs.wikipedia.org",
+    "s": "Czech Wikipedia",
+    "t": "wcz",
+    "u": "https://cs.wikipedia.org/w/index.php?search={{{s}}}&title=Speci%C3%A1ln%C3%AD%3AHled%C3%A1n%C3%AD&go=J%C3%ADt+na"
+  },
+  {
+    "d": "da.wikipedia.org",
+    "s": "Wikipedia (DA)",
+    "t": "wda",
+    "u": "http://da.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "Wikipedia (DE)",
+    "t": "wde",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "Wikipedia DE",
+    "t": "w.de",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "es.pokemon.wikia.com",
+    "s": "WikiDex",
+    "t": "wdex",
+    "u": "http://es.pokemon.wikia.com/wiki/Especial:Buscar?query={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "wikipedia.org Band Discography",
+    "t": "wdg",
+    "u": "http://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography&go=Go"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "wiktionary",
+    "t": "wdic",
+    "u": "https://en.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "da.wikipedia.org",
+    "s": "Wikipedia (DK)",
+    "t": "wdk",
+    "u": "https://da.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference",
+    "t": "wdr",
+    "u": "http://www.wordreference.com/es/translation.asp?tranword={{{s}}} "
+  },
+  {
+    "d": "www.whatdotheyknow.com",
+    "s": "What Do They Know",
+    "t": "wdtk",
+    "u": "https://www.whatdotheyknow.com/search/{{{s}}}/all"
+  },
+  {
+    "d": "wdtprs.com",
+    "s": "Fr. Z's Blog (Wdtprs.com)",
+    "t": "wdtprs",
+    "u": "http://wdtprs.com/blog/?s={{{s}}}"
+  },
+  {
+    "d": "www.wikidata.org",
+    "s": "Wikidata",
+    "t": "wdt",
+    "u": "https://www.wikidata.org/w/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.wikidata.org",
+    "s": "Wikidata",
+    "t": "wd",
+    "u": "https://www.wikidata.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "es.pokemon.wikia.com",
+    "s": "Wikidex",
+    "t": "wdx",
+    "u": "http://es.pokemon.wikia.com/wiki/WikiDex={{{s}}}"
+  },
+  {
+    "d": "weather.weatherbug.com",
+    "s": "WeatherBug",
+    "t": "weatherbug",
+    "u": "http://weather.weatherbug.com/Common/SearchResults.html?loc={{{s}}}&nav_section=1&zcode=z6169&lang_id=en-us&country=US&x=0&y=0&is_search=true"
+  },
+  {
+    "d": "www.weather.com",
+    "s": "The Weather Channel",
+    "t": "weatherchannel",
+    "u": "http://www.weather.com/search/enhancedlocalsearch?where={{{s}}}&loctypes=1/5/9/11/13/19/"
+  },
+  {
+    "d": "weather.gc.ca",
+    "s": "Environment Canada Weather Office",
+    "t": "weathergc",
+    "u": "https://weather.gc.ca/city/jump_e.html?city={{{s}}}"
+  },
+  {
+    "d": "weatherspark.com",
+    "s": "Weather Spark",
+    "t": "weatherspark",
+    "u": "http://weatherspark.com/#!dashboard;q={{{s}}}"
+  },
+  {
+    "d": "www.weather.com",
+    "s": "Weather.com",
+    "t": "weather",
+    "u": "http://www.weather.com/search/enhancedlocalsearch?where={{{s}}}&loctypes=1/5/9/11/13/19/&from=hdr"
+  },
+  {
+    "d": "www.weatherforyou.com",
+    "s": "Weather For You",
+    "t": "weathforyou",
+    "u": "https://www.weatherforyou.com/reports/index.php?forecast=zandh&pands={{{s}}}&Submit=Get+Weather"
+  },
+  {
+    "d": "www.websters1913.com",
+    "s": "Webster's Dictionary (1913) !websters Webster's Dictionary 1828 - Online Edition !owd Merriam-Webster Dictionary !mw Merriam-Webster Pronunciation !say Merriam-Webster's Learner's Dictionary !mwl Webster's Revised Unabridged Dictionary (1913)",
+    "t": "web1913",
+    "u": "https://www.websters1913.com/words/{{{s}}}"
+  },
+  {
+    "d": "web2py.com",
+    "s": "Web2Py",
+    "t": "web2py",
+    "u": "http://web2py.com/books/default/search/29?search={{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Web Archive",
+    "t": "webarchive",
+    "u": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "d": "webbco.us",
+    "s": "Webb Companies USA",
+    "t": "webbco",
+    "u": "http://webbco.us/search.php?q={{{s}}}"
+  },
+  {
+    "d": "webbkoll.dataskydd.net",
+    "s": "Webbkoll",
+    "t": "webbkoll",
+    "u": "https://webbkoll.dataskydd.net/en/results?url={{{s}}}"
+  },
+  {
+    "d": "www.webbspy.com",
+    "s": "webbspy.com",
+    "t": "webbspy",
+    "u": "https://www.webbspy.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.webcams.travel",
+    "s": "webcams.travel",
+    "t": "webcams",
+    "u": "http://www.webcams.travel/search/{{{s}}}"
+  },
+  {
+    "d": "www.webcomponents.org",
+    "s": "http://www.webcomponents.org",
+    "t": "webcomp",
+    "u": "https://www.webcomponents.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.webcomponents.org",
+    "s": "webcomponents.org",
+    "t": "webcomponents",
+    "u": "https://www.webcomponents.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.webcrawler.com",
+    "s": "http://www.webcrawler.com/",
+    "t": "webcrawler",
+    "u": "http://www.webcrawler.com/search/web?fcoid=417&fcop=topnav&fpid=2&aid=3ebe8f19-0a9d-425b-a3ff-9d59e6c12c5e&ridx=2&q={{{s}}}&ql=&ss=t"
+  },
+  {
+    "d": "www.webdesignerdepot.com",
+    "s": "Web Designer Depot",
+    "t": "webdesignerdepot",
+    "u": "http://www.webdesignerdepot.com/?q={{{s}}}"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "WebExtension Docs",
+    "t": "webext",
+    "u": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=addons"
+  },
+  {
+    "d": "www.webhallen.com",
+    "s": "Webhallen",
+    "t": "webhallen",
+    "u": "https://www.webhallen.com/se/search?searchString={{{s}}}&sort=searchRating"
+  },
+  {
+    "d": "ejje.weblio.jp",
+    "s": "weblio 英和辞典",
+    "t": "weblioe",
+    "u": "http://ejje.weblio.jp/content/{{{s}}}"
+  },
+  {
+    "d": "www.weblio.jp",
+    "s": "Weblio",
+    "t": "weblioj",
+    "u": "http://www.weblio.jp/content/{{{s}}}"
+  },
+  {
+    "d": "thesaurus.weblio.jp",
+    "s": "Weblio",
+    "t": "webliot",
+    "u": "http://thesaurus.weblio.jp/content/{{{s}}}"
+  },
+  {
+    "d": "www.weblio.jp",
+    "s": "Weblio",
+    "t": "weblio",
+    "u": "http://www.weblio.jp/content/{{{s}}}"
+  },
+  {
+    "d": "www.webmd.com",
+    "s": "WebMD",
+    "t": "webmd",
+    "u": "http://www.webmd.com/search/search_results/default.aspx?query={{{s}}}"
+  },
+  {
+    "d": "webmineral.com",
+    "s": "Webmineral",
+    "t": "webmin",
+    "u": "http://webmineral.com/cgi-bin/search/search.pl?sitesearch=&Terms={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.webnovel.com",
+    "s": "Webnovel",
+    "t": "webnovel",
+    "u": "https://www.webnovel.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.mywot.com",
+    "s": "Web of Trust",
+    "t": "weboftrust",
+    "u": "https://www.mywot.com/en/scorecard/{{{s}}}"
+  },
+  {
+    "d": "www.webopedia.com",
+    "s": "Webopedia",
+    "t": "webo",
+    "u": "https://www.webopedia.com/sgsearch/results?q={{{s}}}"
+  },
+  {
+    "d": "webref.ru",
+    "s": "WebReference",
+    "t": "webref",
+    "u": "https://webref.ru/search/?s={{{s}}}&cx=partner-pub-0708135098984815%3A9970767379&cof=FORID%3A10&ie=UTF-8"
+  },
+  {
+    "d": "web.stagram.com",
+    "s": "Webstagram",
+    "t": "webstagram",
+    "u": "http://web.stagram.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.webstatsdomain.com",
+    "s": "webstatsdomain",
+    "t": "webstats",
+    "u": "http://www.webstatsdomain.com/?q={{{s}}} "
+  },
+  {
+    "d": "websta.me",
+    "s": "Websta",
+    "t": "websta",
+    "u": "http://websta.me/search/{{{s}}} "
+  },
+  {
+    "d": "www.webster-dictionary.org",
+    "s": "Online Dictionary and Translations",
+    "t": "websters",
+    "u": "http://www.webster-dictionary.org/definition/{{{s}}}"
+  },
+  {
+    "d": "www.webstore.com",
+    "s": "Webstore",
+    "t": "webstore",
+    "u": "http://www.webstore.com/search.php?option=basic_search&basic_search={{{s}}}&form_basic_search=Search"
+  },
+  {
+    "d": "www.webstaurantstore.com",
+    "s": "WebstaurantStore",
+    "t": "webst",
+    "u": "https://www.webstaurantstore.com/search/{{{s}}}.html"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Webtender",
+    "t": "webtender",
+    "u": "http://duckduckgo.com/?q=site%3Awebtender.com+{{{s}}}"
+  },
+  {
+    "d": "www.webtoons.com",
+    "s": "https://www.webtoons.com",
+    "t": "webtoon",
+    "u": "https://www.webtoons.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.webtoons.com",
+    "s": "Line Webtoon",
+    "t": "webtoons",
+    "u": "https://www.webtoons.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.webutations.org",
+    "s": "Webutation",
+    "t": "webutation",
+    "u": "http://www.webutations.org/go/review/{{{s}}}"
+  },
+  {
+    "d": "www.webopedia.com",
+    "s": "Webopedia",
+    "t": "web",
+    "u": "https://www.webopedia.com/sgsearch/results?q={{{s}}}"
+  },
+  {
+    "d": "webxicon.org",
+    "s": "Webxicon -> English",
+    "t": "webxiconen",
+    "u": "http://webxicon.org/search.php?l=-1&l2=3&q={{{s}}}"
+  },
+  {
+    "d": "webxicon.org",
+    "s": "Webxicon -> Finnish",
+    "t": "webxiconfi",
+    "u": "http://webxicon.org/search.php?l=-1&l2=17&q={{{s}}}"
+  },
+  {
+    "d": "webxicon.org",
+    "s": "Webxicon -> Swedish",
+    "t": "webxiconse",
+    "u": "http://webxicon.org/search.php?l=-1&l2=15&q={{{s}}}"
+  },
+  {
+    "d": "webxicon.org",
+    "s": "Webxicon -> Finnish",
+    "t": "webxiconsu",
+    "u": "http://webxicon.org/search.php?l=-1&l2=17&q={{{s}}}"
+  },
+  {
+    "d": "webxicon.org",
+    "s": "Webxicon -> Swedish",
+    "t": "webxiconsv",
+    "u": "http://webxicon.org/search.php?l=-1&l2=15&q={{{s}}}"
+  },
+  {
+    "d": "webxicon.org",
+    "s": "webxicon",
+    "t": "webxicon",
+    "u": "http://webxicon.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "week",
+    "u": "https://duckduckgo.com/?q={{{s}}}&df=w"
+  },
+  {
+    "d": "www.weeronline.nl",
+    "s": "Weeronline",
+    "t": "weeronline",
+    "u": "http://www.weeronline.nl/Go/Search/SearchResults?searchCriteria={{{s}}}&pageIndex=0&searchAction=WeatherInformation"
+  },
+  {
+    "d": "weezerpedia.com",
+    "s": "Weezerpedia",
+    "t": "weezer",
+    "u": "http://weezerpedia.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wegmans.com",
+    "s": "Wegmans",
+    "t": "wegmans",
+    "u": "https://www.wegmans.com/search.html?searchKey={{{s}}}"
+  },
+  {
+    "d": "weheartit.com",
+    "s": "We Heart It",
+    "t": "weheartit",
+    "u": "http://weheartit.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.wehkamp.nl",
+    "s": "Wehkamp",
+    "t": "wehkamp",
+    "u": "http://www.wehkamp.nl/Winkelen/SearchOverview.aspx?N=186&Nty=1&Ntk=ART&VIEW=Grid&Ntt={{{s}}}"
+  },
+  {
+    "d": "s.weibo.com",
+    "s": "Sina Weibo",
+    "t": "weibo",
+    "u": "http://s.weibo.com/weibo/{{{s}}}?frm=opensearch"
+  },
+  {
+    "d": "weixin.sogou.com",
+    "s": "weixin",
+    "t": "weixin",
+    "u": "https://weixin.sogou.com/weixin?type=2&query={{{s}}}"
+  },
+  {
+    "d": "job.weladee.com",
+    "s": "Job Weladee",
+    "t": "weladee",
+    "u": "https://job.weladee.com/?q={{{s}}}"
+  },
+  {
+    "d": "el.wikipedia.org",
+    "s": "Greek Wikipedia",
+    "t": "wel",
+    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.welklidwoord.nl",
+    "s": "welk lidwoord",
+    "t": "welklidwoord",
+    "u": "https://www.welklidwoord.nl/{{{s}}}"
+  },
+  {
+    "d": "www.weltbild.de",
+    "s": "www.weltbild.de",
+    "t": "weltbild",
+    "u": "https://www.weltbild.de/suche?q={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "wordreference ",
+    "t": "wenfr",
+    "u": "http://www.wordreference.com/enfr/{{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia (English)",
+    "t": "w.en",
+    "u": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia (EN)",
+    "t": "wen",
+    "u": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "eo.wikipedia.org",
+    "s": "Wikipedia (EO)",
+    "t": "weo",
+    "u": "http://eo.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.werstreamt.es",
+    "s": "WerStreamt.es",
+    "t": "werstreamt",
+    "u": "https://www.werstreamt.es/filme-serien?q={{{s}}}"
+  },
+  {
+    "d": "www.werstreamt.es",
+    "s": "werstreamt.es",
+    "t": "wer",
+    "u": "https://www.werstreamt.es/filme-serien?q={{{s}}}&action_results=suchen"
+  },
+  {
+    "d": "wesleyan.summon.serialssolutions.com",
+    "s": "Wesleyan Library OneSearch",
+    "t": "wes1",
+    "u": "http://wesleyan.summon.serialssolutions.com/search?utf8=✓&s.q={{{s}}}"
+  },
+  {
+    "d": "wesleyan.summon.serialssolutions.com",
+    "s": "Wesleyan Library OneSearch",
+    "t": "weslib",
+    "u": "http://wesleyan.summon.serialssolutions.com/search?utf8=✓&s.q={{{s}}}"
+  },
+  {
+    "d": "www.westelm.com",
+    "s": "West Elm",
+    "t": "westelm",
+    "u": "http://www.westelm.com/search/results.html?words={{{s}}}"
+  },
+  {
+    "d": "www.wesleyan.edu",
+    "s": "Wesleyan University",
+    "t": "wesu",
+    "u": "http://www.wesleyan.edu/search/search-results.html?cx=001254463385620737445%3Anbar83le1bc&cof=FORID%3A11&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "es.wikipedia.org",
+    "s": "Wikipedia (ES)",
+    "t": "wes",
+    "u": "http://es.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia in Spanish",
+    "t": "w-es",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wetten.overheid.nl",
+    "s": "Nederlandse wet- en regelgeving",
+    "t": "wetten",
+    "u": "http://wetten.overheid.nl/zoeken/rs/2,3,4/titel/{{{s}}}/"
+  },
+  {
+    "d": "www.wetter.de",
+    "s": "wetter.de",
+    "t": "wetterde",
+    "u": "http://www.wetter.de/suche.html?search={{{s}}}"
+  },
+  {
+    "d": "www.wetteronline.de",
+    "s": "Wetter Online",
+    "t": "wetteronline",
+    "u": "https://www.wetteronline.de/wetter/{{{s}}}"
+  },
+  {
+    "d": "www.wetter.com",
+    "s": "wetter.com",
+    "t": "wetter",
+    "u": "http://www.wetter.com/suche/?q={{{s}}}"
+  },
+  {
+    "d": "eu.wikipedia.org",
+    "s": "Wikipedia Euskaraz (in Basque)",
+    "t": "weus",
+    "u": "https://eu.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "eu.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "weu",
+    "u": "https://eu.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "we",
+    "u": "http://en.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "fa.wikipedia.org",
+    "s": "Persian Wikipedia",
+    "t": "wfa",
+    "u": "https://fa.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.webforditas.hu",
+    "s": "Webfordítás de-hu",
+    "t": "wfdehu",
+    "u": "http://www.webforditas.hu/szotar.php?S={{{s}}}&l1=de&l2=hu"
+  },
+  {
+    "d": "www.weltfussball.de",
+    "s": "weltfussball.de",
+    "t": "wfdep",
+    "u": "http://www.weltfussball.de/suche/?q={{{s}}}&kind=1"
+  },
+  {
+    "d": "www.weltfussball.de",
+    "s": "weltfussball.de",
+    "t": "wfdet",
+    "u": "http://www.weltfussball.de/suche/?q={{{s}}}&kind=2"
+  },
+  {
+    "d": "de.warframe.wikia.com",
+    "s": "Warframe Wiki (DE)",
+    "t": "wfde",
+    "u": "http://de.warframe.wikia.com/wiki/Spezial:Suche?search={{{s}}}"
+  },
+  {
+    "d": "www.wikifeet.com",
+    "s": "wikiFeet",
+    "t": "wfeet",
+    "u": "http://www.wikifeet.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.webforditas.hu",
+    "s": "Webfordítás en-hu",
+    "t": "wfenhu",
+    "u": "http://www.webforditas.hu/szotar.php?S={{{s}}}&l1=en&l2=hu"
+  },
+  {
+    "d": "warframe.wikia.com",
+    "s": "WARFRAME Wiki",
+    "t": "wfen",
+    "u": "http://warframe.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "fr.wikipedia.org",
+    "s": "fr.wikipedia.org",
+    "t": "wf",
+    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.webforditas.hu",
+    "s": "Webfordítás hu-de",
+    "t": "wfhude",
+    "u": "http://www.webforditas.hu/szotar.php?S={{{s}}}&l1=hu&l2=de"
+  },
+  {
+    "d": "www.webforditas.hu",
+    "s": "Webfordítás hu-en",
+    "t": "wfhuen",
+    "u": "http://www.webforditas.hu/szotar.php?S= {{{s}}}&l1=hu&l2=en"
+  },
+  {
+    "d": "fi.wikipedia.org",
+    "s": "Wikipedia Finland",
+    "t": "wfi",
+    "u": "https://fi.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.wholefoodsmarket.com",
+    "s": "Whole Foods Recipes",
+    "t": "wfm",
+    "u": "http://www.wholefoodsmarket.com/site_search/{{{s}}} "
+  },
+  {
+    "d": "fo.wikipedia.org",
+    "s": "Faroese Wikipedia",
+    "t": "wfo",
+    "u": "http://fo.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.worldfootball.net",
+    "s": "WorldFootball",
+    "t": "wfootball",
+    "u": "http://www.worldfootball.net/search/?q={{{s}}}&kind=1"
+  },
+  {
+    "d": "warframe.wikia.com",
+    "s": "Warframe",
+    "t": "wframe",
+    "u": "http://warframe.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference",
+    "t": "wfren",
+    "u": "http://www.wordreference.com/fren/{{{s}}}"
+  },
+  {
+    "d": "fr.wikipedia.org",
+    "s": "Wikipedia (FR)",
+    "t": "wfr",
+    "u": "http://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "warframe.market",
+    "s": "warframe.market",
+    "t": "wft",
+    "u": "https://warframe.market/items/{{{s}}}"
+  },
+  {
+    "d": "warframe.wikia.com",
+    "s": "WARFRAME Wiki",
+    "t": "wfwiki",
+    "u": "http://warframe.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "warframe.wikia.com",
+    "s": "WARFRAME Wiki",
+    "t": "wfw",
+    "u": "http://warframe.wikia.com/wiki/Special:WikiaSearch?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "fy.wikipedia.org",
+    "s": "Frisian Wikipedia",
+    "t": "wfy",
+    "u": "https://fy.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ga.wikipedia.org",
+    "s": "Irish Wikipedia",
+    "t": "wga",
+    "u": "https://ga.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "gl.wikipedia.org",
+    "s": "Galipedia",
+    "t": "wgal",
+    "u": "https://gl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wgbhnews.org",
+    "s": "WGBH News",
+    "t": "wgbh",
+    "u": "http://wgbhnews.org/search/google/{{{s}}} "
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "wikipedia german",
+    "t": "wge",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "gl.wikipedia.org",
+    "s": "Wikipedia en Galego",
+    "t": "wgl",
+    "u": "https://gl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "forecast.weather.gov",
+    "s": "forecast.weather.gov",
+    "t": "wgov",
+    "u": "http://forecast.weather.gov/zipcity.php?inputstring={{{s}}} "
+  },
+  {
+    "d": "el.wikipedia.org",
+    "s": "Wikipedia (GR)",
+    "t": "wgr",
+    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}} &go=Go&go=Go&go=Go"
+  },
+  {
+    "d": "www.walgreens.com",
+    "s": "Walgreens",
+    "t": "wgs",
+    "u": "http://www.walgreens.com/search/results.jsp?Ntt={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.wunderground.com",
+    "s": "WunderGround",
+    "t": "wg",
+    "u": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query={{{s}}}"
+  },
+  {
+    "d": "wiki.wargaming.net",
+    "s": "Wargaming.net Wiki",
+    "t": "wgw",
+    "u": "http://wiki.wargaming.net/en/index.php?search={{{s}}}"
+  },
+  {
+    "d": "store.whale.naver.com",
+    "s": "Whale browser Store",
+    "t": "whale",
+    "u": "https://store.whale.naver.com/search/{{{s}}}"
+  },
+  {
+    "d": "whatcms.org",
+    "s": "WhatCMS",
+    "t": "whatcms",
+    "u": "http://whatcms.org/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "what if?",
+    "t": "whatif",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:what-if.xkcd.com"
+  },
+  {
+    "d": "whatis.techtarget.com",
+    "s": "WhatIs.com",
+    "t": "whatis",
+    "u": "http://whatis.techtarget.com/wsearchResults/1,290214,sid9,00.html?query={{{s}}}"
+  },
+  {
+    "d": "www.whatruns.com",
+    "s": "whatruns",
+    "t": "whatruns",
+    "u": "https://www.whatruns.com/website/{{{s}}}"
+  },
+  {
+    "d": "www.vocabulary.com",
+    "s": "vocabulary.com",
+    "t": "whats",
+    "u": "https://www.vocabulary.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "whatupintown.com",
+    "s": "What up in town",
+    "t": "whatupintown",
+    "u": "https://whatupintown.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "classic.wowhead.com",
+    "s": "WoWHead Classic",
+    "t": "whc",
+    "u": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "de.wikihow.com",
+    "s": "Wikihow DE",
+    "t": "whde",
+    "u": "https://de.wikihow.com/wikiHowTo?search={{{s}}}:"
+  },
+  {
+    "d": "es.wikihow.com",
+    "s": "Wikihow Español",
+    "t": "whes",
+    "u": "https://es.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "d": "he.wikipedia.org",
+    "s": "Wikipedia (HE)",
+    "t": "whe",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "whfoods.org",
+    "s": "The World's Healthiest Foods",
+    "t": "whfoods",
+    "u": "http://whfoods.org/sitesearch.php?sstr={{{s}}}&how=1"
+  },
+  {
+    "d": "fr.wikihow.com",
+    "s": "wikiHow France",
+    "t": "whfr",
+    "u": "https://fr.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "d": "www.webhostinghub.com",
+    "s": "Web Hosting Hub",
+    "t": "whh",
+    "u": "https://www.webhostinghub.com/help/search?searchword={{{s}}}"
+  },
+  {
+    "d": "www.getwhichit.com",
+    "s": "Whichit",
+    "t": "whichit",
+    "u": "https://www.getwhichit.com/whichitapp.html#!/Search/{{{s}}}"
+  },
+  {
+    "d": "search.which.co.uk",
+    "s": "Which",
+    "t": "which",
+    "u": "https://search.which.co.uk/search?w={{{s}}}"
+  },
+  {
+    "d": "www.wordhippo.com",
+    "s": "Wordhippo",
+    "t": "whip",
+    "u": "https://www.wordhippo.com/what-is/another-word-for/{{{s}}}.html"
+  },
+  {
+    "d": "forums.whirlpool.net.au",
+    "s": "Whirlpool Forums",
+    "t": "whirlpool",
+    "u": "http://forums.whirlpool.net.au/forum/?action=search&q={{{s}}}"
+  },
+  {
+    "d": "www.whisky.de",
+    "s": "whisky DE",
+    "t": "whiskyde",
+    "u": "https://www.whisky.de/shop/index.php?&cl=search&searchparam={{{s}}}"
+  },
+  {
+    "d": "whisper.sh",
+    "s": "Whisper.sh",
+    "t": "whisper",
+    "u": "http://whisper.sh/search?q={{{s}}}"
+  },
+  {
+    "d": "www.archives.nd.edu",
+    "s": "Whitaker's Words English",
+    "t": "whitakers",
+    "u": "http://www.archives.nd.edu/cgi-bin/wordz.pl?english={{{s}}}"
+  },
+  {
+    "d": "www.whitetailproperties.com",
+    "s": "Whitetail Properties",
+    "t": "whitetailproperties",
+    "u": "https://www.whitetailproperties.com/hunting-land/filtered-search?search_mode=all&keywords={{{s}}}"
+  },
+  {
+    "d": "www.archives.nd.edu",
+    "s": "Whitaker's Words Latin",
+    "t": "whitl",
+    "u": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword={{{s}}}"
+  },
+  {
+    "d": "hi.wikipedia.org",
+    "s": "Wikipedia (HI)",
+    "t": "whi",
+    "u": "http://hi.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "forums.whirlpool.net.au",
+    "s": "http://whirlpool.net.au/",
+    "t": "whlp",
+    "u": "https://forums.whirlpool.net.au/forum/?action=search&q={{{s}}}"
+  },
+  {
+    "d": "nl.wikihow.com",
+    "s": "wikiHow Dutch",
+    "t": "whnl",
+    "u": "https://nl.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "d": "www.whoishostingthis.com",
+    "s": "Who Is Hosting This?",
+    "t": "whohosts",
+    "u": "http://www.whoishostingthis.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.who.int",
+    "s": "World Health Organization",
+    "t": "whoint",
+    "u": "https://www.who.int/search?query={{{s}}}"
+  },
+  {
+    "d": "www.whoisbg.com",
+    "s": "whoisbg.com",
+    "t": "whoisbg",
+    "u": "http://www.whoisbg.com/?domain={{{s}}}"
+  },
+  {
+    "d": "registro.br",
+    "s": "Registro.br",
+    "t": "whoisbr",
+    "u": "https://registro.br/cgi-bin/whois/?qr={{{s}}}"
+  },
+  {
+    "d": "www.whois.com",
+    "s": "Whois.com",
+    "t": "whois.com",
+    "u": "http://www.whois.com/search.php?query={{{s}}}"
+  },
+  {
+    "d": "whois.domaintools.com",
+    "s": "Domaintools Whois",
+    "t": "whois",
+    "u": "https://whois.domaintools.com/{{{s}}}"
+  },
+  {
+    "d": "whoiz.herokuapp.com",
+    "s": "Heroku Whoiz",
+    "t": "whoizh",
+    "u": "http://whoiz.herokuapp.com/lookup?url={{{s}}}"
+  },
+  {
+    "d": "kkkkkkkkkk63ava6.onion",
+    "s": "Whonix",
+    "t": "whonix",
+    "u": "http://kkkkkkkkkk63ava6.onion/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "who.pm",
+    "s": "who.pm",
+    "t": "whopm",
+    "u": "https://who.pm/{{{s}}}"
+  },
+  {
+    "d": "whosampled.com",
+    "s": "Who Sampled",
+    "t": "whosampled",
+    "u": "http://whosampled.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "whoscall.com",
+    "s": "Whoscall TW",
+    "t": "whoscalltw",
+    "u": "https://whoscall.com/en-US/tw/{{{s}}}"
+  },
+  {
+    "d": "www.whoscored.com",
+    "s": "WhoScored",
+    "t": "whoscored",
+    "u": "http://www.whoscored.com/Search/?t={{{s}}}"
+  },
+  {
+    "d": "es.wikihow.com",
+    "s": "wikiHow Español",
+    "t": "whowes",
+    "u": "http://es.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "d": "www.who.is",
+    "s": "who.is",
+    "t": "who",
+    "u": "http://www.who.is/whois/{{{s}}} "
+  },
+  {
+    "d": "www.wikihow.com",
+    "s": "wikiHow",
+    "t": "whow",
+    "u": "http://www.wikihow.com/Special:LSearch?search={{{s}}}"
+  },
+  {
+    "d": "hr.wikipedia.org",
+    "s": "Wikipedija",
+    "t": "whr",
+    "u": "http://hr.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.who-hosts-this.com",
+    "s": "Who Hosts This Site?",
+    "t": "wht",
+    "u": "https://www.who-hosts-this.com/?s={{{s}}}"
+  },
+  {
+    "d": "hu.wikipedia.org",
+    "s": "Wikipedia Hungary",
+    "t": "whu",
+    "u": "https://hu.wikipedia.org/w/index.php?search={{{s}}}&button=&title=Speci%C3%A1lis%3AKeres%C3%A9s"
+  },
+  {
+    "d": "www.wikihow.com",
+    "s": "wikiHow",
+    "t": "wh",
+    "u": "http://www.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "d": "wikihow.com",
+    "s": "wikiHow",
+    "t": "whw",
+    "u": "http://wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "d": "hy.wikipedia.org",
+    "s": "Armenian Wikipedia (HY)",
+    "t": "w-hy",
+    "u": "https://hy.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wiki-aventurica.de",
+    "s": "WikiAventurica (de)",
+    "t": "wia",
+    "u": "http://www.wiki-aventurica.de/index.php?title=Spezial:Suche&search={{{s}}}"
+  },
+  {
+    "d": "wiby.me",
+    "s": "Wiby",
+    "t": "wiby",
+    "u": "https://wiby.me/?q={{{s}}}"
+  },
+  {
+    "d": "www.wickes.co.uk",
+    "s": "Wickes",
+    "t": "wickes",
+    "u": "https://www.wickes.co.uk/search?text={{{s}}}"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wictionary",
+    "t": "wictionary",
+    "u": "https://en.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "id.wikipedia.org",
+    "s": "Wikipedia (ID)",
+    "t": "wid",
+    "u": "https://id.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wie-sagt-man-noch.de",
+    "s": "wie-sagt-man-noch.de",
+    "t": "wie",
+    "u": "https://www.wie-sagt-man-noch.de/synonyme/{{{s}}}.html"
+  },
+  {
+    "d": "fi.wikipedia.org",
+    "s": "Wikipedia-FI",
+    "t": "wi-fi",
+    "u": "http://fi.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "fr.wiktionary.org",
+    "s": "Wiktionary (Français)",
+    "t": "wifr",
+    "u": "https://fr.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.wiggle.co.uk",
+    "s": "wiggle",
+    "t": "wiggle",
+    "u": "http://www.wiggle.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "www.whoishostingthis.com",
+    "s": "WhoIsHostingThis",
+    "t": "wiht",
+    "u": "http://www.whoishostingthis.com/?q={{{s}}}"
+  },
+  {
+    "d": "answers.wikia.com",
+    "s": "WikiAnswers",
+    "t": "wikianswers",
+    "u": "http://answers.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns112=1&ns500=1&ns502=1"
+  },
+  {
+    "d": "www.wikiarms.com",
+    "s": "WikiArms",
+    "t": "wikiarms",
+    "u": "http://www.wikiarms.com/guns?q={{{s}}}"
+  },
+  {
+    "d": "wikiart.org",
+    "s": "WikiArt",
+    "t": "wikiart",
+    "u": "http://wikiart.org/en/search/{{{s}}}/1"
+  },
+  {
+    "d": "community-search.fandom.com",
+    "s": "Wikia",
+    "t": "wikia",
+    "u": "https://community-search.fandom.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "en.wikibooks.org",
+    "s": "Wikibooks",
+    "t": "wikibooks",
+    "u": "http://en.wikibooks.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "wikibound.info",
+    "s": "WikiBound",
+    "t": "wikibound",
+    "u": "http://wikibound.info/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "pt.wikipedia.org",
+    "s": "Wikipédia Brasil",
+    "t": "wikibr",
+    "u": "https://pt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "en.wikichip.org",
+    "s": "WikiChips",
+    "t": "wikichips",
+    "u": "https://en.wikichip.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "en.wikichip.org",
+    "s": "WikiChip",
+    "t": "wikichip",
+    "u": "https://en.wikichip.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikibooks.org",
+    "s": "Wiki Cookbook",
+    "t": "wikicook",
+    "u": "https://en.wikibooks.org/wiki/Special:Search?search={{{s}}}&prefix=Cookbook%3A&fulltext=Search+Cookbook&fulltext=Search"
+  },
+  {
+    "d": "commons.wikimedia.org",
+    "s": "Wikimedia Commons",
+    "t": "wikic",
+    "u": "https://commons.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wikidata.org",
+    "s": "Wikidata",
+    "t": "wikidata",
+    "u": "https://www.wikidata.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "wikidevi.com",
+    "s": "WikiDevi",
+    "t": "wikidevi",
+    "u": "https://wikidevi.com/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "Wikipedia DE",
+    "t": "wiki.de",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "wikide",
+    "u": "http://de.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "www.wikidex.net",
+    "s": "WikiDex",
+    "t": "wikidex",
+    "u": "https://www.wikidex.net/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia (English)",
+    "t": "wikien",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special:Search"
+  },
+  {
+    "d": "es.wikipedia.org",
+    "s": "Wikipedia (Spanish)",
+    "t": "wikies",
+    "u": "https://es.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wikifeet.com",
+    "s": "WikiFeet",
+    "t": "wikifeet",
+    "u": "https://www.wikifeet.com/search/{{{s}}}"
+  },
+  {
+    "d": "fr.wikipedia.org",
+    "s": "Wikipedia French",
+    "t": "wikifr",
+    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "en.wikifur.com",
+    "s": "WikiFur",
+    "t": "wikifur",
+    "u": "https://en.wikifur.com/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.wikihow.com",
+    "s": "wikiHow",
+    "t": "wikihow",
+    "u": "https://www.wikihow.com/wikiHowTo?search={{{s}}}"
+  },
+  {
+    "d": "wiki.hybris.com",
+    "s": "Hybris Wiki",
+    "t": "wikihybris",
+    "u": "https://wiki.hybris.com/dosearchsite.action?queryString={{{s}}}"
+  },
+  {
+    "d": "id.wikipedia.org",
+    "s": "Wikipedia Bahasa Indonesia",
+    "t": "wikiid",
+    "u": "https://id.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "wikiindex.org",
+    "s": "WikiIndex",
+    "t": "wikiindex",
+    "u": "http://wikiindex.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ko.wikipedia.org",
+    "s": "wikipedia(ko)",
+    "t": "wikiko",
+    "u": "https://ko.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "search.wikileaks.org",
+    "s": "WikiLeaks",
+    "t": "wikileaks",
+    "u": "https://search.wikileaks.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.wikilengua.org",
+    "s": "Wikilengua del español",
+    "t": "wikilengua",
+    "u": "http://www.wikilengua.org/index.php/Especial:Buscar?search={{{s}}}&fulltext=Buscar"
+  },
+  {
+    "d": "www.wikiloc.com",
+    "s": "Wikiloc",
+    "t": "wikiloc",
+    "u": "http://www.wikiloc.com/wikiloc/find.do?q={{{s}}}"
+  },
+  {
+    "d": "www.wikimapia.org",
+    "s": "Wikimapia",
+    "t": "wikimapia",
+    "u": "http://www.wikimapia.org/#search={{{s}}}"
+  },
+  {
+    "d": "fr.wikimini.org",
+    "s": "Wikimini",
+    "t": "wikimini",
+    "u": "https://fr.wikimini.org/w/index.php?search={{{s}}}&title=Sp%C3%A9cial%3ARecherche&fulltext=Rechercher"
+  },
+  {
+    "d": "wikimoon.org",
+    "s": "WikiMoon",
+    "t": "wikimoon",
+    "u": "http://wikimoon.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikinews.org",
+    "s": "Wikinews",
+    "t": "wikinews",
+    "u": "http://en.wikinews.org/w/index.php?title=Special%3ASearch&redirs=0&search={{{s}}}"
+  },
+  {
+    "d": "nl.wikipedia.org",
+    "s": "Wikipedia Nederland",
+    "t": "wikinl",
+    "u": "https://nl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wikipaintings.org",
+    "s": "wikipaintings",
+    "t": "wikipaintings",
+    "u": "http://www.wikipaintings.org/en/search/{{{s}}}/1"
+  },
+  {
+    "d": "www.wikipaintings.org",
+    "s": "wikipaintings",
+    "t": "wikipainting",
+    "u": "http://www.wikipaintings.org/en/search/{{{s}}}/1"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "Wikipedia Deutschland",
+    "t": "wikipediade",
+    "u": "http://de.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "it.wikipedia.org",
+    "s": "Wikipedia in Italiano",
+    "t": "wikipediait",
+    "u": "https://it.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "wikipedia",
+    "u": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wikipediocracy.com",
+    "s": "Wikipediocracy (blog)",
+    "t": "wikipediocracy",
+    "u": "http://wikipediocracy.com/?s={{{s}}}"
+  },
+  {
+    "d": "pl.wikipedia.org",
+    "s": "Wikipedia Polska",
+    "t": "wiki.pl",
+    "u": "https://pl.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "pt.wikipedia.org",
+    "s": "Wikipédia PT",
+    "t": "wikipt",
+    "u": "https://pt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "en.wikiquote.org",
+    "s": "Wikiquote",
+    "t": "wikiquote",
+    "u": "https://en.wikiquote.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wikirby.com",
+    "s": "Wikirby",
+    "t": "wikirby",
+    "u": "http://wikirby.com/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wikirhymer.com",
+    "s": "WikiRhymer",
+    "t": "wikirhymer",
+    "u": "http://wikirhymer.com/words/{{{s}}}"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "ru.wikipedia.org",
+    "t": "wikiru",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "sco.wikipedia.org",
+    "s": "Wikipedia-sco",
+    "t": "wikisco",
+    "u": "https://sco.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wiki.com",
+    "s": "WikiSpaces",
+    "t": "wikisearch",
+    "u": "http://www.wiki.com/results1.htm?cx=009420061493499222400%3Ae8sof1xaq-u&q={{{s}}}&btnG=Wiki+Search&cof=GIMP%3A009900%3BT%3A000000%3BALC%3AFF9900%3BGFNT%3AB0B0B0%3BLC%3A003F7D%3BBGC%3AFFFFFF%3BVLC%3A666666%3BGALT%3A36A200%3BFORID%3A9%3B&as_q=on"
+  },
+  {
+    "d": "simple.wikipedia.org",
+    "s": "Wikipedia Simple",
+    "t": "wikisimple",
+    "u": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "en.wikisource.org",
+    "s": "Wikisource",
+    "t": "wikisource",
+    "u": "https://en.wikisource.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikispecies",
+    "t": "wikispecies",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wiki.splunk.com",
+    "s": "wiki.splunk.com",
+    "t": "wiki.splunk",
+    "u": "http://wiki.splunk.com/Special:SplunkSearch/wiki?q={{{s}}}"
+  },
+  {
+    "d": "www.wikisummaries.org",
+    "s": "Wiki Summaries",
+    "t": "wikisum",
+    "u": "http://www.wikisummaries.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "curriculum.toxicology.wikispaces.net",
+    "s": "WikiTox",
+    "t": "wikitox",
+    "u": "http://curriculum.toxicology.wikispaces.net/search/view/{{{s}}}"
+  },
+  {
+    "d": "wikitravel.org",
+    "s": "Wikitravel",
+    "t": "wikitravel",
+    "u": "http://wikitravel.org/en/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "metroid.wikia.com",
+    "s": "Wikitroid",
+    "t": "wikitroid",
+    "u": "http://metroid.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "wikitravel.org",
+    "s": "Wikitravel",
+    "t": "wikit",
+    "u": "http://wikitravel.org/en/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wikiversity.org",
+    "s": "Wikiversity",
+    "t": "wikiversity",
+    "u": "https://en.wikiversity.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wiki.vg",
+    "s": "wiki.vg",
+    "t": "wikivg",
+    "u": "http://wiki.vg/index.php?search={{{s}}}"
+  },
+  {
+    "d": "vi.wikipedia.org",
+    "s": "Wikipedia Vietnamese",
+    "t": "wiki-vn",
+    "u": "https://vi.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "de.wikivoyage.org",
+    "s": "Wikivoyage (Deutsch)",
+    "t": "wikivoyagede",
+    "u": "https://de.wikivoyage.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "el.wikivoyage.org",
+    "s": "Wikivoyage (Ελληνικά)",
+    "t": "wikivoyageel",
+    "u": "https://el.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wikivoyage.org",
+    "s": "Wikivoyage (English)",
+    "t": "wikivoyageen",
+    "u": "https://en.wikivoyage.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "es.wikivoyage.org",
+    "s": "Wikivoyage (Español)",
+    "t": "wikivoyagees",
+    "u": "https://es.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "fr.wikivoyage.org",
+    "s": "Wikivoyage (français)",
+    "t": "wikivoyagefr",
+    "u": "https://fr.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "he.wikivoyage.org",
+    "s": "Wikivoyage (עברית)",
+    "t": "wikivoyagehe",
+    "u": "https://he.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "it.wikivoyage.org",
+    "s": "Wikivoyage (Italiano)",
+    "t": "wikivoyageit",
+    "u": "https://it.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "nl.wikivoyage.org",
+    "s": "Wikivoyage (Netherlands)",
+    "t": "wikivoyagenl",
+    "u": "https://nl.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "pl.wikivoyage.org",
+    "s": "Wikivoyage (Polski)",
+    "t": "wikivoyagepl",
+    "u": "https://pl.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "pt.wikivoyage.org",
+    "s": "Wikivoyage (português)",
+    "t": "wikivoyagept",
+    "u": "https://pt.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "ro.wikivoyage.org",
+    "s": "Wikivoyage (Română)",
+    "t": "wikivoyagero",
+    "u": "https://ro.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "ru.wikivoyage.org",
+    "s": "Wikivoyage (Русский)",
+    "t": "wikivoyageru",
+    "u": "https://ru.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "sv.wikivoyage.org",
+    "s": "Wikivoyage (Svenska)",
+    "t": "wikivoyagesv",
+    "u": "https://sv.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "uk.wikivoyage.org",
+    "s": "Wikivoyage (Українська)",
+    "t": "wikivoyageuk",
+    "u": "https://uk.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "vi.wikivoyage.org",
+    "s": "Wikivoyage (Tiếng Việt)",
+    "t": "wikivoyagevi",
+    "u": "https://vi.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wikivoyage.org",
+    "s": "Wikivoyage",
+    "t": "wikivoyage",
+    "u": "http://en.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "zh.wikivoyage.org",
+    "s": "Wikivoyage (中文)",
+    "t": "wikivoyagezh",
+    "u": "https://zh.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "WikiWand",
+    "t": "wikiwand",
+    "u": "http://www.wikiwand.com/en/{{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "wiki",
+    "u": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wiki.zimbra.com",
+    "s": "Zimbra wiki",
+    "t": "wikizimbra",
+    "u": "https://wiki.zimbra.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "it.wiktionary.org",
+    "s": "wikizionario",
+    "t": "wikizionario",
+    "u": "https://it.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ru.wiktionary.org",
+    "s": "Викисловарь",
+    "t": "wikru",
+    "u": "https://ru.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "br.wiktionary.org",
+    "s": "Wikeriadur",
+    "t": "wiktbr",
+    "u": "https://br.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "de.wiktionary.org",
+    "s": "Wiktionary, das freie Wörterbuch",
+    "t": "wiktde",
+    "u": "http://de.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wiktionary",
+    "t": "wikten",
+    "u": "http://en.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define"
+  },
+  {
+    "d": "eo.wiktionary.org",
+    "s": "Vikivortaro",
+    "t": "wikteo",
+    "u": "https://eo.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "es.wiktionary.org",
+    "s": "Wikcionario",
+    "t": "wiktes",
+    "u": "https://es.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "fr.wiktionary.org",
+    "s": "Wiktionnaire",
+    "t": "wiktfr",
+    "u": "https://fr.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "el.m.wiktionary.org",
+    "s": "Wikrionary(GR)",
+    "t": "wiktgr",
+    "u": "https://el.m.wiktionary.org/wiki{{{s}}}"
+  },
+  {
+    "d": "hu.wiktionary.org",
+    "s": "Wiktionary (hu)",
+    "t": "wikthu",
+    "u": "https://hu.wiktionary.org/w/index.php?search={{{s}}}&title=Speci%C3%A1lis%3AKeres%C3%A9s"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wiktionary",
+    "t": "wiktionary",
+    "u": "http://en.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define"
+  },
+  {
+    "d": "it.wiktionary.org",
+    "s": "Wikizionario, il dizionario libero",
+    "t": "wiktit",
+    "u": "http://it.wiktionary.org/w/index.php?search={{{s}}}&title=Speciale%3ARicerca"
+  },
+  {
+    "d": "ja.wiktionary.org",
+    "s": "Wiktionary (Japan)",
+    "t": "wiktja",
+    "u": "https://ja.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ko.wiktionary.org",
+    "s": "위키낱말사전",
+    "t": "wiktko",
+    "u": "https://ko.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "la.wiktionary.org",
+    "s": "Latin Wiktionary",
+    "t": "wiktla",
+    "u": "https://la.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define"
+  },
+  {
+    "d": "nl.wiktionary.org",
+    "s": "Dutch Wiktionary",
+    "t": "wiktnl",
+    "u": "https://nl.wiktionary.org/w/index.php?search={{{s}}}&title=Speciaal%3AZoeken"
+  },
+  {
+    "d": "no.wiktionary.org",
+    "s": "Norwegian Wiktionary (book language)",
+    "t": "wiktno",
+    "u": "https://no.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "pt.wiktionary.org",
+    "s": "Wikcionário (PT)",
+    "t": "wiktpt",
+    "u": "https://pt.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ru.wiktionary.org",
+    "s": "Wiktionary (RU)",
+    "t": "wiktru",
+    "u": "https://ru.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "sv.wiktionary.org",
+    "s": "Swedish Wiktionary",
+    "t": "wiktsv",
+    "u": "https://sv.wiktionary.org/w/index.php?search={{{s}}}&title=Special%3AS%C3%B6k"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wiktionary",
+    "t": "wikt",
+    "u": "http://en.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define"
+  },
+  {
+    "d": "www.onlinelibrary.wiley.com",
+    "s": "Wiley Online Library",
+    "t": "wiley",
+    "u": "https://www.onlinelibrary.wiley.com/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "d": "www.wilko.com",
+    "s": "wilko",
+    "t": "wilko",
+    "u": "http://www.wilko.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.willhaben.at",
+    "s": "Willhaben",
+    "t": "willhaben",
+    "u": "http://www.willhaben.at/iad/kaufen-und-verkaufen/marktplatz?keyword={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "blog.miniasp.com",
+    "s": "The Will Will Web",
+    "t": "willh",
+    "u": "http://blog.miniasp.com/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.williams-sonoma.com",
+    "s": "Williams-Sonoma",
+    "t": "williamssonoma",
+    "u": "http://www.williams-sonoma.com/search/results.html?words={{{s}}}"
+  },
+  {
+    "d": "www.wimp.com",
+    "s": "wimp.com",
+    "t": "wimp",
+    "u": "http://www.wimp.com/search/{{{s}}}"
+  },
+  {
+    "d": "commons.wikimedia.org",
+    "s": "Wikimedia Commons",
+    "t": "wim",
+    "u": "http://commons.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "incubator.wikimedia.org",
+    "s": "Wikimedia Incubator",
+    "t": "winc",
+    "u": "http://incubator.wikimedia.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "wpdev.uservoice.com",
+    "s": "Windows Developer Feedback",
+    "t": "windev",
+    "u": "https://wpdev.uservoice.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.windowparts.co.uk",
+    "s": "WindowParts",
+    "t": "windowparts",
+    "u": "http://www.windowparts.co.uk/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.microsoft.com",
+    "s": "Windows Phone",
+    "t": "windowsphone",
+    "u": "https://www.microsoft.com/en-us/search/result.aspx?q={{{s}}}&form=apps"
+  },
+  {
+    "d": "windowsreport.com",
+    "s": "WindowsReport",
+    "t": "windowsreport",
+    "u": "http://windowsreport.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.wind.gr",
+    "s": "Wind",
+    "t": "wind",
+    "u": "https://www.wind.gr/search?_dyncharset=utf-8&Dy=1&Ntt={{{s}}}"
+  },
+  {
+    "d": "www.winehq.org",
+    "s": "WineHQ",
+    "t": "winehq",
+    "u": "https://www.winehq.org/search?q={{{s}}}"
+  },
+  {
+    "d": "winehq.org",
+    "s": "Wine AppDB",
+    "t": "wine",
+    "u": "http://winehq.org/search?cx=partner-pub-0971840239976722%3Aw9sqbcsxtyf&cof=FORID%3A10&q={{{s}}}"
+  },
+  {
+    "d": "winfuture.de",
+    "s": "WinFuture",
+    "t": "winfu",
+    "u": "http://winfuture.de/suche/?cx=001589123709424097799%3Asbdrzmcykc8&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}"
+  },
+  {
+    "d": "windows.microsoft.com",
+    "s": "Microsoft Windows",
+    "t": "win",
+    "u": "http://windows.microsoft.com/en-US/windows/search#q={{{s}}}"
+  },
+  {
+    "d": "windows.microsoft.com",
+    "s": "Windows Store",
+    "t": "winstore",
+    "u": "http://windows.microsoft.com/en-us/windows/search#q={{{s}}}&s=Store"
+  },
+  {
+    "d": "www.wionews.com",
+    "s": "WION",
+    "t": "wion",
+    "u": "http://www.wionews.com/search?q={{{s}}}"
+  },
+  {
+    "d": "thewirecutter.com",
+    "s": "The Wirecutter",
+    "t": "wirecutter",
+    "u": "http://thewirecutter.com/search/?s={{{s}}}"
+  },
+  {
+    "d": "www.wired.com",
+    "s": "Wired",
+    "t": "wired",
+    "u": "https://www.wired.com/search/?q={{{s}}}&page=1&sort=score"
+  },
+  {
+    "d": "www.thewire.co.uk",
+    "s": "The Wire",
+    "t": "wire",
+    "u": "https://www.thewire.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "wiringa.nl",
+    "s": "Wiringa Technische Groothandel",
+    "t": "wiringa",
+    "u": "https://wiringa.nl/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wiringherlant.nl",
+    "s": "RSG Wiringherlant",
+    "t": "wiringherlant",
+    "u": "http://www.wiringherlant.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.wisemarketplace.org",
+    "s": "Wise Directory",
+    "t": "wisedir",
+    "u": "http://www.wisemarketplace.org/k:{{{s}}}"
+  },
+  {
+    "d": "themindsjournal.com",
+    "s": "The Minds Journal",
+    "t": "wisepick",
+    "u": "https://themindsjournal.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.wish.com",
+    "s": "Wish",
+    "t": "wish",
+    "u": "https://www.wish.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.wissen.de",
+    "s": "wissen.de",
+    "t": "wissen",
+    "u": "http://www.wissen.de/wissensserver/search?keyword={{{s}}}"
+  },
+  {
+    "d": "is.wikipedia.org",
+    "s": "Wikipedia IS",
+    "t": "wis",
+    "u": "https://is.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "el.m.wiktionary.org",
+    "s": "Wiktionary(GR)",
+    "t": "witgr",
+    "u": "https://el.m.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "pl.wiktionary.org",
+    "s": "wiktionary pl",
+    "t": "witpl",
+    "u": "https://pl.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "it.wikipedia.org",
+    "s": "Wikipedia (IT)",
+    "t": "wit",
+    "u": "http://it.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "wi",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "zh.wikipedia.org",
+    "s": "wikipedia(Chinese)",
+    "t": "wizh",
+    "u": "https://zh.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ja.wikipedia.org",
+    "s": "Wikipedia (JA)",
+    "t": "wja",
+    "u": "http://ja.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.wjec.co.uk",
+    "s": "WJEC",
+    "t": "wjec",
+    "u": "http://www.wjec.co.uk/search/pf_search.php?q={{{s}}}"
+  },
+  {
+    "d": "wiki.jvflux.com",
+    "s": "Wiki de JV Flux",
+    "t": "wjvf",
+    "u": "https://wiki.jvflux.com/index.php?title=Spécial:Recherche&search={{{s}}}"
+  },
+  {
+    "d": "ja.wikipedia.org",
+    "s": "Wikipedia in Japanese",
+    "t": "wj",
+    "u": "https://ja.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "nl.wikisage.org",
+    "s": "Wikisage nl",
+    "t": "wkan",
+    "u": "http://nl.wikisage.org/w/index.php?search={{{s}}}&title=Speciaal%3AZoeken&go=OK"
+  },
+  {
+    "d": "bugs.webkit.org",
+    "s": "WebKit Bugzilla",
+    "t": "wkb",
+    "u": "https://bugs.webkit.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "wikidevi.com",
+    "s": "WikiDevi",
+    "t": "wkd",
+    "u": "https://wikidevi.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wikidex.net",
+    "s": "Wikidex",
+    "t": "wkdx",
+    "u": "https://www.wikidex.net/index.php?title=Especial:Buscar&search={{{s}}}"
+  },
+  {
+    "d": "it.wiktionary.org",
+    "s": "Wiktionary (Italian)",
+    "t": "wkit",
+    "u": "https://it.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "kk.wikipedia.org",
+    "s": "Kazakh Wikipedia",
+    "t": "wkk",
+    "u": "https://kk.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "lt.wiktionary.org",
+    "s": "Lithuanian Wiktionary (Vikižodynas)",
+    "t": "wklt",
+    "u": "https://lt.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wikiloc.com",
+    "s": "Wikiloc",
+    "t": "wkl",
+    "u": "https://www.wikiloc.com/wikiloc/find.do?q={{{s}}}"
+  },
+  {
+    "d": "en.m.wikipedia.org",
+    "s": "Wikipedia Mobile",
+    "t": "wkm",
+    "u": "https://en.m.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "kn.wikipedia.org",
+    "s": "Kannada Wikipedia",
+    "t": "wkn",
+    "u": "https://kn.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ko.wikipedia.org",
+    "s": "Wikipedia (KO)",
+    "t": "wko",
+    "u": "https://ko.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.wykop.pl",
+    "s": "Wykop.pl",
+    "t": "wkp",
+    "u": "http://www.wykop.pl/szukaj/{{{s}}}/?"
+  },
+  {
+    "d": "species.wikimedia.org",
+    "s": "Wikispecies",
+    "t": "wksp",
+    "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "species.wikimedia.org",
+    "s": "Wikispecies",
+    "t": "wks",
+    "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "de.wiktionary.org",
+    "s": "Wiktionary German",
+    "t": "wktde",
+    "u": "http://de.wiktionary.org/w/index.php?search= {{{s}}}"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wiktionary English",
+    "t": "wkten",
+    "u": "https://en.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "en.wikiversity.org",
+    "s": "wikiversity",
+    "t": "wku",
+    "u": "https://en.wikiversity.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "wikipedia",
+    "t": "wk",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "WiiLord95",
+    "t": "wl95",
+    "u": "https://www.youtube.com/user/WiiLord95/search?query={{{s}}}"
+  },
+  {
+    "d": "la.wikipedia.org",
+    "s": "Latin Wikipedia",
+    "t": "wla",
+    "u": "http://la.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "www.wunschliste.de",
+    "s": "TV Wunschliste",
+    "t": "wlde",
+    "u": "http://www.wunschliste.de/suche/{{{s}}}"
+  },
+  {
+    "d": "fr.wikiloc.com",
+    "s": "Wikiloc French",
+    "t": "wlfr",
+    "u": "http://fr.wikiloc.com/wikiloc/find.do?q={{{s}}}"
+  },
+  {
+    "d": "www.willhaben.at",
+    "s": "Willhaben",
+    "t": "wlhb",
+    "u": "https://www.willhaben.at/iad/kaufen-und-verkaufen/marktplatz?keyword={{{s}}}"
+  },
+  {
+    "d": "a.next.westlaw.com",
+    "s": "WestlawNext",
+    "t": "wln",
+    "u": "https://a.next.westlaw.com/Search/Results.html?query={{{s}}}&jurisdiction=ALLCASES"
+  },
+  {
+    "d": "reference.wolfram.com",
+    "s": "Wolfram Mathematica Reference",
+    "t": "wlr",
+    "u": "http://reference.wolfram.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "lt.wikipedia.org",
+    "s": "Vikipedija (Wikipedia LT)",
+    "t": "wlt",
+    "u": "https://lt.wikipedia.org/w/?search={{{s}}}"
+  },
+  {
+    "d": "lv.wikipedia.org",
+    "s": "Wikipedia (LV)",
+    "t": "wlv",
+    "u": "https://lv.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "search.wikileaks.org",
+    "s": "WikiLeaks",
+    "t": "wl",
+    "u": "https://search.wikileaks.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.wlw.de",
+    "s": "Wer liefert was",
+    "t": "wlw",
+    "u": "https://www.wlw.de/search?suchbegriff={{{s}}}"
+  },
+  {
+    "d": "commons.wikimedia.org",
+    "s": "Wikimedia Commons Category",
+    "t": "wmcc",
+    "u": "https://commons.wikimedia.org/w/index.php?search={{{s}}}&ns14=1"
+  },
+  {
+    "d": "commons.wikimedia.org",
+    "s": "Wikimedia Commons",
+    "t": "wmc",
+    "u": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "de.m.wikipedia.org",
+    "s": "Wikipedia Deutsch Mobile",
+    "t": "wmde",
+    "u": "https://de.m.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.whatsmydns.net",
+    "s": "What's My DNS",
+    "t": "wmdns",
+    "u": "https://www.whatsmydns.net/#A/{{{s}}}"
+  },
+  {
+    "d": "meta.wikimedia.org",
+    "s": "Wikimedia Meta-Wiki",
+    "t": "wmeta",
+    "u": "http://meta.wikimedia.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "wolnemedia.net",
+    "s": "Wolne Media",
+    "t": "wme",
+    "u": "http://wolnemedia.net/?s={{{s}}}"
+  },
+  {
+    "d": "fr.m.wikipedia.org",
+    "s": "Wikipedia French mobile",
+    "t": "wmfr",
+    "u": "https://fr.m.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "passport.webmoney.ru",
+    "s": "WebMoney Transfer",
+    "t": "wmid",
+    "u": "https://passport.webmoney.ru/asp/CertView.asp?wmid={{{s}}}"
+  },
+  {
+    "d": "ml.wikipedia.org",
+    "s": "Wikipedia (Malayalam)",
+    "t": "wml",
+    "u": "https://ml.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "public.wmo.int",
+    "s": "World Meteorological Organisation",
+    "t": "wmo",
+    "u": "https://public.wmo.int/en/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "phabricator.wikimedia.org",
+    "s": "Wikimedia Phabricator installation",
+    "t": "wmphab",
+    "u": "https://phabricator.wikimedia.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "mathematica.stackexchange.com",
+    "s": "Mathematica Stack Exchange",
+    "t": "wmse",
+    "u": "https://mathematica.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "sr.m.wikipedia.org",
+    "s": "Wikipedia Mobile (Serbia)",
+    "t": "wmsr",
+    "u": "https://sr.m.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "mt.wikipedia.org",
+    "s": "Maltese Wikipedia",
+    "t": "wmt",
+    "u": "http://mt.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.meteovista.com",
+    "s": "meteovista",
+    "t": "wmv",
+    "u": "http://www.meteovista.com/Go/Search/SearchResults?searchCriteria={{{s}}}&pageIndex=0&searchAction=WeatherInformation"
+  },
+  {
+    "d": "en.m.wikipedia.org",
+    "s": "Wikipedia mobile",
+    "t": "wm",
+    "u": "http://en.m.wikipedia.org/wiki?search={{{s}}}"
+  },
+  {
+    "d": "my.wikipedia.org",
+    "s": "Wikipedia Myanmar",
+    "t": "wmy",
+    "u": "https://my.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Wikinews (all languages)",
+    "t": "wnall",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Awikinews.org"
+  },
+  {
+    "d": "www.wandaloo.com",
+    "s": "wandaloo",
+    "t": "wnd",
+    "u": "http://www.wandaloo.com/search-result.php?pg=1&q={{{s}}}&w=news&m=pertinence"
+  },
+  {
+    "d": "www.theweathernetwork.com",
+    "s": "The Weather Network",
+    "t": "wnetwork",
+    "u": "https://www.theweathernetwork.com/search?q={{{s}}}"
+  },
+  {
+    "d": "world.wng.org",
+    "s": "World News Group",
+    "t": "wng",
+    "u": "https://world.wng.org/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.wordnik.com",
+    "s": "Wordnik",
+    "t": "wnk",
+    "u": "https://www.wordnik.com/words/?myWord={{{s}}}"
+  },
+  {
+    "d": "nl.wikipedia.org",
+    "s": "Wikipedia (NL)",
+    "t": "wnl",
+    "u": "https://nl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "nn.wikipedia.org",
+    "s": "Wikipedia Nynorsk",
+    "t": "wnn",
+    "u": "https://nn.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "no.wikipedia.org",
+    "s": "Norwegian Wikipedia",
+    "t": "wno",
+    "u": "https://no.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wnp.pl",
+    "s": "WNP.pl",
+    "t": "wnp",
+    "u": "http://www.wnp.pl/wyszukiwanie.html?szukaj={{{s}}}"
+  },
+  {
+    "d": "wagingnonviolence.org",
+    "s": "Waging Nonviolence",
+    "t": "wnv",
+    "u": "http://wagingnonviolence.org/?s={{{s}}}"
+  },
+  {
+    "d": "en.wikinews.org",
+    "s": "Wikinews",
+    "t": "wn",
+    "u": "https://en.wikinews.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.wnyc.org",
+    "s": "WNYC",
+    "t": "wnyc",
+    "u": "http://www.wnyc.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.worldofboardgames.com",
+    "s": "World of Boardgames",
+    "t": "wob",
+    "u": "http://www.worldofboardgames.com/webshop-sok.php?searchString={{{s}}}&search=S%F6k"
+  },
+  {
+    "d": "woerterbuchnetz.de",
+    "s": "Wörterbuchnetz",
+    "t": "woerterbuchnetz",
+    "u": "http://woerterbuchnetz.de/cgi-bin/WBNetz/startGlobalSearch.tcl?stichwort={{{s}}}"
+  },
+  {
+    "d": "www.woerterbuch.info",
+    "s": "woerterbuch.info",
+    "t": "woerterbuch",
+    "u": "http://www.woerterbuch.info/?query={{{s}}}"
+  },
+  {
+    "d": "www.wog.ch",
+    "s": "World of Games",
+    "t": "wogch",
+    "u": "http://www.wog.ch/index.cfm/search/type/Games/term/{{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "Wolfram|Alpha",
+    "t": "wolframalpha",
+    "u": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "Wolfram|Alpha",
+    "t": "wolfram",
+    "u": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "Wolfram Alpha",
+    "t": "wolf",
+    "u": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "wol.jw.org",
+    "s": "Watchtower Online Library (Swedish)",
+    "t": "wolsv",
+    "u": "https://wol.jw.org/wol/finder?wtlocale=Z&q={{{s}}}"
+  },
+  {
+    "d": "wol.jw.org",
+    "s": "Watchtower Online Library",
+    "t": "wol",
+    "u": "http://wol.jw.org/wol/finder?q={{{s}}}"
+  },
+  {
+    "d": "westofloathing.gamepedia.com",
+    "s": "West of Loathing Wiki",
+    "t": "wolw",
+    "u": "https://westofloathing.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wonkette.com",
+    "s": "Wonkette",
+    "t": "wonkette",
+    "u": "https://www.wonkette.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.woodbrass.com",
+    "s": "Woodbrass",
+    "t": "woodbrass",
+    "u": "https://www.woodbrass.com/advanced_search_result.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.woodmac.com",
+    "s": "Wood Mackenzie",
+    "t": "woodmac",
+    "u": "https://www.woodmac.com/store/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.wood-database.com",
+    "s": "The Wood Database",
+    "t": "wood",
+    "u": "http://www.wood-database.com/?s={{{s}}}"
+  },
+  {
+    "d": "starwars.wikia.com",
+    "s": "Star Wars Wiki",
+    "t": "wookieepedia",
+    "u": "http://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "starwars.wikia.com",
+    "s": "Wookiepedia",
+    "t": "wookie",
+    "u": "http://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&go=&fulltext=Search"
+  },
+  {
+    "d": "www.wook.pt",
+    "s": "Wook",
+    "t": "wook",
+    "u": "https://www.wook.pt/pesquisa/{{{s}}}"
+  },
+  {
+    "d": "www.woolworths.com.au",
+    "s": "Woolworths",
+    "t": "woolies",
+    "u": "https://www.woolworths.com.au/shop/search/products?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.woolworths.com.au",
+    "s": "Woolworths",
+    "t": "woolworths",
+    "u": "https://www.woolworths.com.au/shop/search/products?searchTerm={{{s}}}"
+  },
+  {
+    "d": "woordenlijst.org",
+    "s": "Woordenlijst",
+    "t": "woordenlijst",
+    "u": "http://woordenlijst.org/zoek/?q={{{s}}}&w=w"
+  },
+  {
+    "d": "www.woorden.org",
+    "s": "Woorden.org",
+    "t": "woord",
+    "u": "https://www.woorden.org/woord/{{{s}}}"
+  },
+  {
+    "d": "www.wooroll.com",
+    "s": "Wooroll",
+    "t": "wooroll",
+    "u": "http://www.wooroll.com/search.html?q={{{s}}}&ref=duckduckgo"
+  },
+  {
+    "d": "wooordhunt.ru",
+    "s": "WooordHunt",
+    "t": "woo",
+    "u": "http://wooordhunt.ru/word/{{{s}}}"
+  },
+  {
+    "d": "wordcentral.com",
+    "s": "Merriam-Webster's Word Central",
+    "t": "wordcentral",
+    "u": "http://wordcentral.com/cgi-bin/student?book=Student&va={{{s}}}"
+  },
+  {
+    "d": "wordery.com",
+    "s": "Wordery",
+    "t": "wordery",
+    "u": "https://wordery.com/search?term={{{s}}}"
+  },
+  {
+    "d": "www.wordhippo.com",
+    "s": "word hippo",
+    "t": "wordhippo",
+    "u": "https://www.wordhippo.com/what-is/another-word-for/{{{s}}}.html"
+  },
+  {
+    "d": "wordinfo.info",
+    "s": "Word Information",
+    "t": "wordinfo",
+    "u": "http://wordinfo.info/results?searchString={{{s}}}"
+  },
+  {
+    "d": "wordlift.io",
+    "s": "WordLift",
+    "t": "wordlift",
+    "u": "https://wordlift.io/blog/en/?s={{{s}}}"
+  },
+  {
+    "d": "wordnetweb.princeton.edu",
+    "s": "WordNet",
+    "t": "wordnet",
+    "u": "http://wordnetweb.princeton.edu/perl/webwn?s={{{s}}}&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h="
+  },
+  {
+    "d": "www.wordnik.com",
+    "s": "Wordnik",
+    "t": "wordnik",
+    "u": "http://www.wordnik.com/words/{{{s}}}"
+  },
+  {
+    "d": "wordpress.org",
+    "s": "WordPress.org",
+    "t": "wordpress",
+    "u": "http://wordpress.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wordreference",
+    "u": "http://www.wordreference.com/es/translation.asp?tranword={{{s}}}"
+  },
+  {
+    "d": "www.wordsmyth.net",
+    "s": "Wordsmyth",
+    "t": "wordsmyth",
+    "u": "http://www.wordsmyth.net/?level=3&ent={{{s}}}"
+  },
+  {
+    "d": "www.wordwebonline.com",
+    "s": "WordWeb Online",
+    "t": "wordweb",
+    "u": "http://www.wordwebonline.com/search.pl?w={{{s}}}"
+  },
+  {
+    "d": "www.wordnik.com",
+    "s": "Wordnik",
+    "t": "word",
+    "u": "https://www.wordnik.com/words?myWord={{{s}}}"
+  },
+  {
+    "d": "workatremote.com",
+    "s": "WorkAtRemote",
+    "t": "workatremote",
+    "u": "https://workatremote.com/remote-{{{s}}}-jobs"
+  },
+  {
+    "d": "www.workcircle.com",
+    "s": "Workcircle",
+    "t": "workcircle",
+    "u": "http://www.workcircle.com/jobs/?search=1&query={{{s}}}"
+  },
+  {
+    "d": "www.world-art.ru",
+    "s": "World Art",
+    "t": "worldart",
+    "u": "http://www.world-art.ru/search.php?public_search={{{s}}}&global_sector=all"
+  },
+  {
+    "d": "www.worldatlas.com",
+    "s": "World Atlas",
+    "t": "worldatlas",
+    "u": "https://www.worldatlas.com/search?q={{{s}}}"
+  },
+  {
+    "d": "worldbuilding.stackexchange.com",
+    "s": "worldbuilding.stackexchange.com",
+    "t": "worldbuilding",
+    "u": "http://worldbuilding.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "worldcatmobile.org",
+    "s": "WorldCat Mobile Web",
+    "t": "worldcatm",
+    "u": "http://worldcatmobile.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.worldcat.org",
+    "s": "WorldCat.org",
+    "t": "worldcat",
+    "u": "http://www.worldcat.org/search?qt=worldcat_org_all&q={{{s}}}"
+  },
+  {
+    "d": "www.worldcubeassociation.org",
+    "s": "World Cube Association",
+    "t": "worldcubeassociation",
+    "u": "https://www.worldcubeassociation.org/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "RootsWorld",
+    "t": "worldmusic",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Arootsworld.com%2Crootsworld.org&ia=web"
+  },
+  {
+    "d": "www.worldofspectrum.org",
+    "s": "World of Spectrum",
+    "t": "worldofspectrum",
+    "u": "http://www.worldofspectrum.org/infoseek.cgi?regexp={{{s}}}&model=any&loadpics=3&fast=on"
+  },
+  {
+    "d": "world.wng.org",
+    "s": "WORLD Magazine",
+    "t": "world",
+    "u": "https://world.wng.org/search/site/{{{s}}}}"
+  },
+  {
+    "d": "worms2d.info",
+    "s": "Worms Knowledge Base",
+    "t": "worms",
+    "u": "http://worms2d.info/?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.wormbase.org",
+    "s": "Wormbase",
+    "t": "worm",
+    "u": "http://www.wormbase.org/species/c_elegans/gene/{{{s}}}"
+  },
+  {
+    "d": "worship-songs-resources.worshiptogether.com",
+    "s": "worshiptogether.com",
+    "t": "worshiptogether",
+    "u": "http://worship-songs-resources.worshiptogether.com/search?w={{{s}}}"
+  },
+  {
+    "d": "www.worten.es",
+    "s": "Worten",
+    "t": "worten",
+    "u": "https://www.worten.es/?qs={{{s}}}"
+  },
+  {
+    "d": "corpora.uni-leipzig.de",
+    "s": "Wortschatz",
+    "t": "wortschatz",
+    "u": "http://corpora.uni-leipzig.de/de/res?corpusId=deu_newscrawl_2011&word={{{s}}}"
+  },
+  {
+    "d": "wortvogel.de",
+    "s": "Wortvogel",
+    "t": "wortvogel",
+    "u": "http://wortvogel.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.wort-suchen.de",
+    "s": "Wort suchen",
+    "t": "wort",
+    "u": "https://www.wort-suchen.de/kreuzwortraetsel-hilfe/loesungen/{{{s}}}/"
+  },
+  {
+    "d": "gateway.webofknowledge.com",
+    "s": "Web of Science",
+    "t": "wosc",
+    "u": "https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=WEB&SrcAuth=ProQuest&DestApp=UA&DestLinkType=GeneralSearchSummary&topic={{{s}}}"
+  },
+  {
+    "d": "wiki.openstreetmap.org",
+    "s": "OpenStreetMap Wiki",
+    "t": "wosm",
+    "u": "http://wiki.openstreetmap.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "oldschool.runescape.wiki",
+    "s": "Old School RuneScape Wiki",
+    "t": "wosrs",
+    "u": "https://oldschool.runescape.wiki/?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "d": "www.worldofspectrum.org",
+    "s": "World of Spectrum",
+    "t": "wos",
+    "u": "http://www.worldofspectrum.org/infoseek.cgi?regexp={{{s}}}&model=any&loadpics=3&fast=on"
+  },
+  {
+    "d": "www.wotif.com",
+    "s": "Wotif",
+    "t": "wotif",
+    "u": "http://www.wotif.com/search/TextSearch?searchTerms={{{s}}}"
+  },
+  {
+    "d": "www.mywot.com",
+    "s": "Web of Trust",
+    "t": "wot",
+    "u": "https://www.mywot.com/en/scorecard/{{{s}}}"
+  },
+  {
+    "d": "wiki.wargaming.net",
+    "s": "World of Tanks wiki",
+    "t": "wotwiki",
+    "u": "http://wiki.wargaming.net/en/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.woutick.es",
+    "s": "Woutick",
+    "t": "woutick",
+    "u": "https://www.woutick.es/?busqueda={{{s}}}"
+  },
+  {
+    "d": "eu.battle.net",
+    "s": "WOW Armory (EU)",
+    "t": "wowarmoryeu",
+    "u": "http://eu.battle.net/wow/en/search?q={{{s}}}"
+  },
+  {
+    "d": "us.battle.net",
+    "s": "Battle.net",
+    "t": "wowarmoryus",
+    "u": "http://us.battle.net/wow/en/search?q={{{s}}}"
+  },
+  {
+    "d": "us.battle.net",
+    "s": "WOW Armory",
+    "t": "wowarmory",
+    "u": "http://us.battle.net/wow/en/search?q={{{s}}}"
+  },
+  {
+    "d": "eu.battle.net",
+    "s": "BattleNet",
+    "t": "wowbattlenet",
+    "u": "http://eu.battle.net/wow/en/search?q={{{s}}}"
+  },
+  {
+    "d": "www.worldofwhisky.ch",
+    "s": "World of Whisky",
+    "t": "wowch",
+    "u": "https://www.worldofwhisky.ch/suche?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Search"
+  },
+  {
+    "d": "classic.wowhead.com",
+    "s": "wowclassic",
+    "t": "wowclassic",
+    "u": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wowdb.com",
+    "s": "Word of Warcraft Database - WOWDB",
+    "t": "wowdb",
+    "u": "http://www.wowdb.com/search?search={{{s}}}"
+  },
+  {
+    "d": "www.wetteronline.de",
+    "s": "WetterOnline",
+    "t": "wo",
+    "u": "http://www.wetteronline.de/wetter/{{{s}}}"
+  },
+  {
+    "d": "fr.wowhead.com",
+    "s": "Wowhead",
+    "t": "wowfr",
+    "u": "https://fr.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "classic.wowhead.com",
+    "s": "wowhead classic",
+    "t": "wowhc",
+    "u": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "de.wowhead.com",
+    "s": "Wowhead german",
+    "t": "wowheadde",
+    "u": "http://de.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fr.wowhead.com",
+    "s": "wowhead french",
+    "t": "wowheadfr",
+    "u": "http://fr.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wowhead.com",
+    "s": "WowHead",
+    "t": "wowhead",
+    "u": "http://www.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "es.wowhead.com",
+    "s": "Wowhead (Español)",
+    "t": "wowhes",
+    "u": "https://es.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "ru.wowhead.com",
+    "s": "Wowhead Russian",
+    "t": "wowhr",
+    "u": "http://ru.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wowhead.com",
+    "s": "Wowhead",
+    "t": "wowh",
+    "u": "http://www.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wowpedia.org",
+    "s": "Wowpedia",
+    "t": "wowpedia",
+    "u": "http://www.wowpedia.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "www.wowprogress.com",
+    "s": "WoWProgress",
+    "t": "wowprogress",
+    "u": "https://www.wowprogress.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wowtrk.com",
+    "s": "WOW TRK",
+    "t": "wowtrk",
+    "u": "https://www.wowtrk.com/offers/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.wowwiki.com",
+    "s": "WoWWiki",
+    "t": "wowwiki",
+    "u": "http://www.wowwiki.com/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "worldofwarcraft.com",
+    "s": "World of Warcraft",
+    "t": "wow",
+    "u": "https://worldofwarcraft.com/search?q={{{s}}}"
+  },
+  {
+    "d": "synonyme.woxikon.de",
+    "s": "Woxikon",
+    "t": "woxikon",
+    "u": "http://synonyme.woxikon.de/synonyme/{{{s}}}.php"
+  },
+  {
+    "d": "www.woxikon.com",
+    "s": "Woxicon",
+    "t": "wox",
+    "u": "http://www.woxikon.com/?q={{{s}}} "
+  },
+  {
+    "d": "support.advancedcustomfields.com",
+    "s": "Advanced Custom Fields (WordPress)",
+    "t": "wpacf",
+    "u": "https://support.advancedcustomfields.com/forums/search?bbp_search={{{s}}}"
+  },
+  {
+    "d": "wpackagist.org",
+    "s": "WordPress Packagist",
+    "t": "wpackagist",
+    "u": "https://wpackagist.org/search?q={{{s}}}&type=any&search="
+  },
+  {
+    "d": "www.wpbeginner.com",
+    "s": "WP Beginner",
+    "t": "wpbeg",
+    "u": "http://www.wpbeginner.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "{{{s}}}.wordpress.com",
+    "s": "WordPress.com",
+    "t": "wpblog",
+    "u": "http://{{{s}}}.wordpress.com"
+  },
+  {
+    "d": "developer.wordpress.org",
+    "s": "WordPress Code Reference",
+    "t": "wpdev",
+    "u": "https://developer.wordpress.org/?s={{{s}}}"
+  },
+  {
+    "d": "wpplugindirectory.org",
+    "s": "WP Plugin Directory",
+    "t": "wpd",
+    "u": "http://wpplugindirectory.org/?s={{{s}}}"
+  },
+  {
+    "d": "fr.wikipedia.org",
+    "s": "Wikipedia (FR)",
+    "t": "wpfr",
+    "u": "https://fr.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "pl.wikipedia.org",
+    "s": "Wikipedia (PL)",
+    "t": "wpl",
+    "u": "http://pl.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.washingtonpost.com",
+    "s": "Washington Post",
+    "t": "wpost",
+    "u": "http://www.washingtonpost.com/newssearch/search.html?st={{{s}}}"
+  },
+  {
+    "d": "wordpress.org",
+    "s": "WordPress.org Plugins",
+    "t": "wpplugins",
+    "u": "http://wordpress.org/extend/plugins/search.php?q={{{s}}}&sort="
+  },
+  {
+    "d": "wordpress.org",
+    "s": "wordpress.org",
+    "t": "wpplugs",
+    "u": "https://wordpress.org/plugins/search/{{{s}}}/"
+  },
+  {
+    "d": "szukaj.wp.pl",
+    "s": "Wirtualn Polska",
+    "t": "wppl",
+    "u": "https://szukaj.wp.pl/szukaj.html?q={{{s}}}"
+  },
+  {
+    "d": "wordpress.org",
+    "s": "WordPress Plugin Directory",
+    "t": "wpp",
+    "u": "https://wordpress.org/plugins/search/{{{s}}}/"
+  },
+  {
+    "d": "wordpress.stackexchange.com",
+    "s": "WordPress StackExchange",
+    "t": "wpse",
+    "u": "http://wordpress.stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "d": "wordpress.org",
+    "s": "WordPress.org Themes",
+    "t": "wpthemes",
+    "u": "http://wordpress.org/extend/themes/search.php?q={{{s}}}"
+  },
+  {
+    "d": "pt.wikipedia.org",
+    "s": "Wikipedia (PT)",
+    "t": "wpt",
+    "u": "http://pt.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "vip.wordpress.com",
+    "s": "WordPress VIP",
+    "t": "wpvip",
+    "u": "https://vip.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "wordpress.org",
+    "s": "WordPress.org",
+    "t": "wp",
+    "u": "http://wordpress.org/search/{{{s}}}"
+  },
+  {
+    "d": "wpzen.pl",
+    "s": "WPzen",
+    "t": "wpzen",
+    "u": "http://wpzen.pl/?s={{{s}}}"
+  },
+  {
+    "d": "de.wikiquote.org",
+    "s": "Wikiquote German",
+    "t": "wqde",
+    "u": "https://de.wikiquote.org/w/index.php?search={{{s}}}&title=Spezial%3ASuche"
+  },
+  {
+    "d": "es.wikiquote.org",
+    "s": "Wikiquote Español",
+    "t": "wqes",
+    "u": "https://es.wikiquote.org/w/?search={{{s}}}"
+  },
+  {
+    "d": "it.wikiquote.org",
+    "s": "WikiQuote Italian",
+    "t": "wqit",
+    "u": "https://it.wikiquote.org/?q={{{s}}}:"
+  },
+  {
+    "d": "pl.wikiquote.org",
+    "s": "Wikiquote Polish",
+    "t": "wqpl",
+    "u": "https://pl.wikiquote.org/w/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejdź"
+  },
+  {
+    "d": "en.wikiquote.org",
+    "s": "WikiQuote",
+    "t": "wq",
+    "u": "https://en.wikiquote.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia Random in Category",
+    "t": "wrand",
+    "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "Wolfram|Alpha",
+    "t": "wra",
+    "u": "https://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference French Conjugate",
+    "t": "wrcfr",
+    "u": "http://www.wordreference.com/conj/FrVerbs.aspx?v={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrc",
+    "u": "http://www.wordreference.com/conj/FrVerbs.aspx?v={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrdeen",
+    "u": "http://www.wordreference.com/deen/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference DE -> FR",
+    "t": "wrdefr",
+    "u": "http://www.wordreference.com/frde/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference",
+    "t": "wrden",
+    "u": "http://www.wordreference.com/deen/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrdes",
+    "u": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "d": "www.wiregrind.com",
+    "s": "Wire Grind",
+    "t": "wrd",
+    "u": "https://www.wiregrind.com/rhyming-dictionary/?word={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference en->fr",
+    "t": "wref",
+    "u": "https://www.wordreference.com/enfr/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference EN-IT",
+    "t": "wrei",
+    "u": "http://www.wordreference.com/enit/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference en->de",
+    "t": "wrende",
+    "u": "http://www.wordreference.com/ende/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrenes",
+    "u": "http://www.wordreference.com/redirect/translation.aspx?w={{{s}}}&dict=enes"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrenfr",
+    "u": "http://www.wordreference.com/enfr/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "wordreference english to greek translation",
+    "t": "wrengr",
+    "u": "http://www.wordreference.com/engr/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference en->it",
+    "t": "wrenit",
+    "u": "http://www.wordreference.com/enit/{{{s}}} "
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrennl",
+    "u": "http://www.wordreference.com/ennl/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference",
+    "t": "wrenpl",
+    "u": "http://www.wordreference.com/enpl/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrenpt",
+    "u": "http://www.wordreference.com/enpt/{{{s}}} "
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference",
+    "t": "wrensp",
+    "u": "http://www.wordreference.com/es/translation.asp?tranword={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference en->sv",
+    "t": "wrensv",
+    "u": "https://www.wordreference.com/ensv/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference.com English Synonyms",
+    "t": "wrensyn",
+    "u": "http://www.wordreference.com/thesaurus/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference (EN)",
+    "t": "wren",
+    "u": "http://www.wordreference.com/definition/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference English to Portuguese",
+    "t": "wrep",
+    "u": "http://www.wordreference.com/pten/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference",
+    "t": "wresconj",
+    "u": "http://www.wordreference.com/conj/ESverbs.aspx?v={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wresen",
+    "u": "http://www.wordreference.com/es/en/translation.asp?spen={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference",
+    "t": "wresfr",
+    "u": "http://www.wordreference.com/esfr/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference es > it",
+    "t": "wresit",
+    "u": "http://www.wordreference.com/esit/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrespt",
+    "u": "http://www.wordreference.com/espt/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference.com sinónimos en español",
+    "t": "wressin",
+    "u": "http://www.wordreference.com/sinonimos/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference (ES)",
+    "t": "wres",
+    "u": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference (ES)",
+    "t": "wre",
+    "u": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference fr->en",
+    "t": "wrfe",
+    "u": "http://www.wordreference.com/fren/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordRefrence",
+    "t": "wrfrconj",
+    "u": "http://www.wordreference.com/conj/FRverbs.aspx?v={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference DE",
+    "t": "wrfrde",
+    "u": "http://www.wordreference.com/frde/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference",
+    "t": "wrfren",
+    "u": "http://www.wordreference.com/fren/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference",
+    "t": "wrfres",
+    "u": "http://www.wordreference.com/fres/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "wordreference greek to english translation",
+    "t": "wrgren",
+    "u": "http://www.wordreference.com/gren/{{{s}}}"
+  },
+  {
+    "d": "whatreallyhappened.com",
+    "s": "What Really Happened",
+    "t": "wrh",
+    "u": "http://whatreallyhappened.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "wikirhymer.com",
+    "s": "Wiki Rhymer",
+    "t": "wrhymer",
+    "u": "http://wikirhymer.com/words/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference IT-EN",
+    "t": "wrie",
+    "u": "http://www.wordreference.com/iten/{{{s}}}"
+  },
+  {
+    "d": "wright.tools",
+    "s": "Wright Tools",
+    "t": "wrighttools",
+    "u": "http://wright.tools/en/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference Italian Conjugator",
+    "t": "writconj",
+    "u": "http://www.wordreference.com/conj/ItVerbs.aspx?v={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference it->en",
+    "t": "writen",
+    "u": "http://www.wordreference.com/iten/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "writes",
+    "u": "https://www.wordreference.com/iten/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference (IT definition)",
+    "t": "writ",
+    "u": "http://www.wordreference.com/definizione/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference NL -> EN",
+    "t": "wrnlen",
+    "u": "http://www.wordreference.com/nlen/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference (EN)",
+    "t": "wrn",
+    "u": "http://www.wordreference.com/definition/{{{s}}}"
+  },
+  {
+    "d": "ro.wikipedia.org",
+    "s": "wikipedia",
+    "t": "wro",
+    "u": "https://ro.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3AC%C4%83utare"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference Portuguese to English",
+    "t": "wrpe",
+    "u": "http://www.wordreference.com/enpt/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference",
+    "t": "wrplen",
+    "u": "http://www.wordreference.com/plen/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrpten",
+    "u": "http://www.wordreference.com/pten/{{{s}}} "
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference Português-Español",
+    "t": "wrptes",
+    "u": "http://www.wordreference.com/ptes/{{{s}}}"
+  },
+  {
+    "d": "eprints.whiterose.ac.uk",
+    "s": "White Rose Research Online",
+    "t": "wrro",
+    "u": "http://eprints.whiterose.ac.uk/cgi/search/simple?full={{{s}}}&_action_search=Search&_order=bytitle&basic_srchtype=ALL&_satisfyall=ALL"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference",
+    "t": "wrse",
+    "u": "http://www.wordreference.com/enes/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference Spanish-French",
+    "t": "wrsf",
+    "u": "http://www.wordreference.com/esfr/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference Spanish Conjugator",
+    "t": "wrspconj",
+    "u": "http://www.wordreference.com/conj/ESverbs.aspx?v={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference Spanish synonims",
+    "t": "wrss",
+    "u": "http://www.wordreference.com/sinonimos/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference sv->en",
+    "t": "wrsven",
+    "u": "https://www.wordreference.com/ensv/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference English-Spanish",
+    "t": "wrs",
+    "u": "http://www.wordreference.com/es/translation.asp?tranword={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference Spanish Synonym",
+    "t": "wrsyes",
+    "u": "https://www.wordreference.com/sinonimos//{{{s}}}"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "Russian Wikipedia",
+    "t": "w.ru",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "Wikipedia (RU)",
+    "t": "wru",
+    "u": "https://ru.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference Definition",
+    "t": "wr",
+    "u": "http://www.wordreference.com/definition/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "WordReference",
+    "t": "wrze",
+    "u": "https://www.wordreference.com/zhen/{{{s}}}"
+  },
+  {
+    "d": "sco.wikipedia.org",
+    "s": "Wikipedia (Scots)",
+    "t": "wsco",
+    "u": "http://sco.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "sc.wikipedia.org",
+    "s": "Sardinian Wikipedia",
+    "t": "wsc",
+    "u": "http://sc.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "de.wikisource.org",
+    "s": "Wikisource Deutsch",
+    "t": "wsde",
+    "u": "https://de.wikisource.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wesleyseminary.edu",
+    "s": "Wesley Theological Seminary",
+    "t": "wsem",
+    "u": "https://www.wesleyseminary.edu/?s={{{s}}}"
+  },
+  {
+    "d": "se.wikipedia.org",
+    "s": "Wikipedia – Friddje diehtosátnegirji",
+    "t": "wse",
+    "u": "http://se.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "fr.wikisource.org",
+    "s": "Wikisource (FR)",
+    "t": "wsfr",
+    "u": "https://fr.wikisource.org/w/index.php?search={{{s}}}&title=Sp%C3%A9cial%3ARecherche&go=Lire"
+  },
+  {
+    "d": "www.wsgf.org",
+    "s": "Widescreen Gaming Forum",
+    "t": "wsgf",
+    "u": "http://www.wsgf.org/mgl?title_op=contains&game_name={{{s}}}"
+  },
+  {
+    "d": "winningstrategy.games",
+    "s": "Winning Strategy Games",
+    "t": "wsg",
+    "u": "https://winningstrategy.games/search/{{{s}}}"
+  },
+  {
+    "d": "fa.wikishia.net",
+    "s": "Farsi WikiShia",
+    "t": "wshfa",
+    "u": "http://fa.wikishia.net/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikishia.net",
+    "s": "WikiShia",
+    "t": "wsh",
+    "u": "http://en.wikishia.net/view/?search={{{s}}}"
+  },
+  {
+    "d": "simple.wikipedia.org",
+    "s": "Wikipedia (Simple English)",
+    "t": "wsimple",
+    "u": "https://simple.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "sl.wikipedia.org",
+    "s": "Slovenian Wikipedia ",
+    "t": "wsi",
+    "u": "https://sl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.marketwatch.com",
+    "s": "MarketWatch",
+    "t": "wsjmw",
+    "u": "http://www.marketwatch.com/search?q={{{s}}}"
+  },
+  {
+    "d": "wsjp.pl",
+    "s": "Wielki Słownik Języka Polskiego",
+    "t": "wsjp",
+    "u": "http://wsjp.pl/index.php?szukaj={{{s}}}&pwh=0"
+  },
+  {
+    "d": "www.wsj.com",
+    "s": "The Wall Street Journal",
+    "t": "wsj",
+    "u": "https://www.wsj.com/search/term.html?KEYWORDS={{{s}}}&isAdvanced=true&daysback=90d&andor=AND&sort=date-desc&source=wsjarticle,wsjblogs,wsjvideo,interactivemedia,sitesearch,wsjpro"
+  },
+  {
+    "d": "sk.wikipedia.org",
+    "s": "Wikipédia Slovenčina",
+    "t": "wsk",
+    "u": "https://sk.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "sl.wikipedia.org",
+    "s": "Wikipedia (SL)",
+    "t": "wsl",
+    "u": "http://sl.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{{s}}}"
+  },
+  {
+    "d": "www.wallstreetoasis.com",
+    "s": "Wall Street Oasis Forums",
+    "t": "wso",
+    "u": "http://www.wallstreetoasis.com/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "species.wikimedia.org",
+    "s": "Wikispecies",
+    "t": "wspec",
+    "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "sr.wikipedia.org",
+    "s": "https://sr.wikipedia.org/wiki/",
+    "t": "wsr",
+    "u": "https://sr.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wayne.edu",
+    "s": "Wayne State University",
+    "t": "wsu",
+    "u": "https://wayne.edu/search/?q={{{s}}}&type=all"
+  },
+  {
+    "d": "sv.wikipedia.org",
+    "s": "Wikipedia (SV)",
+    "t": "wsv",
+    "u": "http://sv.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wikisource.org",
+    "s": "Wikisource",
+    "t": "ws",
+    "u": "https://en.wikisource.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.wsws.org",
+    "s": "Word Socialist Web Site",
+    "t": "wsws",
+    "u": "https://www.wsws.org/en/search.html?sectionId=&maxResults=100&phrase={{{s}}}&submit=Search"
+  },
+  {
+    "d": "words.bighugelabs.com",
+    "s": "Big Huge Words Thesaurus",
+    "t": "wsyn",
+    "u": "http://words.bighugelabs.com/{{{s}}}"
+  },
+  {
+    "d": "zh.wikisource.org",
+    "s": "Wikisource (ZH)",
+    "t": "wszh",
+    "u": "https://zh.wikisource.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.wtatennis.com",
+    "s": "WTA Tennis",
+    "t": "wta",
+    "u": "http://www.wtatennis.com/search/query/{{{s}}}"
+  },
+  {
+    "d": "bg.wiktionary.org",
+    "s": "Уикиречник",
+    "t": "wtbg",
+    "u": "https://bg.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "br.wiktionary.org",
+    "s": "Wiktkionary e brezhoneg",
+    "t": "wtbr",
+    "u": "https://br.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ca.wiktionary.org",
+    "s": "Wiktionary Catalan",
+    "t": "wtca",
+    "u": "https://ca.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "cs.wiktionary.org",
+    "s": "Wiktionary (Czech)",
+    "t": "wtcz",
+    "u": "https://cs.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "de.wiktionary.org",
+    "s": "Wiktionary (Deutsch)",
+    "t": "wtde",
+    "u": "https://de.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "el.wiktionary.org",
+    "s": "Wiktionary (Greek)",
+    "t": "wtel",
+    "u": "https://el.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wiktionary",
+    "t": "wten",
+    "u": "http://en.wiktionary.org/w/index.php?search={{{s}}}&button=&title=Special%3ASearch"
+  },
+  {
+    "d": "eo.wiktionary.org",
+    "s": "Vikivortaro",
+    "t": "wteo",
+    "u": "https://eo.wiktionary.org/w/index.php?search={{{s}}}&title=Speciala%C4%B5o%3ASer%C4%89i&go=Ek!"
+  },
+  {
+    "d": "www.test.de",
+    "s": "Stiftung Warentest",
+    "t": "wtest",
+    "u": "https://www.test.de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "es.wiktionary.org",
+    "s": "Wikcionario",
+    "t": "wtes",
+    "u": "https://es.wiktionary.org/w/index.php?search={{{s}}}&button=&title=Especial%3ABuscar"
+  },
+  {
+    "d": "te.wikipedia.org",
+    "s": "Telugu Wikipedia (tewiki)",
+    "t": "wte",
+    "u": "https://te.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "fi.wiktionary.org",
+    "s": "Wiktionary (Finnish)",
+    "t": "wtfi",
+    "u": "https://fi.wiktionary.org/w/index.php?search={{{s}}}&title=Toiminnot%3AHaku"
+  },
+  {
+    "d": "www.mirbsd.org",
+    "s": "MirBSD Acronyms Database",
+    "t": "wtf",
+    "u": "https://www.mirbsd.org/wtf.cgi?q={{{s}}}"
+  },
+  {
+    "d": "fr.wiktionary.org",
+    "s": "Wiktionary french",
+    "t": "wtfr",
+    "u": "https://fr.wiktionary.org/wiki/{{{s}}} "
+  },
+  {
+    "d": "wtg.pt",
+    "s": "World Textile Group",
+    "t": "wtg",
+    "u": "https://wtg.pt/?s={{{s}}}"
+  },
+  {
+    "d": "hi.wiktionary.org",
+    "s": "Wiktionary (Hindi)",
+    "t": "wth",
+    "u": "https://hi.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wikitionary",
+    "t": "wtionary",
+    "u": "https://en.wiktionary.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "it.wiktionary.org",
+    "s": "Wiktionary",
+    "t": "wtit",
+    "u": "http://it.wiktionary.org/w/index.php?search={{{s}}}&title=Speciale%3ARicerca"
+  },
+  {
+    "d": "ja.wiktionary.org",
+    "s": "Wiktionary (Japan)",
+    "t": "wtja",
+    "u": "https://ja.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wiktionary",
+    "t": "wtla",
+    "u": "https://en.wiktionary.org/wiki/{{{s}}}#Latin"
+  },
+  {
+    "d": "whatthefuckshouldilistentorightnow.com",
+    "s": "What the fuck should I listen to right now",
+    "t": "wtl",
+    "u": "http://whatthefuckshouldilistentorightnow.com/artist.php?artist={{{s}}}"
+  },
+  {
+    "d": "en.m.wiktionary.org",
+    "s": "Wiktionary Mobile",
+    "t": "wtm",
+    "u": "https://en.m.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "nl.wiktionary.org",
+    "s": "WikiWoordenboek",
+    "t": "wtnl",
+    "u": "https://nl.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "no.wiktionary.org",
+    "s": "Wiktionary (Norwegian)",
+    "t": "wtno",
+    "u": "https://no.wiktionary.org/wiki/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "www.webtoons.com",
+    "s": "Webtoon",
+    "t": "wtoon",
+    "u": "https://www.webtoons.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "pl.wiktionary.org",
+    "s": "Wiktionary (PL)",
+    "t": "wtpl",
+    "u": "https://pl.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "pt.wiktionary.org",
+    "s": "Wiktionary (portuguese)",
+    "t": "wtpt",
+    "u": "https://pt.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ro.wiktionary.org",
+    "s": "Wiktionary (RO)",
+    "t": "wtro",
+    "u": "https://ro.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ru.wiktionary.org",
+    "s": "ru.wiktionary.org",
+    "t": "wtru",
+    "u": "http://ru.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "tr.wikipedia.org",
+    "s": "Vikipedi (Turkish Wikipedia)",
+    "t": "wtr",
+    "u": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.wtsbooks.com",
+    "s": "Westminster Bookstore",
+    "t": "wtsbooks",
+    "u": "https://www.wtsbooks.com/index/page/search?FullText={{{s}}}"
+  },
+  {
+    "d": "sv.wiktionary.org",
+    "s": "Wiktionary (SV)",
+    "t": "wtsv",
+    "u": "http://sv.wiktionary.org/w/index.php?search={{{s}}}&button=&title=Special%3AS%C3%B6k"
+  },
+  {
+    "d": "ta.wiktionary.org",
+    "s": "விக்சனரி (Wiktionary Tamil)",
+    "t": "wtta",
+    "u": "https://ta.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wttr.in",
+    "s": "wttr",
+    "t": "wttr.in",
+    "u": "http://wttr.in/{{{s}}}"
+  },
+  {
+    "d": "wttr.in",
+    "s": "Wttr.in",
+    "t": "wttr",
+    "u": "http://wttr.in/{{{s}}}"
+  },
+  {
+    "d": "tt.wikipedia.org",
+    "s": "Wikipedia Tatar",
+    "t": "wtt",
+    "u": "https://tt.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "vi.wiktionary.org",
+    "s": "Wiktionary tiếng Việt",
+    "t": "wtvi",
+    "u": "https://vi.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wiktionary.org",
+    "s": "Wiktionary",
+    "t": "wt",
+    "u": "https://en.wiktionary.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "wiki.warthunder.com",
+    "s": "War Thunder Wiki",
+    "t": "wtw",
+    "u": "http://wiki.warthunder.com/index.php?search={{{s}}} "
+  },
+  {
+    "d": "zh.wiktionary.org",
+    "s": "Wiktionary (Chinese)",
+    "t": "wtzh",
+    "u": "https://zh.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "s.wuage.com",
+    "s": "wuage",
+    "t": "wuage",
+    "u": "https://s.wuage.com/product/search?keywords= {{{s}}}"
+  },
+  {
+    "d": "uk.wikipedia.org",
+    "s": "Wikipedia (UK)",
+    "t": "wuk",
+    "u": "http://uk.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.wulfila.be",
+    "s": "Project Wulfila",
+    "t": "wulfila",
+    "u": "http://www.wulfila.be/gothic/browse/search/?find={{{s}}}&mode=1"
+  },
+  {
+    "d": "corpora.uni-leipzig.de",
+    "s": "Wortschatz",
+    "t": "wul",
+    "u": "http://corpora.uni-leipzig.de/de/res?corpusId=deu_newscrawl_2011&word={{{s}}}"
+  },
+  {
+    "d": "www.wumingfoundation.com",
+    "s": "Wu Ming Foundation",
+    "t": "wuming",
+    "u": "http://www.wumingfoundation.com/giap/?s={{{s}}}"
+  },
+  {
+    "d": "www.wunderground.com",
+    "s": "Weather Underground",
+    "t": "wunderground",
+    "u": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query={{{s}}}"
+  },
+  {
+    "d": "www.wunderlist.com",
+    "s": "Wunderlist",
+    "t": "wunderlist",
+    "u": "https://www.wunderlist.com/#/search/{{{s}}}"
+  },
+  {
+    "d": "www.wurmweb.at",
+    "s": "wurmweb",
+    "t": "wurmweb",
+    "u": "http://www.wurmweb.at/?s={{{s}}}"
+  },
+  {
+    "d": "wurmpedia.com",
+    "s": "Wurmpedia",
+    "t": "wurm",
+    "u": "http://wurmpedia.com/index.php?search={{{s}}}&fulltext=Search&title=Special%3ASearch"
+  },
+  {
+    "d": "www.we-online.com",
+    "s": "Wurth Elektronik",
+    "t": "wurthe",
+    "u": "https://www.we-online.com/web/en/wuerth_elektronik/searchpage.php?search={{{s}}}"
+  },
+  {
+    "d": "www.walmart.com",
+    "s": "Walmart US",
+    "t": "wus",
+    "u": "https://www.walmart.com/search/?query={{{s}}}&country=US"
+  },
+  {
+    "d": "www.wunderground.com",
+    "s": "Weather Underground",
+    "t": "wu",
+    "u": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query={{{s}}}"
+  },
+  {
+    "d": "de.wikivoyage.org",
+    "s": "Wikivoyage Deutsch",
+    "t": "wvde",
+    "u": "https://de.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikivoyage.org",
+    "s": "Wikivoyage (English)",
+    "t": "wven",
+    "u": "https://en.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.wikiversity.org",
+    "s": "Wikiversity",
+    "t": "wvers",
+    "u": "http://en.wikiversity.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "es.wikivoyage.org",
+    "s": "Wikivoyage español",
+    "t": "wves",
+    "u": "https://es.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "fr.wikivoyage.org",
+    "s": "Wikivoyage Français",
+    "t": "wvfr",
+    "u": "https://fr.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "it.wikivoyage.org",
+    "s": "Wikivoyage Italiano",
+    "t": "wvit",
+    "u": "https://it.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "worldvectorlogo.com",
+    "s": "WorldVectorLogo",
+    "t": "wvl",
+    "u": "https://worldvectorlogo.com/search/{{{s}}}"
+  },
+  {
+    "d": "nl.wikivoyage.org",
+    "s": "Wikivoyage Nederlands",
+    "t": "wvnl",
+    "u": "https://nl.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "vo.wikipedia.org",
+    "s": "Wikipedia (VO)",
+    "t": "wvo",
+    "u": "http://vo.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "pt.wikivoyage.org",
+    "s": "Wikivoyage Português",
+    "t": "wvpt",
+    "u": "https://pt.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ru.wikivoyage.org",
+    "s": "Wikivoyage Russian",
+    "t": "wvru",
+    "u": "https://ru.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "sv.wikivoyage.org",
+    "s": "Wikivoyage Svenska",
+    "t": "wvsv",
+    "u": "https://sv.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "en.wikivoyage.org",
+    "s": "Wikivoyage",
+    "t": "wv",
+    "u": "https://en.wikivoyage.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wwbw.com",
+    "s": "WoodwindsBrasswinds",
+    "t": "wwbw",
+    "u": "http://www.wwbw.com/Search/Default.aspx?src={{{s}}}"
+  },
+  {
+    "d": "asciiwwdc.com",
+    "s": "ASCIIwwdc",
+    "t": "wwdc",
+    "u": "http://asciiwwdc.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "Wikiwand in Deutsch",
+    "t": "wwde",
+    "u": "https://www.wikiwand.com/de/{{{s}}}"
+  },
+  {
+    "d": "www.worldswithoutend.com",
+    "s": "Worlds Without End",
+    "t": "wwend",
+    "u": "http://www.worldswithoutend.com/searchwwe.asp?st={{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "Wikiwand in english",
+    "t": "wwen",
+    "u": "http://www.wikiwand.com/en/{{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "WikiWand en Español",
+    "t": "wwes",
+    "u": "http://www.wikiwand.com/es/{{{s}}}"
+  },
+  {
+    "d": "www.wwe.com",
+    "s": "WWE",
+    "t": "wwe",
+    "u": "https://www.wwe.com/search/all/relevance/{{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "Wikiwand",
+    "t": "wwfr",
+    "u": "https://www.wikiwand.com/fr/{{{s}}}"
+  },
+  {
+    "d": "www.worldwildlife.org",
+    "s": "WWF",
+    "t": "wwf",
+    "u": "https://www.worldwildlife.org/search?cx=003443374396369277624%3Av3nraqhmeyk&ie=UTF-8&x={{{s}}}&sa="
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "w",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.wegenwiki.nl",
+    "s": "Wegenwiki",
+    "t": "wwiki",
+    "u": "http://www.wegenwiki.nl/index.php?search={{{s}}}&title=Speciaal%3AZoeken"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "WikiWand in Dutch",
+    "t": "wwnl",
+    "u": "http://www.wikiwand.com/nl/{{{s}}}"
+  },
+  {
+    "d": "www.wwoof.net",
+    "s": "Wwoof.net",
+    "t": "wwoof",
+    "u": "http://www.wwoof.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.whatpeopleplay.com",
+    "s": "https://www.whatpeopleplay.com",
+    "t": "wwp",
+    "u": "https://www.whatpeopleplay.com/search/all/{{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "Wikiwand em Portugês",
+    "t": "wwpt",
+    "u": "https://www.wikiwand.com/pt/{{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "WikiWand Türkçe",
+    "t": "wwtr",
+    "u": "http://www.wikiwand.com/tr/{{{s}}}"
+  },
+  {
+    "d": "www.89porno.com",
+    "s": "Porno İzle",
+    "t": "www.89porno.com",
+    "u": "http://www.89porno.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "Wikiwand",
+    "t": "ww",
+    "u": "https://www.wikiwand.com/en/{{{s}}}"
+  },
+  {
+    "d": "nihongo.monash.edu",
+    "s": "WWWJDIC",
+    "t": "wwwjdic",
+    "u": "http://nihongo.monash.edu/cgi-bin/wwwjdic?1MUE{{{s}}}"
+  },
+  {
+    "d": "publicwww.com",
+    "s": "PublicWWW",
+    "t": "www",
+    "u": "https://publicwww.com/websites/{{{s}}}/"
+  },
+  {
+    "d": "www.wikiwand.com",
+    "s": "WikiWand in Chinese",
+    "t": "wwzh",
+    "u": "https://www.wikiwand.com/zh/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "WeChat MiniProgram Developer Document",
+    "t": "wxdev",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:https://developers.weixin.qq.com/miniprogram/dev"
+  },
+  {
+    "d": "synonyme.woxikon.de",
+    "s": "Woxikon.de",
+    "t": "wxd",
+    "u": "http://synonyme.woxikon.de/synonyme/{{{s}}}.php"
+  },
+  {
+    "d": "forum.wuxiaworld.com",
+    "s": "WuxiaWorld Forums",
+    "t": "wxf",
+    "u": "https://forum.wuxiaworld.com/search?Search={{{s}}}"
+  },
+  {
+    "d": "developers.weixin.qq.com",
+    "s": "search wechat miniprogram documents",
+    "t": "wxmp",
+    "u": "https://developers.weixin.qq.com/doc/search.html?query={{{s}}}"
+  },
+  {
+    "d": "docs.wxwidgets.org",
+    "s": "wxWidgets Documentation",
+    "t": "wxw",
+    "u": "http://docs.wxwidgets.org/trunk/search.php?query={{{s}}}"
+  },
+  {
+    "d": "www.wykop.pl",
+    "s": "Wykop.pl",
+    "t": "wykop",
+    "u": "http://www.wykop.pl/szukaj/{{{s}}}/"
+  },
+  {
+    "d": "wynk.in",
+    "s": "https://wynk.in/",
+    "t": "wynk",
+    "u": "https://wynk.in/music/detailsearch/{{{s}}}?q={{{s}}}"
+  },
+  {
+    "d": "wynncraft.gamepedia.com",
+    "s": "Wynncraft Wiki",
+    "t": "wynn",
+    "u": "https://wynncraft.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.wykop.pl",
+    "s": "Wykop.pl",
+    "t": "wy",
+    "u": "http://www.wykop.pl/szukaj/{{{s}}}"
+  },
+  {
+    "d": "zh.wikipedia.org",
+    "s": "Wikipedia (ZH)",
+    "t": "wzh",
+    "u": "http://zh.wikipedia.org/w/wiki.phtml?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.weasyl.com",
+    "s": "Weasyl",
+    "t": "wzl",
+    "u": "https://www.weasyl.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.warpzone.ms",
+    "s": "Warpzone e.V.",
+    "t": "wz",
+    "u": "https://www.warpzone.ms/?s={{{s}}} "
+  },
+  {
+    "d": "wiki.warpzone.ms",
+    "s": "Warpzone Wiki",
+    "t": "wzw",
+    "u": "http://wiki.warpzone.ms/start?do=search&id={{{s}}}"
+  }
+]

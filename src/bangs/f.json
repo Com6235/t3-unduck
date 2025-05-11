@@ -1,0 +1,3158 @@
+[
+  {
+    "d": "www.f1zone.net",
+    "s": "F1Zone",
+    "t": "f1",
+    "u": "http://www.f1zone.net/news/index.php?s={{{s}}}"
+  },
+  {
+    "d": "www.france3.fr",
+    "s": "France 3",
+    "t": "f3",
+    "u": "http://www.france3.fr/recherche?s={{{s}}}"
+  },
+  {
+    "d": "www.nexusmods.com",
+    "s": "Fallout 3 NexusMods",
+    "t": "f3nm",
+    "u": "https://www.nexusmods.com/fallout3/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "d": "www.f64.ro",
+    "s": "F64.ro",
+    "t": "f64",
+    "u": "https://www.f64.ro/{{{s}}}"
+  },
+  {
+    "d": "fordsix.com",
+    "s": "The FordSix Performance Forum",
+    "t": "f6",
+    "u": "https://fordsix.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate Fa to En",
+    "t": "fa2en",
+    "u": "https://translate.google.com/#fa/en/{{{s}}}"
+  },
+  {
+    "d": "fab.com",
+    "s": "Fab",
+    "t": "fab",
+    "u": "http://fab.com/search/?q={{{s}}}&ref=ddb"
+  },
+  {
+    "d": "www.fabienm.eu",
+    "s": "fabienm",
+    "t": "fabienm",
+    "u": "http://www.fabienm.eu/wordpress/?s={{{s}}}"
+  },
+  {
+    "d": "www.fabric.com",
+    "s": "Fabric.com",
+    "t": "fabric",
+    "u": "https://www.fabric.com/SearchResults2.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "www.facebook.com",
+    "s": "Facebook",
+    "t": "facebook",
+    "u": "http://www.facebook.com/s.php?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google",
+    "t": "facephoto",
+    "u": "https://www.google.com/search?q=%22{{{s}}}%22&tbm=isch&tbs=ic:color,isz:lt,itp:face,isg:to&filter=0&safe=off&pws=0&tbs=rl:0"
+  },
+  {
+    "d": "forum.facepunch.com",
+    "s": "Facepunch Forums",
+    "t": "facepunch",
+    "u": "https://forum.facepunch.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Images (Faces)",
+    "t": "faces",
+    "u": "https://www.google.com/search?tbm=isch&tbs=itp:face&q={{{s}}}"
+  },
+  {
+    "d": "www.factbites.com",
+    "s": "Factbites",
+    "t": "factbites",
+    "u": "http://www.factbites.com/topics/{{{s}}}"
+  },
+  {
+    "d": "factly.in",
+    "s": "Factly",
+    "t": "factly",
+    "u": "https://factly.in/?s={{{s}}}"
+  },
+  {
+    "d": "factornumber.com",
+    "s": "Factor Number",
+    "t": "factor",
+    "u": "http://factornumber.com/?page={{{s}}};"
+  },
+  {
+    "d": "wiki.factorio.com",
+    "s": "Factorio wiki",
+    "t": "factorio",
+    "u": "https://wiki.factorio.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "mods.factorio.com",
+    "s": "Factorio Mods",
+    "t": "factoriomods",
+    "u": "https://mods.factorio.com/query/{{{s}}}"
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Firefox Addons",
+    "t": "fad",
+    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.filmaffinity.com",
+    "s": "Film Affinity",
+    "t": "faff",
+    "u": "http://www.filmaffinity.com/es/search.php?stext={{{s}}} &stype=all"
+  },
+  {
+    "d": "www.filmaffinity.com",
+    "s": "Filmaffinity",
+    "t": "faf",
+    "u": "http://www.filmaffinity.com/es/advsearch2.php?cx=008177178803676006601%3A6zmc6j5pngs&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}:"
+  },
+  {
+    "d": "www.filmaffinity.com",
+    "s": "FilmAffinity",
+    "t": "fa",
+    "u": "http://www.filmaffinity.com/es/search.php?stext={{{s}}}&stype=all"
+  },
+  {
+    "d": "www.fahrschule-berne.de",
+    "s": "Fahrschule Berne",
+    "t": "fahrschule",
+    "u": "http://www.fahrschule-berne.de/component/search/?searchword={{{s}}}"
+  },
+  {
+    "d": "fontawesome.com",
+    "s": "Font Awesome",
+    "t": "faicon",
+    "u": "https://fontawesome.com/icons?d=gallery&q={{{s}}}"
+  },
+  {
+    "d": "www.faillissementen.com",
+    "s": "Faillissementen.com",
+    "t": "failliet",
+    "u": "https://www.faillissementen.com/insolventies/nederlandse-insolventies/?q={{{s}}}"
+  },
+  {
+    "d": "fair.org",
+    "s": "Fairness and Accuracy in Reporting",
+    "t": "fair",
+    "u": "https://fair.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.fairmondo.de",
+    "s": "Fairmondo",
+    "t": "fairmondo",
+    "u": "https://www.fairmondo.de/articles?article_search_form[q]={{{s}}}"
+  },
+  {
+    "d": "www.fairtragen.de",
+    "s": "fairtragen",
+    "t": "fairtragen",
+    "u": "https://www.fairtragen.de/advanced_search_result.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.fakespot.com",
+    "s": "Fakespot",
+    "t": "fake",
+    "u": "https://www.fakespot.com/analyze?url={{{s}}}"
+  },
+  {
+    "d": "www.fakespot.com",
+    "s": "Fakespot",
+    "t": "fakespot",
+    "u": "https://www.fakespot.com/analyze?url={{{s}}}"
+  },
+  {
+    "d": "fallenlondon.wikia.com",
+    "s": "Fallen London wiki",
+    "t": "fallenlondon",
+    "u": "http://fallenlondon.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "fallout.wikia.com",
+    "s": "Fallout Wikia",
+    "t": "fallout",
+    "u": "http://fallout.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "fallout.gamepedia.com",
+    "s": "The Vault Fallout Wiki",
+    "t": "falloutlore",
+    "u": "https://fallout.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "fanart.tv",
+    "s": "Fanart.tv",
+    "t": "fanart",
+    "u": "https://fanart.tv/?sect=all&s={{{s}}}"
+  },
+  {
+    "d": "fanart.tv",
+    "s": "Fanart.tv (Music)",
+    "t": "fanartm",
+    "u": "https://fanart.tv/?s={{{s}}}&sect=2"
+  },
+  {
+    "d": "www.fancade.com",
+    "s": "Fancade",
+    "t": "fancade",
+    "u": "http://www.fancade.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.qth.fr",
+    "s": "Quick Troll Hosted",
+    "t": "fanch",
+    "u": "http://www.qth.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.shopfancythat.com",
+    "s": "Fancy That",
+    "t": "fancythat",
+    "u": "https://www.shopfancythat.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.thefancy.com",
+    "s": "TheFancy",
+    "t": "fancy",
+    "u": "http://www.thefancy.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.fandango.com",
+    "s": "Fandango",
+    "t": "fandango",
+    "u": "http://www.fandango.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.fandom.com",
+    "s": "Fandom",
+    "t": "fandom",
+    "u": "https://www.fandom.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.fanfiction.net",
+    "s": "Fanfiction",
+    "t": "fanfiction",
+    "u": "https://www.fanfiction.net/search/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.fangamer.com",
+    "s": "Fangamer",
+    "t": "fangamer",
+    "u": "https://www.fangamer.com/search?type=product&q=*{{{s}}}*"
+  },
+  {
+    "d": "www.fangraphs.com",
+    "s": "Fangraphs",
+    "t": "fangraphs",
+    "u": "http://www.fangraphs.com/players.aspx?lastname={{{s}}}"
+  },
+  {
+    "d": "fanlore.org",
+    "s": "Fanlore",
+    "t": "fanlore",
+    "u": "https://fanlore.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.fanpop.com",
+    "s": "Fanpop",
+    "t": "fanpop",
+    "u": "http://www.fanpop.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.fansale.de",
+    "s": "fansale",
+    "t": "fansale",
+    "u": "https://www.fansale.de/fansale/events.htm?searchText={{{s}}}"
+  },
+  {
+    "d": "www.fantagraphics.com",
+    "s": "Fantagraphics Books",
+    "t": "fantagraphics",
+    "u": "http://www.fantagraphics.com/index.php?keyword={{{s}}}"
+  },
+  {
+    "d": "www.fantasy.fr",
+    "s": "fantasy.fr",
+    "t": "fantasy",
+    "u": "http://www.fantasy.fr/searches/index/{{{s}}} "
+  },
+  {
+    "d": "fantasy-life.wikia.com",
+    "s": "Fantasy Life Wikia",
+    "t": "fantasylife",
+    "u": "http://fantasy-life.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "d": "fantlab.ru",
+    "s": "Лаборатория Фантастики",
+    "t": "fantlab",
+    "u": "https://fantlab.ru/searchmain?searchstr={{{s}}}"
+  },
+  {
+    "d": "it.farnell.com",
+    "s": "Farnell Italia",
+    "t": "farit",
+    "u": "http://it.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-4&storeId=10165&categoryName=Tutte le categorie&selectedCategoryId=&gs=true&st={{{s}}}"
+  },
+  {
+    "d": "www.fark.com",
+    "s": "Fark.com",
+    "t": "fark",
+    "u": "https://www.fark.com/hlsearch?&qq={{{s}}}"
+  },
+  {
+    "d": "www.farmaline.be",
+    "s": "FARMALINE",
+    "t": "farmaline",
+    "u": "https://www.farmaline.be/apotheek/zoeken/{{{s}}}/?ref=duckduckgo"
+  },
+  {
+    "d": "www.farmfor.com.br",
+    "s": "Blog do Farmfor",
+    "t": "farmfor",
+    "u": "https://www.farmfor.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "de.farnell.com",
+    "s": "Farnell DE",
+    "t": "farnde",
+    "u": "http://de.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-3&storeId=10161&categoryName=Alle%20Kategorien&selectedCategoryId=&gs=true&st={{{s}}}"
+  },
+  {
+    "d": "uk.farnell.com",
+    "s": "Farnell (UK)",
+    "t": "farnell",
+    "u": "http://uk.farnell.com/webapp/wcs/stores/servlet/Search?&st={{{s}}}"
+  },
+  {
+    "d": "fr.farnell.com",
+    "s": "Farnell france",
+    "t": "farnellfr",
+    "u": "http://fr.farnell.com/{{{s}}} "
+  },
+  {
+    "d": "es.farnell.com",
+    "s": "Farnell ES",
+    "t": "farnes",
+    "u": "https://es.farnell.com/search?st={{{s}}}"
+  },
+  {
+    "d": "nl.farnell.com",
+    "s": "Farnell (NL)",
+    "t": "farnl",
+    "u": "https://nl.farnell.com/webapp/wcs/stores/servlet/Search?&st={{{s}}}"
+  },
+  {
+    "d": "www.farrvintners.com",
+    "s": "www.farrvintners.com",
+    "t": "farr",
+    "u": "https://www.farrvintners.com/winelist.php?keywords={{{s}}}"
+  },
+  {
+    "d": "farsi123.com",
+    "s": "Farsi123",
+    "t": "farsi123",
+    "u": "http://farsi123.com/?word={{{s}}}"
+  },
+  {
+    "d": "fontawesome.com",
+    "s": "Font Awesome",
+    "t": "fas",
+    "u": "https://fontawesome.com/icons?d=gallery&q={{{s}}}"
+  },
+  {
+    "d": "www.fashionmodeldirectory.com",
+    "s": "The Fashion Model Directory",
+    "t": "fashionmodeldirectory",
+    "u": "http://www.fashionmodeldirectory.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.fass.se",
+    "s": "Fass allmänhet",
+    "t": "fass",
+    "u": "https://www.fass.se/m/sok/{{{s}}}/public"
+  },
+  {
+    "d": "www.fass.se",
+    "s": "Fass Vårdpersonal",
+    "t": "fassv",
+    "u": "https://www.fass.se/LIF/result?userType=0&query={{{s}}}"
+  },
+  {
+    "d": "forums.fast.ai",
+    "s": "fast.ai forums",
+    "t": "fastai",
+    "u": "https://forums.fast.ai/search?q={{{s}}}"
+  },
+  {
+    "d": "www.fastmail.com",
+    "s": "FastMail",
+    "t": "fastmail",
+    "u": "https://www.fastmail.com/help/search/?q={{{s}}}"
+  },
+  {
+    "d": "fastu.be",
+    "s": "Fastu.be",
+    "t": "fastube",
+    "u": "http://fastu.be/{{{s}}}"
+  },
+  {
+    "d": "www.fatsecret.com",
+    "s": "FatSecret",
+    "t": "fatsecret",
+    "u": "https://www.fatsecret.com/calories-nutrition/search?q={{{s}}}"
+  },
+  {
+    "d": "fanart.tv",
+    "s": "Fanart.tv",
+    "t": "fatv",
+    "u": "https://fanart.tv/?sect=all&s={{{s}}}"
+  },
+  {
+    "d": "www.faucet.com",
+    "s": "Faucet.com",
+    "t": "faucet",
+    "u": "http://www.faucet.com/index.cfm?page=search:browse&term={{{s}}}"
+  },
+  {
+    "d": "furaffinity.net",
+    "s": "FurAffinity User",
+    "t": "fauser",
+    "u": "http://furaffinity.net/user/{{{s}}}"
+  },
+  {
+    "d": "flightaware.com",
+    "s": "FlightAware",
+    "t": "faw",
+    "u": "http://flightaware.com/live/flight/{{{s}}}"
+  },
+  {
+    "d": "www.faz.net",
+    "s": "Frankfurter Allgemeine",
+    "t": "faz",
+    "u": "http://www.faz.net/suche/?query={{{s}}}"
+  },
+  {
+    "d": "www.fundeu.es",
+    "s": "Fundéu BBVA",
+    "t": "fbbva",
+    "u": "http://www.fundeu.es/?s={{{s}}}"
+  },
+  {
+    "d": "framabee.org",
+    "s": "FramaBee",
+    "t": "fbee",
+    "u": "https://framabee.org/?q={{{s}}} "
+  },
+  {
+    "d": "www.facebook.com",
+    "s": "Facebook",
+    "t": "fb",
+    "u": "https://www.facebook.com/search.php/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "FootballGuys",
+    "t": "fbg",
+    "u": "https://duckduckgo.com/?q=site%3Afootballguys.com+{{{s}}}"
+  },
+  {
+    "d": "www.facebook.com",
+    "s": "Facebook",
+    "t": "fbk",
+    "u": "https://www.facebook.com/search/results/?q={{{s}}}"
+  },
+  {
+    "d": "mbasic.facebook.com",
+    "s": "Facebook Lite",
+    "t": "fblite",
+    "u": "https://mbasic.facebook.com/search/?refid=46&search=people&search_source=search_bar&query={{{s}}}"
+  },
+  {
+    "d": "www.facebook.com",
+    "s": "Facebook Messages",
+    "t": "fbm",
+    "u": "https://www.facebook.com/messages/search?action=search-snippet&mquery={{{s}}}"
+  },
+  {
+    "d": "facebookcorewwwi.onion",
+    "s": "Facebook over TOR",
+    "t": "fbonion",
+    "u": "https://facebookcorewwwi.onion/search.php/?q={{{s}}}"
+  },
+  {
+    "d": "www.facebook.com",
+    "s": "Facebook Pages",
+    "t": "fbp",
+    "u": "https://www.facebook.com/search/results/?q={{{s}}}&type=pages"
+  },
+  {
+    "d": "www.pro-football-reference.com",
+    "s": "Pro Football Reference",
+    "t": "fbr",
+    "u": "http://www.pro-football-reference.com/player_search.fcgi?search={{{s}}}"
+  },
+  {
+    "d": "www.fbschedules.com",
+    "s": "FBSchedules",
+    "t": "fbs",
+    "u": "http://www.fbschedules.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "bugs.freebsd.org",
+    "s": "FreeBSD Bugs",
+    "t": "fbugs",
+    "u": "https://bugs.freebsd.org/bugzilla/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "www.frag-caesar.de",
+    "s": "Frag Caesar",
+    "t": "fcaesar",
+    "u": "https://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html"
+  },
+  {
+    "d": "www.fcbayern.de",
+    "s": "FC Bayern Munich",
+    "t": "fcbar",
+    "u": "http://www.fcbayern.de/ar/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "d": "www.fcbayern.de",
+    "s": "FC Bayern Munich",
+    "t": "fcben",
+    "u": "http://www.fcbayern.de/en/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "d": "www.fcbayern.de",
+    "s": "FC Bayern München",
+    "t": "fcbes",
+    "u": "http://www.fcbayern.de/es/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "d": "www.fcbayern.de",
+    "s": "FC Bayern München",
+    "t": "fcb",
+    "u": "http://www.fcbayern.de/de/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "d": "www.fcbayern.de",
+    "s": "FC Bayern Munich",
+    "t": "fcbjp",
+    "u": "http://www.fcbayern.de/jp/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "d": "www.fcbayern.de",
+    "s": "FC Bayern Munich",
+    "t": "fcbru",
+    "u": "http://www.fcbayern.de/ru/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "d": "www.fcbayernmunich.com",
+    "s": "FC Bayern Munich",
+    "t": "fcbus",
+    "u": "http://www.fcbayernmunich.com/us/search#search={{{s}}}&chronology=chrono"
+  },
+  {
+    "d": "www.freecodecamp.org",
+    "s": "freeCodeCamp Forum",
+    "t": "fccf",
+    "u": "https://www.freecodecamp.org/forum/search?q= {{{s}}}"
+  },
+  {
+    "d": "www.forocoches.com",
+    "s": "ForoCoches",
+    "t": "fcc",
+    "u": "http://www.forocoches.com/foro/search.php?do=process&titleonly=1&query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "FreeCAD",
+    "t": "fc",
+    "u": "https://duckduckgo.com/?q=site%3A+freecadweb.org+{{{s}}}"
+  },
+  {
+    "d": "fcit.usf.edu",
+    "s": "Florida Center for Instructional Technology",
+    "t": "fcit",
+    "u": "https://fcit.usf.edu/search/index.php?searchWords={{{s}}}"
+  },
+  {
+    "d": "search.freecodecamp.org",
+    "s": "freeCodeCamp",
+    "t": "fcode",
+    "u": "https://search.freecodecamp.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "wordreference.com",
+    "t": "fconj",
+    "u": "http://www.wordreference.com/conj/FRverbs.aspx?v={{{s}}} "
+  },
+  {
+    "d": "www.fcpeuro.com",
+    "s": "FCP Euro",
+    "t": "fcpeuro",
+    "u": "https://www.fcpeuro.com/products?utf8=%E2%9C%93&keywords={{{s}}}"
+  },
+  {
+    "d": "portal.fultonschools.org",
+    "s": "Fulton County Schools",
+    "t": "fcs",
+    "u": "http://portal.fultonschools.org/_layouts/OSSSearchResults.aspx?k={{{s}}}"
+  },
+  {
+    "d": "www.franceculture.fr",
+    "s": "France Culture",
+    "t": "fculture",
+    "u": "https://www.franceculture.fr/recherche?q={{{s}}}"
+  },
+  {
+    "d": "search.usa.gov",
+    "s": "FDA",
+    "t": "fda",
+    "u": "https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=fda&query={{{s}}}&commit=Search"
+  },
+  {
+    "d": "www.fdb.cz",
+    "s": "Filmová Databáze",
+    "t": "fdb",
+    "u": "http://www.fdb.cz/vyhledavani.php?co=vsechno&hledat={{{s}}}"
+  },
+  {
+    "d": "blog.freshdesk.com",
+    "s": "Freshdesk blog",
+    "t": "fdblog",
+    "u": "https://blog.freshdesk.com/?s={{{s}}}"
+  },
+  {
+    "d": "fdb.pl",
+    "s": "fdb.pl",
+    "t": "fdbpl",
+    "u": "https://fdb.pl/szukaj?utf8=✓&query={{{s}}}"
+  },
+  {
+    "d": "fddb.info",
+    "s": "fddb.info",
+    "t": "fddb",
+    "u": "http://fddb.info/db/de/suche/?udd=0&cat=site-de&search={{{s}}}"
+  },
+  {
+    "d": "support.freshdesk.com",
+    "s": "Freshdesk forums",
+    "t": "fdf",
+    "u": "https://support.freshdesk.com/support/search/topics?term={{{s}}}"
+  },
+  {
+    "d": "freedictionary.org",
+    "s": "Free Dictionary",
+    "t": "fd",
+    "u": "http://freedictionary.org/?Query={{{s}}}&button=Search"
+  },
+  {
+    "d": "finedictionary.com",
+    "s": "finedictionary",
+    "t": "fdic",
+    "u": "http://finedictionary.com/{{{s}}}.html"
+  },
+  {
+    "d": "feedly.com",
+    "s": "Feedly",
+    "t": "fdl",
+    "u": "https://feedly.com/i/search/{{{s}}}"
+  },
+  {
+    "d": "bugs.freedesktop.org",
+    "s": "freedesktop.org bugs",
+    "t": "fdobugs",
+    "u": "https://bugs.freedesktop.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "freedesktop.org",
+    "t": "fdo",
+    "u": "https://www.google.com/search?sitesearch=http%3A%2F%2Fwww.freedesktop.org%2Fwiki%2F&q={{{s}}}&gws_rd=ssl"
+  },
+  {
+    "d": "thefederalist.com",
+    "s": "www.thefederalist.com",
+    "t": "fdrlst",
+    "u": "http://thefederalist.com/?s={{{s}}}"
+  },
+  {
+    "d": "search.f-droid.org",
+    "s": "F-Droid search",
+    "t": "fdroid",
+    "u": "https://search.f-droid.org/?q={{{s}}} "
+  },
+  {
+    "d": "support.freshdesk.com",
+    "s": "Freshdesk solutions",
+    "t": "fds",
+    "u": "https://support.freshdesk.com/support/search/solutions?term={{{s}}}"
+  },
+  {
+    "d": "fireemblem.fandom.com",
+    "s": "Fire Emblem Fandom Wiki",
+    "t": "fe7",
+    "u": "https://fireemblem.fandom.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.fedex.com",
+    "s": "FedEx",
+    "t": "fedex",
+    "u": "https://www.fedex.com/fedextrack/?trknbr={{{s}}}"
+  },
+  {
+    "d": "koji.fedoraproject.org",
+    "s": "Fedora: Koji package search",
+    "t": "fedkojip",
+    "u": "https://koji.fedoraproject.org/koji/search?match=glob&type=package&terms={{{s}}}"
+  },
+  {
+    "d": "linuxmanpages.net",
+    "s": "Fedora Manuals",
+    "t": "fedman",
+    "u": "http://linuxmanpages.net/search.py?q={{{s}}}"
+  },
+  {
+    "d": "fedoraproject.org",
+    "s": "Fedora wiki",
+    "t": "fedora",
+    "u": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "fedoramagazine.org",
+    "s": "fedoramagazine.org",
+    "t": "fedoramagazine",
+    "u": "https://fedoramagazine.org/?s={{{s}}}"
+  },
+  {
+    "d": "apps.fedoraproject.org",
+    "s": "Fedora Package DB",
+    "t": "fedorapkg",
+    "u": "https://apps.fedoraproject.org/packages/s/{{{s}}}"
+  },
+  {
+    "d": "fedoraproject.org",
+    "s": "Fedora Project",
+    "t": "fedorawiki",
+    "u": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "apps.fedoraproject.org",
+    "s": "Fedora Package Search",
+    "t": "fedpack",
+    "u": "https://apps.fedoraproject.org/packages/s/{{{s}}}"
+  },
+  {
+    "d": "www.federalregister.gov",
+    "s": "Federal Register",
+    "t": "fedreg",
+    "u": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D={{{s}}}"
+  },
+  {
+    "d": "www.feedbooks.com",
+    "s": "Feedbooks",
+    "t": "feedbooks",
+    "u": "http://www.feedbooks.com/search?query={{{s}}}"
+  },
+  {
+    "d": "feedly.com",
+    "s": "Feedly",
+    "t": "feedly",
+    "u": "https://feedly.com/i/search/{{{s}}}"
+  },
+  {
+    "d": "www.feedough.com",
+    "s": "Feedough",
+    "t": "feedough",
+    "u": "https://www.feedough.com/?s={{{s}}}"
+  },
+  {
+    "d": "fee.org",
+    "s": "Foundation for Economic Education (FEE)",
+    "t": "fee",
+    "u": "https://fee.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.wikifeet.com",
+    "s": "wikiFeet",
+    "t": "feet",
+    "u": "https://www.wikifeet.com/search/{{{s}}}"
+  },
+  {
+    "d": "blog.fefe.de",
+    "s": "Fefes Blog",
+    "t": "fefe",
+    "u": "https://blog.fefe.de/?q={{{s}}}"
+  },
+  {
+    "d": "fegtherm.hu",
+    "s": "fegtherm",
+    "t": "fegtherm",
+    "u": "http://fegtherm.hu/?s={{{s}}}"
+  },
+  {
+    "d": "feheroes.gamepedia.com",
+    "s": "Fire Emblem Heroes Wiki",
+    "t": "feh",
+    "u": "https://feheroes.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "feheroes.gamepedia.com",
+    "s": "Fire Emblem Heroes Wiki",
+    "t": "fehw",
+    "u": "https://feheroes.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "felleskatalogen.no",
+    "s": "Felleskatalogen",
+    "t": "felleskatalogen",
+    "u": "http://felleskatalogen.no/medisin/sok?sokord={{{s}}}"
+  },
+  {
+    "d": "www.lafeltrinelli.it",
+    "s": "LaFeltrinelli",
+    "t": "feltrinelli",
+    "u": "http://www.lafeltrinelli.it/fcom/it/home/pages/catalogo/searchresults.html?prkw={{{s}}}"
+  },
+  {
+    "d": "www.fer.unizg.hr",
+    "s": "University of Zagreb Faculty of Electrical Engineering and Computing",
+    "t": "fer",
+    "u": "http://www.fer.unizg.hr/search?sq={{{s}}} &s_skip=0"
+  },
+  {
+    "d": "www.folklore.ee",
+    "s": "Eesti fraseologismide elektrooniline alussõnastik",
+    "t": "fes",
+    "u": "http://www.folklore.ee/justkui/sonastik/?otsing={{{s}}}&paring=Otsi"
+  },
+  {
+    "d": "edwardfeser.blogspot.com",
+    "s": "Edward Feser",
+    "t": "feser",
+    "u": "https://edwardfeser.blogspot.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.fettrechner.de",
+    "s": "Fettrechner",
+    "t": "fettrechner",
+    "u": "http://www.fettrechner.de/cgi-bin/kalorientabelle.pl?t=temsearch&sort=BEZEICHNUNG&f=*RUBRIK%2C*SUCHBEGRIFFE%2C*BEZEICHNUNG%2C*HERSTELLER&f1=HERSTELLER&start=1&dif=50&c={{{s}}}"
+  },
+  {
+    "d": "fireemblemwiki.org",
+    "s": "Fire Emblem Wiki",
+    "t": "few",
+    "u": "https://fireemblemwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "fireemblemwiki.org",
+    "s": "Fire Emblem Wiki",
+    "t": "fewiki",
+    "u": "https://fireemblemwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.firesidexpressions.com",
+    "s": "Fireside Xpressions",
+    "t": "fex",
+    "u": "https://www.firesidexpressions.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "darksouls3.wiki.fextralife.com",
+    "s": "Dark Souls 3 wiki",
+    "t": "fextrads3",
+    "u": "https://darksouls3.wiki.fextralife.com/{{{s}}}"
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Firefox Add-ons",
+    "t": "ffa",
+    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "d": "ffbbunt.wordpress.com",
+    "s": "Fürstenfeldbruck ist bunt!",
+    "t": "ffbbunt",
+    "u": "https://ffbbunt.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "foundfootagecritic.com",
+    "s": "Found Footage Critic",
+    "t": "ffc",
+    "u": "http://foundfootagecritic.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.admin.ch",
+    "s": "admin.ch - Feuille fédérale",
+    "t": "ffch",
+    "u": "https://www.admin.ch/opc/search/?lang=fr&language[]=fr&product[]=fg&text={{{s}}}&lang=fr"
+  },
+  {
+    "d": "www.fanfiction.net",
+    "s": "fanfiction.net",
+    "t": "ff",
+    "u": "http://www.fanfiction.net/search.php?type=story&keywords={{{s}}}&match=title&sort=0&genreid=0&subgenreid=0&characterid=0&subcharacterid=0&words=0&ready=1&categoryid=0"
+  },
+  {
+    "d": "www.finder.fi",
+    "s": "Finder.fi",
+    "t": "ffi",
+    "u": "https://www.finder.fi/search?what={{{s}}}"
+  },
+  {
+    "d": "ff14.inven.co.kr",
+    "s": "파판14 인벤",
+    "t": "ffinv",
+    "u": "http://ff14.inven.co.kr/dataninfo/item/?itemname={{{s}}}&datagroup=search"
+  },
+  {
+    "d": "www.flickr.com",
+    "s": "Flickr",
+    "t": "f",
+    "u": "http://www.flickr.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "fastfoodmusic.com",
+    "s": "Fast Food Music",
+    "t": "ffm",
+    "u": "https://fastfoodmusic.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.fanfiction.net",
+    "s": "FanFiction",
+    "t": "ffn",
+    "u": "https://www.fanfiction.net/search/?keywords={{{s}}}&ready=1&type=story"
+  },
+  {
+    "d": "www.freefallsupport.com",
+    "s": "freefallsupport.com",
+    "t": "ffs",
+    "u": "https://www.freefallsupport.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.fanfiction.net",
+    "s": "FanFiction Stories",
+    "t": "ffstory",
+    "u": "https://www.fanfiction.net/search.php?keywords={{{s}}}&type=story&match=any&formatid=any&sort=0&genreid1=0&genreid2=0&characterid1=0&characterid2=0&characterid3=0&characterid4=0&words=0&ready=1&categoryid=0"
+  },
+  {
+    "d": "www.fanfiction.net",
+    "s": "Fanfiction.net Writers",
+    "t": "ffw",
+    "u": "https://www.fanfiction.net/search.php?type=writer&keywords={{{s}}}&match=title&sort=0&genreid=0&subgenreid=0&characterid=0&subcharacterid=0&words=0&ready=1&categoryid=0#"
+  },
+  {
+    "d": "finalfantasy.wikia.com",
+    "s": "Final Fantasy Wiki",
+    "t": "ffwiki",
+    "u": "http://finalfantasy.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "ffxiv.consolegameswiki.com",
+    "s": "Final Fantasy XIV A Realm Reborn Wiki",
+    "t": "ffxiv",
+    "u": "https://ffxiv.consolegameswiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ffxivteamcraft.com",
+    "s": "FFXIV Teamcraft",
+    "t": "ffxivtc",
+    "u": "https://ffxivteamcraft.com/search?query={{{s}}}&onlyRecipes=true"
+  },
+  {
+    "d": "www.frankerfacez.com",
+    "s": "FrankerFaceZ",
+    "t": "ffz",
+    "u": "http://www.frankerfacez.com/emoticons/?q={{{s}}}"
+  },
+  {
+    "d": "www.frag-caesar.de",
+    "s": "Frag Caesar",
+    "t": "fgcs",
+    "u": "http://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Gentoo Forums",
+    "t": "fgentoo",
+    "u": "https://duckduckgo.com/?q=site%3Aforums.gentoo.org+{{{s}}}"
+  },
+  {
+    "d": "www.fangraphs.com",
+    "s": "Fangraphs",
+    "t": "fg",
+    "u": "http://www.fangraphs.com/players.aspx?lastname={{{s}}}"
+  },
+  {
+    "d": "www.flightgear.org",
+    "s": "Flightgear Forums",
+    "t": "fgf",
+    "u": "http://www.flightgear.org/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "fategrandorder.wikia.com",
+    "s": "Fate/Grand Order Wikia",
+    "t": "fgow",
+    "u": "http://fategrandorder.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "wiki.fhem.de",
+    "s": "FHEM",
+    "t": "fhem",
+    "u": "https://wiki.fhem.de/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "filehippo.com",
+    "s": "Filehippo",
+    "t": "fh",
+    "u": "http://filehippo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fidgethq.com",
+    "s": "FidgetHQ",
+    "t": "fhq",
+    "u": "https://fidgethq.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fhsu.edu",
+    "s": "Fort Hays State University",
+    "t": "fhsu",
+    "u": "https://fhsu.edu/searchresults.aspx?query={{{s}}}"
+  },
+  {
+    "d": "www.fosshub.com",
+    "s": "FossHub",
+    "t": "fhub",
+    "u": "https://www.fosshub.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.fibercables.com",
+    "s": "FiberCables.com",
+    "t": "fibercables",
+    "u": "http://www.fibercables.com/search?q={{{s}}}"
+  },
+  {
+    "d": "ficly.com",
+    "s": "ficly",
+    "t": "ficly",
+    "u": "http://ficly.com/search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "https://www.gladyscelticcorner.com",
+    "t": "fiddling",
+    "u": "https://duckduckgo.com/?q=site%3Agladyscelticcorner.com+{{{s}}}"
+  },
+  {
+    "d": "ratings.fide.com",
+    "s": "Fide - World Chess Federation",
+    "t": "fide",
+    "u": "https://ratings.fide.com/search.phtml?search={{{s}}}"
+  },
+  {
+    "d": "www.file.net",
+    "s": "File.net",
+    "t": "fid",
+    "u": "https://www.file.net/process/{{{s}}}.html"
+  },
+  {
+    "d": "www.fido.ca",
+    "s": "Fido",
+    "t": "fido",
+    "u": "http://www.fido.ca/consumer/search?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "fien",
+    "u": "http://translate.google.com/#fi/en/{{{s}}} "
+  },
+  {
+    "d": "www.fifa.com",
+    "s": "FIFA",
+    "t": "fifa",
+    "u": "https://www.fifa.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.finanzen.net",
+    "s": "finanzen.net",
+    "t": "fi",
+    "u": "http://www.finanzen.net/suchergebnis.asp?strSuchString={{{s}}}"
+  },
+  {
+    "d": "thefifthcity.wikia.com",
+    "s": "The Fifth City: Fallen London Lore Wikia",
+    "t": "fifthcity",
+    "u": "http://thefifthcity.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "figuya.com",
+    "s": "Figuya",
+    "t": "figuya",
+    "u": "https://figuya.com/en/products?q[query]={{{s}}}"
+  },
+  {
+    "d": "www.file-extensions.org",
+    "s": "File-Extensions.org",
+    "t": "fileext",
+    "u": "http://www.file-extensions.org/search/?searchstring={{{s}}}"
+  },
+  {
+    "d": "www.filefacts.net",
+    "s": "Filefacts",
+    "t": "filefacts",
+    "u": "http://www.filefacts.net/search.php?ext={{{s}}}"
+  },
+  {
+    "d": "filehippo.com",
+    "s": "FileHippo",
+    "t": "file",
+    "u": "http://filehippo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "filehippo.com",
+    "s": "FileHippo",
+    "t": "filehippo",
+    "u": "http://filehippo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fileinfo.com",
+    "s": "File info",
+    "t": "fileinfo",
+    "u": "http://fileinfo.com/extension/{{{s}}}"
+  },
+  {
+    "d": "filext.com",
+    "s": "FILExt",
+    "t": "filext",
+    "u": "http://filext.com/file-extension/{{{s}}}"
+  },
+  {
+    "d": "m.filmaffinity.com",
+    "s": "filmaffinity españa",
+    "t": "filmaffinityes",
+    "u": "https://m.filmaffinity.com/es/search.php?stext={{{s}}}"
+  },
+  {
+    "d": "www.filmaffinity.com",
+    "s": "https://www.filmaffinity.com",
+    "t": "filmaffinity",
+    "u": "https://www.filmaffinity.com/en/search.php?stext={{{s}}}"
+  },
+  {
+    "d": "filmanic.com",
+    "s": "Filmanic",
+    "t": "filmanic",
+    "u": "https://filmanic.com/search-for-movies-actors-directors/?q={{{s}}}"
+  },
+  {
+    "d": "filmartgallery.com",
+    "s": "FilmArt Gallery",
+    "t": "filmart",
+    "u": "https://filmartgallery.com/pages/search-results?q={{{s}}}"
+  },
+  {
+    "d": "www.filmaffinity.com",
+    "s": "filmaffinity",
+    "t": "film",
+    "u": "https://www.filmaffinity.com/es/search.php?stext={{{s}}}"
+  },
+  {
+    "d": "www.film.nl",
+    "s": "Film.nl",
+    "t": "filmnl",
+    "u": "https://www.film.nl/?q={{{s}}}"
+  },
+  {
+    "d": "www.filmon.tv",
+    "s": "FilmOn",
+    "t": "filmon",
+    "u": "http://www.filmon.tv/search/?term={{{s}}}"
+  },
+  {
+    "d": "filmow.com",
+    "s": "Filmow",
+    "t": "filmow",
+    "u": "http://filmow.com/buscar/?q={{{s}}}"
+  },
+  {
+    "d": "www.filmportal.de",
+    "s": "filmportal.de",
+    "t": "filmportal.de",
+    "u": "https://www.filmportal.de/search?search_api_fulltext={{{s}}}"
+  },
+  {
+    "d": "filmracket.com",
+    "s": "http://filmracket.com/",
+    "t": "filmracket",
+    "u": "http://filmracket.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.filmsarecool.com",
+    "s": "FilmsAreCool",
+    "t": "films",
+    "u": "http://www.filmsarecool.com/#search={{{s}}} "
+  },
+  {
+    "d": "www.filmstarts.de",
+    "s": "Filmstarts",
+    "t": "filmstarts",
+    "u": "http://www.filmstarts.de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.film.tv",
+    "s": "FILM.TV",
+    "t": "filmtvde",
+    "u": "https://www.film.tv/google-suchergebnisse.html?cx=partner-pub-3004436243331931%3A1982226405&query={{{s}}}"
+  },
+  {
+    "d": "www.filmtv.it",
+    "s": "FilmTV.it",
+    "t": "filmtv",
+    "u": "http://www.filmtv.it/cerca/?q={{{s}}}"
+  },
+  {
+    "d": "www.filmweb.pl",
+    "s": "Filmweb",
+    "t": "filmweb",
+    "u": "http://www.filmweb.pl/search?q={{{s}}}"
+  },
+  {
+    "d": "www.fimfiction.net",
+    "s": "FimFiction.net",
+    "t": "fimfic",
+    "u": "https://www.fimfiction.net/stories?q={{{s}}}"
+  },
+  {
+    "d": "www.fimfiction.net",
+    "s": "FimFiction.net",
+    "t": "fimfiction",
+    "u": "https://www.fimfiction.net/stories?q={{{s}}}"
+  },
+  {
+    "d": "www.fimfiction.net",
+    "s": "FIMFiction",
+    "t": "fim",
+    "u": "https://www.fimfiction.net/stories?q={{{s}}}"
+  },
+  {
+    "d": "finalfantasy.wikia.com",
+    "s": "Final Fantasy Wiki",
+    "t": "finalfantasy",
+    "u": "http://finalfantasy.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.finanzen.net",
+    "s": "finanzen.net",
+    "t": "finanzennet",
+    "u": "http://www.finanzen.net/suchergebnis.asp?_search={{{s}}}"
+  },
+  {
+    "d": "www.findanyfilm.com",
+    "s": "FindAnyFilm",
+    "t": "findanyfilm",
+    "u": "http://www.findanyfilm.com/search?term={{{s}}}"
+  },
+  {
+    "d": "www.findchips.com",
+    "s": "FindChips",
+    "t": "findchips",
+    "u": "http://www.findchips.com/avail?part={{{s}}}"
+  },
+  {
+    "d": "public.findlaw.com",
+    "s": "FindLaw",
+    "t": "findlaw",
+    "u": "http://public.findlaw.com/LCsearch.html?entry={{{s}}}"
+  },
+  {
+    "d": "findo.com",
+    "s": "Findo",
+    "t": "findo",
+    "u": "https://findo.com/app/search?query={{{s}}}"
+  },
+  {
+    "d": "www.finecooking.com",
+    "s": "FIne Cooking",
+    "t": "finecooking",
+    "u": "http://www.finecooking.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.finedictionary.com",
+    "s": "Fine Dictionary",
+    "t": "finedict",
+    "u": "http://www.finedictionary.com/{{{s}}}.html"
+  },
+  {
+    "d": "fineli.fi",
+    "s": "Fineli English",
+    "t": "finelien",
+    "u": "https://fineli.fi/fineli/en/elintarvikkeet?q={{{s}}}"
+  },
+  {
+    "d": "fineli.fi",
+    "s": "Fineli",
+    "t": "fineli",
+    "u": "https://fineli.fi/fineli/fi/elintarvikkeet?q={{{s}}}"
+  },
+  {
+    "d": "fineli.fi",
+    "s": "Fineli Swedish",
+    "t": "finelisv",
+    "u": "https://fineli.fi/fineli/sv/elintarvikkeet?q={{{s}}}"
+  },
+  {
+    "d": "forum.finf.uni-hannover.de",
+    "s": "Finf-Forum (Forum des Fachrats Informatik der Leibniz Universität Hannover)",
+    "t": "finf",
+    "u": "https://forum.finf.uni-hannover.de/index.php?form=Search&q={{{s}}}"
+  },
+  {
+    "d": "finviz.com",
+    "s": "finviz.com",
+    "t": "fin",
+    "u": "https://finviz.com/search.ashx?p={{{s}}}"
+  },
+  {
+    "d": "www.francetvinfo.fr",
+    "s": "France Info",
+    "t": "finfo",
+    "u": "https://www.francetvinfo.fr/recherche/?request={{{s}}}"
+  },
+  {
+    "d": "pdb.finkproject.org",
+    "s": "Fink Project",
+    "t": "fink",
+    "u": "http://pdb.finkproject.org/pdb/browse.php?summary={{{s}}}"
+  },
+  {
+    "d": "finlex.fi",
+    "s": "Finlex",
+    "t": "finlex",
+    "u": "http://finlex.fi/fi/laki/haku/?search[type]=pika&search[pika]={{{s}}}"
+  },
+  {
+    "d": "finna.fi",
+    "s": "Finna.fi",
+    "t": "finna",
+    "u": "https://finna.fi/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "d": "www.finn.no",
+    "s": "Finn.no",
+    "t": "finn",
+    "u": "https://www.finn.no/globalsearchlander.html?searchKeys=&q={{{s}}}"
+  },
+  {
+    "d": "www.finnkino.fi",
+    "s": "Finnkino",
+    "t": "finnkinoen",
+    "u": "http://www.finnkino.fi/eng/Search/?query={{{s}}}"
+  },
+  {
+    "d": "www.finnkino.fi",
+    "s": "Finnkino",
+    "t": "finnkino",
+    "u": "http://www.finnkino.fi/Search?query={{{s}}}"
+  },
+  {
+    "d": "finofilipino.org",
+    "s": "FinoFilipino",
+    "t": "fino",
+    "u": "https://finofilipino.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.fip.fr",
+    "s": "Fip Radio",
+    "t": "fip",
+    "u": "https://www.fip.fr/player/{{{s}}}"
+  },
+  {
+    "d": "fireball.de",
+    "s": "Fireball",
+    "t": "fireball",
+    "u": "https://fireball.de/q/{{{s}}}"
+  },
+  {
+    "d": "www.firebox.com",
+    "s": "Firebox",
+    "t": "firebox",
+    "u": "http://www.firebox.com/search/{{{s}}}"
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Firefox Addons",
+    "t": "firefoxaddon",
+    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Add-ons Firefox",
+    "t": "firefoxaddons",
+    "u": "http://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Firefox Add-ons",
+    "t": "firefox",
+    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}&cat=all"
+  },
+  {
+    "d": "www.firmy.cz",
+    "s": "firmy.cz",
+    "t": "firmycz",
+    "u": "http://www.firmy.cz/?thru=&q={{{s}}}"
+  },
+  {
+    "d": "www.firmy.cz",
+    "s": "Firmy.cz",
+    "t": "firmy",
+    "u": "https://www.firmy.cz/?q={{{s}}}"
+  },
+  {
+    "d": "www.firstcry.com",
+    "s": "www.firstcry.com",
+    "t": "firstcry",
+    "u": "http://www.firstcry.com/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.firstmats.co.uk",
+    "s": "First Mats",
+    "t": "firstmats",
+    "u": "https://www.firstmats.co.uk/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "firstpagefitness.com",
+    "s": "First Page Fitness",
+    "t": "firstpagefitness",
+    "u": "https://firstpagefitness.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.firstpost.com",
+    "s": "FIRSTPOST",
+    "t": "firstpost",
+    "u": "http://www.firstpost.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.fischertechnik.de",
+    "s": "fischertechnik.de",
+    "t": "fischertechnik",
+    "u": "http://www.fischertechnik.de/desktopdefault.aspx/tabid-1//tabid-35/searchcall-4/4_keepvisible-true/redirected-1/?/sid-3230669/mid-4/tid-1/ct-0/q-{{{s}}}//k-/et-0/rpp-10/sar-False/t-/p-0/ap-True/cat-/cr-0/pr-0/icp-False/icc-False/ifc-False/sl-1/sp-0/cs-/"
+  },
+  {
+    "d": "fishshell.com",
+    "s": "fishshell.com",
+    "t": "fish",
+    "u": "http://fishshell.com/docs/current/commands.html#{{{s}}}"
+  },
+  {
+    "d": "www.fishpond.com.au",
+    "s": "Fishpond",
+    "t": "fishpond",
+    "u": "http://www.fishpond.com.au/advanced_search_result.php?keywords={{{s}}}"
+  },
+  {
+    "d": "fitfolly.com",
+    "s": "Fitfolly",
+    "t": "fitfolly",
+    "u": "https://fitfolly.com/?s={{{s}}}"
+  },
+  {
+    "d": "search.ebscohost.com.ezproxy.fiu.edu",
+    "s": "FIU Libraries EDS",
+    "t": "fiueds",
+    "u": "http://search.ebscohost.com.ezproxy.fiu.edu/login.aspx?direct=true&scope=site&type=0&site=eds-live&lang=en&bquery=[{{{s}}}]"
+  },
+  {
+    "d": "fontsinuse.com",
+    "s": "Fonts in Use",
+    "t": "fiu",
+    "u": "https://fontsinuse.com/search?terms={{{s}}}"
+  },
+  {
+    "d": "fixyt.com",
+    "s": "FixYT",
+    "t": "fixyt",
+    "u": "http://fixyt.com/search?q={{{s}}}"
+  },
+  {
+    "d": "funnyjunk.com",
+    "s": "Funnyjunk",
+    "t": "fj",
+    "u": "http://funnyjunk.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "fkb.dk",
+    "s": "Biblioteket Frederiksberg",
+    "t": "fkb",
+    "u": "https://fkb.dk/search/ting/{{{s}}}"
+  },
+  {
+    "d": "www.flipkart.com",
+    "s": "Flipkart",
+    "t": "fk",
+    "u": "http://www.flipkart.com/search?q={{{s}}} "
+  },
+  {
+    "d": "fkk-freunde.info",
+    "s": "fkk-freunde",
+    "t": "fkk",
+    "u": "http://fkk-freunde.info/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.felleskatalogen.no",
+    "s": "Felleskatalogen",
+    "t": "fkt",
+    "u": "https://www.felleskatalogen.no/medisin/sok?sokord={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Federation Flags & Flagpoles",
+    "t": "flag",
+    "u": "https://duckduckgo.com/?q=site%3Aflagpoles.com.au+{{{s}}}"
+  },
+  {
+    "d": "www.flashback.org",
+    "s": "Flashback",
+    "t": "flashback",
+    "u": "https://www.flashback.org/sok/{{{s}}}"
+  },
+  {
+    "d": "flask.pocoo.org",
+    "s": "Flask WebFramework",
+    "t": "flask",
+    "u": "http://flask.pocoo.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "flathub.org",
+    "s": "Flatpak",
+    "t": "flat",
+    "u": "https://flathub.org/apps/search/{{{s}}}"
+  },
+  {
+    "d": "flathub.org",
+    "s": "Flathub",
+    "t": "flathub",
+    "u": "https://flathub.org/apps/search/{{{s}}}"
+  },
+  {
+    "d": "www.flaticon.com",
+    "s": "FlatIcon",
+    "t": "flaticon",
+    "u": "http://www.flaticon.com/search/{{{s}}}"
+  },
+  {
+    "d": "flat.io",
+    "s": "Flat",
+    "t": "flatmusic",
+    "u": "https://flat.io/search?q={{{s}}}"
+  },
+  {
+    "d": "flattr.com",
+    "s": "Flattr",
+    "t": "flattr",
+    "u": "https://flattr.com/q/{{{s}}}"
+  },
+  {
+    "d": "www.frontlinedefenders.org",
+    "s": "Front Line Defenders",
+    "t": "fld",
+    "u": "https://www.frontlinedefenders.org/en/search/{{{s}}}"
+  },
+  {
+    "d": "flexikon.doccheck.com",
+    "s": "DocCheck Flexikon",
+    "t": "fle",
+    "u": "http://flexikon.doccheck.com/de/Spezial:Suche?q={{{s}}}"
+  },
+  {
+    "d": "www.flexjobs.com",
+    "s": "Flexjobs",
+    "t": "flexjobs",
+    "u": "https://www.flexjobs.com/search?search={{{s}}}&Location="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Feeling Lucky",
+    "t": "fl",
+    "u": "http://www.google.com/search?btnI&q={{{s}}}"
+  },
+  {
+    "d": "www.flickchart.com",
+    "s": "Flickchart",
+    "t": "flickchart",
+    "u": "http://www.flickchart.com/SearchResults.aspx?s={{{s}}}"
+  },
+  {
+    "d": "www.flickr.com",
+    "s": "Flickr (All Creative Commons)",
+    "t": "flickrcc",
+    "u": "https://www.flickr.com/search/?text={{{s}}}&license=2%2C3%2C4%2C5%2C6%2C9"
+  },
+  {
+    "d": "www.flickr.com",
+    "s": "Flickr (comm/deriv)",
+    "t": "flickrc",
+    "u": "http://www.flickr.com/search/?q={{{s}}}&l=commderiv"
+  },
+  {
+    "d": "flickr.com",
+    "s": "Flickr",
+    "t": "flickr",
+    "u": "http://flickr.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "secure.flickr.com",
+    "s": "Flickr (Photo ID)",
+    "t": "flickrid",
+    "u": "https://secure.flickr.com/photo.gne?id={{{s}}}"
+  },
+  {
+    "d": "flickriver.com",
+    "s": "Flickriver",
+    "t": "flickriver",
+    "u": "http://flickriver.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.flicks.co.nz",
+    "s": "Flicks.co.nz",
+    "t": "flicks",
+    "u": "https://www.flicks.co.nz/search/?q={{{s}}}"
+  },
+  {
+    "d": "flightaware.com",
+    "s": "Flightaware",
+    "t": "flightaware",
+    "u": "https://flightaware.com/live/flight/{{{s}}} "
+  },
+  {
+    "d": "www.flightradar24.com",
+    "s": "Flightradar24",
+    "t": "flightradar",
+    "u": "https://www.flightradar24.com/data/flights/{{{s}}}"
+  },
+  {
+    "d": "spotterlead.net",
+    "s": "SpotterLead Flights",
+    "t": "flight",
+    "u": "https://spotterlead.net/flights/{{{s}}}"
+  },
+  {
+    "d": "www.flipkart.com",
+    "s": "Flipkart",
+    "t": "flip",
+    "u": "http://www.flipkart.com/search?q={{{s}}}&as=off&as-show=on&otracker=start"
+  },
+  {
+    "d": "www.flipjuke.fr",
+    "s": "FlipJuke",
+    "t": "flipjuke",
+    "u": "http://www.flipjuke.fr/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.flipkart.com",
+    "s": "Flipkart",
+    "t": "flipkart",
+    "u": "https://www.flipkart.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.webflis.us",
+    "s": "Military Part Lookup",
+    "t": "flis",
+    "u": "http://www.webflis.us//webflis.aspx?All={{{s}}}"
+  },
+  {
+    "d": "www.flixster.com",
+    "s": "Flixster",
+    "t": "flix",
+    "u": "http://www.flixster.com/search/?search={{{s}}} "
+  },
+  {
+    "d": "www.floptv.tv",
+    "s": "FlopTV",
+    "t": "floptv",
+    "u": "http://www.floptv.tv/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.wildflower.org",
+    "s": "Wildflower Center",
+    "t": "flower",
+    "u": "http://www.wildflower.org/plants/search.php?search_field={{{s}}}&newsearch=true"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "FluidLang subreddit",
+    "t": "flr",
+    "u": "https://www.reddit.com/r/FluidLang/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "flutter.io",
+    "s": "Flutter",
+    "t": "flt",
+    "u": "https://flutter.io/search/?q={{{s}}}"
+  },
+  {
+    "d": "flutter.io",
+    "s": "Flutter",
+    "t": "flutter",
+    "u": "https://flutter.io/search/?q={{{s}}}"
+  },
+  {
+    "d": "flyerhunters.com",
+    "s": "Flyer Hunters",
+    "t": "flyer",
+    "u": "https://flyerhunters.com/?s={{{s}}}"
+  },
+  {
+    "d": "flybase.org",
+    "s": "FlyBase",
+    "t": "fly",
+    "u": "http://flybase.org/search/{{{s}}}"
+  },
+  {
+    "d": "fm4.orf.at",
+    "s": "http://fm4.orf.at/",
+    "t": "fm4",
+    "u": "http://fm4.orf.at/search?q={{{s}}}&sort=date_desc&submit.x=0&submit.y=0"
+  },
+  {
+    "d": "freemusicarchive.org",
+    "s": "Free Music Archive",
+    "t": "fma",
+    "u": "http://freemusicarchive.org/search/?quicksearch={{{s}}}&sort=track_interest"
+  },
+  {
+    "d": "www.freebsd.org",
+    "s": "FreeBSD Man Pages",
+    "t": "fman",
+    "u": "http://www.freebsd.org/cgi/man.cgi?query={{{s}}}"
+  },
+  {
+    "d": "www.fashionmodeldirectory.com",
+    "s": "The Fashion Model Directory",
+    "t": "fmd",
+    "u": "http://www.fashionmodeldirectory.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.safe.com",
+    "s": "Safe software FME documentation",
+    "t": "fmedoc",
+    "u": "https://www.safe.com/search/?site-search={{{s}}}&site=docs.safe.com"
+  },
+  {
+    "d": "knowledge.safe.com",
+    "s": "Safe.com knowledge center",
+    "t": "fmekb",
+    "u": "https://knowledge.safe.com/search.html?f=&type=question+OR+idea+OR+kbentry&c=&redirect=search%2Fsearch&sort=relevance&q={{{s}}}:"
+  },
+  {
+    "d": "filmaster.com",
+    "s": "Filmaster",
+    "t": "fm",
+    "u": "http://filmaster.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "ilmatieteenlaitos.fi",
+    "s": "Ilmatieteen Laitos",
+    "t": "fmi",
+    "u": "http://ilmatieteenlaitos.fi/saa/{{{s}}}"
+  },
+  {
+    "d": "mods.factorio.com",
+    "s": "Factorio Mods",
+    "t": "fmod",
+    "u": "https://mods.factorio.com/query/{{{s}}}"
+  },
+  {
+    "d": "community.filemaker.com",
+    "s": "FileMaker Community",
+    "t": "fmp",
+    "u": "https://community.filemaker.com/en/s/global-search/{{{s}}}"
+  },
+  {
+    "d": "www.foromedios.com",
+    "s": "Foromedios",
+    "t": "fms",
+    "u": "http://www.foromedios.com/index.php?app=core&module=search&do=search&andor_type=&sid=&search_app_filters[forums][sortKey]=date&search_app_filters[forums][sortKey]=date&search_app_filters[forums][searchInKey]=&search_term={{{s}}}&search_app=forums"
+  },
+  {
+    "d": "www.fightmatrix.com",
+    "s": "Fightmatrix",
+    "t": "fmx",
+    "u": "http://www.fightmatrix.com/fighter-search/?fName={{{s}}}"
+  },
+  {
+    "d": "busqueda.fnac.es",
+    "s": "Fnac.es",
+    "t": "fnaces",
+    "u": "http://busqueda.fnac.es/Search/SearchResult.aspx?SCat=0%211&Search={{{s}}}&sft=1&submitbtn=OK"
+  },
+  {
+    "d": "recherche.fnac.com",
+    "s": "fnac",
+    "t": "fnac",
+    "u": "http://recherche.fnac.com/SearchResult/ResultList.aspx?Search={{{s}}}"
+  },
+  {
+    "d": "pesquisa.fnac.pt",
+    "s": "Fnac Portugal",
+    "t": "fnacportugal",
+    "u": "http://pesquisa.fnac.pt/Search/SearchResult.aspx?Search={{{s}}}"
+  },
+  {
+    "d": "freddy-fazbears-pizza.fandom.com",
+    "s": "FNAF Wiki",
+    "t": "fnaf",
+    "u": "https://freddy-fazbears-pizza.fandom.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.fanburst.com",
+    "s": "Fanburst",
+    "t": "fnb",
+    "u": "https://www.fanburst.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fnd.io",
+    "s": "fnd",
+    "t": "fnd",
+    "u": "https://fnd.io/#/us/search?mediaType=all&term={{{s}}}"
+  },
+  {
+    "d": "www.finanzen.net",
+    "s": "finanzen.net",
+    "t": "fnet",
+    "u": "http://www.finanzen.net/suchergebnis.asp?frmAktiensucheTextfeld={{{s}}}"
+  },
+  {
+    "d": "www.foodnetwork.com",
+    "s": "foodnetwork.com",
+    "t": "fn",
+    "u": "https://www.foodnetwork.com/search/{{{s}}}-"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit Fortnite BR",
+    "t": "fnite",
+    "u": "https://www.reddit.com/r/FortNiteBR/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "www.fashionnova.com",
+    "s": "Fashion Nova",
+    "t": "fnova",
+    "u": "https://www.fashionnova.com/pages/search-results?q={{{s}}}"
+  },
+  {
+    "d": "www.nexusmods.com",
+    "s": "Fallout New Vegas NexusMods",
+    "t": "fnvnm",
+    "u": "https://www.nexusmods.com/newvegas/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "d": "www.focalprice.com",
+    "s": "Focalprice",
+    "t": "focalprice",
+    "u": "http://www.focalprice.com/buy/{{{s}}}.html"
+  },
+  {
+    "d": "file.org",
+    "s": "File.org",
+    "t": "fo",
+    "u": "http://file.org/extension/{{{s}}} "
+  },
+  {
+    "d": "zoeken.fok.nl",
+    "s": "FOK!",
+    "t": "fok",
+    "u": "http://zoeken.fok.nl/zoek/?searchmode=simple&tab=fok&startdate=&enddate=&startdatelast=&enddatelast=&bycreator=&byuser=&orderby=relevance&s_fields[]=titel&s_fields[]=bericht&s_fields[]=reacties&status[]=open&status[]=gesloten&status[]=sticky&status[]=openstick&status[]=centraal&q={{{s}}}"
+  },
+  {
+    "d": "folddownpro.com",
+    "s": "Fold Down Pro",
+    "t": "folddown",
+    "u": "https://folddownpro.com/search.php?search_query={{{s}}}"
+  },
+  {
+    "d": "foldoc.org",
+    "s": "FOLDOC (Free On-line Dictionary of Computing)",
+    "t": "foldoc",
+    "u": "http://foldoc.org/{{{s}}}"
+  },
+  {
+    "d": "search.folha.com.br",
+    "s": "Folha de S. Paulo",
+    "t": "folha",
+    "u": "http://search.folha.com.br/search?q={{{s}}}"
+  },
+  {
+    "d": "folkets-lexikon.csc.kth.se",
+    "s": "Folkets lexikon",
+    "t": "folkets",
+    "u": "http://folkets-lexikon.csc.kth.se/folkets/#lookup&{{{s}}}&0"
+  },
+  {
+    "d": "www.folktunefinder.com",
+    "s": "folktunefinder",
+    "t": "folktunefinder",
+    "u": "http://www.folktunefinder.com/tunes?text={{{s}}}"
+  },
+  {
+    "d": "www.folkwiki.se",
+    "s": "FolkWiki",
+    "t": "folkwiki",
+    "u": "http://www.folkwiki.se/?n=Meta.Start&action=search&q={{{s}}}"
+  },
+  {
+    "d": "www.followthatpage.com",
+    "s": "Follow That Page",
+    "t": "follow",
+    "u": "http://www.followthatpage.com/?url={{{s}}}"
+  },
+  {
+    "d": "www.fonecta.fi",
+    "s": "Fonecta",
+    "t": "fonecta",
+    "u": "https://www.fonecta.fi/henkilot/haku/-/{{{s}}}/"
+  },
+  {
+    "d": "www.fonq.be",
+    "s": "fonq",
+    "t": "fonq",
+    "u": "http://www.fonq.be/nl_BE/search/?search_term={{{s}}}#s=2"
+  },
+  {
+    "d": "www.fonq.nl",
+    "s": "Fonq",
+    "t": "fonqnl",
+    "u": "https://www.fonq.nl/zoek/?fq={{{s}}}"
+  },
+  {
+    "d": "fontawesome.com",
+    "s": "Font Awesome",
+    "t": "fonta",
+    "u": "https://fontawesome.com/icons?d=gallery&q={{{s}}}"
+  },
+  {
+    "d": "fontawesome.com",
+    "s": "Font Awesome",
+    "t": "fontawesome",
+    "u": "https://fontawesome.com/icons?q={{{s}}}"
+  },
+  {
+    "d": "www.identifont.com",
+    "s": "Identifont",
+    "t": "font",
+    "u": "http://www.identifont.com/find?font={{{s}}}&similar={{{s}}}"
+  },
+  {
+    "d": "fontlibrary.org",
+    "s": "Font Library",
+    "t": "fontlibrary",
+    "u": "https://fontlibrary.org/en/search?query={{{s}}}"
+  },
+  {
+    "d": "www.fontsquirrel.com",
+    "s": "Font Squirrel",
+    "t": "fonts",
+    "u": "http://www.fontsquirrel.com/fonts/list/find_fonts?q[term]={{{s}}}&q[search_check]=Y"
+  },
+  {
+    "d": "www.identifont.com",
+    "s": "Identifont (similar)",
+    "t": "fontslike",
+    "u": "http://www.identifont.com/find?similar={{{s}}}&q=Go"
+  },
+  {
+    "d": "www.fontspace.com",
+    "s": "FontSpace",
+    "t": "fontspace",
+    "u": "http://www.fontspace.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.fontsquirrel.com",
+    "s": "Fontsquirrel ",
+    "t": "fontsq",
+    "u": "http://www.fontsquirrel.com/fonts/list/find_fonts?q[term]={{{s}}}&q[search_check]=Y"
+  },
+  {
+    "d": "fooby.ch",
+    "s": "Fooby",
+    "t": "fooby",
+    "u": "https://fooby.ch/de/suche.html?query={{{s}}}&treffertyp=rezepte"
+  },
+  {
+    "d": "food2fork.com",
+    "s": "Food2Fork",
+    "t": "food2fork",
+    "u": "http://food2fork.com/top?q={{{s}}}"
+  },
+  {
+    "d": "www.food.com",
+    "s": "Food.com",
+    "t": "food",
+    "u": "http://www.food.com/recipe-finder/all/{{{s}}}"
+  },
+  {
+    "d": "www.foodnetwork.com",
+    "s": "Food Network",
+    "t": "foodnetwork",
+    "u": "http://www.foodnetwork.com/search/delegate.do?fnSearchString={{{s}}}&fnSearchType=site"
+  },
+  {
+    "d": "search.freefind.com",
+    "s": "Cook's Thesaurus",
+    "t": "foodsubs",
+    "u": "http://search.freefind.com/find.html?id=81296093&pageid=r&query={{{s}}}"
+  },
+  {
+    "d": "www.foody.vn",
+    "s": "foody.vn",
+    "t": "foody",
+    "u": "https://www.foody.vn/ho-chi-minh/dia-diem?q={{{s}}}&ss=header_search_form"
+  },
+  {
+    "d": "www.fool.com",
+    "s": "Fool.com",
+    "t": "fool",
+    "u": "http://www.fool.com/search/index.aspx?go=1&site=USMF&q={{{s}}}&source=ifltnvsnq0000001&mbbid=BoardID&mbmid=MessageID"
+  },
+  {
+    "d": "www.dissolve.com",
+    "s": "dissolve.com",
+    "t": "footage",
+    "u": "http://www.dissolve.com/products?keywords={{{s}}}"
+  },
+  {
+    "d": "www.footlocker.com",
+    "s": "Foot Locker",
+    "t": "footlocker",
+    "u": "http://www.footlocker.com/_-_/keyword-{{{s}}}"
+  },
+  {
+    "d": "search.forbes.com",
+    "s": "Forbes",
+    "t": "forbes",
+    "u": "http://search.forbes.com/search/find?MT={{{s}}}"
+  },
+  {
+    "d": "fordsix.com",
+    "s": "FordSix Performance Forum",
+    "t": "fordsix",
+    "u": "https://fordsix.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.forewordreviews.com",
+    "s": "Foreword Reviews",
+    "t": "forewordreviews",
+    "u": "https://www.forewordreviews.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "forex-station.com",
+    "s": "Forex Station",
+    "t": "forexstation",
+    "u": "https://forex-station.com/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search"
+  },
+  {
+    "d": "forkd.com",
+    "s": "Forkd",
+    "t": "forkd",
+    "u": "http://forkd.com/recipe/search?q={{{s}}}"
+  },
+  {
+    "d": "www.forosuse.org",
+    "s": "ForoSUSE",
+    "t": "forosuse",
+    "u": "http://www.forosuse.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.forrester.com",
+    "s": "Forrester",
+    "t": "forrester",
+    "u": "https://www.forrester.com/search?tmtxt={{{s}}}"
+  },
+  {
+    "d": "fortnite.gamepedia.com",
+    "s": "Fortnite Wiki",
+    "t": "fort",
+    "u": "https://fortnite.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.fortinet.com",
+    "s": "Fortinet",
+    "t": "fortinet",
+    "u": "https://www.fortinet.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "epicgames.com",
+    "s": "Epic Games Fortnite",
+    "t": "fortnite",
+    "u": "http://epicgames.com/fortnite/en-US/search?q={{{s}}}"
+  },
+  {
+    "d": "fortnitestats.com",
+    "s": "Fortnite stats",
+    "t": "fortnitestats",
+    "u": "https://fortnitestats.com/stats/{{{s}}}"
+  },
+  {
+    "d": "for-two-store.com",
+    "s": "For-Two Store",
+    "t": "for-two",
+    "u": "https://for-two-store.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duck.co",
+    "s": "DuckDuckGo Forum",
+    "t": "forum",
+    "u": "https://duck.co/forum/search?q={{{s}}}"
+  },
+  {
+    "d": "forvo.com",
+    "s": "Forvo",
+    "t": "forvo",
+    "u": "http://forvo.com/search/{{{s}}}/"
+  },
+  {
+    "d": "fossdroid.com",
+    "s": "Fossdroid",
+    "t": "fossd",
+    "u": "https://fossdroid.com/s/{{{s}}}.html"
+  },
+  {
+    "d": "fossdroid.com",
+    "s": "Fossdroid",
+    "t": "fossdroid",
+    "u": "https://fossdroid.com/s.html?q={{{s}}}"
+  },
+  {
+    "d": "www.fosshub.com",
+    "s": "FossHub",
+    "t": "fosshub",
+    "u": "https://www.fosshub.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.fossil.com",
+    "s": "Fossil",
+    "t": "fossil",
+    "u": "https://www.fossil.com/uk/en/search.{{{s}}}.html"
+  },
+  {
+    "d": "www.fotbollskanalen.se",
+    "s": "Fotbollskanalen",
+    "t": "fotbollskanalen",
+    "u": "http://www.fotbollskanalen.se/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.focusonthefamily.com",
+    "s": "Focus on the Family",
+    "t": "fotf",
+    "u": "https://www.focusonthefamily.com/search-results#q={{{s}}}&t=FocusOnTheFamilyOnly&sort=relevancy"
+  },
+  {
+    "d": "www.fotmob.com",
+    "s": "FotMob",
+    "t": "fot",
+    "u": "https://www.fotmob.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fotolog.com",
+    "s": "Fotolog",
+    "t": "fotolog",
+    "u": "https://fotolog.com/search?query={{{s}}}"
+  },
+  {
+    "d": "foundland.shop",
+    "s": "Foundland",
+    "t": "found",
+    "u": "https://foundland.shop/search?query={{{s}}}"
+  },
+  {
+    "d": "foursquare.com",
+    "s": "Foursquare",
+    "t": "foursquare",
+    "u": "https://foursquare.com/explore?q={{{s}}}"
+  },
+  {
+    "d": "www.fowtcg.com",
+    "s": "Force Of Will  English Card Database",
+    "t": "fow",
+    "u": "http://www.fowtcg.com/cards?w={{{s}}}"
+  },
+  {
+    "d": "www.fowsystem.com",
+    "s": "Force of Will German Database",
+    "t": "fowg",
+    "u": "https://www.fowsystem.com/de/Kartendatenbank?page=&CERCA=cerca&cardname={{{s}}}&block=ALL&edition=ALL&REGATT=or&cardnumber=&ABILITYTEXT=&ATKMIN=0&ATKMAX=2500&DEFMIN=0&DEFMAX=2500"
+  },
+  {
+    "d": "fallout.wikia.com",
+    "s": "Fallout Wikia",
+    "t": "fowiki",
+    "u": "http://fallout.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "MartinFowler.com",
+    "t": "fowler",
+    "u": "https://duckduckgo.com/?q=site%3Amartinfowler.com+{{{s}}}"
+  },
+  {
+    "d": "www.foxnews.com",
+    "s": "Fox News",
+    "t": "fox",
+    "u": "http://www.foxnews.com/search-results/search?q={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.foxlife.it",
+    "s": "FoxLife Italia",
+    "t": "foxlifeit",
+    "u": "https://www.foxlife.it/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.foxnews.com",
+    "s": "FoxNews",
+    "t": "foxnews",
+    "u": "http://www.foxnews.com/search-results/search?q={{{s}}}"
+  },
+  {
+    "d": "www.foxracing.com",
+    "s": "Fox Racing",
+    "t": "foxracing",
+    "u": "https://www.foxracing.com/store/browse?_dyncharset=UTF-8&Dy=1&Nty=1&searchBox=searchBox&siteScope=ok&_D%3AsiteScope=+&autoSuggestEnabled=true&autoSuggestURL=%2Fstore%2Fassembler%3FassemblerContentCollection%3D%2Fcontent%2FShared%2FAuto-Suggest%2520Panels%26format%3Djson%26Dy%3D1%26Ntt%3D&minAutoSuggestInputLength=3&%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=search&_D%3A%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=+&Ntt={{{s}}}"
+  },
+  {
+    "d": "www.foxsports.it",
+    "s": "Fox Sports Italia",
+    "t": "foxsportsit",
+    "u": "https://www.foxsports.it/?q={{{s}}}"
+  },
+  {
+    "d": "www.foyles.co.uk",
+    "s": "Foyles",
+    "t": "foyles",
+    "u": "http://www.foyles.co.uk/qsearch/All/All?term={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Forum pcsoft",
+    "t": "fpcs",
+    "u": "https://duckduckgo.com/?q=site:forum.pcsoft.fr+{{{s}}}"
+  },
+  {
+    "d": "florida-prep.org",
+    "s": "Florida Prep Express",
+    "t": "fpe",
+    "u": "https://florida-prep.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.fanpop.com",
+    "s": "Fanpop",
+    "t": "fp",
+    "u": "http://www.fanpop.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.freepatentsonline.com",
+    "s": "freepatentsonline",
+    "t": "fpo",
+    "u": "http://www.freepatentsonline.com/result.html?sort=relevance&srch=top&query_txt={{{s}}}&submit=&patents=on"
+  },
+  {
+    "d": "www.freebsd.org",
+    "s": "FreeBSD Ports",
+    "t": "fports",
+    "u": "http://www.freebsd.org/cgi/ports.cgi?query={{{s}}}&stype=all"
+  },
+  {
+    "d": "apps.fedoraproject.org",
+    "s": "Fedora Packages Search",
+    "t": "fps",
+    "u": "https://apps.fedoraproject.org/packages/s/{{{s}}}"
+  },
+  {
+    "d": "www.fictionpress.com",
+    "s": "FictionPress (stories)",
+    "t": "fpstory",
+    "u": "https://www.fictionpress.com/search/?keywords={{{s}}}&ready=1&type=story"
+  },
+  {
+    "d": "forum.facepunch.com",
+    "s": "Facepunch Forums",
+    "t": "fpunch",
+    "u": "https://forum.facepunch.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.fictionpress.com",
+    "s": "FictionPress (writers)",
+    "t": "fpwriter",
+    "u": "https://www.fictionpress.com/search/?keywords={{{s}}}&ready=1&type=writer"
+  },
+  {
+    "d": "www.flightradar24.com",
+    "s": "Flightradar24 Flight Data",
+    "t": "fr24f",
+    "u": "https://www.flightradar24.com/data/flights/{{{s}}}"
+  },
+  {
+    "d": "www.flightradar24.com",
+    "s": "Flight radar 24 - flights",
+    "t": "fr24",
+    "u": "https://www.flightradar24.com/data/flights/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "fr2de",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=fr&tl=de&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "GoogleTraduction",
+    "t": "fr2en",
+    "u": "http://translate.google.com/#fr/en/{{{s}}}"
+  },
+  {
+    "d": "frack.nl",
+    "s": "Frack.nl Hackerspace",
+    "t": "frack",
+    "u": "https://frack.nl/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.friday-ad.co.uk",
+    "s": "Friday Ad",
+    "t": "frad",
+    "u": "https://www.friday-ad.co.uk/uk/search/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.fragrantica.com",
+    "s": "Fragrantica",
+    "t": "fragrantica",
+    "u": "https://www.fragrantica.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "framabee.org",
+    "s": "Framabee",
+    "t": "framabee",
+    "u": "https://framabee.org/?q={{{s}}} "
+  },
+  {
+    "d": "framalibre.org",
+    "s": "Framalibre",
+    "t": "framal",
+    "u": "https://framalibre.org/recherche-par-crit-res?keys={{{s}}}"
+  },
+  {
+    "d": "framatube.org",
+    "s": "FramaTube",
+    "t": "framat",
+    "u": "https://framatube.org/search?search={{{s}}}"
+  },
+  {
+    "d": "news.francheval.com",
+    "s": "Francheval News",
+    "t": "francheval",
+    "u": "https://news.francheval.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.fran.si",
+    "s": "Slovarji Inštituta za slovenski jezik Frana Ramovša ZRC SAZU",
+    "t": "fran",
+    "u": "http://www.fran.si/iskanje?View=2&Query= {{{s}}} "
+  },
+  {
+    "d": "www.fravega.com",
+    "s": "Frávega",
+    "t": "fravega",
+    "u": "https://www.fravega.com/{{{s}}}"
+  },
+  {
+    "d": "www.fransktlexikon.se",
+    "s": "Franskt Lexikon",
+    "t": "frax",
+    "u": "https://www.fransktlexikon.se/{{{s}}}"
+  },
+  {
+    "d": "fraze.it",
+    "s": "FrazeIt",
+    "t": "frazeit",
+    "u": "http://fraze.it/n_search.jsp?q={{{s}}}"
+  },
+  {
+    "d": "www.frag-caesar.de",
+    "s": "Frag Cäsar",
+    "t": "frc",
+    "u": "http://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html"
+  },
+  {
+    "d": "www.frag-caesar.de",
+    "s": "Frag Cäsar",
+    "t": "frcs",
+    "u": "http://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html"
+  },
+  {
+    "d": "research.stlouisfed.org",
+    "s": "FRED Economic Data",
+    "t": "fred",
+    "u": "https://research.stlouisfed.org/fred2/search?st={{{s}}}"
+  },
+  {
+    "d": "www.freebsd.org",
+    "s": "FreeBSD Ports",
+    "t": "freebsd",
+    "u": "https://www.freebsd.org/cgi/ports.cgi?query={{{s}}}"
+  },
+  {
+    "d": "man.freebsd.org",
+    "s": "FreeBSD Man Pages",
+    "t": "freebsdman",
+    "u": "http://man.freebsd.org/{{{s}}}"
+  },
+  {
+    "d": "www.freecollocation.com",
+    "s": "FreeCollocation.com",
+    "t": "freecol",
+    "u": "http://www.freecollocation.com/search?word={{{s}}}"
+  },
+  {
+    "d": "freedictionary.org",
+    "s": "Free Dictionary",
+    "t": "freedict",
+    "u": "http://freedictionary.org/?Query={{{s}}}&button=Search"
+  },
+  {
+    "d": "freedictionary.org",
+    "s": "Free Dictionary",
+    "t": "freedictionary",
+    "u": "http://freedictionary.org/?Query={{{s}}}&button=Search"
+  },
+  {
+    "d": "www.freedommobile.ca",
+    "s": "Freedom Mobile Support",
+    "t": "freedom",
+    "u": "https://www.freedommobile.ca/support/search/faq-search-results?q={{{s}}}"
+  },
+  {
+    "d": "freedom.press",
+    "s": "Freedom of the Press Foundation",
+    "t": "freedompress",
+    "u": "https://freedom.press/search/?query={{{s}}}"
+  },
+  {
+    "d": "free.com.tw",
+    "s": "freeGROUP",
+    "t": "freeg",
+    "u": "https://free.com.tw/?s={{{s}}}"
+  },
+  {
+    "d": "free.com.tw",
+    "s": "免費資源網路社群",
+    "t": "freegroup",
+    "u": "https://free.com.tw/?s={{{s}}}"
+  },
+  {
+    "d": "www.freelancer.com",
+    "s": "freelancer.com",
+    "t": "freelancer",
+    "u": "https://www.freelancer.com/work/{{{s}}}/"
+  },
+  {
+    "d": "freelancinghacks.com",
+    "s": "Freelancing Hacks",
+    "t": "freelancinghacks",
+    "u": "http://freelancinghacks.com/?s={{{s}}}"
+  },
+  {
+    "d": "webchat.freenode.net",
+    "s": "Freenode",
+    "t": "freenode",
+    "u": "http://webchat.freenode.net/?channels={{{s}}}"
+  },
+  {
+    "d": "wiki.freepascal.org",
+    "s": "Freepascal",
+    "t": "freepascal",
+    "u": "http://wiki.freepascal.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.freerepublic.com",
+    "s": "Freerepublic",
+    "t": "freep",
+    "u": "https://www.freerepublic.com/tag/{{{s}}}/index?tab=articles"
+  },
+  {
+    "d": "www.freepik.com",
+    "s": "Freepik",
+    "t": "freepik",
+    "u": "http://www.freepik.com/index.php?goto=2&searchform=1&k={{{s}}}"
+  },
+  {
+    "d": "www.freesfx.co.uk",
+    "s": "freeSFX",
+    "t": "freesfx",
+    "u": "http://www.freesfx.co.uk/sfx/{{{s}}}"
+  },
+  {
+    "d": "www.freesound.org",
+    "s": "Freesound",
+    "t": "freesound",
+    "u": "http://www.freesound.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "free-theme-download.com",
+    "s": "free-theme-download.com",
+    "t": "free-theme-download",
+    "u": "https://free-theme-download.com/search?term={{{s}}}"
+  },
+  {
+    "d": "www.freethesaurus.com",
+    "s": "The Free Dictionary (Thesaurus)",
+    "t": "freethesaurus",
+    "u": "http://www.freethesaurus.com/{{{s}}}"
+  },
+  {
+    "d": "www.freitag.de",
+    "s": "Der Freitag",
+    "t": "freitag",
+    "u": "https://www.freitag.de/@@search?SearchableText={{{s}}}&SubmitSearch=Suche"
+  },
+  {
+    "d": "french.stackexchange.com",
+    "s": "French Language and Usage",
+    "t": "french",
+    "u": "http://french.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate fr-en",
+    "t": "fren",
+    "u": "http://translate.google.com/#fr/en/{{{s}}}"
+  },
+  {
+    "d": "www.frequencycheck.com",
+    "s": "FrequencyCheck",
+    "t": "freqcheck",
+    "u": "https://www.frequencycheck.com/search?s={{{s}}}"
+  },
+  {
+    "d": "www.frequencycheck.com",
+    "s": "FrequencyCheck",
+    "t": "frequencycheck",
+    "u": "https://www.frequencycheck.com/search?s={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate fr-es",
+    "t": "fres",
+    "u": "http://translate.google.com/#fr/es/{{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Fresh",
+    "t": "fresh",
+    "u": "https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Damazonfresh&field-keywords={{{s}}}"
+  },
+  {
+    "d": "support.freshdesk.com",
+    "s": "Freshdesk Support Home",
+    "t": "freshdesk",
+    "u": "https://support.freshdesk.com/support/search?term={{{s}}}"
+  },
+  {
+    "d": "www.freshports.org",
+    "s": "FreshPorts",
+    "t": "freshports",
+    "u": "https://www.freshports.org/search.php?query={{{s}}}&search=go&num=10&stype=name&method=match&deleted=excludedeleted&start=1&casesensitivity=caseinsensitive"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso",
+    "t": "frge",
+    "u": "http://dictionnaire.reverso.net/francais-allemand/{{{s}}}"
+  },
+  {
+    "d": "www.fastreplacementglass.com",
+    "s": "Fast Replacement Glass",
+    "t": "frg",
+    "u": "https://www.fastreplacementglass.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "frida.fooddata.dk",
+    "s": "Frida fooddata.dk",
+    "t": "frida",
+    "u": "https://frida.fooddata.dk/food/search?lang=en&q={{{s}}}"
+  },
+  {
+    "d": "www.franceinter.fr",
+    "s": "France Inter",
+    "t": "fri",
+    "u": "https://www.franceinter.fr/recherche?q={{{s}}}"
+  },
+  {
+    "d": "frightfind.com",
+    "s": "FrightFind",
+    "t": "fright",
+    "u": "https://frightfind.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.futureboy.us",
+    "s": "Frink Web Interface",
+    "t": "frink",
+    "u": "http://www.futureboy.us/fsp/frink.fsp?fromVal={{{s}}}"
+  },
+  {
+    "d": "frinkiac.com",
+    "s": "Frinkiac",
+    "t": "frinkiac",
+    "u": "https://frinkiac.com/?p=search&q={{{s}}}"
+  },
+  {
+    "d": "www.friskyradio.com",
+    "s": "FRISKY Radio",
+    "t": "frisky",
+    "u": "https://www.friskyradio.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.fressnapf.de",
+    "s": "fressnapf.de",
+    "t": "friss",
+    "u": "https://www.fressnapf.de/s/search?text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate French to Italian",
+    "t": "frit",
+    "u": "http://translate.google.com/#fr/it/{{{s}}}"
+  },
+  {
+    "d": "www.francisfrith.com",
+    "s": "Francis Frith",
+    "t": "frith",
+    "u": "https://www.francisfrith.com/search?q={{{s}}}"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso",
+    "t": "frjp",
+    "u": "http://dictionnaire.reverso.net/francais-japonais/{{{s}}}"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse French Dictionary",
+    "t": "fr",
+    "u": "http://www.larousse.fr/dictionnaires/francais/{{{s}}}"
+  },
+  {
+    "d": "framabee.org",
+    "s": "framabee",
+    "t": "frmb",
+    "u": "https://framabee.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.lesfrontaliers.lu",
+    "s": "LesFrontaliers",
+    "t": "frontalux",
+    "u": "http://www.lesfrontaliers.lu/search?text={{{s}}}"
+  },
+  {
+    "d": "www.frontiersin.org",
+    "s": "Frontiers",
+    "t": "frontiers",
+    "u": "http://www.frontiersin.org/SearchData.aspx?sq={{{s}}}"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso",
+    "t": "frpl",
+    "u": "http://dictionnaire.reverso.net/francais-polonais/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate FR-RU",
+    "t": "frru",
+    "u": "https://translate.google.com/#fr/ru/{{{s}}}"
+  },
+  {
+    "d": "www.freesound.org",
+    "s": "Freesound",
+    "t": "frs",
+    "u": "http://www.freesound.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "fr.techdico.com",
+    "s": "https://fr.techdico.com",
+    "t": "frtech",
+    "u": "https://fr.techdico.com/traduction/francais-anglais/{{{s}}}"
+  },
+  {
+    "d": "www.adafruit.com",
+    "s": "Adafruit",
+    "t": "fruit",
+    "u": "http://www.adafruit.com/search?q={{{s}}}&b=1"
+  },
+  {
+    "d": "frutke.com",
+    "s": "Frutke",
+    "t": "frutke",
+    "u": "http://frutke.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.freewave.at",
+    "s": "Freewave",
+    "t": "frw",
+    "u": "http://www.freewave.at/?s={{{s}}}"
+  },
+  {
+    "d": "forgottenrealms.fandom.com",
+    "s": "Forgotten Realms Wiki",
+    "t": "frwiki",
+    "u": "https://forgottenrealms.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "fr.wiktionary.org",
+    "s": "Wiktionary Français",
+    "t": "fr.wiktionary",
+    "u": "https://fr.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.frys.com",
+    "s": "Fry's Electronics",
+    "t": "frys",
+    "u": "http://www.frys.com/search?search_type=regular&sqxts=1&query_string={{{s}}}"
+  },
+  {
+    "d": "ratings.food.gov.uk",
+    "s": "Food Standards Agency - Food Hygiene Ratings ",
+    "t": "fsarating",
+    "u": "http://ratings.food.gov.uk/enhanced-search/en-GB/{{{s}}}/%5E/alpha/0/%5E/%5E/1/1/10"
+  },
+  {
+    "d": "www.futura-sciences.com",
+    "s": "Futura Sciences",
+    "t": "fsc",
+    "u": "http://www.futura-sciences.com/magazines/sciences/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "www.fernsehserien.de",
+    "s": "fernsehserien.de",
+    "t": "fsde",
+    "u": "http://www.fernsehserien.de/suche/{{{s}}}"
+  },
+  {
+    "d": "directory.fsf.org",
+    "s": "Free Software Directory",
+    "t": "fsd",
+    "u": "http://directory.fsf.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "factualsearch.news",
+    "s": "Factual News Search",
+    "t": "fs",
+    "u": "https://factualsearch.news/#/&gsc.q={{{s}}} "
+  },
+  {
+    "d": "directory.fsf.org",
+    "s": "Free Software Directory",
+    "t": "fsfd",
+    "u": "http://directory.fsf.org/wiki?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "fsfe.org",
+    "s": "Free Software Foundation Europe",
+    "t": "fsfe",
+    "u": "https://fsfe.org/cgi-bin/search.cgi?l=en&x=0&y=0&q={{{s}}}"
+  },
+  {
+    "d": "www.fsf.org",
+    "s": "Free Software Foundation",
+    "t": "fsf",
+    "u": "http://www.fsf.org/search?SearchableText={{{s}}} "
+  },
+  {
+    "d": "wiki.foodsharing.de",
+    "s": "foodsharing.de",
+    "t": "fsh",
+    "u": "https://wiki.foodsharing.de/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.freesteamkeys.com",
+    "s": "FreeSteamKeys",
+    "t": "fsk",
+    "u": "https://www.freesteamkeys.com/search_gcse/?q={{{s}}}"
+  },
+  {
+    "d": "futurism.com",
+    "s": "Futurism",
+    "t": "fsm",
+    "u": "http://futurism.com/?s={{{s}}}"
+  },
+  {
+    "d": "ftb.gamepedia.com",
+    "s": "Official Feed The Beast Wiki",
+    "t": "ftb",
+    "u": "http://ftb.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ftb.gamepedia.com",
+    "s": "Unofficial Feed The Beast Wiki",
+    "t": "ftbwiki",
+    "u": "https://ftb.gamepedia.com/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "ft-datenbank.de",
+    "s": "Fischertechnik Datenbank",
+    "t": "ft-db",
+    "u": "https://ft-datenbank.de/tickets?fulltext={{{s}}}"
+  },
+  {
+    "d": "www.ft.com",
+    "s": "Financial Times",
+    "t": "ft",
+    "u": "https://www.ft.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.freethesaurus.com",
+    "s": "The Free Thesaurus",
+    "t": "fthes",
+    "u": "https://www.freethesaurus.com/{{{s}}}"
+  },
+  {
+    "d": "flathub.org",
+    "s": "Flathub",
+    "t": "fthub",
+    "u": "https://flathub.org/apps/search/{{{s}}}"
+  },
+  {
+    "d": "www.farmacotherapeutischkompas.nl",
+    "s": "Farmacotherapeutisch Kompas",
+    "t": "ftk",
+    "u": "https://www.farmacotherapeutischkompas.nl/snelzoeken?zoekterm={{{s}}}&domein=geneesmiddelen"
+  },
+  {
+    "d": "ftl.wikia.com",
+    "s": "Ftl: Faster Than Light Wiki",
+    "t": "ftl",
+    "u": "http://ftl.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.futurelearn.com",
+    "s": "futurelearn",
+    "t": "ftln",
+    "u": "https://www.futurelearn.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dicemagazine.com",
+    "s": "DicE Magazine",
+    "t": "ftlr",
+    "u": "https://www.dicemagazine.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.fortuneo.fr",
+    "s": "Fortuneo",
+    "t": "ftn",
+    "u": "https://www.fortuneo.fr/recherche?term={{{s}}}"
+  },
+  {
+    "d": "www.filmtotaal.nl",
+    "s": "filmtotaal.nl",
+    "t": "ftnl",
+    "u": "https://www.filmtotaal.nl/zoeken/?q={{{s}}}"
+  },
+  {
+    "d": "apollo.fintechstudios.com",
+    "s": "FinTech Studios",
+    "t": "fts",
+    "u": "https://apollo.fintechstudios.com/search?searchQuery={{{s}}}"
+  },
+  {
+    "d": "www.freetutorials.us",
+    "s": "FreeTutorials.Us",
+    "t": "ftu",
+    "u": "https://www.freetutorials.us/?s={{{s}}}"
+  },
+  {
+    "d": "wiki.factorio.com",
+    "s": "Factorio Wiki",
+    "t": "ftw",
+    "u": "https://wiki.factorio.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "www.ub-katalog.fernuni-hagen.de",
+    "s": "Katalogsuche UB FU Hagen",
+    "t": "fubib",
+    "u": "https://www.ub-katalog.fernuni-hagen.de/F/?func=find-b&request={{{s}}}&find_code=WRD"
+  },
+  {
+    "d": "www.fuget.org",
+    "s": "FuGet Gallery",
+    "t": "fuget",
+    "u": "https://www.fuget.org/packages?q={{{s}}}"
+  },
+  {
+    "d": "fuglymugcompany.com",
+    "s": "The Fugly Mug Company",
+    "t": "fuglymugcompany",
+    "u": "https://fuglymugcompany.com/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "www.fujitv.co.jp",
+    "s": "Fuji TV",
+    "t": "fuji",
+    "u": "https://www.fujitv.co.jp/search/index.html?keyword={{{s}}}"
+  },
+  {
+    "d": "app.fullcontact.com",
+    "s": "FullContact",
+    "t": "fullcontact",
+    "u": "https://app.fullcontact.com/#/search/{{{s}}}"
+  },
+  {
+    "d": "www.fullformgo.com",
+    "s": "Fullformgo",
+    "t": "fullform",
+    "u": "https://www.fullformgo.com/term/{{{s}}}"
+  },
+  {
+    "d": "fullforms.com",
+    "s": "FullForms",
+    "t": "fullforms",
+    "u": "http://fullforms.com/{{{s}}} "
+  },
+  {
+    "d": "www.funda.nl",
+    "s": "Funda",
+    "t": "funda",
+    "u": "http://www.funda.nl/koop/{{{s}}}"
+  },
+  {
+    "d": "www.fundeu.es",
+    "s": "Fundéu BBVA",
+    "t": "fundeu",
+    "u": "https://www.fundeu.es/?s={{{s}}}"
+  },
+  {
+    "d": "wtffunfact.com",
+    "s": "WTF Fun Fact",
+    "t": "funfact",
+    "u": "https://wtffunfact.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.funimation.com",
+    "s": "Funimation",
+    "t": "funi",
+    "u": "https://www.funimation.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "funkytime.tv",
+    "s": "Funkytime.tv",
+    "t": "funky",
+    "u": "https://funkytime.tv/search?q={{{s}}}"
+  },
+  {
+    "d": "funplass.com",
+    "s": "Funplass",
+    "t": "funplass",
+    "u": "https://funplass.com/recherche.php?what={{{s}}}&where=0&when=0"
+  },
+  {
+    "d": "www.funtoo.org",
+    "s": "Funtoo",
+    "t": "funtoo",
+    "u": "http://www.funtoo.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "filmup.leonardo.it",
+    "s": "FilmUP.com",
+    "t": "fup",
+    "u": "http://filmup.leonardo.it/cgi-bin/search.cgi?ps=10&fmt=long&sy=0&q={{{s}}}"
+  },
+  {
+    "d": "www.furaffinity.net",
+    "s": "FurAffinity",
+    "t": "furaffinity",
+    "u": "https://www.furaffinity.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.furet.com",
+    "s": "Furet du Nord",
+    "t": "furet",
+    "u": "http://www.furet.com/catalogsearch/result/?q={{{s}}} "
+  },
+  {
+    "d": "www.fusetronsound.com",
+    "s": "fusetron",
+    "t": "fusetron",
+    "u": "https://www.fusetronsound.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fusionfall.wikia.com",
+    "s": "FusionFall Wikia",
+    "t": "fusionfall",
+    "u": "http://fusionfall.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "fuska.nu",
+    "s": "Fuska.nu forum",
+    "t": "fuskanuforum",
+    "u": "http://fuska.nu/forum/sok.php?sok={{{s}}}"
+  },
+  {
+    "d": "fuska.nu",
+    "s": "Fuska.nu",
+    "t": "fuskanu",
+    "u": "http://fuska.nu/sok/?search={{{s}}}"
+  },
+  {
+    "d": "www.fussballdaten.de",
+    "s": "Fussballdaten",
+    "t": "fussballdaten",
+    "u": "http://www.fussballdaten.de/suche/?{{{s}}}"
+  },
+  {
+    "d": "www.fussball.de",
+    "s": "Fussball.de",
+    "t": "fussball",
+    "u": "http://www.fussball.de/suche/-/text/{{{s}}}"
+  },
+  {
+    "d": "futar.bkk.hu",
+    "s": "BKK Futár",
+    "t": "futar",
+    "u": "http://futar.bkk.hu/?toCoord={{{s}}}&toName={{{s}}}&toSubName={{{s}}}&layers=GSVB"
+  },
+  {
+    "d": "www.futbin.com",
+    "s": "Futbin",
+    "t": "futbin",
+    "u": "https://www.futbin.com/players?search={{{s}}}"
+  },
+  {
+    "d": "www.futhead.com",
+    "s": "Futhead",
+    "t": "futhead",
+    "u": "http://www.futhead.com/16/players/?name={{{s}}}"
+  },
+  {
+    "d": "www.theinfosphere.org",
+    "s": "The Infosphere",
+    "t": "futurama",
+    "u": "http://www.theinfosphere.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "finviz.com",
+    "s": "Finviz",
+    "t": "fv",
+    "u": "http://finviz.com/quote.ashx?t={{{s}}}"
+  },
+  {
+    "d": "www.freeview.com.au",
+    "s": "Freeview Australia",
+    "t": "fviewau",
+    "u": "http://www.freeview.com.au/tv-search/?search={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "finviz.com",
+    "s": "Finviz",
+    "t": "fvz",
+    "u": "http://finviz.com/quote.ashx?t={{{s}}}&ty=c&ta=1&p=d"
+  },
+  {
+    "d": "www.filmweb.pl",
+    "s": "Filmweb",
+    "t": "fwb",
+    "u": "https://www.filmweb.pl/search?q={{{s}}}"
+  },
+  {
+    "d": "foodwishes.blogspot.com",
+    "s": "FoowWishes",
+    "t": "fwcj",
+    "u": "https://foodwishes.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.forgottenweapons.com",
+    "s": "Forgotten Weapons",
+    "t": "fw",
+    "u": "http://www.forgottenweapons.com/?s={{{s}}}"
+  },
+  {
+    "d": "fortranwiki.org",
+    "s": "Fortran Wiki",
+    "t": "fwiki",
+    "u": "http://fortranwiki.org/fortran/search?query={{{s}}}"
+  },
+  {
+    "d": "frugalware.org",
+    "s": "Frugalware packages",
+    "t": "fwpkg",
+    "u": "http://frugalware.org/packages?op=pkg&arch=all&ver=current&srch={{{s}}}"
+  },
+  {
+    "d": "www.fwtv.tv",
+    "s": "FWTV",
+    "t": "fwtv",
+    "u": "http://www.fwtv.tv/buscar/{{{s}}}"
+  },
+  {
+    "d": "www.fayerwayer.com",
+    "s": "Fayerwayer",
+    "t": "fwy",
+    "u": "https://www.fayerwayer.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.fxp.co.il",
+    "s": "FXP",
+    "t": "fxp",
+    "u": "https://www.fxp.co.il/google.php?q={{{s}}}"
+  },
+  {
+    "d": "fxr.watson.org",
+    "s": "FreeBSD Cross Reference",
+    "t": "fxr",
+    "u": "http://fxr.watson.org/fxr/ident?i={{{s}}}"
+  },
+  {
+    "d": "www.fye.com",
+    "s": "FYE",
+    "t": "fye",
+    "u": "https://www.fye.com/search?q={{{s}}}"
+  },
+  {
+    "d": "fyndiq.se",
+    "s": "Fyndiq",
+    "t": "fyndiq",
+    "u": "https://fyndiq.se/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.fiyatlab.com",
+    "s": "Fiyatlab",
+    "t": "fyt",
+    "u": "https://www.fiyatlab.com/?s={{{s}}}"
+  },
+  {
+    "d": "fyyd.de",
+    "s": "fyyd",
+    "t": "fyyd",
+    "u": "https://fyyd.de/search?search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "FZ",
+    "t": "fz",
+    "u": "https://duckduckgo.com/?q=site%3Afz.se+{{{s}}}"
+  }
+]

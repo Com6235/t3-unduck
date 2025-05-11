@@ -1,0 +1,2384 @@
+[
+  {
+    "d": "www.i3-technologies.com",
+    "s": "i3-Technologies",
+    "t": "i3",
+    "u": "https://www.i3-technologies.com/en/resources/knowledge-base/?q={{{s}}}"
+  },
+  {
+    "d": "iacac.aero",
+    "s": "Airport Chapels and Chaplaincies",
+    "t": "iacac",
+    "u": "https://iacac.aero/?s={{{s}}}"
+  },
+  {
+    "d": "iacobus.usc.es",
+    "s": "Catálogo Iacobus - Universidade de Santiago de Compostela",
+    "t": "iacobus",
+    "u": "http://iacobus.usc.es/search*gag/?searchtype=Y&SORT=D&searcharg={{{s}}} "
+  },
+  {
+    "d": "www.iacr.org",
+    "s": "IACR",
+    "t": "iacr",
+    "u": "https://www.iacr.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Internet Archive",
+    "t": "ia",
+    "u": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "d": "ialoc.ro",
+    "s": "ialoc bucuresti",
+    "t": "ialoc",
+    "u": "https://ialoc.ro/restaurante-bucuresti?search={{{s}}}"
+  },
+  {
+    "d": "indeaparis.com",
+    "s": "Inde à Paris",
+    "t": "iap",
+    "u": "http://indeaparis.com/component/finder/search?q={{{s}}} "
+  },
+  {
+    "d": "www.iappmag.de",
+    "s": "iAppMag",
+    "t": "iappmag",
+    "u": "http://www.iappmag.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.archive.org",
+    "s": "archive.org",
+    "t": "iarchive",
+    "u": "http://www.archive.org/search.php?query={{{s}}} "
+  },
+  {
+    "d": "www.irasutoya.com",
+    "s": "Irasutoya",
+    "t": "iasutoya",
+    "u": "http://www.irasutoya.com/search?q={{{s}}}"
+  },
+  {
+    "d": "airportcodes.aero",
+    "s": "IATA Airport Code",
+    "t": "iata",
+    "u": "http://airportcodes.aero/{{{s}}}"
+  },
+  {
+    "d": "iate.europa.eu",
+    "s": "European union terminology ",
+    "t": "iateen",
+    "u": "https://iate.europa.eu/search/byUrl?term={{{s}}}&sl=en"
+  },
+  {
+    "d": "www.iav.com",
+    "s": "IAV Automotive Engineering",
+    "t": "iaven",
+    "u": "https://www.iav.com/en/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.iav.com",
+    "s": "IAV Automotive Engineering",
+    "t": "iav",
+    "u": "https://www.iav.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "infinitythewiki.com",
+    "s": "Infinity WIki",
+    "t": "iaw",
+    "u": "http://infinitythewiki.com/en/{{{s}}}"
+  },
+  {
+    "d": "www.mtb-news.de",
+    "s": "MTB-News",
+    "t": "ibc",
+    "u": "http://www.mtb-news.de/forum/search/12469693/?q={{{s}}}&o=relevance"
+  },
+  {
+    "d": "www.ibdb.com",
+    "s": "Internet Broadway Database",
+    "t": "ibdb",
+    "u": "http://www.ibdb.com/search.asp?SearchFor={{{s}}}&SearchBy=All"
+  },
+  {
+    "d": "research.investors.com",
+    "s": "Investor's business daily",
+    "t": "ibd",
+    "u": "https://research.investors.com/stock-quotes/nasdaq-apple-inc-{{{s}}}.htm?fromsearch=1"
+  },
+  {
+    "d": "www.ibergour.fr",
+    "s": "ibergour.fr",
+    "t": "ibergourfr",
+    "u": "https://www.ibergour.fr/fr/search?query={{{s}}}"
+  },
+  {
+    "d": "www.iberlibro.com",
+    "s": "Iberlibro",
+    "t": "iberlibro",
+    "u": "https://www.iberlibro.com/servlet/SearchResults?sts=t&an=&tn=&kn={{{s}}}&isbn="
+  },
+  {
+    "d": "www.ibge.gov.br",
+    "s": "IBGE",
+    "t": "ibge",
+    "u": "https://www.ibge.gov.br/busca.html?searchword={{{s}}}&searchphrase=all"
+  },
+  {
+    "d": "www.ibhejo.com",
+    "s": "iBhejo",
+    "t": "ibhejo",
+    "u": "http://www.ibhejo.com/ssearch.php?simple_search=Y&mode=search&search_substring={{{s}}}&sort_by=high"
+  },
+  {
+    "d": "www.ibiblio.org",
+    "s": "ibiblio",
+    "t": "ibiblio",
+    "u": "http://www.ibiblio.org/gsearch/?cx=006345117986368989313%3Ar2fkn4tcz5i&cof=FORID%3A11&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "www.indiebound.org",
+    "s": "Indiebound.org",
+    "t": "ib",
+    "u": "https://www.indiebound.org/search/book?keys={{{s}}}"
+  },
+  {
+    "d": "www.ibm.com",
+    "s": "IBM",
+    "t": "ibm",
+    "u": "http://www.ibm.com/Search/?q={{{s}}}&v=16&en=utf&lang=en&cc=us&Search=Search"
+  },
+  {
+    "d": "www.ibm.com",
+    "s": "IBM Knowledge Center",
+    "t": "ibmkc",
+    "u": "https://www.ibm.com/support/knowledgecenter/en/search/{{{s}}}"
+  },
+  {
+    "d": "www.ibs.it",
+    "s": "Internet Bookshop Italia",
+    "t": "ibs",
+    "u": "https://www.ibs.it/search/?ts=as&query={{{s}}}"
+  },
+  {
+    "d": "www.google.ca",
+    "s": "google canada",
+    "t": "ica",
+    "u": "https://www.google.ca/imghp?{{{s}}}"
+  },
+  {
+    "d": "www.icann.org",
+    "s": "ICANN",
+    "t": "icann",
+    "u": "https://www.icann.org/search/#!/?searchText={{{s}}}"
+  },
+  {
+    "d": "icannwiki.com",
+    "s": "ICANNWiki",
+    "t": "icannwiki",
+    "u": "https://icannwiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.ica.se",
+    "s": "ICA - Recept",
+    "t": "icarecept",
+    "u": "https://www.ica.se/receptsok/#:search={{{s}}}"
+  },
+  {
+    "d": "www.kidicaruswiki.org",
+    "s": "Icaruspedia",
+    "t": "icaruspedia",
+    "u": "http://www.kidicaruswiki.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.icd10data.com",
+    "s": "ICD10Data.com",
+    "t": "icd10",
+    "u": "http://www.icd10data.com/Search.aspx?search={{{s}}}"
+  },
+  {
+    "d": "www.icd9data.com",
+    "s": "ICD9Data.com",
+    "t": "icd9",
+    "u": "http://www.icd9data.com/Search/?q={{{s}}}"
+  },
+  {
+    "d": "www.icd-code.de",
+    "s": "Code Suche",
+    "t": "icd",
+    "u": "http://www.icd-code.de/suche/icd/recherche.html?sp=0&sp=S{{{s}}} "
+  },
+  {
+    "d": "dir.xiph.org",
+    "s": "Icecast Directory",
+    "t": "icecast",
+    "u": "http://dir.xiph.org/search?search={{{s}}} "
+  },
+  {
+    "d": "ices.dk",
+    "s": "International Council for the Exploration of the Sea",
+    "t": "ices",
+    "u": "http://ices.dk/Searchcenter/Pages/default.aspx?k={{{s}}}"
+  },
+  {
+    "d": "www.icheckmovies.com",
+    "s": "iCheckMovies",
+    "t": "icheckmovies",
+    "u": "http://www.icheckmovies.com/search/movies/?query={{{s}}}"
+  },
+  {
+    "d": "www.iciba.com",
+    "s": "爱词霸",
+    "t": "iciba",
+    "u": "http://www.iciba.com/{{{s}}}"
+  },
+  {
+    "d": "www.imperial.ac.uk",
+    "s": "Imperial College London",
+    "t": "ic",
+    "u": "https://www.imperial.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "ici.radio-canada.ca",
+    "s": "Radio-Canada",
+    "t": "ici",
+    "u": "https://ici.radio-canada.ca/recherche?q={{{s}}}"
+  },
+  {
+    "d": "www.icheckmovies.com",
+    "s": "iCheckMovies",
+    "t": "icm",
+    "u": "http://www.icheckmovies.com/search/movies/?query={{{s}}}"
+  },
+  {
+    "d": "icobench.com",
+    "s": "ICObench",
+    "t": "ico",
+    "u": "https://icobench.com/icos?s={{{s}}}"
+  },
+  {
+    "d": "www.i-comparateur.com",
+    "s": "i-Comparateur",
+    "t": "icomp",
+    "u": "http://www.i-comparateur.com/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.iconarchive.com",
+    "s": "IconArchive (Commercial Free)",
+    "t": "iconarchivecc",
+    "u": "http://www.iconarchive.com/search?q={{{s}}}&license=commercialfree"
+  },
+  {
+    "d": "www.iconarchive.com",
+    "s": "IconArchive",
+    "t": "iconarchive",
+    "u": "http://www.iconarchive.com/tag/{{{s}}}"
+  },
+  {
+    "d": "www.iconfinder.com",
+    "s": "IconFinder",
+    "t": "iconfinder",
+    "u": "http://www.iconfinder.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.iconfinder.com",
+    "s": "IconFinder",
+    "t": "icon",
+    "u": "http://www.iconfinder.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "icons8.com",
+    "s": "Icons8",
+    "t": "icons8",
+    "u": "https://icons8.com/web-app/for/all/{{{s}}} "
+  },
+  {
+    "d": "www.iconfinder.com",
+    "s": "IconFinder",
+    "t": "icons",
+    "u": "http://www.iconfinder.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "catpro.icpl.org",
+    "s": "Iowa City Public Library",
+    "t": "icpl",
+    "u": "https://catpro.icpl.org/iii/encore/search?lang=eng&target={{{s}}}"
+  },
+  {
+    "d": "www.icstation.com",
+    "s": "icstation.com",
+    "t": "icstation",
+    "u": "http://www.icstation.com/advanced_search_result.php?keywords={{{s}}}&search_in_description=1"
+  },
+  {
+    "d": "www.iculture.nl",
+    "s": "iCulture",
+    "t": "icultr",
+    "u": "http://www.iculture.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.it",
+    "s": "Impossibile da dimenticare",
+    "t": "idd",
+    "u": "http://www.google.it/cse?cx=partner-pub-5110806989181281:4419033070&q={{{s}}}"
+  },
+  {
+    "d": "www.idealworld.tv",
+    "s": "IdealWorld.tv",
+    "t": "ideal",
+    "u": "http://www.idealworld.tv/search/{{{s}}}?fh_location=//IdealWorld/en_GB/$s={{{s}}}&gs={{{s}}}"
+  },
+  {
+    "d": "www.idealo.de",
+    "s": "Idealo",
+    "t": "idealode",
+    "u": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}"
+  },
+  {
+    "d": "www.idealo.es",
+    "s": "Idealo.es",
+    "t": "idealoes",
+    "u": "https://www.idealo.es/resultados.html?q={{{s}}}"
+  },
+  {
+    "d": "www.idealo.de",
+    "s": "idealo.de",
+    "t": "idealo",
+    "u": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}"
+  },
+  {
+    "d": "ideas.repec.org",
+    "s": "RePEc IDEAS",
+    "t": "ideas",
+    "u": "http://ideas.repec.org/cgi-bin/htsearch?q={{{s}}}&cmd=Search!"
+  },
+  {
+    "d": "www.idee-shop.com",
+    "s": "Idee Shop",
+    "t": "idee",
+    "u": "https://www.idee-shop.com/search?sSearch={{{s}}}"
+  },
+  {
+    "d": "www.idefix.com",
+    "s": "Idefix",
+    "t": "idefix",
+    "u": "https://www.idefix.com/search/?Q={{{s}}}"
+  },
+  {
+    "d": "www.idealo.de",
+    "s": "idealo",
+    "t": "ide",
+    "u": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}"
+  },
+  {
+    "d": "ideja.d2.si",
+    "s": "Timekiller",
+    "t": "ideje",
+    "u": "https://ideja.d2.si/results.php?q={{{s}}}"
+  },
+  {
+    "d": "identi.ca",
+    "s": "Identi.ca",
+    "t": "identica",
+    "u": "http://identi.ca/search/people?q={{{s}}}&search=Search"
+  },
+  {
+    "d": "www.idealo.es",
+    "s": "Idealo.es",
+    "t": "ides",
+    "u": "https://www.idealo.es/resultados.html?q={{{s}}}"
+  },
+  {
+    "d": "www.idealo.fr",
+    "s": "Idealo France",
+    "t": "idfr",
+    "u": "https://www.idealo.fr/prechcat.html?q={{{s}}} "
+  },
+  {
+    "d": "docs.idfy.io",
+    "s": "Idfy",
+    "t": "idfy",
+    "u": "https://docs.idfy.io/?q={{{s}}}"
+  },
+  {
+    "d": "www.doomworld.com",
+    "s": "Doomworld/idgames",
+    "t": "idg",
+    "u": "https://www.doomworld.com/idgames//index.php?search=1&field=title&sort=time&order=desc&word={{{s}}}"
+  },
+  {
+    "d": "www.idealo.de",
+    "s": "Idealo",
+    "t": "id",
+    "u": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}"
+  },
+  {
+    "d": "idoimaging.com",
+    "s": "I Do Imaging",
+    "t": "idi",
+    "u": "https://idoimaging.com/programs/fulltext?utf8=✓&Program[fulltext]={{{s}}}"
+  },
+  {
+    "d": "idioms.thefreedictionary.com",
+    "s": "Idioms The Free Dictionary",
+    "t": "idiom",
+    "u": "http://idioms.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "d": "www.thefreedictionary.com",
+    "s": "The Free Dictionary",
+    "t": "idioms",
+    "u": "http://www.thefreedictionary.com/{{{s}}} "
+  },
+  {
+    "d": "www.harrisgeospatial.com",
+    "s": "Harris Geospatial",
+    "t": "idl",
+    "u": "http://www.harrisgeospatial.com/docs/SearchResults.aspx?q={{{s}}}"
+  },
+  {
+    "d": "idolmaster.wikia.com",
+    "s": "THE IDOLM@STER Wiki",
+    "t": "idolmawiki",
+    "u": "http://idolmaster.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "jizdnirady.idnes.cz",
+    "s": "Idos",
+    "t": "idos",
+    "u": "https://jizdnirady.idnes.cz/vlakyautobusymhdvse/spojeni/?f={{{s}}}&t={{{s}}}"
+  },
+  {
+    "d": "www.idownloadblog.com",
+    "s": "iDownloadBlog",
+    "t": "idownloadblog",
+    "u": "http://www.idownloadblog.com/search/?cx=partner-pub-2130162217902648%3Adgi3x3-xedb&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}&siteurl=www.idownloadblog.com%2F&ref=www.google.com%2F&ss=1069j239311j6"
+  },
+  {
+    "d": "docs.idris-lang.org",
+    "s": "Idris Dcoumentation",
+    "t": "idris",
+    "u": "http://docs.idris-lang.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "idroot.us",
+    "s": "idroot",
+    "t": "idroot",
+    "u": "https://idroot.us/?s={{{s}}}"
+  },
+  {
+    "d": "www.idropnews.com",
+    "s": "iDropNEWS",
+    "t": "idrop",
+    "u": "https://www.idropnews.com/?s={{{s}}}"
+  },
+  {
+    "d": "instantdomainsearch.com",
+    "s": "Instant Domain Search",
+    "t": "ids",
+    "u": "https://instantdomainsearch.com/#search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "i",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "dlc.iec.cat",
+    "s": "Institut d'Estudis Catalans",
+    "t": "iec",
+    "u": "https://dlc.iec.cat/results.asp?txtEntrada={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "duckduckgo",
+    "t": "ie",
+    "u": "https://duckduckgo.com/?q=site%3Aie+{{{s}}}"
+  },
+  {
+    "d": "ieeexplore.ieee.org",
+    "s": "IEEE Xplore",
+    "t": "ieee",
+    "u": "http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText={{{s}}}"
+  },
+  {
+    "d": "spectrum.ieee.org",
+    "s": "IEEE spectrum",
+    "t": "ieees",
+    "u": "http://spectrum.ieee.org/searchContent?q={{{s}}}"
+  },
+  {
+    "d": "support.inspiredelearning.com",
+    "s": "Inspired eLearning Support",
+    "t": "iel",
+    "u": "https://support.inspiredelearning.com/help/search/?phrase={{{s}}}"
+  },
+  {
+    "d": "industriaenlaweb.com.ar",
+    "s": "IndustriaEnLaWeb",
+    "t": "ielw",
+    "u": "https://industriaenlaweb.com.ar/buscador?name={{{s}}}"
+  },
+  {
+    "d": "www.iens.nl",
+    "s": "IENS",
+    "t": "iens",
+    "u": "http://www.iens.nl/restaurant?q={{{s}}}"
+  },
+  {
+    "d": "www.iep.utm.edu",
+    "s": "Internet Encyclopedia of Philosophy",
+    "t": "iep",
+    "u": "http://www.iep.utm.edu/{{{s}}} "
+  },
+  {
+    "d": "www.eki.ee",
+    "s": "Inglise-eesti",
+    "t": "ies",
+    "u": "http://www.eki.ee/dict/ies/index.cgi?Q={{{s}}}"
+  },
+  {
+    "d": "datatracker.ietf.org",
+    "s": "The IETF",
+    "t": "ietf",
+    "u": "http://datatracker.ietf.org/doc/search/?name={{{s}}}&activeDrafts=on&rfcs=on"
+  },
+  {
+    "d": "digital-library.theiet.org",
+    "s": "IET Digital Library",
+    "t": "iet",
+    "u": "https://digital-library.theiet.org/search?value1={{{s}}}&option1=all&option2=contentType&pageSize=20&value2="
+  },
+  {
+    "d": "www.iex.nl",
+    "s": "IEX",
+    "t": "iex",
+    "u": "https://www.iex.nl/Zoeken/Default.aspx?q={{{s}}}"
+  },
+  {
+    "d": "theifab.com",
+    "s": "The IFAB",
+    "t": "ifab",
+    "u": "http://theifab.com/search/{{{s}}}"
+  },
+  {
+    "d": "ifdb.tads.org",
+    "s": "Interactive Fiction Database",
+    "t": "ifdb",
+    "u": "http://ifdb.tads.org/search?searchbar={{{s}}}"
+  },
+  {
+    "d": "www.ifht.rwth-aachen.de",
+    "s": "Institue For High-Voltage Technology",
+    "t": "ifht",
+    "u": "http://www.ifht.rwth-aachen.de/ca/be/ovbs/?lidx=&search={{{s}}}"
+  },
+  {
+    "d": "www.ifixit.com",
+    "s": "iFixit",
+    "t": "ifixit",
+    "u": "http://www.ifixit.com/search?x=0&y=0&query={{{s}}}"
+  },
+  {
+    "d": "ifttt.com",
+    "s": "IFTTT",
+    "t": "ifttt",
+    "u": "https://ifttt.com/search/query/{{{s}}}"
+  },
+  {
+    "d": "www.ifun.de",
+    "s": "ifun",
+    "t": "ifun",
+    "u": "https://www.ifun.de/suche/{{{s}}}"
+  },
+  {
+    "d": "ifunny.co",
+    "s": "iFunny",
+    "t": "ifunny",
+    "u": "https://ifunny.co/search/memes?q={{{s}}}"
+  },
+  {
+    "d": "www.iga.net",
+    "s": "IGA Grocery Store",
+    "t": "iga",
+    "u": "https://www.iga.net/en/search?k={{{s}}}"
+  },
+  {
+    "d": "www.igdb.com",
+    "s": "IGDB - Internet Game Database",
+    "t": "igdb",
+    "u": "https://www.igdb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "parts.igem.org",
+    "s": "parts.igem.org",
+    "t": "igem",
+    "u": "http://parts.igem.org/Special:Search?search={{{s}}} "
+  },
+  {
+    "d": "www.indiegogo.com",
+    "s": "Indiegogo",
+    "t": "igg",
+    "u": "https://www.indiegogo.com/explore?q={{{s}}}"
+  },
+  {
+    "d": "imgur.com",
+    "s": "Imgur — gifs",
+    "t": "igif",
+    "u": "https://imgur.com/search/score?q=ext%3Agif+{{{s}}}"
+  },
+  {
+    "d": "www.instagram.com",
+    "s": "Instagram",
+    "t": "ig",
+    "u": "https://www.instagram.com/explore/tags/{{{s}}}/"
+  },
+  {
+    "d": "www.ign.com",
+    "s": "IGN",
+    "t": "ign",
+    "u": "https://www.ign.com/search?q={{{s}}}"
+  },
+  {
+    "d": "igorandandre.com",
+    "s": "Igor + Andre",
+    "t": "igorandandre",
+    "u": "https://igorandandre.com/search/{{{s}}}"
+  },
+  {
+    "d": "igra-apple.ru",
+    "s": "igra-apple",
+    "t": "igra",
+    "u": "http://igra-apple.ru/?s={{{s}}}"
+  },
+  {
+    "d": "www.instagram.com",
+    "s": "Instagram",
+    "t": "igu",
+    "u": "https://www.instagram.com/{{{s}}}"
+  },
+  {
+    "d": "inspirehep.net",
+    "s": "InspireHEP",
+    "t": "ihep",
+    "u": "http://inspirehep.net/search?p={{{s}}}"
+  },
+  {
+    "d": "iherb.com",
+    "s": "iHerb",
+    "t": "iherb",
+    "u": "https://iherb.com/search?kw={{{s}}}"
+  },
+  {
+    "d": "www.iiba.org",
+    "s": "https://www.iiba.org",
+    "t": "iiba",
+    "u": "https://www.iiba.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.isitdownrightnow.com",
+    "s": "https://www.isitdownrightnow.com/",
+    "t": "iid",
+    "u": "https://www.isitdownrightnow.com/{{{s}}}.html"
+  },
+  {
+    "d": "www.isitdownrightnow.com",
+    "s": "Is It Down Right Now?",
+    "t": "iidrn",
+    "u": "http://www.isitdownrightnow.com/{{{s}}}.html"
+  },
+  {
+    "d": "www.ijinus.com",
+    "s": "ijinus.com",
+    "t": "ijinus",
+    "u": "https://www.ijinus.com/?s={{{s}}}&lang=en"
+  },
+  {
+    "d": "prirucka.ujc.cas.cz",
+    "s": "Internetová jazyková příručka",
+    "t": "ijp",
+    "u": "http://prirucka.ujc.cas.cz/?slovo={{{s}}}"
+  },
+  {
+    "d": "indiankanoon.org",
+    "s": "Indian Kanoon",
+    "t": "ikanoon",
+    "u": "https://indiankanoon.org/search/?formInput={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "IKEA Austria",
+    "t": "ikeaat",
+    "u": "https://www.ikea.com/at/de/search/products/?q={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "IKEA Australia",
+    "t": "ikeaau",
+    "u": "http://www.ikea.com/au/en/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea Belgium",
+    "t": "ikeabe",
+    "u": "http://www.ikea.com/be/nl/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea Canada",
+    "t": "ikeaca",
+    "u": "https://www.ikea.com/ca/en/search/products/?q={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "ikea.ch",
+    "t": "ikeach",
+    "u": "http://www.ikea.com/ch/de/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea Czech Republic",
+    "t": "ikeacs",
+    "u": "https://www.ikea.com/cz/cs/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea Germany",
+    "t": "ikeade",
+    "u": "https://www.ikea.com/de/de/search/products/?q={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea Spain",
+    "t": "ikeaes",
+    "u": "https://www.ikea.com/es/es/search/products/?q={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea FR",
+    "t": "ikeafr",
+    "u": "http://www.ikea.com/fr/fr/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea Ireland",
+    "t": "ikeaie",
+    "u": "http://www.ikea.com/ie/en/search/?query={{{s}}} "
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea",
+    "t": "ikea",
+    "u": "http://www.ikea.com/us/en/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "Ikea (Italia)",
+    "t": "ikeait",
+    "u": "http://www.ikea.com/it/it/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "IKEA Nederland",
+    "t": "ikeanl",
+    "u": "https://www.ikea.com/nl/nl/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "ikea.pl",
+    "t": "ikeapl",
+    "u": "https://www.ikea.com/pl/pl/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ikea.com",
+    "s": "IKEA UK",
+    "t": "ikeauk",
+    "u": "https://www.ikea.com/gb/en/search/products/?q={{{s}}}"
+  },
+  {
+    "d": "ikkepedia.org",
+    "s": "Ikkepedia",
+    "t": "ikkepedia",
+    "u": "http://ikkepedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ikman.lk",
+    "s": "Ikman",
+    "t": "ikman",
+    "u": "https://ikman.lk/en/ads?query={{{s}}}"
+  },
+  {
+    "d": "kantaro.ikso.net",
+    "s": "Ikso Kantaro",
+    "t": "ikso",
+    "u": "http://kantaro.ikso.net/?do=search&id={{{s}}}&fulltext=Serĉo"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "il",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images&iaf=size%3Aimagesize-large"
+  },
+  {
+    "d": "www.ilfattoquotidiano.it",
+    "s": "Il Fatto Quotidiano",
+    "t": "ilfatto",
+    "u": "http://www.ilfattoquotidiano.it/{{{s}}}"
+  },
+  {
+    "d": "il.ink",
+    "s": "il.ink",
+    "t": "ilink",
+    "u": "https://il.ink/{{{s}}}"
+  },
+  {
+    "d": "illumos.org",
+    "s": "illumos man",
+    "t": "illumos",
+    "u": "http://illumos.org/man/{{{s}}}"
+  },
+  {
+    "d": "www.ilmeteo.it",
+    "s": "ilmeteo.it",
+    "t": "ilm",
+    "u": "http://www.ilmeteo.it/meteo/{{{s}}}"
+  },
+  {
+    "d": "www.ilounge.com",
+    "s": "iLounge",
+    "t": "ilounge",
+    "u": "http://www.ilounge.com/index.php/search/results/search&keywords={{{s}}}"
+  },
+  {
+    "d": "www.ilovefreesoftware.com",
+    "s": "I Love Free Software",
+    "t": "ilovefreesoftware",
+    "u": "http://www.ilovefreesoftware.com/gsearch?ie=UTF-8&q={{{s}}}&ss=1633j526083j9&cof=FORID%3a10&cx=008701510501807727669%3aabbyr0bpxi0&siteurl=www.ilovefreesoftware.com%2f"
+  },
+  {
+    "d": "www.ilpost.it",
+    "s": "Il Post",
+    "t": "ilpost",
+    "u": "http://www.ilpost.it/?s={{{s}}}"
+  },
+  {
+    "d": "www.ricerca24.ilsole24ore.com",
+    "s": "Il Sole 24 Ore",
+    "t": "ilsole24ore",
+    "u": "http://www.ricerca24.ilsole24ore.com/fc?keyWords={{{s}}}&submit=+&header-search=keyWords&cmd=static&moneyPath=http://finanza-mercati.ilsole24ore.com&chId=30&path=/search/search_engine.jsp&field=Titolo|Testo&orderBy=score+desc"
+  },
+  {
+    "d": "search.illinoisstate.edu",
+    "s": "Illinois State University",
+    "t": "ilstu",
+    "u": "http://search.illinoisstate.edu/?q={{{s}}}"
+  },
+  {
+    "d": "www.iltapulu.fi",
+    "s": "Iltapulu",
+    "t": "iltapulu",
+    "u": "http://www.iltapulu.fi/search.php?q={{{s}}}"
+  },
+  {
+    "d": "iltasanomat.fi",
+    "s": "Ilta-Sanomat",
+    "t": "iltasanomat",
+    "u": "http://iltasanomat.fi/haku/?search-term={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "image",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "imagelayers.io",
+    "s": "ImageLayers",
+    "t": "imagelayers",
+    "u": "https://imagelayers.io/?images={{{s}}}"
+  },
+  {
+    "d": "www.imagely.com",
+    "s": "Imagely",
+    "t": "imagely",
+    "u": "https://www.imagely.com/?s={{{s}}} "
+  },
+  {
+    "d": "www.image-net.org",
+    "s": "ImageNet",
+    "t": "imagenet",
+    "u": "http://www.image-net.org/search?q={{{s}}}"
+  },
+  {
+    "d": "quest.eb.com",
+    "s": "Britannica ImageQuest",
+    "t": "imagequest",
+    "u": "http://quest.eb.com/search/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "images",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "imageshack.us",
+    "s": "Image Shack",
+    "t": "imageshack",
+    "u": "http://imageshack.us/photos/{{{s}}}"
+  },
+  {
+    "d": "www.indiemag.fr",
+    "s": "IndieMag",
+    "t": "imag",
+    "u": "https://www.indiemag.fr/search/node/{{{s}}}"
+  },
+  {
+    "d": "imagr.eu",
+    "s": "Imagr",
+    "t": "imagr",
+    "u": "https://imagr.eu/?action=search&search={{{s}}}"
+  },
+  {
+    "d": "www.project-imas.com",
+    "s": "Project iM@S Wiki",
+    "t": "imas",
+    "u": "http://www.project-imas.com/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "www.project-imas.com",
+    "s": "project-imas.com wiki",
+    "t": "imaswiki",
+    "u": "http://www.project-imas.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "images.math.cnrs.fr",
+    "s": "Images des mathématiques",
+    "t": "imaths",
+    "u": "http://images.math.cnrs.fr/spip.php?page=recherche&page=recherche&recherche={{{s}}}"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMBD",
+    "t": "imbd",
+    "u": "http://www.imdb.com/find?q={{{s}}}&s=all"
+  },
+  {
+    "d": "www.imbiomed.com.mx",
+    "s": "imbiomed",
+    "t": "imb",
+    "u": "http://www.imbiomed.com.mx/1/1/articulos.php?method=searchKeyword&keywords={{{s}}}"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMDb (Internet Movie Database)",
+    "t": "imdba",
+    "u": "http://www.imdb.com/find?ref_=nv_sr_fn&q={{{s}}}&s=nm"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMDB TV Episodes",
+    "t": "imdbep",
+    "u": "https://www.imdb.com/find?&q={{{s}}}&s=ep"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMDB",
+    "t": "imdb",
+    "u": "http://www.imdb.com/find?s=all&q={{{s}}}"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMDb Keywords",
+    "t": "imdbk",
+    "u": "http://www.imdb.com/find?s=kw&q={{{s}}}"
+  },
+  {
+    "d": "m.imdb.com",
+    "s": "IMDb Mobile",
+    "t": "imdbm",
+    "u": "https://m.imdb.com/find?q={{{s}}}"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMDB name",
+    "t": "imdbn",
+    "u": "http://www.imdb.com/find?s=nm&q={{{s}}}"
+  },
+  {
+    "d": "pro-labs.imdb.com",
+    "s": "IMDB pro",
+    "t": "imdbp",
+    "u": "http://pro-labs.imdb.com/find?q={{{s}}} "
+  },
+  {
+    "d": "imdb.com",
+    "s": "IMDB Showtimes",
+    "t": "imdbs",
+    "u": "http://imdb.com/showtimes/US/{{{s}}}"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMDb TV",
+    "t": "imdbtv",
+    "u": "https://www.imdb.com/search/title?title={{{s}}}&title_type=tv_series"
+  },
+  {
+    "d": "www.imdb.com",
+    "s": "IMDb",
+    "t": "imd",
+    "u": "http://www.imdb.com/find?q={{{s}}}+&s=all"
+  },
+  {
+    "d": "www.imfdb.org",
+    "s": "Internet Movie Firearms Database",
+    "t": "imfdb",
+    "u": "http://www.imfdb.org/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "img",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "imgflip.com",
+    "s": "Imgflip",
+    "t": "imgflip",
+    "u": "https://imgflip.com/search?q={{{s}}}"
+  },
+  {
+    "d": "imgops.com",
+    "s": "ImgOps",
+    "t": "imgops",
+    "u": "https://imgops.com/{{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Image Search - Tagged for Reuse with modification",
+    "t": "imgrwm",
+    "u": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1#q={{{s}}}&tbs=imgo:1,sur:fmc&tbm=isch"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "imgs",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "imgur.com",
+    "s": "Imgur",
+    "t": "imgur",
+    "u": "https://imgur.com/search?q={{{s}}}"
+  },
+  {
+    "d": "imgur.com",
+    "s": "Upload to imgur",
+    "t": "imgurul",
+    "u": "http://imgur.com/api/upload/?url={{{s}}}"
+  },
+  {
+    "d": "www.inmotionhosting.com",
+    "s": "InMotion Hosting Support Center",
+    "t": "imh",
+    "u": "https://www.inmotionhosting.com/support/search?searchword={{{s}}}"
+  },
+  {
+    "d": "www.imore.com",
+    "s": "iMore",
+    "t": "imore",
+    "u": "http://www.imore.com/search/{{{s}}}?query={{{s}}}"
+  },
+  {
+    "d": "impdb.org",
+    "s": "Internet Movie Plane Database",
+    "t": "impdb",
+    "u": "http://impdb.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.imperial.ac.uk",
+    "s": "Imperial College London",
+    "t": "imperial",
+    "u": "https://www.imperial.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.impericon.com",
+    "s": "Impericon(de)",
+    "t": "impericonde",
+    "u": "http://www.impericon.com/de/advancedsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.impericon.com",
+    "s": "Impericon(uk)",
+    "t": "impericonuk",
+    "u": "http://www.impericon.com/uk/advancedsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "ims.com.br",
+    "s": "Instituto Moreira Salles",
+    "t": "ims",
+    "u": "https://ims.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "imslp.org",
+    "s": "IMSLP",
+    "t": "imslp",
+    "u": "http://imslp.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "annuaire.in2p3.fr",
+    "s": "Annuaire in2p3 - CNRS",
+    "t": "in2p3",
+    "u": "https://annuaire.in2p3.fr/search/{{{s}}}"
+  },
+  {
+    "d": "www.ineedabargain.com",
+    "s": "INeedaBargain.com",
+    "t": "inab",
+    "u": "http://www.ineedabargain.com/deals/search?q={{{s}}} "
+  },
+  {
+    "d": "www.inah.gob.mx",
+    "s": "Instituto Nacional de Antropología e Historia",
+    "t": "inah",
+    "u": "https://www.inah.gob.mx/buscador?searchword={{{s}}}"
+  },
+  {
+    "d": "www.inaturalist.org",
+    "s": "iNaturalist",
+    "t": "inat",
+    "u": "https://www.inaturalist.org/search?q={{{s}}}"
+  },
+  {
+    "d": "inbox.google.com",
+    "s": "Inbox by Gmail",
+    "t": "inbox",
+    "u": "https://inbox.google.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.incensepro.com",
+    "s": "Incense Pro",
+    "t": "incense",
+    "u": "https://www.incensepro.com/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "inci.sozlukspot.com",
+    "s": "incisozluk",
+    "t": "inci",
+    "u": "http://inci.sozlukspot.com/w/{{{s}}}"
+  },
+  {
+    "d": "incompetech.com",
+    "s": "INCOMPETECH",
+    "t": "incomp",
+    "u": "https://incompetech.com/wordpress/?s={{{s}}}"
+  },
+  {
+    "d": "www.incredible.co.za",
+    "s": "Incredible Connection",
+    "t": "incredible",
+    "u": "https://www.incredible.co.za/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.indeed.com",
+    "s": "Indeed",
+    "t": "indeed",
+    "u": "http://www.indeed.com/jobs?q={{{s}}}"
+  },
+  {
+    "d": "www.independent.co.uk",
+    "s": "The Independent",
+    "t": "independent",
+    "u": "http://www.independent.co.uk/search/simple.do?destinationSectionUniqueName=search&publicationName=ind&searchString={{{s}}}"
+  },
+  {
+    "d": "www.indiabookstore.net",
+    "s": "IndiaBookStore",
+    "t": "indiabookstore",
+    "u": "https://www.indiabookstore.net/search?q={{{s}}}"
+  },
+  {
+    "d": "dir.indiamart.com",
+    "s": "IndiaMART",
+    "t": "indiamart",
+    "u": "http://dir.indiamart.com/cgi/catprdsearch.mp?ss={{{s}}}"
+  },
+  {
+    "d": "indiankanoon.org",
+    "s": "Indian Kanoon",
+    "t": "indiankanoon",
+    "u": "https://indiankanoon.org/search/?formInput={{{s}}}"
+  },
+  {
+    "d": "www.indiedb.com",
+    "s": "IndieDB",
+    "t": "indiedb",
+    "u": "http://www.indiedb.com/search?cx=008031850949085947773%3Acbmjgaamtxe&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&sa.x=0&sa.y=0"
+  },
+  {
+    "d": "www.indiegogo.com",
+    "s": "Indiegogo",
+    "t": "indiegogo",
+    "u": "https://www.indiegogo.com/search#/?q={{{s}}}"
+  },
+  {
+    "d": "www.indiemerchstore.com",
+    "s": "IndieMerchstore",
+    "t": "indiemerch",
+    "u": "https://www.indiemerchstore.com/search?q={{{s}}}"
+  },
+  {
+    "d": "indieweb.org",
+    "s": "Indie Web Camp",
+    "t": "indieweb",
+    "u": "http://indieweb.org/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.chapters.indigo.ca",
+    "s": "Indigo Books",
+    "t": "indigo",
+    "u": "http://www.chapters.indigo.ca/home/search/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.india.com",
+    "s": "India.com",
+    "t": "ind",
+    "u": "https://www.india.com/searchresult/?cx=partner-pub-6717584324019958%3A4408969895&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa="
+  },
+  {
+    "d": "www.indolio.com",
+    "s": "Indolio | Informasi Terbaru | Informasi Hari ini | Kabar Online",
+    "t": "indol",
+    "u": "https://www.indolio.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.indyaconnects.com",
+    "s": "indyaconnects",
+    "t": "indyaconnects",
+    "u": "http://www.indyaconnects.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.inet.se",
+    "s": "Inet",
+    "t": "inet",
+    "u": "http://www.inet.se/hitta?q={{{s}}}"
+  },
+  {
+    "d": "inflooenz.com",
+    "s": "inflooenz",
+    "t": "infloo",
+    "u": "http://inflooenz.com/?artist={{{s}}}"
+  },
+  {
+    "d": "www.infobae.com",
+    "s": "Infobae",
+    "t": "infobae",
+    "u": "https://www.infobae.com/search/{{{s}}}/?q={{{s}}}"
+  },
+  {
+    "d": "infogalactic.com",
+    "s": "Infogalactic",
+    "t": "infogalactic",
+    "u": "http://infogalactic.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "infogalactic.com",
+    "s": "Infogalactic",
+    "t": "infogal",
+    "u": "https://infogalactic.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "infogalactic.com",
+    "s": "infogalactic.com",
+    "t": "infog",
+    "u": "https://infogalactic.com/info/{{{s}}}"
+  },
+  {
+    "d": "infogr.am",
+    "s": "Infogram",
+    "t": "infogram",
+    "u": "https://infogr.am/search#{{{s}}}"
+  },
+  {
+    "d": "www.infopedia.pt",
+    "s": "Infopédia",
+    "t": "infopedia",
+    "u": "http://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}"
+  },
+  {
+    "d": "www.infoq.com",
+    "s": "InfoQ",
+    "t": "infoq",
+    "u": "http://www.infoq.com/search.action?queryString={{{s}}}"
+  },
+  {
+    "d": "websearch.rakuten.co.jp",
+    "s": "Rakuten Infoseek",
+    "t": "infoseek",
+    "u": "http://websearch.rakuten.co.jp/Web?qt={{{s}}}"
+  },
+  {
+    "d": "theinfosphere.org",
+    "s": "The Infosphere",
+    "t": "infosphere",
+    "u": "http://theinfosphere.org/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "d": "www.infowars.com",
+    "s": "Infowars",
+    "t": "infowars",
+    "u": "https://www.infowars.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.infoworld.com",
+    "s": "InfoWorld",
+    "t": "infoworld",
+    "u": "https://www.infoworld.com/search/google?cx=014839440456418836424%3Ahugs45or03k&cof=FORID%3A9&query={{{s}}}&op=Search&gl=US&safe=off&form_build_id=form-ea211c8bee91b69175fca8d84e9d9543&form_id=google_cse_results_searchbox_form"
+  },
+  {
+    "d": "www.ing.de",
+    "s": "ING DiBa",
+    "t": "ing",
+    "u": "https://www.ing.de/suche/?query={{{s}}}"
+  },
+  {
+    "d": "catalogue.inha.fr",
+    "s": "INHA",
+    "t": "inha",
+    "u": "http://catalogue.inha.fr/inha/List.csp?SearchT1={{{s}}}&Index1=Tlm&Database=5&OpacLanguage=fre&NumberToRetrieve=50&SearchMethod=Find_1&SearchTerm1={{{s}}}&Profile=Profile35&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount="
+  },
+  {
+    "d": "www.inhaltsangabe.de",
+    "s": "Inhaltsangabe.de",
+    "t": "inhalt",
+    "u": "https://www.inhaltsangabe.de/?s={{{s}}}"
+  },
+  {
+    "d": "invidio.us",
+    "s": "Invidio.us",
+    "t": "in",
+    "u": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "d": "initium.fandom.com",
+    "s": "initium wiki",
+    "t": "initium",
+    "u": "https://initium.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "inkbunny.net",
+    "s": "InkBunny",
+    "t": "inkb",
+    "u": "https://inkbunny.net/submissionsviewall.php?rid=&mode=search&page=1&orderby=create_datetime&text={{{s}}}&stringtype=and&keywords=yes&title=yes&description=no&artist=&favsby=&type=&sale=&days=&keyword_id=&user_id=&random=&md5="
+  },
+  {
+    "d": "inkbunny.net",
+    "s": "Inkbunny",
+    "t": "inkbun",
+    "u": "https://inkbunny.net/submissionsviewall.php?mode=search&stringtype=and&keywords=yes&title=yes&description=yes&text={{{s}}}"
+  },
+  {
+    "d": "inkeri-klubi.radioviola.net",
+    "s": "Inkeri Klubi – Клуб Ингрия",
+    "t": "inkeri",
+    "u": "http://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q={{{s}}}"
+  },
+  {
+    "d": "splatoonwiki.org",
+    "s": "Inkipedia",
+    "t": "inkipedia",
+    "u": "http://splatoonwiki.org/w/index.php?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.inktweb.nl",
+    "s": "Inktweb.nl",
+    "t": "inktweb",
+    "u": "https://www.inktweb.nl/search.php?search={{{s}}}"
+  },
+  {
+    "d": "ivdnt.org",
+    "s": "Instituut voor de Nederlandse taal",
+    "t": "inl",
+    "u": "https://ivdnt.org/zoeken-in-woordenboeken?w={{{s}}}"
+  },
+  {
+    "d": "www.innerfidelity.com",
+    "s": "InnerFidelity",
+    "t": "innerf",
+    "u": "http://www.innerfidelity.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "innerlightcrystals.co.uk",
+    "s": "Inner Light Crystals",
+    "t": "innerlightcrystals",
+    "u": "https://innerlightcrystals.co.uk/sales/index.php?main_page=advanced_search_result&keyword={{{s}}}&search_in_description=1"
+  },
+  {
+    "d": "www.israelnationalnews.com",
+    "s": "Israel National News - Arutz Sheva 7",
+    "t": "inn",
+    "u": "https://www.israelnationalnews.com/Search.aspx?string={{{s}}}"
+  },
+  {
+    "d": "www.innovativity.org",
+    "s": "Innooo",
+    "t": "innooo",
+    "u": "http://www.innovativity.org/moteur-de-recherche-innooo.php?typerecherche=&item={{{s}}}"
+  },
+  {
+    "d": "innsida.ntnu.no",
+    "s": "Innsida NTNU",
+    "t": "innsida",
+    "u": "https://innsida.ntnu.no/sok?site=innsida&query={{{s}}}&category=all"
+  },
+  {
+    "d": "www.inoreader.com",
+    "s": "Inoreader",
+    "t": "ino",
+    "u": "http://www.inoreader.com/search/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DDG images excluding Pinterest",
+    "t": "inp",
+    "u": "https://duckduckgo.com/?q=-site%3Apinterest.com+{{{s}}}&iar=images&iax=images&ia=images"
+  },
+  {
+    "d": "inpost.pl",
+    "s": "InPost",
+    "t": "inpost",
+    "u": "https://inpost.pl/pl/pomoc/znajdz-przesylke?parcel={{{s}}}"
+  },
+  {
+    "d": "lesinrocks.com",
+    "s": "lesinrocks.com",
+    "t": "inrocks",
+    "u": "https://lesinrocks.com/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "www.inrs.fr",
+    "s": "INRS",
+    "t": "inrs",
+    "u": "http://www.inrs.fr/header/recherche.html?queryStr={{{s}}}"
+  },
+  {
+    "d": "www.insa-strasbourg.fr",
+    "s": "INSA de Strasbourg",
+    "t": "insas",
+    "u": "http://www.insa-strasbourg.fr/fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.insectimages.org",
+    "s": "Insect Images",
+    "t": "insectimages",
+    "u": "https://www.insectimages.org/search/action.cfm?q={{{s}}}"
+  },
+  {
+    "d": "insider.in",
+    "s": "Insider.in",
+    "t": "insider",
+    "u": "https://insider.in/search?q={{{s}}}"
+  },
+  {
+    "d": "insideschools.org",
+    "s": "Insideschools",
+    "t": "insideschools",
+    "u": "http://insideschools.org/search?q={{{s}}} "
+  },
+  {
+    "d": "www.instructables.com",
+    "s": "Instructables",
+    "t": "ins",
+    "u": "http://www.instructables.com/howto/{{{s}}}"
+  },
+  {
+    "d": "inspirationhut.net",
+    "s": "Inspiration Hut",
+    "t": "inspirationhut",
+    "u": "http://inspirationhut.net/?s={{{s}}}"
+  },
+  {
+    "d": "inspirehep.net",
+    "s": "Inspire HEP ",
+    "t": "inspire",
+    "u": "http://inspirehep.net/search?p={{{s}}}"
+  },
+  {
+    "d": "instagram.com",
+    "s": "Instagram",
+    "t": "instagram",
+    "u": "https://instagram.com/explore/tags/{{{s}}}"
+  },
+  {
+    "d": "www.instagram.com",
+    "s": "Instagram",
+    "t": "insta",
+    "u": "https://www.instagram.com/explore/tags/{{{s}}}"
+  },
+  {
+    "d": "wiki.installgentoo.com",
+    "s": "Gentoo Wiki",
+    "t": "installgentoo",
+    "u": "https://wiki.installgentoo.com/index.php/{{{s}}}"
+  },
+  {
+    "d": "www.instant-gaming.com",
+    "s": "Instant Gaming",
+    "t": "instantgaming",
+    "u": "https://www.instant-gaming.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "instantlogosearch.com",
+    "s": "Instant Logo Search",
+    "t": "instantlogo",
+    "u": "http://instantlogosearch.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.instapaper.com",
+    "s": "Instapaper",
+    "t": "instapaper",
+    "u": "https://www.instapaper.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.instructables.com",
+    "s": "Instructables",
+    "t": "instructables",
+    "u": "http://www.instructables.com/howto/{{{s}}}"
+  },
+  {
+    "d": "www.aljazeera.com",
+    "s": "Aljazeera",
+    "t": "intaljazeera",
+    "u": "http://www.aljazeera.com/Services/Search/?q={{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "WolframAlpha integration",
+    "t": "integral",
+    "u": "https://www.wolframalpha.com/input/?i=integral+{{{s}}}"
+  },
+  {
+    "d": "software.intel.com",
+    "s": "Intel Intrinsics Guide",
+    "t": "inteli",
+    "u": "https://software.intel.com/sites/landingpage/IntrinsicsGuide/#!=undefined&text={{{s}}}"
+  },
+  {
+    "d": "www.intel.com",
+    "s": "Intel",
+    "t": "intel",
+    "u": "http://www.intel.com/content/www/us/en/search.html?keyword={{{s}}}"
+  },
+  {
+    "d": "theintercept.com",
+    "s": "The Intercept",
+    "t": "intercept",
+    "u": "https://theintercept.com/search/?s={{{s}}}"
+  },
+  {
+    "d": "www.interencheres.com",
+    "s": "Interencheres",
+    "t": "inter",
+    "u": "https://www.interencheres.com/recherche/lots?search={{{s}}}&area=france"
+  },
+  {
+    "d": "www.internazionale.it",
+    "s": "Internazionale",
+    "t": "internazionale",
+    "u": "http://www.internazionale.it/search/{{{s}}}"
+  },
+  {
+    "d": "www.intersport.se",
+    "s": "Intersport",
+    "t": "intersport",
+    "u": "https://www.intersport.se/soksida/?q={{{s}}}"
+  },
+  {
+    "d": "intheclouds.io",
+    "s": "INTHECLOUDS",
+    "t": "intheclouds",
+    "u": "https://intheclouds.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.internazionale.it",
+    "s": "Internazionale",
+    "t": "int",
+    "u": "http://www.internazionale.it/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.intodns.com",
+    "s": "intodns",
+    "t": "intodns",
+    "u": "http://www.intodns.com/{{{s}}}"
+  },
+  {
+    "d": "into.hu",
+    "s": "Into.hu",
+    "t": "intohu",
+    "u": "http://into.hu/kereses.php?kereses={{{s}}}&cikk=1&forum=1&letolt=1&fal=1&zene=1&kerdesek=1&page=1"
+  },
+  {
+    "d": "invak.info",
+    "s": "INVAK.INFO",
+    "t": "invak",
+    "u": "https://invak.info/?s={{{s}}}"
+  },
+  {
+    "d": "invidio.us",
+    "s": "Invidious",
+    "t": "invd",
+    "u": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.investing.com",
+    "s": "investing.com",
+    "t": "investing",
+    "u": "https://www.investing.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.investopedia.com",
+    "s": "Investopedia",
+    "t": "invest",
+    "u": "https://www.investopedia.com/search/?search-terms={{{s}}}"
+  },
+  {
+    "d": "www.investopedia.com",
+    "s": "Investopedia",
+    "t": "investopedia",
+    "u": "https://www.investopedia.com/search/?search-terms={{{s}}}"
+  },
+  {
+    "d": "www.investorwords.com",
+    "s": "Investor Words",
+    "t": "investorwords",
+    "u": "http://www.investorwords.com/search_cse.php?q={{{s}}}"
+  },
+  {
+    "d": "invidio.us",
+    "s": "Invidio.us",
+    "t": "invid",
+    "u": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "d": "invidio.us",
+    "s": "invidious",
+    "t": "invidio",
+    "u": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.invidio.us",
+    "s": "Invidious",
+    "t": "invidious",
+    "u": "https://www.invidio.us/search?q={{{s}}}"
+  },
+  {
+    "d": "inventaire.io",
+    "s": "inventaire.io",
+    "t": "inv",
+    "u": "https://inventaire.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.inwx.com",
+    "s": "InterNetworX",
+    "t": "inwx",
+    "u": "http://www.inwx.com/en/domain/check#search={{{s}}}#region=DEFAULT"
+  },
+  {
+    "d": "io9.com",
+    "s": "io9",
+    "t": "io9",
+    "u": "http://io9.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.iol.co.za",
+    "s": "IOL",
+    "t": "iol",
+    "u": "https://www.iol.co.za/search?q={{{s}}}"
+  },
+  {
+    "d": "iopscience.iop.org",
+    "s": "Institute of Physics Science",
+    "t": "iop",
+    "u": "http://iopscience.iop.org/nsearch?terms={{{s}}}&searchType=yourSearch"
+  },
+  {
+    "d": "imgops.com",
+    "s": "Iops",
+    "t": "iops",
+    "u": "http://imgops.com/{{{s}}}"
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "iOS Developer Library",
+    "t": "ios",
+    "u": "http://developer.apple.com/library/ios/search/?q={{{s}}}"
+  },
+  {
+    "d": "ioteksperten.dk",
+    "s": "IOT Eksperten",
+    "t": "ioteksperten",
+    "u": "https://ioteksperten.dk/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "www.roomalert.ro",
+    "s": "RoomAlert.ro",
+    "t": "iot",
+    "u": "https://www.roomalert.ro/search?q={{{s}}}"
+  },
+  {
+    "d": "ip-api.com",
+    "s": "IP-API.com",
+    "t": "ipapi",
+    "u": "http://ip-api.com/#{{{s}}}"
+  },
+  {
+    "d": "tracking.i-parcel.com",
+    "s": "i-parcel Tracking",
+    "t": "iparcel",
+    "u": "https://tracking.i-parcel.com/secure/track.aspx?track={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia IPA guide",
+    "t": "ipa",
+    "u": "https://en.wikipedia.org/wiki/Help:IPA/{{{s}}}"
+  },
+  {
+    "d": "www.ipdb.org",
+    "s": "Internet Pinball Database",
+    "t": "ipdb",
+    "u": "http://www.ipdb.org/search.pl?any={{{s}}}&sortby=name&search=Search+Database&searchtype=quick"
+  },
+  {
+    "d": "www.ipernity.com",
+    "s": "Ipernity",
+    "t": "ipernity",
+    "u": "http://www.ipernity.com/search/doc?q={{{s}}}&w=on"
+  },
+  {
+    "d": "ipfs.io",
+    "s": "InterPlanetary File System",
+    "t": "ipfs",
+    "u": "https://ipfs.io/ipfs/{{{s}}}"
+  },
+  {
+    "d": "www.actualidadiphone.com",
+    "s": "Actualidad iPhone ",
+    "t": "iphonees",
+    "u": "http://www.actualidadiphone.com/search/{{{s}}}"
+  },
+  {
+    "d": "ipinfo.io",
+    "s": "ipinfo.io",
+    "t": "ipinfo",
+    "u": "http://ipinfo.io/{{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC iPlayer",
+    "t": "iplayer",
+    "u": "http://www.bbc.co.uk/iplayer/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC iPlayer Radio",
+    "t": "iplayerradio",
+    "u": "http://www.bbc.co.uk/radio/programmes/a-z/by/{{{s}}}/player"
+  },
+  {
+    "d": "www.iplt20.com",
+    "s": "IPL",
+    "t": "ipl",
+    "u": "https://www.iplt20.com/search?term={{{s}}}"
+  },
+  {
+    "d": "www.iplocation.net",
+    "s": "IP Location",
+    "t": "iplocation",
+    "u": "https://www.iplocation.net/?query={{{s}}}"
+  },
+  {
+    "d": "www.iptolocation.net",
+    "s": "iptolocation.net",
+    "t": "iploc",
+    "u": "https://www.iptolocation.net/trace-{{{s}}}"
+  },
+  {
+    "d": "iplookup.theel0ja.info",
+    "s": "theel0ja.info's IPLookup",
+    "t": "iplookup",
+    "u": "http://iplookup.theel0ja.info/?host={{{s}}}"
+  },
+  {
+    "d": "ipfs.io",
+    "s": "InterPlanetary Naming System",
+    "t": "ipns",
+    "u": "https://ipfs.io/ipns/{{{s}}}"
+  },
+  {
+    "d": "iprice.my",
+    "s": "iprice",
+    "t": "iprice",
+    "u": "https://iprice.my/search/?term={{{s}}}"
+  },
+  {
+    "d": "www.iprofesional.com",
+    "s": "iProfesional.com",
+    "t": "ipro",
+    "u": "http://www.iprofesional.com/index.php?p=buscadorProfesional&texto={{{s}}}"
+  },
+  {
+    "d": "interpersonal.stackexchange.com",
+    "s": "Interpersonal Skills",
+    "t": "ips",
+    "u": "https://interpersonal.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ip-tracker.org",
+    "s": "IP Tracker",
+    "t": "iptracker",
+    "u": "http://www.ip-tracker.org/locator/ip-lookup.php?ip={{{s}}} "
+  },
+  {
+    "d": "www.ip-tracker.org",
+    "s": "IPTracker",
+    "t": "iptrack",
+    "u": "http://www.ip-tracker.org/locator/ip-lookup.php?ip={{{s}}}"
+  },
+  {
+    "d": "ready.chair6.net",
+    "s": "chair6.net",
+    "t": "ipv6",
+    "u": "http://ready.chair6.net/?url={{{s}}}"
+  },
+  {
+    "d": "www.ipvoid.com",
+    "s": "Ipvoid",
+    "t": "ipvoid",
+    "u": "http://www.ipvoid.com/scan/{{{s}}}"
+  },
+  {
+    "d": "whatismyipaddress.com",
+    "s": "WhatIsMyIPAddress.com",
+    "t": "ip",
+    "u": "http://whatismyipaddress.com/ip/{{{s}}}"
+  },
+  {
+    "d": "iqdb.org",
+    "s": "iqdb",
+    "t": "iqdb",
+    "u": "http://iqdb.org/?url={{{s}}}"
+  },
+  {
+    "d": "www.irasutoya.com",
+    "s": "irasutoya",
+    "t": "irasutoya",
+    "u": "http://www.irasutoya.com/search?q={{{s}}}"
+  },
+  {
+    "d": "irc-galleria.net",
+    "s": "Irc-Galleria",
+    "t": "irc-galleria",
+    "u": "https://irc-galleria.net/users/search?username={{{s}}} "
+  },
+  {
+    "d": "irc.netsplit.de",
+    "s": "irc.netsplit.de",
+    "t": "irc",
+    "u": "http://irc.netsplit.de/channels/?chat={{{s}}}"
+  },
+  {
+    "d": "irecommend.ru",
+    "s": "IRecommend",
+    "t": "irecommend",
+    "u": "http://irecommend.ru/srch?query={{{s}}}"
+  },
+  {
+    "d": "www.imaging-resource.com",
+    "s": "imaging-resource.com",
+    "t": "ires",
+    "u": "http://www.imaging-resource.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.irishtimes.com",
+    "s": "https://www.irishtimes.com/",
+    "t": "irishtimes",
+    "u": "https://www.irishtimes.com/search/search-7.4195619?q={{{s}}}"
+  },
+  {
+    "d": "scitools.org.uk",
+    "s": "http://scitools.org.uk/iris/docs/latest/index.html",
+    "t": "iris",
+    "u": "http://scitools.org.uk/iris/docs/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "irowiki.org",
+    "s": "IroWiki",
+    "t": "irowiki",
+    "u": "http://irowiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "search.irs.gov",
+    "s": "IRS",
+    "t": "irs",
+    "u": "http://search.irs.gov/search?q={{{s}}}&proxystylesheet=irs_portals_frontend"
+  },
+  {
+    "d": "bindingofisaacrebirth.gamepedia.com",
+    "s": "The Binding of Isaac Rebirth Wiki",
+    "t": "isaac",
+    "u": "http://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.isaca.org",
+    "s": "ISACA.org",
+    "t": "isaca",
+    "u": "http://www.isaca.org/Search/Pages/DefaultResults.aspx?k=Test&s={{{s}}}"
+  },
+  {
+    "d": "www.isbns.net",
+    "s": "isbns.net",
+    "t": "isb",
+    "u": "http://www.isbns.net/search/?query={{{s}}} "
+  },
+  {
+    "d": "isbndb.com",
+    "s": "ISBNdb.com",
+    "t": "isbndb",
+    "u": "http://isbndb.com/search-all.html?kw={{{s}}}"
+  },
+  {
+    "d": "isbndb.com",
+    "s": "ISBNdb",
+    "t": "isbn",
+    "u": "https://isbndb.com/search/books/{{{s}}}"
+  },
+  {
+    "d": "isbn.nu",
+    "s": "isbn.nu",
+    "t": "isbnnu",
+    "u": "http://isbn.nu/{{{s}}}"
+  },
+  {
+    "d": "isbnsearch.org",
+    "s": "ISBN Search",
+    "t": "isbnsearch",
+    "u": "https://isbnsearch.org/search?s={{{s}}}"
+  },
+  {
+    "d": "isc.sans.edu",
+    "s": "Internet Storm Center",
+    "t": "isc",
+    "u": "https://isc.sans.edu/ipinfo.html?ip={{{s}}}"
+  },
+  {
+    "d": "iscrapapp.com",
+    "s": "iScrapApp",
+    "t": "iscrap",
+    "u": "http://iscrapapp.com/?SearchTxt={{{s}}}"
+  },
+  {
+    "d": "security.stackexchange.com",
+    "s": "Information Security Stack Exchange",
+    "t": "isec",
+    "u": "https://security.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.iserv.fr",
+    "s": "iservfr",
+    "t": "iserv",
+    "u": "https://www.iserv.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.isfdb.org",
+    "s": "Internet Speculative Fiction Database",
+    "t": "isfdb",
+    "u": "http://www.isfdb.org/cgi-bin/se.cgi?type=Fiction%20Titles&arg={{{s}}}"
+  },
+  {
+    "d": "is.gd",
+    "s": "is.gd",
+    "t": "isgd",
+    "u": "https://is.gd/create.php?url={{{s}}}"
+  },
+  {
+    "d": "www.ishr.ch",
+    "s": "ishr.ch",
+    "t": "ishr",
+    "u": "http://www.ishr.ch/advanced-search?term={{{s}}} "
+  },
+  {
+    "d": "www.indieshuffle.com",
+    "s": "IndieShuffle",
+    "t": "ishuffle",
+    "u": "http://www.indieshuffle.com/search/songs/{{{s}}}"
+  },
+  {
+    "d": "ilmainensanakirja.fi",
+    "s": "Ilmainen Sanakirja",
+    "t": "is",
+    "u": "http://ilmainensanakirja.fi/sanakirja/{{{s}}}?"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "Is It Down For Everyone Or Just Me?",
+    "t": "isitdown",
+    "u": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "isitup.org",
+    "s": "Is it up?",
+    "t": "isitup",
+    "u": "https://isitup.org/{{{s}}}"
+  },
+  {
+    "d": "www.Islam21c.com",
+    "s": "Islam21c",
+    "t": "islam21c",
+    "u": "https://www.Islam21c.com/?s={{{s}}}"
+  },
+  {
+    "d": "islamicboighor.com",
+    "s": "Islamic Boighor",
+    "t": "islamicboighor",
+    "u": "http://islamicboighor.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "islamqa.info",
+    "s": "Islamqa.com",
+    "t": "islamqa",
+    "u": "http://islamqa.info/en/search?key={{{s}}}&yt0=search"
+  },
+  {
+    "d": "islamansiklopedisi.org.tr",
+    "s": "İslam Ansiklopedisi",
+    "t": "isl",
+    "u": "https://islamansiklopedisi.org.tr/arama/?q={{{s}}}&p=m"
+  },
+  {
+    "d": "is.muni.cz",
+    "s": "Information system of Masaryk University",
+    "t": "ismu",
+    "u": "https://is.muni.cz/auth/vyhledavani/?search={{{s}}}"
+  },
+  {
+    "d": "isni.oclc.org",
+    "s": "International Standard Name Identifier",
+    "t": "isni",
+    "u": "https://isni.oclc.org/xslt/CMD?ACT=SRCH&IKT=8006&TRM={{{s}}}"
+  },
+  {
+    "d": "distrowatch.com",
+    "s": "Distrowatch",
+    "t": "iso",
+    "u": "https://distrowatch.com/table.php?distribution={{{s}}}"
+  },
+  {
+    "d": "www.downforeveryoneorjustme.com",
+    "s": "Down For Everyone Or Just Me?",
+    "t": "isoffline",
+    "u": "http://www.downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "www.downforeveryoneorjustme.com",
+    "s": "Down For Everyone Or Just Me?",
+    "t": "isonline",
+    "u": "http://www.downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "www.isprimenumber.com",
+    "s": "isprimenumber",
+    "t": "isprime",
+    "u": "http://www.isprimenumber.com/prime/{{{s}}}"
+  },
+  {
+    "d": "www.isrgrajan.com",
+    "s": "Isrg Rajan",
+    "t": "isrgrajan",
+    "u": "https://www.isrgrajan.com/?s={{{s}}}"
+  },
+  {
+    "d": "issuu.com",
+    "s": "Issuu",
+    "t": "iss",
+    "u": "http://issuu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "issuu.com",
+    "s": "Issuu",
+    "t": "issuu",
+    "u": "https://issuu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "isthereanydeal.com",
+    "s": "IsThereAnyDeal",
+    "t": "isthereanydeal",
+    "u": "https://isthereanydeal.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.istockphoto.com",
+    "s": "iStockPhoto",
+    "t": "istock",
+    "u": "http://www.istockphoto.com/photos/{{{s}}}?phrase={{{s}}}"
+  },
+  {
+    "d": "www.istockphoto.com",
+    "s": "iStockPhoto",
+    "t": "istockphoto",
+    "u": "http://www.istockphoto.com/file_search.php?action=file&text={{{s}}}"
+  },
+  {
+    "d": "www.istoric-preturi.info",
+    "s": "https://www.istoric-preturi.info/",
+    "t": "istoric-preturi",
+    "u": "https://www.istoric-preturi.info/search/{{{s}}}"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "Is It Down For Everyone Or Just Me?",
+    "t": "isup",
+    "u": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "www.instantstreetview.com",
+    "s": "Instant Street View",
+    "t": "isw",
+    "u": "https://www.instantstreetview.com/s/{{{s}}}"
+  },
+  {
+    "d": "isthereanydeal.com",
+    "s": "IsThereAnyDeal",
+    "t": "itad",
+    "u": "https://isthereanydeal.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "itaigi.tw",
+    "s": "iTaigi",
+    "t": "itaigi",
+    "u": "https://itaigi.tw/k/{{{s}}}"
+  },
+  {
+    "d": "itch.io",
+    "s": "itch.io",
+    "t": "itch",
+    "u": "https://itch.io/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Italy",
+    "t": "it",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=it-it"
+  },
+  {
+    "d": "it-ebooks.info",
+    "s": "http://it-ebooks.info/",
+    "t": "itebooks",
+    "u": "http://it-ebooks.info/search/?q={{{s}}}&type=title"
+  },
+  {
+    "d": "www.itella.fi",
+    "s": "Itella Item Tracking",
+    "t": "itella",
+    "u": "http://www.itella.fi/itemtracking/itella/search_by_shipment_id?ShipmentId={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate it-en",
+    "t": "iten",
+    "u": "http://translate.google.com/#it/en/{{{s}}} "
+  },
+  {
+    "d": "www.swahili.it",
+    "s": "Vocabolario Italiano-Esperanto (Minnaja)",
+    "t": "iteo",
+    "u": "http://www.swahili.it/glossword/index.php?a=term&d=2&q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate it-es",
+    "t": "ites",
+    "u": "http://translate.google.com/#it/es/{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso it-fr",
+    "t": "itfr",
+    "u": "http://context.reverso.net/traduction/italien-francais/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate it-hu",
+    "t": "ithu",
+    "u": "http://translate.google.com/#it/hu/{{{s}}}"
+  },
+  {
+    "d": "it-news.press",
+    "s": "IT-NEWS: Новости Интернета",
+    "t": "itnews",
+    "u": "https://it-news.press/search?searchword={{{s}}}"
+  },
+  {
+    "d": "itnewz.ro",
+    "s": "itnewz",
+    "t": "itnewz",
+    "u": "http://itnewz.ro/?s={{{s}}}: "
+  },
+  {
+    "d": "www.itninja.com",
+    "s": "IT-Ninja",
+    "t": "itninja",
+    "u": "http://www.itninja.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.itrig.de",
+    "s": "ITrig",
+    "t": "itrig",
+    "u": "http://www.itrig.de/index.php?serendipity%5Baction%5D=search&serendipity%5Bfullentry%5D=1&serendipity%5BsearchTerm%5D={{{s}}}"
+  },
+  {
+    "d": "www.its-mo.com",
+    "s": "Itsumo Navi",
+    "t": "its",
+    "u": "https://www.its-mo.com/search/freeword/{{{s}}}"
+  },
+  {
+    "d": "itunes.apple.com",
+    "s": "iTunes ",
+    "t": "itunesartist",
+    "u": "https://itunes.apple.com/us/artist/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "iTunes (Spain)",
+    "t": "ituneses",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aitunes.apple.com%2Fes%2F"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "iTunes",
+    "t": "itunes",
+    "u": "https://duckduckgo.com/?q={{{s}}}%20site%3Aitunes.apple.com"
+  },
+  {
+    "d": "www.italian-verbs.com",
+    "s": "Italian Verbs",
+    "t": "itverb",
+    "u": "http://www.italian-verbs.com/italian-verbs/conjugation.php?verbo={{{s}}}"
+  },
+  {
+    "d": "www.itv.com",
+    "s": "ITV",
+    "t": "itv",
+    "u": "https://www.itv.com/itvplayer/search/term/{{{s}}}"
+  },
+  {
+    "d": "it.wikipedia.org",
+    "s": "Italian Wikipedia",
+    "t": "itwiki",
+    "u": "https://it.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "kb.iu.edu",
+    "s": "Indiana University Knowledge Base",
+    "t": "iukb",
+    "u": "https://kb.iu.edu/search?q={{{s}}}"
+  },
+  {
+    "d": "iupac.org",
+    "s": "International Union of Pure and Applied Chemistry",
+    "t": "iupac",
+    "u": "https://iupac.org/?s={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google",
+    "t": "iurl",
+    "u": "http://google.com/searchbyimage?image_url={{{s}}}"
+  },
+  {
+    "d": "www.italian-verbs.com",
+    "s": "Italian Verbs",
+    "t": "iv",
+    "u": "http://www.italian-verbs.com/italian-verbs/conjugation.php?verbo={{{s}}}"
+  },
+  {
+    "d": "www.ivoox.com",
+    "s": "ivoox",
+    "t": "ivoox",
+    "u": "https://www.ivoox.com/{{{s}}}_sb.html?sb={{{s}}}"
+  },
+  {
+    "d": "www.investopedia.com",
+    "s": "Investopedia",
+    "t": "ivst",
+    "u": "https://www.investopedia.com/search?q={{{s}}}"
+  },
+  {
+    "d": "iwantmyname.com",
+    "s": "iWantMyName",
+    "t": "iwant",
+    "u": "http://iwantmyname.com/search?domain={{{s}}}"
+  },
+  {
+    "d": "iwantmyname.com",
+    "s": "iwantmyname",
+    "t": "iwantmyname",
+    "u": "https://iwantmyname.com/?domain={{{s}}}"
+  },
+  {
+    "d": "www.theiphonewiki.com",
+    "s": "The iPhone Wiki",
+    "t": "iwiki",
+    "u": "https://www.theiphonewiki.com/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "instantwatcher.com",
+    "s": "instantwatcher",
+    "t": "iw",
+    "u": "http://instantwatcher.com/search?content_type=1+2&source=1+2+3&q={{{s}}}"
+  },
+  {
+    "d": "iwantmyname.com",
+    "s": "iWantMyName",
+    "t": "iwmn",
+    "u": "https://iwantmyname.com/?domain={{{s}}}"
+  },
+  {
+    "d": "www.iwoot.com",
+    "s": "I Want One Of Those",
+    "t": "iwoot",
+    "u": "http://www.iwoot.com/elysium.search?search={{{s}}}"
+  },
+  {
+    "d": "ixigo.com",
+    "s": "ixigo",
+    "t": "ixigo",
+    "u": "https://ixigo.com/q/{{{s}}}"
+  },
+  {
+    "d": "ca.ixl.com",
+    "s": "IXL",
+    "t": "ixl",
+    "u": "https://ca.ixl.com/search?q={{{s}}}"
+  },
+  {
+    "d": "iyanmv.com",
+    "s": "Iyanm",
+    "t": "iyanmv",
+    "u": "http://iyanmv.com/?s={{{s}}}"
+  },
+  {
+    "d": "yandex.com",
+    "s": "Yandex Images",
+    "t": "iya",
+    "u": "https://yandex.com/images/search?text={{{s}}}"
+  },
+  {
+    "d": "www.izneo.com",
+    "s": "izneo",
+    "t": "izneo",
+    "u": "http://www.izneo.com/search.html?pattern={{{s}}}"
+  }
+]

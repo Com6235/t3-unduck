@@ -1,0 +1,272 @@
+[
+  {
+    "d": "x.com",
+    "s": "X",
+    "t": "x",
+    "u": "https://x.com/search?q={{{s}}}"
+  },
+  {
+    "d": "ref.x86asm.net",
+    "s": "x86 Opcode & Instruction Reference",
+    "t": "x86",
+    "u": "http://ref.x86asm.net/geek.html#{{{s}}}"
+  },
+  {
+    "d": "forums.xamarin.com",
+    "s": "Xamarin Forums",
+    "t": "xamarinforums",
+    "u": "http://forums.xamarin.com/search?Search={{{s}}}"
+  },
+  {
+    "d": "developer.xamarin.com",
+    "s": "Xamarin developer",
+    "t": "xamarin",
+    "u": "https://developer.xamarin.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.xbox.com",
+    "s": "Xbox",
+    "t": "xbox",
+    "u": "http://www.xbox.com/en-GB/Search?q={{{s}}}#All"
+  },
+  {
+    "d": "github.com",
+    "s": "Void Packages",
+    "t": "xbps",
+    "u": "https://github.com/void-linux/void-packages/search?q[]=filename%3Atemplate+path%3A%2Fsrcpkgs&q[]={{{s}}}&s=indexed"
+  },
+  {
+    "d": "forum.xda-developers.com",
+    "s": "XDA Developers",
+    "t": "xdadev",
+    "u": "http://forum.xda-developers.com/sitesearch.php?q={{{s}}}"
+  },
+  {
+    "d": "forum.xda-developers.com",
+    "s": "XDA Developers Forum",
+    "t": "xdaf",
+    "u": "http://forum.xda-developers.com/sitesearch.php?q={{{s}}}"
+  },
+  {
+    "d": "labs.xda-developers.com",
+    "s": "XDA Labs",
+    "t": "xdal",
+    "u": "https://labs.xda-developers.com/?search={{{s}}}"
+  },
+  {
+    "d": "forum.xda-developers.com",
+    "s": "XDA Developers",
+    "t": "xda",
+    "u": "https://forum.xda-developers.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "xe.com",
+    "s": "https://xe.com/",
+    "t": "xe",
+    "u": "https://xe.com/currency/{{{s}}}"
+  },
+  {
+    "d": "de.xen.wiki",
+    "s": "Xenharmonie-Wiki",
+    "t": "xende",
+    "u": "https://de.xen.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "xenoblade.wikia.com",
+    "s": "Xenoblade Wiki",
+    "t": "xenoblade",
+    "u": "http://xenoblade.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "en.xen.wiki",
+    "s": "Xenharmonic Wiki",
+    "t": "xen",
+    "u": "https://en.xen.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "xmpp.org",
+    "s": "XMPP Extensions",
+    "t": "xep",
+    "u": "https://xmpp.org/extensions/xep-{{{s}}}.html"
+  },
+  {
+    "d": "www.xfce-look.org",
+    "s": "Xfce-Look",
+    "t": "xfce-look",
+    "u": "https://www.xfce-look.org/search?projectSearchText={{{s}}} "
+  },
+  {
+    "d": "exchange.xforce.ibmcloud.com",
+    "s": "IBM X-Force Exchange",
+    "t": "xfe",
+    "u": "https://exchange.xforce.ibmcloud.com/search/{{{s}}}"
+  },
+  {
+    "d": "forum.xojo.com",
+    "s": "Xojo Forums",
+    "t": "xf",
+    "u": "https://forum.xojo.com/conversations/all?search={{{s}}}"
+  },
+  {
+    "d": "www.robertchristgau.com",
+    "s": "Robert Christgau",
+    "t": "xgau",
+    "u": "http://www.robertchristgau.com/get_artist.php?name={{{s}}}"
+  },
+  {
+    "d": "www.xgn.nl",
+    "s": "XGN",
+    "t": "xgn",
+    "u": "https://www.xgn.nl/zoeken/{{{s}}}"
+  },
+  {
+    "d": "www.xiami.com",
+    "s": "Xiami",
+    "t": "xiami",
+    "u": "http://www.xiami.com/search?key={{{s}}}"
+  },
+  {
+    "d": "www.xing.com",
+    "s": "Xing.de",
+    "t": "xing",
+    "u": "https://www.xing.com/app/search?op=combined;keywords={{{s}}} "
+  },
+  {
+    "d": "so.news.cn",
+    "s": "Xinhuanet",
+    "t": "xinhua",
+    "u": "http://so.news.cn/#search/0/{{{s}}}/1/"
+  },
+  {
+    "d": "learnxinyminutes.com",
+    "s": "Learn X in Y Minutes",
+    "t": "xiny",
+    "u": "https://learnxinyminutes.com/docs/{{{s}}}"
+  },
+  {
+    "d": "xivdb.com",
+    "s": "XIVDB",
+    "t": "xivdb",
+    "u": "http://xivdb.com/?search={{{s}}}"
+  },
+  {
+    "d": "xivdb.com",
+    "s": "XIV:DB",
+    "t": "xiv",
+    "u": "http://xivdb.com/?search={{{s}}}"
+  },
+  {
+    "d": "www.xkcdb.com",
+    "s": "XKCDB: The #xkcd quotes database",
+    "t": "xkcdb",
+    "u": "http://www.xkcdb.com/?search={{{s}}}"
+  },
+  {
+    "d": "xkcd.com",
+    "s": "XKCD Number",
+    "t": "xkcdn",
+    "u": "http://xkcd.com/{{{s}}}/"
+  },
+  {
+    "d": "",
+    "s": "xkcd",
+    "t": "xkcd",
+    "u": "/?q={{{s}}}+site:xkcd.com"
+  },
+  {
+    "d": "www.x-kom.pl",
+    "s": "x-kom.pl",
+    "t": "xkom",
+    "u": "https://www.x-kom.pl/szukaj?q={{{s}}}"
+  },
+  {
+    "d": "stellar.expert",
+    "s": "StellarExpert",
+    "t": "xlm",
+    "u": "https://stellar.expert/explorer/public/account/{{{s}}}"
+  },
+  {
+    "d": "www.xtend-life.com",
+    "s": "!Xtend-Life",
+    "t": "xl",
+    "u": "http://www.xtend-life.com/search-results?cx=005442268687610389394%3a4wscy8mawc0&cof=FORID%3a10&q={{{s}}}"
+  },
+  {
+    "d": "xploremycity.com",
+    "s": "Xploremycity",
+    "t": "xmc",
+    "u": "https://xploremycity.com/{{{s}}}"
+  },
+  {
+    "d": "xmostrata.com",
+    "s": "Xmo Strata",
+    "t": "xmostrata",
+    "u": "http://xmostrata.com/?s={{{s}}}"
+  },
+  {
+    "d": "trafficpixel.tk",
+    "s": "Trafficpixel XMPP Rooms",
+    "t": "xmpprooms",
+    "u": "https://trafficpixel.tk/chatrooms/showRooms.php?search={{{s}}}&numberResults=10"
+  },
+  {
+    "d": "forum.xojo.com",
+    "s": "Xojo Forum",
+    "t": "xojo",
+    "u": "https://forum.xojo.com/conversations/all?search={{{s}}}"
+  },
+  {
+    "d": "blog.xorp.hu",
+    "s": "Xorp Blog",
+    "t": "xorp",
+    "u": "https://blog.xorp.hu/?s={{{s}}}"
+  },
+  {
+    "d": "xpresate.com.mx",
+    "s": "Xpresate",
+    "t": "xpresate",
+    "u": "http://xpresate.com.mx/busqueda.php?search={{{s}}}"
+  },
+  {
+    "d": "search.crossref.org",
+    "s": "CrossRef",
+    "t": "xref",
+    "u": "http://search.crossref.org/?q={{{s}}}"
+  },
+  {
+    "d": "explainshell.com",
+    "s": "ExplainShell",
+    "t": "xsh",
+    "u": "http://explainshell.com/explain?cmd={{{s}}}"
+  },
+  {
+    "d": "xtupleuniversity.xtuple.com",
+    "s": "xTuple",
+    "t": "xt",
+    "u": "https://xtupleuniversity.xtuple.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.xavier.edu",
+    "s": "Xavier University",
+    "t": "xu",
+    "u": "https://www.xavier.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.arxiv-vanity.com",
+    "s": "arxiv vanity",
+    "t": "xvr",
+    "u": "https://www.arxiv-vanity.com/convert/?query={{{s}}}"
+  },
+  {
+    "d": "www.xwiki.org",
+    "s": "XWiki",
+    "t": "xwiki",
+    "u": "http://www.xwiki.org/xwiki/bin/view/Main/Search?text={{{s}}}"
+  },
+  {
+    "d": "xxl.no",
+    "s": "XXL.no",
+    "t": "xxl",
+    "u": "https://xxl.no/search?q={{{s}}}"
+  }
+]

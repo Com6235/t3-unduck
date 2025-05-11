@@ -1,0 +1,3062 @@
+[
+  {
+    "d": "level-1.fr",
+    "s": "Level 1",
+    "t": "l1",
+    "u": "https://level-1.fr/?s={{{s}}}"
+  },
+  {
+    "d": "l1sp.org",
+    "s": "Lisp Docs",
+    "t": "l1sp",
+    "u": "http://l1sp.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.love2d.org",
+    "s": "Love2D Wiki",
+    "t": "l2d",
+    "u": "http://www.love2d.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.live365.com",
+    "s": "Live365",
+    "t": "l365",
+    "u": "http://www.live365.com/cgi-bin/directory.cgi?searchdesc={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "l3utterfish",
+    "t": "l3u",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:l3utterfish.blogspot.com"
+  },
+  {
+    "d": "www.left4craft.org",
+    "s": "Left4Craft",
+    "t": "l4c",
+    "u": "https://www.left4craft.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "labdoor.com",
+    "s": "Labdoor",
+    "t": "labdoor",
+    "u": "https://labdoor.com/review?q={{{s}}}"
+  },
+  {
+    "d": "www.bac-lac.gc.ca",
+    "s": "Library and Archives Canada Collection Search",
+    "t": "lac",
+    "u": "http://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx?q={{{s}}}"
+  },
+  {
+    "d": "acordes.lacuerda.net",
+    "s": "LaCuerda",
+    "t": "lacuerda",
+    "u": "http://acordes.lacuerda.net/busca.php?canc=0&exp={{{s}}}"
+  },
+  {
+    "d": "glosbe.com",
+    "s": "Glosbe",
+    "t": "lad",
+    "u": "https://glosbe.com/la/en/{{{s}}}"
+  },
+  {
+    "d": "laec.fr",
+    "s": "LAEC.fr – Le programme de Jean-Luc Mélenchon en ligne – L'Avenir En Commun",
+    "t": "laec",
+    "u": "https://laec.fr/recherche?termes={{{s}}}"
+  },
+  {
+    "d": "www.laemmle.com",
+    "s": "Laemmle",
+    "t": "laemmle",
+    "u": "https://www.laemmle.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.lafeltrinelli.it",
+    "s": "LaFeltrinelli",
+    "t": "laf",
+    "u": "http://www.lafeltrinelli.it/fcom/it/home/pages/catalogo/searchresults.html?srch=0&sort=1&page=1&prkw={{{s}}}&cat1=1"
+  },
+  {
+    "d": "www.lafourchette.com",
+    "s": "lafourchette",
+    "t": "lafourchette",
+    "u": "https://www.lafourchette.com/search-refine/{{{s}}}"
+  },
+  {
+    "d": "laftel.net",
+    "s": "Laftel",
+    "t": "laftel",
+    "u": "https://laftel.net/search?keyword={{{s}}}"
+  },
+  {
+    "d": "lain.wiki",
+    "s": "SEL wiki",
+    "t": "lainwiki",
+    "u": "https://lain.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "de.langenscheidt.com",
+    "s": "Langenscheidt",
+    "t": "la",
+    "u": "https://de.langenscheidt.com/deutsch-englisch/search?term={{{s}}}"
+  },
+  {
+    "d": "forum.lametayel.co.il",
+    "s": "http://forum.lametayel.co.il/",
+    "t": "lametayel",
+    "u": "http://forum.lametayel.co.il/index.php?t=search&forum_limiter=0&field=all&search_logic=AND&type=msg&srch={{{s}}}&btn_submit="
+  },
+  {
+    "d": "www.lamhatech.com",
+    "s": "لمحة تك",
+    "t": "lamhatech",
+    "u": "https://www.lamhatech.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.lambdatest.com",
+    "s": "LambdaTest",
+    "t": "lam",
+    "u": "https://www.lambdatest.com/blog/?s={{{s}}}"
+  },
+  {
+    "d": "lamlaminkings.com.ng",
+    "s": "LamLam inkings",
+    "t": "lamlaminkings",
+    "u": "https://lamlaminkings.com.ng/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "lammps.sandia.gov",
+    "s": "LAMMPS Documentation",
+    "t": "lammps",
+    "u": "http://lammps.sandia.gov/doc/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.lamps.com",
+    "s": "Lamps.com",
+    "t": "lamps",
+    "u": "https://www.lamps.com/catalogsearch/result?q={{{s}}}"
+  },
+  {
+    "d": "buscar.lanacion.com.ar",
+    "s": "La Nación",
+    "t": "lanacion",
+    "u": "http://buscar.lanacion.com.ar/{{{s}}}/sort-new"
+  },
+  {
+    "d": "en.langenscheidt.com",
+    "s": "Langenscheidt",
+    "t": "langen",
+    "u": "https://en.langenscheidt.com/german-english/{{{s}}}"
+  },
+  {
+    "d": "LanguageTool.org",
+    "s": "LanguageTool",
+    "t": "lang",
+    "u": "https://LanguageTool.org/?text={{{s}}}"
+  },
+  {
+    "d": "www.microsoft.com",
+    "s": "Microsoft Language Portal",
+    "t": "lanpor",
+    "u": "http://www.microsoft.com/Language/en-US/Search.aspx?sString={{{s}}}&langID=pl-pl"
+  },
+  {
+    "d": "laopinione.com",
+    "s": "LaOpinione.com",
+    "t": "laopinione",
+    "u": "https://laopinione.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.netlib.org",
+    "s": "Netlib",
+    "t": "lapack",
+    "u": "http://www.netlib.org/lapack/complex16/{{{s}}}.f"
+  },
+  {
+    "d": "lapatilla.com",
+    "s": "lapatilla",
+    "t": "lapa",
+    "u": "http://lapatilla.com/?s={{{s}}}"
+  },
+  {
+    "d": "lapatria.com",
+    "s": "La Patria",
+    "t": "lapatria",
+    "u": "http://lapatria.com/?q={{{s}}}"
+  },
+  {
+    "d": "ls2pac.lapl.org",
+    "s": "Los Angeles Public Library",
+    "t": "lapl",
+    "u": "https://ls2pac.lapl.org/?section=search&term={{{s}}}"
+  },
+  {
+    "d": "www.csuivi.courrier.laposte.fr",
+    "s": "La Poste Suivi",
+    "t": "laposte",
+    "u": "http://www.csuivi.courrier.laposte.fr/suivi?id={{{s}}}"
+  },
+  {
+    "d": "www.laptopdirect.co.za",
+    "s": "LaptopDirect",
+    "t": "laptopdirect",
+    "u": "http://www.laptopdirect.co.za/search.php?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "laracasts.com",
+    "s": "Laracasts",
+    "t": "laracasts",
+    "u": "https://laracasts.com/search?q={{{s}}}"
+  },
+  {
+    "d": "laravel.com",
+    "s": "Laravel",
+    "t": "laravel",
+    "u": "https://laravel.com/docs/{{{s}}}"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse EN - FR translation",
+    "t": "larenfr",
+    "u": "http://www.larousse.fr/dictionnaires/anglais-francais/{{{s}}}"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse",
+    "t": "laresfr",
+    "u": "http://www.larousse.fr/dictionnaires/espagnol-francais/{{{s}}}/"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse FR - EN translation",
+    "t": "larfren",
+    "u": "https://www.larousse.fr/dictionnaires/rechercher?q={{{s}}}&l=francais-anglais&culture="
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse",
+    "t": "larfres",
+    "u": "http://www.larousse.fr/dictionnaires/francais-espagnol/{{{s}}}/"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse",
+    "t": "larfrit",
+    "u": "https://www.larousse.fr/dictionnaires/francais-italien/{{{s}}}/?q={{{s}}}"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse (Français)",
+    "t": "lar",
+    "u": "http://www.larousse.fr/dictionnaires/francais/{{{s}}}"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse French Dictionary",
+    "t": "larousse",
+    "u": "http://www.larousse.fr/dictionnaires/francais/{{{s}}}"
+  },
+  {
+    "d": "lasership.com",
+    "s": "LaserShip",
+    "t": "laser",
+    "u": "http://lasership.com/track/{{{s}}}"
+  },
+  {
+    "d": "lasership.com",
+    "s": "LaserShip",
+    "t": "lasership",
+    "u": "http://lasership.com/track/{{{s}}}"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Latin Word Study Tool",
+    "t": "las",
+    "u": "http://www.perseus.tufts.edu/hopper/morph?&la=la&l={{{s}}}&la=la"
+  },
+  {
+    "d": "www.lastampa.it",
+    "s": "La Stampa",
+    "t": "lastampa",
+    "u": "http://www.lastampa.it/ricerca?search={{{s}}}"
+  },
+  {
+    "d": "www.last.fm",
+    "s": "Last.fm",
+    "t": "lastfm",
+    "u": "http://www.last.fm/search?q={{{s}}}"
+  },
+  {
+    "d": "www.last.fm",
+    "s": "Last.fm",
+    "t": "last.fm",
+    "u": "http://www.last.fm/search?q={{{s}}}&from=ac"
+  },
+  {
+    "d": "www.last.fm",
+    "s": "last.fm",
+    "t": "lastfmmusic",
+    "u": "https://www.last.fm/music/{{{s}}}"
+  },
+  {
+    "d": "latin-dictionary.net",
+    "s": "Latdict",
+    "t": "latdict",
+    "u": "http://latin-dictionary.net/search/latin/{{{s}}}"
+  },
+  {
+    "d": "www.albertmartin.de",
+    "s": "https://www.albertmartin.de/latein/?q=",
+    "t": "lateinde",
+    "u": "https://www.albertmartin.de/latein/?q={{{s}}}"
+  },
+  {
+    "d": "www.latemodelrestoration.com",
+    "s": "Late Model Restoration",
+    "t": "latemodelresto",
+    "u": "http://www.latemodelrestoration.com/product/search?q={{{s}}}"
+  },
+  {
+    "d": "www.latemodelrestoration.com",
+    "s": "Late Model Restoration",
+    "t": "latemodelrestoration",
+    "u": "http://www.latemodelrestoration.com/product/search?q={{{s}}}"
+  },
+  {
+    "d": "latency.apex.sh",
+    "s": "latency.apex.sh",
+    "t": "latency",
+    "u": "https://latency.apex.sh/?url={{{s}}}"
+  },
+  {
+    "d": "en.wikibooks.org",
+    "s": "LaTeX - Wikibooks",
+    "t": "latexwb",
+    "u": "https://en.wikibooks.org/wiki/Search?search={{{s}}}&prefix=LaTeX"
+  },
+  {
+    "d": "search.latimes.com",
+    "s": "LATimes",
+    "t": "latimes",
+    "u": "http://search.latimes.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Latin Word Study tool",
+    "t": "latin",
+    "u": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=la"
+  },
+  {
+    "d": "www.dizionario-latino.com",
+    "s": "Dizionario Latino Olivetti",
+    "t": "latino",
+    "u": "https://www.dizionario-latino.com/dizionario-latino-italiano.php?parola={{{s}}}"
+  },
+  {
+    "d": "www.latlong.net",
+    "s": "LatLong.net",
+    "t": "latlong",
+    "u": "http://www.latlong.net/search.php?keyword={{{s}}}"
+  },
+  {
+    "d": "www.archives.nd.edu",
+    "s": "Whitaker's Latin",
+    "t": "lat",
+    "u": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword={{{s}}}"
+  },
+  {
+    "d": "www.lau.edu.lb",
+    "s": "Lebanese American University",
+    "t": "lau",
+    "u": "https://www.lau.edu.lb/search/index.php?q={{{s}}}"
+  },
+  {
+    "d": "launchpad.net",
+    "s": "LaunchPad",
+    "t": "launchpad",
+    "u": "https://launchpad.net/+search?field.text={{{s}}}"
+  },
+  {
+    "d": "www.laut.de",
+    "s": "laut.de",
+    "t": "laut",
+    "u": "https://www.laut.de/Suche?q={{{s}}}"
+  },
+  {
+    "d": "www.motorelavoro.it",
+    "s": "Motore Lavoro",
+    "t": "lavoro",
+    "u": "http://www.motorelavoro.it/?q={{{s}}}"
+  },
+  {
+    "d": "www.law.cornell.edu",
+    "s": "Legal Information Institute",
+    "t": "law",
+    "u": "https://www.law.cornell.edu/search/site/{{{s}}}"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "Lawphil.net",
+    "t": "lawphil",
+    "u": "https://cse.google.com/cse?cx=000327027907964447955:65fjwortx5c&q={{{s}}}&oq={{{s}}}&gs_l=partner-generic.3...6080.6409.0.9078.4.4.0.0.0.0.157.426.2j2.4.0.gsnos%2Cn%3D13...0.264j30168j4...1.34.partner-generic..2.2.173.cXIan67Quoc"
+  },
+  {
+    "d": "www.global-regulation.com",
+    "s": "Global-Regulation.com",
+    "t": "laws",
+    "u": "https://www.global-regulation.com/search.php?year&country&province&d=1&start&q={{{s}}}&advanced=false"
+  },
+  {
+    "d": "law.moj.gov.tw",
+    "s": "Laws & Regulations Database of The Republic of China",
+    "t": "lawtw",
+    "u": "https://law.moj.gov.tw/Law/LawSearchResult.aspx?ty=ONEBAR&kw={{{s}}}"
+  },
+  {
+    "d": "www.avvo.com",
+    "s": "Avvo",
+    "t": "lawyer",
+    "u": "https://www.avvo.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.lazada.co.id",
+    "s": "Lazada Indonesia",
+    "t": "lazadaid",
+    "u": "http://www.lazada.co.id/catalog/?q={{{s}}} "
+  },
+  {
+    "d": "www.lazada.com.ph",
+    "s": "Lazada Philippines",
+    "t": "lazadaph",
+    "u": "https://www.lazada.com.ph/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.lazada.com.ph",
+    "s": "Lazada",
+    "t": "laz",
+    "u": "http://www.lazada.com.ph/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.lazada.co.th",
+    "s": "Lazada Thailand",
+    "t": "lazth",
+    "u": "http://www.lazada.co.th/catalog/?scs=0&q={{{s}}} "
+  },
+  {
+    "d": "www.leboncoin.fr",
+    "s": "Le Bon Coin IDF",
+    "t": "lbcidf",
+    "u": "https://www.leboncoin.fr/recherche/?text={{{s}}}&regions=12"
+  },
+  {
+    "d": "www.leboncoin.fr",
+    "s": "Le Bon Coin",
+    "t": "lbc",
+    "u": "http://www.leboncoin.fr/recherche/?text={{{s}}}"
+  },
+  {
+    "d": "www.leboncoin.fr",
+    "s": "Le Bon Coin Rhone-Alpes",
+    "t": "lbcra",
+    "u": "https://www.leboncoin.fr/recherche/?text={{{s}}}&regions=22"
+  },
+  {
+    "d": "labonneformation.pole-emploi.fr",
+    "s": "La bonne formation",
+    "t": "lbf",
+    "u": "https://labonneformation.pole-emploi.fr/toutes-les-formations?motscles={{{s}}}"
+  },
+  {
+    "d": "letterboxd.com",
+    "s": "letterboxd",
+    "t": "lb",
+    "u": "https://letterboxd.com/search/{{{s}}}/"
+  },
+  {
+    "d": "lbp.me",
+    "s": "https://lbp.me/",
+    "t": "lbp",
+    "u": "https://lbp.me/search/v?q={{{s}}}"
+  },
+  {
+    "d": "www.logos.com",
+    "s": "Logos Bible Software",
+    "t": "lbs",
+    "u": "https://www.logos.com/products/search?q={{{s}}}"
+  },
+  {
+    "d": "letterboxd.com",
+    "s": "Letterboxd",
+    "t": "lbx",
+    "u": "https://letterboxd.com/search/{{{s}}}"
+  },
+  {
+    "d": "authorities.loc.gov",
+    "s": "Library of Congress Authorities",
+    "t": "lcauth",
+    "u": "http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?Search_0Arg={{{s}}}&Search_Code=SHED_&PID=pyauyDhI6ZL9vR3exz9cx8t8BF&SEQ=20161101104025&CNT=100&HIST=1"
+  },
+  {
+    "d": "www.luftfahrtclubbraunschweig.de",
+    "s": "Luftfahrt Club Braunschweig",
+    "t": "lcbs",
+    "u": "https://www.luftfahrtclubbraunschweig.de/suchen.php?such={{{s}}}"
+  },
+  {
+    "d": "eng.letscc.net",
+    "s": "Let’s CC",
+    "t": "lcc",
+    "u": "http://eng.letscc.net/?t=all&k={{{s}}}"
+  },
+  {
+    "d": "lccn.loc.gov",
+    "s": "Library of Congress LCCN search",
+    "t": "lccn",
+    "u": "https://lccn.loc.gov/{{{s}}}"
+  },
+  {
+    "d": "www.litcharts.com",
+    "s": "LitCharts",
+    "t": "lcharts",
+    "u": "https://www.litcharts.com/search?query={{{s}}}"
+  },
+  {
+    "d": "id.loc.gov",
+    "s": "Library of Congress Linked Data",
+    "t": "lcid",
+    "u": "http://id.loc.gov/search/?q={{{s}}}&q="
+  },
+  {
+    "d": "laracasts.com",
+    "s": "Laracasts",
+    "t": "lc",
+    "u": "https://laracasts.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse Conjugaison",
+    "t": "lconj",
+    "u": "https://www.larousse.fr/conjugaison/francais/{{{s}}}"
+  },
+  {
+    "d": "lxr.free-electrons.com",
+    "s": "Linux Cross Reference",
+    "t": "lcr",
+    "u": "http://lxr.free-electrons.com/ident?i={{{s}}}"
+  },
+  {
+    "d": "lcsc.com",
+    "s": "LCSC",
+    "t": "lcsc",
+    "u": "https://lcsc.com/search?q={{{s}}}"
+  },
+  {
+    "d": "wiki.teamliquid.net",
+    "s": "Liquipedia CS:GO",
+    "t": "lcsgo",
+    "u": "http://wiki.teamliquid.net/counterstrike/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "acordes.lacuerda.net",
+    "s": "La Cuerda.net",
+    "t": "lcuerdanet",
+    "u": "http://acordes.lacuerda.net/busca.php?exp={{{s}}} "
+  },
+  {
+    "d": "de.langenscheidt.com",
+    "s": "Langenscheid Deutsch-Arabisch",
+    "t": "lda",
+    "u": "http://de.langenscheidt.com/deutsch-arabisch/search?term={{{s}}}"
+  },
+  {
+    "d": "www.lddb.com",
+    "s": "LaserDisc Database",
+    "t": "lddb",
+    "u": "http://www.lddb.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "en.langenscheidt.com",
+    "s": "langenscheidt de-en",
+    "t": "lde",
+    "u": "https://en.langenscheidt.com/german-english/{{{s}}}"
+  },
+  {
+    "d": "www.ldlc.be",
+    "s": "LDLC Belgium",
+    "t": "ldlcbe",
+    "u": "http://www.ldlc.be/navigation/{{{s}}}/"
+  },
+  {
+    "d": "www.ldlc.com",
+    "s": "LDLC",
+    "t": "ldlc",
+    "u": "http://www.ldlc.com/navigation/{{{s}}}/"
+  },
+  {
+    "d": "www.legends-decks.com",
+    "s": "Legends-Decks",
+    "t": "l-d",
+    "u": "https://www.legends-decks.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.ldoceonline.com",
+    "s": "Longman Dictionary of Contemporary English",
+    "t": "ld",
+    "u": "http://www.ldoceonline.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "wiki.teamliquid.net",
+    "s": "Liquipedia Dota 2 Wiki",
+    "t": "ldota",
+    "u": "http://wiki.teamliquid.net/dota2/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.lav-det-selv.dk",
+    "s": "Lav-det-selv.dk",
+    "t": "ldsdk",
+    "u": "https://www.lav-det-selv.dk/find?q={{{s}}}"
+  },
+  {
+    "d": "www.lds.org",
+    "s": "LDS.org",
+    "t": "lds",
+    "u": "https://www.lds.org/search?lang=eng&query={{{s}}} "
+  },
+  {
+    "d": "www.lds.org",
+    "s": "LDS Scriptures",
+    "t": "ldss",
+    "u": "https://www.lds.org/scriptures/search?lang=eng&query={{{s}}}"
+  },
+  {
+    "d": "www.leafly.com",
+    "s": "Leafly",
+    "t": "leafly",
+    "u": "https://www.leafly.com/search?q={{{s}}}"
+  },
+  {
+    "d": "php.learndev.info",
+    "s": "PHP Tutorial",
+    "t": "learndev",
+    "u": "https://php.learndev.info/?q={{{s}}}"
+  },
+  {
+    "d": "www.learnersdictionary.com",
+    "s": "Learner's Dictionary",
+    "t": "learnersdictionary",
+    "u": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "d": "www.learngaelic.net",
+    "s": "LearnGaelic.net",
+    "t": "learngaelic",
+    "u": "http://www.learngaelic.net/dictionary/index.jsp?slang=both&wholeword=false&abairt={{{s}}}"
+  },
+  {
+    "d": "learn.javascript.ru",
+    "s": "learn.javascript.ru",
+    "t": "learn-js",
+    "u": "http://learn.javascript.ru/search?query={{{s}}}"
+  },
+  {
+    "d": "learningapps.org",
+    "s": "Learningapps",
+    "t": "learn",
+    "u": "https://learningapps.org/index.php?s={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "league of legends summoner school",
+    "t": "learnlol",
+    "u": "https://www.reddit.com/r/summonerschool/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "learnxinyminutes.com",
+    "s": "Learn X in Y",
+    "t": "learnxiny",
+    "u": "https://learnxinyminutes.com/docs/{{{s}}}/"
+  },
+  {
+    "d": "learnzone.org.uk",
+    "s": "Learn Zone",
+    "t": "learnzone",
+    "u": "http://learnzone.org.uk/courses/?q={{{s}}}"
+  },
+  {
+    "d": "lowendbox.com",
+    "s": "LowEndBox",
+    "t": "leb",
+    "u": "http://lowendbox.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.leboncoin.fr",
+    "s": "Le Bon Coin",
+    "t": "leboncoin",
+    "u": "https://www.leboncoin.fr/recherche/?text={{{s}}}"
+  },
+  {
+    "d": "www.lecker.de",
+    "s": "Lecker",
+    "t": "lecker",
+    "u": "http://www.lecker.de/suche-rezept/{{{s}}}"
+  },
+  {
+    "d": "www.culture.leclerc",
+    "s": "Espace Culturel E.Leclerc",
+    "t": "leclerc",
+    "u": "https://www.culture.leclerc/pageRecherche?q={{{s}}}&univers=all"
+  },
+  {
+    "d": "www.le-dictionnaire.com",
+    "s": "Le Dictionnaire",
+    "t": "ledict",
+    "u": "http://www.le-dictionnaire.com/resultats.php?mot={{{s}}}"
+  },
+  {
+    "d": "ledom.com.ua",
+    "s": "LeDom",
+    "t": "ledom",
+    "u": "https://ledom.com.ua/search?controller=search&orderby=position&orderway=desc&search_category=all&s={{{s}}}"
+  },
+  {
+    "d": "www.clsfyd.com",
+    "s": "clsfyd - The Free Classifieds",
+    "t": "leel",
+    "u": "https://www.clsfyd.com/search-results/?ad_title={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee EN FR",
+    "t": "lef",
+    "u": "https://www.linguee.com/english-french/search?source=french&query={{{s}}}"
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar - Legal Opinion Section",
+    "t": "legal",
+    "u": "http://scholar.google.com/scholar?hl=en&q={{{s}}}&btnG=Search&as_sdt=2%2C5&as_ylo=&as_vis=0"
+  },
+  {
+    "d": "www.legimi.pl",
+    "s": "Legimi.pl",
+    "t": "legimi",
+    "u": "https://www.legimi.pl/ebooki/?szukaj={{{s}}}"
+  },
+  {
+    "d": "legisquebec.gouv.qc.ca",
+    "s": "http://legisquebec.gouv.qc.ca/",
+    "t": "legisqc",
+    "u": "http://legisquebec.gouv.qc.ca/fr/result?command=search&length=10&search_type=all&title_search_type=any&corpus=all&corpusType=c&langCont=fr&fragment={{{s}}}&shorttitle=&stemmed=stemmed"
+  },
+  {
+    "d": "ideas.lego.com",
+    "s": "LEGO Ideas",
+    "t": "legoideas",
+    "u": "https://ideas.lego.com/discover#search/q:{{{s}}}"
+  },
+  {
+    "d": "search2.lego.com",
+    "s": "LEGO.com",
+    "t": "lego",
+    "u": "https://search2.lego.com/en-GB/{{{s}}}"
+  },
+  {
+    "d": "lego.fandom.com",
+    "s": "Brickipedia",
+    "t": "legowiki",
+    "u": "https://lego.fandom.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.bibliotheek.universiteitleiden.nl",
+    "s": "Bibilotheek Universiteit Leiden",
+    "t": "leidenlib",
+    "u": "https://www.bibliotheek.universiteitleiden.nl/zoeken?q={{{s}}}"
+  },
+  {
+    "d": "www.leifiphysik.de",
+    "s": "Leifi Physik",
+    "t": "leifi",
+    "u": "https://www.leifiphysik.de/suche?search_api_fulltext={{{s}}}"
+  },
+  {
+    "d": "leifinder.com",
+    "s": "leifinder",
+    "t": "lei",
+    "u": "https://leifinder.com/search/{{{s}}}/0/15/results.html?"
+  },
+  {
+    "d": "www.leisurepro.com",
+    "s": "LeisurePro",
+    "t": "leisurepro",
+    "u": "http://www.leisurepro.com/search?searchinfo={{{s}}}"
+  },
+  {
+    "d": "www.varusteleka.fi",
+    "s": "Varusteleka",
+    "t": "leka",
+    "u": "https://www.varusteleka.fi/fi/bestsearch/{{{s}}}?q={{{s}}}"
+  },
+  {
+    "d": "www.lelong.com.my",
+    "s": "Lelong",
+    "t": "lelong",
+    "u": "https://www.lelong.com.my/catalog/all/list?TheKeyword={{{s}}}"
+  },
+  {
+    "d": "www.hdg.de",
+    "s": "Lebendiges Museum Online",
+    "t": "lemo",
+    "u": "https://www.hdg.de/lemo/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.lemonde.fr",
+    "s": "Le Monde",
+    "t": "lemonde",
+    "u": "http://www.lemonde.fr/recherche/?search_keywords={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee",
+    "t": "lenfr",
+    "u": "https://www.linguee.fr/francais-anglais/search?source=anglais&query={{{s}}}"
+  },
+  {
+    "d": "mothereff.in",
+    "s": "Mothereff.in Byte Counter",
+    "t": "len",
+    "u": "https://mothereff.in/byte-counter#{{{s}}}"
+  },
+  {
+    "d": "shop.lenovo.com",
+    "s": "Lenovo",
+    "t": "lenovo",
+    "u": "http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/site.workflow:SimpleSiteSearch?q={{{s}}}&v=15&lang=en&cc=us&en=utf&Search.x=0&Search.y=0&Search=Search"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary Chinese",
+    "t": "leoc",
+    "u": "http://dict.leo.org/chde?lp=chde&search={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "dict.leo.org",
+    "t": "leo",
+    "u": "https://dict.leo.org/englisch-deutsch/{{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary English",
+    "t": "leoe",
+    "u": "http://dict.leo.org/ende?lp=ende&search={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary French",
+    "t": "leof",
+    "u": "http://dict.leo.org/frde?lp=frde&search={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary French",
+    "t": "leofr",
+    "u": "https://dict.leo.org/französisch-deutsch/{{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary Italian",
+    "t": "leoi",
+    "u": "http://dict.leo.org/itde?lp=itde&search={{{s}}}"
+  },
+  {
+    "d": "www.leons.ca",
+    "s": "Leon's Furniture",
+    "t": "leons",
+    "u": "https://www.leons.ca/pages/search-results?limit=48&q={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "Leo",
+    "t": "leop",
+    "u": "http://dict.leo.org/ptde/?lp=ende&lang=de&searchLoc=0&cmpType=relaxed&sectHdr=on&spellToler=&search={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "Leo (Polski-Deutsch)",
+    "t": "leopl",
+    "u": "https://dict.leo.org/plde/?search={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary Portuguese",
+    "t": "leopt",
+    "u": "https://dict.leo.org/portugiesisch-deutsch/{{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary Russian",
+    "t": "leor",
+    "u": "http://dict.leo.org/rude?lp=rude&search={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary Russian",
+    "t": "leoru",
+    "u": "https://dict.leo.org/russisch-deutsch/{{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "LEO Dictionary Spanish",
+    "t": "leos",
+    "u": "http://dict.leo.org/esde?lp=esde&search={{{s}}}"
+  },
+  {
+    "d": "lernabit.com",
+    "s": "Lernabit",
+    "t": "lernabit",
+    "u": "https://lernabit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "lernu.net",
+    "s": "Lernu!",
+    "t": "lernuen",
+    "u": "https://lernu.net/en/vortaro/{{{s}}}"
+  },
+  {
+    "d": "lernu.net",
+    "s": "Lernu!",
+    "t": "lernues",
+    "u": "https://lernu.net/es/vortaro/{{{s}}}"
+  },
+  {
+    "d": "www.leroymerlin.it",
+    "s": "LeroyMerlin.it",
+    "t": "leroymerlinit",
+    "u": "https://www.leroymerlin.it/ricerca?q={{{s}}}&page=1"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Les-CRIs",
+    "t": "lescris",
+    "u": "https://duckduckgo.com/?q=site%3Ales-cris.com+{{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "linguee Es-Fr",
+    "t": "lesfr",
+    "u": "https://www.linguee.fr/francais-espagnol/search?source=espagnol&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.es",
+    "s": "Linguee",
+    "t": "les",
+    "u": "http://www.linguee.es/espanol-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.lesnumeriques.com",
+    "s": "Les Numériques",
+    "t": "lesnumeriques",
+    "u": "http://www.lesnumeriques.com/recherche.html?q={{{s}}}&cx=partner-pub-8349656358827352%3A8590362607&cof=FORID%3A10&ie=UTF-8&hl=fr"
+  },
+  {
+    "d": "www.lesnumeriques.com",
+    "s": "Les Numériques",
+    "t": "lesnum",
+    "u": "http://www.lesnumeriques.com/recherche?q={{{s}}}"
+  },
+  {
+    "d": "www.lesoir.be",
+    "s": "Le Soir",
+    "t": "lesoir",
+    "u": "https://www.lesoir.be/archives/recherche?word={{{s}}}&sort=date%20desc&datefilter=lastyear&form_build_id=form-OccakxlLTXnbavxnbgZGoqHzkT0bEeOrjy3PPlFais4&form_id=dpidamwidgets_damsimplesearch_content_type_search_form"
+  },
+  {
+    "d": "www.lowendtalk.com",
+    "s": "LowEndTalk",
+    "t": "let",
+    "u": "http://www.lowendtalk.com/search?Search={{{s}}}"
+  },
+  {
+    "d": "letonika.lv",
+    "s": "Letonika.lv",
+    "t": "leto",
+    "u": "http://letonika.lv/default.aspx?q={{{s}}}"
+  },
+  {
+    "d": "letras.top",
+    "s": "Letras.top",
+    "t": "letra",
+    "u": "https://letras.top/results/?q={{{s}}}"
+  },
+  {
+    "d": "letras.mus.br",
+    "s": "letras.mus.br",
+    "t": "letrasbr",
+    "u": "http://letras.mus.br/?q={{{s}}}"
+  },
+  {
+    "d": "letras.mus.br",
+    "s": "Letras.mus.br",
+    "t": "letras",
+    "u": "http://letras.mus.br/?q={{{s}}} "
+  },
+  {
+    "d": "search.letssingit.com",
+    "s": "Letssingit",
+    "t": "letssingit",
+    "u": "https://search.letssingit.com/?s={{{s}}}&a=search&l=archive"
+  },
+  {
+    "d": "letterboxd.com",
+    "s": "Letterboxd",
+    "t": "letterboxd",
+    "u": "http://letterboxd.com/search/films/{{{s}}}/"
+  },
+  {
+    "d": "le.ac.uk",
+    "s": "University of Leicester",
+    "t": "le",
+    "u": "https://le.ac.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "levidsmith.com",
+    "s": "Levi D. Smith Games",
+    "t": "levi",
+    "u": "https://levidsmith.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LewRockwell.com",
+    "t": "lewrockwell",
+    "u": "https://duckduckgo.com/?q=site%3Alewrockwell.com+{{{s}}} "
+  },
+  {
+    "d": "wh40k.lexicanum.com",
+    "s": "Lexicanum",
+    "t": "lexicanum",
+    "u": "http://wh40k.lexicanum.com/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "lexin.udir.no",
+    "s": "Lexin (Norsk Ordbok)",
+    "t": "lexin",
+    "u": "http://lexin.udir.no/?search={{{s}}}&dict=nbo-maxi&ui-lang=NBO&startingfrom=&count=10&checked-languages=E&checked-languages=N"
+  },
+  {
+    "d": "www.lexisnexis.com.au",
+    "s": "LexisNexis Australia",
+    "t": "lexisnexis",
+    "u": "https://www.lexisnexis.com.au/en/global-pages/search?query={{{s}}}"
+  },
+  {
+    "d": "www.lexml.gov.br",
+    "s": "LexML Brasil",
+    "t": "lexml",
+    "u": "https://www.lexml.gov.br/busca/search?keyword={{{s}}}&f1-tipoDocumento="
+  },
+  {
+    "d": "lexparency.org",
+    "s": "lexparency.org",
+    "t": "lexp",
+    "u": "http://lexparency.org/eu/EN/search?deep=True&search_words={{{s}}}"
+  },
+  {
+    "d": "www.greek-language.gr",
+    "s": "Λεξικό Τριανταφυλλίδη",
+    "t": "lext",
+    "u": "http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq={{{s}}}"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "LiverpoolFC sub (old style)",
+    "t": "lfc",
+    "u": "https://old.reddit.com/r/LiverpoolFC/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "www.lesfrontaliers.lu",
+    "s": "LesFrontaliers",
+    "t": "lf",
+    "u": "http://www.lesfrontaliers.lu/search?text={{{s}}}"
+  },
+  {
+    "d": "www.last.fm",
+    "s": "last.fm",
+    "t": "lfm",
+    "u": "http://www.last.fm/music/{{{s}}}/"
+  },
+  {
+    "d": "pac.lfpl.org",
+    "s": "Louisville Free Public Library",
+    "t": "lfpl",
+    "u": "http://pac.lfpl.org/polaris/search/searchresults.aspx?&type=Default&by=KW&sort=RELEVANCE&term={{{s}}}"
+  },
+  {
+    "d": "lapfoxtrax.wikia.com",
+    "s": "Lapfox Trax Wiki",
+    "t": "lftwiki",
+    "u": "http://lapfoxtrax.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "libs.garden",
+    "s": "libs.garden Go",
+    "t": "lg.go",
+    "u": "https://libs.garden/go/search?q={{{s}}}"
+  },
+  {
+    "d": "geekpauvre.com",
+    "s": "Le Geek Pauvre",
+    "t": "lgp",
+    "u": "http://geekpauvre.com/?s={{{s}}} "
+  },
+  {
+    "d": "libregamewiki.org",
+    "s": "libregamewiki",
+    "t": "lgw",
+    "u": "https://libregamewiki.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "lifehacker.com",
+    "s": "Lifehacker",
+    "t": "lh",
+    "u": "http://lifehacker.com/search?q={{{s}}}"
+  },
+  {
+    "d": "lehollandaisvolant.net",
+    "s": "Le Hollandais Volant",
+    "t": "lhv",
+    "u": "http://lehollandaisvolant.net/?q={{{s}}}"
+  },
+  {
+    "d": "lehollandaisvolant.net",
+    "s": "Le Hollandais Volant : au fil du web",
+    "t": "lhvl",
+    "u": "http://lehollandaisvolant.net/?mode=links&q={{{s}}}"
+  },
+  {
+    "d": "libbyapp.com",
+    "s": "Libby, By Overdrive",
+    "t": "libby",
+    "u": "https://libbyapp.com/library/reads/search/query-{{{s}}}/page-1"
+  },
+  {
+    "d": "libcom.org",
+    "s": "libcom.org",
+    "t": "libcom",
+    "u": "https://libcom.org/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.libdems.org.uk",
+    "s": "Liberal Democrats (UK)",
+    "t": "libdems",
+    "u": "http://www.libdems.org.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.liberation.fr",
+    "s": "Libération",
+    "t": "libe",
+    "u": "https://www.liberation.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "www.libreriauniversitaria.it",
+    "s": "Libreria Universitaria",
+    "t": "liberia",
+    "u": "http://www.libreriauniversitaria.it/c_power_search.php?shelf=BIT&q={{{s}}}&submit="
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LibGDX API",
+    "t": "libgdx",
+    "u": "https://duckduckgo.com/?q=site%3Alibgdx.badlogicgames.com+{{{s}}}&t=h&ia=web"
+  },
+  {
+    "d": "library.iiitd.edu.in",
+    "s": "IIITD library",
+    "t": "libiiitd",
+    "u": "http://library.iiitd.edu.in/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}"
+  },
+  {
+    "d": "libraries.io",
+    "s": "libraries.io",
+    "t": "libraries",
+    "u": "https://libraries.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.librarything.com",
+    "s": "LibraryThing",
+    "t": "librarything",
+    "u": "http://www.librarything.com/search_works.php?q={{{s}}}"
+  },
+  {
+    "d": "www.libreflix.org",
+    "s": "Libreflix",
+    "t": "libreflix",
+    "u": "https://www.libreflix.org/busca/{{{s}}}"
+  },
+  {
+    "d": "libre.fm",
+    "s": "libre.fm",
+    "t": "librefm",
+    "u": "http://libre.fm/search.php?search_term={{{s}}}"
+  },
+  {
+    "d": "librewiki.net",
+    "s": "리브레 위키",
+    "t": "libre",
+    "u": "https://librewiki.net/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "librestock.com",
+    "s": "Librestock",
+    "t": "librestock",
+    "u": "http://librestock.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.libreture.com",
+    "s": "Libreture",
+    "t": "libreture",
+    "u": "https://www.libreture.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "librewiki.net",
+    "s": "LibreWiki",
+    "t": "librewiki",
+    "u": "https://librewiki.net/index.php?title=%ED%8A%B9%EC%88%98%3A%EA%B2%80%EC%83%89&search={{{s}}}"
+  },
+  {
+    "d": "libris.kb.se",
+    "s": "Libris",
+    "t": "libris",
+    "u": "http://libris.kb.se/hitlist?d=libris&q={{{s}}}&f=simp&spell=true"
+  },
+  {
+    "d": "librivox.org",
+    "s": "LibriVox",
+    "t": "librivox",
+    "u": "http://librivox.org/newcatalog/search.php?title={{{s}}}&author=&status=all&action=Search"
+  },
+  {
+    "d": "lib.rs",
+    "s": "https://lib.rs/",
+    "t": "librs",
+    "u": "https://lib.rs/search?q={{{s}}}"
+  },
+  {
+    "d": "www.librarything.com",
+    "s": "LibraryThing",
+    "t": "libthing",
+    "u": "https://www.librarything.com/search.php?term={{{s}}}"
+  },
+  {
+    "d": "lib.thessaloniki.gr",
+    "s": "Municipal Library of Thessaloniki",
+    "t": "libth",
+    "u": "http://lib.thessaloniki.gr/ipac20/ipac.jsp?session=14048C549F1N5.44906&menu=search&aspect=subtab37&npp=10&ipp=20&spp=20&profile=central--1&ri=&term={{{s}}}&index=.GW&x=0&y=0&aspect=subtab37"
+  },
+  {
+    "d": "www.libreriauniversitaria.it",
+    "s": "Libreria Universitaria",
+    "t": "libuniversitaria",
+    "u": "http://www.libreriauniversitaria.it/c_power_search.php?shelf=BIT&q={{{s}}}&submit="
+  },
+  {
+    "d": "lib.uva.nl",
+    "s": "UvA CataloguePlus",
+    "t": "libuva",
+    "u": "https://lib.uva.nl/primo-explore/search?query=any,contains,{{{s}}}&tab=all&search_scope=uva_all&vid=UVA"
+  },
+  {
+    "d": "docs.libuv.org",
+    "s": "Libuv API Docs",
+    "t": "libuv",
+    "u": "http://docs.libuv.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "licentium.net",
+    "s": "자유인사전(Licentium Wiki)",
+    "t": "licentium",
+    "u": "https://licentium.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.linkedin.com",
+    "s": "linkedin.com/company",
+    "t": "lic",
+    "u": "https://www.linkedin.com/search/results/companies/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee (Deutsch/Englisch)",
+    "t": "lide",
+    "u": "http://www.linguee.de/deutsch-englisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee Deutsch <-> Français (German  <-> French)",
+    "t": "lidf",
+    "u": "https://www.linguee.de/deutsch-franzoesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee De-Ita",
+    "t": "lidi",
+    "u": "http://www.linguee.de/deutsch-italienisch/search?query={{{s}}}"
+  },
+  {
+    "d": "www.welklidwoord.nl",
+    "s": "Welklidwoord",
+    "t": "lidwoord",
+    "u": "https://www.welklidwoord.nl/{{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "linguee.com German - English",
+    "t": "lied",
+    "u": "https://www.linguee.de/deutsch-englisch/search?source=englisch&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee",
+    "t": "liende",
+    "u": "https://www.linguee.com/english-german/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee (English <-> Italian)",
+    "t": "lienit",
+    "u": "http://www.linguee.com/english-italian/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.es",
+    "s": "https://www.linguee.es/",
+    "t": "lies",
+    "u": "https://www.linguee.es/espanol-ingles/search?query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee Français <-> Deutsch (German <-> French) with French interface",
+    "t": "lifd",
+    "u": "https://www.linguee.fr/francais-allemand/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "lifehacker.com",
+    "s": "Lifehacker",
+    "t": "lifehacker",
+    "u": "http://lifehacker.com/search?q={{{s}}}"
+  },
+  {
+    "d": "lifehacking.nl",
+    "s": "Lifehacking",
+    "t": "lifehacking",
+    "u": "http://lifehacking.nl/?s={{{s}}}"
+  },
+  {
+    "d": "lifehacker.com",
+    "s": "Lifehacker",
+    "t": "lifehack",
+    "u": "http://lifehacker.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.lifesitenews.com",
+    "s": "LifeSite",
+    "t": "life",
+    "u": "https://www.lifesitenews.com/archives/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Lifeprint",
+    "t": "lifeprint",
+    "u": "http://www.google.com/cse?cx=partner-pub-2513564923850231%3Anzof3qz9abm&ie=ISO-8859-1&q=time&sa=Search#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "d": "dev.liferay.com",
+    "s": "Liferay",
+    "t": "liferay",
+    "u": "https://dev.liferay.com/es/search?p_p_id=3&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_3_struts_action=%2Fsearch%2Fsearch&_3_redirect=%2Fes%2Fdevelop%2Ftutorials%2F-%2Fknowledge_base%2F7-1%2Fupgrading-a-liferay-mvc-portlet&_3_keywords={{{s}}}&_3_groupId=10184"
+  },
+  {
+    "d": "www.lifo.gr",
+    "s": "Lifo",
+    "t": "lifo",
+    "u": "https://www.lifo.gr/search?q={{{s}}}"
+  },
+  {
+    "d": "lifpv.com",
+    "s": "https://lifpv.com",
+    "t": "lifpv",
+    "u": "https://lifpv.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.lightfm.com.au",
+    "s": "LightFM",
+    "t": "lightfm",
+    "u": "https://www.lightfm.com.au/?s={{{s}}}"
+  },
+  {
+    "d": "www.light.gg",
+    "s": "light.gg",
+    "t": "lightgg",
+    "u": "https://www.light.gg/db/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.light.gg",
+    "s": "light.gg",
+    "t": "light",
+    "u": "https://www.light.gg/db/search/?q={{{s}}} "
+  },
+  {
+    "d": "lignux.com",
+    "s": "LiGNUx",
+    "t": "lignux",
+    "u": "http://lignux.com/?s={{{s}}}"
+  },
+  {
+    "d": "lihkg.com",
+    "s": "Lihkg",
+    "t": "lihkg",
+    "u": "https://lihkg.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee (Hungarian - English)",
+    "t": "lihu",
+    "u": "https://www.linguee.com/english-hungarian/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.law.cornell.edu",
+    "s": "Legal Information Institute",
+    "t": "lii",
+    "u": "https://www.law.cornell.edu/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.battdepot.com",
+    "s": "Battdepot Nederland",
+    "t": "li-ion",
+    "u": "https://www.battdepot.com/nl/Search.aspx?keywords={{{s}}}"
+  },
+  {
+    "d": "thesaurus.com",
+    "s": "Thesaurus.com",
+    "t": "like",
+    "u": "http://thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "d": "www.linkedin.com",
+    "s": "LinkedIn Learning",
+    "t": "lilearning",
+    "u": "https://www.linkedin.com/learning/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.linkedin.com",
+    "s": "LinkedIn",
+    "t": "li",
+    "u": "https://www.linkedin.com/search/results/all/?keywords={{{s}}}"
+  },
+  {
+    "d": "search.lilo.org",
+    "s": "Lilo",
+    "t": "lilo",
+    "u": "https://search.lilo.org/searchweb.php?q={{{s}}}"
+  },
+  {
+    "d": "lsr.di.unimi.it",
+    "s": "LilyPond Snippet Repository",
+    "t": "lilypond",
+    "u": "http://lsr.di.unimi.it/LSR/Search?q={{{s}}}"
+  },
+  {
+    "d": "www.limundo.com",
+    "s": "Limundo",
+    "t": "lim",
+    "u": "https://www.limundo.com/pretragaLimundo.php?bSearchBox=1&txtPretraga={{{s}}}&Submit="
+  },
+  {
+    "d": "www.linguee.com.br",
+    "s": "Linguee",
+    "t": "linbr",
+    "u": "http://www.linguee.com.br/portugues-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.lincoder.com",
+    "s": "lincoder",
+    "t": "lincoder",
+    "u": "http://www.lincoder.com/?s={{{s}}}:"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee Ger - It",
+    "t": "lindit",
+    "u": "http://www.linguee.de/deutsch-italienisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee",
+    "t": "lindp",
+    "u": "http://www.linguee.de/deutsch-portugiesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "linguee",
+    "t": "linef",
+    "u": "https://www.linguee.com/english-french/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "linguee",
+    "t": "lineg",
+    "u": "http://www.linguee.com/english-german/search?source=german&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.it",
+    "s": "Linguee",
+    "t": "linei",
+    "u": "https://www.linguee.it/italiano-inglese/search?query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee English - Dutch",
+    "t": "linen",
+    "u": "http://www.linguee.com/english-dutch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "linguee",
+    "t": "linep",
+    "u": "http://www.linguee.com/english-portuguese/?query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.es",
+    "s": "Linguee.es (ESP a ING)",
+    "t": "linesin",
+    "u": "http://www.linguee.es/espanol-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "linguee",
+    "t": "lines",
+    "u": "http://www.linguee.com/english-spanish/?query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee",
+    "t": "linfd",
+    "u": "http://www.linguee.fr/francais-allemand/search?source=auto&query={{{s}}} "
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "linguee",
+    "t": "linfe",
+    "u": "https://www.linguee.fr/francais-anglais/search?query= {{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "linguee",
+    "t": "linge",
+    "u": "http://www.linguee.com/deutsch-englisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "lingerka.pl",
+    "s": "https://lingerka.pl",
+    "t": "lingerka",
+    "u": "https://lingerka.pl/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee (Fr-En)",
+    "t": "lingfe",
+    "u": "http://www.linguee.fr/francais-anglais/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee",
+    "t": "lingf",
+    "u": "http://www.linguee.de/deutsch-franzoesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee (Fr-Nl)",
+    "t": "lingfn",
+    "u": "http://www.linguee.fr/francais-neerlandais/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee",
+    "t": "lingfp",
+    "u": "http://www.linguee.fr/francais-portugais/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee (en français)",
+    "t": "lingfr",
+    "u": "http://www.linguee.fr/francais-anglais/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "ling.pl",
+    "s": "Ling.pl Angielsko-Polski",
+    "t": "ling",
+    "u": "https://ling.pl/slownik/angielsko-polski/{{{s}}}"
+  },
+  {
+    "d": "www.netlingo.com",
+    "s": "NetLingo",
+    "t": "lingo",
+    "u": "http://www.netlingo.com/search.php?searchtxt={{{s}}}"
+  },
+  {
+    "d": "www.linguee.fr",
+    "s": "Linguee",
+    "t": "lingpf",
+    "u": "http://www.linguee.fr/francais-portugais/search?source=portugais&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "linguee",
+    "t": "lingp",
+    "u": "http://www.linguee.de/deutsch-portugiesisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.pl",
+    "s": "Linguee PL",
+    "t": "lingpl",
+    "u": "http://www.linguee.pl/angielski-polski/t%C5%82umaczenie/{{{s}}}.html"
+  },
+  {
+    "d": "lingualeo.com",
+    "s": "lingualeo.com",
+    "t": "lingualeo",
+    "u": "https://lingualeo.com/ru/glossary/learn/dictionary#{{{s}}}"
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee",
+    "t": "lingueefe",
+    "u": "https://www.linguee.de/francais-englisch/search?source=auto&query={{{s}}} "
+  },
+  {
+    "d": "www.linguee.de",
+    "s": "Linguee",
+    "t": "linguee",
+    "u": "http://www.linguee.de/deutsch-englisch/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.es",
+    "s": "www.linguee.es",
+    "t": "lingues",
+    "u": "https://www.linguee.es/espanol-ingles/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "lingvolive.ru",
+    "s": "Lingvo Live",
+    "t": "lingvo",
+    "u": "https://lingvolive.ru/translate/en-ru/{{{s}}}"
+  },
+  {
+    "d": "www.linkedin.com",
+    "s": "LinkedIn",
+    "t": "linkedin",
+    "u": "https://www.linkedin.com/search/results/all/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.linkiesta.it",
+    "s": "Linkiesta",
+    "t": "linkiesta",
+    "u": "http://www.linkiesta.it/cerca/{{{s}}}"
+  },
+  {
+    "d": "linklocker.co",
+    "s": "LinkLocker ",
+    "t": "linkl",
+    "u": "https://linklocker.co/search?query={{{s}}}"
+  },
+  {
+    "d": "www.linkup.com",
+    "s": "LinkUp",
+    "t": "linkup",
+    "u": "http://www.linkup.com/results.php#q={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee",
+    "t": "lin",
+    "u": "http://www.linguee.com/english-french/search?source=auto&query={{{s}}} "
+  },
+  {
+    "d": "www.linguee.nl",
+    "s": "Linguee (NL-EN)",
+    "t": "lin-nlen",
+    "u": "http://www.linguee.nl/nederlands-engels/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "library.linode.com",
+    "s": "Linode Library",
+    "t": "linode",
+    "u": "https://library.linode.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.linux.org",
+    "s": "Linux.org",
+    "t": "linorg",
+    "u": "https://www.linux.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "linguee",
+    "t": "linpe",
+    "u": "http://www.linguee.com/english-portuguese/search?source=portuguese&query={{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee Swedish",
+    "t": "linse",
+    "u": "http://www.linguee.com/english-swedish/search?query={{{s}}}"
+  },
+  {
+    "d": "linuxsnippets.net",
+    "s": "Linux Snippets",
+    "t": "linsnipp",
+    "u": "http://linuxsnippets.net/en/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.linguee.com",
+    "s": "Linguee English-Swedish",
+    "t": "linsv",
+    "u": "http://www.linguee.com/english-swedish/search?source=auto&query={{{s}}}"
+  },
+  {
+    "d": "www.linternaute.com",
+    "s": "linternaute",
+    "t": "linternaute",
+    "u": "http://www.linternaute.com/encyclopedie/recherche/?f_libelle={{{s}}}"
+  },
+  {
+    "d": "www.linternaute.fr",
+    "s": "linternaute synonyme",
+    "t": "linternautesy",
+    "u": "https://www.linternaute.fr/dictionnaire/fr/synonyme/{{{s}}}/"
+  },
+  {
+    "d": "explicativolinux.wordpress.com",
+    "s": "Explicativo Linux",
+    "t": "linux",
+    "u": "https://explicativolinux.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LinuxFr",
+    "t": "linuxfr",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Alinuxfr.org&ia=web"
+  },
+  {
+    "d": "forums.linuxmint.com",
+    "s": "Linux Mint Forums",
+    "t": "linuxmint",
+    "u": "http://forums.linuxmint.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.linuxquestions.org",
+    "s": "linuxquestions",
+    "t": "linuxq",
+    "u": "http://www.linuxquestions.org/questions/{{{s}}}"
+  },
+  {
+    "d": "linuxtracker.org",
+    "s": "Linux Tracker",
+    "t": "linuxtracker",
+    "u": "http://linuxtracker.org/index.php?page=torrents&search={{{s}}}"
+  },
+  {
+    "d": "libraries.io",
+    "s": "https://libraries.io",
+    "t": "lio",
+    "u": "https://libraries.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.lipad.ca",
+    "s": "Linked Parliamentary Data: Canadian Hansard Dataset",
+    "t": "lipad",
+    "u": "https://www.lipad.ca/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.lipsum.com",
+    "s": "Lorem Ipsum",
+    "t": "lipsum",
+    "u": "http://www.lipsum.com/feed/html?amount={{{s}}}"
+  },
+  {
+    "d": "www.liquidation.com",
+    "s": "Liquidation",
+    "t": "liquidation",
+    "u": "http://www.liquidation.com/auction/search?cmd=keyword&searchparam_words={{{s}}}&flag=new"
+  },
+  {
+    "d": "wiki.teamliquid.net",
+    "s": "Liquidpedia",
+    "t": "liquidpedia",
+    "u": "http://wiki.teamliquid.net/starcraft2/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wiki.teamliquid.net",
+    "s": "Liquipedia2",
+    "t": "liquipedia",
+    "u": "http://wiki.teamliquid.net/starcraft2/index.php?title=Special%3ASearch&go=Go&search={{{s}}}"
+  },
+  {
+    "d": "www.liquorland.com.au",
+    "s": "Liquorland",
+    "t": "liquorland",
+    "u": "https://www.liquorland.com.au/Search?q={{{s}}}"
+  },
+  {
+    "d": "lirik.web.id",
+    "s": "Lirik",
+    "t": "lirik",
+    "u": "https://lirik.web.id/results/?q={{{s}}}"
+  },
+  {
+    "d": "www.listadomanga.es",
+    "s": "Listado manga blog",
+    "t": "listadomangablog",
+    "u": "http://www.listadomanga.es/blog/?s={{{s}}}"
+  },
+  {
+    "d": "www.listal.com",
+    "s": "Listal",
+    "t": "listal",
+    "u": "http://www.listal.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.list.am",
+    "s": "List.am",
+    "t": "listam",
+    "u": "http://www.list.am/category?q={{{s}}}"
+  },
+  {
+    "d": "www.listcorp.com",
+    "s": "Listcorp",
+    "t": "listcorp",
+    "u": "https://www.listcorp.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.listennotes.com",
+    "s": "Listen Notes",
+    "t": "listennotes",
+    "u": "https://www.listennotes.com/search?q={{{s}}}"
+  },
+  {
+    "d": "listverse.com",
+    "s": "Listverse",
+    "t": "listverse",
+    "u": "http://listverse.com/search/?q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "learneditonline.blog",
+    "s": "Learned It Online Blog",
+    "t": "litblog",
+    "u": "https://learneditonline.blog/?s={{{s}}}"
+  },
+  {
+    "d": "literarydevices.net",
+    "s": "Literary Devices and Terms",
+    "t": "litdev",
+    "u": "https://literarydevices.net/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Lite",
+    "t": "lite",
+    "u": "https://duckduckgo.com/lite?q={{{s}}}"
+  },
+  {
+    "d": "www.litefx.to",
+    "s": "LiteFX",
+    "t": "litefx",
+    "u": "https://www.litefx.to/search?q={{{s}}}"
+  },
+  {
+    "d": "literana.de",
+    "s": "Literana",
+    "t": "literana",
+    "u": "https://literana.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.montygreylock.com",
+    "s": "Monty's Manifest of Cultural Literacy",
+    "t": "liter",
+    "u": "https://www.montygreylock.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "litfl.com",
+    "s": "LITFL",
+    "t": "litfl",
+    "u": "https://litfl.com/?s={{{s}}}"
+  },
+  {
+    "d": "luvit.io",
+    "s": "luvit.io",
+    "t": "lit",
+    "u": "https://luvit.io/lit.html#{{{s}}}"
+  },
+  {
+    "d": "www.litres.ru",
+    "s": "Litres",
+    "t": "litres",
+    "u": "https://www.litres.ru/pages/rmd_search/?q={{{s}}}"
+  },
+  {
+    "d": "www.littre.org",
+    "s": "Dictionnaire Littré",
+    "t": "littre",
+    "u": "http://www.littre.org/definition/{{{s}}}"
+  },
+  {
+    "d": "search.liu.se",
+    "s": "Linköping University",
+    "t": "liu",
+    "u": "http://search.liu.se/en/?query={{{s}}}"
+  },
+  {
+    "d": "www.liveatc.net",
+    "s": "LiveATC.net",
+    "t": "liveatc",
+    "u": "https://www.liveatc.net/search/?icao={{{s}}}"
+  },
+  {
+    "d": "www.livechart.me",
+    "s": "LiveChart.me",
+    "t": "livec",
+    "u": "https://www.livechart.me/search?q={{{s}}}"
+  },
+  {
+    "d": "www.liveleak.com",
+    "s": "LiveLeak",
+    "t": "liveleak",
+    "u": "http://www.liveleak.com/browse?q={{{s}}} "
+  },
+  {
+    "d": "shirts.ly",
+    "s": "shirts.ly",
+    "t": "lively",
+    "u": "https://shirts.ly/shop?search={{{s}}}"
+  },
+  {
+    "d": "www.livemint.com",
+    "s": "Live Mint",
+    "t": "livemint",
+    "u": "https://www.livemint.com/Search/Link/Keyword/{{{s}}}"
+  },
+  {
+    "d": "www.liveplasma.com",
+    "s": "LivePlasma",
+    "t": "liveplasma",
+    "u": "http://www.liveplasma.com/#/artist/{{{s}}} "
+  },
+  {
+    "d": "www.livestrong.com",
+    "s": "LIVESTRONG",
+    "t": "livestrong",
+    "u": "http://www.livestrong.com/search/?mode=standard&search={{{s}}}"
+  },
+  {
+    "d": "www.lizzart.fr",
+    "s": "Lizzart - Original Handmade in France",
+    "t": "lizzart",
+    "u": "http://www.lizzart.fr/boutique/tout/recherche.html?keyword={{{s}}}&limitstart=0&option=com_virtuemart&view=category"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LiveJournal",
+    "t": "lj",
+    "u": "http://duckduckgo.com/?q=site%3Alivejournal.com+{{{s}}} "
+  },
+  {
+    "d": "www.lolking.net",
+    "s": "LolKing",
+    "t": "lk",
+    "u": "http://www.lolking.net/search?name={{{s}}}"
+  },
+  {
+    "d": "lokan.jp",
+    "s": "LoKan.jp",
+    "t": "lkn",
+    "u": "https://lokan.jp/?s={{{s}}}"
+  },
+  {
+    "d": "www.llbean.com",
+    "s": "L. L. Bean",
+    "t": "llbean",
+    "u": "http://www.llbean.com/llb/search/?freeText={{{s}}}&init=1"
+  },
+  {
+    "d": "leeds.summon.serialssolutions.com",
+    "s": "University of Leeds Library",
+    "t": "llib",
+    "u": "https://leeds.summon.serialssolutions.com/?q=elonmsuck&fvf=ContentType%2CBook+Review%2Ct#!/search?ho=t&fvf=ContentType,Book%20Review,t&l=en&q={{{s}}}"
+  },
+  {
+    "d": "www.liveleak.com",
+    "s": "LiveLeak",
+    "t": "ll",
+    "u": "http://www.liveleak.com/browse?q={{{s}}}"
+  },
+  {
+    "d": "capitadiscovery.co.uk",
+    "s": "Liverpool Libraries catalogue",
+    "t": "lluk",
+    "u": "http://capitadiscovery.co.uk/liverpool/items?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LLVM Compiler Infrastructure",
+    "t": "llvm",
+    "u": "https://duckduckgo.com/?q=site%3Allvm.org+{{{s}}}"
+  },
+  {
+    "d": "archive.org",
+    "s": "Live Music Archive",
+    "t": "lma",
+    "u": "http://archive.org/search.php?query={{{s}}}%20AND%20collection%3Aetree"
+  },
+  {
+    "d": "les-maitres-composeurs.fr",
+    "s": "Les maîtres composeurs",
+    "t": "lmc",
+    "u": "https://les-maitres-composeurs.fr/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "lmddgtfy.net",
+    "s": "LMDDGTFY.NET",
+    "t": "lmddgtfy",
+    "u": "https://lmddgtfy.net/?q={{{s}}}"
+  },
+  {
+    "d": "collections.leventhalmap.org",
+    "s": "Leventhal Map & Education Center Digital Collections",
+    "t": "lmec",
+    "u": "https://collections.leventhalmap.org/search?&q={{{s}}}"
+  },
+  {
+    "d": "www.lmgtfy.com",
+    "s": "LMGTFY",
+    "t": "lmgtfy",
+    "u": "http://www.lmgtfy.com/?s=d&q={{{s}}}"
+  },
+  {
+    "d": "www.livemixtapes.com",
+    "s": "LiveMixtapes",
+    "t": "lm",
+    "u": "http://www.livemixtapes.com/main.php?artist={{{s}}}"
+  },
+  {
+    "d": "lmms.io",
+    "s": "lmms wiki",
+    "t": "lmms",
+    "u": "https://lmms.io/wiki/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.latemodelrestoration.com",
+    "s": "Late Model Restoration",
+    "t": "lmr",
+    "u": "http://www.latemodelrestoration.com/Product/Search?q={{{s}}}"
+  },
+  {
+    "d": "lemmasoft.renai.us",
+    "s": "Lemma Soft Forums",
+    "t": "lms",
+    "u": "https://lemmasoft.renai.us/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "opac.ub.uni-muenchen.de",
+    "s": "Universitätsbibliothek der Ludwig-Maximilians-Universität (LMU) München",
+    "t": "lmu",
+    "u": "https://opac.ub.uni-muenchen.de/TouchPoint/start.do?View=sunrise&Language=de&Query=-1=%22{{{s}}}%22"
+  },
+  {
+    "d": "luigi-mansion.wikia.com",
+    "s": "Luigi's Mansion Wiki",
+    "t": "lmwiki",
+    "u": "http://luigi-mansion.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "lostmediawiki.com",
+    "s": "lostmediawiki",
+    "t": "lmw",
+    "u": "https://lostmediawiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.linio.com.mx",
+    "s": "Linio México",
+    "t": "lmx",
+    "u": "https://www.linio.com.mx/search?q={{{s}}}"
+  },
+  {
+    "d": "lndb.info",
+    "s": "The Light Novel Database",
+    "t": "lndb",
+    "u": "http://lndb.info/search?text={{{s}}}"
+  },
+  {
+    "d": "lenewbie.com",
+    "s": "Le Newbie",
+    "t": "ln",
+    "u": "http://lenewbie.com/?s={{{s}}}"
+  },
+  {
+    "d": "logbuch-netzpolitik.de",
+    "s": "Logbuch:Netzpolitik",
+    "t": "lnp",
+    "u": "https://logbuch-netzpolitik.de/?s={{{s}}}"
+  },
+  {
+    "d": "lnu-se-primo.hosted.exlibrisgroup.com",
+    "s": "Linnéuniversitetet Bibliotek LNU",
+    "t": "lnu",
+    "u": "https://lnu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&search_scope=default_scope&sortby=rank&vid=primo-custom-lnu&pcAvailability=false&lang=sv_SE"
+  },
+  {
+    "d": "ask.libreoffice.org",
+    "s": "Ask LibreOffice",
+    "t": "loask",
+    "u": "http://ask.libreoffice.org/en/questions/scope:all/sort:activity-desc/page:1/query:={{{s}}}/"
+  },
+  {
+    "d": "www.loblaws.ca",
+    "s": "Loblaws",
+    "t": "loblaws",
+    "u": "https://www.loblaws.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "d": "lobste.rs",
+    "s": "Lobsters",
+    "t": "lobsters",
+    "u": "https://lobste.rs/search?q={{{s}}}"
+  },
+  {
+    "d": "bugs.documentfoundation.org",
+    "s": "LibreOffice Bugs",
+    "t": "lobugs",
+    "u": "https://bugs.documentfoundation.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "tel.local.ch",
+    "s": "local.ch",
+    "t": "localch",
+    "u": "http://tel.local.ch/de/q?what={{{s}}}"
+  },
+  {
+    "d": "local.google.com",
+    "s": "Google Local",
+    "t": "local",
+    "u": "http://local.google.com/maps?f=q&source=s_q&geocode=&q={{{s}}}"
+  },
+  {
+    "d": "local-list.co.il",
+    "s": "Local-List",
+    "t": "localist",
+    "u": "https://local-list.co.il?p=106&stag={{{s}}}"
+  },
+  {
+    "d": "www.timeanddate.com",
+    "s": "Time an Date (local time)",
+    "t": "localtime",
+    "u": "http://www.timeanddate.com/time/zone/?query={{{s}}}"
+  },
+  {
+    "d": "locast.be",
+    "s": "Locast",
+    "t": "locast",
+    "u": "https://locast.be/?s={{{s}}}"
+  },
+  {
+    "d": "tel.local.ch",
+    "s": "Local.ch",
+    "t": "locfr",
+    "u": "http://tel.local.ch/fr/q?what={{{s}}}"
+  },
+  {
+    "d": "www.loc.gov",
+    "s": "Library of Congress Catalog (loc.gov)",
+    "t": "loc",
+    "u": "https://www.loc.gov/search/?q={{{s}}} "
+  },
+  {
+    "d": "lodash.com",
+    "s": "lodash documentation",
+    "t": "lodash",
+    "u": "https://lodash.com/docs#{{{s}}}"
+  },
+  {
+    "d": "learnomnifocus.com",
+    "s": "Learn OmniFocus",
+    "t": "lof",
+    "u": "https://learnomnifocus.com/?s={{{s}}}"
+  },
+  {
+    "d": "logeion.uchicago.edu",
+    "s": "Logeion",
+    "t": "logeion",
+    "u": "http://logeion.uchicago.edu/{{{s}}}"
+  },
+  {
+    "d": "gineipaedia.com",
+    "s": "Gineipaedia",
+    "t": "logh",
+    "u": "https://gineipaedia.com/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "logeion.uchicago.edu",
+    "s": "Logeion",
+    "t": "log",
+    "u": "http://logeion.uchicago.edu/{{{s}}}"
+  },
+  {
+    "d": "logopond.com",
+    "s": "logopond",
+    "t": "logo",
+    "u": "http://logopond.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "instantlogosearch.com",
+    "s": "Instant Logo Search",
+    "t": "logos",
+    "u": "http://instantlogosearch.com/?q={{{s}}}"
+  },
+  {
+    "d": "help.libreoffice.org",
+    "s": "LibreOffice Help",
+    "t": "loh",
+    "u": "https://help.libreoffice.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "mw.lojban.org",
+    "s": "Lojban.org (the official website and wiki)",
+    "t": "lojban",
+    "u": "https://mw.lojban.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "lolalytics.com",
+    "s": "lolalytics",
+    "t": "lolchamp",
+    "u": "https://lolalytics.com/ranked/worldwide/current/diamond/plus/champion/{{{s}}}"
+  },
+  {
+    "d": "www.locksonline.com",
+    "s": "LocksOnline.com",
+    "t": "lolcom",
+    "u": "https://www.locksonline.com/search/search.html?zoom_query={{{s}}}"
+  },
+  {
+    "d": "www.lolcounter.com",
+    "s": "LOL counter",
+    "t": "lolcounter",
+    "u": "http://www.lolcounter.com/champions/{{{s}}}"
+  },
+  {
+    "d": "www.lolking.net",
+    "s": "LolKing",
+    "t": "lolking",
+    "u": "http://www.lolking.net/search?name={{{s}}}"
+  },
+  {
+    "d": "www.locksonline.co.uk",
+    "s": "LocksOnline.co.uk",
+    "t": "lol",
+    "u": "https://www.locksonline.co.uk/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "lolnames.gg",
+    "s": "LoL Names",
+    "t": "lolnames",
+    "u": "https://lolnames.gg/en/na/{{{s}}}/"
+  },
+  {
+    "d": "www.lololyrics.com",
+    "s": "Lololyrics",
+    "t": "lololyrics",
+    "u": "http://www.lololyrics.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.lolpro.com",
+    "s": "LoL Pro",
+    "t": "lolpro",
+    "u": "http://www.lolpro.com/search?search={{{s}}}"
+  },
+  {
+    "d": "www.lolskill.net",
+    "s": "Lolskill",
+    "t": "lolskill",
+    "u": "http://www.lolskill.net/{{{s}}} "
+  },
+  {
+    "d": "leagueoflegends.wikia.com",
+    "s": "LoL Wikia",
+    "t": "lolwikia",
+    "u": "http://leagueoflegends.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "leagueoflegends.wikia.com",
+    "s": "League of Legends Wiki",
+    "t": "lolwiki",
+    "u": "http://leagueoflegends.wikia.com/wiki/Special:Search?search={{{s}}} "
+  },
+  {
+    "d": "www.lonelyplanet.com",
+    "s": "Lonely Planet",
+    "t": "lonelyplanet",
+    "u": "https://www.lonelyplanet.com/search?q={{{s}}}"
+  },
+  {
+    "d": "dict.longdo.com",
+    "s": "LongDo Dict",
+    "t": "longdo",
+    "u": "https://dict.longdo.com/search/{{{s}}}"
+  },
+  {
+    "d": "docs.looker.com",
+    "s": "Looker Documentation",
+    "t": "lookdocs",
+    "u": "https://docs.looker.com/#stq={{{s}}}&stp=1"
+  },
+  {
+    "d": "primo.tug-libraries.on.ca",
+    "s": "University of Waterloo Library",
+    "t": "loolib",
+    "u": "https://primo.tug-libraries.on.ca/primo_library/libweb/action/dlSearch.do?institution=WATERLOO&vid=WATERLOO&onCampus=false&lang=eng&indx=1&dym=true&highlight=true&displayField=title&bulkSize=10&query=any%2Ccontains%2C{{{s}}}&search_scope=books_tab&tab=default_tab"
+  },
+  {
+    "d": "www.loomisexpress.com",
+    "s": "Loomis Tracking",
+    "t": "loomis",
+    "u": "https://www.loomisexpress.com/ca/wfTrackingStatus.aspx?PieceNumber={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LoopbackJS Documentations site",
+    "t": "loopbackjs",
+    "u": "http://duckduckgo.com/?q=site:loopback.io/doc/en/lb3+{{{s}}}"
+  },
+  {
+    "d": "www.frontiersin.org",
+    "s": "Loop",
+    "t": "loop",
+    "u": "http://www.frontiersin.org/SearchData.aspx?sq={{{s}}}"
+  },
+  {
+    "d": "www.loot.co.za",
+    "s": "Loot.co.za",
+    "t": "loot",
+    "u": "http://www.loot.co.za/search?cat=b&terms={{{s}}}"
+  },
+  {
+    "d": "www.linux.org.ru",
+    "s": "Linux.org.ru",
+    "t": "lor",
+    "u": "https://www.linux.org.ru/search.jsp?q={{{s}}}&range=ALL&interval=ALL&user=&_usertopic=on"
+  },
+  {
+    "d": "www.loseit.com",
+    "s": "loseit",
+    "t": "loseit",
+    "u": "https://www.loseit.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "www.lineageoslog.com",
+    "s": "LineageOS Log",
+    "t": "loslog",
+    "u": "https://www.lineageoslog.com/search?q={{{s}}}"
+  },
+  {
+    "d": "opengrok.libreoffice.org",
+    "s": "LibreOffice Source Code",
+    "t": "losource",
+    "u": "http://opengrok.libreoffice.org/search?q={{{s}}}&project=core"
+  },
+  {
+    "d": "lostpedia.wikia.com",
+    "s": "Lostpedia",
+    "t": "lost",
+    "u": "http://lostpedia.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "lotr.wikia.com",
+    "s": "One Wiki to Rule Them All:  The Lord of the Rings Wiki",
+    "t": "lotr",
+    "u": "http://lotr.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "lotro-wiki.com",
+    "s": "LOTRO-Wiki",
+    "t": "lotrow",
+    "u": "http://lotro-wiki.com/index.php?search={{{s}}}&button=&title=Special%3ASearch"
+  },
+  {
+    "d": "louisvilleky.gov",
+    "s": "LouisvilleKy.gov",
+    "t": "louisville",
+    "u": "https://louisvilleky.gov/search/site/{{{s}}}"
+  },
+  {
+    "d": "lovdata.no",
+    "s": "Lovdata",
+    "t": "lovdata",
+    "u": "http://lovdata.no/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.love2d.org",
+    "s": "LÖVE2D",
+    "t": "love2d",
+    "u": "http://www.love2d.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.lovebusinessexpo.co.uk",
+    "s": "Love Business EXPO",
+    "t": "lovebusinessexpo",
+    "u": "https://www.lovebusinessexpo.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "love-live.wikia.com",
+    "s": "Love Live! Wiki",
+    "t": "lovelive",
+    "u": "http://love-live.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "love2d.org",
+    "s": "LÖVE",
+    "t": "love",
+    "u": "http://love2d.org/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.loveseat.com",
+    "s": "Loveseat",
+    "t": "loveseat",
+    "u": "https://www.loveseat.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "love2d.org",
+    "s": "LÖVE Wiki",
+    "t": "lovewiki",
+    "u": "https://love2d.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "recipegym.com",
+    "s": "Recipe Gym",
+    "t": "lowcarb",
+    "u": "https://recipegym.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.loweringthebar.net",
+    "s": "Lowering the Bar",
+    "t": "loweringthebar",
+    "u": "http://www.loweringthebar.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.lowes.ca",
+    "s": "Lowes Canada",
+    "t": "lowesca",
+    "u": "https://www.lowes.ca/search/{{{s}}}.html"
+  },
+  {
+    "d": "www.lowes.com",
+    "s": "Lowes",
+    "t": "lowes",
+    "u": "http://www.lowes.com/SearchCatalogDisplay?Ntt={{{s}}}#!"
+  },
+  {
+    "d": "www.lowonganterpadu.com",
+    "s": "Lowongan Kerja Terbaru",
+    "t": "lowongan",
+    "u": "https://www.lowonganterpadu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "lparchive.org",
+    "s": "Let's Play Archive",
+    "t": "lparchive",
+    "u": "http://lparchive.org/search/{{{s}}} #results"
+  },
+  {
+    "d": "bugs.launchpad.net",
+    "s": "Launchpad Bugs",
+    "t": "lpbug",
+    "u": "https://bugs.launchpad.net/bugs/+bugs?field.searchtext={{{s}}}"
+  },
+  {
+    "d": "www.leifiphysik.de",
+    "s": "leifiphysik.de",
+    "t": "lph",
+    "u": "https://www.leifiphysik.de/suche/{{{s}}}"
+  },
+  {
+    "d": "launchpad.net",
+    "s": "Launchpad",
+    "t": "lp",
+    "u": "https://launchpad.net/+search?field.text={{{s}}}"
+  },
+  {
+    "d": "www.die.net",
+    "s": "Linux Man Page",
+    "t": "lpm",
+    "u": "https://www.die.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.lapoliticaonline.com",
+    "s": "La Política Online",
+    "t": "lpo",
+    "u": "http://www.lapoliticaonline.com/0/buscar/index.vnc?id={{{s}}}"
+  },
+  {
+    "d": "www.laptopspirit.fr",
+    "s": "LaptopSpirit",
+    "t": "lps",
+    "u": "http://www.laptopspirit.fr/search/{{{s}}}"
+  },
+  {
+    "d": "www.laquadrature.net",
+    "s": "La Quadrature du Net",
+    "t": "lqdn",
+    "u": "https://www.laquadrature.net/fr/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "forum.linuxquimper.org",
+    "s": "Linux Quimper",
+    "t": "lq",
+    "u": "https://forum.linuxquimper.org/search?q={{{s}}}"
+  },
+  {
+    "d": "liquipedia.net",
+    "s": "Liquipedia",
+    "t": "lqpcs",
+    "u": "https://liquipedia.net/counterstrike/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wiki.linuxquestions.org",
+    "s": "Linux Questions Wiki",
+    "t": "lqw",
+    "u": "http://wiki.linuxquestions.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.lrb.co.uk",
+    "s": "The London Review of Books",
+    "t": "lrb",
+    "u": "http://www.lrb.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "de.langenscheidt.com",
+    "s": "Langenscheid dictionary German-Swedish",
+    "t": "ls.de-sv",
+    "u": "http://de.langenscheidt.com/deutsch-schwedisch/search?term={{{s}}}&q_cat=%2Fdeutsch-schwedisch%2F"
+  },
+  {
+    "d": "lasombradelhelicoptero.com",
+    "s": "La sombra del helicóptero",
+    "t": "lsdh",
+    "u": "https://lasombradelhelicoptero.com/?s={{{s}}}"
+  },
+  {
+    "d": "librarysearch.lse.ac.uk",
+    "s": "LSE Library ",
+    "t": "lselib",
+    "u": "https://librarysearch.lse.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=CSCOP_ALL&sortby=rank&vid=44LSE_VU1"
+  },
+  {
+    "d": "linuxsecurity.expert",
+    "s": "Linux Security Expert",
+    "t": "lse",
+    "u": "https://linuxsecurity.expert/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.lsf.com.ar",
+    "s": "Librerías Santa Fe",
+    "t": "lsf",
+    "u": "http://www.lsf.com.ar/resulta.aspx?key={{{s}}}"
+  },
+  {
+    "d": "www.lazada.sg",
+    "s": "Lazada Singapore",
+    "t": "lsg",
+    "u": "http://www.lazada.sg/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "search.letssingit.com",
+    "s": "Let's sing it",
+    "t": "lsi",
+    "u": "http://search.letssingit.com/cgi-exe/am.cgi?a=search&l=archive&typeid=2&s={{{s}}}"
+  },
+  {
+    "d": "littlesis.org",
+    "s": "LittleSis",
+    "t": "ls",
+    "u": "http://littlesis.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.lspace.org",
+    "s": "L-Space",
+    "t": "lspace",
+    "u": "http://www.lspace.org/cgi-imps/perlfect/search/search.pl?q={{{s}}}"
+  },
+  {
+    "d": "lsr.di.unimi.it",
+    "s": "LilyPond Snippet Repository",
+    "t": "lsr",
+    "u": "http://lsr.di.unimi.it/LSR/Search?q={{{s}}}"
+  },
+  {
+    "d": "de.langenscheidt.com",
+    "s": "Langenscheid dictionary Swedish-German",
+    "t": "ls.sv",
+    "u": "http://de.langenscheidt.com/schwedisch-deutsch/search?term={{{s}}}&q_cat=%2Fschwedisch-deutsch%2F"
+  },
+  {
+    "d": "liquipedia.net",
+    "s": "Liquipedia Starcraft 2",
+    "t": "lstarcraft",
+    "u": "https://liquipedia.net/starcraft2/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.lta.org.uk",
+    "s": "LTA",
+    "t": "lta",
+    "u": "https://www.lta.org.uk/search-results/?q={{{s}}}"
+  },
+  {
+    "d": "www.letras.mus.br",
+    "s": "Letras BR",
+    "t": "ltb",
+    "u": "https://www.letras.mus.br/?q={{{s}}} "
+  },
+  {
+    "d": "litecoin.holytransaction.com",
+    "s": "Litecoin Holy Transaction",
+    "t": "ltc",
+    "u": "https://litecoin.holytransaction.com/address/{{{s}}}"
+  },
+  {
+    "d": "www.larousse.fr",
+    "s": "Larousse",
+    "t": "ltfr",
+    "u": "https://www.larousse.fr/dictionnaires/italien-francais/{{{s}}}"
+  },
+  {
+    "d": "www.librarything.com",
+    "s": "LibraryThing",
+    "t": "lt",
+    "u": "https://www.librarything.com/search.php?searchtype=work&search={{{s}}}"
+  },
+  {
+    "d": "www.linguee.es",
+    "s": "Linguee",
+    "t": "ltrans",
+    "u": "https://www.linguee.es/espanol-ingles/search?&query={{{s}}}"
+  },
+  {
+    "d": "letterboxd.com",
+    "s": "Letterboxd",
+    "t": "ltr",
+    "u": "http://letterboxd.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.latoilescoute.net",
+    "s": "LaToileScoute",
+    "t": "lts",
+    "u": "http://www.latoilescoute.net/spip.php?page=recherche&recherche={{{s}}} "
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LinusTechTips Forum",
+    "t": "lttforum",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Alinustechtips.com"
+  },
+  {
+    "d": "linustechtips.com",
+    "s": "LinusTechTips Forum",
+    "t": "ltt",
+    "u": "https://linustechtips.com/main/search/?&q={{{s}}}"
+  },
+  {
+    "d": "lambda-the-ultimate.org",
+    "s": "Lambda the Ultimate",
+    "t": "ltu",
+    "u": "http://lambda-the-ultimate.org/search/node/{{{s}}}"
+  },
+  {
+    "d": "search.lib.latrobe.edu.au",
+    "s": "La Trobe University Library",
+    "t": "ltulib",
+    "u": "http://search.lib.latrobe.edu.au/primo_library/libweb/action/dlSearch.do?vid=LATROBE&institution=LATROBE&search_scope=All&query=any,contains, {{{s}}} "
+  },
+  {
+    "d": "lt.wikipedia.org",
+    "s": "Lithuanian Wikipedia",
+    "t": "ltwiki",
+    "u": "https://lt.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.lua.org",
+    "s": "Lua 5.1 Documentation",
+    "t": "luadoc51",
+    "u": "https://www.lua.org/manual/5.1/manual.html#pdf-{{{s}}}"
+  },
+  {
+    "d": "www.lua.org",
+    "s": "Lua 5.2 Documentation",
+    "t": "luadoc52",
+    "u": "https://www.lua.org/manual/5.2/manual.html#pdf-{{{s}}}"
+  },
+  {
+    "d": "www.lua.org",
+    "s": "Lua 5.3 Documentation",
+    "t": "luadoc53",
+    "u": "https://www.lua.org/manual/5.3/manual.html#pdf-{{{s}}}"
+  },
+  {
+    "d": "luaforge.net",
+    "s": "LuaForge",
+    "t": "luaforge",
+    "u": "http://luaforge.net/search/?type_of_search=soft&words={{{s}}}&Search=Search"
+  },
+  {
+    "d": "luarocks.org",
+    "s": "LuaRocks",
+    "t": "luarocks",
+    "u": "https://luarocks.org/search?q={{{s}}}"
+  },
+  {
+    "d": "lubimyczytac.pl",
+    "s": "lubimyczytac",
+    "t": "lubimyczytac",
+    "u": "http://lubimyczytac.pl/szukaj/ksiazki?phrase={{{s}}}"
+  },
+  {
+    "d": "lubuntu.me",
+    "s": "Lubuntu.me",
+    "t": "lubuntu",
+    "u": "http://lubuntu.me/?s={{{s}}}"
+  },
+  {
+    "d": "de.lush.com",
+    "s": "Lush",
+    "t": "luch",
+    "u": "https://de.lush.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Lucire",
+    "t": "lucire",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Alucire.com"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Feeling Lucky",
+    "t": "lucky",
+    "u": "http://www.google.com/search?q={{{s}}}&btnI"
+  },
+  {
+    "d": "ludopedia.com.br",
+    "s": "Ludopedia",
+    "t": "ludo",
+    "u": "http://ludopedia.com.br/search?search={{{s}}}"
+  },
+  {
+    "d": "ludopedia.com.br",
+    "s": "Ludopedia",
+    "t": "ludopedia",
+    "u": "http://ludopedia.com.br/search?search={{{s}}}"
+  },
+  {
+    "d": "ludwig.guru",
+    "s": "Ludwig",
+    "t": "ludwig",
+    "u": "https://ludwig.guru/s/{{{s}}} "
+  },
+  {
+    "d": "lugatim.com",
+    "s": "Kubbealtı Lugati",
+    "t": "lugatım",
+    "u": "http://lugatim.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.lugatim.com",
+    "s": "Kubbealtı Lugatı",
+    "t": "lugat",
+    "u": "http://www.lugatim.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.lukol.com",
+    "s": "Lukol",
+    "t": "lukol",
+    "u": "http://www.lukol.com/s.php?q={{{s}}}"
+  },
+  {
+    "d": "www.liberty.edu",
+    "s": "Liberty University",
+    "t": "lu",
+    "u": "https://www.liberty.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.lulu.com",
+    "s": "Lulu",
+    "t": "lulu",
+    "u": "https://www.lulu.com/shop/search.ep?keyWords={{{s}}}"
+  },
+  {
+    "d": "www.lumas.de",
+    "s": "Lumas",
+    "t": "lumas",
+    "u": "https://www.lumas.de/search/?q={{{s}}}"
+  },
+  {
+    "d": "lumendatabase.org",
+    "s": "LumenDatabase",
+    "t": "lumen",
+    "u": "http://lumendatabase.org/notices/search?utf8=✓&term={{{s}}}"
+  },
+  {
+    "d": "avr.myluna.de",
+    "s": "Luna (AVR)",
+    "t": "lunaavr",
+    "u": "http://avr.myluna.de/doku.php?do=search&id={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "(DuckDuckGo) Agência Lupa Fact-Checking Brasil",
+    "t": "lupa",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Apiaui.folha.uol.com.br+inurl%3Alupa&ia=web"
+  },
+  {
+    "d": "lurkmore.to",
+    "s": "Lurkmoar",
+    "t": "lurk",
+    "u": "http://lurkmore.to/index.php?search={{{s}}}"
+  },
+  {
+    "d": "lurkmore.to",
+    "s": "Lurkmore",
+    "t": "lurkmore",
+    "u": "http://lurkmore.to/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.bibleserver.com",
+    "s": "BibleServer Lutherbibel 2017",
+    "t": "lut",
+    "u": "https://www.bibleserver.com/text/LUT/{{{s}}}"
+  },
+  {
+    "d": "www.luther.edu",
+    "s": "luther.edu",
+    "t": "luther",
+    "u": "https://www.luther.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "lutris.net",
+    "s": "Lutris - Open Gaming Platform",
+    "t": "lutris",
+    "u": "https://lutris.net/games/?q={{{s}}}"
+  },
+  {
+    "d": "www.luxflair.de",
+    "s": "Luxflair",
+    "t": "luxflair",
+    "u": "https://www.luxflair.de/search?sSearch={{{s}}} "
+  },
+  {
+    "d": "lux.leuphana.de",
+    "s": "Lux Leuphana Bibliothek",
+    "t": "lux",
+    "u": "https://lux.leuphana.de/vufind/Search/Results?lookfor={{{s}}}&submit=Suchen"
+  },
+  {
+    "d": "neoluxor.cz",
+    "s": "Knihkupectví NeoLuxor",
+    "t": "luxor",
+    "u": "http://neoluxor.cz/vyhledavani/?query={{{s}}}"
+  },
+  {
+    "d": "luzme.com",
+    "s": "Luzme",
+    "t": "luzme",
+    "u": "http://luzme.com/search_all?keyword={{{s}}}"
+  },
+  {
+    "d": "www.lavocedellelotte.it",
+    "s": "lavocedellelotte.it",
+    "t": "lvdl",
+    "u": "https://www.lavocedellelotte.it/it/?s={{{s}}}"
+  },
+  {
+    "d": "www.livermore.lib.ca.us",
+    "s": "Livermore library",
+    "t": "lv",
+    "u": "http://www.livermore.lib.ca.us/search/a?searchtype=X&SORT=D&searchscope=7&searcharg={{{s}}}"
+  },
+  {
+    "d": "la-vache-libre.org",
+    "s": "La vache libre",
+    "t": "lvl",
+    "u": "http://la-vache-libre.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.linuxvoice.com",
+    "s": "Linux Voice",
+    "t": "lvmag",
+    "u": "http://www.linuxvoice.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.lingvolive.com",
+    "s": "Lingvo Live English Russian",
+    "t": "lvoenru",
+    "u": "https://www.lingvolive.com/en-us/translate/en-ru/{{{s}}}"
+  },
+  {
+    "d": "ludwig.guru",
+    "s": "https://ludwig.guru/",
+    "t": "lwg",
+    "u": "https://ludwig.guru/s/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "LWJGL",
+    "t": "lwjgl",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:http://lwjgl.org/javadoc/"
+  },
+  {
+    "d": "lesswrong.com",
+    "s": "LessWrong",
+    "t": "lw",
+    "u": "http://lesswrong.com/search/results?cx=015839050583929870010%3A-802ptn4igi&cof=FORID%3A11&ie=UTF-8&sa=Search&siteurl=lesswrong.com%2F&q={{{s}}}"
+  },
+  {
+    "d": "lwn.net",
+    "s": "LWN.net",
+    "t": "lwn",
+    "u": "https://lwn.net/Search/DoSearch?words={{{s}}}"
+  },
+  {
+    "d": "learnxinyminutes.com",
+    "s": "learnxinyminutes.com",
+    "t": "lxiny",
+    "u": "https://learnxinyminutes.com/docs/{{{s}}}"
+  },
+  {
+    "d": "lxle.net",
+    "s": "LXLE Linux",
+    "t": "lxle",
+    "u": "http://lxle.net/forum/#/search?Search={{{s}}}"
+  },
+  {
+    "d": "www.lexico.com",
+    "s": "Lexico (Powered by Oxford)",
+    "t": "lx",
+    "u": "https://www.lexico.com/definition/{{{s}}}"
+  },
+  {
+    "d": "marc.info",
+    "s": "MARC Linux Kernel",
+    "t": "lxml",
+    "u": "http://marc.info/?l=linux-kernel&w=2&r=1&s={{{s}}}&q=b"
+  },
+  {
+    "d": "elixir.bootlin.com",
+    "s": "Linux Cross Reference",
+    "t": "lxr",
+    "u": "http://elixir.bootlin.com/linux/latest/ident/{{{s}}}"
+  },
+  {
+    "d": "search.lycos.com",
+    "s": "Lycos",
+    "t": "lycos",
+    "u": "http://search.lycos.com/web?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "forums.Bodyrecomposition.com",
+    "t": "lyle",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:forums.lylemcdonald.com"
+  },
+  {
+    "d": "www.lynda.com",
+    "s": "Lynda.com",
+    "t": "lynda",
+    "u": "http://www.lynda.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Lyrical Nonsense",
+    "t": "lyrical",
+    "u": "http://duckduckgo.com/?q=site%3Alyrical-nonsense.com+{{{s}}}"
+  },
+  {
+    "d": "lyricsing.com",
+    "s": "Hindi Lyrics",
+    "t": "lyricsing",
+    "u": "https://lyricsing.com/search/{{{s}}}"
+  },
+  {
+    "d": "lyrics.wikia.com",
+    "s": "Lyric Wiki",
+    "t": "lyrics",
+    "u": "http://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "lyricstranslate.com",
+    "s": "Lyrics Translate",
+    "t": "lyricstranslate",
+    "u": "http://lyricstranslate.com/en/site-search?query={{{s}}}"
+  },
+  {
+    "d": "www.lyricstune.in",
+    "s": "LyricsTUNE",
+    "t": "lyricstune",
+    "u": "https://www.lyricstune.in/search?q={{{s}}}"
+  },
+  {
+    "d": "lyrics.wikia.com",
+    "s": "LyricWiki",
+    "t": "lyricswiki",
+    "u": "http://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "lyrics.wikia.com",
+    "s": "LyricWiki",
+    "t": "lyricwiki",
+    "u": "http://lyrics.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "lyriki.com",
+    "s": "Lyriki",
+    "t": "lyriki",
+    "u": "http://lyriki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.lyrster.com",
+    "s": "Lyrster",
+    "t": "lyrster",
+    "u": "http://www.lyrster.com/songs-lyrics/{{{s}}}.html"
+  },
+  {
+    "d": "www.lazada.com.ph",
+    "s": "Lazada Philippines",
+    "t": "lzd",
+    "u": "http://www.lazada.com.ph/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.lazada.com.my",
+    "s": "Lazada Malaysia",
+    "t": "LzdMy",
+    "u": "http://www.lazada.com.my/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.lazada.com.ph",
+    "s": "Lazada",
+    "t": "lzdph",
+    "u": "https://www.lazada.com.ph/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.lazada.sg",
+    "s": "Lazada Singapore",
+    "t": "lzdsg",
+    "u": "http://www.lazada.sg/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.lazada.co.th",
+    "s": "Lazada Thailand",
+    "t": "lzdth",
+    "u": "http://www.lazada.co.th/catalog/?q={{{s}}}"
+  }
+]

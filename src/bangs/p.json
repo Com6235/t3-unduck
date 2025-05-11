@@ -1,0 +1,4406 @@
+[
+  {
+    "d": "pitchfork.com",
+    "s": "Pitchfork Media",
+    "t": "p4k",
+    "u": "http://pitchfork.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "p5js.org",
+    "s": "p5.js Reference",
+    "t": "p5",
+    "u": "https://p5js.org/reference/#/p5/{{{s}}}"
+  },
+  {
+    "d": "modules.perl6.org",
+    "s": "Perl 6 Modules Directory",
+    "t": "p6mod",
+    "u": "https://modules.perl6.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.prothomalo.com",
+    "s": "Prothom Alo (Bangla)",
+    "t": "pabn",
+    "u": "https://www.prothomalo.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "Arch Linux Package Database",
+    "t": "pac",
+    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged="
+  },
+  {
+    "d": "www.pacificpkg.com",
+    "s": "Pacific Packaging Products",
+    "t": "pacific",
+    "u": "https://www.pacificpkg.com/search.php?kw={{{s}}}"
+  },
+  {
+    "d": "www.packagemapping.com",
+    "s": "PackageMapping",
+    "t": "package",
+    "u": "http://www.packagemapping.com/?action=track&tracknum={{{s}}}"
+  },
+  {
+    "d": "packagist.org",
+    "s": "Packagist",
+    "t": "packagist",
+    "u": "https://packagist.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "packers.com",
+    "s": "Packers",
+    "t": "packers",
+    "u": "http://packers.com/?={{{s}}}"
+  },
+  {
+    "d": "packetstormsecurity.com",
+    "s": "Packet Storm",
+    "t": "packet",
+    "u": "http://packetstormsecurity.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "packman.links2linux.org",
+    "s": "PackMan",
+    "t": "packman",
+    "u": "http://packman.links2linux.org/search?q={{{s}}}"
+  },
+  {
+    "d": "packagist.org",
+    "s": "Packagist",
+    "t": "pack",
+    "u": "https://packagist.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.packtpub.com",
+    "s": "Packt",
+    "t": "packt",
+    "u": "https://www.packtpub.com/all/?search={{{s}}} "
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "Arch Package Repo",
+    "t": "pacman",
+    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}"
+  },
+  {
+    "d": "www.pacogames.com",
+    "s": "Paco Games",
+    "t": "paco",
+    "u": "https://www.pacogames.com/search?q={{{s}}}"
+  },
+  {
+    "d": "pad.wikia.com",
+    "s": "Puzzle & Dragons Wiki",
+    "t": "pad",
+    "u": "http://pad.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "www.puzzledragonx.com",
+    "s": "Puzzle & Dragon Database",
+    "t": "padx",
+    "u": "http://www.puzzledragonx.com/en/search.asp?q={{{s}}}"
+  },
+  {
+    "d": "pagely.com",
+    "s": "Pagely",
+    "t": "pagely",
+    "u": "https://pagely.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.pagesjaunes.fr",
+    "s": "Pages Blanches",
+    "t": "pagesblanches",
+    "u": "https://www.pagesjaunes.fr/pagesblanches/recherche?quoiqui={{{s}}}"
+  },
+  {
+    "d": "www.pagesjaunes.fr",
+    "s": "Pages Jaunes",
+    "t": "pagesjaunes",
+    "u": "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={{{s}}}&monochamp={{{s}}}"
+  },
+  {
+    "d": "developers.google.com",
+    "s": "Google PageSpeed insights",
+    "t": "pagespeed",
+    "u": "https://developers.google.com/speed/pagespeed/insights/?url={{{s}}}"
+  },
+  {
+    "d": "www.paginegialle.it",
+    "s": "Pagine Gialle",
+    "t": "pagine",
+    "u": "http://www.paginegialle.it/pgol/4-{{{s}}}"
+  },
+  {
+    "d": "www.pai.pt",
+    "s": "PaginasAmarelas.pt",
+    "t": "pai",
+    "u": "http://www.pai.pt/q/business/advanced/what/{{{s}}}/?contentErrorLinkEnabled=true"
+  },
+  {
+    "d": "encore.palatinelibrary.org",
+    "s": "Palatine Public Library",
+    "t": "palatinelibrary",
+    "u": "http://encore.palatinelibrary.org/iii/encore/search?target={{{s}}}"
+  },
+  {
+    "d": "forum.palemoon.org",
+    "s": "Pale Moon forum",
+    "t": "palemoon",
+    "u": "http://forum.palemoon.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "paleoleap.com",
+    "s": "Paleo Leap",
+    "t": "paleoleap",
+    "u": "http://paleoleap.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.paleohacks.com",
+    "s": "Paleo Hacks",
+    "t": "paleo",
+    "u": "https://www.paleohacks.com/searches?utf8=%E2%9C%93&query={{{s}}}&commit=Search"
+  },
+  {
+    "d": "www.ilpalio.siena.it",
+    "s": "Archivio del Palio di Siena",
+    "t": "palio",
+    "u": "http://www.ilpalio.siena.it/5/cerca.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.paloaltonetworks.com",
+    "s": "Palo Alto Networks Documentation",
+    "t": "paloalto",
+    "u": "https://www.paloaltonetworks.com/documentation/document-search.html?q={{{s}}}"
+  },
+  {
+    "d": "pandalook.com",
+    "s": "Pandalook",
+    "t": "panda",
+    "u": "http://pandalook.com/search?controller=search&search_query={{{s}}} "
+  },
+  {
+    "d": "pandas.pydata.org",
+    "s": "Pandas",
+    "t": "pandas",
+    "u": "http://pandas.pydata.org/pandas-docs/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.pandora.com",
+    "s": "Pandora",
+    "t": "pandora",
+    "u": "https://www.pandora.com/search/{{{s}}}/all"
+  },
+  {
+    "d": "www.theideaskitchen.co.uk",
+    "s": "The Ideas Kitchen",
+    "t": "panideas",
+    "u": "https://www.theideaskitchen.co.uk/search/-{{{s}}}"
+  },
+  {
+    "d": "panlexicon.com",
+    "s": "Panlexicon",
+    "t": "pan",
+    "u": "https://panlexicon.com/?q={{{s}}} "
+  },
+  {
+    "d": "mojepanstwo.pl",
+    "s": "Moje Państwo",
+    "t": "panstwo",
+    "u": "https://mojepanstwo.pl/?q={{{s}}}"
+  },
+  {
+    "d": "pantip.com",
+    "s": "Pantip.com",
+    "t": "pantip",
+    "u": "https://pantip.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pantone.com",
+    "s": "Pantone Color Finder",
+    "t": "pantone",
+    "u": "https://www.pantone.com/color-finder?q={{{s}}}"
+  },
+  {
+    "d": "www.pseudomonas.com",
+    "s": "Pseudomonas Genome Database",
+    "t": "pao1",
+    "u": "http://www.pseudomonas.com/searchAnnotation.do?strain_ids=107&field1=commonNameFields&input1={{{s}}}"
+  },
+  {
+    "d": "www.paokfc.gr",
+    "s": "Paok FC",
+    "t": "paokfc",
+    "u": "http://www.paokfc.gr/en/?s={{{s}}}"
+  },
+  {
+    "d": "www.paginasamarillas.es",
+    "s": "Páginas Amarillas",
+    "t": "pa",
+    "u": "https://www.paginasamarillas.es/search/all-ac/all-ma/all-pr/all-is/all-ci/all-ba/all-pu/all-nc/1?what={{{s}}}"
+  },
+  {
+    "d": "paperity.org",
+    "s": "Paperity - first open science aggregator",
+    "t": "paper",
+    "u": "https://paperity.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.papersera.net",
+    "s": "Il Forum del Papersera",
+    "t": "papersera",
+    "u": "http://www.papersera.net/cgi-bin/yabb/YaBB.cgi{{{s}}} "
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar",
+    "t": "papers",
+    "u": "http://scholar.google.com/scholar?as_ylo=2000&q={{{s}}}&as_sdt=1,5&as_vis=1&num=100"
+  },
+  {
+    "d": "www.papskubber.dk",
+    "s": "Papskubber.dk",
+    "t": "pap",
+    "u": "http://www.papskubber.dk/?q={{{s}}}&s=search&submitbutton=S%C3%B8g"
+  },
+  {
+    "d": "portableapps.com",
+    "s": "PortableApps.com",
+    "t": "papps",
+    "u": "http://portableapps.com/search/node/{{{s}}}%20type%3Aapp"
+  },
+  {
+    "d": "www.parabola.nu",
+    "s": "Parabola GNU/Linux-libre",
+    "t": "parabola",
+    "u": "https://www.parabola.nu/packages/?q={{{s}}}"
+  },
+  {
+    "d": "wiki.parabola.nu",
+    "s": "Parabola Wiki",
+    "t": "parabolaw",
+    "u": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.paradigit.nl",
+    "s": "Paradigit",
+    "t": "paradigit",
+    "u": "https://www.paradigit.nl/zoekresultaten/?tn_q={{{s}}}"
+  },
+  {
+    "d": "wiki.parabola.nu",
+    "s": "Parabola GNU/Linux-libre Wiki",
+    "t": "parawiki",
+    "u": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.parcello.org",
+    "s": "Parcello Sendungsverfolgung - Parcel Tracking",
+    "t": "parcello",
+    "u": "https://www.parcello.org/tracking?tid={{{s}}}"
+  },
+  {
+    "d": "parcelsapp.com",
+    "s": "Parcels",
+    "t": "parcels",
+    "u": "http://parcelsapp.com/en/tracking/{{{s}}}"
+  },
+  {
+    "d": "www.theparisreview.org",
+    "s": "The Paris Review",
+    "t": "parisreview",
+    "u": "http://www.theparisreview.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.parker.com",
+    "s": "www.parker.com",
+    "t": "parker",
+    "u": "https://www.parker.com/portal/site/PARKER/menuitem.c9e5838e8a4c0934704b7b10237ad1ca/?selectCategory=all&vgnextfmt=EN&vgnextoid=941b13fc0fa14110VgnVCM10000032a71dacRCRD&newSearch=1&searchbox={{{s}}}"
+  },
+  {
+    "d": "www.parkwhiz.com",
+    "s": "ParkWhiz",
+    "t": "parking",
+    "u": "http://www.parkwhiz.com/search/?destination={{{s}}}"
+  },
+  {
+    "d": "www.parkrun.com",
+    "s": "Parkrun",
+    "t": "parkrun",
+    "u": "https://www.parkrun.com/search?cx=partner-pub-2762663671557547%3A1576658957&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.parkrun.com%2F&ref=&ss=631j112681j5"
+  },
+  {
+    "d": "community.particle.io",
+    "s": "Particle Community",
+    "t": "particleforums",
+    "u": "https://community.particle.io/users/{{{s}}}/"
+  },
+  {
+    "d": "partsdr.com",
+    "s": "Parts Dr",
+    "t": "partsdr",
+    "u": "http://partsdr.com/model-number-search/?query={{{s}}}"
+  },
+  {
+    "d": "parts.io",
+    "s": "Parts.io",
+    "t": "parts",
+    "u": "http://parts.io/search/term-{{{s}}} "
+  },
+  {
+    "d": "www.pasetrad.com",
+    "s": "Pasetrad",
+    "t": "pasetrad",
+    "u": "http://www.pasetrad.com/search-engine.html?#gsc.tab=0&gsc.q={{{s}}}&gsc.sort=="
+  },
+  {
+    "d": "passapalavra.info",
+    "s": "Passa Palavra",
+    "t": "passapalavra",
+    "u": "http://passapalavra.info/?s={{{s}}}"
+  },
+  {
+    "d": "www.passmark.com",
+    "s": "passmark.com",
+    "t": "passmark",
+    "u": "http://www.passmark.com/search/zoomsearch.php?zoom_query={{{s}}}&search=Search"
+  },
+  {
+    "d": "www.passwird.com",
+    "s": "passwird.com",
+    "t": "pass",
+    "u": "http://www.passwird.com/search?query={{{s}}}"
+  },
+  {
+    "d": "pastebin.com",
+    "s": "pastebin",
+    "t": "pastebin",
+    "u": "http://pastebin.com/search?cx=partner-pub-4339714761096906%3A1qhz41g8k4m&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "patents.google.com",
+    "s": "Google Patents",
+    "t": "patent",
+    "u": "https://patents.google.com/?oq={{{s}}}"
+  },
+  {
+    "d": "www.pauker.at",
+    "s": "Pauker.at Dictionary (German-Finnish)",
+    "t": "pat.fi",
+    "u": "http://www.pauker.at/pauker/DE_DE/FI/wb/?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "d": "patft.uspto.gov",
+    "s": "US Patent Database Search",
+    "t": "patft",
+    "u": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&OS=&RS=%22{{{s}}}%22&Query=%22{{{s}}}%22&TD=&Srch1=%22{{{s}}}%22&NextList1=xxx"
+  },
+  {
+    "d": "patents.google.com",
+    "s": "patents.google.com",
+    "t": "patg",
+    "u": "https://patents.google.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.patheos.com",
+    "s": "Patheos",
+    "t": "patheos",
+    "u": "https://www.patheos.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pathe.nl",
+    "s": "Pathe",
+    "t": "pathe",
+    "u": "https://www.pathe.nl/Zoek?q={{{s}}}"
+  },
+  {
+    "d": "pathfinderwiki.com",
+    "s": "Pathfinder Wiki",
+    "t": "pathfinderwiki",
+    "u": "https://pathfinderwiki.com/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "paizo.com",
+    "s": "Pathfinder Reference Document",
+    "t": "pathsrd",
+    "u": "http://paizo.com/search?q={{{s}}}&what=prd"
+  },
+  {
+    "d": "www.wholesalehome.com",
+    "s": "DJ Direct Inc.",
+    "t": "pathway",
+    "u": "https://www.wholesalehome.com/collections/outdoor-{{{s}}}-lighting"
+  },
+  {
+    "d": "patient.info",
+    "s": "Patient Info",
+    "t": "patientinfo",
+    "u": "https://patient.info/search.asp?searchterm={{{s}}}"
+  },
+  {
+    "d": "patient.info",
+    "s": "Patient Info",
+    "t": "patient",
+    "u": "https://patient.info/search.asp?searchterm={{{s}}}&searchcoll=All"
+  },
+  {
+    "d": "patient.info",
+    "s": "Patient.co.uk",
+    "t": "patientuk",
+    "u": "https://patient.info/search.asp?searchterm={{{s}}}"
+  },
+  {
+    "d": "www.pauker.at",
+    "s": "pauker.at Dictionary (Mobile)",
+    "t": "patm",
+    "u": "http://www.pauker.at/app.php/DE_DE/?s={{{s}}}#suche"
+  },
+  {
+    "d": "www.pauker.at",
+    "s": "pauker.at Dictionary (German-English)",
+    "t": "pat",
+    "u": "http://www.pauker.at/pauker/DE_DE/EN/wb?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "d": "www.pauker.at",
+    "s": "Pauker.at",
+    "t": "pat.pt",
+    "u": "http://www.pauker.at/pauker/DE_DE/PT/wb/?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "d": "www.patreon.com",
+    "s": "Patreon",
+    "t": "patreon",
+    "u": "http://www.patreon.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.pauker.at",
+    "s": "pauker.at Dictionary (German-Swedish)",
+    "t": "pat.sv",
+    "u": "http://www.pauker.at/pauker/DE_DE/SE/wb?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "d": "www.pauker.at",
+    "s": "Pauker",
+    "t": "pauker",
+    "u": "http://www.pauker.at/pauker/DE_EN/EN/wb/?modus=&suche={{{s}}}&page=1#"
+  },
+  {
+    "d": "referenceworks.brillonline.com",
+    "s": "Der Neue Pauly (Brill)",
+    "t": "pauly",
+    "u": "http://referenceworks.brillonline.com/search?s.q={{{s}}}&s.f.s2_parent=s.f.book.der-neue-pauly&search-go=Search"
+  },
+  {
+    "d": "wiki.archusers.ir",
+    "s": "Persian ArchWiki",
+    "t": "paw",
+    "u": "http://wiki.archusers.ir/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.paxinasgalegas.es",
+    "s": "Páxinas Galegas",
+    "t": "paxgal",
+    "u": "http://www.paxinasgalegas.es/resultados.aspx?tipo=0&texto={{{s}}}"
+  },
+  {
+    "d": "payday.wikia.com",
+    "s": "Payday Wiki",
+    "t": "payday",
+    "u": "http://payday.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.paypal.com",
+    "s": "PayPal",
+    "t": "paypal",
+    "u": "https://www.paypal.com/us/selfhelp/search?q={{{s}}}&helpSearchButton=Search"
+  },
+  {
+    "d": "www.payscale.com",
+    "s": "Payscale",
+    "t": "payscale",
+    "u": "http://www.payscale.com/rcsearch.aspx?category=&str={{{s}}}&CountryName=United+States&SourceId=%2Fresearch%2FUS%2FCountry%3DUnited_States%2FSalary"
+  },
+  {
+    "d": "paytmmall.com",
+    "s": "PaytmMall",
+    "t": "paytmmall",
+    "u": "https://paytmmall.com/shop/search?q={{{s}}}&from=organic&child_site_id=6&site_id=2&brand=16051"
+  },
+  {
+    "d": "paytm.com",
+    "s": "PayTM",
+    "t": "paytm",
+    "u": "https://paytm.com/shop/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.probuilds.net",
+    "s": "Probuilds Champion",
+    "t": "pbc",
+    "u": "https://www.probuilds.net/champions/details/{{{s}}}"
+  },
+  {
+    "d": "pbfcomics.com",
+    "s": "Perry Bible Fellowship Comics",
+    "t": "pbf",
+    "u": "http://pbfcomics.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.potterybarnkids.com",
+    "s": "Pottery Barn Kids",
+    "t": "pbkids",
+    "u": "http://www.potterybarnkids.com/search/results.html?words={{{s}}}"
+  },
+  {
+    "d": "www.pagesjaunes.fr",
+    "s": "pages blanches",
+    "t": "pbl",
+    "u": "http://www.pagesjaunes.fr/pagesblanches/recherche?quoiqui={{{s}}}&proximite=0"
+  },
+  {
+    "d": "pbolo.com",
+    "s": "PBolo",
+    "t": "pbolo",
+    "u": "https://pbolo.com/?s={{{s}}}"
+  },
+  {
+    "d": "rpm.pbone.net",
+    "s": "RPM.pbone.net",
+    "t": "pbone",
+    "u": "http://rpm.pbone.net/index.php3?stat=3&search={{{s}}}&Search.x=0&Search.y=0&simple=1&srodzaj=1"
+  },
+  {
+    "d": "pinboard.in",
+    "s": "Pinboard",
+    "t": "pb",
+    "u": "http://pinboard.in/search/?query={{{s}}}&mine=Search+Mine"
+  },
+  {
+    "d": "www.pbs.org",
+    "s": "PBS",
+    "t": "pbs",
+    "u": "https://www.pbs.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.paperbackswap.com",
+    "s": "PaperBackSwap",
+    "t": "pbswap",
+    "u": "http://www.paperbackswap.com/book/browser.php?k={{{s}}}"
+  },
+  {
+    "d": "pinboard.in",
+    "s": "Pinboard.in (Tag)",
+    "t": "pbtag",
+    "u": "https://pinboard.in/t:{{{s}}} "
+  },
+  {
+    "d": "www.pbtech.co.nz",
+    "s": "PB Tech",
+    "t": "pbtech",
+    "u": "https://www.pbtech.co.nz/search?sf={{{s}}}"
+  },
+  {
+    "d": "www.pbteen.com",
+    "s": "PBteen",
+    "t": "pbteen",
+    "u": "http://www.pbteen.com/search/results.html?words={{{s}}}"
+  },
+  {
+    "d": "polandball.wikia.com",
+    "s": "Polandball Wiki",
+    "t": "pbwiki",
+    "u": "https://polandball.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "ecshweb.pchome.com.tw",
+    "s": "PChome 24h",
+    "t": "pc24",
+    "u": "http://ecshweb.pchome.com.tw/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.planet-casio.com",
+    "s": "Planète Casio",
+    "t": "pcasio",
+    "u": "https://www.planet-casio.com/Fr/aide/recherche.php?q={{{s}}}"
+  },
+  {
+    "d": "catalog.princeton.edu",
+    "s": "Princeton University Library Catalog",
+    "t": "pcat",
+    "u": "https://catalog.princeton.edu/catalog?utf8=✓&search_field=all_fields&q={{{s}}}"
+  },
+  {
+    "d": "search.pccasegear.com",
+    "s": "PCCaseGear",
+    "t": "pccg",
+    "u": "http://search.pccasegear.com/search#w={{{s}}} "
+  },
+  {
+    "d": "www.pccomponentes.com",
+    "s": "PcComponentes",
+    "t": "pccomponentes",
+    "u": "https://www.pccomponentes.com/buscar/?query={{{s}}}"
+  },
+  {
+    "d": "www.pccomponentes.com",
+    "s": "PcComponentes",
+    "t": "pcco",
+    "u": "https://www.pccomponentes.com/buscar/?query={{{s}}}"
+  },
+  {
+    "d": "www.pcconnection.com",
+    "s": "PC Connection",
+    "t": "pcc",
+    "u": "http://www.pcconnection.com/IPA/Shop/Product/Search.htm?SearchType=1&term={{{s}}}"
+  },
+  {
+    "d": "www.pcdiga.com",
+    "s": "PCDiga",
+    "t": "pcd",
+    "u": "https://www.pcdiga.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "pcgamingwiki.com",
+    "s": "PCGamingWiki",
+    "t": "pcgamingwiki",
+    "u": "http://pcgamingwiki.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.pcgamesn.com",
+    "s": "PCGamesN",
+    "t": "pcgn",
+    "u": "https://www.pcgamesn.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.pcgamer.com",
+    "s": "PC Gamer",
+    "t": "pcg",
+    "u": "https://www.pcgamer.com/search/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.pcguia.pt",
+    "s": "http://www.pcguia.pt",
+    "t": "pcguia",
+    "u": "http://www.pcguia.pt/?s={{{s}}}"
+  },
+  {
+    "d": "pcgamingwiki.com",
+    "s": "PCGamingWiki",
+    "t": "pcgw",
+    "u": "https://pcgamingwiki.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "pch.com",
+    "s": "Publishers Clearing House",
+    "t": "pch",
+    "u": "http://pch.com/?={{{s}}}"
+  },
+  {
+    "d": "www.pcisecuritystandards.org",
+    "s": "https://www.pcisecuritystandards.org",
+    "t": "pcidss",
+    "u": "https://www.pcisecuritystandards.org/search/search.php?query={{{s}}}"
+  },
+  {
+    "d": "packagecontrol.io",
+    "s": "Package Control Sublime Text Package Manager",
+    "t": "pcio",
+    "u": "https://packagecontrol.io/search/{{{s}}}"
+  },
+  {
+    "d": "www.pcinpact.com",
+    "s": "PC INpact",
+    "t": "pci",
+    "u": "http://www.pcinpact.com/recherche?_search={{{s}}}"
+  },
+  {
+    "d": "www.peacocks.co.uk",
+    "s": "Peacocks UK",
+    "t": "pcks",
+    "u": "http://www.peacocks.co.uk/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "picclick.co.uk",
+    "s": "PicClick UK",
+    "t": "pclick",
+    "u": "https://picclick.co.uk/?q={{{s}}}"
+  },
+  {
+    "d": "www.parcello.org",
+    "s": "Parcello",
+    "t": "pclo",
+    "u": "https://www.parcello.org/tracking?tid={{{s}}}"
+  },
+  {
+    "d": "docs.pointclouds.org",
+    "s": "PCL Documentation",
+    "t": "pcl",
+    "u": "http://docs.pointclouds.org/trunk/search.php?query={{{s}}}"
+  },
+  {
+    "d": "www.pcmag.com",
+    "s": "PCMag",
+    "t": "pcmag",
+    "u": "http://www.pcmag.com/search_redirect/?qry={{{s}}}&searchSection=0&site=3"
+  },
+  {
+    "d": "www.pcmasters.de",
+    "s": "PCMasters.de",
+    "t": "pcmasters",
+    "u": "http://www.pcmasters.de/suche?search_keywords={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit PC Master Race",
+    "t": "pcmr",
+    "u": "https://www.reddit.com/r/pcmasterrace/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "d": "www.pccomponentes.com",
+    "s": "PC Componentes",
+    "t": "pcomp",
+    "u": "https://www.pccomponentes.com/buscar/?query={{{s}}}"
+  },
+  {
+    "d": "pcoo.gov.ph",
+    "s": "Presidential Communications Operations Office",
+    "t": "pcoo",
+    "u": "https://pcoo.gov.ph/?s={{{s}}}"
+  },
+  {
+    "d": "pcpartpicker.com",
+    "s": "PCPartPicker",
+    "t": "pcpartpicker",
+    "u": "http://pcpartpicker.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.pcper.com",
+    "s": "PC Perspective",
+    "t": "pcper",
+    "u": "http://www.pcper.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "pcpartpicker.com",
+    "s": "PcPartPicker",
+    "t": "pcpp",
+    "u": "http://pcpartpicker.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.presidentschoice.ca",
+    "s": "President's Choice",
+    "t": "pc",
+    "u": "http://www.presidentschoice.ca/en_CA/search-page.query@{{{s}}}.html"
+  },
+  {
+    "d": "www.procyclingstats.com",
+    "s": "Pro Cycling Stats",
+    "t": "pcs",
+    "u": "https://www.procyclingstats.com/search.php?term={{{s}}}"
+  },
+  {
+    "d": "wiki.pcsx2.net",
+    "s": "PCSX2",
+    "t": "pcsx2",
+    "u": "https://wiki.pcsx2.net/index.php?search={{{s}}}"
+  },
+  {
+    "d": "packagecontrol.io",
+    "s": "Package Control",
+    "t": "pctrl",
+    "u": "https://packagecontrol.io/search/{{{s}}}"
+  },
+  {
+    "d": "www.pcwelt.de",
+    "s": "PC-Welt",
+    "t": "pcwelt",
+    "u": "https://www.pcwelt.de/suche?searchStr={{{s}}}"
+  },
+  {
+    "d": "pcworld.bg",
+    "s": "PC World Bulgaria",
+    "t": "pcworldbg",
+    "u": "http://pcworld.bg/search/all/{{{s}}}"
+  },
+  {
+    "d": "www.pcworld.com",
+    "s": "PC World",
+    "t": "pcworld",
+    "u": "http://www.pcworld.com/search?qt={{{s}}}&tk=srch_top"
+  },
+  {
+    "d": "www.ebi.ac.uk",
+    "s": "PDB Europe",
+    "t": "pdbe",
+    "u": "https://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams={\"\"text\"\":[{\"\"value\"\":\"\"{{{s}}}\"\",\"\"condition1\"\":\"\"AND\"\",\"\"condition2\"\":\"\"Contains\"\"}]}"
+  },
+  {
+    "d": "www.rcsb.org",
+    "s": "Protein Data Bank",
+    "t": "pdb",
+    "u": "http://www.rcsb.org/pdb/search/navbarsearch.do?f=&q={{{s}}}"
+  },
+  {
+    "d": "podcastlist.ca",
+    "s": "Podcast List",
+    "t": "pdcstlst",
+    "u": "https://podcastlist.ca/?s={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "PDFs",
+    "t": "pdf",
+    "u": "/?q={{{s}}}+filetype:pdf"
+  },
+  {
+    "d": "www.printfriendly.com",
+    "s": "PrintFriendly & PDF",
+    "t": "pdfy",
+    "u": "https://www.printfriendly.com/print/?source=site&url={{{s}}}"
+  },
+  {
+    "d": "pocket.dict.cc",
+    "s": "Pocket dict.cc",
+    "t": "pdict.cc",
+    "u": "http://pocket.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.placedeslibraires.fr",
+    "s": "Place des Libraires",
+    "t": "pdl",
+    "u": "https://www.placedeslibraires.fr/listeliv.php?mots_recherche={{{s}}}&base=allbooks"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "PewDiePieSubmissions",
+    "t": "pdpreddit",
+    "u": "https://www.reddit.com/r/PewdiepieSubmissions/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "fedsearch.proquest.com",
+    "s": "ProQuest Dissertations & Theses Global",
+    "t": "pdqtglobal",
+    "u": "http://fedsearch.proquest.com/search/sru/pqdtglobal?operation=searchRetrieve&version=1.2&maximumRecords=30&query={{{s}}}"
+  },
+  {
+    "d": "pqdtopen.proquest.com",
+    "s": "ProQuest Dissertations & Theses Open",
+    "t": "pdqtopen",
+    "u": "https://pqdtopen.proquest.com/results.html?QryTxt={{{s}}}"
+  },
+  {
+    "d": "folkets-lexikon.csc.kth.se",
+    "s": "The People's Dictionary",
+    "t": "pd",
+    "u": "http://folkets-lexikon.csc.kth.se/folkets/folkets.en.html#lookup&{{{s}}}&0"
+  },
+  {
+    "d": "puzzledragonx.com",
+    "s": "Puzzle & Dragons Database",
+    "t": "pdx",
+    "u": "http://puzzledragonx.com/en/search.asp?q={{{s}}}&searchoption=1"
+  },
+  {
+    "d": "www.peapod.com",
+    "s": "Peapod",
+    "t": "peapod",
+    "u": "https://www.peapod.com/product-search/{{{s}}}"
+  },
+  {
+    "d": "pear.php.net",
+    "s": "PEAR - PHP Extension and Application Repository",
+    "t": "pear",
+    "u": "http://pear.php.net/search.php?in=packages&x=0&y=0&q={{{s}}}"
+  },
+  {
+    "d": "pecl.php.net",
+    "s": "PECL :: The PHP Extension Community Library",
+    "t": "pecl",
+    "u": "http://pecl.php.net/package-search.php?pkg_name={{{s}}}"
+  },
+  {
+    "d": "pective.com",
+    "s": "Pective",
+    "t": "pective",
+    "u": "http://pective.com/search?q={{{s}}}"
+  },
+  {
+    "d": "pediaa.com",
+    "s": "Pediaa",
+    "t": "pediaa",
+    "u": "https://pediaa.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.infopedia.pt",
+    "s": "Dicionário Porto Editora",
+    "t": "pe",
+    "u": "https://www.infopedia.pt/dicionarios/pesquisa/{{{s}}}"
+  },
+  {
+    "d": "www.pedigreedatabase.com",
+    "s": "Pedigree Database",
+    "t": "pedigree",
+    "u": "http://www.pedigreedatabase.com/search.html?q={{{s}}} "
+  },
+  {
+    "d": "peekier.com",
+    "s": "Peekier",
+    "t": "peek",
+    "u": "https://peekier.com/#!{{{s}}}"
+  },
+  {
+    "d": "www.peeringdb.com",
+    "s": "PeeringDB",
+    "t": "peeringdb",
+    "u": "https://www.peeringdb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "peeron.com",
+    "s": "Peeron",
+    "t": "peeron",
+    "u": "http://peeron.com/cgi-bin/invcgis/psearch?query={{{s}}}&limit=none"
+  },
+  {
+    "d": "candidat.pole-emploi.fr",
+    "s": "www.pole-emploi.fr",
+    "t": "pef",
+    "u": "https://candidat.pole-emploi.fr/offres/recherche?motsCles={{{s}}}"
+  },
+  {
+    "d": "pegasos.kirjas.to",
+    "s": "Kirkkonummen verkkokirjasto",
+    "t": "pegasos",
+    "u": "http://pegasos.kirjas.to/selaushaku.asp?kohde=vapaasana&hakuehto={{{s}}}"
+  },
+  {
+    "d": "peggo.co",
+    "s": "Peggo",
+    "t": "peggo",
+    "u": "http://peggo.co/search/{{{s}}}"
+  },
+  {
+    "d": "pegi.info",
+    "s": "PEGI",
+    "t": "pegi",
+    "u": "https://pegi.info/search-pegi?q={{{s}}}"
+  },
+  {
+    "d": "www.peixeurbano.com.br",
+    "s": "Peixeurbano",
+    "t": "peixe",
+    "u": "https://www.peixeurbano.com.br/#q={{{s}}}"
+  },
+  {
+    "d": "www.pelando.com.br",
+    "s": "Pelando",
+    "t": "pelando",
+    "u": "https://www.pelando.com.br/search?q={{{s}}}"
+  },
+  {
+    "d": "pengicau.com",
+    "s": "pengicau",
+    "t": "pengicau",
+    "u": "https://pengicau.com/w/index.php?search={{{s}}}&title=Special%3ASearch&fulltext=1"
+  },
+  {
+    "d": "www.penguinmagic.com",
+    "s": "Penguin Magic",
+    "t": "penguinmagic",
+    "u": "http://www.penguinmagic.com/s/{{{s}}}"
+  },
+  {
+    "d": "onlinebooks.library.upenn.edu",
+    "s": "UPENN: The Online Books Page",
+    "t": "pennbooks",
+    "u": "https://onlinebooks.library.upenn.edu/webbin/book/search?author=&amode=words&title={{{s}}}&tmode=words&c=x"
+  },
+  {
+    "d": "pennydeals.in",
+    "s": "best of deals and coupons",
+    "t": "pennydeals",
+    "u": "http://pennydeals.in/usearch.php?search={{{s}}}"
+  },
+  {
+    "d": "people.zoho.com",
+    "s": "Zoho People",
+    "t": "people",
+    "u": "https://people.zoho.com/people/#selfservice/directory/employees-searchstring={{{s}}}&searchType=0"
+  },
+  {
+    "d": "forum.peppermintos.com",
+    "s": "Peppermint OS forums",
+    "t": "peppermintos",
+    "u": "https://forum.peppermintos.com/index.php?action=search2&search={{{s}}}"
+  },
+  {
+    "d": "nl.pepper.com",
+    "s": "Pepper NL",
+    "t": "peppernl",
+    "u": "https://nl.pepper.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pepperplate.com",
+    "s": "Pepperplate",
+    "t": "pepperplate",
+    "u": "http://www.pepperplate.com/search/?text={{{s}}}"
+  },
+  {
+    "d": "www.python.org",
+    "s": "Python PEP",
+    "t": "pep",
+    "u": "http://www.python.org/dev/peps/pep-{{{s}}}/"
+  },
+  {
+    "d": "forum.grabaperch.com",
+    "s": "Perch Forum",
+    "t": "perch",
+    "u": "http://forum.grabaperch.com/forum/search?query={{{s}}}"
+  },
+  {
+    "d": "childishgiant.github.io",
+    "s": "Perdola",
+    "t": "perdola",
+    "u": "https://childishgiant.github.io/perdola/?app={{{s}}}"
+  },
+  {
+    "d": "perezhilton.com",
+    "s": "PerezHilton",
+    "t": "perezhilton",
+    "u": "http://perezhilton.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.perfectgame.org",
+    "s": "Perfect Game",
+    "t": "perfectgame",
+    "u": "https://www.perfectgame.org/Search.aspx?search={{{s}}}"
+  },
+  {
+    "d": "www.perfil.com",
+    "s": "Perfil",
+    "t": "perfil",
+    "u": "http://www.perfil.com/buscador/?q={{{s}}}"
+  },
+  {
+    "d": "www.periscope.tv",
+    "s": "Periscope",
+    "t": "peri",
+    "u": "https://www.periscope.tv/search?q={{{s}}}"
+  },
+  {
+    "d": "perldoc.pl",
+    "s": "Perldoc Browser",
+    "t": "perldoc",
+    "u": "https://perldoc.pl/search?q={{{s}}}"
+  },
+  {
+    "d": "www.perlentaucher.de",
+    "s": "Perlentaucher",
+    "t": "Perlen",
+    "u": "https://www.perlentaucher.de/nsuche?q={{{s}}}"
+  },
+  {
+    "d": "modules.perl6.org",
+    "s": "Perl 6 Modules",
+    "t": "perlmod6",
+    "u": "http://modules.perl6.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "p3rl.org",
+    "s": "p3rl.org",
+    "t": "perlmod",
+    "u": "http://p3rl.org/{{{s}}}"
+  },
+  {
+    "d": "www.perlmonks.org",
+    "s": "PerlMonks.org",
+    "t": "perlmonks",
+    "u": "http://www.perlmonks.org/?node={{{s}}}"
+  },
+  {
+    "d": "p3rl.org",
+    "s": "p3rl.org",
+    "t": "perl",
+    "u": "http://p3rl.org/{{{s}}}"
+  },
+  {
+    "d": "personality-database.com",
+    "s": "Personality Database",
+    "t": "per",
+    "u": "https://personality-database.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.perrypedia.proc.org",
+    "s": "Perrypedia",
+    "t": "perrypedia",
+    "u": "http://www.perrypedia.proc.org/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.persee.fr",
+    "s": "Persée",
+    "t": "persee",
+    "u": "http://www.persee.fr/search?q={{{s}}}"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Perseus Digital Library",
+    "t": "perseus",
+    "u": "http://www.perseus.tufts.edu/hopper/searchresults?q={{{s}}}"
+  },
+  {
+    "d": "peru21.pe",
+    "s": "Perú21",
+    "t": "peru21",
+    "u": "https://peru21.pe/buscar/?query={{{s}}}"
+  },
+  {
+    "d": "www.petco.com",
+    "s": "Petco",
+    "t": "petco",
+    "u": "http://www.petco.com/shop/SearchDisplay?categoryId=&storeId=10151&catalogId=10051&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=24&fromPageValue=search&searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.peteyvid.com",
+    "s": "Petey Vid",
+    "t": "peteyvid",
+    "u": "https://www.peteyvid.com/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.petitweb.fr",
+    "s": "Petit Web",
+    "t": "petitweb",
+    "u": "http://www.petitweb.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.petsmart.ca",
+    "s": "PetSmart Canada",
+    "t": "petsmartca",
+    "u": "http://www.petsmart.ca/search?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "www.petsmart.com",
+    "s": "PetSmart",
+    "t": "petsmart",
+    "u": "http://www.petsmart.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "PewDiePie",
+    "t": "pewdiepie",
+    "u": "https://www.youtube.com/user/PewDiePie/search?query={{{s}}} "
+  },
+  {
+    "d": "pewnews.org",
+    "s": "Pew News",
+    "t": "pewnews",
+    "u": "https://pewnews.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.pexels.com",
+    "s": "Pexels",
+    "t": "pexels",
+    "u": "http://www.pexels.com/search/{{{s}}}/"
+  },
+  {
+    "d": "poinformowani.pl",
+    "s": "Poinformowani",
+    "t": "pfi",
+    "u": "https://poinformowani.pl/szukaj?q={{{s}}}"
+  },
+  {
+    "d": "www.portagefilelist.de",
+    "s": "Portage File List",
+    "t": "pfl",
+    "u": "http://www.portagefilelist.de/site/query/file/?file={{{s}}}&unique_packages=yes&do"
+  },
+  {
+    "d": "www.pathfindersonline.org",
+    "s": "Pathfinders Online",
+    "t": "pfonline",
+    "u": "http://www.pathfindersonline.org/component/search/?searchword={{{s}}}&ordering=newest&searchphrase=all"
+  },
+  {
+    "d": "www.printfriendly.com",
+    "s": "PrintFriendly",
+    "t": "pf",
+    "u": "http://www.printfriendly.com/print/?source=site&url={{{s}}}"
+  },
+  {
+    "d": "www.pro-football-reference.com",
+    "s": "pro-football-reference.com",
+    "t": "pfr",
+    "u": "http://www.pro-football-reference.com/search/search.fcgi?search={{{s}}}&pid="
+  },
+  {
+    "d": "cse.google.com",
+    "s": "d20PFSRD",
+    "t": "pfs",
+    "u": "https://cse.google.com/cse?cx=006680642033474972217%3A6zo0hx_wle8&q={{{s}}}"
+  },
+  {
+    "d": "www.netgate.com",
+    "s": "pfSense Doc",
+    "t": "pfss",
+    "u": "https://www.netgate.com/docs/pfsense/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.portablefreeware.com",
+    "s": "The Portable Freeware Collection",
+    "t": "pfwc",
+    "u": "http://www.portablefreeware.com/index.php?q={{{s}}}"
+  },
+  {
+    "d": "phineasandferb.wikia.com",
+    "s": "Phineas and Ferb Wiki",
+    "t": "pfwiki",
+    "u": "http://phineasandferb.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.portablefreeware.com",
+    "s": "The Portable Freeware Collection",
+    "t": "pfw",
+    "u": "http://www.portablefreeware.com/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.brooksbaseball.net",
+    "s": "BrooksBaseball",
+    "t": "pfx",
+    "u": "http://www.brooksbaseball.net/search.php?name={{{s}}}"
+  },
+  {
+    "d": "gutenberg.spiegel.de",
+    "s": "Projekt Gutenberg-DE",
+    "t": "pgde",
+    "u": "http://gutenberg.spiegel.de/suche?q={{{s}}}"
+  },
+  {
+    "d": "www.postgresql.org",
+    "s": "PostgreSQL documentation",
+    "t": "pgdocs",
+    "u": "http://www.postgresql.org/search/?u=%2Fdocs%2F&q={{{s}}}"
+  },
+  {
+    "d": "www.gutenberg.org",
+    "s": "Projet Gutenberg Fr",
+    "t": "pgfr",
+    "u": "https://www.gutenberg.org/ebooks/search/?query=l.fr+{{{s}}}"
+  },
+  {
+    "d": "www.pharmgkb.org",
+    "s": "PharmGKB",
+    "t": "pgkb",
+    "u": "https://www.pharmgkb.org/search?query={{{s}}}"
+  },
+  {
+    "d": "prisguiden.no",
+    "s": "Prisguiden.no",
+    "t": "pgno",
+    "u": "https://prisguiden.no/sok?q={{{s}}}"
+  },
+  {
+    "d": "kontoutdrag.plusgirot.se",
+    "s": "PlusGirot - Search PlusGiro number",
+    "t": "pgn",
+    "u": "https://kontoutdrag.plusgirot.se/ku/sokko002?SO_KTO={{{s}}}"
+  },
+  {
+    "d": "api.posteo.de",
+    "s": "Posteo",
+    "t": "pgpkey",
+    "u": "https://api.posteo.de/v1/public-keys/{{{s}}}?type=openpgp"
+  },
+  {
+    "d": "pgp.mit.edu",
+    "s": "MIT PGP public key server lookup",
+    "t": "pgp",
+    "u": "https://pgp.mit.edu/pks/lookup?search={{{s}}}"
+  },
+  {
+    "d": "www.gutenberg.org",
+    "s": "Project Gutenberg",
+    "t": "pg",
+    "u": "https://www.gutenberg.org/ebooks/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.pgri.or.id",
+    "s": "pgri",
+    "t": "pgri",
+    "u": "http://www.pgri.or.id/?s={{{s}}}"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Perseus word study tool",
+    "t": "pgr",
+    "u": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=greek"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "Phalcon Docs",
+    "t": "phalcondoc",
+    "u": "https://cse.google.com/cse?cx=009733439235723428699:lh9ltjgvdz8&q=validation&oq=validation&gs_l=partner.3...77240.79724.1.80133.10.10.0.0.0.0.325.1627.4j2j1j3.10.0.gsnos%2Cn%3D13...0.2495j1017187j10..1ac.1.25.partner..10.0.0.XePJcoeor8s#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "d": "www.pharmgkb.org",
+    "s": "PharmGKB",
+    "t": "pharmgkb",
+    "u": "https://www.pharmgkb.org/search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Phaser 3 API Documentation",
+    "t": "phas3r",
+    "u": "https://duckduckgo.com/?q=inurl%3Ahttps%3A%2F%2Fphotonstorm.github.io%2Fphaser3-docs%2F+{{{s}}}#"
+  },
+  {
+    "d": "careers.phenompeople.com",
+    "s": "Phenom People ",
+    "t": "phe",
+    "u": "https://careers.phenompeople.com/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "phet.colorado.edu",
+    "s": "phet",
+    "t": "phet",
+    "u": "http://phet.colorado.edu/en/search?q={{{s}}}"
+  },
+  {
+    "d": "www.philenews.com",
+    "s": "Philenews",
+    "t": "philenews",
+    "u": "http://www.philenews.com/search?kw={{{s}}}"
+  },
+  {
+    "d": "www.philibertnet.com",
+    "s": "Philibert",
+    "t": "philibert",
+    "u": "http://www.philibertnet.com/fr/recherche?orderby=position&orderway=desc&search_query={{{s}}}&submit_search=C%27est+parti+%21"
+  },
+  {
+    "d": "www.careers.philips.com",
+    "s": "Philips Careers",
+    "t": "philips",
+    "u": "https://www.careers.philips.com/professional/global/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "philpapers.org",
+    "s": "PhilPapers",
+    "t": "philpapers",
+    "u": "http://philpapers.org/s/{{{s}}}"
+  },
+  {
+    "d": "latin.packhum.org",
+    "s": "PHI Latin Texts",
+    "t": "phi",
+    "u": "http://latin.packhum.org/search?q={{{s}}}"
+  },
+  {
+    "d": "phish.net",
+    "s": "Phish.Net",
+    "t": "phish",
+    "u": "http://phish.net/song/?s={{{s}}}"
+  },
+  {
+    "d": "www.phonearena.com",
+    "s": "Phone Arena",
+    "t": "phonearena",
+    "u": "http://www.phonearena.com/search/term/{{{s}}}"
+  },
+  {
+    "d": "www.phonemore.com",
+    "s": "PhoneMore",
+    "t": "phonemore",
+    "u": "https://www.phonemore.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "phonespell.org",
+    "s": "PhoneSpell",
+    "t": "phonespell",
+    "u": "https://phonespell.org/combo.cgi?n={{{s}}}"
+  },
+  {
+    "d": "www.whitepages.com",
+    "s": "whitepages",
+    "t": "phone",
+    "u": "http://www.whitepages.com/phone/{{{s}}} "
+  },
+  {
+    "d": "photics.com",
+    "s": "Photics.com",
+    "t": "pho",
+    "u": "https://photics.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.phoronix.com",
+    "s": "Phoronix",
+    "t": "phoronix",
+    "u": "https://www.phoronix.com/scan.php?page=search&q={{{s}}}"
+  },
+  {
+    "d": "photics.com",
+    "s": "Photics.com",
+    "t": "photics",
+    "u": "https://photics.com/?s={{{s}}}"
+  },
+  {
+    "d": "photobucket.com",
+    "s": "PhotoBucket.com",
+    "t": "photobucket",
+    "u": "http://photobucket.com/images/{{{s}}}/"
+  },
+  {
+    "d": "www.photocrati.com",
+    "s": "Photocrati",
+    "t": "photocrati",
+    "u": "http://www.photocrati.com/?s={{{s}}}"
+  },
+  {
+    "d": "photodune.net",
+    "s": "PhotoDune",
+    "t": "photodune",
+    "u": "http://photodune.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "d": "photopin.com",
+    "s": "PhotoPin",
+    "t": "photopin",
+    "u": "http://photopin.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.php2python.com",
+    "s": "Php2Python",
+    "t": "php2py",
+    "u": "http://www.php2python.com/wiki/search/?search_term={{{s}}} "
+  },
+  {
+    "d": "secure.php.net",
+    "s": "PHP.net",
+    "t": "phpnet",
+    "u": "https://secure.php.net/manual-lookup.php?pattern={{{s}}}"
+  },
+  {
+    "d": "secure.php.net",
+    "s": "PHP.net",
+    "t": "php",
+    "u": "https://secure.php.net/manual-lookup.php?pattern={{{s}}}"
+  },
+  {
+    "d": "www.producthunt.com",
+    "s": "Product Hunt",
+    "t": "ph",
+    "u": "https://www.producthunt.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.phrasen.com",
+    "s": "Phrasen.com",
+    "t": "phrasen",
+    "u": "https://www.phrasen.com/index.php?do=suche&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "phrases.org.uk",
+    "t": "phrase",
+    "u": "https://duckduckgo.com/?q=site:phrases.org.uk%20{{{s}}}"
+  },
+  {
+    "d": "phi.sh",
+    "s": "phish.net",
+    "t": "phset",
+    "u": "http://phi.sh/{{{s}}}"
+  },
+  {
+    "d": "phun.freeforums.org",
+    "s": "PHUN Forum",
+    "t": "phun",
+    "u": "http://phun.freeforums.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.pharmawiki.ch",
+    "s": "Pharmawiki",
+    "t": "phw",
+    "u": "https://www.pharmawiki.ch/wiki/index.php?wiki={{{s}}}"
+  },
+  {
+    "d": "www.physicsclassroom.com",
+    "s": "Physics Classroom",
+    "t": "phy",
+    "u": "https://www.physicsclassroom.com/?q={{{s}}}"
+  },
+  {
+    "d": "physics.stackexchange.com",
+    "s": "Physics StackExchange",
+    "t": "physe",
+    "u": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.physicsforums.com",
+    "s": "Physics Forums",
+    "t": "physics",
+    "u": "https://www.physicsforums.com/search/90229641/?q={{{s}}}&o=relevance "
+  },
+  {
+    "d": "physics.stackexchange.com",
+    "s": "Physics StackExchange",
+    "t": "physse",
+    "u": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pianostreet.com",
+    "s": "Pianostreet",
+    "t": "pianostreet",
+    "u": "https://www.pianostreet.com/index_sr.php?q={{{s}}}"
+  },
+  {
+    "d": "piapro-studio.fandom.com",
+    "s": "Piapro Studio Wiki",
+    "t": "piapro",
+    "u": "https://piapro-studio.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "picolisp.com",
+    "s": "picolisp.com",
+    "t": "picolisp",
+    "u": "http://picolisp.com/wiki/?home&*Search={{{s}}}"
+  },
+  {
+    "d": "www.picsearch.com",
+    "s": "picsearch",
+    "t": "pic",
+    "u": "http://www.picsearch.com/index.cgi?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "pics",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "www.pictame.com",
+    "s": "Pictame",
+    "t": "pictame",
+    "u": "https://www.pictame.com/search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "pictures",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "www.pier1.com",
+    "s": "Pier1 Imports",
+    "t": "pier1",
+    "u": "https://www.pier1.com/on/demandware.store/Sites-pier1_us-Site/default/Search-ShowContent?q={{{s}}}"
+  },
+  {
+    "d": "www.pietsmiet.de",
+    "s": "PietSmiet",
+    "t": "pietsmiet",
+    "u": "https://www.pietsmiet.de/search?query={{{s}}}"
+  },
+  {
+    "d": "pigu.lt",
+    "s": "Pigu",
+    "t": "pigu",
+    "u": "http://pigu.lt/search?q={{{s}}}"
+  },
+  {
+    "d": "pikabu.ru",
+    "s": "Pikabu.ru",
+    "t": "pikabu",
+    "u": "http://pikabu.ru/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.pikapkg.com",
+    "s": "Pikapkg",
+    "t": "pika",
+    "u": "https://www.pikapkg.com/packages/?q={{{s}}}"
+  },
+  {
+    "d": "www.pikminwiki.com",
+    "s": "Pikipedia",
+    "t": "pikipedia",
+    "u": "http://www.pikminwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "patient.info",
+    "s": "UK Patient Information Leaflets",
+    "t": "pils",
+    "u": "http://patient.info/Search.asp?searchTerm={{{s}}}&collections=Condition_Leaflets"
+  },
+  {
+    "d": "shop.pimoroni.com",
+    "s": "Pimoroni",
+    "t": "pimo",
+    "u": "https://shop.pimoroni.com/search?q={{{s}}}"
+  },
+  {
+    "d": "shop.pimoroni.com",
+    "s": "Pimoroni",
+    "t": "pimoroni",
+    "u": "https://shop.pimoroni.com/?q={{{s}}}"
+  },
+  {
+    "d": "pinboard.in",
+    "s": "pinboard.in",
+    "t": "pina",
+    "u": "http://pinboard.in/search/?query={{{s}}}&all=Search+All"
+  },
+  {
+    "d": "pinboard.in",
+    "s": "Pinboard",
+    "t": "pinboard",
+    "u": "http://pinboard.in/search/?query={{{s}}}&mine=Search+Mine"
+  },
+  {
+    "d": "forum.pine64.org",
+    "s": "pine64.org",
+    "t": "pine64",
+    "u": "https://forum.pine64.org/search.php?text={{{s}}}&sortby=&order=desc"
+  },
+  {
+    "d": "pinboard.in",
+    "s": "Pinboard",
+    "t": "pinf",
+    "u": "https://pinboard.in/search/?query={{{s}}}&fulltext=on"
+  },
+  {
+    "d": "dns-tools.domaintools.com",
+    "s": "DomainTools.com",
+    "t": "ping",
+    "u": "http://dns-tools.domaintools.com/?method=ping&query={{{s}}}"
+  },
+  {
+    "d": "www.pinknews.co.uk",
+    "s": "PinkNews",
+    "t": "pink",
+    "u": "http://www.pinknews.co.uk/?s={{{s}}} "
+  },
+  {
+    "d": "pinoutsguide.com",
+    "s": "PinoutsGuide",
+    "t": "pinout",
+    "u": "http://pinoutsguide.com/search.php?lang=eng&t={{{s}}}"
+  },
+  {
+    "d": "dictionary.pinpinchinese.com",
+    "s": "Pin Pin Chinese Dictionary",
+    "t": "pinpin",
+    "u": "http://dictionary.pinpinchinese.com/search/t/{{{s}}}"
+  },
+  {
+    "d": "pinterest.com",
+    "s": "Pinterest",
+    "t": "pin",
+    "u": "http://pinterest.com/search/pins/?q={{{s}}}"
+  },
+  {
+    "d": "pinside.com",
+    "s": "Pinside Forums",
+    "t": "pinside",
+    "u": "https://pinside.com/pinball/forum/search?s=1&q={{{s}}}&include_basement=0#results"
+  },
+  {
+    "d": "pinterest.com",
+    "s": "pinterest.com/",
+    "t": "pinterest",
+    "u": "https://pinterest.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "pinvoke.net",
+    "s": "Pinvoke.net",
+    "t": "pinvoke",
+    "u": "http://pinvoke.net/search.aspx?search={{{s}}}"
+  },
+  {
+    "d": "www.pin1yin1.com",
+    "s": "pin1yin1.com",
+    "t": "pinyin1",
+    "u": "http://www.pin1yin1.com/#{{{s}}}"
+  },
+  {
+    "d": "platformio.org",
+    "s": "PlatformIO Libraries",
+    "t": "pio",
+    "u": "http://platformio.org/lib/search?query={{{s}}}"
+  },
+  {
+    "d": "www.pipilika.com",
+    "s": "Pipilika",
+    "t": "pipilika",
+    "u": "https://www.pipilika.com/search?q={{{s}}}"
+  },
+  {
+    "d": "pipl.com",
+    "s": "Pipl",
+    "t": "pipl",
+    "u": "https://pipl.com/search/?q={{{s}}}&l=&sloc=&in=5"
+  },
+  {
+    "d": "pypi.python.org",
+    "s": "pip",
+    "t": "pip",
+    "u": "https://pypi.python.org/pypi?:action=search&term={{{s}}}&submit=search"
+  },
+  {
+    "d": "wiki.piratenpartei.de",
+    "s": "Wiki der Piratenpartei Deutschland",
+    "t": "piratenwiki",
+    "u": "https://wiki.piratenpartei.de/Spezial:Suche?search={{{s}}}&fulltext=Suchen"
+  },
+  {
+    "d": "piratetimes.net",
+    "s": "Pirate Times",
+    "t": "piratetimes",
+    "u": "http://piratetimes.net/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "pirsa.org",
+    "s": "Perimeter Institute Recorded Seminar Archive",
+    "t": "pirsa",
+    "u": "http://pirsa.org/index.php?p=speaker&name={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Pitchbook",
+    "t": "pitchbook",
+    "u": "https://duckduckgo.com/?q=site%3Apitchbook.com%2Fprofiles%2Fcompany+{{{s}}}"
+  },
+  {
+    "d": "pitchfork.com",
+    "s": "Pitchfork Media",
+    "t": "pitchfork",
+    "u": "http://pitchfork.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.philly.com",
+    "s": "The Philadelphia Inquirer",
+    "t": "pi",
+    "u": "http://www.philly.com/philly/search/?search=y&adv=y&searchKeywords={{{s}}}&minscore=50&pagesize=20&sites=philly&fields=full&sections=5&queryType=all"
+  },
+  {
+    "d": "www.pisatoday.it",
+    "s": "Pisa Today",
+    "t": "pito",
+    "u": "http://www.pisatoday.it/search/query/{{{s}}}"
+  },
+  {
+    "d": "vortaro.net",
+    "s": "Plena Ilustrita Vortaro",
+    "t": "piv",
+    "u": "http://vortaro.net/#{{{s}}}"
+  },
+  {
+    "d": "pixabay.com",
+    "s": "Pixabay",
+    "t": "pixabay",
+    "u": "http://pixabay.com/en/photos/?q={{{s}}}"
+  },
+  {
+    "d": "pixelmonmod.com",
+    "s": "Official Pixelmon Wiki",
+    "t": "pixel",
+    "u": "http://pixelmonmod.com/wiki/index.php?title={{{s}}}"
+  },
+  {
+    "d": "pixels.thetangible.in",
+    "s": "PixelPosts",
+    "t": "pixelposts",
+    "u": "http://pixels.thetangible.in/search/{{{s}}}"
+  },
+  {
+    "d": "www.pixelprospector.com",
+    "s": "PixelProspector",
+    "t": "pixelp",
+    "u": "http://www.pixelprospector.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.pixiv.net",
+    "s": "Pixiv",
+    "t": "pixiv",
+    "u": "http://www.pixiv.net/search.php?word={{{s}}}"
+  },
+  {
+    "d": "shop.pixbreak.com",
+    "s": "Pixbreak",
+    "t": "pix",
+    "u": "http://shop.pixbreak.com/?s={{{s}}}"
+  },
+  {
+    "d": "pjmedia.com",
+    "s": "PJ Media",
+    "t": "pjm",
+    "u": "https://pjmedia.com/search/?s={{{s}}} "
+  },
+  {
+    "d": "www.prisjakt.no",
+    "s": "Prisjakt (Norway)",
+    "t": "pjno",
+    "u": "http://www.prisjakt.no/#rparams=ss={{{s}}} "
+  },
+  {
+    "d": "www.prisjakt.nu",
+    "s": "Prisjakt",
+    "t": "pj",
+    "u": "https://www.prisjakt.nu/search?search={{{s}}}"
+  },
+  {
+    "d": "pikabu.ru",
+    "s": "pikabu.ru",
+    "t": "pkb",
+    "u": "https://pikabu.ru/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "Arch Linux Packages",
+    "t": "pkg",
+    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}"
+  },
+  {
+    "d": "packageradar.com",
+    "s": "PackageRadar",
+    "t": "pkgrd",
+    "u": "https://packageradar.com/form?tracking_form[tracking_number]={{{s}}}"
+  },
+  {
+    "d": "pkgs.org",
+    "s": "Linux Packages Search",
+    "t": "pkgs",
+    "u": "http://pkgs.org/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "pkgsrc.se",
+    "s": "Pkgsrc.se",
+    "t": "pkgsrc",
+    "u": "http://pkgsrc.se/search.php?so={{{s}}}"
+  },
+  {
+    "d": "www.packagetrackr.com",
+    "s": "Package Trackr",
+    "t": "pkgtr",
+    "u": "https://www.packagetrackr.com/track/{{{s}}}"
+  },
+  {
+    "d": "wiki.pokemoncentral.it",
+    "s": "Pokémon Central Wiki",
+    "t": "pkmce",
+    "u": "http://wiki.pokemoncentral.it/index.php?search={{{s}}}"
+  },
+  {
+    "d": "packages.knightos.org",
+    "s": "KnightOS Package Index",
+    "t": "pko",
+    "u": "https://packages.knightos.org/search?terms={{{s}}}"
+  },
+  {
+    "d": "peekier.com",
+    "s": "Peekier",
+    "t": "pk",
+    "u": "https://peekier.com/#!{{{s}}}"
+  },
+  {
+    "d": "www.plaisio.gr",
+    "s": "plaisio.gr",
+    "t": "plaisio",
+    "u": "http://www.plaisio.gr/search.aspx?query={{{s}}}&catalogue=all&mode=searchlist"
+  },
+  {
+    "d": "plan3t.info",
+    "s": "Plan3t.info",
+    "t": "plan3t",
+    "u": "http://plan3t.info/?s={{{s}}}"
+  },
+  {
+    "d": "plancke.io",
+    "s": "Plancke",
+    "t": "plancke",
+    "u": "https://plancke.io/hypixel/player/stats/{{{s}}}"
+  },
+  {
+    "d": "www.planespotters.net",
+    "s": "planespotters.net",
+    "t": "plane",
+    "u": "http://www.planespotters.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "planetdepos.com",
+    "s": "Planet Depos",
+    "t": "planetdepos",
+    "u": "https://planetdepos.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.planetebd.com",
+    "s": "Planète BD",
+    "t": "planetebd",
+    "u": "http://www.planetebd.com/recherche?mot-clef={{{s}}}"
+  },
+  {
+    "d": "www.planetkey.de",
+    "s": "PlanetKey",
+    "t": "planetkey",
+    "u": "https://www.planetkey.de/suche/?s={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "Planet Math (GitHub repo)",
+    "t": "planetmath",
+    "u": "https://github.com/search?l=TeX&q=org%3Aplanetmath+{{{s}}}&type=Topics"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "PlanetMinecraft",
+    "t": "planetmc",
+    "u": "https://www.planetminecraft.com/resources/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planplus.rs",
+    "s": "Digitalna mapa Srbije",
+    "t": "planplus",
+    "u": "https://www.planplus.rs/#!pretraga/{{{s}}}"
+  },
+  {
+    "d": "powo.science.kew.org",
+    "s": "Plants of the World Online",
+    "t": "plants",
+    "u": "http://powo.science.kew.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Perseus word study tool",
+    "t": "pla",
+    "u": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=la"
+  },
+  {
+    "d": "plase.net",
+    "s": "Plase.Net",
+    "t": "plase",
+    "u": "https://plase.net/?s= {{{s}}}&post_type=product"
+  },
+  {
+    "d": "platekompaniet.no",
+    "s": "Platekompaniet",
+    "t": "platekompaniet",
+    "u": "https://platekompaniet.no/search/?q={{{s}}}"
+  },
+  {
+    "d": "plato.stanford.edu",
+    "s": "Stanford Encyclopedia of Philosophy",
+    "t": "plato",
+    "u": "http://plato.stanford.edu/search/searcher.py?query={{{s}}}"
+  },
+  {
+    "d": "www.plattentests.de",
+    "s": "Plattentests.de",
+    "t": "plattentests",
+    "u": "http://www.plattentests.de/suche.php?parameter=all&suche={{{s}}}"
+  },
+  {
+    "d": "www.platt-wb.de",
+    "s": "Plattdeutsch-Hochdeutsches Wörterbuch",
+    "t": "platt",
+    "u": "http://www.platt-wb.de/platt-hoch/?term={{{s}}}"
+  },
+  {
+    "d": "www.play-asia.com",
+    "s": "Play-asia",
+    "t": "playasia",
+    "u": "http://www.play-asia.com/paOS-19-71-99-15-{{{s}}}.html"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play",
+    "t": "play",
+    "u": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "d": "www.customplaygroundequipment.com",
+    "s": "Custom Playground Equipment",
+    "t": "playgrounds",
+    "u": "https://www.customplaygroundequipment.com/search?search={{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "https://play.google.com/music/listen#/now",
+    "t": "playmusic",
+    "u": "https://play.google.com/music/listen#/sr/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "playonlinux",
+    "t": "playonlinux",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aplayonlinux.com"
+  },
+  {
+    "d": "www.playright.dk",
+    "s": "Play:Right",
+    "t": "playright",
+    "u": "http://www.playright.dk/playright/soeg?_submit=1&_soeg=0&soeg={{{s}}}"
+  },
+  {
+    "d": "www.playstation.com",
+    "s": "Playstation",
+    "t": "playstation",
+    "u": "https://www.playstation.com/search-results/?q={{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Store",
+    "t": "playstore",
+    "u": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "d": "www.playterm.org",
+    "s": "PlayTerm",
+    "t": "playterm",
+    "u": "http://www.playterm.org/s/?tags={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "google translate pl-de",
+    "t": "plde",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=pl&tl=de&text={{{s}}}"
+  },
+  {
+    "d": "www.pleated-jeans.com",
+    "s": "Pleated Jeans",
+    "t": "pleatedjeans",
+    "u": "http://www.pleated-jeans.com/?s={{{s}}} "
+  },
+  {
+    "d": "pleiades.stoa.org",
+    "s": "Pleiades",
+    "t": "pleiades",
+    "u": "http://pleiades.stoa.org/search?SearchableText={{{s}}}&portal_type=Place&submit=Search"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate: pl-en",
+    "t": "plen",
+    "u": "http://translate.google.com/#pl/en/{{{s}}}"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso",
+    "t": "plfr",
+    "u": "http://dictionnaire.reverso.net/polonais-francais/{{{s}}}"
+  },
+  {
+    "d": "www.buyplm.com",
+    "s": "PDXpert",
+    "t": "plm",
+    "u": "https://www.buyplm.com/general-info/pdxpert-plm-software-search.aspx?query={{{s}}}"
+  },
+  {
+    "d": "www.plombservice.fr",
+    "s": "Plombservice",
+    "t": "plombservice",
+    "u": "http://www.plombservice.fr/catalogsearch/result/?imageField.x=0&imageField.y=0&q={{{s}}}"
+  },
+  {
+    "d": "plone.org",
+    "s": "Plone",
+    "t": "plone",
+    "u": "https://plone.org/@@search?SearchableText={{{s}}}"
+  },
+  {
+    "d": "www.plosmedicine.org",
+    "s": "PLoS Medicine",
+    "t": "plosmed",
+    "u": "http://www.plosmedicine.org/search/simple?query={{{s}}}&filterJournals=PLoSMedicine"
+  },
+  {
+    "d": "ploum.net",
+    "s": "ploum.net",
+    "t": "ploum",
+    "u": "https://ploum.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.playpilot.com",
+    "s": "Playpilot",
+    "t": "plp",
+    "u": "https://www.playpilot.com/se/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "publiclab.org",
+    "s": "Public Lab",
+    "t": "pl",
+    "u": "http://publiclab.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.pluralsight.com",
+    "s": "pluralsight",
+    "t": "pls",
+    "u": "https://www.pluralsight.com/search?q={{{s}}}"
+  },
+  {
+    "d": "latin.packhum.org",
+    "s": "PHI Latin Texts",
+    "t": "plt",
+    "u": "http://latin.packhum.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pluggedin.com",
+    "s": "Plugged In",
+    "t": "pluggedin",
+    "u": "https://www.pluggedin.com/search/?q={{{s}}}&i=titles&p=0&l=20&c=%7B%7D"
+  },
+  {
+    "d": "www.pluggedin.com",
+    "s": "pluggedin",
+    "t": "plug",
+    "u": "http://www.pluggedin.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.plunket.org.nz",
+    "s": "Plunket",
+    "t": "plunket",
+    "u": "https://www.plunket.org.nz/home/SearchForm?Search={{{s}}}&action_results=Search"
+  },
+  {
+    "d": "www.pluralsight.com",
+    "s": "Pluralsight",
+    "t": "pluralsight",
+    "u": "http://www.pluralsight.com/search/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.plurk.com",
+    "s": "Plurk",
+    "t": "plurk",
+    "u": "https://www.plurk.com/search?q={{{s}}}"
+  },
+  {
+    "d": "plus.codes",
+    "s": "Plus Codes",
+    "t": "pluscodes",
+    "u": "https://plus.codes/{{{s}}}"
+  },
+  {
+    "d": "plus.codes",
+    "s": "Plus.codes",
+    "t": "plus",
+    "u": "https://plus.codes/map/{{{s}}}"
+  },
+  {
+    "d": "pl.wikipedia.org",
+    "s": "Polish Wikipedia",
+    "t": "plw",
+    "u": "https://pl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "search.plyrics.com",
+    "s": "PLyrics.com",
+    "t": "plyrics",
+    "u": "http://search.plyrics.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.postdirekt.de",
+    "s": "German Postal Codes",
+    "t": "plz",
+    "u": "https://www.postdirekt.de/plzserver/PlzSearchServlet?finda=miniapp&city={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - banners",
+    "t": "pmcb",
+    "u": "https://www.planetminecraft.com/banners/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - collections",
+    "t": "pmcc",
+    "u": "https://www.planetminecraft.com/collections/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - data packs",
+    "t": "pmcd",
+    "u": "https://www.planetminecraft.com/resources/mods/data-pack/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - skins",
+    "t": "pmck",
+    "u": "https://www.planetminecraft.com/resources/skins/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - mods",
+    "t": "pmcm",
+    "u": "https://www.planetminecraft.com/resources/mods/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "PlanetMinecraft.com",
+    "t": "pmc",
+    "u": "http://www.planetminecraft.com/resources/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - projects",
+    "t": "pmcp",
+    "u": "https://www.planetminecraft.com/resources/projects/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - resource packs",
+    "t": "pmcr",
+    "u": "https://www.planetminecraft.com/resources/texture_packs/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.planetminecraft.com",
+    "s": "Planet Minecraft - servers",
+    "t": "pmcs",
+    "u": "https://www.planetminecraft.com/resources/servers/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "Pubmed",
+    "t": "pmd",
+    "u": "http://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Plena Manlibro de Esperanta Gramatiko",
+    "t": "pmeg",
+    "u": "http://duckduckgo.com/?q={{{s}}} site:http://bertilow.com/pmeg/"
+  },
+  {
+    "d": "forum.palemoon.org",
+    "s": "Pale Moon forum en español",
+    "t": "pmfe",
+    "u": "https://forum.palemoon.org/search.php?keywords={{{s}}}&fid[0]=9"
+  },
+  {
+    "d": "forum.palemoon.org",
+    "s": "Pale Moon forum",
+    "t": "pmf",
+    "u": "http://forum.palemoon.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "Pubmed",
+    "t": "pmid",
+    "u": "http://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "d": "search.pmi.org",
+    "s": "Project Management Institute",
+    "t": "pmi",
+    "u": "https://search.pmi.org/default.aspx?q={{{s}}}"
+  },
+  {
+    "d": "pimpmykeyboard.com",
+    "s": "Pimp My Keyboard",
+    "t": "pmk",
+    "u": "http://pimpmykeyboard.com/search.php?Search=&search_query={{{s}}}"
+  },
+  {
+    "d": "wiki.puella-magi.net",
+    "s": "Puella Magi Madoka Magica Wiki",
+    "t": "pmmm",
+    "u": "https://wiki.puella-magi.net/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "pixelmon.wikia.com",
+    "s": "Pixelmon Wiki",
+    "t": "pmon",
+    "u": "http://pixelmon.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "forum.peppermintos.com",
+    "s": "PeppermintOS Community Support Forum",
+    "t": "pmos",
+    "u": "https://forum.peppermintos.com/index.php?action=search2&search={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "pubmed",
+    "t": "pm",
+    "u": "https://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "d": "www.postimees.ee",
+    "s": "Postimees",
+    "t": "pms",
+    "u": "http://www.postimees.ee/search?query={{{s}}}"
+  },
+  {
+    "d": "muse.jhu.edu",
+    "s": "Project Muse",
+    "t": "pmuse",
+    "u": "https://muse.jhu.edu/search?action=search&query=content:{{{s}}}:and&min=1&max=10&t=header"
+  },
+  {
+    "d": "papermario.wikia.com",
+    "s": "Paper Mario Wiki",
+    "t": "pmwiki",
+    "u": "http://papermario.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "primenow.amazon.com",
+    "s": "Amazon Prime NOW",
+    "t": "pn",
+    "u": "https://primenow.amazon.com/search?k={{{s}}}"
+  },
+  {
+    "d": "www.pnas.org",
+    "s": "Proceedings of the National Academy of Sciences",
+    "t": "pnas",
+    "u": "http://www.pnas.org/search/{{{s}}}%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard"
+  },
+  {
+    "d": "primenow.amazon.de",
+    "s": "Amazon PrimeNow DE",
+    "t": "pnde",
+    "u": "https://primenow.amazon.de/search?k={{{s}}}"
+  },
+  {
+    "d": "www.pandora.com",
+    "s": "Pandora",
+    "t": "pndr",
+    "u": "https://www.pandora.com/search/{{{s}}}"
+  },
+  {
+    "d": "shop.pnp.co.za",
+    "s": "Pick n Pay",
+    "t": "pnp",
+    "u": "http://shop.pnp.co.za/b2c_pnp/b2c/display/(cpgsize=12&layout=5.1-6_2_4_86_92_8_3&uiarea=1&carea=%24ROOT&cpgnum=1&cquery={{{s}}})/.do?rf=y"
+  },
+  {
+    "d": "primenow.amazon.co.uk",
+    "s": "Amazon Prime Now UK",
+    "t": "pnuk",
+    "u": "https://primenow.amazon.co.uk/search?k={{{s}}}"
+  },
+  {
+    "d": "psychonautwiki.org",
+    "s": "psychonaut wiki",
+    "t": "pnw",
+    "u": "https://psychonautwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "poal.co",
+    "s": "Poal",
+    "t": "poal",
+    "u": "https://poal.co/search/{{{s}}}"
+  },
+  {
+    "d": "wiki.pokemoncentral.it",
+    "s": "Pokémon Central Wiki",
+    "t": "pocewiki",
+    "u": "http://wiki.pokemoncentral.it/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.getpocket.com",
+    "s": "Pocket Explore",
+    "t": "pocketexplore",
+    "u": "https://www.getpocket.com/explore/{{{s}}}"
+  },
+  {
+    "d": "www.pocketgamer.co.uk",
+    "s": "Pocket Gamer",
+    "t": "pocketgamer",
+    "u": "http://www.pocketgamer.co.uk/latest.asp?srch={{{s}}}"
+  },
+  {
+    "d": "app.getpocket.com",
+    "s": "Pocket",
+    "t": "pocket",
+    "u": "https://app.getpocket.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.pockettactics.com",
+    "s": "Pocket Tactics",
+    "t": "pockettactics",
+    "u": "http://www.pockettactics.com/home/SearchForm?Search={{{s}}}"
+  },
+  {
+    "d": "emonitoring.poczta-polska.pl",
+    "s": "Poczta Polska",
+    "t": "poczta",
+    "u": "http://emonitoring.poczta-polska.pl/?numer={{{s}}}"
+  },
+  {
+    "d": "www.listennotes.com",
+    "s": "Listen Notes",
+    "t": "podcast",
+    "u": "https://www.listennotes.com/search/?q={{{s}}}&sort_by_date=0"
+  },
+  {
+    "d": "podcloud.fr",
+    "s": "podCloud",
+    "t": "podcloud",
+    "u": "https://podcloud.fr/search?q={{{s}}}"
+  },
+  {
+    "d": "cocoapods.org",
+    "s": "Cocoapods",
+    "t": "pod",
+    "u": "http://cocoapods.org/?q={{{s}}}"
+  },
+  {
+    "d": "podio.com",
+    "s": "Podio",
+    "t": "podio",
+    "u": "https://podio.com/search#/query/{{{s}}}"
+  },
+  {
+    "d": "poedb.tw",
+    "s": "Path of Exile Database",
+    "t": "poedb",
+    "u": "http://poedb.tw/us/search.php?Search={{{s}}}"
+  },
+  {
+    "d": "pathofexile.gamepedia.com",
+    "s": "Path of Exile Gamepedia",
+    "t": "poegp",
+    "u": "https://pathofexile.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.poemhunter.com",
+    "s": "PoemHunter",
+    "t": "poem",
+    "u": "http://www.poemhunter.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.poetryfoundation.org",
+    "s": "The Poetry Foundation",
+    "t": "poems",
+    "u": "https://www.poetryfoundation.org/search?query={{{s}}} "
+  },
+  {
+    "d": "pathofexile.gamepedia.com",
+    "s": "Path of Exile page",
+    "t": "poepage",
+    "u": "http://pathofexile.gamepedia.com/{{{s}}}"
+  },
+  {
+    "d": "pathofexile.gamepedia.com",
+    "s": "Path of Exile Wiki",
+    "t": "poe",
+    "u": "http://pathofexile.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Path of Exile Subreddit",
+    "t": "poer",
+    "u": "https://www.reddit.com/r/pathofexile/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "www.poetryfoundation.org",
+    "s": "The Poetry Foundation",
+    "t": "poetry",
+    "u": "http://www.poetryfoundation.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.poets.org",
+    "s": "Academy of American Poets",
+    "t": "poets",
+    "u": "https://www.poets.org/search/node/{{{s}}}"
+  },
+  {
+    "d": "pathofexile.gamepedia.com",
+    "s": "Path of Exile Wiki",
+    "t": "poewiki",
+    "u": "http://pathofexile.gamepedia.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "brickbronze.wikia.com",
+    "s": "Pokémon Brick Bronze Wikia",
+    "t": "pokebrickbronze",
+    "u": "http://brickbronze.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.pokecommunity.com",
+    "s": "Pokécommunity",
+    "t": "pokecommunity",
+    "u": "https://www.pokecommunity.com/search.php?do=q{{{s}}}"
+  },
+  {
+    "d": "pokemondb.net",
+    "s": "Pokemon Database",
+    "t": "pokedb",
+    "u": "http://pokemondb.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pokemon.com",
+    "s": "Pokemon Official Website Pokedex",
+    "t": "pokedex",
+    "u": "https://www.pokemon.com/us/pokedex/{{{s}}}"
+  },
+  {
+    "d": "pokemmo.wikia.com",
+    "s": "Pokemon MMO Wiki",
+    "t": "pokemmo",
+    "u": "http://pokemmo.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "pokemondb.net",
+    "s": "Pokémon Database",
+    "t": "pokemondb",
+    "u": "http://pokemondb.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pokepedia.fr",
+    "s": "Pokepedia",
+    "t": "pokepedia",
+    "u": "http://www.pokepedia.fr/index.php?title=Special%3ARecherche&search={{{s}}}"
+  },
+  {
+    "d": "www.pokewiki.de",
+    "s": "PokéWiki",
+    "t": "pokewiki",
+    "u": "http://www.pokewiki.de/index.php?search={{{s}}}&button=&title=Spezial%3ASuche"
+  },
+  {
+    "d": "www.petersofkensington.com.au",
+    "s": "Peter's of Kensington",
+    "t": "pok",
+    "u": "https://www.petersofkensington.com.au/Public/Catalog/searchresults.aspx?search={{{s}}}&issearch=true"
+  },
+  {
+    "d": "www.polimi.it",
+    "s": "Politecnico di Milano",
+    "t": "polimi",
+    "u": "https://www.polimi.it/risultati-ricerca?q={{{s}}}&cerca=Cerca"
+  },
+  {
+    "d": "www.politico.eu",
+    "s": "Politico EU",
+    "t": "politicoeu",
+    "u": "http://www.politico.eu/?s={{{s}}}"
+  },
+  {
+    "d": "www.politico.com",
+    "s": "Politico",
+    "t": "politico",
+    "u": "http://www.politico.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.politifact.com",
+    "s": "PolitiFact",
+    "t": "politifact",
+    "u": "http://www.politifact.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "politiken.dk",
+    "s": "Politiken.dk",
+    "t": "politiken",
+    "u": "http://politiken.dk/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.polito.it",
+    "s": "Politecnico di Torino",
+    "t": "polito",
+    "u": "http://www.polito.it/search/?lang=it&q={{{s}}}"
+  },
+  {
+    "d": "www.polkaudio.com",
+    "s": "Polk Audio",
+    "t": "polk",
+    "u": "http://www.polkaudio.com/search/products?q={{{s}}}"
+  },
+  {
+    "d": "www.pollen.com",
+    "s": "National Allergy Forecast",
+    "t": "pollen",
+    "u": "https://www.pollen.com/forecast/current/pollen/{{{s}}}"
+  },
+  {
+    "d": "www.pollin.de",
+    "s": "Pollin Electronic",
+    "t": "pollin",
+    "u": "http://www.pollin.de/shop/suchergebnis.html?S_TEXT={{{s}}}"
+  },
+  {
+    "d": "pollstar.com",
+    "s": "Pollstar",
+    "t": "pollstar",
+    "u": "http://pollstar.com/tour/searchall.pl?By=All&Content={{{s}}}&go_green.x=0&go_green.y=0"
+  },
+  {
+    "d": "www.polygon.com",
+    "s": "Polygon ",
+    "t": "polygon",
+    "u": "http://www.polygon.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.polymtl.ca",
+    "s": "Polytechnique Montreal",
+    "t": "polymtl",
+    "u": "https://www.polymtl.ca/etudes/cours/recherche/*?sigle={{{s}}}"
+  },
+  {
+    "d": "poly.google.com",
+    "s": "Poly",
+    "t": "poly",
+    "u": "https://poly.google.com/search/{{{s}}}"
+  },
+  {
+    "d": "polyratings.com",
+    "s": "Polyratings",
+    "t": "polyratings",
+    "u": "http://polyratings.com/search.php?type=ProfName&terms={{{s}}}&format=long&sort=name"
+  },
+  {
+    "d": "search.pomagalo.com",
+    "s": "pomagalo.com",
+    "t": "pomagalo",
+    "u": "https://search.pomagalo.com/?keywords_id=&keywords={{{s}}}"
+  },
+  {
+    "d": "postmates.com",
+    "s": "Postmates",
+    "t": "poma",
+    "u": "https://postmates.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pond5.com",
+    "s": "Pond5",
+    "t": "pond5",
+    "u": "https://www.pond5.com/stock-video-footage/1/{{{s}}}.html"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "Pons",
+    "t": "ponsdeen",
+    "u": "http://en.pons.com/translate?q={{{s}}}&l=deen&in=&lf=de"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons de<>es",
+    "t": "ponsdees",
+    "u": "http://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=dees&in=&lf=de"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons de<>fr",
+    "t": "ponsdefr",
+    "u": "http://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=defr&in=&lf=de"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons de<>it",
+    "t": "ponsdeit",
+    "u": "http://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=deit&in=&lf=de"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons Online-Wörterbuch Latein",
+    "t": "ponsdela",
+    "u": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=dela"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "Pons German-Polish",
+    "t": "ponsdepl",
+    "u": "http://en.pons.com/translate?q={{{s}}}&l=depl&in=&lf=de"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons",
+    "t": "ponsde",
+    "u": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=deen&in=&lf=de"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "PONS Deutsch-Russisch",
+    "t": "ponsderu",
+    "u": "http://en.pons.com/translate?q={{{s}}}&l=deru&in=&lf=de&cid="
+  },
+  {
+    "d": "de.pons.com",
+    "s": "pons.com",
+    "t": "ponsdesv",
+    "u": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=desv&in=&lf=de"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "pons.eu",
+    "t": "ponsed",
+    "u": "http://en.pons.com/translate?q={{{s}}}&l=deen&in=&lf=en"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons",
+    "t": "ponsende",
+    "u": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=deen&in=&lf=en"
+  },
+  {
+    "d": "en.pons.eu",
+    "s": "Pons.eu",
+    "t": "ponsenfr",
+    "u": "http://en.pons.eu/translate?q={{{s}}}&l=enfr&in=&lf=fr"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "Pons en->sl",
+    "t": "ponsensl",
+    "u": "https://en.pons.com/translate?q={{{s}}}&l=ensl&in=en&lf=en"
+  },
+  {
+    "d": "mobile.pons.com",
+    "s": "Pons",
+    "t": "ponsge",
+    "u": "https://mobile.pons.com/dict/search/mobile-results/?q={{{s}}}&l=deen"
+  },
+  {
+    "d": "pl.pons.com",
+    "s": "Pons it<>pl",
+    "t": "ponsitpl",
+    "u": "http://pl.pons.com/tłumaczenie?q={{{s}}}&l=itpl"
+  },
+  {
+    "d": "pl.pons.com",
+    "s": "Pons pl-de",
+    "t": "ponsplde",
+    "u": "https://pl.pons.com/tłumaczenie?q={{{s}}}&l=depl&in=&lf=de"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "Pons PL-EN",
+    "t": "ponsplen",
+    "u": "https://en.pons.com/translate?q={{{s}}}&l=enpl&in=&lf=en"
+  },
+  {
+    "d": "pl.pons.com",
+    "s": "Pons Polish->Spanish",
+    "t": "ponsples",
+    "u": "https://pl.pons.com/t%C5%82umaczenie?q={{{s}}}&l=espl&in=&lf=es"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "pons.eu",
+    "t": "pons",
+    "u": "https://en.pons.com/translate?q={{{s}}}"
+  },
+  {
+    "d": "en.pons.com",
+    "s": "Pons.eu",
+    "t": "ponspt",
+    "u": "http://en.pons.com/translate?q={{{s}}}&l=enpt&in=&lf=en"
+  },
+  {
+    "d": "stdlib.ponylang.org",
+    "s": "Pony Standard Library",
+    "t": "pony",
+    "u": "https://stdlib.ponylang.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.poolsupplyworld.com",
+    "s": "Pool Supply World",
+    "t": "poolsupplyworld",
+    "u": "http://www.poolsupplyworld.com/search.htm?searchBox={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "incendar.com",
+    "s": "Incendar.com",
+    "t": "pop",
+    "u": "http://incendar.com/funko_pop_search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.poppin.com",
+    "s": "Poppin",
+    "t": "poppin",
+    "u": "http://www.poppin.com/search?q={{{s}}}"
+  },
+  {
+    "d": "poppy.fandom.com",
+    "s": "Poppypedia",
+    "t": "poppy",
+    "u": "https://poppy.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "prensaobrera.com",
+    "s": "Prensa Obrera",
+    "t": "po",
+    "u": "https://prensaobrera.com/buscar?q={{{s}}}"
+  },
+  {
+    "d": "www.popsci.com",
+    "s": "Popular Science",
+    "t": "popsci",
+    "u": "https://www.popsci.com/find/{{{s}}}"
+  },
+  {
+    "d": "www.popsike.com",
+    "s": "Popsike",
+    "t": "popsike",
+    "u": "http://www.popsike.com/php/quicksearch.php?searchtext={{{s}}}"
+  },
+  {
+    "d": "porkbun.com",
+    "s": "porkbun",
+    "t": "porkbun",
+    "u": "https://porkbun.com/checkout/search?q={{{s}}}"
+  },
+  {
+    "d": "poromagia.com",
+    "s": "Poromagia",
+    "t": "poromagia",
+    "u": "https://poromagia.com/fi/search/?q={{{s}}}"
+  },
+  {
+    "d": "sjp.pwn.pl",
+    "s": "Poradnia Języka Polskiego",
+    "t": "por",
+    "u": "http://sjp.pwn.pl/poradnia/szukaj/{{{s}}}.html"
+  },
+  {
+    "d": "portableapps.com",
+    "s": "PortableApps.com",
+    "t": "portableapps",
+    "u": "http://portableapps.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.portablefreeware.com",
+    "s": "The Portable Freeware Collection",
+    "t": "portablefreeware",
+    "u": "http://www.portablefreeware.com/index.php?q={{{s}}}"
+  },
+  {
+    "d": "portal12.bg",
+    "s": "portal12.bg",
+    "t": "portal12",
+    "u": "https://portal12.bg/search?q={{{s}}}"
+  },
+  {
+    "d": "portallinux.es",
+    "s": "PortalLinux",
+    "t": "portallinux",
+    "u": "http://portallinux.es/?s={{{s}}}"
+  },
+  {
+    "d": "theportalwiki.com",
+    "s": "Portal Wiki",
+    "t": "portalwiki",
+    "u": "http://theportalwiki.com/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "port.hu",
+    "s": "PORT.hu",
+    "t": "porthu",
+    "u": "http://port.hu/kereso?q={{{s}}}"
+  },
+  {
+    "d": "www.iana.org",
+    "s": "IANA Service Name and Transport Protocol Port Number Registry",
+    "t": "port",
+    "u": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search={{{s}}}"
+  },
+  {
+    "d": "www.speedguide.net",
+    "s": "Speedguide.net Port Lookup",
+    "t": "ports",
+    "u": "http://www.speedguide.net/port.php?port={{{s}}}"
+  },
+  {
+    "d": "www.evilinnocence.com",
+    "s": "EvilInnocence",
+    "t": "poser",
+    "u": "http://www.evilinnocence.com/shop/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": "Microsoft Docs",
+    "t": "posh",
+    "u": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}"
+  },
+  {
+    "d": "pubs.opengroup.org",
+    "s": "The Open Group",
+    "t": "posix",
+    "u": "http://pubs.opengroup.org/cgi/kman4.cgi?value={{{s}}}"
+  },
+  {
+    "d": "www.post.at",
+    "s": "Post.at",
+    "t": "postat",
+    "u": "https://www.post.at/sendungsverfolgung.php/details?pnum1={{{s}}}"
+  },
+  {
+    "d": "www.postnord.dk",
+    "s": "Postnord DK",
+    "t": "postdk",
+    "u": "http://www.postnord.dk/da/Sider/TrackTrace.aspx?search={{{s}}}"
+  },
+  {
+    "d": "sporing.posten.no",
+    "s": "Posten",
+    "t": "posten",
+    "u": "http://sporing.posten.no/sporing.html?lang=no&q={{{s}}}&submit="
+  },
+  {
+    "d": "www.poste.it",
+    "s": "Poste Italiane",
+    "t": "poste",
+    "u": "https://www.poste.it/cerca/index.html#/risultati-spedizioni/{{{s}}}"
+  },
+  {
+    "d": "www.allposters.com",
+    "s": "All Posters",
+    "t": "posters",
+    "u": "http://www.allposters.com/gallery.asp?startat=%2Fgallery.asp&CID=A34475974C344D66A5E4D6D2F5CDA949&txtSearch={{{s}}}&imageField2.x=0&imageField2.y=0"
+  },
+  {
+    "d": "posterspy.com",
+    "s": "PosterSpy",
+    "t": "posterspy",
+    "u": "https://posterspy.com/posters/?s={{{s}}}&post_type=poster"
+  },
+  {
+    "d": "www.postgresql.org",
+    "s": "Postgres",
+    "t": "postgres",
+    "u": "http://www.postgresql.org/search/?q={{{s}}}&a=1&submit=Search"
+  },
+  {
+    "d": "www.postgresql.org",
+    "s": "PostgreSQL.org",
+    "t": "postgresql",
+    "u": "http://www.postgresql.org/search?q={{{s}}}&a=1&submit=Search"
+  },
+  {
+    "d": "www.der-postillon.com",
+    "s": "Der Postillon",
+    "t": "postillon",
+    "u": "http://www.der-postillon.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.postimees.ee",
+    "s": "Postimees",
+    "t": "postimees",
+    "u": "http://www.postimees.ee/search?query={{{s}}}"
+  },
+  {
+    "d": "postmates.com",
+    "s": "Postmates",
+    "t": "postmates",
+    "u": "https://postmates.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.postnl.nl",
+    "s": "PostNL",
+    "t": "postnl",
+    "u": "https://www.postnl.nl/search?q={{{s}}}&searchEntry=searchfield&boosting_label="
+  },
+  {
+    "d": "www.postnord.no",
+    "s": "Postnord",
+    "t": "postnord",
+    "u": "http://www.postnord.no/minside/SOPS/{{{s}}}"
+  },
+  {
+    "d": "poststatus.com",
+    "s": "PostStatus",
+    "t": "poststatus",
+    "u": "https://poststatus.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.potafocal.com",
+    "s": "Pota Focal",
+    "t": "potafocal",
+    "u": "http://www.potafocal.com/?s={{{s}}}"
+  },
+  {
+    "d": "piratesonline.fandom.com",
+    "s": "Pirates Online Wiki",
+    "t": "potco",
+    "u": "https://piratesonline.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.potterybarn.com",
+    "s": "Pottery Barn",
+    "t": "potterybarn",
+    "u": "http://www.potterybarn.com/search/results.html?words={{{s}}}"
+  },
+  {
+    "d": "www.pentyofamelie.com",
+    "s": "pentyofamelie  ",
+    "t": "pottery",
+    "u": "https://www.pentyofamelie.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "pouet.net",
+    "s": "Pouet",
+    "t": "pouet",
+    "u": "http://pouet.net/search.php?what={{{s}}}&type=prod"
+  },
+  {
+    "d": "www.pouparmelhor.com",
+    "s": "PouparMelhor",
+    "t": "poupar",
+    "u": "https://www.pouparmelhor.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.powells.com",
+    "s": "Powells",
+    "t": "powells",
+    "u": "https://www.powells.com/searchresults?keyword= {{{s}}}"
+  },
+  {
+    "d": "poweren.ir",
+    "s": "Power Engineering",
+    "t": "poweren",
+    "u": "https://poweren.ir/?s={{{s}}}"
+  },
+  {
+    "d": "powerui.kulestar.com",
+    "s": "PowerUI",
+    "t": "powerui",
+    "u": "https://powerui.kulestar.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.powned.it",
+    "s": "Powned.it",
+    "t": "powned",
+    "u": "https://www.powned.it/?s={{{s}}}"
+  },
+  {
+    "d": "www.powerthesaurus.org",
+    "s": "Power Thesaurus ",
+    "t": "powt",
+    "u": "https://www.powerthesaurus.org/{{{s}}}/synonyms"
+  },
+  {
+    "d": "putonyourcakepants.com",
+    "s": "Put on Your Cake Pants",
+    "t": "poycp",
+    "u": "http://putonyourcakepants.com/?s={{{s}}}"
+  },
+  {
+    "d": "launchpad.net",
+    "s": "Personal Package Archives for Ubuntu",
+    "t": "ppa",
+    "u": "https://launchpad.net/ubuntu/+ppas?name_filter={{{s}}}"
+  },
+  {
+    "d": "codegolf.stackexchange.com",
+    "s": "Programming Puzzles & Code Golf Stack Exchange",
+    "t": "ppcg",
+    "u": "https://codegolf.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pocketpc.ch",
+    "s": "PocketPC.ch",
+    "t": "ppc",
+    "u": "http://www.pocketpc.ch/google.php?cx=partner-pub-5163471580494836%3A7047225119&ie=UTF-8&cof=FORID%3A9&q={{{s}}}&sa.x=0&sa.y=0"
+  },
+  {
+    "d": "developer.paypal.com",
+    "s": "PayPal Developer",
+    "t": "ppdev",
+    "u": "https://developer.paypal.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "papago.naver.com",
+    "s": "Naver Papago",
+    "t": "ppg",
+    "u": "https://papago.naver.com/?st={{{s}}}"
+  },
+  {
+    "d": "dictionary.pinpinchinese.com",
+    "s": "Pin Pin",
+    "t": "ppin",
+    "u": "http://dictionary.pinpinchinese.com/search/t/{{{s}}}"
+  },
+  {
+    "d": "www.pinterest.com",
+    "s": "Pinterest",
+    "t": "p",
+    "u": "https://www.pinterest.com/search/pins/?q={{{s}}}"
+  },
+  {
+    "d": "plymouthpubliclibrary.bibliocommons.com",
+    "s": "Plymouth (Indiana) Public Library",
+    "t": "ppl",
+    "u": "https://plymouthpubliclibrary.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&q={{{s}}}"
+  },
+  {
+    "d": "pplware.sapo.pt",
+    "s": "Pplware",
+    "t": "pplware",
+    "u": "http://pplware.sapo.pt/resultados-da-pesquisa/?cx=partner-pub-1446920356351445%3Apqahidy83wu&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&sa=Pesquisar"
+  },
+  {
+    "d": "thepluginpeople.atlassian.net",
+    "s": "The Plugin People Wiki",
+    "t": "pplwiki",
+    "u": "https://thepluginpeople.atlassian.net/wiki/dosearchsite.action?queryString={{{s}}}"
+  },
+  {
+    "d": "passapalavra.info",
+    "s": "Passa Palavra",
+    "t": "pp",
+    "u": "http://passapalavra.info/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "powerpoint search",
+    "t": "ppt",
+    "u": "https://duckduckgo.com/?q={{{s}}}+filetype%3Appt"
+  },
+  {
+    "d": "emonitoring.poczta-polska.pl",
+    "s": "Polish Post tracking",
+    "t": "pptrack",
+    "u": "http://emonitoring.poczta-polska.pl/?lang=en&numer={{{s}}}"
+  },
+  {
+    "d": "pr0gramm.com",
+    "s": "Pr0gramm",
+    "t": "pr0",
+    "u": "http://pr0gramm.com/top/{{{s}}}"
+  },
+  {
+    "d": "www.prabhasakshi.com",
+    "s": "prabhasakshi",
+    "t": "prab",
+    "u": "https://www.prabhasakshi.com/topics/{{{s}}}"
+  },
+  {
+    "d": "pragprog.com",
+    "s": "The Pragmatic Bookshelf",
+    "t": "pragprog",
+    "u": "https://pragprog.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pravda.sk",
+    "s": "Pravda",
+    "t": "pravda",
+    "u": "https://www.pravda.sk/vyhladavanie/?q={{{s}}}"
+  },
+  {
+    "d": "www.pravidla.cz",
+    "s": "Pravidla českého pravopisu",
+    "t": "pravidla",
+    "u": "http://www.pravidla.cz/hledej/?qr={{{s}}}"
+  },
+  {
+    "d": "www.progressiverc.com",
+    "s": "ProgressiveRC",
+    "t": "prc",
+    "u": "http://www.progressiverc.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.protondb.com",
+    "s": "ProtonDB",
+    "t": "prdb",
+    "u": "https://www.protondb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.prdl.org",
+    "s": "The Post-Reformation Digital Library",
+    "t": "prdl",
+    "u": "http://www.prdl.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "paizo.com",
+    "s": "Pathfinder Reference Document",
+    "t": "prd",
+    "u": "http://paizo.com/search?q={{{s}}}&what=prd&includeUnrated=true&includeUnavailable=true"
+  },
+  {
+    "d": "www.predictit.org",
+    "s": "PredictIt",
+    "t": "predictit",
+    "u": "https://www.predictit.org/markets/search?query={{{s}}}"
+  },
+  {
+    "d": "archive.org",
+    "s": "Internet Archive - Prelinger Archives",
+    "t": "prel",
+    "u": "https://archive.org/details/prelinger?and%5B%5D={{{s}}}"
+  },
+  {
+    "d": "preloved.com",
+    "s": "Preloved",
+    "t": "preloved",
+    "u": "http://preloved.com/?q={{{s}}}"
+  },
+  {
+    "d": "prwirepro.com",
+    "s": "PR Wire Pro",
+    "t": "press",
+    "u": "https://prwirepro.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.prestoclassical.co.uk",
+    "s": "Presto Classical",
+    "t": "presto",
+    "u": "http://www.prestoclassical.co.uk/search.php?searchString={{{s}}}"
+  },
+  {
+    "d": "pretium.direct",
+    "s": "Pretium",
+    "t": "pretium",
+    "u": "http://pretium.direct/search/?query={{{s}}}"
+  },
+  {
+    "d": "prezi.com",
+    "s": "Prezi",
+    "t": "prezi",
+    "u": "http://prezi.com/explore/search/?search={{{s}}}"
+  },
+  {
+    "d": "www.prezzybox.com",
+    "s": "Prezzybox",
+    "t": "prezzybox",
+    "u": "http://www.prezzybox.com/Search/?s={{{s}}}"
+  },
+  {
+    "d": "pretty-rfc.herokuapp.com",
+    "s": "Pretty-RFC",
+    "t": "prfc",
+    "u": "http://pretty-rfc.herokuapp.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.priberam.pt",
+    "s": "Priberam",
+    "t": "priberam",
+    "u": "https://www.priberam.pt/dlpo/{{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "price",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "www.pricegrabber.com",
+    "s": "Price Grabber",
+    "t": "pricegrabber",
+    "u": "http://www.pricegrabber.com/{{{s}}}/products.html/form_keyword={{{s}}}/st=query/sv=findit_top"
+  },
+  {
+    "d": "www.price.com.hk",
+    "s": "Price.com.hk",
+    "t": "pricehk",
+    "u": "http://www.price.com.hk/search.php?g=A&q={{{s}}}"
+  },
+  {
+    "d": "www.pricemania.sk",
+    "s": "Pricemania",
+    "t": "pricemania",
+    "u": "https://www.pricemania.sk/katalog/vyhladavanie/{{{s}}}.html"
+  },
+  {
+    "d": "www.price.ro",
+    "s": "price.ro",
+    "t": "pricero",
+    "u": "https://www.price.ro/index.php?action=q&text={{{s}}}&submit=Cauta"
+  },
+  {
+    "d": "www.pricerunner.se",
+    "s": "PriceRunner",
+    "t": "pricerunner",
+    "u": "http://www.pricerunner.se/pl/360-364563094/Herrklaeder/Jam-OD-Yellow-Yellow-over-dyed-jean-jacket-priser?other_hits=%3B25607%3B%3B&q=acne+jam+od+yellow+yellow&ref=redirect&search={{{s}}}&sort=4"
+  },
+  {
+    "d": "www.pricerunner.dk",
+    "s": "Pricerunner",
+    "t": "pricerun",
+    "u": "http://www.pricerunner.dk/search?q={{{s}}}"
+  },
+  {
+    "d": "pricespy.co.nz",
+    "s": "pricespy.co.nz",
+    "t": "pricespy",
+    "u": "https://pricespy.co.nz/search?search={{{s}}}"
+  },
+  {
+    "d": "tweakers.net",
+    "s": "Tweakers Pricewatch",
+    "t": "pricewatch",
+    "u": "http://tweakers.net/pricewatch/zoeken/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.outcast.amsterdam",
+    "s": "Outcast Amsterdam",
+    "t": "pride",
+    "u": "https://www.outcast.amsterdam/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "www.primeabgb.com",
+    "s": "PrimeABGB",
+    "t": "primeabgb",
+    "u": "https://www.primeabgb.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "www.primeinspiration.com",
+    "s": "Prime Inspiration",
+    "t": "primeinspire",
+    "u": "https://www.primeinspiration.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Prime Video",
+    "t": "primevideo",
+    "u": "https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dprime-instant-video&field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.jp",
+    "s": "amazon prime video jp",
+    "t": "primevideojp",
+    "u": "https://www.amazon.co.jp/s/?url=search-alias%3Dinstant-video&field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.primfx.com",
+    "s": "PrimFX",
+    "t": "primfx",
+    "u": "https://www.primfx.com/q/{{{s}}}/"
+  },
+  {
+    "d": "fu-berlin.hosted.exlibrisgroup.com",
+    "s": "Bibliothekskatalog Primo der FU Berlin",
+    "t": "primo",
+    "u": "https://fu-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=fub&search_scope=FUB_ALL&vid=FUB&lang=de_DE&offset=0"
+  },
+  {
+    "d": "www.primrose.co.uk",
+    "s": "Primrose",
+    "t": "primrose",
+    "u": "http://www.primrose.co.uk/search.mvc?search_term={{{s}}}"
+  },
+  {
+    "d": "library.princeton.edu",
+    "s": "Princeton University Library",
+    "t": "princetonlib",
+    "u": "https://library.princeton.edu/find/all/{{{s}}}"
+  },
+  {
+    "d": "www.princeton.edu",
+    "s": "Princeton",
+    "t": "princeton",
+    "u": "https://www.princeton.edu/main/tools/search/?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.princetonreview.com",
+    "s": "Princeton Review",
+    "t": "princetonreview",
+    "u": "https://www.princetonreview.com/search-results?q={{{s}}}"
+  },
+  {
+    "d": "printeera.com",
+    "s": "Printeera",
+    "t": "printeera",
+    "u": "https://printeera.com/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "www.prisguide.no",
+    "s": "Prisguide.no",
+    "t": "prisguide",
+    "u": "https://www.prisguide.no/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.prisjakt.nu",
+    "s": "Prisjakt",
+    "t": "prisjakt",
+    "u": "https://www.prisjakt.nu/search?search={{{s}}}"
+  },
+  {
+    "d": "www.prisjakt.nu",
+    "s": "Prisjakt",
+    "t": "pris",
+    "u": "https://www.prisjakt.nu/search?search={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/privacy Subreddit",
+    "t": "privacy",
+    "u": "https://www.reddit.com/r/privacy/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "journals.aps.org",
+    "s": "American Physical Society",
+    "t": "prl",
+    "u": "http://journals.aps.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.prosieben.de",
+    "s": "ProSieben",
+    "t": "pro7",
+    "u": "http://www.prosieben.de/suche?q={{{s}}}"
+  },
+  {
+    "d": "prostor-av.com",
+    "s": "prostor-av.com",
+    "t": "proav",
+    "u": "https://prostor-av.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.probuilds.net",
+    "s": "Probuilds",
+    "t": "probuilds",
+    "u": "https://www.probuilds.net/champions/details/{{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "Processing.org",
+    "t": "processing",
+    "u": "/?q={{{s}}}+site:processing.org"
+  },
+  {
+    "d": "community.progress.com",
+    "s": "Progress Community",
+    "t": "procomm",
+    "u": "https://community.progress.com/search#q={{{s}}}"
+  },
+  {
+    "d": "www.procook.co.uk",
+    "s": "ProCook",
+    "t": "procook",
+    "u": "http://www.procook.co.uk/shop/search/?searchDep=main+site&searchstr={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "Processing.org",
+    "t": "proc",
+    "u": "/?q={{{s}}}+site:processing.org"
+  },
+  {
+    "d": "www.producthunt.com",
+    "s": "Producthunt",
+    "t": "prodhun",
+    "u": "http://www.producthunt.com/#!/s/posts/{{{s}}}"
+  },
+  {
+    "d": "www.producthunt.com",
+    "s": "Product Hunt",
+    "t": "producthunt",
+    "u": "https://www.producthunt.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.proff.no",
+    "s": "Proff",
+    "t": "proff",
+    "u": "https://www.proff.no/rollesøk?q={{{s}}}"
+  },
+  {
+    "d": "help.profitopia.de",
+    "s": "Profitopia Help",
+    "t": "profitopia",
+    "u": "https://help.profitopia.de/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "progaccess33.net",
+    "s": "ProgAccess33",
+    "t": "progaccess",
+    "u": "https://progaccess33.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.progarchives.com",
+    "s": "Prog Archives",
+    "t": "progarchives",
+    "u": "http://www.progarchives.com/google-search-results.asp?cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&cx=partner-pub-0447992028883143%3Aj1syec-2iv1&sa=submit&siteurl=www.progarchives.com%252Falbum.asp%253Fid%253D998"
+  },
+  {
+    "d": "programmers.stackexchange.com",
+    "s": "programmers.stackexchange.com",
+    "t": "prog",
+    "u": "http://programmers.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.codespeedy.com",
+    "s": "CodeSpeedy",
+    "t": "program",
+    "u": "https://www.codespeedy.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.programmableweb.com",
+    "s": "ProgrammableWeb",
+    "t": "programmableweb",
+    "u": "http://www.programmableweb.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit /r/ProgrammerHumor",
+    "t": "programmerhumor",
+    "u": "https://www.reddit.com/r/ProgrammerHumor/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "knowledgebase.progress.com",
+    "s": "Progress",
+    "t": "progress",
+    "u": "http://knowledgebase.progress.com/pkb_Home?q={{{s}}}"
+  },
+  {
+    "d": "www.progarchives.com",
+    "s": "progrock archives",
+    "t": "progrock",
+    "u": "http://www.progarchives.com/google-search-results.asp?cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&cx=partner-pub-0447992028883143%3Aj1syec-2iv1&sa=submit&siteurl=www.progarchives.com%2F&ref=&ss=515j83611j5"
+  },
+  {
+    "d": "www.gutenberg.org",
+    "s": "Project Gutenberg",
+    "t": "projectgutenberg",
+    "u": "http://www.gutenberg.org/ebooks/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.precisionroller.com",
+    "s": "Precision Roller",
+    "t": "proll",
+    "u": "http://www.precisionroller.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.promobit.com.br",
+    "s": "Promobit",
+    "t": "promobit",
+    "u": "https://www.promobit.com.br/buscar?q={{{s}}}"
+  },
+  {
+    "d": "prom.ua",
+    "s": "Prom",
+    "t": "prom",
+    "u": "https://prom.ua/search?search_term={{{s}}}"
+  },
+  {
+    "d": "dictionary.reference.com",
+    "s": "Dictionary.com",
+    "t": "pronounce",
+    "u": "http://dictionary.reference.com/browse/{{{s}}}"
+  },
+  {
+    "d": "www.pronto.com.ar",
+    "s": "Revista Pronto",
+    "t": "pronto",
+    "u": "http://www.pronto.com.ar/search/google?q={{{s}}}"
+  },
+  {
+    "d": "proofwiki.org",
+    "s": "Proof Wiki",
+    "t": "proof",
+    "u": "https://proofwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.proofwiki.org",
+    "s": "ProofWiki",
+    "t": "proofwiki",
+    "u": "http://www.proofwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "programmers.stackexchange.com",
+    "s": "programmers.stackexchange.com",
+    "t": "pro",
+    "u": "http://programmers.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.proshop.dk",
+    "s": "Proshop",
+    "t": "proshop",
+    "u": "https://www.proshop.dk/?s={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "NCBI Protein",
+    "t": "protein",
+    "u": "https://www.ncbi.nlm.nih.gov/protein/?term={{{s}}}"
+  },
+  {
+    "d": "www.protocentral.com",
+    "s": "Protocentral",
+    "t": "protocentral",
+    "u": "https://www.protocentral.com/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}"
+  },
+  {
+    "d": "www.protocol.co.il",
+    "s": "Protocol",
+    "t": "protocol",
+    "u": "https://www.protocol.co.il/?s={{{s}}}"
+  },
+  {
+    "d": "protocols.io",
+    "s": "Protocols.io",
+    "t": "protocolsio",
+    "u": "https://protocols.io/search?key={{{s}}}"
+  },
+  {
+    "d": "www.protondb.com",
+    "s": "ProtonDB",
+    "t": "protondb",
+    "u": "https://www.protondb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.protondb.com",
+    "s": "https://www.protondb.com/",
+    "t": "proton",
+    "u": "https://www.protondb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "mail.protonmail.com",
+    "s": "ProtonMail",
+    "t": "protonmail",
+    "u": "https://mail.protonmail.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.provigo.ca",
+    "s": "Provigo Grocery Store",
+    "t": "provigo",
+    "u": "https://www.provigo.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "d": "www.proz.com",
+    "s": "Proz.com Forums",
+    "t": "proz",
+    "u": "https://www.proz.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "discover.poudrelibraries.org",
+    "s": "Poudre River Public Library",
+    "t": "prpl",
+    "u": "http://discover.poudrelibraries.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng"
+  },
+  {
+    "d": "prpm.dbp.gov.my",
+    "s": "Pusat Rujukan Persuratan Melayu",
+    "t": "prpm",
+    "u": "http://prpm.dbp.gov.my/Search.aspx?k={{{s}}}"
+  },
+  {
+    "d": "ar.prvademecum.com",
+    "s": "PR Vademecum Argentina",
+    "t": "pr",
+    "u": "http://ar.prvademecum.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.prusaprinters.org",
+    "s": "Prusa Printers",
+    "t": "prusa",
+    "u": "https://www.prusaprinters.org/search/all?q={{{s}}}"
+  },
+  {
+    "d": "palmettostatearmory.com",
+    "s": "Palmetto State Armory",
+    "t": "psa",
+    "u": "https://palmettostatearmory.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.podcastscience.fm",
+    "s": "Podcast Science",
+    "t": "psci",
+    "u": "http://www.podcastscience.fm/?s={{{s}}} "
+  },
+  {
+    "d": "www.psd-dude.com",
+    "s": "PSDDude Photoshop Tutorials",
+    "t": "psddude",
+    "u": "http://www.psd-dude.com/tutorials/?search={{{s}}}"
+  },
+  {
+    "d": "physics.stackexchange.com",
+    "s": "Physics - Stack Exchange",
+    "t": "pse",
+    "u": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "store.playstation.com",
+    "s": "PlayStation Store Games Canada",
+    "t": "psgca",
+    "u": "https://store.playstation.com/en-ca/grid/search-game/1?query={{{s}}}"
+  },
+  {
+    "d": "www.powershellgallery.com",
+    "s": "PowerShell Gallery",
+    "t": "psg",
+    "u": "https://www.powershellgallery.com/packages?q={{{s}}}"
+  },
+  {
+    "d": "www.programmingsimplified.com",
+    "s": "Programming Simplified",
+    "t": "psimplified",
+    "u": "http://www.programmingsimplified.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.psi.ch",
+    "s": "PSI Phonebook",
+    "t": "psi",
+    "u": "https://www.psi.ch/search/telefonbuch-und-e-mail?q={{{s}}}"
+  },
+  {
+    "d": "www.psiram.com",
+    "s": "Psiram",
+    "t": "psiram",
+    "u": "https://www.psiram.com/de/index.php?title=Spezial%3ASuche&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "image.parsijoo.ir",
+    "s": "Parsijoo Image Search",
+    "t": "psji",
+    "u": "http://image.parsijoo.ir/image?q={{{s}}}"
+  },
+  {
+    "d": "parsijoo.ir",
+    "s": "Parsijoo",
+    "t": "psj",
+    "u": "http://parsijoo.ir/web?q={{{s}}}"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": "PowerShell Module Browser",
+    "t": "psmb",
+    "u": "https://docs.microsoft.com/en-us/powershell/module/?term={{{s}}}"
+  },
+  {
+    "d": "store.playstation.com",
+    "s": "PlayStation Store Deutschland",
+    "t": "psnde",
+    "u": "https://store.playstation.com/de-de/search/{{{s}}}"
+  },
+  {
+    "d": "store.playstation.com",
+    "s": "Playstation Store JP",
+    "t": "psnjp",
+    "u": "https://store.playstation.com/ja-jp/search/{{{s}}}"
+  },
+  {
+    "d": "store.playstation.com",
+    "s": "Playstation Store NZ",
+    "t": "psnnz",
+    "u": "https://store.playstation.com/en-nz/grid/search-game/1?query={{{s}}}"
+  },
+  {
+    "d": "store.playstation.com",
+    "s": "Playstation Store",
+    "t": "psn",
+    "u": "https://store.playstation.com/#!/en-us/search/q={{{s}}}"
+  },
+  {
+    "d": "psnprofiles.com",
+    "s": "PSN Profiles",
+    "t": "psnprofiles",
+    "u": "https://psnprofiles.com/search/games?q={{{s}}}"
+  },
+  {
+    "d": "store.playstation.com",
+    "s": "Playstation Store UK",
+    "t": "psnuk",
+    "u": "http://store.playstation.com/#!/en-gb/search/q={{{s}}}"
+  },
+  {
+    "d": "pricespy.co.nz",
+    "s": "PriceSpy",
+    "t": "psnz",
+    "u": "https://pricespy.co.nz/search?q={{{s}}}"
+  },
+  {
+    "d": "www.psoriasis-netz.de",
+    "s": "Psoriasis-Netz",
+    "t": "pso",
+    "u": "https://www.psoriasis-netz.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.pspgen.com",
+    "s": "PSP GEN",
+    "t": "pspgen",
+    "u": "http://www.pspgen.com/s/{{{s}}}/"
+  },
+  {
+    "d": "www.playstation.com",
+    "s": "Playstation",
+    "t": "ps",
+    "u": "https://www.playstation.com/search-results/?q={{{s}}}"
+  },
+  {
+    "d": "psprices.com",
+    "s": "PSPrices",
+    "t": "psprices",
+    "u": "https://psprices.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.postgresql.org",
+    "s": "PostgreSQL (Docs)",
+    "t": "psql",
+    "u": "http://www.postgresql.org/search/?q={{{s}}} &a=1&submit=Search"
+  },
+  {
+    "d": "store.playstation.com",
+    "s": "PlayStation Store",
+    "t": "pss",
+    "u": "https://store.playstation.com/en-us/search/{{{s}}}"
+  },
+  {
+    "d": "pste.eu",
+    "s": "Pste.eu",
+    "t": "pste",
+    "u": "https://pste.eu/?q={{{s}}}"
+  },
+  {
+    "d": "www.collegian.psu.edu",
+    "s": "The Daily Collegian",
+    "t": "psudc",
+    "u": "http://www.collegian.psu.edu/search/?f=html&q={{{s}}}"
+  },
+  {
+    "d": "pricespy.co.uk",
+    "s": "pricespyuk",
+    "t": "psuk",
+    "u": "https://pricespy.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "psu.summon.serialssolutions.com",
+    "s": "Penn State Library",
+    "t": "psulib",
+    "u": "http://psu.summon.serialssolutions.com/search/results?spellcheck=true&q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.psu.edu",
+    "s": "The Pennsylvania State University",
+    "t": "psu",
+    "u": "http://www.psu.edu/search/gss?query={{{s}}}"
+  },
+  {
+    "d": "www.psychologytoday.com",
+    "s": "https://psychologytoday.com",
+    "t": "psych22",
+    "u": "https://www.psychologytoday.com/us/search/site/{{{s}}}"
+  },
+  {
+    "d": "psychiatry.org",
+    "s": "American Psychiatric Association",
+    "t": "psych",
+    "u": "https://psychiatry.org/home/search-results?k={{{s}}}"
+  },
+  {
+    "d": "psychonautwiki.org",
+    "s": "PsychonautWiki",
+    "t": "psychonautwiki",
+    "u": "https://psychonautwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "psychonautwiki.org",
+    "s": "PsychonautWiki",
+    "t": "psy",
+    "u": "https://psychonautwiki.org/w/index.php?search={{{s}}}&title=Special:Search"
+  },
+  {
+    "d": "jp.search.app.ricoh",
+    "s": "Pentax Cameras",
+    "t": "ptax",
+    "u": "http://jp.search.app.ricoh/en_imaging/search.x?q={{{s}}}"
+  },
+  {
+    "d": "pkmncards.com",
+    "s": "PkmnCards",
+    "t": "ptcg",
+    "u": "http://pkmncards.com/?s={{{s}}}&display=card&sort=date"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate - pt-en",
+    "t": "pten",
+    "u": "https://translate.google.com/#pt/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate Portuguese-Spanish",
+    "t": "ptes",
+    "u": "https://translate.google.com/#pt/es/{{{s}}}"
+  },
+  {
+    "d": "the-ptg.blogspot.in",
+    "s": "The Great Blog",
+    "t": "ptg",
+    "u": "https://the-ptg.blogspot.in/search?q={{{s}}}"
+  },
+  {
+    "d": "www.planttherapy.com",
+    "s": "Plant Therapy",
+    "t": "pth",
+    "u": "https://www.planttherapy.com/search?Store_Code=PT&q={{{s}}}"
+  },
+  {
+    "d": "www.protondb.com",
+    "s": "ProtonDB",
+    "t": "ptn",
+    "u": "https://www.protondb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.powerthesaurus.org",
+    "s": "Power Thesaurus ",
+    "t": "pt",
+    "u": "https://www.powerthesaurus.org/{{{s}}}"
+  },
+  {
+    "d": "www.protoolreviews.com",
+    "s": "Pro Tool Reviews",
+    "t": "ptr",
+    "u": "http://www.protoolreviews.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.ptt.cc",
+    "s": "PTT",
+    "t": "ptt",
+    "u": "https://www.ptt.cc/bbs/{{{s}}}"
+  },
+  {
+    "d": "peer.tube",
+    "s": "PeerTube",
+    "t": "ptube",
+    "u": "https://peer.tube/search?search={{{s}}}"
+  },
+  {
+    "d": "www.ptv.vic.gov.au",
+    "s": "PTV Victoria",
+    "t": "ptv",
+    "u": "https://www.ptv.vic.gov.au/search/getForm?Search={{{s}}}&action_getSearchResults=Go"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "PubChem",
+    "t": "pubchem",
+    "u": "http://www.ncbi.nlm.nih.gov/pccompound/?term={{{s}}}"
+  },
+  {
+    "d": "pub.dev",
+    "s": "pub.dev",
+    "t": "pubdev",
+    "u": "https://pub.dev/packages?q={{{s}}}"
+  },
+  {
+    "d": "pubgmobileupdate.com",
+    "s": "Pubg Mobile Update",
+    "t": "pubg",
+    "u": "https://pubgmobileupdate.com/?s={{{s}}}"
+  },
+  {
+    "d": "pubg.gamepedia.com",
+    "s": "PLAYERUNKNOWN'S BATTLEGROUNDS Wiki",
+    "t": "pubgwiki",
+    "u": "https://pubg.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "pubmed.ncbi.nlm.nih.gov",
+    "s": "PubMed Labs",
+    "t": "publabs",
+    "u": "https://pubmed.ncbi.nlm.nih.gov/?term={{{s}}}"
+  },
+  {
+    "d": "publc.com",
+    "s": "PUBLC",
+    "t": "publc",
+    "u": "https://publc.com/{{{s}}}"
+  },
+  {
+    "d": "publicintelligence.net",
+    "s": "Public Intelligence",
+    "t": "publicintelligence",
+    "u": "https://publicintelligence.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.publico.pt",
+    "s": "Publico",
+    "t": "publico",
+    "u": "http://www.publico.pt/pesquisa?q={{{s}}}"
+  },
+  {
+    "d": "www.publix.com",
+    "s": "Publix",
+    "t": "publix",
+    "u": "http://www.publix.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "PubMed",
+    "t": "pubmed",
+    "u": "https://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "Pubmed",
+    "t": "pub",
+    "u": "https://www.ncbi.nlm.nih.gov/pubmed?EntrezSystem2.PEntrez.Pubmed.SearchBar.Db=pubmed&term={{{s}}}"
+  },
+  {
+    "d": "www.pubsgalore.co.uk",
+    "s": "Pubs Galore",
+    "t": "pubs",
+    "u": "http://www.pubsgalore.co.uk/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.pucsp.br",
+    "s": "PUC-SP - Pontifícia Universidade Católica de São Paulo",
+    "t": "pucsp",
+    "u": "https://www.pucsp.br/buscar?search_api_fulltext={{{s}}}&field_area_de_conhecimento=All&field_escola=&type=All"
+  },
+  {
+    "d": "packages.ubuntu.com",
+    "s": "Ubuntu Packages Search",
+    "t": "puc",
+    "u": "http://packages.ubuntu.com/{{{s}}}"
+  },
+  {
+    "d": "nationalarchives.gov.uk",
+    "s": "PRONOM technical registry (The National Archives)",
+    "t": "puid",
+    "u": "http://nationalarchives.gov.uk/PRONOM/{{{s}}}"
+  },
+  {
+    "d": "www.pumpbiz.com",
+    "s": "PumpBiz",
+    "t": "pumpbiz",
+    "u": "http://www.pumpbiz.com/shopping_search.asp?searchString={{{s}}}&searchType=0&FIND.x=0&FIND.y=0&FIND=FIND+IT"
+  },
+  {
+    "d": "punctumbooks.com",
+    "s": "punctum books",
+    "t": "punctumbooks",
+    "u": "https://punctumbooks.com/?s={{{s}}}"
+  },
+  {
+    "d": "forge.puppetlabs.com",
+    "s": "Puppet Forge",
+    "t": "puppet",
+    "u": "http://forge.puppetlabs.com/modules?q={{{s}}}&commit=Go"
+  },
+  {
+    "d": "docs.puppet.com",
+    "s": "Puppet Docs",
+    "t": "puptype",
+    "u": "https://docs.puppet.com/puppet/latest/type.html#{{{s}}}"
+  },
+  {
+    "d": "www.pulseuniform.com",
+    "s": "PulseUniform - Nursing Uniforms, Medical Scrubs, Lab Coats and Accessories",
+    "t": "pu",
+    "u": "https://www.pulseuniform.com/search.asp?q={{{s}}}"
+  },
+  {
+    "d": "puredata.info",
+    "s": "Pure Data",
+    "t": "puredata",
+    "u": "http://puredata.info/search?SearchableText={{{s}}}"
+  },
+  {
+    "d": "eshiponline.purolator.com",
+    "s": "Purolator shipment tracking",
+    "t": "purolator",
+    "u": "https://eshiponline.purolator.com/ShipOnline/Public/Track/TrackingDetails.aspx?pin={{{s}}}"
+  },
+  {
+    "d": "search.freefind.com",
+    "s": "PurpleMath",
+    "t": "purplemath",
+    "u": "http://search.freefind.com/find.html?id=5014414&pageid=r&mode=ALL&n=0&query={{{s}}}"
+  },
+  {
+    "d": "pursuit.purescript.org",
+    "s": "Pursuit",
+    "t": "purs",
+    "u": "https://pursuit.purescript.org/search?q={{{s}}}"
+  },
+  {
+    "d": "pursuit.purescript.org",
+    "s": "Pursuit",
+    "t": "pursuit",
+    "u": "http://pursuit.purescript.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.puzzlopia.com",
+    "s": "Puzzlopia",
+    "t": "puzzles",
+    "u": "http://www.puzzlopia.com/search-results?search={{{s}}}"
+  },
+  {
+    "d": "puzzling.stackexchange.com",
+    "s": "Puzzling",
+    "t": "puzzse",
+    "u": "https://puzzling.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.primevideo.com",
+    "s": "Prime Video",
+    "t": "pv",
+    "u": "https://www.primevideo.com/region/eu/search/ref=dv_web_nav_search?phrase={{{s}}}&ie=UTF8"
+  },
+  {
+    "d": "plantsvszombies.wikia.com",
+    "s": "Plants vs. Zombies Wiki",
+    "t": "pvz",
+    "u": "http://plantsvszombies.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "paperswithcode.com",
+    "s": "https://paperswithcode.com/",
+    "t": "pwc",
+    "u": "https://paperswithcode.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.pokewiki.de",
+    "s": "http://www.pokewiki.de/",
+    "t": "pwde",
+    "u": "http://www.pokewiki.de/index.php?search={{{s}}}&title=Spezial%3ASuche&go=Seite"
+  },
+  {
+    "d": "polarweldfin.com",
+    "s": "Polarweldfin",
+    "t": "pwf",
+    "u": "https://polarweldfin.com/etsi?controller=search&s={{{s}}}"
+  },
+  {
+    "d": "psychonautwiki.org",
+    "s": "PsychonautWiki",
+    "t": "pwiki",
+    "u": "https://psychonautwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "haveibeenpwned.com",
+    "s": "Have i been pwned?",
+    "t": "pwned",
+    "u": "https://haveibeenpwned.com/account/{{{s}}}"
+  },
+  {
+    "d": "fa.wikipedia.org",
+    "s": "Persian Wikipedia",
+    "t": "pwp",
+    "u": "https://fa.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.pricewatch.com",
+    "s": "Pricewatch",
+    "t": "pw",
+    "u": "http://www.pricewatch.com/search?q={{{s}}} "
+  },
+  {
+    "d": "programadorwebvalencia.com",
+    "s": "Programador Web Valencia",
+    "t": "pwv",
+    "u": "https://programadorwebvalencia.com/blog/?search={{{s}}}"
+  },
+  {
+    "d": "pixabay.com",
+    "s": "Pixabay",
+    "t": "pxb",
+    "u": "http://pixabay.com/en/photos/?q={{{s}}}"
+  },
+  {
+    "d": "www.phoenixcontact.com",
+    "s": "Phoenix Contact",
+    "t": "pxc",
+    "u": "http://www.phoenixcontact.com/online/portal/us?q={{{s}}}&uri=pxc-search%3Awebsite&library=usen"
+  },
+  {
+    "d": "pxhere.com",
+    "s": "pxhere",
+    "t": "pxhere",
+    "u": "https://pxhere.com/en/photos?q={{{s}}}"
+  },
+  {
+    "d": "pixabay.com",
+    "s": "Pixabay",
+    "t": "px",
+    "u": "http://pixabay.com/en/photos/?q={{{s}}}"
+  },
+  {
+    "d": "pixabay.com",
+    "s": "Pixabay vector graphics",
+    "t": "pxvg",
+    "u": "https://pixabay.com/en/photos/?image_type=vector&cat=&min_width=&min_height=&q={{{s}}}&order=latest"
+  },
+  {
+    "d": "pixabay.com",
+    "s": "Pixabay Vector Graphics",
+    "t": "pxv",
+    "u": "https://pixabay.com/en/photos/?q={{{s}}}&image_type=vector&cat=&min_width=&min_height="
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python 2.7.10 Documentation",
+    "t": "py27",
+    "u": "https://docs.python.org/2.7/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Docs Python 2",
+    "t": "py2",
+    "u": "https://docs.python.org/2.7/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python Documentation",
+    "t": "py34",
+    "u": "https://docs.python.org/3.4/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python 3.5 Documentation",
+    "t": "py35",
+    "u": "https://docs.python.org/3.5/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python 3.6 Documentation",
+    "t": "py36doc",
+    "u": "https://docs.python.org/3.6/library/{{{s}}}.html"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python3 Documentation (French)",
+    "t": "py3fr",
+    "u": "https://docs.python.org/fr/3/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python 3 Docs",
+    "t": "py3k",
+    "u": "http://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python3 Documentation",
+    "t": "py3",
+    "u": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.primiciasya.com",
+    "s": "PrimiciasYA.com",
+    "t": "pya",
+    "u": "http://www.primiciasya.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "bugs.python.org",
+    "s": "Python Bug Tracker",
+    "t": "pybug",
+    "u": "https://bugs.python.org/issue?search_text={{{s}}}"
+  },
+  {
+    "d": "www.pygame.org",
+    "s": "Pygame",
+    "t": "pygame",
+    "u": "https://www.pygame.org/docs/search.html?q={{{s}}}"
+  },
+  {
+    "d": "pylint-messages.wikidot.com",
+    "s": "PyLint Messages",
+    "t": "pylm",
+    "u": "http://pylint-messages.wikidot.com/messages:{{{s}}}"
+  },
+  {
+    "d": "help.autodesk.com",
+    "s": "Maya PyMEL documentation",
+    "t": "pymel",
+    "u": "https://help.autodesk.com/cloudhelp/2018/ENU/Maya-Tech-Docs/PyMel/search.html?q={{{s}}}&check_keywords=yes"
+  },
+  {
+    "d": "pypi.org",
+    "s": "pypi.org",
+    "t": "pypa",
+    "u": "https://pypi.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "pypi.org",
+    "s": "PyPI",
+    "t": "pypi",
+    "u": "https://pypi.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python",
+    "t": "py",
+    "u": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.riverbankcomputing.com",
+    "s": "PyQt5",
+    "t": "pyqt5",
+    "u": "https://www.riverbankcomputing.com/static/Docs/PyQt5/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "pyqt.sourceforge.net",
+    "s": "PyQt",
+    "t": "pyqt",
+    "u": "http://pyqt.sourceforge.net/Docs/PyQt5/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.pylonsproject.org",
+    "s": "docs.pylonproject.org",
+    "t": "pyramid",
+    "u": "https://docs.pylonsproject.org/projects/pyramid/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "doc-snapshots.qt.io",
+    "s": "Pyside2 Docs",
+    "t": "pyside2",
+    "u": "https://doc-snapshots.qt.io/qtforpython/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.pyside.org",
+    "s": "PySide",
+    "t": "pyside",
+    "u": "http://www.pyside.org/docs/pyside/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "spark.apache.org",
+    "s": "PySpark documentation",
+    "t": "pyspark",
+    "u": "https://spark.apache.org/docs/latest/api/python/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python2.6 Docs",
+    "t": "python26",
+    "u": "http://docs.python.org/2.6/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python2.7 Docs",
+    "t": "python27",
+    "u": "http://docs.python.org/2.7/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python",
+    "t": "python2",
+    "u": "https://docs.python.org/2/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python3.0 Docs",
+    "t": "python30",
+    "u": "http://docs.python.org/3.0/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python3.1 Docs",
+    "t": "python31",
+    "u": "http://docs.python.org/3.1/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python3.2 Docs",
+    "t": "python32",
+    "u": "http://docs.python.org/3.2/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python 3",
+    "t": "python3",
+    "u": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python dev doc",
+    "t": "pythondev",
+    "u": "http://docs.python.org/dev/search.html?q={{{s}}} "
+  },
+  {
+    "d": "docs.python.org",
+    "s": "Python",
+    "t": "python",
+    "u": "https://docs.python.org/3/search.html?q={{{s}}}"
+  },
+  {
+    "d": "pytorch.org",
+    "s": "pytorch.org",
+    "t": "pytorch",
+    "u": "https://pytorch.org/docs/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "pyvideo.org",
+    "s": "pyvideo.org",
+    "t": "pyvideo",
+    "u": "http://pyvideo.org/search?models=videos.video&q={{{s}}}"
+  },
+  {
+    "d": "pzwiki.net",
+    "s": "Project Zomboid Wiki",
+    "t": "pzw",
+    "u": "https://pzwiki.net/w/index.php?search={{{s}}}"
+  }
+]

@@ -1,0 +1,3908 @@
+[
+  {
+    "d": "b0b.fr",
+    "s": "b0b.fr",
+    "t": "b0b",
+    "u": "http://b0b.fr/?s={{{s}}}"
+  },
+  {
+    "d": "b3ta.com",
+    "s": "B3TA",
+    "t": "b3ta",
+    "u": "http://b3ta.com/search/posts?q={{{s}}}"
+  },
+  {
+    "d": "www.biology4kids.com",
+    "s": "Biology4kids",
+    "t": "b4kids",
+    "u": "http://www.biology4kids.com/search.html?cx=partner-pub-9168758629909687%3A9553394167&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "www.b4x.com",
+    "s": "B4X",
+    "t": "b4x",
+    "u": "https://www.b4x.com/android/forum/pages/results/?query={{{s}}}"
+  },
+  {
+    "d": "babylon5.wikia.com",
+    "s": "The Babylon Project",
+    "t": "b5",
+    "u": "http://babylon5.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.alibaba.com",
+    "s": "Alibaba",
+    "t": "baba",
+    "u": "https://www.alibaba.com/trade/search?IndexArea=product_en&CatId=&SearchText={{{s}}}"
+  },
+  {
+    "d": "www.babla.fr",
+    "s": "Bab.la FR",
+    "t": "bab",
+    "u": "http://www.babla.fr/anglais-francais/{{{s}}}"
+  },
+  {
+    "d": "en.bab.la",
+    "s": "bab.la English-Czech dictionary",
+    "t": "babcs",
+    "u": "https://en.bab.la/dictionary/english-czech/{{{s}}}"
+  },
+  {
+    "d": "fr.bab.la",
+    "s": "bab",
+    "t": "babdedk",
+    "u": "http://fr.bab.la/dictionnaire/danois-allemand/{{{s}}}"
+  },
+  {
+    "d": "beeradvocate.com",
+    "s": "Beer Advocate",
+    "t": "ba",
+    "u": "http://beeradvocate.com/search?q={{{s}}}&qt=beer"
+  },
+  {
+    "d": "nl.bab.la",
+    "s": "Bab.la NL",
+    "t": "babel",
+    "u": "http://nl.bab.la/woordenboek/nederlands-engels/{{{s}}}"
+  },
+  {
+    "d": "live.babelnet.org",
+    "s": "BabelNet",
+    "t": "babelnet",
+    "u": "http://live.babelnet.org/search?word={{{s}}}&lang=EN"
+  },
+  {
+    "d": "en.bab.la",
+    "s": "en.bab.la/dictionary/english-german/",
+    "t": "babende",
+    "u": "http://en.bab.la/dictionary/english-german/{{{s}}}"
+  },
+  {
+    "d": "en.bab.la",
+    "s": "Bab.la English-Esperanto",
+    "t": "babeneo",
+    "u": "http://en.bab.la/dictionary/english-esperanto/{{{s}}}"
+  },
+  {
+    "d": "en.bab.la",
+    "s": "bab.la english swedish",
+    "t": "babensw",
+    "u": "https://en.bab.la/dictionary/english-swedish/{{{s}}}"
+  },
+  {
+    "d": "de.bab.la",
+    "s": "bab.la Spanish-German",
+    "t": "babesde",
+    "u": "http://de.bab.la/woerterbuch/spanisch-deutsch/{{{s}}}"
+  },
+  {
+    "d": "babidoo.de",
+    "s": "BaBiDoo",
+    "t": "babidoo",
+    "u": "https://babidoo.de/?s={{{s}}}"
+  },
+  {
+    "d": "en.bab.la",
+    "s": "Bab.la Polish",
+    "t": "babp",
+    "u": "https://en.bab.la/dictionary/polish-english/{{{s}}}"
+  },
+  {
+    "d": "pl.bab.la",
+    "s": "Bab.la",
+    "t": "babpl",
+    "u": "http://pl.bab.la/slownik/angielski-polski/{{{s}}}"
+  },
+  {
+    "d": "pl.bab.la",
+    "s": "Bab.la pl ru",
+    "t": "babplru",
+    "u": "https://pl.bab.la/slownik/polski-rosyjski/{{{s}}}"
+  },
+  {
+    "d": "sv.bab.la",
+    "s": "bab.la",
+    "t": "babsv",
+    "u": "http://sv.bab.la/lexikon/engelsk-svensk/{{{s}}}"
+  },
+  {
+    "d": "traductor.babylon-software.com",
+    "s": "Babylon Translator <en-es>",
+    "t": "babylonee",
+    "u": "http://traductor.babylon-software.com/ingles/a-espanol/{{{s}}}"
+  },
+  {
+    "d": "babymigo.com",
+    "s": "Babymigo",
+    "t": "babymigo",
+    "u": "https://babymigo.com/search/questions?query={{{s}}}"
+  },
+  {
+    "d": "buenosairesconnect.com",
+    "s": "BuenosAiresConnect",
+    "t": "bac",
+    "u": "http://buenosairesconnect.com/?s={{{s}}}"
+  },
+  {
+    "d": "backpack.tf",
+    "s": "BackPack.tf",
+    "t": "backpack",
+    "u": "http://backpack.tf/id/{{{s}}}"
+  },
+  {
+    "d": "www.backpacker.com",
+    "s": "Backpaker Magazine",
+    "t": "backpacker",
+    "u": "https://www.backpacker.com/search?query={{{s}}}"
+  },
+  {
+    "d": "oracleofbacon.org",
+    "s": "Oracle of Bacon",
+    "t": "bacon",
+    "u": "http://oracleofbacon.org/cgi-bin/movielinks?a=Kevin+Bacon&b={{{s}}}"
+  },
+  {
+    "d": "badi.com",
+    "s": "Badi",
+    "t": "badi",
+    "u": "https://badi.com/us/s/{{{s}}}"
+  },
+  {
+    "d": "www.baeldung.com",
+    "s": "Baeldung",
+    "t": "baeldung",
+    "u": "https://www.baeldung.com/?s={{{s}}}"
+  },
+  {
+    "d": "reiseauskunft.bahn.de",
+    "s": "Deutsche Bahn Reiseauskunft",
+    "t": "bahn",
+    "u": "http://reiseauskunft.bahn.de/bin/query.exe/dn?S=&Z={{{s}}}"
+  },
+  {
+    "d": "www.baidu.com",
+    "s": "Baidu",
+    "t": "baidu",
+    "u": "http://www.baidu.com/s?wd={{{s}}}&cl=3"
+  },
+  {
+    "d": "www.bailii.org",
+    "s": "British and Irish Legal Information Institute",
+    "t": "bailii",
+    "u": "http://www.bailii.org/cgi-bin/sino_search_1.cgi?sort=rank&query={{{s}}}"
+  },
+  {
+    "d": "www.baixaki.com.br",
+    "s": "Baixaki",
+    "t": "baixaki",
+    "u": "http://www.baixaki.com.br/busca.asp?q={{{s}}}"
+  },
+  {
+    "d": "www.baka-tsuki.org",
+    "s": "Baka-Tsuki",
+    "t": "bakatsuki",
+    "u": "https://www.baka-tsuki.org/project/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.mangaupdates.com",
+    "s": "Baka-Updates Manga",
+    "t": "bakaupdatesmanga",
+    "u": "https://www.mangaupdates.com/search.html?search={{{s}}}"
+  },
+  {
+    "d": "ballotpedia.org",
+    "s": "ballotpedia.org",
+    "t": "ballot",
+    "u": "https://ballotpedia.org/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Bambali",
+    "t": "bambali",
+    "u": "https://duckduckgo.com/?q=site%3Abambali.net+{{{s}}}"
+  },
+  {
+    "d": "www.booksamillion.com",
+    "s": "Books-A-Million",
+    "t": "bam",
+    "u": "http://www.booksamillion.com/search?query={{{s}}}"
+  },
+  {
+    "d": "bancodata.com.br",
+    "s": "Banco Data",
+    "t": "bancodata",
+    "u": "https://bancodata.com.br/busca/?i={{{s}}}"
+  },
+  {
+    "d": "band-band.com",
+    "s": "Band-Band Paris",
+    "t": "bandband",
+    "u": "https://band-band.com/?s={{{s}}}"
+  },
+  {
+    "d": "bandcamp.com",
+    "s": "Bandcamp",
+    "t": "bandcamp",
+    "u": "https://bandcamp.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.diy.com",
+    "s": "B&Q",
+    "t": "bandq",
+    "u": "https://www.diy.com/search?Ntt={{{s}}}"
+  },
+  {
+    "d": "baneks.site",
+    "s": "Анекдоты категории Б",
+    "t": "baneks",
+    "u": "https://baneks.site/search/{{{s}}}"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons.eu",
+    "t": "bangfren",
+    "u": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=enfr&in=&lf=fr"
+  },
+  {
+    "d": "www.banggood.com",
+    "s": "Bang good",
+    "t": "banggood",
+    "u": "http://www.banggood.com/index.php?keywords={{{s}}}&cat_id=0&com=search"
+  },
+  {
+    "d": "de.pons.com",
+    "s": "Pons",
+    "t": "banglg",
+    "u": "http://de.pons.com/übersetzung?q={{{s}}}&l=dela&in=&lf=de"
+  },
+  {
+    "d": "pipl.com",
+    "s": "Pipl - Profile Search enguine ",
+    "t": "BangPeople",
+    "u": "https://pipl.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "Search all !bangs",
+    "t": "bang",
+    "u": "/bang?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Search all !bangs",
+    "t": "bangs",
+    "u": "https://duckduckgo.com/bang?q={{{s}}}"
+  },
+  {
+    "d": "banned.video",
+    "s": "banned.video",
+    "t": "banned",
+    "u": "https://banned.video/?q={{{s}}}"
+  },
+  {
+    "d": "www.banq.qc.ca",
+    "s": "Bibliothèque et Archives Nationales du Québec",
+    "t": "banq",
+    "u": "http://www.banq.qc.ca/techno/recherche/rms.html?keyword={{{s}}}&Recherche=tout&fonction=chercher&afficherPortail=checked&afficherIris=checked&afficherPistard=checked&afficherColNum=checked"
+  },
+  {
+    "d": "archive.nyafuu.org",
+    "s": "/bant/ archives",
+    "t": "bant",
+    "u": "https://archive.nyafuu.org/bant/search/text/{{{s}}}/"
+  },
+  {
+    "d": "thebarchive.com",
+    "s": "The /b/ Archive",
+    "t": "barchive",
+    "u": "https://thebarchive.com/_/search/text/{{{s}}}"
+  },
+  {
+    "d": "www.shopping-bargains.com",
+    "s": "Shopping-Bargains",
+    "t": "bargain",
+    "u": "http://www.shopping-bargains.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.barnesandnoble.com",
+    "s": "Barnes & Noble",
+    "t": "barnesandnoble",
+    "u": "https://www.barnesandnoble.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.barnivore.com",
+    "s": "Barnivore",
+    "t": "barnivore",
+    "u": "http://www.barnivore.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.webtender.com",
+    "s": "Webtender",
+    "t": "bartender",
+    "u": "http://www.webtender.com/cgi-bin/search?name={{{s}}}&show=15&verbose=on"
+  },
+  {
+    "d": "www.bartleby.com",
+    "s": "Bartelby",
+    "t": "bartlets",
+    "u": "https://www.bartleby.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Lycée Louis Bascan",
+    "t": "bascan",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:www.lyc-bascan-rambouillet.ac-versailles.fr"
+  },
+  {
+    "d": "cryptography.cc",
+    "s": "cryotography.cc",
+    "t": "base64e",
+    "u": "https://cryptography.cc/convert?text={{{s}}}&algorithm=base64encode"
+  },
+  {
+    "d": "www.baseball-reference.com",
+    "s": "Baseball-Reference",
+    "t": "baseballreference",
+    "u": "http://www.baseball-reference.com/pl/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "d": "www.base-search.net",
+    "s": "Base Search",
+    "t": "base",
+    "u": "https://www.base-search.net/Search/Results?lookfor={{{s}}}&type=all&oaboost=1&ling=1&name=&newsearch=1&refid=dcbasen"
+  },
+  {
+    "d": "www.basenotes.net",
+    "s": "Basenotes",
+    "t": "basenotes",
+    "u": "http://www.basenotes.net/fragrancedirectory/?search={{{s}}}"
+  },
+  {
+    "d": "www.base-search.net",
+    "s": "BASE Search",
+    "t": "basesearch",
+    "u": "http://www.base-search.net/Search/Results?lookfor={{{s}}}&refid=duckduckgo"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Bash",
+    "t": "bash",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:mywiki.wooledge.org,wiki.bash-hackers.org"
+  },
+  {
+    "d": "www.basketball-reference.com",
+    "s": "Basketball Reference",
+    "t": "basketballreference",
+    "u": "https://www.basketball-reference.com/search/search.fcgi?hint=&search={{{s}}}"
+  },
+  {
+    "d": "batman.wikia.com",
+    "s": "Batman Wiki",
+    "t": "batman",
+    "u": "http://batman.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "d": "bato.to",
+    "s": "Batoto",
+    "t": "bato",
+    "u": "http://bato.to/search?name={{{s}}}&name_cond=c"
+  },
+  {
+    "d": "bato.to",
+    "s": "Batoto",
+    "t": "batoto",
+    "u": "http://bato.to/search?name={{{s}}}&name_cond=c"
+  },
+  {
+    "d": "pokemongohub.net",
+    "s": "Pokemon Go Hub Battledex",
+    "t": "battledex",
+    "u": "https://pokemongohub.net/?s={{{s}}}"
+  },
+  {
+    "d": "eu.battle.net",
+    "s": "Battle.Net",
+    "t": "battlenet",
+    "u": "http://eu.battle.net/en/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bax-shop.nl",
+    "s": "Bax-shop",
+    "t": "bax",
+    "u": "http://www.bax-shop.nl/assortiment?keyword={{{s}}}&avz=true"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Bay12Games",
+    "t": "bay12",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Abay12games.com"
+  },
+  {
+    "d": "www.baygel.de",
+    "s": "Baygel",
+    "t": "baygel",
+    "u": "https://www.baygel.de/baygel.php?query={{{s}}} "
+  },
+  {
+    "d": "bazar.bg",
+    "s": "bazar.bg",
+    "t": "bazarbg",
+    "u": "https://bazar.bg/obiavi?q={{{s}}}"
+  },
+  {
+    "d": "cafebazaar.ir",
+    "s": "CafeBazaar",
+    "t": "bazar",
+    "u": "http://cafebazaar.ir/search/?l=&q={{{s}}}"
+  },
+  {
+    "d": "docs.bazel.build",
+    "s": "bazel documentation",
+    "t": "bazel",
+    "u": "https://docs.bazel.build/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.bazos.cz",
+    "s": "Bazoš.cz",
+    "t": "bazos",
+    "u": "http://www.bazos.cz/search.php?hledat={{{s}}}"
+  },
+  {
+    "d": "www.basketball-reference.com",
+    "s": "Basketball Reference",
+    "t": "bballref",
+    "u": "https://www.basketball-reference.com/search/search.fcgi?hint=&search={{{s}}}&pid=&idx= "
+  },
+  {
+    "d": "appworld.blackberry.com",
+    "s": "BlackBerry App World",
+    "t": "bbapps",
+    "u": "http://appworld.blackberry.com/webstore/search/{{{s}}}"
+  },
+  {
+    "d": "www.breitbart.com",
+    "s": "Breitbart",
+    "t": "bbart",
+    "u": "http://www.breitbart.com/search/?s={{{s}}}"
+  },
+  {
+    "d": "www.bbb.org",
+    "s": "Better Business Bureau",
+    "t": "bbb",
+    "u": "http://www.bbb.org/us/Find-Business-Reviews/name/{{{s}}}"
+  },
+  {
+    "d": "bitbucket.org",
+    "s": "Bitbucket",
+    "t": "bb",
+    "u": "https://bitbucket.org/repo/all/?name={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC.co.uk",
+    "t": "bbc",
+    "u": "http://www.bbc.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC Food",
+    "t": "bbcfood",
+    "u": "http://www.bbc.co.uk/food/recipes/search?keywords={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.bbcgoodfood.com",
+    "s": "BBC Good Food",
+    "t": "bbcgf",
+    "u": "http://www.bbcgoodfood.com/search/recipes?query={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC iPlayer",
+    "t": "bbci",
+    "u": "http://www.bbc.co.uk/iplayer/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC Mundo",
+    "t": "bbcm",
+    "u": "http://www.bbc.co.uk/mundo/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC Music",
+    "t": "bbcmusic",
+    "u": "http://www.bbc.co.uk/music/search-results?q={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC News",
+    "t": "bbcnews",
+    "u": "http://www.bbc.co.uk/search/news/?q={{{s}}}"
+  },
+  {
+    "d": "search.bodybuilding.com",
+    "s": "bodybuilding.com",
+    "t": "bbcom",
+    "u": "https://search.bodybuilding.com/slp/full?context=all&query={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC Resources",
+    "t": "bbcr",
+    "u": "http://www.bbc.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "bitbucket.org",
+    "s": "Bitbucket Code Search",
+    "t": "bbcs",
+    "u": "https://bitbucket.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC Sport",
+    "t": "bbcsport",
+    "u": "http://www.bbc.co.uk/search/sport/{{{s}}}?video=on&audio=on&text=on"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC Weather",
+    "t": "bbcw",
+    "u": "https://www.bbc.co.uk/weather/search?s={{{s}}}"
+  },
+  {
+    "d": "developer.blackberry.com",
+    "s": "BlackBerry Developer",
+    "t": "bbdev",
+    "u": "https://developer.blackberry.com/native/search/?search={{{s}}}&searchaction=Search"
+  },
+  {
+    "d": "www.bbfc.co.uk",
+    "s": "British Board of Film Classification",
+    "t": "bbfc",
+    "u": "http://www.bbfc.co.uk/search/releases/{{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing",
+    "t": "b",
+    "u": "https://www.bing.com/search?q={{{s}}}"
+  },
+  {
+    "d": "doc.babylonjs.com",
+    "s": " Babylon.js documentation",
+    "t": "bbjs",
+    "u": "https://doc.babylonjs.com/search/?bjsq={{{s}}}"
+  },
+  {
+    "d": "digital.bbm.usp.br",
+    "s": "Biblioteca Brasiliana Guita e José Mindlin",
+    "t": "bbm",
+    "u": "https://digital.bbm.usp.br/simple-search?location=&query={{{s}}}"
+  },
+  {
+    "d": "www.bestbuy.com.mx",
+    "s": "BestBuy México",
+    "t": "bbmx",
+    "u": "https://www.bestbuy.com.mx/c/buscar-best-buy/buscar?query={{{s}}}"
+  },
+  {
+    "d": "bbqpitboys.com",
+    "s": "BBQ Pit Boys",
+    "t": "bbqpb",
+    "u": "https://bbqpitboys.com/?s={{{s}}}&post_type=post"
+  },
+  {
+    "d": "www.basketball-reference.com",
+    "s": "Basketball-Reference ",
+    "t": "bbr",
+    "u": "http://www.basketball-reference.com/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "d": "www.baseball-reference.com",
+    "s": "Baseball Reference",
+    "t": "bbref",
+    "u": "https://www.baseball-reference.com/search/search.fcgi?hint=&search={{{s}}}"
+  },
+  {
+    "d": "www.bbs-consultant.net",
+    "s": "BBS Consultant",
+    "t": "bbsfr",
+    "u": "http://www.bbs-consultant.net/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.bbt.com",
+    "s": "BB&T Bank",
+    "t": "bbt",
+    "u": "https://www.bbt.com/search-results.html?query={{{s}}}"
+  },
+  {
+    "d": "bitbucket.org",
+    "s": "Bitbucket User",
+    "t": "bbus",
+    "u": "https://bitbucket.org/{{{s}}}/"
+  },
+  {
+    "d": "digital.bbm.usp.br",
+    "s": "Biblioteca Brasiliana Guita e José Mindiin",
+    "t": "bbusp",
+    "u": "https://digital.bbm.usp.br/simple-search?location=&query= {{{s}}} &rpp=100"
+  },
+  {
+    "d": "www.bestbuy.com",
+    "s": "Best Buy",
+    "t": "bbuy",
+    "u": "http://www.bestbuy.com/site/Brands/Apple/pcmcat128500050005.c?id=pcmcat128500050005&pageType=REDIRECT&issolr=1&searchterm={{{s}}}"
+  },
+  {
+    "d": "www.bestbuy.com",
+    "s": "Bestbuy",
+    "t": "bby",
+    "u": "http://www.bestbuy.com/site/olspage.jsp?id=pcat17071&type=page&st={{{s}}}&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960"
+  },
+  {
+    "d": "m.bestbuy.ca",
+    "s": "Bestbuy.ca",
+    "t": "bbyc",
+    "u": "https://m.bestbuy.ca/en-CA/search?search={{{s}}}"
+  },
+  {
+    "d": "bandcamp.com",
+    "s": "Bandcamp",
+    "t": "bcamp",
+    "u": "https://bandcamp.com/search?q={{{s}}}"
+  },
+  {
+    "d": "bcb-atm.com",
+    "s": "BCB ATM",
+    "t": "bcb-atm",
+    "u": "https://bcb-atm.com/map?keyword={{{s}}}"
+  },
+  {
+    "d": "blockchain.info",
+    "s": "Blockchain",
+    "t": "bc",
+    "u": "http://blockchain.info/search/{{{s}}} "
+  },
+  {
+    "d": "www.bcbsla.com",
+    "s": "Blue Cross and Blue Shield of Louisiana",
+    "t": "bcbsla",
+    "u": "https://www.bcbsla.com/search/Results.aspx?k={{{s}}}"
+  },
+  {
+    "d": "www.bcc.nl",
+    "s": "BCC",
+    "t": "bcc",
+    "u": "http://www.bcc.nl/search?fh_location=%2F%2Fcatalog01%2Fnl_NL%2Fchannel%3E%7Bm2ebcc2enl%7D&search={{{s}}}"
+  },
+  {
+    "d": "www.bcdb.com",
+    "s": "The Big Cartoon Database",
+    "t": "bcdb",
+    "u": "http://www.bcdb.com/bcdb/search.cgi?query={{{s}}}&amp;bool=and&amp;substring=1"
+  },
+  {
+    "d": "cn.bing.com",
+    "s": "Bing dict",
+    "t": "bce",
+    "u": "https://cn.bing.com/dict/search?q={{{s}}}"
+  },
+  {
+    "d": "blockchain.info",
+    "s": "blockchain.info",
+    "t": "bchain",
+    "u": "https://blockchain.info/address/{{{s}}}"
+  },
+  {
+    "d": "boston.craigslist.org",
+    "s": "boston.craigslist.org",
+    "t": "bcl",
+    "u": "https://boston.craigslist.org/search/sss?query={{{s}}}"
+  },
+  {
+    "d": "www.brawlcustommusic.com",
+    "s": "Brawl Custom Music",
+    "t": "bcm",
+    "u": "http://www.brawlcustommusic.com/index.php?song={{{s}}}&submit=Search"
+  },
+  {
+    "d": "because.moe",
+    "s": "because.moe",
+    "t": "bcmoe",
+    "u": "http://because.moe/?q={{{s}}}"
+  },
+  {
+    "d": "boardcrewcial.org",
+    "s": "Board Crucial dot Org",
+    "t": "bco",
+    "u": "http://boardcrewcial.org/search/thread/{{{s}}}/"
+  },
+  {
+    "d": "tools.ietf.org",
+    "s": "Best Current Practices",
+    "t": "bcp",
+    "u": "http://tools.ietf.org/html/bcp{{{s}}}"
+  },
+  {
+    "d": "sitereview.bluecoat.com",
+    "s": "BlueCoat Sitereview",
+    "t": "bcsite",
+    "u": "https://sitereview.bluecoat.com/sitereview.jsp#/?search={{{s}}}"
+  },
+  {
+    "d": "www.spca.bc.ca",
+    "s": "BC SPCA",
+    "t": "bcspca",
+    "u": "http://www.spca.bc.ca/search.html?q={{{s}}}"
+  },
+  {
+    "d": "bandcamp.com",
+    "s": "Bandcamp tags",
+    "t": "bctag",
+    "u": "http://bandcamp.com/tag/{{{s}}}"
+  },
+  {
+    "d": "bct.comperio.it",
+    "s": "Biblioteche civiche torinesi",
+    "t": "bct",
+    "u": "http://bct.comperio.it/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "d": "www.blockchainwalls.com",
+    "s": "Blockchainwalls",
+    "t": "bcwalls",
+    "u": "https://www.blockchainwalls.com/category/{{{s}}}"
+  },
+  {
+    "d": "boxcritters.wiki",
+    "s": "Box Critters Wiki",
+    "t": "bcw",
+    "u": "https://boxcritters.wiki/?search={{{s}}}"
+  },
+  {
+    "d": "en.bitcoin.it",
+    "s": "Bitcoin Wiki",
+    "t": "bcwiki",
+    "u": "https://en.bitcoin.it/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing",
+    "t": "bday",
+    "u": "https://www.bing.com/search?q={{{s}}}&filters=ex1%3a\"\"ez1\"\""
+  },
+  {
+    "d": "www.baidu.com",
+    "s": "baidu",
+    "t": "bd",
+    "u": "http://www.baidu.com/s?wd={{{s}}}"
+  },
+  {
+    "d": "baike.baidu.com",
+    "s": "百度百科",
+    "t": "bdbaike",
+    "u": "https://baike.baidu.com/item/{{{s}}}"
+  },
+  {
+    "d": "baddogbooks.com",
+    "s": "Bad Dog Books",
+    "t": "bdb",
+    "u": "https://baddogbooks.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "wapbaike.baidu.com",
+    "s": "BaiduBaike",
+    "t": "bdbk",
+    "u": "https://wapbaike.baidu.com/search/word?word={{{s}}}"
+  },
+  {
+    "d": "www.bradsdeals.com",
+    "s": "Brad's Deals",
+    "t": "bdeals",
+    "u": "http://www.bradsdeals.com/search?query={{{s}}}"
+  },
+  {
+    "d": "dict.tu-chemnitz.de",
+    "s": "BEOLINGUS",
+    "t": "bde",
+    "u": "http://dict.tu-chemnitz.de/dings.cgi?query={{{s}}}"
+  },
+  {
+    "d": "www.bedetheque.com",
+    "s": "Bedetheque",
+    "t": "bdg",
+    "u": "http://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0 "
+  },
+  {
+    "d": "www.bitdegree.org",
+    "s": "BitDegree Online Courses",
+    "t": "bdgc",
+    "u": "https://www.bitdegree.org/search?q={{{s}}}&src=ukw"
+  },
+  {
+    "d": "www.bitdegree.org",
+    "s": "BitDegree Learn",
+    "t": "bdgl",
+    "u": "https://www.bitdegree.org/learn/search?query={{{s}}}"
+  },
+  {
+    "d": "www.leblogduhacker.fr",
+    "s": "Le blog du hacker",
+    "t": "bdh",
+    "u": "http://www.leblogduhacker.fr/?s={{{s}}}"
+  },
+  {
+    "d": "cn.bing.com",
+    "s": "Bing 词典",
+    "t": "bdi",
+    "u": "https://cn.bing.com/dict/search?q={{{s}}}"
+  },
+  {
+    "d": "www.boadica.com.br",
+    "s": "Boa Dica",
+    "t": "bdica",
+    "u": "https://www.boadica.com.br/busca-resultado?q={{{s}}}"
+  },
+  {
+    "d": "www.businessdictionary.com",
+    "s": "Business Dictionary",
+    "t": "bdictionary",
+    "u": "http://www.businessdictionary.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "image.baidu.com",
+    "s": "百度图片",
+    "t": "bdimg",
+    "u": "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&hs=0&xthttps=111111&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word={{{s}}}&oq=test&rsp=-1"
+  },
+  {
+    "d": "bdl.oqlf.gouv.qc.ca",
+    "s": "Banque de dépannage linguistique",
+    "t": "bdl",
+    "u": "http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?T1={{{s}}}&T3.x=0&T3.y=0"
+  },
+  {
+    "d": "dblp.uni-trier.de",
+    "s": "BDLP",
+    "t": "bdlp",
+    "u": "http://dblp.uni-trier.de/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bedetheque.com",
+    "s": "Bédéthèque",
+    "t": "bdt",
+    "u": "http://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0"
+  },
+  {
+    "d": "fanyi.baidu.com",
+    "s": "百度翻译",
+    "t": "bdtr",
+    "u": "https://fanyi.baidu.com/#en/zh/{{{s}}}"
+  },
+  {
+    "d": "www.beammachine.net",
+    "s": "BeamMachine.net",
+    "t": "beam",
+    "u": "http://www.beammachine.net/de/qsearch.php?q={{{s}}}&strict=1"
+  },
+  {
+    "d": "www.beatport.com",
+    "s": "Beatport",
+    "t": "beatport",
+    "u": "https://www.beatport.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.beautyheaven.com.au",
+    "s": "Beautyheaven",
+    "t": "beautyheaven",
+    "u": "https://www.beautyheaven.com.au/search?term={{{s}}}"
+  },
+  {
+    "d": "beautymnl.com",
+    "s": "Beauty MNL",
+    "t": "beautymnl",
+    "u": "https://beautymnl.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.beautypedia.com",
+    "s": "Beautypedia",
+    "t": "beautypedia",
+    "u": "https://www.beautypedia.com/skin-care-reviews/?Ntt={{{s}}}"
+  },
+  {
+    "d": "blockexplorer.com",
+    "s": "Block Explorer",
+    "t": "be",
+    "u": "https://blockexplorer.com/searchgo/{{{s}}}"
+  },
+  {
+    "d": "because.moe",
+    "s": "because.moe",
+    "t": "because",
+    "u": "http://because.moe/?q={{{s}}}"
+  },
+  {
+    "d": "www.bournemouthecho.co.uk",
+    "s": "Bournemouth Echo",
+    "t": "becho",
+    "u": "https://www.bournemouthecho.co.uk/search/?search={{{s}}}"
+  },
+  {
+    "d": "beck-online.beck.de",
+    "s": "beck-online",
+    "t": "beck",
+    "u": "https://beck-online.beck.de/Search?words={{{s}}}"
+  },
+  {
+    "d": "www.beck-shop.de",
+    "s": "beck-shop.de",
+    "t": "beckshop",
+    "u": "http://www.beck-shop.de/trefferliste.aspx?q={{{s}}}&action=search&page=0"
+  },
+  {
+    "d": "www.bedbathandbeyond.com",
+    "s": "Bed Bath and Beyond",
+    "t": "bedbath",
+    "u": "http://www.bedbathandbeyond.com/store/s/{{{s}}}"
+  },
+  {
+    "d": "www.bedetheque.com",
+    "s": "Bedethèque",
+    "t": "bedetheque",
+    "u": "http://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0"
+  },
+  {
+    "d": "bedrockgranitecompany.com",
+    "s": "Bedrock Co.",
+    "t": "bedrock",
+    "u": "https://bedrockgranitecompany.com/?s={{{s}}}"
+  },
+  {
+    "d": "beebom.com",
+    "s": "Beebom",
+    "t": "beebom",
+    "u": "https://beebom.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.beeradvocate.com",
+    "s": "BeerAdvocate",
+    "t": "beeradvocate",
+    "u": "https://www.beeradvocate.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "beeradvocate.com",
+    "s": "BeerAdvocate",
+    "t": "beer",
+    "u": "http://beeradvocate.com/search?q={{{s}}}&qt=beer"
+  },
+  {
+    "d": "beets.readthedocs.io",
+    "s": "Beets Documentation",
+    "t": "beet",
+    "u": "https://beets.readthedocs.io/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "beewigs.com",
+    "s": "Bees Beauty",
+    "t": "beewigs",
+    "u": "https://beewigs.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.beezer.com.au",
+    "s": "Beezer",
+    "t": "beezer",
+    "u": "http://www.beezer.com.au/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "beforeiplay.com",
+    "s": "Before I Play",
+    "t": "beforeiplay",
+    "u": "http://beforeiplay.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.begeek.fr",
+    "s": "Begeek",
+    "t": "begeek",
+    "u": "http://www.begeek.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.behance.net",
+    "s": "behance",
+    "t": "behance",
+    "u": "http://www.behance.net/search?search={{{s}}}"
+  },
+  {
+    "d": "surnames.behindthename.com",
+    "s": "Beind the name - Surnames",
+    "t": "behindsurname",
+    "u": "http://surnames.behindthename.com/name/{{{s}}} "
+  },
+  {
+    "d": "www.behindthename.com",
+    "s": "Behind the Name",
+    "t": "behindthename",
+    "u": "http://www.behindthename.com/name/{{{s}}}"
+  },
+  {
+    "d": "beinsa.bg",
+    "s": "beinsa.bg",
+    "t": "beinsa",
+    "u": "http://beinsa.bg/search.php?q={{{s}}}&submit=ТЪРСИ&s_type=all&id=&status=1"
+  },
+  {
+    "d": "kgov.com",
+    "s": "Bob Enyart Live",
+    "t": "bel",
+    "u": "https://kgov.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.belkin.com",
+    "s": "Belkin",
+    "t": "belkin",
+    "u": "http://www.belkin.com/us/search?text={{{s}}}"
+  },
+  {
+    "d": "www.bell.ca",
+    "s": "Bell",
+    "t": "bell",
+    "u": "http://www.bell.ca/Search?q={{{s}}}"
+  },
+  {
+    "d": "www.bellevuecollege.edu",
+    "s": "Bellevue College",
+    "t": "bellevuecollege",
+    "u": "http://www.bellevuecollege.edu/search/?txtQuery={{{s}}}&search=Search"
+  },
+  {
+    "d": "bellissimi.bg",
+    "s": "Bellissimi Jewelry BG",
+    "t": "bellissimi.bg",
+    "u": "http://bellissimi.bg/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.belsimpel.nl",
+    "s": "Belsimpel",
+    "t": "belsimpel",
+    "u": "https://www.belsimpel.nl/zoeken?s={{{s}}}"
+  },
+  {
+    "d": "ben10.wikia.com",
+    "s": "Ben 10 Wiki",
+    "t": "ben10",
+    "u": "http://ben10.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "bendixkingradios.com",
+    "s": "bendixkingradios.com",
+    "t": "bendixking",
+    "u": "https://bendixkingradios.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "luzonmorningsun.com",
+    "s": "Beneco",
+    "t": "beneco",
+    "u": "http://luzonmorningsun.com/?s={{{s}}}"
+  },
+  {
+    "d": "dict.tu-chemnitz.de",
+    "s": "Beolingus De-en",
+    "t": "beo",
+    "u": "http://dict.tu-chemnitz.de/dings.cgi?service=deen&query={{{s}}}"
+  },
+  {
+    "d": "dict.tu-chemnitz.de",
+    "s": "Beolingus De-es",
+    "t": "beoes",
+    "u": "http://dict.tu-chemnitz.de/dings.cgi?service=dees&query={{{s}}}"
+  },
+  {
+    "d": "dict.tu-chemnitz.de",
+    "s": "Beolingus",
+    "t": "beolingus",
+    "u": "http://dict.tu-chemnitz.de/dings.cgi?query={{{s}}}"
+  },
+  {
+    "d": "dict.tu-chemnitz.de",
+    "s": "Beolingus De-pt",
+    "t": "beopt",
+    "u": "http://dict.tu-chemnitz.de/dings.cgi?service=dept&query={{{s}}}"
+  },
+  {
+    "d": "www.berekenhet.nl",
+    "s": "BerekenHet",
+    "t": "berekenen",
+    "u": "http://www.berekenhet.nl/zoeken.html?q={{{s}}}"
+  },
+  {
+    "d": "www.bergdorfgoodman.com",
+    "s": "Bergdorf Goodman",
+    "t": "bergdorf",
+    "u": "http://www.bergdorfgoodman.com/search.jsp?N=0&Ntt={{{s}}}"
+  },
+  {
+    "d": "www.bergfex.com",
+    "s": "bergfex",
+    "t": "bergfex",
+    "u": "http://www.bergfex.com/sommer/suchen/?q={{{s}}}"
+  },
+  {
+    "d": "www.bergfreunde.de",
+    "s": "Bergfreunde",
+    "t": "bergfreunde",
+    "u": "http://www.bergfreunde.de/s/*/?searchparam={{{s}}}"
+  },
+  {
+    "d": "katasapa.com",
+    "s": "katasapa.com",
+    "t": "berita",
+    "u": "https://katasapa.com/vanessa?q={{{s}}}"
+  },
+  {
+    "d": "b.dk",
+    "s": "Berlingske",
+    "t": "berlingske",
+    "u": "http://b.dk/search/{{{s}}}"
+  },
+  {
+    "d": "www.berlin.de",
+    "s": "Berlin.de – Stadtplan",
+    "t": "berlinmap",
+    "u": "http://www.berlin.de/stadtplan/?ADR_STREET={{{s}}}"
+  },
+  {
+    "d": "bermuda.io",
+    "s": "Bermuda.io",
+    "t": "bermuda",
+    "u": "http://bermuda.io/dataset?q={{{s}}}"
+  },
+  {
+    "d": "circoloberneri.indivia.net",
+    "s": "Circolo anarchico \"C. Berneri\"",
+    "t": "berneri",
+    "u": "http://circoloberneri.indivia.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.bertrand.pt",
+    "s": "Livraria Bertrand",
+    "t": "bertrand",
+    "u": "https://www.bertrand.pt/pesquisa/{{{s}}}"
+  },
+  {
+    "d": "berufenet.arbeitsagentur.de",
+    "s": "BERUFENET - Berufsinformationen einfach finden",
+    "t": "berufenet",
+    "u": "https://berufenet.arbeitsagentur.de/berufenet/faces/index?path=null/suchergebnisse&such={{{s}}}"
+  },
+  {
+    "d": "conjugueur.bescherelle.com",
+    "s": "Bescherelle",
+    "t": "besch",
+    "u": "http://conjugueur.bescherelle.com/ConjugueurWeb/index.jsf?term={{{s}}}"
+  },
+  {
+    "d": "www.beslist.nl",
+    "s": "BESLIST.nl",
+    "t": "beslist",
+    "u": "http://www.beslist.nl/products/r/{{{s}}}/"
+  },
+  {
+    "d": "www.bestbuy.com",
+    "s": "BestBuy",
+    "t": "bestbuy",
+    "u": "http://www.bestbuy.com/site/olspage.jsp?id=pcat17071&type=page&st={{{s}}}&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960"
+  },
+  {
+    "d": "www.bestbuy.ca",
+    "s": "Best Buy Canada",
+    "t": "bestbuyca",
+    "u": "https://www.bestbuy.ca/en-ca/search?search={{{s}}}"
+  },
+  {
+    "d": "www.besteveralbums.com",
+    "s": "Besteveralbum",
+    "t": "besteveralbums",
+    "u": "https://www.besteveralbums.com/search.php?s_o=all&s_q={{{s}}}"
+  },
+  {
+    "d": "www.bestprice.gr",
+    "s": "BestPrice",
+    "t": "bestprice",
+    "u": "http://www.bestprice.gr/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bestsellinglover.com",
+    "s": "BestsellingLover.com",
+    "t": "bestsellinglover",
+    "u": "https://www.bestsellinglover.com/search-now?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "d": "betalist.com",
+    "s": "BetaList",
+    "t": "betalist",
+    "u": "http://betalist.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.betches.com",
+    "s": "Betches",
+    "t": "betches",
+    "u": "http://www.betches.com/search/{{{s}}}"
+  },
+  {
+    "d": "betterworldbooks.com",
+    "s": "betterworldbooks.com",
+    "t": "betterworldbooks",
+    "u": "https://betterworldbooks.com/?q={{{s}}}"
+  },
+  {
+    "d": "bertholdsson.eu",
+    "s": "Bertholdsson.eu",
+    "t": "beu",
+    "u": "https://bertholdsson.eu/?s={{{s}}}"
+  },
+  {
+    "d": "www.bever.nl",
+    "s": "Bever",
+    "t": "bever",
+    "u": "https://www.bever.nl/lister.html?q={{{s}}}"
+  },
+  {
+    "d": "www.bevmo.com",
+    "s": "BevMo",
+    "t": "bevmo",
+    "u": "http://www.bevmo.com/Shop/ProductList.aspx/_/D-{{{s}}}/N-/Ntt-{{{s}}}?DNID=Home&Dx=mode%2Bmatchany&fromsearch=true&Ntk=All&Ntx=mode%2Bmatchany"
+  },
+  {
+    "d": "bevvy.co",
+    "s": "Bevvy",
+    "t": "bevvy",
+    "u": "https://bevvy.co/search?q={{{s}}}"
+  },
+  {
+    "d": "www.buzzfeed.com",
+    "s": "BuzzFeed",
+    "t": "bf",
+    "u": "http://www.buzzfeed.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.babelfish.de",
+    "s": "babelfish.de",
+    "t": "bfde",
+    "u": "http://www.babelfish.de/dict?query={{{s}}}&src=auto&dst=en&submit=übersetzen"
+  },
+  {
+    "d": "www.bfi.org.uk",
+    "s": "British Film Institute",
+    "t": "bfi",
+    "u": "https://www.bfi.org.uk/search/search-bfi/{{{s}}}"
+  },
+  {
+    "d": "www.bfm.my",
+    "s": "BFM: The Business Radio Station",
+    "t": "bfm899",
+    "u": "https://www.bfm.my/podcast.html?qseaid={{{s}}}&pseaid=latest&iseaid=all&dsseaid=&deseaid=&tag=&prg="
+  },
+  {
+    "d": "www.bergfex.at",
+    "s": "Bergfex",
+    "t": "bfx",
+    "u": "https://www.bergfex.at/suchen/?q={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway",
+    "t": "bg",
+    "u": "http://www.biblegateway.com/passage/?search={{{s}}}"
+  },
+  {
+    "d": "www.bankgirot.se",
+    "s": "Bankgirot - Search Bankgiro number by Company Name",
+    "t": "bgc",
+    "u": "https://www.bankgirot.se/en/sok-bg-nr/?company={{{s}}}"
+  },
+  {
+    "d": "billygraham.org",
+    "s": "Billy Graham",
+    "t": "bgea",
+    "u": "http://billygraham.org/?s={{{s}}}"
+  },
+  {
+    "d": "boardgamegeek.com",
+    "s": "Board Game Geek",
+    "t": "bgg",
+    "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}&B1=Go"
+  },
+  {
+    "d": "boardgamegeek.com",
+    "s": "na",
+    "t": "bgggm",
+    "u": "http://boardgamegeek.com/geekmarket/search?q={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway: King James Version",
+    "t": "bgkj",
+    "u": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=KJV"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway: King James Version",
+    "t": "bgkjv",
+    "u": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=KJV"
+  },
+  {
+    "d": "www.babygearlab.com",
+    "s": "Baby Gear Lab",
+    "t": "bgl",
+    "u": "https://www.babygearlab.com/search?ftr={{{s}}}"
+  },
+  {
+    "d": "bgm.tv",
+    "s": "Bangumi 番组计划",
+    "t": "bgm",
+    "u": "https://bgm.tv/subject_search/{{{s}}}?cat=all"
+  },
+  {
+    "d": "www.bankgirot.se",
+    "s": "Bankgirot - Search Bankgiro number",
+    "t": "bgn",
+    "u": "https://www.bankgirot.se/en/sok-bg-nr/?bgnr={{{s}}}"
+  },
+  {
+    "d": "www.bankgirot.se",
+    "s": "Bankgirot - Search Bankgiro number by Organization Number",
+    "t": "bgo",
+    "u": "https://www.bankgirot.se/en/sok-bg-nr/?orgnr={{{s}}}"
+  },
+  {
+    "d": "bgp.he.net",
+    "s": "Hurricane Electrics Internet Services",
+    "t": "bgp",
+    "u": "http://bgp.he.net/search?search%5Bsearch%5D={{{s}}}&commit=Search"
+  },
+  {
+    "d": "boardgameprices.co.uk",
+    "s": "BoardGamePrices",
+    "t": "bgpuk",
+    "u": "https://boardgameprices.co.uk/item/search?search={{{s}}}"
+  },
+  {
+    "d": "www.boardgamesearch.com.au",
+    "s": "Board Game Search (Australia)",
+    "t": "bgs",
+    "u": "http://www.boardgamesearch.com.au/#!/search/{{{s}}}"
+  },
+  {
+    "d": "bgunikat.eu",
+    "s": "Sterling silver jewelry",
+    "t": "bgunikat",
+    "u": "https://bgunikat.eu/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway",
+    "t": "bgw",
+    "u": "http://www.biblegateway.com/keyword/?search={{{s}}}"
+  },
+  {
+    "d": "biblehub.net",
+    "s": "BibleHub",
+    "t": "bhb",
+    "u": "http://biblehub.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.bhphotovideo.com",
+    "s": "B&H Photo Video",
+    "t": "bh",
+    "u": "http://www.bhphotovideo.com/c/search?Ntt={{{s}}}"
+  },
+  {
+    "d": "www.bhive.org",
+    "s": "bhive.org",
+    "t": "bhive",
+    "u": "https://www.bhive.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.british-history.ac.uk",
+    "s": "British History Online",
+    "t": "bho",
+    "u": "http://www.british-history.ac.uk/search?query={{{s}}}"
+  },
+  {
+    "d": "www.bhphotovideo.com",
+    "s": "B&H Photo Video",
+    "t": "bhphotovideo",
+    "u": "https://www.bhphotovideo.com/c/search?Ntt={{{s}}}&N=0&InitialSearch=yes&sts=ma&typedValue=&Top+Nav-Search="
+  },
+  {
+    "d": "baheth.info",
+    "s": "Baheth.info",
+    "t": "bht",
+    "u": "http://baheth.info/all.jsp?term={{{s}}}"
+  },
+  {
+    "d": "www.biblestudytools.com",
+    "s": "BibleStudyTools Encyclopedias",
+    "t": "biben",
+    "u": "http://www.biblestudytools.com/search/?s=references&q={{{s}}}&rc=ENC&rc2="
+  },
+  {
+    "d": "opac.uni-erfurt.de",
+    "s": "Katalog der Universitäts- und Forschungsbibliothek Erfurt/Gotha",
+    "t": "biberfurt",
+    "u": "http://opac.uni-erfurt.de/DB=1/SET=3/TTL=11/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "d": "zoeken.gent.bibliotheek.be",
+    "s": "Bibliotheek Gent",
+    "t": "bibgent",
+    "u": "http://zoeken.gent.bibliotheek.be/?q={{{s}}}"
+  },
+  {
+    "d": "biblehub.net",
+    "s": "BibleHub",
+    "t": "bibhub",
+    "u": "http://biblehub.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Images",
+    "t": "bi",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n"
+  },
+  {
+    "d": "biblehub.net",
+    "s": "Bible Atlas",
+    "t": "bibleatlas",
+    "u": "http://biblehub.net/searchatlas.php?q={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway",
+    "t": "bible",
+    "u": "http://www.biblegateway.com/keyword/?search={{{s}}}&searchtype=all"
+  },
+  {
+    "d": "www.bible.com",
+    "s": "Bible YouVersion",
+    "t": "biblecom",
+    "u": "https://www.bible.com/search/bible?q={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway",
+    "t": "biblegateway",
+    "u": "http://www.biblegateway.com/keyword/?search={{{s}}}&version1=47&searchtype=all"
+  },
+  {
+    "d": "biblemenus.com",
+    "s": "BibleHub",
+    "t": "biblehub",
+    "u": "http://biblemenus.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "bibleserver.com",
+    "s": "bibleserver.com",
+    "t": "bibleserver",
+    "u": "http://bibleserver.com/search/LUT/{{{s}}}/1"
+  },
+  {
+    "d": "www.biblestudytools.com",
+    "s": "Bible Study Tools",
+    "t": "bibletools",
+    "u": "http://www.biblestudytools.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.biblija.net",
+    "s": "Biblija.net",
+    "t": "biblija",
+    "u": "http://www.biblija.net/biblija.cgi?m={{{s}}} "
+  },
+  {
+    "d": "biblio.com",
+    "s": "Biblio",
+    "t": "biblio",
+    "u": "http://biblio.com/search.php?keyisbn={{{s}}}"
+  },
+  {
+    "d": "milano.biblioteche.it",
+    "s": "Sistema Bibliotecario di Milano",
+    "t": "bibliomi",
+    "u": "https://milano.biblioteche.it/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "d": "www.biblionetka.pl",
+    "s": "Biblionetka.pl",
+    "t": "biblionetka",
+    "u": "http://www.biblionetka.pl/search.aspx?searchType=book_catalog&searchPhrase={{{s}}}"
+  },
+  {
+    "d": "bibliotek.dk",
+    "s": "Bibliotek.dk",
+    "t": "bibliotek",
+    "u": "https://bibliotek.dk/search/work/{{{s}}}"
+  },
+  {
+    "d": "bibliotek.kavlinge.se",
+    "s": "Kävlinge Bibliotek",
+    "t": "bibliotekkavlinge",
+    "u": "http://bibliotek.kavlinge.se/search?query={{{s}}}"
+  },
+  {
+    "d": "www.bibleserver.com",
+    "s": "Bibleserver",
+    "t": "biblsrv",
+    "u": "http://www.bibleserver.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.biblionet.gr",
+    "s": "BiblioNet",
+    "t": "bibnet",
+    "u": "http://www.biblionet.gr/main.asp?page=results&key={{{s}}}"
+  },
+  {
+    "d": "bibliotheques.paris.fr",
+    "s": "catalogue des bibliothèques de Paris",
+    "t": "bibparis",
+    "u": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY={{{s}}}"
+  },
+  {
+    "d": "www.bibsonomy.org",
+    "s": "BibSonomy",
+    "t": "bibsonomy",
+    "u": "http://www.bibsonomy.org/search/{{{s}}}"
+  },
+  {
+    "d": "onesearch.unipi.it",
+    "s": "Onesearch Unipi",
+    "t": "bibunipi",
+    "u": "http://onesearch.unipi.it/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=39UPI_V1&frbg=&tb=t&vl(freeText0)={{{s}}}&scp.scps=scope%3A(39UPI)%2C39UPI_EbscoLocal%2Cprimo_central_multiple_fe"
+  },
+  {
+    "d": "bitinfocharts.com",
+    "s": "BitInfoCharts",
+    "t": "bich",
+    "u": "https://bitinfocharts.com/comparison/marketcap-{{{s}}}.html#log"
+  },
+  {
+    "d": "www.bidorbuy.co.za",
+    "s": "bidorbuy",
+    "t": "bidorbuy",
+    "u": "http://www.bidorbuy.co.za/search/{{{s}}} "
+  },
+  {
+    "d": "bidvoy.net",
+    "s": "Bidvoy",
+    "t": "bidvoy",
+    "u": "http://bidvoy.net/%22{{{s}}} "
+  },
+  {
+    "d": "bioinfo-fr.net",
+    "s": "Bioinfo-fr",
+    "t": "bifr",
+    "u": "http://bioinfo-fr.net/?s={{{s}}}"
+  },
+  {
+    "d": "bigbasket.com",
+    "s": "BigBasket",
+    "t": "bigbasket",
+    "u": "http://bigbasket.com/ps/?q={{{s}}}"
+  },
+  {
+    "d": "bigenc.ru",
+    "s": "Большая российская энциклопедия",
+    "t": "bigenc",
+    "u": "https://bigenc.ru/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bigfishgames.com",
+    "s": "Big Fish Games",
+    "t": "bigfish",
+    "u": "http://www.bigfishgames.com/download-games/search.html?search={{{s}}}"
+  },
+  {
+    "d": "bigfuture.collegeboard.org",
+    "s": "BigFuture",
+    "t": "bigfuture",
+    "u": "https://bigfuture.collegeboard.org/sitesearch?searchType=bf_site&tp=bf&q={{{s}}}"
+  },
+  {
+    "d": "words.bighugelabs.com",
+    "s": "Big Huge Thesaurus",
+    "t": "bighuge",
+    "u": "http://words.bighugelabs.com/{{{s}}}"
+  },
+  {
+    "d": "www.bigoven.com",
+    "s": "BigOven",
+    "t": "bigoven",
+    "u": "http://www.bigoven.com/recipes/{{{s}}}/best"
+  },
+  {
+    "d": "www.bigstockphoto.com",
+    "s": "Bigstock",
+    "t": "bigstock",
+    "u": "http://www.bigstockphoto.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.bigw.com.au",
+    "s": "Big W",
+    "t": "bigw",
+    "u": "https://www.bigw.com.au/search/?text={{{s}}}&category="
+  },
+  {
+    "d": "www5.bigwords.com",
+    "s": "BigWords.com",
+    "t": "bigwords",
+    "u": "http://www5.bigwords.com/search/easy-search/?producttype=all&searchtype=isbn&searchstring={{{s}}}&buySell="
+  },
+  {
+    "d": "www.debijbel.nl",
+    "s": "De Bijbel",
+    "t": "bijbel",
+    "u": "https://www.debijbel.nl/zoeken/?q={{{s}}}&v=NBV&t=bible"
+  },
+  {
+    "d": "www.bike24.com",
+    "s": "Bike24",
+    "t": "bike24",
+    "u": "https://www.bike24.com/1.php?content=13&search={{{s}}}"
+  },
+  {
+    "d": "www.bike-discount.de",
+    "s": "Bike-Discount",
+    "t": "bikedsct",
+    "u": "https://www.bike-discount.de/de/suche?q={{{s}}}"
+  },
+  {
+    "d": "bikenet.nl",
+    "s": "Bikenet",
+    "t": "bikenet",
+    "u": "https://bikenet.nl/occasions/?zoeken={{{s}}}"
+  },
+  {
+    "d": "sheldonbrown.com",
+    "s": "Sheldon Brown's Bicycle Technical Info",
+    "t": "bike",
+    "u": "http://sheldonbrown.com/searchResults.html?cx=partner-pub-1229949690989515%3A1174459614&cof=FORID%3A10&q={{{s}}}"
+  },
+  {
+    "d": "www.billiger.de",
+    "s": "Billiger.de",
+    "t": "bil",
+    "u": "https://www.billiger.de/search?searchstring={{{s}}}"
+  },
+  {
+    "d": "search.bilibili.com",
+    "s": "bilibili",
+    "t": "bilibili",
+    "u": "http://search.bilibili.com/all?keyword={{{s}}} "
+  },
+  {
+    "d": "www.bilibili.com",
+    "s": "bilibili",
+    "t": "bili",
+    "u": "http://www.bilibili.com/search?keyword={{{s}}}:"
+  },
+  {
+    "d": "www.bilka.dk",
+    "s": "Bilka",
+    "t": "bilka",
+    "u": "https://www.bilka.dk/s%C3%B8g?tekst={{{s}}}"
+  },
+  {
+    "d": "www.billiger.de",
+    "s": "Billiger.de",
+    "t": "billiger",
+    "u": "https://www.billiger.de/search?searchstring={{{s}}}"
+  },
+  {
+    "d": "billygraham.org",
+    "s": "Billy Graham",
+    "t": "billygraham",
+    "u": "https://billygraham.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.bilpriser.se",
+    "s": "Bilpriser",
+    "t": "bilpriser",
+    "u": "http://www.bilpriser.se/bilvardering?regnr={{{s}}}"
+  },
+  {
+    "d": "www.biltema.se",
+    "s": "Biltema",
+    "t": "biltema",
+    "u": "http://www.biltema.se/sv/Sok/?query={{{s}}}"
+  },
+  {
+    "d": "biluppgifter.se",
+    "s": "Biluppgifter",
+    "t": "biluppg",
+    "u": "https://biluppgifter.se/fordon/{{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Images",
+    "t": "bimages",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Images",
+    "t": "bim",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n"
+  },
+  {
+    "d": "bin.arnastofnun.is",
+    "s": "Beygingarlýsing íslensks nútímamáls",
+    "t": "bin",
+    "u": "http://bin.arnastofnun.is/leit/?q={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing",
+    "t": "bing",
+    "u": "https://www.bing.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Animated Images (GiFs)",
+    "t": "binggif",
+    "u": "http://www.bing.com/images/search?&q={{{s}}}&qft=+filterui:photo-animatedgif&FORM=R5IR25"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Images",
+    "t": "bingimages",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Maps",
+    "t": "bingmaps",
+    "u": "https://www.bing.com/maps/?q={{{s}}}&obox=1"
+  },
+  {
+    "d": "bing.co.uk",
+    "s": "Bing UK",
+    "t": "Binguk",
+    "u": "http://bing.co.uk/?q={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing",
+    "t": "bingvideos",
+    "u": "https://www.bing.com/videos/search?q={{{s}}}"
+  },
+  {
+    "d": "www.binnys.com",
+    "s": "Binny's Beverage Depot",
+    "t": "binnys",
+    "u": "http://www.binnys.com/all/{{{s}}}"
+  },
+  {
+    "d": "bintray.com",
+    "s": "JFrog Bintray",
+    "t": "bintray",
+    "u": "https://bintray.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.biohelp-profi.at",
+    "s": "biohelp",
+    "t": "biobelp",
+    "u": "https://www.biohelp-profi.at/store-search-result.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.biography.com",
+    "s": "Biography",
+    "t": "bio",
+    "u": "http://www.biography.com/search?query={{{s}}}"
+  },
+  {
+    "d": "bioconductor.org",
+    "s": "Bioconductor",
+    "t": "bioc",
+    "u": "http://bioconductor.org/help/search/index.html?q={{{s}}}"
+  },
+  {
+    "d": "www.biography.com",
+    "s": "Biography",
+    "t": "biography",
+    "u": "https://www.biography.com/search?query={{{s}}}"
+  },
+  {
+    "d": "thebiogrid.org",
+    "s": "BioGRID",
+    "t": "biogrid",
+    "u": "http://thebiogrid.org/search.php?search={{{s}}}"
+  },
+  {
+    "d": "allyouneedisbiology.wordpress.com",
+    "s": "All You Need Is Biology",
+    "t": "biology",
+    "u": "https://allyouneedisbiology.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.biology-online.org",
+    "s": "Biology Online",
+    "t": "bio-online",
+    "u": "http://www.biology-online.org/search.php?search={{{s}}}"
+  },
+  {
+    "d": "biorxiv.org",
+    "s": "bioRxiv",
+    "t": "biorxiv",
+    "u": "http://biorxiv.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Reverse Image Search",
+    "t": "bir",
+    "u": "https://www.bing.com/images/search?q=imgurl:{{{s}}}&view=detailv2&iss=sbi&FORM=IRSBIQ#enterInsights"
+  },
+  {
+    "d": "www.allaboutbirds.org",
+    "s": "All About Birds",
+    "t": "bird",
+    "u": "https://www.allaboutbirds.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.allaboutbirds.org",
+    "s": "Cornell Lab of Ornithology",
+    "t": "birds",
+    "u": "https://www.allaboutbirds.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.birikimdergisi.com",
+    "s": "Birikim Dergisi",
+    "t": "birikim",
+    "u": "http://www.birikimdergisi.com/arama/{{{s}}}"
+  },
+  {
+    "d": "www.bisafans.de",
+    "s": "https://www.bisafans.de/",
+    "t": "bisa",
+    "u": "https://www.bisafans.de/suchbisa.php?q={{{s}}}"
+  },
+  {
+    "d": "bookprice.co",
+    "s": "BookPrice",
+    "t": "bisbn",
+    "u": "http://bookprice.co/isbn/{{{s}}}"
+  },
+  {
+    "d": "www.bisp-surf.de",
+    "s": "Bisp-Surf",
+    "t": "bisp",
+    "u": "https://www.bisp-surf.de/Search/Results?type=AllFields&lookfor={{{s}}}&submit=Suchen&limit=20&sort=relevance"
+  },
+  {
+    "d": "bitaps.com",
+    "s": "Bitaps",
+    "t": "bitaps",
+    "u": "https://bitaps.com/{{{s}}}"
+  },
+  {
+    "d": "bitbucket.org",
+    "s": "BitBucket.org",
+    "t": "bitbucket",
+    "u": "http://bitbucket.org/repo/all/?name={{{s}}}"
+  },
+  {
+    "d": "www.bitchute.com",
+    "s": "BitChute",
+    "t": "bitc",
+    "u": "https://www.bitchute.com/search/?q={{{s}}}&sort=date_created+desc"
+  },
+  {
+    "d": "www.bitchute.com",
+    "s": "BitChute",
+    "t": "bitch",
+    "u": "https://www.bitchute.com/search/?q={{{s}}}&sort=date_created+desc"
+  },
+  {
+    "d": "www.bitchute.com",
+    "s": "www.bitchute.com",
+    "t": "bitchute",
+    "u": "https://www.bitchute.com/search/?q={{{s}}}&sort=date_created+desc"
+  },
+  {
+    "d": "blockchain.info",
+    "s": "Blockchain.info",
+    "t": "bitcoin",
+    "u": "https://blockchain.info/search?search={{{s}}}"
+  },
+  {
+    "d": "www.bbc.co.uk",
+    "s": "BBC GCSE Bitesize",
+    "t": "bitesizegcse",
+    "u": "http://www.bbc.co.uk/schools/gcsebitesize/search/index.shtml?scope=gcsebitesize_include&q={{{s}}}"
+  },
+  {
+    "d": "wiki.bitlair.nl",
+    "s": "bitlair",
+    "t": "bitlair",
+    "u": "https://wiki.bitlair.nl/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "bitly.com",
+    "s": "Bitly",
+    "t": "bitly",
+    "u": "https://bitly.com/?url={{{s}}}"
+  },
+  {
+    "d": "bitref.com",
+    "s": "bitref",
+    "t": "bitref",
+    "u": "https://bitref.com/{{{s}}}"
+  },
+  {
+    "d": "bittrust.org",
+    "s": "BitTrust",
+    "t": "bittrust",
+    "u": "http://bittrust.org/search#stq={{{s}}}"
+  },
+  {
+    "d": "www.bitview.net",
+    "s": "BitView",
+    "t": "bitview",
+    "u": "http://www.bitview.net/results.php?search={{{s}}}&t=Search+Videos"
+  },
+  {
+    "d": "search.bivol.bg",
+    "s": "bivol.bg",
+    "t": "bivol",
+    "u": "https://search.bivol.bg/?q={{{s}}}#results"
+  },
+  {
+    "d": "www.businessdictionary.com",
+    "s": "Business Dictionary",
+    "t": "bizdic",
+    "u": "http://www.businessdictionary.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "bizgift.vn",
+    "s": "Bizgift.vn",
+    "t": "bizgift",
+    "u": "https://bizgift.vn/?s={{{s}}}"
+  },
+  {
+    "d": "incfact.com",
+    "s": "IncFact",
+    "t": "biz",
+    "u": "https://incfact.com/company/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.biznar.com",
+    "s": "Biznar",
+    "t": "biznar",
+    "u": "http://www.biznar.com/biznar/result-list/fullRecord:{{{s}}}"
+  },
+  {
+    "d": "www.bizrate.com",
+    "s": "Bizrate",
+    "t": "bizrate",
+    "u": "http://www.bizrate.com/classify?search_box=1&keyword={{{s}}}&originalKeyword=&SEARCH_GO="
+  },
+  {
+    "d": "www.bjjheroes.com",
+    "s": "BJJ Heroes",
+    "t": "bjj",
+    "u": "https://www.bjjheroes.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.bjp.org",
+    "s": "BJP",
+    "t": "bjp",
+    "u": "http://www.bjp.org/?searchword={{{s}}}&searchphrase=exact&limit=20&ordering=newest&view=search&option=com_search"
+  },
+  {
+    "d": "www.bookadda.com",
+    "s": "BookAdda",
+    "t": "bkadda",
+    "u": "http://www.bookadda.com/general-search?searchkey={{{s}}}"
+  },
+  {
+    "d": "www.bluekangaroo.com",
+    "s": "Blue Kangaroo",
+    "t": "bk",
+    "u": "https://www.bluekangaroo.com/products?term={{{s}}}"
+  },
+  {
+    "d": "search.bangkokpost.com",
+    "s": "Bangkok Post",
+    "t": "bkkpost",
+    "u": "https://search.bangkokpost.com/search/result_advanced?category=all&xChannel=&q={{{s}}}"
+  },
+  {
+    "d": "search.books.com.tw",
+    "s": "博客來",
+    "t": "bkl",
+    "u": "http://search.books.com.tw/search/query/key/{{{s}}}/cat/all"
+  },
+  {
+    "d": "bendixkingradios.com",
+    "s": "bendixkingradios.com",
+    "t": "bkradio",
+    "u": "https://bendixkingradios.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.basketball-reference.com",
+    "s": "Basketball Reference",
+    "t": "bkr",
+    "u": "http://www.basketball-reference.com/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "d": "www.basketball-reference.com",
+    "s": "Basketball Reference",
+    "t": "bkref",
+    "u": "http://www.basketball-reference.com/search/search.fcgi?hint={{{s}}}&search={{{s}}}&pid=&idx="
+  },
+  {
+    "d": "www.bookshare.org",
+    "s": "Bookshare.org",
+    "t": "bkshare",
+    "u": "https://www.bookshare.org/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.blablacar.fr",
+    "s": "BlaBlaCar",
+    "t": "blablacar",
+    "u": "https://www.blablacar.fr/trajets/vers-{{{s}}}"
+  },
+  {
+    "d": "blackle.com",
+    "s": "blackle",
+    "t": "bla",
+    "u": "http://blackle.com/results/?cx=partner-pub-8993703457585266%3A4862972284&cof=FORID%3A10&ie=UTF-8&q= {{{s}}}&sa=+#gsc.tab=0&gsc.q= {{{s}}}&gsc.page=1"
+  },
+  {
+    "d": "www.blackbookmag.com",
+    "s": "BlackBook",
+    "t": "blackbook",
+    "u": "http://www.blackbookmag.com/search/articles#keywords:{{{s}}}"
+  },
+  {
+    "d": "www.blackbookmag.com",
+    "s": "BlackBook",
+    "t": "blackbookmag",
+    "u": "http://www.blackbookmag.com/search/articles#keywords:{{{s}}}"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MXToolbox",
+    "t": "blacklist",
+    "u": "http://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "d": "blackwells.co.uk",
+    "s": "Blackwell's",
+    "t": "blackwells",
+    "u": "https://blackwells.co.uk/bookshop/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.bladehq.com",
+    "s": "BladeHQ",
+    "t": "bladehq",
+    "u": "https://www.bladehq.com/?search={{{s}}}"
+  },
+  {
+    "d": "bland.is",
+    "s": "Bland.is",
+    "t": "bland",
+    "u": "https://bland.is/classified/default.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.theblaze.com",
+    "s": "The Blaze",
+    "t": "blaze",
+    "u": "http://www.theblaze.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.blb.org",
+    "s": "Blue Letter Bible",
+    "t": "blb",
+    "u": "http://www.blb.org/search/preSearch.cfm?plugin=yes&Criteria={{{s}}}"
+  },
+  {
+    "d": "www.bilibili.com",
+    "s": "哔哩哔哩弹幕网",
+    "t": "blbl",
+    "u": "http://www.bilibili.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "live.blockcypher.com",
+    "s": "BlockCypher",
+    "t": "blcy",
+    "u": "https://live.blockcypher.com/btc/address/{{{s}}}"
+  },
+  {
+    "d": "thelawdictionary.org",
+    "s": "Blacks Law Dictionary",
+    "t": "bld",
+    "u": "http://thelawdictionary.org/search2/?cx=partner-pub-4620319056007131%3A7293005414&cof=FORID%3A11&ie=UTF-8&q={{{s}}}}"
+  },
+  {
+    "d": "bleach.wikia.com",
+    "s": "Bleach Wiki",
+    "t": "bleach",
+    "u": "http://bleach.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "bluetoothle.wiki",
+    "s": "Bluetooth LE Wiki",
+    "t": "ble",
+    "u": "https://bluetoothle.wiki/start?do=search&id=start&q={{{s}}}"
+  },
+  {
+    "d": "bleep.com",
+    "s": "Bleep",
+    "t": "bleep",
+    "u": "https://bleep.com/search/query?q={{{s}}}"
+  },
+  {
+    "d": "www.bleepingcomputer.com",
+    "s": "Bleeping Computer",
+    "t": "bleepingpc",
+    "u": "https://www.bleepingcomputer.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "docs.blender.org",
+    "s": "Blender Current API",
+    "t": "blendapi",
+    "u": "https://docs.blender.org/api/current/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "docs.blender.org",
+    "s": "Blender API",
+    "t": "blenderapi",
+    "u": "https://docs.blender.org/api/current/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.blender.org",
+    "s": "Blender Manual",
+    "t": "blender",
+    "u": "https://docs.blender.org/manual/en/latest/search.html?q={{{s}}}&check_keywords=yes"
+  },
+  {
+    "d": "www.blenderguru.com",
+    "s": "Blender Guru",
+    "t": "blenderguru",
+    "u": "http://www.blenderguru.com/?s={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "d": "blendle.nl",
+    "s": "Blendle",
+    "t": "blendle",
+    "u": "https://blendle.nl/search/{{{s}}}"
+  },
+  {
+    "d": "blender.stackexchange.com",
+    "s": " _ Blender Stack Exchange",
+    "t": "blex",
+    "u": "http://blender.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "budgetlightforum.com",
+    "s": "BudgetLightForum.com",
+    "t": "blf",
+    "u": "http://budgetlightforum.com/search?q_as={{{s}}}"
+  },
+  {
+    "d": "www.blenderguru.com",
+    "s": "Blender Guru",
+    "t": "blg",
+    "u": "http://www.blenderguru.com/?s={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "d": "www.blickamabend.ch",
+    "s": "Blick am Abend",
+    "t": "blickaa",
+    "u": "http://www.blickamabend.ch/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.blinde-kuh.de",
+    "s": "Blindekuh.de",
+    "t": "blindekuh",
+    "u": "http://www.blinde-kuh.de/bksearch.cgi?input=bksearchbox+start&query={{{s}}}"
+  },
+  {
+    "d": "www.booklooker.de",
+    "s": "Booklooker",
+    "t": "blk",
+    "u": "https://www.booklooker.de/Bücher/Angebote/infotext={{{s}}}"
+  },
+  {
+    "d": "www.bloomberg.com",
+    "s": "Bloomberg",
+    "t": "blmb",
+    "u": "http://www.bloomberg.com/search?query={{{s}}}"
+  },
+  {
+    "d": "blogmotion.fr",
+    "s": "Blogmotion",
+    "t": "blm",
+    "u": "http://blogmotion.fr/?utm_source=duckduckgo&utm_medium=bang&s={{{s}}}"
+  },
+  {
+    "d": "searcharchives.bl.uk",
+    "s": "British Library Explore Archives and Manuscripts",
+    "t": "blms",
+    "u": "http://searcharchives.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+  },
+  {
+    "d": "www.blendernation.com",
+    "s": "Blender Nation",
+    "t": "bln",
+    "u": "https://www.blendernation.com/?s={{{s}}}"
+  },
+  {
+    "d": "blockchain.info",
+    "s": "blockchain",
+    "t": "blockchain",
+    "u": "https://blockchain.info/en/search?search={{{s}}}"
+  },
+  {
+    "d": "blockchair.com",
+    "s": "Blockchair",
+    "t": "blockchair",
+    "u": "https://blockchair.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.blocket.se",
+    "s": "Blocket",
+    "t": "blocket",
+    "u": "http://www.blocket.se/hela_sverige?q={{{s}}}&cg=0&w=3&st=s&st=u&st=b&ca=11&l=0&md=th"
+  },
+  {
+    "d": "bloganchoi.com",
+    "s": "BlogAnChoi",
+    "t": "bloganchoi",
+    "u": "http://bloganchoi.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo blog",
+    "t": "blog",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aduck.co%2Fblog"
+  },
+  {
+    "d": "",
+    "s": "Blogspot",
+    "t": "blogspot",
+    "u": "/?q={{{s}}}+site:blogspot.com"
+  },
+  {
+    "d": "blogs.splunk.com",
+    "s": "blogs.splunk.com",
+    "t": "blogs.splunk",
+    "u": "http://blogs.splunk.com/?s={{{s}}}"
+  },
+  {
+    "d": "blogtalkradio.com",
+    "s": "BlogTalkRadio",
+    "t": "blogtalkradio",
+    "u": "http://blogtalkradio.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.blogudir.com",
+    "s": "Blogudir",
+    "t": "blogudir",
+    "u": "https://www.blogudir.com/search?q={{{s}}}"
+  },
+  {
+    "d": "bloodcat.com",
+    "s": "Bloodcat Beatmap Mirror",
+    "t": "bloodcat",
+    "u": "https://bloodcat.com/osu/?q={{{s}}}&c=b&s=&m=&g=&l="
+  },
+  {
+    "d": "www.bloomberg.com",
+    "s": "Bloomberg",
+    "t": "bloom",
+    "u": "https://www.bloomberg.com/search?query={{{s}}}"
+  },
+  {
+    "d": "bloons.wikia.com",
+    "s": "Bloons Wiki",
+    "t": "bloonswiki",
+    "u": "http://bloons.wikia.com/search?query={{{s}}}"
+  },
+  {
+    "d": "explore.bl.uk",
+    "s": "The British Library Catalogue",
+    "t": "bl",
+    "u": "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+  },
+  {
+    "d": "blueapron.com",
+    "s": "Blue Apron",
+    "t": "blueapron",
+    "u": "http://blueapron.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.bluehive.com",
+    "s": "BlueHive",
+    "t": "bluehive",
+    "u": "https://www.bluehive.com/providers/search/{{{s}}}"
+  },
+  {
+    "d": "www.blueletterbible.org",
+    "s": "Blue Letter Bible",
+    "t": "blueletterbible",
+    "u": "http://www.blueletterbible.org/search/search.cfm?Criteria={{{s}}}&t=KJV#s=s_primary_0_1"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "Bluelight",
+    "t": "bluelight",
+    "u": "http://cse.google.com/cse?cx=009513296995230692334:6ksgwcos37i&q={{{s}}}"
+  },
+  {
+    "d": "rsw.me.uk",
+    "s": "Blueline",
+    "t": "blueline",
+    "u": "https://rsw.me.uk/blueline/methods/search?q={{{s}}}"
+  },
+  {
+    "d": "explore.bl.uk",
+    "s": "The British Library Catalogue",
+    "t": "bluk",
+    "u": "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)={{{s}}}"
+  },
+  {
+    "d": "www.blu-ray.com",
+    "s": "Blu-ray.com",
+    "t": "bluray",
+    "u": "http://www.blu-ray.com/search/?quicksearch=1&quicksearch_country=all&quicksearch_keyword={{{s}}}&section=bluraymovies"
+  },
+  {
+    "d": "www.blox.pl",
+    "s": "Blox.pl",
+    "t": "blx",
+    "u": "http://www.blox.pl/html?page=blogPublicSearch&container_search={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Maps",
+    "t": "bmaps",
+    "u": "https://www.bing.com/maps/?q={{{s}}}&obox=1"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "bing maps",
+    "t": "bm",
+    "u": "https://www.bing.com/maps/?q={{{s}}}&obox=1"
+  },
+  {
+    "d": "www.brickmerge.de",
+    "s": "BrickMerge",
+    "t": "bmde",
+    "u": "https://www.brickmerge.de/?find={{{s}}}"
+  },
+  {
+    "d": "bestpractice.bmj.com",
+    "s": "BMJ Best Practice",
+    "t": "bmjbp",
+    "u": "https://bestpractice.bmj.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bmj.com",
+    "s": "The BMJ",
+    "t": "bmj",
+    "u": "https://www.bmj.com/search/advanced/{{{s}}}"
+  },
+  {
+    "d": "blendermarket.com",
+    "s": "blendermarket.com",
+    "t": "bmk",
+    "u": "https://blendermarket.com/search?q={{{s}}}"
+  },
+  {
+    "d": "bugzilla.mozilla.org",
+    "s": "Mozilla Bugzilla",
+    "t": "bmo",
+    "u": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "www.bmonotes.com",
+    "s": "BMO Structured Notes",
+    "t": "bmonotes",
+    "u": "https://www.bmonotes.com/Search/GeneralSearch?query={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing",
+    "t": "bmonth",
+    "u": "https://www.bing.com/search?q={{{s}}}&filters=ex1%3a\"\"ez3\"\""
+  },
+  {
+    "d": "bookmyparts.com",
+    "s": "https://bookmyparts.com",
+    "t": "bmp",
+    "u": "https://bookmyparts.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "bluemoonrising.com",
+    "s": "Blue Moon Rising",
+    "t": "bmr",
+    "u": "http://bluemoonrising.com/?s={{{s}}}"
+  },
+  {
+    "d": "in.bookmyshow.com",
+    "s": "BookMY Show",
+    "t": "bms",
+    "u": "http://in.bookmyshow.com/search/results/?_s=0.2&search={{{s}}}"
+  },
+  {
+    "d": "www.getbmwparts.com",
+    "s": "BMW Parts",
+    "t": "bmwparts",
+    "u": "https://www.getbmwparts.com/search?search_str={{{s}}}"
+  },
+  {
+    "d": "www.bna.com.ar",
+    "s": "Banco de la Nación Argentina",
+    "t": "bna",
+    "u": "http://www.bna.com.ar/Buscador?q={{{s}}}"
+  },
+  {
+    "d": "www.barnesandnoble.com",
+    "s": "barnes and noble ",
+    "t": "b&n",
+    "u": "http://www.barnesandnoble.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.barnesandnoble.com",
+    "s": "Barnes and Noble",
+    "t": "bn",
+    "u": "http://www.barnesandnoble.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Narrow by Region",
+    "t": "bnbr",
+    "u": "http://www.bing.com/search?q={{{s}}}&rf=1&qpvt={{{s}}}"
+  },
+  {
+    "d": "bandcamp.com",
+    "s": "Bandcamp",
+    "t": "bndc",
+    "u": "https://bandcamp.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing News",
+    "t": "bnews",
+    "u": "https://www.bing.com/news/search?q={{{s}}}"
+  },
+  {
+    "d": "catalogue.bnf.fr",
+    "s": "Catalogue BNF",
+    "t": "bnf",
+    "u": "http://catalogue.bnf.fr/rechercher.do?motRecherche={{{s}}}"
+  },
+  {
+    "d": "bokunoheroacademia.wikia.com",
+    "s": "Boku no Hero Academia Wiki",
+    "t": "bnha",
+    "u": "http://bokunoheroacademia.wikia.com/wiki/Special:Search?go&query={{{s}}}"
+  },
+  {
+    "d": "www.baileynurseries.com",
+    "s": "Bailey Nurseries",
+    "t": "bnil",
+    "u": "http://www.baileynurseries.com/imagelibrary/gallery/search/?name={{{s}}}&brand=All&plant_type=All&height_lo=&height=f&spread_lo=&spread=f&exposure=All&zone=All&foliage=&dosearch=Do+Search"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Netherlands",
+    "t": "bnl",
+    "u": "https://www.bing.com/search?q={{{s}}}&cc=nl"
+  },
+  {
+    "d": "www.bnrmetal.com",
+    "s": "BNR Metal Pages",
+    "t": "bnr",
+    "u": "http://www.bnrmetal.com/v5/search/search/{{{s}}}"
+  },
+  {
+    "d": "bokunoshumi.wordpress.com",
+    "s": "http://bokunoshumi.wordpress.com",
+    "t": "bns",
+    "u": "https://bokunoshumi.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "boardgamegeek.com",
+    "s": "Boardgamegeek",
+    "t": "boardgame",
+    "u": "http://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}&B1=Go"
+  },
+  {
+    "d": "boardgamegeek.com",
+    "s": "BoardGameGeek",
+    "t": "boardgamegeek",
+    "u": "http://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}"
+  },
+  {
+    "d": "www.boardgameprices.com",
+    "s": "BoardGamePrices",
+    "t": "boardgameprices",
+    "u": "http://www.boardgameprices.com/compare-prices-for?q={{{s}}}"
+  },
+  {
+    "d": "dillonboardman.wordpress.com",
+    "s": "Boardman Perspective",
+    "t": "boardman",
+    "u": "http://dillonboardman.wordpress.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.boards.ie",
+    "s": "Boards.ie",
+    "t": "boards",
+    "u": "http://www.boards.ie/search/submit/?query={{{s}}}"
+  },
+  {
+    "d": "www.bobdylan.com",
+    "s": "Bob Dylan",
+    "t": "bobdylan",
+    "u": "https://www.bobdylan.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.boerse-online.de",
+    "s": "Boerse Online",
+    "t": "bo",
+    "u": "http://www.boerse-online.de/suchergebnisse?_search={{{s}}}"
+  },
+  {
+    "d": "bestonlinecasinoca.com",
+    "s": "BestOnlineCasinoCA",
+    "t": "bocca",
+    "u": "https://bestonlinecasinoca.com/?s={{{s}}}"
+  },
+  {
+    "d": "bocpages.org",
+    "s": "bocpages",
+    "t": "bocpages",
+    "u": "http://bocpages.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "bodeka.org",
+    "s": "bodeka.org",
+    "t": "bodeka",
+    "u": "http://bodeka.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.bodo.de",
+    "s": "bodo Verkehrsverbund",
+    "t": "bodo",
+    "u": "https://www.bodo.de/suche.html?tx_kesearch_pi1[sword]={{{s}}}"
+  },
+  {
+    "d": "www.bodycarereviews.com",
+    "s": "Body Care Reviews",
+    "t": "bodycare",
+    "u": "https://www.bodycarereviews.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.bodyenfitshop.nl",
+    "s": "Body & Fit",
+    "t": "bodyfit",
+    "u": "http://www.bodyenfitshop.nl/#twn|?tn_q={{{s}}}"
+  },
+  {
+    "d": "www.bogleheads.org",
+    "s": "Bogleheads Wiki",
+    "t": "bogle",
+    "u": "http://www.bogleheads.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "bindingofisaacrebirth.gamepedia.com",
+    "s": "Binding of Isaac: Rebirth Wiki",
+    "t": "boi",
+    "u": "http://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "boingboing",
+    "t": "boingboing",
+    "u": "http://www.google.com/cse?cx=partner-pub-2170174688585464:d58nno-rqp8&ie=ISO-8859-1&q={{{s}}}&sa=GO&siteurl=www.boingboing.net/"
+  },
+  {
+    "d": "ordbok.uib.no",
+    "s": "http://ordbok.uib.no/",
+    "t": "bokmålsordboka",
+    "u": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal"
+  },
+  {
+    "d": "www.bokus.com",
+    "s": "Bokus",
+    "t": "bokus",
+    "u": "http://www.bokus.com/cgi-bin/product_search.cgi?ac_used=no&search_word={{{s}}}"
+  },
+  {
+    "d": "wiki.parabola.nu",
+    "s": "Parabola GNU/Linux Wiki",
+    "t": "bola",
+    "u": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.parabola.nu",
+    "s": "Parabola GNU/Linux Packages",
+    "t": "bolapkg",
+    "u": "https://www.parabola.nu/packages/?q={{{s}}}"
+  },
+  {
+    "d": "www.bol.com",
+    "s": "bol.com",
+    "t": "bol",
+    "u": "https://www.bol.com/nl/s/?searchtext={{{s}}}"
+  },
+  {
+    "d": "www.bolha.com",
+    "s": "Bolha",
+    "t": "bolha",
+    "u": "http://www.bolha.com/iskanje?q={{{s}}}"
+  },
+  {
+    "d": "www.bolor-toli.com",
+    "s": "bolor-toli",
+    "t": "bolor",
+    "u": "http://www.bolor-toli.com/dictionary/word?search={{{s}}}"
+  },
+  {
+    "d": "www.boxofficemojo.com",
+    "s": "Box Office Mojo",
+    "t": "bom",
+    "u": "http://www.boxofficemojo.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.bomnegocio.com",
+    "s": "Bom Negócio",
+    "t": "bomnegocio",
+    "u": "http://www.bomnegocio.com/brasil?q={{{s}}}"
+  },
+  {
+    "d": "www.bona.co.za",
+    "s": "Bona",
+    "t": "bona",
+    "u": "https://www.bona.co.za/?s={{{s}}}"
+  },
+  {
+    "d": "www.bondfaro.com.br",
+    "s": "Bondfaro",
+    "t": "bondfaro",
+    "u": "http://www.bondfaro.com.br/cprocura?produto={{{s}}}"
+  },
+  {
+    "d": "www.bonfire.com",
+    "s": "Bonfire",
+    "t": "bonfire",
+    "u": "https://www.bonfire.com/results/{{{s}}}"
+  },
+  {
+    "d": "bonnus.ulb.uni-bonn.de",
+    "s": "Bonnus",
+    "t": "bonnus",
+    "u": "https://bonnus.ulb.uni-bonn.de/Summon/Search?lookfor={{{s}}}&type=AllFields&submit=Suchen"
+  },
+  {
+    "d": "bookbaz.ir",
+    "s": "BookBaz",
+    "t": "bookbaz",
+    "u": "http://bookbaz.ir/?s={{{s}}} "
+  },
+  {
+    "d": "www.booking.com",
+    "s": "booking.com",
+    "t": "book",
+    "u": "http://www.booking.com/searchresults.html?ss={{{s}}}&si=ai"
+  },
+  {
+    "d": "bookbrainz.org",
+    "s": "BookBrainz",
+    "t": "bookbrainz",
+    "u": "https://bookbrainz.org/search?q={{{s}}}"
+  },
+  {
+    "d": "bookcrossing.by",
+    "s": "BookCrossing",
+    "t": "bookcrossing",
+    "u": "http://bookcrossing.by/books?find={{{s}}}"
+  },
+  {
+    "d": "bookdepository.com",
+    "s": "bookdepository",
+    "t": "bookdep",
+    "u": "http://bookdepository.com/search?searchTerm={{{s}}}&search=Find+book"
+  },
+  {
+    "d": "www.bookdepository.com",
+    "s": "BookDepository",
+    "t": "bookdepository",
+    "u": "https://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book"
+  },
+  {
+    "d": "www.bookeenstore.com",
+    "s": "Bookeen Store",
+    "t": "bookeen",
+    "u": "https://www.bookeenstore.com/search?words={{{s}}}"
+  },
+  {
+    "d": "www.bookfinder.com",
+    "s": "Book Finder",
+    "t": "bookfinder",
+    "u": "http://www.bookfinder.com/search/?author=&title={{{s}}}&lang=en&submit=Begin+search&new_used=*&destination=us&currency=USD&mode=basic&st=sr&ac=qr"
+  },
+  {
+    "d": "bookflavor.com",
+    "s": "Bookflavor",
+    "t": "bookflavor",
+    "u": "http://bookflavor.com/#!{{{s}}}"
+  },
+  {
+    "d": "www.booking.com",
+    "s": "Booking",
+    "t": "booking",
+    "u": "http://www.booking.com/searchresults.html?ss={{{s}}}&si=ai"
+  },
+  {
+    "d": "www.booking.com",
+    "s": "Booking España",
+    "t": "bookinges",
+    "u": "https://www.booking.com/search.es.html?ss={{{s}}}"
+  },
+  {
+    "d": "booklive.jp",
+    "s": "BookLive!",
+    "t": "booklive",
+    "u": "http://booklive.jp/search/keyword?keyword={{{s}}}"
+  },
+  {
+    "d": "www.booklooker.de",
+    "s": "Booklooker",
+    "t": "booklooker",
+    "u": "http://www.booklooker.de/B%C3%BCcher/Angebote/infotext={{{s}}}?lid=1"
+  },
+  {
+    "d": "in.bookmyshow.com",
+    "s": "BookMY Show",
+    "t": "bookmyshow",
+    "u": "http://in.bookmyshow.com/search/results/?_s=0.2&search={{{s}}}"
+  },
+  {
+    "d": "www.booknet.co.il",
+    "s": "Booknet",
+    "t": "booknet",
+    "u": "http://www.booknet.co.il/subc.asp?serin=3&c=3947&ser={{{s}}}"
+  },
+  {
+    "d": "booko.com.au",
+    "s": "Booko",
+    "t": "booko",
+    "u": "http://booko.com.au/books/search?q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "books",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=stripbooks"
+  },
+  {
+    "d": "www.booksetc.co.uk",
+    "s": "Books etc UK",
+    "t": "booksetc",
+    "u": "http://www.booksetc.co.uk/books/search?q={{{s}}}"
+  },
+  {
+    "d": "boomkat.com",
+    "s": "boomkat",
+    "t": "boomkat",
+    "u": "http://boomkat.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.websmartboomer.com",
+    "s": "Websmartboomer",
+    "t": "boom",
+    "u": "http://www.websmartboomer.com/?q={{{s}}}"
+  },
+  {
+    "d": "bugzilla.opensuse.org",
+    "s": "openSUSE Bugzilla",
+    "t": "boo",
+    "u": "https://bugzilla.opensuse.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "Boost.org",
+    "t": "boost",
+    "u": "/?q={{{s}}}+site:boost.org"
+  },
+  {
+    "d": "getbootstrap.com",
+    "s": "Boostrap",
+    "t": "boot",
+    "u": "https://getbootstrap.com/docs/4.0/components/{{{s}}}/"
+  },
+  {
+    "d": "bootleggames.wikia.com",
+    "s": "Bootleg Games Wiki",
+    "t": "bootleg",
+    "u": "http://bootleggames.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "borderlands.wikia.com",
+    "s": "Borderlands Wiki",
+    "t": "borderlands",
+    "u": "http://borderlands.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.bostonglobe.com",
+    "s": "Boston Globe",
+    "t": "bostonglobe",
+    "u": "http://www.bostonglobe.com/queryResult/search?q={{{s}}}"
+  },
+  {
+    "d": "bpl.bibliocommons.com",
+    "s": "Boston Public Library",
+    "t": "bostonpubliclibrary",
+    "u": "https://bpl.bibliocommons.com/search?q={{{s}}}&t=smart&search_category=keyword&commit=Search&submitsearch=go&se=catalog"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Battle of the Bits",
+    "t": "botb",
+    "u": "https://duckduckgo.com/?q=site%3Abattleofthebits.org+{{{s}}}"
+  },
+  {
+    "d": "botlist.co",
+    "s": "Botlist",
+    "t": "botlist",
+    "u": "https://botlist.co/search?query={{{s}}}"
+  },
+  {
+    "d": "boto3.readthedocs.io",
+    "s": "Boto 3 Docs",
+    "t": "boto3",
+    "u": "https://boto3.readthedocs.io/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.boulanger.com",
+    "s": "Boulanger",
+    "t": "boulanger",
+    "u": "http://www.boulanger.com/resultats?tr={{{s}}}"
+  },
+  {
+    "d": "www.bouletcorp.com",
+    "s": "bouletcorp",
+    "t": "boulet",
+    "u": "http://www.bouletcorp.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.bountysource.com",
+    "s": "Bountysource",
+    "t": "bountysource",
+    "u": "https://www.bountysource.com/search?query={{{s}}}"
+  },
+  {
+    "d": "bourbon.io",
+    "s": "Bourbon",
+    "t": "bourbon",
+    "u": "http://bourbon.io/docs/?q={{{s}}}"
+  },
+  {
+    "d": "libraries.io",
+    "s": "bower",
+    "t": "bower",
+    "u": "https://libraries.io/search?q={{{s}}}&platforms=Bower&sort=rank&sort=rank"
+  },
+  {
+    "d": "boxoh.com",
+    "s": "Boxoh",
+    "t": "boxoh",
+    "u": "http://boxoh.com/?t={{{s}}}"
+  },
+  {
+    "d": "boyslife.org",
+    "s": "Boys' Life magazine",
+    "t": "boyslife",
+    "u": "http://boyslife.org/search/?q={{{s}}} "
+  },
+  {
+    "d": "bulbapedia.bulbagarden.net",
+    "s": "Bulbapedia",
+    "t": "bpa",
+    "u": "http://bulbapedia.bulbagarden.net/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.boredpanda.com",
+    "s": "Bored Panda",
+    "t": "bpanda",
+    "u": "https://www.boredpanda.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.bpb.de",
+    "s": "Bundeszentrale für politische Bildung",
+    "t": "bpb",
+    "u": "http://www.bpb.de/suche/?suchwort={{{s}}}&suchen=Suchen"
+  },
+  {
+    "d": "beautifulpixels.com",
+    "s": "Beautiful Pixels",
+    "t": "bp",
+    "u": "http://beautifulpixels.com/?s={{{s}}} "
+  },
+  {
+    "d": "bulbapedia.bulbagarden.net",
+    "s": "Bulbapedia",
+    "t": "bpedia",
+    "u": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "products.bpiworld.org",
+    "s": "Biodegradable Products Institute",
+    "t": "bpi",
+    "u": "http://products.bpiworld.org/companies?title=&field_industry_category_tid=&field_member_id_value={{{s}}}"
+  },
+  {
+    "d": "www.backpackinglight.com",
+    "s": "Backpacking Light",
+    "t": "bpl",
+    "u": "http://www.backpackinglight.com/cgi-bin/backpackinglight/search.html?q={{{s}}}"
+  },
+  {
+    "d": "songbpm.com",
+    "s": "Song Bpm",
+    "t": "bpm",
+    "u": "https://songbpm.com/{{{s}}}"
+  },
+  {
+    "d": "bugs.python.org",
+    "s": "Python Bug Tracker",
+    "t": "bpoi",
+    "u": "https://bugs.python.org/issue{{{s}}}"
+  },
+  {
+    "d": "www.brainpop.com",
+    "s": "BrainPOP",
+    "t": "bpop",
+    "u": "https://www.brainpop.com/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "bugs.python.org",
+    "s": "Python Bug Tracker",
+    "t": "bpo",
+    "u": "https://bugs.python.org/issue?%40columns=id%2Cactivity%2Ctitle%2Ccreator%2Cassignee%2Cstatus%2Ctype&%40sort=-activity&%40filter=status&%40action=searchid&ignore=file%3Acontent&%40search_text={{{s}}}&submit=search&status=-1%2C1%2C2%2C3"
+  },
+  {
+    "d": "track.bpost.be",
+    "s": "BPost",
+    "t": "bpost",
+    "u": "http://track.bpost.be/btr/web/#/search?itemCode={{{s}}}"
+  },
+  {
+    "d": "bibliotheques.paris.fr",
+    "s": "Bibliothèques de prêt de la Ville de Paris",
+    "t": "bpp",
+    "u": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY={{{s}}}&QUERY_LABEL="
+  },
+  {
+    "d": "katalog.bppn.waw.pl",
+    "s": "Bppn",
+    "t": "bppn",
+    "u": "http://katalog.bppn.waw.pl/F?func=find-b&request={{{s}}}&find_code=WRD&adjacent=N&local_base=PRA01&x=0&y=0&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WFM&filter_request_4=&filter_code_5=WSL&filter_request_5="
+  },
+  {
+    "d": "pro.beatport.com",
+    "s": "Beatport Pro",
+    "t": "bppro",
+    "u": "https://pro.beatport.com/search?q={{{s}}}"
+  },
+  {
+    "d": "legacy.baseballprospectus.com",
+    "s": "Baseball Prospectus",
+    "t": "bpro",
+    "u": "https://legacy.baseballprospectus.com/player_search.php?search_name={{{s}}}"
+  },
+  {
+    "d": "www.brownpapertickets.com",
+    "s": "Brown Paper Tickets",
+    "t": "bpt",
+    "u": "https://www.brownpapertickets.com/browse.html?keywords={{{s}}}"
+  },
+  {
+    "d": "www.bloombergquint.com",
+    "s": "BloombergQuint",
+    "t": "bq",
+    "u": "https://www.bloombergquint.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.brack.ch",
+    "s": "Brack",
+    "t": "brack",
+    "u": "https://www.brack.ch/search?query={{{s}}}"
+  },
+  {
+    "d": "www.brainpop.com",
+    "s": "BrainPOP",
+    "t": "brainpop",
+    "u": "https://www.brainpop.com/search/search.weml?keyword={{{s}}}"
+  },
+  {
+    "d": "educators.brainpop.com",
+    "s": "BrainPOP Educators",
+    "t": "brainpopeducators",
+    "u": "http://educators.brainpop.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.brainyquote.com",
+    "s": "BrainyQuote",
+    "t": "brainyquote",
+    "u": "https://www.brainyquote.com/search_results.html?q={{{s}}}"
+  },
+  {
+    "d": "brakdag.nl",
+    "s": "Brakdag",
+    "t": "brakdag",
+    "u": "https://brakdag.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.brandsoftheworld.com",
+    "s": "Brands of the world",
+    "t": "brands",
+    "u": "http://www.brandsoftheworld.com/search/logo?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "www.bratabase.com",
+    "s": "Bratabase",
+    "t": "bratabase",
+    "u": "http://www.bratabase.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "search.brave.com",
+    "s": "Brave Search",
+    "t": "brave",
+    "u": "https://search.brave.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.baseball-reference.com",
+    "s": "Baseball-Reference",
+    "t": "br",
+    "u": "http://www.baseball-reference.com/pl/player_search.cgi?search={{{s}}}"
+  },
+  {
+    "d": "boardreader.com",
+    "s": "Boardreader",
+    "t": "brd",
+    "u": "https://boardreader.com/s/{{{s}}}.html"
+  },
+  {
+    "d": "www.breitbart.com",
+    "s": "Breitbart News",
+    "t": "breitbart",
+    "u": "http://www.breitbart.com/search/?s={{{s}}}"
+  },
+  {
+    "d": "www.brettspiel-angebote.de",
+    "s": "Brettspiel Angebote",
+    "t": "brettspiele",
+    "u": "http://www.brettspiel-angebote.de/spiele/?s={{{s}}}&t="
+  },
+  {
+    "d": "formulae.brew.sh",
+    "s": "Homebrew",
+    "t": "brewf",
+    "u": "https://formulae.brew.sh/formula/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Homebrew",
+    "t": "brew",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aformulae.brew.sh"
+  },
+  {
+    "d": "www.b-rhymes.com",
+    "s": "B-Rhymes",
+    "t": "b-rhymes",
+    "u": "http://www.b-rhymes.com/rhyme/word/{{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Reverse Image Search",
+    "t": "bri",
+    "u": "https://www.bing.com/images/search?q=imgurl:{{{s}}}&view=detailv2&iss=sbi&FORM=IRSBIQ#enterInsights"
+  },
+  {
+    "d": "www.bricklink.com",
+    "s": "Bricklink",
+    "t": "bricklink",
+    "u": "http://www.bricklink.com/search.asp?q={{{s}}}"
+  },
+  {
+    "d": "www.bricklink.com",
+    "s": "Bricklink",
+    "t": "bricklinkcat",
+    "u": "http://www.bricklink.com/catalogList.asp?q={{{s}}}"
+  },
+  {
+    "d": "brickset.com",
+    "s": "Brickset",
+    "t": "brickpart",
+    "u": "http://brickset.com/parts?query={{{s}}}"
+  },
+  {
+    "d": "brickset.com",
+    "s": "Brickset",
+    "t": "brickset",
+    "u": "http://brickset.com/sets?query={{{s}}}"
+  },
+  {
+    "d": "www.bricoman.it",
+    "s": "Bricoman",
+    "t": "bricoman",
+    "u": "https://www.bricoman.it/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.brightstorm.com",
+    "s": "Brightstorm",
+    "t": "brightstorm",
+    "u": "http://www.brightstorm.com/search/?k={{{s}}}"
+  },
+  {
+    "d": "www.bricksinmotion.com",
+    "s": "Bricks in Motion",
+    "t": "brim",
+    "u": "http://www.bricksinmotion.com/forums/search/?action=search&keywords={{{s}}}&search=Submit+search&show_as=topics"
+  },
+  {
+    "d": "www.britannica.com",
+    "s": "Britannica.com",
+    "t": "britannica",
+    "u": "http://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "d": "school.eb.com",
+    "s": "Britannica School (Elementary)",
+    "t": "britannicaschoole",
+    "u": "http://school.eb.com/levels/elementary/search/articles?query={{{s}}}"
+  },
+  {
+    "d": "school.eb.com",
+    "s": "Britannica School (High)",
+    "t": "britannicaschoolh",
+    "u": "http://school.eb.com/levels/high/search/articles?query={{{s}}}"
+  },
+  {
+    "d": "school.eb.com",
+    "s": "Britannica School (Middle)",
+    "t": "britannicaschoolm",
+    "u": "http://school.eb.com/levels/middle/search/articles?query={{{s}}}"
+  },
+  {
+    "d": "www.britannica.com",
+    "s": "Encyclopaedia Brittanica",
+    "t": "brit",
+    "u": "https://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "d": "quest.eb.com",
+    "s": "Britannica ImageQuest",
+    "t": "britimgq",
+    "u": "http://quest.eb.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.britishslang.co.uk",
+    "s": "British Slang",
+    "t": "british",
+    "u": "http://www.britishslang.co.uk/search/default.aspx?q={{{s}}}"
+  },
+  {
+    "d": "school.eb.com",
+    "s": "Britannica School (Elementary)",
+    "t": "britsche",
+    "u": "http://school.eb.com/levels/elementary/search/articles?query={{{s}}}"
+  },
+  {
+    "d": "school.eb.com",
+    "s": "Britannica School (High)",
+    "t": "britschh",
+    "u": "http://school.eb.com/levels/high/search/articles?query={{{s}}}"
+  },
+  {
+    "d": "school.eb.com",
+    "s": "Britannica School (Middle)",
+    "t": "britschm",
+    "u": "http://school.eb.com/levels/middle/search/articles?query={{{s}}}"
+  },
+  {
+    "d": "www.bruun-rasmussen.dk",
+    "s": "Bruun Rasmussen Auctioneers",
+    "t": "brk",
+    "u": "http://www.bruun-rasmussen.dk/search.do?q={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "brl2eur",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=BRL&To=EUR"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "brl2gbp",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=BRL&To=GBP"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "brl2usd",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=BRL&To=USD"
+  },
+  {
+    "d": "brainly.com",
+    "s": "Brainly",
+    "t": "brly",
+    "u": "https://brainly.com/app/ask?entry=hero&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "BroadSign",
+    "t": "broadsign",
+    "u": "https://duckduckgo.com/?q=site%3Abroadsign.com+{{{s}}}"
+  },
+  {
+    "d": "bropages.org",
+    "s": "BroPages",
+    "t": "bro",
+    "u": "http://bropages.org/{{{s}}}"
+  },
+  {
+    "d": "brockhaus.de",
+    "s": "Brockhaus",
+    "t": "brockhaus",
+    "u": "https://brockhaus.de/search/?t=enzy&q={{{s}}}"
+  },
+  {
+    "d": "www.bro.org",
+    "s": "The Bro Network Security Monitor",
+    "t": "bro-ids",
+    "u": "https://www.bro.org/sphinx/search.html?check_keywords=yes&q={{{s}}}"
+  },
+  {
+    "d": "broncowine.com",
+    "s": "Bronco Wine Company",
+    "t": "bronco",
+    "u": "http://broncowine.com/woocommerce-search/?cat_in=&rs={{{s}}}&search_in=product&search_other=product"
+  },
+  {
+    "d": "www.brookings.edu",
+    "s": "Brookings Institution",
+    "t": "brook",
+    "u": "https://www.brookings.edu/search/?s={{{s}}}"
+  },
+  {
+    "d": "search.library.brown.edu",
+    "s": "Brown University Library",
+    "t": "brown",
+    "u": "https://search.library.brown.edu/?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "www.brownells.com",
+    "s": "Brownells",
+    "t": "brownells",
+    "u": "https://www.brownells.com/search/index.htm?k={{{s}}}"
+  },
+  {
+    "d": "search.library.brown.edu",
+    "s": "Brown University Library",
+    "t": "brownlib",
+    "u": "https://search.library.brown.edu/?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "w2.brreg.no",
+    "s": "Brønnøysundregistrene",
+    "t": "brreg",
+    "u": "http://w2.brreg.no/enhet/sok/treffliste.jsp?navn={{{s}}} &orgform=0&fylke=0&kommune=0"
+  },
+  {
+    "d": "brawlstars.fandom.com",
+    "s": "Brawl Stars Wiki",
+    "t": "brst",
+    "u": "https://brawlstars.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.britannica.com",
+    "s": "Britannyca",
+    "t": "brt",
+    "u": "http://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.baroteam.fr",
+    "s": "Baroteam",
+    "t": "brtm",
+    "u": "https://www.baroteam.fr/?s={{{s}}}"
+  },
+  {
+    "d": "brumario.usal.es",
+    "s": "Biblioteca - Universidad de Salamanca",
+    "t": "brumario",
+    "u": "http://brumario.usal.es/search/?searchtype=X&searcharg={{{s}}} &op=Buscar&SORT=D&searchscope="
+  },
+  {
+    "d": "welovebrussels.org",
+    "s": "We Love Brussels",
+    "t": "brussels",
+    "u": "https://welovebrussels.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.brutsellog.nl",
+    "s": "Brutsellog Eetblog",
+    "t": "brutsel",
+    "u": "https://www.brutsellog.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.crummy.com",
+    "s": "Beautifulsoup",
+    "t": "bs4",
+    "u": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/search.html?q={{{s}}}"
+  },
+  {
+    "d": "bsaber.com",
+    "s": "BeastSaber",
+    "t": "bsaber",
+    "u": "https://bsaber.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.biblesociety.org.au",
+    "s": "Bible Society Australia",
+    "t": "bsa",
+    "u": "https://www.biblesociety.org.au/?s={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.bsag.de",
+    "s": "Bremer Straßenbahn AG",
+    "t": "bsag",
+    "u": "https://www.bsag.de/index.php?q={{{s}}}"
+  },
+  {
+    "d": "opacplus.bsb-muenchen.de",
+    "s": "Bayerische Staatsbibliothek",
+    "t": "bsb",
+    "u": "https://opacplus.bsb-muenchen.de/InfoGuideClient/start.do?Login=opacext&BaseURL=https%3a%2f%2fopacplus.bsb-muenchen.de%2fInfoGuideClient%2fstart.do%3fLogin%3dopacext&Query=-1=%22{{{s}}}%22"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Shopping",
+    "t": "bs",
+    "u": "https://www.bing.com/shop?q={{{s}}}"
+  },
+  {
+    "d": "www.freebsd.org",
+    "s": "FreeBSD",
+    "t": "bsdman",
+    "u": "http://www.freebsd.org/cgi/man.cgi?query={{{s}}}"
+  },
+  {
+    "d": "www.businessinsider.com",
+    "s": "Business Insider",
+    "t": "bsi",
+    "u": "http://www.businessinsider.com/s?q={{{s}}}"
+  },
+  {
+    "d": "shop.bsigroup.com",
+    "s": "BSI Shop",
+    "t": "bsishop",
+    "u": "https://shop.bsigroup.com/SearchResults/?q={{{s}}}"
+  },
+  {
+    "d": "www.signbsl.com",
+    "s": "SignBSL",
+    "t": "bsl",
+    "u": "http://www.signbsl.com/sign/{{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Social",
+    "t": "bsocial",
+    "u": "https://www.bing.com/social/search/updates?q={{{s}}}"
+  },
+  {
+    "d": "www.blendswap.com",
+    "s": "blendswap.com",
+    "t": "bsp",
+    "u": "https://www.blendswap.com/blends/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.blueskyrotor.com",
+    "s": "BlueSkyRotor",
+    "t": "bsr",
+    "u": "http://www.blueskyrotor.com/performance/search/index.php?keyword={{{s}}}"
+  },
+  {
+    "d": "www.biostars.org",
+    "s": "Biostars",
+    "t": "bstar",
+    "u": "https://www.biostars.org/local/search/page/?q={{{s}}}"
+  },
+  {
+    "d": "www.bundlestars.com",
+    "s": "Bundle Stars",
+    "t": "bstars",
+    "u": "https://www.bundlestars.com/en/games?search={{{s}}}"
+  },
+  {
+    "d": "www.barbershoptags.com",
+    "s": "Barbershop Tags",
+    "t": "bst",
+    "u": "http://www.barbershoptags.com/dbpage.php?pg=tags&go=Go&_searchq={{{s}}}"
+  },
+  {
+    "d": "bladeandsoul.gamepedia.com",
+    "s": "Blade and Soul Wiki",
+    "t": "bsw",
+    "u": "https://bladeandsoul.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.ultimate-guitar.com",
+    "s": "UltimateGuitar.com",
+    "t": "btabs",
+    "u": "http://www.ultimate-guitar.com/search.php?s={{{s}}}&w=songs"
+  },
+  {
+    "d": "www.blockchain.com",
+    "s": "Blockchain",
+    "t": "btcaddr",
+    "u": "https://www.blockchain.com/btc/address/{{{s}}}"
+  },
+  {
+    "d": "www.blockchain.com",
+    "s": "Blockchain.com",
+    "t": "btc",
+    "u": "https://www.blockchain.com/search?search={{{s}}}"
+  },
+  {
+    "d": "bitcoinity.org",
+    "s": "Bitcoinity Markets",
+    "t": "btcm",
+    "u": "http://bitcoinity.org/markets/{{{s}}}/USD"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Microsoft/Bing Translator",
+    "t": "bt",
+    "u": "https://www.bing.com/translator?text={{{s}}}"
+  },
+  {
+    "d": "www.behindthename.com",
+    "s": "Behind the Name",
+    "t": "btname",
+    "u": "https://www.behindthename.com/names/search.php?terms={{{s}}}&type="
+  },
+  {
+    "d": "btrfs.wiki.kernel.org",
+    "s": "Btrfs wiki",
+    "t": "btrfs",
+    "u": "https://btrfs.wiki.kernel.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "bugs.debian.org",
+    "s": "Debian Bug Tracking System",
+    "t": "bts",
+    "u": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug={{{s}}}"
+  },
+  {
+    "d": "bttf.duckduckgo.com",
+    "s": "DuckDuckGo bttf",
+    "t": "bttf",
+    "u": "http://bttf.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.microsofttranslator.com",
+    "s": "Microsoft/Bing Translator URL",
+    "t": "bturl",
+    "u": "http://www.microsofttranslator.com/bv.aspx?a={{{s}}}"
+  },
+  {
+    "d": "www.bookbub.com",
+    "s": "BookBub",
+    "t": "bub",
+    "u": "https://www.bookbub.com/search?search={{{s}}}"
+  },
+  {
+    "d": "bulbapedia.bulbagarden.net",
+    "s": "Bulbapedia",
+    "t": "bu",
+    "u": "https://bulbapedia.bulbagarden.net/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "ucm.summon.serialssolutions.com",
+    "s": "BUCea - Bibliotecas UCM",
+    "t": "bucea",
+    "u": "http://ucm.summon.serialssolutions.com/es-ES/#!/search?ho=t&fvf=ContentType,Newspaper%20Article,t&l=es-ES&q={{{s}}}&pg=buscador&utf8=%E2%9C%93"
+  },
+  {
+    "d": "www.buch7.de",
+    "s": "Buch7",
+    "t": "buch7",
+    "u": "https://www.buch7.de/store/simple_search_results?utf8=%E2%9C%93&navkat=&search={{{s}}}&commit.x=0&commit.y=0"
+  },
+  {
+    "d": "buchonline.info",
+    "s": "Buchonline",
+    "t": "buch",
+    "u": "https://buchonline.info/?s={{{s}}}"
+  },
+  {
+    "d": "www.buchpreis24.de",
+    "s": "Buchpreis24",
+    "t": "buchpreis24",
+    "u": "https://www.buchpreis24.de/stichwort/{{{s}}}"
+  },
+  {
+    "d": "www.budgetbytes.com",
+    "s": "Budget Bytes",
+    "t": "budgetbytes",
+    "u": "http://www.budgetbytes.com/?s={{{s}}}"
+  },
+  {
+    "d": "buprimo.hosted.exlibrisgroup.com",
+    "s": "BU Alumni Medical Library- E-Journals",
+    "t": "buej",
+    "u": "https://buprimo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=BU&lang=en_US&offset=0"
+  },
+  {
+    "d": "www.buffalolib.org",
+    "s": "Buffalo & Erie County Public Library",
+    "t": "buffalolib",
+    "u": "https://www.buffalolib.org/vufind/Union/Search?lookfor={{{s}}}&type=keyword&submit=Find&sort=title"
+  },
+  {
+    "d": "buffy.wikia.com",
+    "s": "Buffyverse Wiki",
+    "t": "buffy",
+    "u": "http://buffy.wikia.com/wiki/Special:Search?search= {{{s}}}&go=Go"
+  },
+  {
+    "d": "www.bug.hr",
+    "s": "Bug Online Forum",
+    "t": "bugforum",
+    "u": "https://www.bug.hr/forum/search/topic/?txt={{{s}}}"
+  },
+  {
+    "d": "bugguide.net",
+    "s": "Bug Guide",
+    "t": "bugguide",
+    "u": "http://bugguide.net/index.php?q=search&keys={{{s}}}"
+  },
+  {
+    "d": "bugzilla.mozilla.org",
+    "s": "Bugzilla",
+    "t": "bugzilla",
+    "u": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}} "
+  },
+  {
+    "d": "www.buienalarm.nl",
+    "s": "http://www.buienalarm.nl/",
+    "t": "buien",
+    "u": "http://www.buienalarm.nl/location/{{{s}}}"
+  },
+  {
+    "d": "www.build.com",
+    "s": "Build.com",
+    "t": "build",
+    "u": "http://www.build.com/index.cfm?page=search:browse&term={{{s}}}"
+  },
+  {
+    "d": "builtwith.com",
+    "s": "BuiltWith",
+    "t": "built",
+    "u": "https://builtwith.com/?{{{s}}}"
+  },
+  {
+    "d": "builtwith.com",
+    "s": "BuiltWith",
+    "t": "builtwith",
+    "u": "https://builtwith.com/?{{{s}}}"
+  },
+  {
+    "d": "www.bukalapak.com",
+    "s": "Bukalapak",
+    "t": "bukalapak",
+    "u": "https://www.bukalapak.com/products?utf8=%E2%9C%93&search%5Bkeywords%5D={{{s}}}"
+  },
+  {
+    "d": "dev.bukkit.org",
+    "s": "BukkitDev",
+    "t": "bukdev",
+    "u": "https://dev.bukkit.org/search?search={{{s}}}"
+  },
+  {
+    "d": "www.curseforge.com",
+    "s": "Bukkit Plugins Search",
+    "t": "bukkit",
+    "u": "https://www.curseforge.com/minecraft/bukkit-plugins/search?search={{{s}}}"
+  },
+  {
+    "d": "bulbapedia.bulbagarden.net",
+    "s": "Bulbapedia",
+    "t": "bulba",
+    "u": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "bulbapedia.bulbagarden.net",
+    "s": "Bulbapedia",
+    "t": "bulbapedia",
+    "u": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "blog.bulletproof.com",
+    "s": "Bulletproof blog",
+    "t": "bulletproof",
+    "u": "https://blog.bulletproof.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.bullmoose.com",
+    "s": "Bull Moose",
+    "t": "bullmoose",
+    "u": "http://www.bullmoose.com/search?q={{{s}}}&SC=1"
+  },
+  {
+    "d": "www.mangaupdates.com",
+    "s": "Baka-Updates Manga",
+    "t": "bum",
+    "u": "http://www.mangaupdates.com/search.html?search={{{s}}}"
+  },
+  {
+    "d": "www.bund.net",
+    "s": "Bund für Umwelt und Naturschutz",
+    "t": "bund",
+    "u": "https://www.bund.net/service/suchergebnis/?L=0&q={{{s}}}"
+  },
+  {
+    "d": "bundlephobia.com",
+    "s": "BundlePhobia",
+    "t": "bundle",
+    "u": "https://bundlephobia.com/result?p={{{s}}}"
+  },
+  {
+    "d": "bundlephobia.com",
+    "s": "BundlePhobia",
+    "t": "bundlephobia",
+    "u": "https://bundlephobia.com/result?p={{{s}}}"
+  },
+  {
+    "d": "www.bundlestars.com",
+    "s": "Bundle Stars",
+    "t": "bundles",
+    "u": "https://www.bundlestars.com/en/games?search={{{s}}}"
+  },
+  {
+    "d": "www.lawyersaroundme.com",
+    "s": "Lawyers Around Me",
+    "t": "bung",
+    "u": "http://www.lawyersaroundme.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "www.bunnings.com.au",
+    "s": "Bunnings Warehouse",
+    "t": "bunnings",
+    "u": "https://www.bunnings.com.au/search/products?q={{{s}}}&redirectFrom=Any"
+  },
+  {
+    "d": "together.bunq.com",
+    "s": "bunq Together",
+    "t": "bunq",
+    "u": "https://together.bunq.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.bunnings.com.au",
+    "s": "Bunnings Warehouse",
+    "t": "bunware",
+    "u": "http://www.bunnings.com.au/search/products?q={{{s}}} &redirectFrom=Any"
+  },
+  {
+    "d": "catalogue.bu.univ-paris8.fr",
+    "s": "Université Paris 8 (Bibliothèque)",
+    "t": "bup8",
+    "u": "http://catalogue.bu.univ-paris8.fr/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}"
+  },
+  {
+    "d": "www.burbuja.info",
+    "s": "Burbuja.info",
+    "t": "burbuja",
+    "u": "http://www.burbuja.info/inmobiliaria/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "d": "burst.shopify.com",
+    "s": "Burst",
+    "t": "burst",
+    "u": "https://burst.shopify.com/photos/search?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "www.basketusa.com",
+    "s": "Basket USA",
+    "t": "busa",
+    "u": "http://www.basketusa.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.buscape.com.br",
+    "s": "Buscapé",
+    "t": "buscape",
+    "u": "http://www.buscape.com.br/cprocura?produto={{{s}}}"
+  },
+  {
+    "d": "www.business.gov.au",
+    "s": "Business.gov.au",
+    "t": "businessgovau",
+    "u": "https://www.business.gov.au/search?q={{{s}}}"
+  },
+  {
+    "d": "bustimes.org",
+    "s": "Bus Times",
+    "t": "bustimes",
+    "u": "https://bustimes.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "buy",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "www.buycott.com",
+    "s": "Buycott",
+    "t": "buycott",
+    "u": "http://www.buycott.com/search/all?query={{{s}}}"
+  },
+  {
+    "d": "buyee.jp",
+    "s": "buyee",
+    "t": "buyee",
+    "u": "http://buyee.jp/item/search?query={{{s}}} "
+  },
+  {
+    "d": "www.buytruckwheels.com",
+    "s": "Buy Truck Wheels",
+    "t": "buytruckwheels",
+    "u": "http://www.buytruckwheels.com/index.php?route=product/search&filter_name={{{s}}} "
+  },
+  {
+    "d": "www.buzer.de",
+    "s": "www.buzer.de",
+    "t": "buz",
+    "u": "https://www.buzer.de/s1.htm?a=&g={{{s}}}"
+  },
+  {
+    "d": "www.buzzfeed.com",
+    "s": "Buzzfeed",
+    "t": "buzzfeed",
+    "u": "https://www.buzzfeed.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.playbuzz.com",
+    "s": "Playbuzz",
+    "t": "buzz",
+    "u": "http://www.playbuzz.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Videos",
+    "t": "bv",
+    "u": "https://www.bing.com/videos?q={{{s}}}"
+  },
+  {
+    "d": "fahrinfo.bvg.de",
+    "s": "BVG",
+    "t": "bvg",
+    "u": "https://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/?pk_campaign=BVG.de_Eingabe&from={{{s}}} "
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Videos",
+    "t": "bvideo",
+    "u": "https://www.bing.com/videos?q={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Videos",
+    "t": "bvideos",
+    "u": "https://www.bing.com/videos?q={{{s}}}"
+  },
+  {
+    "d": "pesquisa.bvsalud.org",
+    "s": "Biblioteca Virtual em Saúde",
+    "t": "bvs",
+    "u": "http://pesquisa.bvsalud.org/regional/?q={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing Weather",
+    "t": "bw",
+    "u": "https://www.bing.com/weather/forecast?q={{{s}}}"
+  },
+  {
+    "d": "www.betterworldbooks.com",
+    "s": "Better World Books",
+    "t": "bwbooks",
+    "u": "http://www.betterworldbooks.com/{{{s}}}-H0.aspx?SearchTerm={{{s}}} "
+  },
+  {
+    "d": "belfrycomics.net",
+    "s": "Belfry Web Comics",
+    "t": "bwc",
+    "u": "http://belfrycomics.net/pg/?searchtype=Titles&searchpat={{{s}}}"
+  },
+  {
+    "d": "www.bing.com",
+    "s": "Bing",
+    "t": "bweek",
+    "u": "https://www.bing.com/search?q={{{s}}}&filters=ex1%3a\"\"ez2\"\""
+  },
+  {
+    "d": "bws.com.au",
+    "s": "BWS",
+    "t": "bws",
+    "u": "https://bws.com.au/search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "bxr.su",
+    "s": "BSD Cross Reference",
+    "t": "bxr",
+    "u": "http://bxr.su/search?refs={{{s}}}"
+  },
+  {
+    "d": "www.byggahus.se",
+    "s": "ByggaHus.se",
+    "t": "byggahus",
+    "u": "https://www.byggahus.se/sokresultat/?q={{{s}}} "
+  },
+  {
+    "d": "www.byond.com",
+    "s": "Byond",
+    "t": "byond",
+    "u": "http://www.byond.com/games/?text={{{s}}}"
+  },
+  {
+    "d": "www.byte-post.com",
+    "s": "BytePost",
+    "t": "byte",
+    "u": "https://www.byte-post.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.byu.edu",
+    "s": "Brigham Young University",
+    "t": "byu",
+    "u": "https://www.byu.edu/search-all?q={{{s}}}"
+  },
+  {
+    "d": "www.byui.edu",
+    "s": "Brigham Young University - Idaho",
+    "t": "byui",
+    "u": "https://www.byui.edu/search/result?q={{{s}}}"
+  },
+  {
+    "d": "yadda.icm.edu.pl",
+    "s": "yadda.icm.edu",
+    "t": "bztch",
+    "u": "https://yadda.icm.edu.pl/baztech/search/page.action?q=sc.general*c_0all_0eq.{{{s}}}*l_0&qt=SEARCH"
+  }
+]

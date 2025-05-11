@@ -1,0 +1,518 @@
+[
+  {
+    "d": "www.z100.com",
+    "s": "Z100",
+    "t": "z100",
+    "u": "http://www.z100.com/main.html/?q={{{s}}}"
+  },
+  {
+    "d": "zaufanatrzeciastrona.pl",
+    "s": "Zaufana Trzecia Strona",
+    "t": "z3s",
+    "u": "https://zaufanatrzeciastrona.pl/?s={{{s}}}"
+  },
+  {
+    "d": "www.zabasearch.com",
+    "s": "Zabasearch",
+    "t": "zabasearch",
+    "u": "http://www.zabasearch.com/people/{{{s}}}"
+  },
+  {
+    "d": "www.zakonypreludi.sk",
+    "s": "Zákony pre ľudí",
+    "t": "zakony",
+    "u": "http://www.zakonypreludi.sk/main/search.aspx?text={{{s}}}"
+  },
+  {
+    "d": "www.zalando.de",
+    "s": "Zalando.de",
+    "t": "zalandode",
+    "u": "https://www.zalando.de/katalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.zalando.co.uk",
+    "s": "Zalando",
+    "t": "zalando",
+    "u": "https://www.zalando.co.uk/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.zalando.de",
+    "s": "Zalando",
+    "t": "zal",
+    "u": "https://www.zalando.de/katalog/?q={{{s}}}&qf=1"
+  },
+  {
+    "d": "eq2.zam.com",
+    "s": "ZAM - EQ2",
+    "t": "zameq2",
+    "u": "http://eq2.zam.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "everquest.allakhazam.com",
+    "s": "ZAM - EQ",
+    "t": "zameq",
+    "u": "http://everquest.allakhazam.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.zanran.com",
+    "s": "Zanran",
+    "t": "zanran",
+    "u": "http://www.zanran.com/q/?search={{{s}}}"
+  },
+  {
+    "d": "www.zapiks.fr",
+    "s": "Zapiks",
+    "t": "zapiks",
+    "u": "http://www.zapiks.fr/search.php?action=search&search={{{s}}} "
+  },
+  {
+    "d": "www.zapmeta.es",
+    "s": "Zapmeta",
+    "t": "zapmeta",
+    "u": "http://www.zapmeta.es/?vid=l791573315I1470912501&sess=a3a3a303a3a313&template=&asid=zapmeta_es&awc=&de=&nwc=&suggest=1&q={{{s}}}"
+  },
+  {
+    "d": "www.zappos.com",
+    "s": "Zappos",
+    "t": "zappos",
+    "u": "https://www.zappos.com/{{{s}}}"
+  },
+  {
+    "d": "www.zap.co.il",
+    "s": "Zap",
+    "t": "zap",
+    "u": "http://www.zap.co.il/search.aspx?keyword={{{s}}}"
+  },
+  {
+    "d": "www.zaragoza.es",
+    "s": "Ayuntamiento de Zaragoza",
+    "t": "zaragoza",
+    "u": "http://www.zaragoza.es/ciudad/servicios/buscar_Web?q={{{s}}}"
+  },
+  {
+    "d": "www.zara.com",
+    "s": "Zara",
+    "t": "zara",
+    "u": "http://www.zara.com/webapp/wcs/stores/servlet/ItxSolrSearchingDataCmd?storeId=10701&langId=-5&searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.zargan.com",
+    "s": "Zargan",
+    "t": "zargan",
+    "u": "http://www.zargan.com/tr/q/{{{s}}}"
+  },
+  {
+    "d": "www.zavvi.com",
+    "s": "Zavvi",
+    "t": "zavvi",
+    "u": "https://www.zavvi.com/elysium.search?search={{{s}}}"
+  },
+  {
+    "d": "zaycev.net",
+    "s": "Зайцев.нет!",
+    "t": "zaycev",
+    "u": "https://zaycev.net/search.html?query_search={{{s}}}"
+  },
+  {
+    "d": "www.zentralblatt-math.org",
+    "s": "Zentralblatt MATH Database",
+    "t": "zbmath",
+    "u": "http://www.zentralblatt-math.org/zbmath/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.zbozi.cz",
+    "s": "Zboží.cz",
+    "t": "zbozi",
+    "u": "http://www.zbozi.cz/hledani/?q={{{s}}}"
+  },
+  {
+    "d": "www.zbsamp.com",
+    "s": "Zapadni Balkan SA:MP",
+    "t": "zbsamp",
+    "u": "http://www.zbsamp.com/index.php?action=search2;search={{{s}}}"
+  },
+  {
+    "d": "www.zdf.de",
+    "s": "ZDF",
+    "t": "zdf",
+    "u": "https://www.zdf.de/suche?q={{{s}}}"
+  },
+  {
+    "d": "www.zdic.net",
+    "s": "汉典",
+    "t": "zdic",
+    "u": "http://www.zdic.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.zdnet.com",
+    "s": "ZDNet",
+    "t": "zdnet",
+    "u": "http://www.zdnet.com/search?q={{{s}}}"
+  },
+  {
+    "d": "zdoom.org",
+    "s": "ZDoom Wiki",
+    "t": "zdoom",
+    "u": "http://zdoom.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "zestedesavoir.com",
+    "s": "ZesteDeSavoir",
+    "t": "zds",
+    "u": "http://zestedesavoir.com/rechercher/?q={{{s}}}"
+  },
+  {
+    "d": "www.zeldadungeon.net",
+    "s": "Zelda Dungeon Wiki",
+    "t": "zdw",
+    "u": "https://www.zeldadungeon.net/wiki/Special:Search/{{{s}}}"
+  },
+  {
+    "d": "www.zeldadungeon.net",
+    "s": "Zelda Dungeon",
+    "t": "zd",
+    "u": "https://www.zeldadungeon.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.zedat.fu-berlin.de",
+    "s": "ZEDAT",
+    "t": "zedat",
+    "u": "https://www.zedat.fu-berlin.de/FAQ?q={{{s}}}"
+  },
+  {
+    "d": "zeef.com",
+    "s": "ZEEF.com",
+    "t": "zeef",
+    "u": "https://zeef.com/?query={{{s}}}&in=all"
+  },
+  {
+    "d": "www.zehrs.ca",
+    "s": "Zehrs Markets",
+    "t": "zehrs",
+    "u": "https://www.zehrs.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "d": "www.zeit.de",
+    "s": "Zeit Online",
+    "t": "zeit",
+    "u": "http://www.zeit.de/suche/index?q={{{s}}}"
+  },
+  {
+    "d": "zelda.wikia.com",
+    "s": "Zeldapedia",
+    "t": "zeldapedia",
+    "u": "http://zelda.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.zeldauniverse.net",
+    "s": "Zelda Universe",
+    "t": "zeldauniverse",
+    "u": "http://www.zeldauniverse.net/?s={{{s}}}"
+  },
+  {
+    "d": "zelda.gamepedia.com",
+    "s": "Zelda Wiki",
+    "t": "zeldawiki",
+    "u": "https://zelda.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "zemljevid.najdi.si",
+    "s": "Zemljevid Najdi.si",
+    "t": "zemljevid",
+    "u": "http://zemljevid.najdi.si/search_maps.jsp?q={{{s}}}"
+  },
+  {
+    "d": "zenodo.org",
+    "s": "Zenodo",
+    "t": "zenodo",
+    "u": "https://zenodo.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.zeno.org",
+    "s": "zeno.org",
+    "t": "zeno",
+    "u": "http://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Bibliothek"
+  },
+  {
+    "d": "zentrum-online.at",
+    "s": "Zentrum Online",
+    "t": "zentrum",
+    "u": "https://zentrum-online.at/?s={{{s}}}"
+  },
+  {
+    "d": "arcade.zenzo.io",
+    "s": "ZENZO Arcade",
+    "t": "zen",
+    "u": "https://arcade.zenzo.io/search?for={{{s}}}"
+  },
+  {
+    "d": "www.zerochan.net",
+    "s": "Zerochan",
+    "t": "zerochan",
+    "u": "http://www.zerochan.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.zerohedge.com",
+    "s": "ZeroHedge",
+    "t": "zerohedge",
+    "u": "http://www.zerohedge.com/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "www.zero.eu",
+    "s": "Zero",
+    "t": "zero",
+    "u": "http://www.zero.eu/?s={{{s}}}"
+  },
+  {
+    "d": "zetawiki.com",
+    "s": "zetawiki",
+    "t": "zetawiki",
+    "u": "https://zetawiki.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "zetax.net",
+    "s": "Zetax.net",
+    "t": "zetax",
+    "u": "http://zetax.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "foundation.zurb.com",
+    "s": "Zurb Foundation Forum",
+    "t": "zff",
+    "u": "http://foundation.zurb.com/forum/posts?utf8=✓&search={{{s}}}&button="
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "zend framework",
+    "t": "zf",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:framework.zend.com"
+  },
+  {
+    "d": "nciku.com",
+    "s": "Nciku",
+    "t": "zhen",
+    "u": "http://nciku.com/search/zh/{{{s}}}"
+  },
+  {
+    "d": "www.zhihu.com",
+    "s": "知乎",
+    "t": "zhihu",
+    "u": "https://www.zhihu.com/search?type=content&q={{{s}}}"
+  },
+  {
+    "d": "www.zhihu.com",
+    "s": "知乎",
+    "t": "zhi",
+    "u": "http://www.zhihu.com/search?q= {{{s}}} &type=question"
+  },
+  {
+    "d": "www.zerohedge.com",
+    "s": "Zero Hedge",
+    "t": "zh",
+    "u": "https://www.zerohedge.com/search-content?search_api_fulltext={{{s}}}"
+  },
+  {
+    "d": "www.zic.it",
+    "s": "ZeroInCondotta",
+    "t": "zic",
+    "u": "http://www.zic.it/?s={{{s}}}"
+  },
+  {
+    "d": "www.zikinf.com",
+    "s": "Zikinf",
+    "t": "zikinf",
+    "u": "https://www.zikinf.com/recherche/?query={{{s}}}"
+  },
+  {
+    "d": "www.zillow.com",
+    "s": "Zillow",
+    "t": "zillow",
+    "u": "http://www.zillow.com/homes/{{{s}}}_rb/"
+  },
+  {
+    "d": "www.zip-codes.com",
+    "s": "Zip-Codes.com",
+    "t": "zip",
+    "u": "https://www.zip-codes.com/search.asp?srch-type=fuzzy&q={{{s}}}"
+  },
+  {
+    "d": "www.zivefirmy.cz",
+    "s": "ZiveFirmy.cz",
+    "t": "zivefirmy",
+    "u": "http://www.zivefirmy.cz/?q={{{s}}}"
+  },
+  {
+    "d": "zkillboard.com",
+    "s": "zKillboard",
+    "t": "zkb",
+    "u": "https://zkillboard.com/search/{{{s}}}/"
+  },
+  {
+    "d": "zkillboard.com",
+    "s": "zkillboard",
+    "t": "zkillboard",
+    "u": "https://zkillboard.com/search/{{{s}}}/"
+  },
+  {
+    "d": "zkillboard.com",
+    "s": "zKillboard",
+    "t": "zkill",
+    "u": "https://zkillboard.com/search/{{{s}}} /"
+  },
+  {
+    "d": "www.zli.ch",
+    "s": "ZLI Zürich",
+    "t": "zli",
+    "u": "https://www.zli.ch/service/suche/?q={{{s}}}"
+  },
+  {
+    "d": "mp3.zing.vn",
+    "s": "ZING MP3",
+    "t": "zmp3",
+    "u": "http://mp3.zing.vn/tim-kiem/bai-hat.html?q={{{s}}} "
+  },
+  {
+    "d": "search.zoho.com",
+    "s": "Zoho",
+    "t": "zoho",
+    "u": "https://search.zoho.com/searchresult?query={{{s}}}&search_type=all&index_key=-1&embed=false"
+  },
+  {
+    "d": "zomato.com",
+    "s": "Zomato",
+    "t": "zomato",
+    "u": "http://zomato.com/restaurants?q={{{s}}}"
+  },
+  {
+    "d": "www.zoom.com.br",
+    "s": "Zoom ",
+    "t": "zoombr",
+    "u": "http://www.zoom.com.br/search?q={{{s}}}"
+  },
+  {
+    "d": "zoomthelist.com",
+    "s": "zoomthelist",
+    "t": "zoomthelist",
+    "u": "http://zoomthelist.com/?q={{{s}}}"
+  },
+  {
+    "d": "zoom.us",
+    "s": "zoom.us",
+    "t": "zoom.us",
+    "u": "https://zoom.us/?q={{{s}}}"
+  },
+  {
+    "d": "www.zoom.com.br",
+    "s": "Zoom",
+    "t": "zoom",
+    "u": "http://www.zoom.com.br/search?q={{{s}}}"
+  },
+  {
+    "d": "www.zoopla.co.uk",
+    "s": "Zoopla",
+    "t": "zoopla",
+    "u": "http://www.zoopla.co.uk/search/?q={{{s}}}&geo_autocomplete_identifier=&country_code=&flatshare_q=&section=for-sale&search_source=nav&include_shared_ownership=true&include_retirement_homes=true&new_homes=include"
+  },
+  {
+    "d": "www.zakonyprolidi.cz",
+    "s": "zakonyprolidi.cz",
+    "t": "zpl",
+    "u": "https://www.zakonyprolidi.cz/hledani?text={{{s}}}"
+  },
+  {
+    "d": "shop.zuckerzauber.at",
+    "s": "Caros Zuckerzauber Shop",
+    "t": "zuckerzauber",
+    "u": "http://shop.zuckerzauber.at/epages/es121414.sf/de_AT/?ObjectPath=/Shops/es121414_Caros_Zuckerzauber&ViewAction=DetailSearchProducts&Search=SF-AllStrings&SearchString={{{s}}}"
+  },
+  {
+    "d": "www.zulily.com",
+    "s": "zulily",
+    "t": "zulily",
+    "u": "http://www.zulily.com/{{{s}}}?fromSearch=true&searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.zumi.pl",
+    "s": "Mapy Zumi",
+    "t": "zumi",
+    "u": "https://www.zumi.pl/{{{s}}},namapie.html"
+  },
+  {
+    "d": "search.zum.com",
+    "s": "zum",
+    "t": "zum",
+    "u": "http://search.zum.com/search.zum?query={{{s}}}"
+  },
+  {
+    "d": "foundation.zurb.com",
+    "s": "Zurb Foundation",
+    "t": "zurbfoundation",
+    "u": "http://foundation.zurb.com/docs//?q={{{s}}}: "
+  },
+  {
+    "d": "foundation.zurb.com",
+    "s": "Zurb Foundation",
+    "t": "zurbf",
+    "u": "http://foundation.zurb.com/docs//?q={{{s}}}: "
+  },
+  {
+    "d": "www.zeldauniverse.net",
+    "s": "Zelda Universe",
+    "t": "zu",
+    "u": "http://www.zeldauniverse.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.zvab.com",
+    "s": "ZVAB",
+    "t": "zvab",
+    "u": "http://www.zvab.com/basicSearch.do?anyWords={{{s}}}"
+  },
+  {
+    "d": "zvon.org",
+    "s": "ZVON.org",
+    "t": "zvon",
+    "u": "http://zvon.org/comp/m/{{{s}}}.html"
+  },
+  {
+    "d": "wiki.killuglyradio.com",
+    "s": "http://wiki.killuglyradio.com/wiki/Main_Page",
+    "t": "zwj",
+    "u": "http://wiki.killuglyradio.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}"
+  },
+  {
+    "d": "www.zalando.de",
+    "s": "www.zalando.de",
+    "t": "z",
+    "u": "https://www.zalando.de/katalog/?q={{{s}}}"
+  },
+  {
+    "d": "zelda.gamepedia.com",
+    "s": "Zelda Wiki",
+    "t": "zw",
+    "u": "https://zelda.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "elixir.bootlin.com",
+    "s": "Zephyr Cross Reference",
+    "t": "zxr",
+    "u": "https://elixir.bootlin.com/zephyr/latest/ident/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Zythom",
+    "t": "zythom",
+    "u": "https://duckduckgo.com/?q=site%3Azythom.blogspot.com+{{{s}}}"
+  },
+  {
+    "d": "www.zzounds.com",
+    "s": "ZZounds",
+    "t": "zzounds",
+    "u": "http://www.zzounds.com/prodsearch?q={{{s}}}"
+  },
+  {
+    "d": "www.zerozero.pt",
+    "s": "ZeroZero",
+    "t": "zz",
+    "u": "http://www.zerozero.pt/search.php?op=all&inputString={{{s}}}"
+  }
+]

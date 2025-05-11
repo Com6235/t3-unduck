@@ -1,0 +1,200 @@
+[
+  {
+    "d": "store.401games.ca",
+    "s": "401 Games",
+    "t": "401games",
+    "u": "https://store.401games.ca/pages/search-results?q={{{s}}}"
+  },
+  {
+    "d": "profile.intra.42.fr",
+    "s": "42 Intra",
+    "t": "42",
+    "u": "https://profile.intra.42.fr/searches/search?query={{{s}}}"
+  },
+  {
+    "d": "www.4fitnessrules.com",
+    "s": "4 Fitness Rules",
+    "t": "4",
+    "u": "https://www.4fitnessrules.com/workout-videos/?frm_search={{{s}}}"
+  },
+  {
+    "d": "www.47news.jp",
+    "s": "47 News",
+    "t": "47",
+    "u": "https://www.47news.jp/search?phrase={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan /b/",
+    "t": "4_b",
+    "u": "http://boards.4chan.org/b/catalog#s={{{s}}}"
+  },
+  {
+    "d": "implyingrigged.info",
+    "s": "Implyingrigged",
+    "t": "4cc",
+    "u": "http://implyingrigged.info/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "4chan.org",
+    "s": "4chan Board",
+    "t": "4ch",
+    "u": "https://4chan.org/{{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan /a/ board",
+    "t": "4cha",
+    "u": "https://boards.4chan.org/a/catalog#s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "4chan",
+    "t": "4chan",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3A4chan.org&t=ffsb"
+  },
+  {
+    "d": "4chan.org",
+    "s": "4chan Boards",
+    "t": "4chanb",
+    "u": "http://4chan.org/b/{{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan Catalog",
+    "t": "4chc",
+    "u": "https://boards.4chan.org/{{{s}}}/catalog"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan fashion board",
+    "t": "4chfa",
+    "u": "https://boards.4chan.org/fa/catalog#s={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan technology board",
+    "t": "4chg",
+    "u": "https://boards.4chan.org/g/catalog#s={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan international board",
+    "t": "4chint",
+    "u": "https://boards.4chan.org/int/catalog#s={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan music board",
+    "t": "4chmu",
+    "u": "https://boards.4chan.org/mu/catalog#s={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan's /news/ board",
+    "t": "4chnews",
+    "u": "https://boards.4chan.org/news/catalog#s={{{s}}}"
+  },
+  {
+    "d": "archive.nyafuu.org",
+    "s": "/n/ archives",
+    "t": "4chn",
+    "u": "https://archive.nyafuu.org/n/search/text/{{{s}}}/"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan robot board",
+    "t": "4chr9k",
+    "u": "https://boards.4chan.org/r9k/catalog#s={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan /b/ board",
+    "t": "4chrandom",
+    "u": "https://boards.4chan.org/b/catalog#s={{{s}}}"
+  },
+  {
+    "d": "4chansearch.com",
+    "s": "4chansearch",
+    "t": "4chsearch",
+    "u": "https://4chansearch.com/?q={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan video games board",
+    "t": "4chv",
+    "u": "https://boards.4chan.org/v/catalog#s={{{s}}}"
+  },
+  {
+    "d": "boards.4chan.org",
+    "s": "4chan, /vg/",
+    "t": "4cvg",
+    "u": "http://boards.4chan.org/vg/catalog#s={{{s}}}"
+  },
+  {
+    "d": "4chan.org",
+    "s": "4chan - /g/ - Technology",
+    "t": "4g",
+    "u": "http://4chan.org/g/{{{s}}}"
+  },
+  {
+    "d": "archive.rebeccablacktech.com",
+    "s": "4chan /g/ archive",
+    "t": "4ga",
+    "u": "https://archive.rebeccablacktech.com/g/search/text/{{{s}}}/"
+  },
+  {
+    "d": "4pda.ru",
+    "s": "4pda",
+    "t": "4pda",
+    "u": "http://4pda.ru/forum/index.php?act=search&source=all&forums[]=all&query={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.4players.de",
+    "s": "4players",
+    "t": "4pl",
+    "u": "http://www.4players.de/4players.php/suchergebnis/Allgemein/4players/?s={{{s}}}"
+  },
+  {
+    "d": "www.4players.de",
+    "s": "4players",
+    "t": "4players",
+    "u": "http://www.4players.de/4players.php/suchergebnis/Allgemein/4players/?s={{{s}}}"
+  },
+  {
+    "d": "archive.4plebs.org",
+    "s": "4plebs Archive",
+    "t": "4plebs",
+    "u": "https://archive.4plebs.org/_/search/text/{{{s}}}/"
+  },
+  {
+    "d": "search.4shared.com",
+    "s": "4shared",
+    "t": "4shared",
+    "u": "http://search.4shared.com/q/CCAD/1/{{{s}}}"
+  },
+  {
+    "d": "www.4sound.dk",
+    "s": "4Sound",
+    "t": "4sound",
+    "u": "http://www.4sound.dk/search/{{{s}}}"
+  },
+  {
+    "d": "foursquare.com",
+    "s": "Foursquare",
+    "t": "4sq",
+    "u": "https://foursquare.com/explore?mode=url&nearGeoId=&q={{{s}}}"
+  },
+  {
+    "d": "www.4x4community.co.za",
+    "s": "4x4 Community",
+    "t": "4x4community",
+    "u": "http://www.4x4community.co.za/forum/threadloom/threadloom.php?query={{{s}}}"
+  },
+  {
+    "d": "www.4x4direct.co.za",
+    "s": "4x4 Direct",
+    "t": "4x4direct",
+    "u": "http://www.4x4direct.co.za/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  }
+]

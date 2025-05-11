@@ -1,0 +1,6488 @@
+[
+  {
+    "d": "google.com",
+    "s": "Google Search 100 English Results",
+    "t": "g100en",
+    "u": "http://google.com/search?q={{{s}}}&tbo=1&num=100&lr=lang_en"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Search 100 Results",
+    "t": "g100",
+    "u": "http://google.com/search?q={{{s}}}&tbo=1&num=100"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (Past 24h)",
+    "t": "g24",
+    "u": "http://www.google.com/search?q={{{s}}}&tbs=qdr:d"
+  },
+  {
+    "d": "www.g2a.com",
+    "s": "G2A",
+    "t": "g2a",
+    "u": "https://www.g2a.com/?search={{{s}}}"
+  },
+  {
+    "d": "www.g2play.net",
+    "s": "g2play",
+    "t": "g2p",
+    "u": "http://www.g2play.net/catalogsearch/result/index/?q={{{s}}}"
+  },
+  {
+    "d": "www.g2play.net",
+    "s": "G2play",
+    "t": "g2play",
+    "u": "http://www.g2play.net/catalogsearch/result/index/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google ( Past 2 Years)",
+    "t": "g2year",
+    "u": "https://www.google.com/search?tbs=qdr:y2&q={{{s}}}&safe=off&ie=utf-8&oe=utf-8"
+  },
+  {
+    "d": "games4you.rs",
+    "s": "games4you.rs",
+    "t": "g4y",
+    "u": "http://games4you.rs/search-glavni?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (Past 6 Months)",
+    "t": "g6month",
+    "u": "https://www.google.com/search?tbs=qdr:m6&q={{{s}}}&safe=off&ie=utf-8&oe=utf-8"
+  },
+  {
+    "d": "gaana.com",
+    "s": "Gaana",
+    "t": "gaana",
+    "u": "https://gaana.com/search/{{{s}}}"
+  },
+  {
+    "d": "gab.ai",
+    "s": "Gab",
+    "t": "gab",
+    "u": "https://gab.ai/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Accessible",
+    "t": "gaccess",
+    "u": "http://www.google.com/cse?ie=UTF-8&cx=000183394137052953072%3Azc1orsc6mbq&q={{{s}}}t&btnG=Search"
+  },
+  {
+    "d": "thegadgetflow.com",
+    "s": "The Gadget Flow",
+    "t": "gadgetflow",
+    "u": "http://thegadgetflow.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.gadgetsdirect.com.au",
+    "s": "Gadgets Direct",
+    "t": "gadgetsdirect",
+    "u": "http://www.gadgetsdirect.com.au/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}"
+  },
+  {
+    "d": "gdgts.de",
+    "s": "Gdgts",
+    "t": "gadgets",
+    "u": "http://gdgts.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.gadgetsnow.com",
+    "s": "Gadgets Now",
+    "t": "gadgetsnow",
+    "u": "https://www.gadgetsnow.com/topic/{{{s}}}?SEARCH_STRING={{{s}}}"
+  },
+  {
+    "d": "www.gadventures.com",
+    "s": "G Adventures",
+    "t": "gadv",
+    "u": "https://www.gadventures.com/search/?q={{{s}}}&ref=ddgsearch"
+  },
+  {
+    "d": "www.google.ae",
+    "s": "Google AE",
+    "t": "gae",
+    "u": "http://www.google.ae/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.focloir.ie",
+    "s": "Fóclair.ie New English-Irish Dictionary",
+    "t": "gael",
+    "u": "http://www.focloir.ie/en/spellcheck/ei/?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "gaen",
+    "u": "http://translate.google.com/#ga/en/{{{s}}}"
+  },
+  {
+    "d": "www.lexilogos.com",
+    "s": "Gaffiot latin -> français",
+    "t": "gaf",
+    "u": "http://www.lexilogos.com/latin/gaffiot.php?q={{{s}}}"
+  },
+  {
+    "d": "www.focloir.ie",
+    "s": "Foclóir",
+    "t": "gafoc",
+    "u": "http://www.focloir.ie/en/dictionary/ei/{{{s}}}?advSearch=1&q={{{s}}}&inlanguage=ga"
+  },
+  {
+    "d": "www.girlsaskguys.com",
+    "s": "GirlsAskGuys",
+    "t": "gag",
+    "u": "https://www.girlsaskguys.com/search?q={{{s}}}"
+  },
+  {
+    "d": "gymnasium-gag.de",
+    "s": "Graf-Anton-Günther Schule",
+    "t": "gagol",
+    "u": "https://gymnasium-gag.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.com.au",
+    "s": "Google Australia",
+    "t": "ga",
+    "u": "http://www.google.com.au/search?q={{{s}}}"
+  },
+  {
+    "d": "gethuman.com",
+    "s": "GetHuman",
+    "t": "gah",
+    "u": "https://gethuman.com/phone-number/search/{{{s}}}"
+  },
+  {
+    "d": "www.vn-gaia.com",
+    "s": "Vila Nova de Gaia",
+    "t": "gaia",
+    "u": "https://www.vn-gaia.com/search?SearchForm%5Bkeyword%5D={{{s}}}&SearchForm%5BlimitSpaceGuids%5D="
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ábrete libro",
+    "t": "gal",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:abretelibro.com"
+  },
+  {
+    "d": "www.galaxus.ch",
+    "s": "Galaxus.ch",
+    "t": "galaxus",
+    "u": "https://www.galaxus.ch/de/Search?searchSectors=0&q={{{s}}}"
+  },
+  {
+    "d": "galaxy.ansible.com",
+    "s": "Ansible Galaxy",
+    "t": "galaxy",
+    "u": "https://galaxy.ansible.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "google alerts",
+    "t": "galerts",
+    "u": "https://www.google.com/alerts?q={{{s}}}"
+  },
+  {
+    "d": "www.galinos.gr",
+    "s": "galinos.gr",
+    "t": "galinos",
+    "u": "https://www.galinos.gr/web/drugs/main/search?q={{{s}}}"
+  },
+  {
+    "d": "gallica.bnf.fr",
+    "s": "Gallica",
+    "t": "gallica",
+    "u": "http://gallica.bnf.fr/Search?ArianeWireIndex=index&p=1&lang=FR&q={{{s}}}"
+  },
+  {
+    "d": "www.gamasutra.com",
+    "s": "Gamasutra",
+    "t": "gamasutra",
+    "u": "http://www.gamasutra.com/search/?search_text={{{s}}}"
+  },
+  {
+    "d": "direct3d.ir",
+    "s": "direct3d.ir",
+    "t": "gam",
+    "u": "http://direct3d.ir/forum/search/?keywords={{{s}}}"
+  },
+  {
+    "d": "gamebanana.com",
+    "s": "GameBanana",
+    "t": "gamebanana",
+    "u": "http://gamebanana.com/skins/search?search={{{s}}} "
+  },
+  {
+    "d": "www.cheatcc.com",
+    "s": "CheatCC",
+    "t": "gamecheats",
+    "u": "http://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11"
+  },
+  {
+    "d": "www.gamefaqs.com",
+    "s": "GameFAQs.com",
+    "t": "gamefaqs",
+    "u": "http://www.gamefaqs.com/search/index.html?game={{{s}}}&platform=0"
+  },
+  {
+    "d": "www.gamefly.com",
+    "s": "Gamefly",
+    "t": "gamefly",
+    "u": "https://www.gamefly.com/#!/search/all?q={{{s}}}"
+  },
+  {
+    "d": "www.gamefront.com",
+    "s": "GameFront",
+    "t": "gamefront",
+    "u": "https://www.gamefront.com/search/files?q={{{s}}}"
+  },
+  {
+    "d": "www.game.co.uk",
+    "s": "Game",
+    "t": "game",
+    "u": "http://www.game.co.uk/webapp/wcs/stores/servlet/AjaxCatalogSearch?storeId=10151&catalogId=10201&langId=44&pageSize=&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=image&predictiveSearchURL=&searchTerm={{{s}}}&searchBtn=z"
+  },
+  {
+    "d": "www.gameinformer.com",
+    "s": "GameInformer",
+    "t": "gameinformer",
+    "u": "https://www.gameinformer.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "gamejolt.com",
+    "s": "Gamejolt",
+    "t": "gamejolt",
+    "u": "http://gamejolt.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.gamekings.tv",
+    "s": "Gamekings",
+    "t": "gamekings",
+    "u": "http://www.gamekings.tv/index.php?cat=3&s={{{s}}}"
+  },
+  {
+    "d": "www.gamekult.com",
+    "s": "Gamekult",
+    "t": "gamekult",
+    "u": "https://www.gamekult.com/rechercher-jeu.html?q={{{s}}}"
+  },
+  {
+    "d": "www.gamemar.com",
+    "s": "GameMar",
+    "t": "gamemar",
+    "u": "https://www.gamemar.com/?s={{{s}}}"
+  },
+  {
+    "d": "games.gamepressure.com",
+    "s": "Gamepressure",
+    "t": "gamepressure",
+    "u": "http://games.gamepressure.com/games_encyclopedia.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.gamerankings.com",
+    "s": "GameRankings.com",
+    "t": "gamerankings",
+    "u": "http://www.gamerankings.com/browse.html?search={{{s}}}"
+  },
+  {
+    "d": "www.gamergen.com",
+    "s": "GAMERGEN",
+    "t": "gamergen",
+    "u": "http://www.gamergen.com/s/{{{s}}}"
+  },
+  {
+    "d": "gamersgate.com",
+    "s": "GamersGate",
+    "t": "gamersgate",
+    "u": "http://gamersgate.com/games?q={{{s}}}"
+  },
+  {
+    "d": "www.crazygames.com",
+    "s": "Games",
+    "t": "games",
+    "u": "https://www.crazygames.com/search?q={{{s}}}"
+  },
+  {
+    "d": "games.lol",
+    "s": "Games.lol",
+    "t": "gameslol",
+    "u": "https://games.lol/search/{{{s}}}"
+  },
+  {
+    "d": "www.gamespot.com",
+    "s": "GameSpot",
+    "t": "gamespot",
+    "u": "http://www.gamespot.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.gamesradar.com",
+    "s": "GamesRadar",
+    "t": "gamesradar",
+    "u": "https://www.gamesradar.com/search/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.gamestar.de",
+    "s": "GameStar",
+    "t": "gamestar",
+    "u": "http://www.gamestar.de/index.cfm?pid=109&s={{{s}}}"
+  },
+  {
+    "d": "www.gamestop.com",
+    "s": "GameStop",
+    "t": "gamestop",
+    "u": "https://www.gamestop.com/search/?q={{{s}}}&lang=default"
+  },
+  {
+    "d": "www.game.co.za",
+    "s": "Game South Africa",
+    "t": "gameza",
+    "u": "https://www.game.co.za/game-za/en/search/?text={{{s}}}"
+  },
+  {
+    "d": "www.gamezebo.com",
+    "s": "Gamezebo",
+    "t": "gamezebo",
+    "u": "http://www.gamezebo.com/search/games?query={{{s}}}"
+  },
+  {
+    "d": "gaming.stackexchange.com",
+    "s": "Arqade",
+    "t": "gaming",
+    "u": "http://gaming.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "thegamingbox.pfweb.eu",
+    "s": "The Gamingbox",
+    "t": "gamingbox",
+    "u": "http://thegamingbox.pfweb.eu/?s={{{s}}}"
+  },
+  {
+    "d": "www.gamma.nl",
+    "s": "Gamma",
+    "t": "gamma",
+    "u": "https://www.gamma.nl/assortiment/zoeken?text={{{s}}}"
+  },
+  {
+    "d": "www.gandhi.com.mx",
+    "s": "Librerías Gandhi",
+    "t": "gandhi",
+    "u": "https://www.gandhi.com.mx/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.gandi.net",
+    "s": "Gandi.net",
+    "t": "gandi",
+    "u": "https://www.gandi.net/domain/suggest?domain_list={{{s}}}"
+  },
+  {
+    "d": "graph.anime.plus",
+    "s": "Anime+",
+    "t": "gap",
+    "u": "http://graph.anime.plus/{{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Store",
+    "t": "gapp",
+    "u": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "d": "www.garbarino.com",
+    "s": "Garbarino",
+    "t": "garbarino",
+    "u": "https://www.garbarino.com/productos?q={{{s}}}"
+  },
+  {
+    "d": "www.gardenersworld.com",
+    "s": "Gardeners' World",
+    "t": "gardenersworld",
+    "u": "http://www.gardenersworld.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.garden-en.com",
+    "s": "Garden-en.com",
+    "t": "garden",
+    "u": "http://www.garden-en.com/s/en/?type=sfd&query={{{s}}}"
+  },
+  {
+    "d": "glosbe.com",
+    "s": "Glosbe (Arabic-English)",
+    "t": "garen",
+    "u": "https://glosbe.com/ar/en/{{{s}}}"
+  },
+  {
+    "d": "www.google.com.ar",
+    "s": "Google AR",
+    "t": "gar",
+    "u": "http://www.google.com.ar/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "garoa.net.br",
+    "s": "Garoa Hacker Clube",
+    "t": "garoa",
+    "u": "https://garoa.net.br/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.garrysmart.com",
+    "s": "Garrysmart",
+    "t": "garrysmart",
+    "u": "https://www.garrysmart.com/scripts/?&t=a&q={{{s}}}"
+  },
+  {
+    "d": "www.mein-gartenexperte.de",
+    "s": "mein Gartenexperte",
+    "t": "gartenexperte",
+    "u": "https://www.mein-gartenexperte.de/suche?keywords={{{s}}}"
+  },
+  {
+    "d": "www.google.as",
+    "s": "Google American Samoa",
+    "t": "gas",
+    "u": "http://www.google.as/search?q={{{s}}}"
+  },
+  {
+    "d": "www.maisgasolina.com",
+    "s": "Mais Gasolina",
+    "t": "gasolina",
+    "u": "https://www.maisgasolina.com/pesquisa/{{{s}}}/"
+  },
+  {
+    "d": "www.google.at",
+    "s": "Google AT",
+    "t": "gat",
+    "u": "http://www.google.at/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.at",
+    "s": "Google Austria",
+    "t": "g.at",
+    "u": "https://www.google.at/#q={{{s}}}"
+  },
+  {
+    "d": "gatherer.wizards.com",
+    "s": "Gatherer",
+    "t": "gatherer",
+    "u": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[{{{s}}}]"
+  },
+  {
+    "d": "www.google.com.au",
+    "s": "Google AU",
+    "t": "gau",
+    "u": "http://www.google.com.au/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "wirtschaftslexikon.gabler.de",
+    "s": "Gabler Wirtschaftslexikon",
+    "t": "gawi",
+    "u": "https://wirtschaftslexikon.gabler.de/search/content?keys={{{s}}}"
+  },
+  {
+    "d": "gayburg.blogspot.com",
+    "s": "Gayburg",
+    "t": "gayburg",
+    "u": "http://gayburg.blogspot.com/search?q={{{s}}}: "
+  },
+  {
+    "d": "www.gazetadopovo.com.br",
+    "s": "Gazeta do Povo",
+    "t": "gazeta",
+    "u": "https://www.gazetadopovo.com.br/busca/?q={{{s}}}"
+  },
+  {
+    "d": "mail.google.com",
+    "s": "Gmail by account",
+    "t": "gba",
+    "u": "https://mail.google.com/mail/u/{{{s}}}"
+  },
+  {
+    "d": "gamebanana.com",
+    "s": "GameBanana",
+    "t": "gban",
+    "u": "http://gamebanana.com/skins/search?search={{{s}}} "
+  },
+  {
+    "d": "gbatemp.net",
+    "s": "GBAtemp",
+    "t": "gbat",
+    "u": "https://gbatemp.net/search/87708019/?q={{{s}}}"
+  },
+  {
+    "d": "www.greatbritishchefs.com",
+    "s": "Great British Chefs",
+    "t": "gbc",
+    "u": "https://www.greatbritishchefs.com/search2#?pi=1&ps=48&st={{{s}}}&orderby="
+  },
+  {
+    "d": "www.google.be",
+    "s": "Google BE",
+    "t": "gbe",
+    "u": "http://www.google.be/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "en.glosbe.com",
+    "s": "Glosbe",
+    "t": "gbeo",
+    "u": "https://en.glosbe.com/en/eo/{{{s}}}"
+  },
+  {
+    "d": "gbf.wiki",
+    "s": "Granblue Fantasy Wiki",
+    "t": "gbf",
+    "u": "https://gbf.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.google.bg",
+    "s": "Google BG",
+    "t": "gbg",
+    "u": "http://www.google.bg/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "books.google.com",
+    "s": "Google Books",
+    "t": "gb",
+    "u": "http://books.google.com/books?q={{{s}}}&btnG=Search+Books"
+  },
+  {
+    "d": "www.booksinprint.com",
+    "s": "Global books in print",
+    "t": "gbip",
+    "u": "http://www.booksinprint.com/Search/Results?q=quicksearch-all%3A{{{s}}}&op=1&qs=1"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Bookmarks",
+    "t": "gbk",
+    "u": "https://www.google.com/bookmarks/l#!q={{{s}}}"
+  },
+  {
+    "d": "gigablast.com",
+    "s": "Gigablast ",
+    "t": "gblast",
+    "u": "http://gigablast.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Bookmarks",
+    "t": "gbm",
+    "u": "https://www.google.com/bookmarks/find?q={{{s}}}"
+  },
+  {
+    "d": "gamebanana.com",
+    "s": "GAMEBANANA",
+    "t": "gbn",
+    "u": "http://gamebanana.com/search?query={{{s}}}"
+  },
+  {
+    "d": "german-bash.org",
+    "s": "German-Bash.org",
+    "t": "gbo",
+    "u": "http://german-bash.org/?searchtext={{{s}}}&search_in=both&action=search_"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Books.google.com",
+    "t": "gbooks",
+    "u": "https://www.google.com/search?nfpr=1&tbm=bks&q={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "gbp2brl",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=BRL"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "xe.com",
+    "t": "gbp2eur",
+    "u": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=EUR"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "xe",
+    "t": "gbp2nzd",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=NZD"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "xe",
+    "t": "gbp2usd",
+    "u": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=GBP&To=USD"
+  },
+  {
+    "d": "www.google.com.br",
+    "s": "Google BR",
+    "t": "gbr",
+    "u": "http://www.google.com.br/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "gigablast.com",
+    "s": "Gigablast Encrypted",
+    "t": "gbs",
+    "u": "https://gigablast.com/search?c=main&index=search&q={{{s}}}"
+  },
+  {
+    "d": "bugs.gentoo.org",
+    "s": "Gentoo's Bugzilla",
+    "t": "gbugs",
+    "u": "https://bugs.gentoo.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "www.gamerscafe.com.br",
+    "s": "Gamers Café",
+    "t": "gcafe",
+    "u": "https://www.gamerscafe.com.br/pesquisa/{{{s}}}/"
+  },
+  {
+    "d": "www.google.ca",
+    "s": "Google CA",
+    "t": "gca",
+    "u": "http://www.google.ca/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "calendar.google.com",
+    "s": "Google Calendar",
+    "t": "gcal",
+    "u": "https://calendar.google.com/calendar/b/0/r/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.cat",
+    "s": "Google Catalan",
+    "t": "gcat",
+    "u": "http://www.google.cat/#q={{{s}}}"
+  },
+  {
+    "d": "www.buenosaires.gob.ar",
+    "s": "Gobierno de la Ciudad de Buenos Aires",
+    "t": "gcba",
+    "u": "http://www.buenosaires.gob.ar/bweb/search?keys={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Images (Commercial Reuse)",
+    "t": "gcc",
+    "u": "https://www.google.com/search?tbm=isch&tbs=sur:fmc&as_q={{{s}}}"
+  },
+  {
+    "d": "www.guitarcenter.com",
+    "s": "Guitar Center",
+    "t": "gcenter",
+    "u": "https://www.guitarcenter.com/search?typeAheadSuggestion=true&typeAheadRedirect=true&Ntt={{{s}}}"
+  },
+  {
+    "d": "contacts.google.com",
+    "s": "Google Contacts",
+    "t": "gc",
+    "u": "https://contacts.google.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.ch",
+    "s": "Google CH",
+    "t": "gch",
+    "u": "http://www.google.ch/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "gcide.gnu.org.ua",
+    "s": "GCIDE",
+    "t": "gcide",
+    "u": "http://gcide.gnu.org.ua/?q={{{s}}} &define=Define&strategy=."
+  },
+  {
+    "d": "www.google.co.ck",
+    "s": "Google Cook Islands",
+    "t": "gci",
+    "u": "https://www.google.co.ck/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.ck",
+    "s": "Google Cook Islands",
+    "t": "gck",
+    "u": "https://www.google.co.ck/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.cl",
+    "s": "Google CL",
+    "t": "gcl",
+    "u": "http://www.google.cl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.gcmap.com",
+    "s": "Great Circle Mapper",
+    "t": "gcmap",
+    "u": "http://www.gcmap.com/mapui?P={{{s}}}"
+  },
+  {
+    "d": "www.gcmap.com",
+    "s": "Great Circle Mapper",
+    "t": "gcm",
+    "u": "http://www.gcmap.com/mapui?P={{{s}}}&MS=wls&DU=nm"
+  },
+  {
+    "d": "www.google.cn",
+    "s": "Google CN",
+    "t": "gcn",
+    "u": "http://www.google.cn/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "code.google.com",
+    "s": "Google Code",
+    "t": "gcode",
+    "u": "https://code.google.com/hosting/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.co",
+    "s": "Google CO",
+    "t": "gco",
+    "u": "http://www.google.com.co/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "contacts.google.com",
+    "s": "Google Contacts",
+    "t": "gcontact",
+    "u": "https://contacts.google.com/search/{{{s}}}"
+  },
+  {
+    "d": "cloud.google.com",
+    "s": "Google Cloud Platform",
+    "t": "gcp",
+    "u": "https://cloud.google.com/s/results/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.hr",
+    "s": "Google",
+    "t": "gcro",
+    "u": "https://www.google.hr/#q={{{s}}}&*"
+  },
+  {
+    "d": "cloudsearch.google.com",
+    "s": "Google Cloud Search",
+    "t": "gcs",
+    "u": "https://cloudsearch.google.com/cloudsearch/search?q={{{s}}}"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "gCubed",
+    "t": "gcubed",
+    "u": "https://cse.google.com/cse/publicurl?cx=007995818864770319293:3weihy1amkc&cof=FORID:1&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Cuba",
+    "t": "gcu",
+    "u": "https://www.google.com/search?q={{{s}}}&source=lnt&tbs=ctr:countryCU&cr=countryCU"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Cultural Institute",
+    "t": "gcultinst",
+    "u": "https://www.google.com/culturalinstitute/browse/{{{s}}}"
+  },
+  {
+    "d": "de.creepypasta.wikia.com",
+    "s": "Deutsches Creepypasta Wikia",
+    "t": "gcw",
+    "u": "http://de.creepypasta.wikia.com/wiki/Spezial:Suche?query={{{s}}}"
+  },
+  {
+    "d": "www.google.com.cy",
+    "s": "Google Cyprus",
+    "t": "gcy",
+    "u": "https://www.google.com.cy/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.cz",
+    "s": "Google CZ",
+    "t": "gcz",
+    "u": "http://www.google.cz/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (Past Day)",
+    "t": "gday",
+    "u": "http://www.google.com/search?q={{{s}}}&tbs=qdr:d"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "GDB Debugger",
+    "t": "gdb",
+    "u": "http://duckduckgo.com/?q=site:sourceware.org/gdb/current/onlinedocs/gdb/+{{{s}}}"
+  },
+  {
+    "d": "docs.godotengine.org",
+    "s": "Godot Engine Documentation",
+    "t": "gdd",
+    "u": "http://docs.godotengine.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate de->en",
+    "t": "gdeen",
+    "u": "https://translate.google.com/#de/en/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google define",
+    "t": "gdef",
+    "u": "https://www.google.com/search?hl=en&q=define+{{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google DE",
+    "t": "gde",
+    "u": "http://www.google.de/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google Germany",
+    "t": "g.de",
+    "u": "https://www.google.de/#q={{{s}}}"
+  },
+  {
+    "d": "gamedev.stackexchange.com",
+    "s": "Gamedev Stackexchange",
+    "t": "gdev",
+    "u": "https://gamedev.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "developers.google.com",
+    "s": "Google Developers",
+    "t": "gdevs",
+    "u": "https://developers.google.com/s/results/?q={{{s}}}"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Docs",
+    "t": "gd",
+    "u": "https://docs.google.com/document/u/0/?q={{{s}}}"
+  },
+  {
+    "d": "gdgt.com",
+    "s": "gdgt",
+    "t": "gdgt",
+    "u": "http://gdgt.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.gandhi.com.mx",
+    "s": "www.gandhi.com.mx",
+    "t": "gdhimx",
+    "u": "http://www.gandhi.com.mx/catalogsearch/result/?q={{{s}}} "
+  },
+  {
+    "d": "google.com",
+    "s": "Google Safe Browsing Diagnostic Page",
+    "t": "gdiag",
+    "u": "https://google.com/safebrowsing/diagnostic?site={{{s}}}"
+  },
+  {
+    "d": "www.google.dk",
+    "s": "Google DK",
+    "t": "gdk",
+    "u": "http://www.google.dk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.diccionari.cat",
+    "s": "Gran diccionari de la llengua catalana",
+    "t": "gdlc",
+    "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "ditu.amap.com",
+    "s": "高德地图",
+    "t": "gdmaps",
+    "u": "https://ditu.amap.com/search?query={{{s}}}"
+  },
+  {
+    "d": "dns.google.com",
+    "s": "Google Public DNS",
+    "t": "gdns",
+    "u": "https://dns.google.com/query?name={{{s}}}&type=A&dnssec=true"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Docs",
+    "t": "gdocs",
+    "u": "https://docs.google.com/document/u/0/?pli=1&tgif=c&q={{{s}}}"
+  },
+  {
+    "d": "domains.google.com",
+    "s": "Google Domains",
+    "t": "gdomains",
+    "u": "https://domains.google.com/registrar?s={{{s}}}"
+  },
+  {
+    "d": "domains.google.com",
+    "s": "Google Domains",
+    "t": "gdoms",
+    "u": "https://domains.google.com/registrar?s={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Doodles",
+    "t": "gdoodle",
+    "u": "https://www.google.com/doodles?q={{{s}}}"
+  },
+  {
+    "d": "drive.google.com",
+    "s": "Google Drive",
+    "t": "gdrive",
+    "u": "https://drive.google.com/drive/search?q={{{s}}}"
+  },
+  {
+    "d": "www.goodsearch.com",
+    "s": "Goodsearch",
+    "t": "gds",
+    "u": "http://www.goodsearch.com/search-web?keywords={{{s}}}"
+  },
+  {
+    "d": "gdt.oqlf.gouv.qc.ca",
+    "s": "Grand Dictionnaire Terminologique",
+    "t": "gdt",
+    "u": "http://gdt.oqlf.gouv.qc.ca/resultat.aspx?terme={{{s}}}"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Docs viewer",
+    "t": "gdv",
+    "u": "https://docs.google.com/viewer?url={{{s}}}"
+  },
+  {
+    "d": "gdz.sub.uni-goettingen.de",
+    "s": "Göttinger Digitalsieriungszentrum",
+    "t": "gdz",
+    "u": "http://gdz.sub.uni-goettingen.de/en/dms/suche/?tx_goobit3_search[formquery]={{{s}}}&tx_goobit3_search[order]=1&tx_goobit3_search[default]=METADATA&tx_goobit3_search[orderfield]=BYCREATOR&tx_goobit3_search[link]=0"
+  },
+  {
+    "d": "www.gearbest.com",
+    "s": "GearBest",
+    "t": "gearbest",
+    "u": "http://www.gearbest.com/{{{s}}} -_gear/"
+  },
+  {
+    "d": "www.gbase.com",
+    "s": "Gbase.com",
+    "t": "gear",
+    "u": "https://www.gbase.com/gear?q={{{s}}}"
+  },
+  {
+    "d": "ffxiv.gamerescape.com",
+    "s": "Gamers Escape FFXIV",
+    "t": "gearr",
+    "u": "http://ffxiv.gamerescape.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.google.com.ec",
+    "s": "Google Ecuador",
+    "t": "gec",
+    "u": "https://www.google.com.ec/search?safe=active&q={{{s}}}"
+  },
+  {
+    "d": "www.coingecko.com",
+    "s": "CoinGecko",
+    "t": "gecko",
+    "u": "https://www.coingecko.com/en/search/bang?query={{{s}}}"
+  },
+  {
+    "d": "www.google.com.ec",
+    "s": "Google Ecuador",
+    "t": "gecuador",
+    "u": "https://www.google.com.ec/search?safe=active&q={{{s}}} "
+  },
+  {
+    "d": "geecr.com",
+    "s": "GEECR",
+    "t": "geecr",
+    "u": "https://geecr.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.ee",
+    "s": "Google EE",
+    "t": "gee",
+    "u": "http://www.google.ee/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "browser.geekbench.com",
+    "s": "Geekbench Browser",
+    "t": "geekbench",
+    "u": "http://browser.geekbench.com/v4/cpu/search?q={{{s}}}"
+  },
+  {
+    "d": "www.geekbuying.com",
+    "s": "GeekBuying",
+    "t": "geekbuying",
+    "u": "http://www.geekbuying.com/Search/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.geeks-curiosity.net",
+    "s": "Geek's Curiosity",
+    "t": "geek",
+    "u": "https://www.geeks-curiosity.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.geeksforgeeks.org",
+    "s": "GeeksforGeeks",
+    "t": "geeks",
+    "u": "https://www.geeksforgeeks.org/?s={{{s}}}"
+  },
+  {
+    "d": "geeksided.com",
+    "s": "GeekSided",
+    "t": "geeksided",
+    "u": "http://geeksided.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.geekunivers.com",
+    "s": "http://www.geekunivers.com",
+    "t": "geeku",
+    "u": "http://www.geekunivers.com/?s={{{s}}} "
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate German to English",
+    "t": "geen",
+    "u": "https://translate.google.com/#ge/en/{{{s}}}"
+  },
+  {
+    "d": "www.geenstijl.nl",
+    "s": "Geenstijl",
+    "t": "geenstijl",
+    "u": "http://www.geenstijl.nl/fastsearch?query={{{s}}}&zoek=zoek"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso",
+    "t": "gefr",
+    "u": "http://dictionnaire.reverso.net/allemand-francais/{{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Encrypted",
+    "t": "ge",
+    "u": "https://google.com/#q={{{s}}}"
+  },
+  {
+    "d": "geizhals.eu",
+    "s": "Geizhals",
+    "t": "geiz",
+    "u": "https://geizhals.eu/?fs={{{s}}}"
+  },
+  {
+    "d": "geizhals.at",
+    "s": "Geizhals",
+    "t": "geizhalsat",
+    "u": "https://geizhals.at/?in=&fs={{{s}}}"
+  },
+  {
+    "d": "geizhals.de",
+    "s": "geizhals.de",
+    "t": "geizhalsde",
+    "u": "http://geizhals.de/?fs={{{s}}}&in="
+  },
+  {
+    "d": "geizhals.at",
+    "s": "Geizhals",
+    "t": "geizhals",
+    "u": "http://geizhals.at/eu/?in=&fs={{{s}}}"
+  },
+  {
+    "d": "bienenzuchtbedarf-geller.de",
+    "s": "Bienenzuchtbedarf Geller",
+    "t": "geller",
+    "u": "https://bienenzuchtbedarf-geller.de/shop/search?sSearch={{{s}}}"
+  },
+  {
+    "d": "www.gematrix.org",
+    "s": "Gematrix",
+    "t": "gematria",
+    "u": "https://www.gematrix.org/?word={{{s}}}"
+  },
+  {
+    "d": "gematsu.com",
+    "s": "Gematsu",
+    "t": "gematsu",
+    "u": "https://gematsu.com/?s={{{s}}}"
+  },
+  {
+    "d": "rubygems.org",
+    "s": "RubyGems",
+    "t": "gem",
+    "u": "https://rubygems.org/search?utf8=%E2%9C%93&query={{{s}}}"
+  },
+  {
+    "d": "rubygems.org",
+    "s": "RubyGems",
+    "t": "gems",
+    "u": "http://rubygems.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.gemug.ge",
+    "s": "GeMUG",
+    "t": "gemug",
+    "u": "http://www.gemug.ge/?s={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "GenBank Database",
+    "t": "genbank",
+    "u": "http://www.ncbi.nlm.nih.gov/nuccore/?term={{{s}}}"
+  },
+  {
+    "d": "gender.wikia.com",
+    "s": "Gender Wiki",
+    "t": "gender",
+    "u": "http://gender.wikia.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.genealogieonline.nl",
+    "s": "Genealogie Online",
+    "t": "genea",
+    "u": "https://www.genealogieonline.nl/en/zoeken/?q={{{s}}} "
+  },
+  {
+    "d": "www.genecards.org",
+    "s": "GeneCards",
+    "t": "genecards",
+    "u": "http://www.genecards.org/index.php?path=/Search/keyword/{{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "NCBI",
+    "t": "gene",
+    "u": "https://www.ncbi.nlm.nih.gov/gene/?term={{{s}}} "
+  },
+  {
+    "d": "www.generasia.com",
+    "s": "generasia",
+    "t": "generasia",
+    "u": "http://www.generasia.com/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "gen.lib.rus.ec",
+    "s": "Librery Genesis",
+    "t": "genesis",
+    "u": "http://gen.lib.rus.ec/search.php?req={{{s}}}&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def"
+  },
+  {
+    "d": "genius.com",
+    "s": "Genius",
+    "t": "gen",
+    "u": "http://genius.com/search?q={{{s}}}"
+  },
+  {
+    "d": "en.glosbe.com",
+    "s": "Glosbe",
+    "t": "genhu",
+    "u": "https://en.glosbe.com/en/hu/{{{s}}}"
+  },
+  {
+    "d": "genickbruch.com",
+    "s": "Genickbruch.com",
+    "t": "genickbruch",
+    "u": "http://genickbruch.com/index.php?befehl=suche&sname={{{s}}}"
+  },
+  {
+    "d": "genius.com",
+    "s": "genius.com",
+    "t": "genius",
+    "u": "https://genius.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Le blog de Genma",
+    "t": "genma",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fgenma.free.fr"
+  },
+  {
+    "d": "packages.gentoo.org",
+    "s": "Gentoo Packages",
+    "t": "genpkg",
+    "u": "https://packages.gentoo.org/packages/search?q={{{s}}}"
+  },
+  {
+    "d": "wiki.gentoo.org",
+    "s": "Gentoo Wiki",
+    "t": "gentoo",
+    "u": "http://wiki.gentoo.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "packages.gentoo.org",
+    "s": "https://packages.gentoo.org/",
+    "t": "gentoopkg",
+    "u": "https://packages.gentoo.org/packages/search?q={{{s}}}"
+  },
+  {
+    "d": "wiki.gentoo.org",
+    "s": "gentoo wiki",
+    "t": "gentoowiki",
+    "u": "https://wiki.gentoo.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "geoawesomeness.com",
+    "s": "Geoawesomeness",
+    "t": "geoawesome",
+    "u": "http://geoawesomeness.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.geocaching.com",
+    "s": "Geocaching.com",
+    "t": "geocache",
+    "u": "http://www.geocaching.com/seek/nearest.aspx?key={{{s}}}"
+  },
+  {
+    "d": "www.geocaching.com",
+    "s": "Geocaching.com",
+    "t": "geocaching",
+    "u": "http://www.geocaching.com/seek/nearest.aspx?key={{{s}}}"
+  },
+  {
+    "d": "www.geograph.org.uk",
+    "s": "Geograph Britain and Ireland",
+    "t": "geograph",
+    "u": "https://www.geograph.org.uk/of/{{{s}}}"
+  },
+  {
+    "d": "geofactoftheday.blogspot.com",
+    "s": "GeoFact of the Day",
+    "t": "geography",
+    "u": "https://geofactoftheday.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.infosniper.net",
+    "s": "InfoSniper",
+    "t": "geoip",
+    "u": "http://www.infosniper.net/index.php?ip_address={{{s}}}"
+  },
+  {
+    "d": "geoiptool.com",
+    "s": "Geo IP Tool",
+    "t": "geoiptool",
+    "u": "http://geoiptool.com/fr/?IP={{{s}}}"
+  },
+  {
+    "d": "www.geonames.org",
+    "s": "GeoNames",
+    "t": "geonames",
+    "u": "http://www.geonames.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "NCBI Gene Expresion Omnibus",
+    "t": "geo",
+    "u": "http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc={{{s}}}"
+  },
+  {
+    "d": "kartkatalog.geonorge.no",
+    "s": "GeoNorge",
+    "t": "geonorge",
+    "u": "https://kartkatalog.geonorge.no/search?text={{{s}}}"
+  },
+  {
+    "d": "www.zeno.org",
+    "s": "Zeno.org - Georges 1913",
+    "t": "georges",
+    "u": "http://www.zeno.org/Zeno/0/Suche?q={{{s}}}&k=Georges-1913"
+  },
+  {
+    "d": "iplookup.flagfox.net",
+    "s": "Geotool",
+    "t": "geotool",
+    "u": "https://iplookup.flagfox.net/?ip={{{s}}}"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "openstreetmap.org",
+    "t": "geouri",
+    "u": "https://www.openstreetmap.org/search?query={{{s}}}#map=7/0.000/-60.000"
+  },
+  {
+    "d": "www.google.es",
+    "s": "Google Spain",
+    "t": "ges",
+    "u": "https://www.google.es/search?q={{{s}}} "
+  },
+  {
+    "d": "www.getabstract.com",
+    "s": "getAbstract",
+    "t": "getabstract",
+    "u": "https://www.getabstract.com/en/search?initial=true&query={{{s}}}"
+  },
+  {
+    "d": "www.getchu.com",
+    "s": "Getchu.com",
+    "t": "getchu",
+    "u": "http://www.getchu.com/php/nsearch.phtml?search_keyword={{{s}}}"
+  },
+  {
+    "d": "getdeals.co.in",
+    "s": "GetDeals",
+    "t": "getdeals",
+    "u": "https://getdeals.co.in/search?q={{{s}}}"
+  },
+  {
+    "d": "glosbe.com",
+    "s": "glosbe (estonian - finnish)",
+    "t": "getfi",
+    "u": "https://glosbe.com/et/fi/{{{s}}}"
+  },
+  {
+    "d": "www.ge-tracker.com",
+    "s": "GE-Trakcer",
+    "t": "ge-t",
+    "u": "https://www.ge-tracker.com/names/{{{s}}}"
+  },
+  {
+    "d": "gethuman.com",
+    "s": "GetHuman",
+    "t": "gethuman",
+    "u": "http://gethuman.com/phone-number/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.getlinkinfo.com",
+    "s": "GetLinkInfo",
+    "t": "getlinkinfo",
+    "u": "http://www.getlinkinfo.com/info?link={{{s}}}"
+  },
+  {
+    "d": "www.ge-tracker.com",
+    "s": "Ge-Tracker",
+    "t": "getracker",
+    "u": "https://www.ge-tracker.com/names/{{{s}}}"
+  },
+  {
+    "d": "www.gettyimages.com",
+    "s": "Getty Images",
+    "t": "getty",
+    "u": "https://www.gettyimages.com/photos/{{{s}}}"
+  },
+  {
+    "d": "www.gettyimages.com",
+    "s": "Getty Images",
+    "t": "gettyimages",
+    "u": "http://www.gettyimages.com/Search/Search.aspx?src=quick&contractUrl=1&family=creative&phrase={{{s}}}"
+  },
+  {
+    "d": "search.gexsi.com",
+    "s": "gexsi",
+    "t": "gex",
+    "u": "https://search.gexsi.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "geniusfactory.fr",
+    "s": "Genius Factory",
+    "t": "gfactory",
+    "u": "http://geniusfactory.fr/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Persian Google",
+    "t": "gfa",
+    "u": "https://www.google.com/search?hl=fa&q={{{s}}}"
+  },
+  {
+    "d": "www.gamefaqs.com",
+    "s": "GameFAQs",
+    "t": "gfaq",
+    "u": "http://www.gamefaqs.com/search/index.html?game={{{s}}}"
+  },
+  {
+    "d": "www.gamefaqs.com",
+    "s": "GameFAQS.com",
+    "t": "gfaqs",
+    "u": "http://www.gamefaqs.com/search/index.html?game={{{s}}}&platform=0"
+  },
+  {
+    "d": "geriafurch.bzh",
+    "s": "Geriafurch",
+    "t": "gfbf",
+    "u": "https://geriafurch.bzh/fr?q={{{s}}}&d=brfr"
+  },
+  {
+    "d": "greatfirewallofchina.org",
+    "s": "greatfirewallofchina.org",
+    "t": "gfc",
+    "u": "http://greatfirewallofchina.org/index.php?siteurl={{{s}}}"
+  },
+  {
+    "d": "geriafurch.bzh",
+    "s": "Geriafurch",
+    "t": "gffb",
+    "u": "https://geriafurch.bzh/fr?q={{{s}}}&d=frbr"
+  },
+  {
+    "d": "www.geeksforgeeks.org",
+    "s": "geeksforgeeks",
+    "t": "gfg",
+    "u": "https://www.geeksforgeeks.org/?q={{{s}}}"
+  },
+  {
+    "d": "finance.google.com",
+    "s": "Google Finance",
+    "t": "gf",
+    "u": "https://finance.google.com/?q={{{s}}}&sa=N&tab=fe"
+  },
+  {
+    "d": "www.gurufocus.com",
+    "s": "Gurufocus",
+    "t": "gfguru",
+    "u": "https://www.gurufocus.com/guru/{{{s}}}/stock-picks"
+  },
+  {
+    "d": "glosbe.com",
+    "s": "glosbe (finnish - estonian)",
+    "t": "gfiet",
+    "u": "https://glosbe.com/fi/et/{{{s}}}"
+  },
+  {
+    "d": "www.google.fi",
+    "s": "Google finland",
+    "t": "gfi",
+    "u": "https://www.google.fi/search?q={{{s}}}"
+  },
+  {
+    "d": "finance.google.com",
+    "s": "Google Finance",
+    "t": "gfinance",
+    "u": "https://finance.google.com/?q={{{s}}}&sa=N&tab=fe"
+  },
+  {
+    "d": "www.grafikart.fr",
+    "s": "grafikart",
+    "t": "gfk",
+    "u": "https://www.grafikart.fr/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Flights",
+    "t": "gfl",
+    "u": "https://www.google.com/flights/#search;t={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Flights",
+    "t": "gflights",
+    "u": "https://www.google.com/flights/#search;t={{{s}}}"
+  },
+  {
+    "d": "fonts.google.com",
+    "s": "Google font",
+    "t": "gfont",
+    "u": "https://fonts.google.com/?query={{{s}}}"
+  },
+  {
+    "d": "fonts.google.com",
+    "s": "Google Fonts",
+    "t": "gfonts",
+    "u": "https://fonts.google.com/?query={{{s}}}"
+  },
+  {
+    "d": "greasyfork.org",
+    "s": "Greasy Fork",
+    "t": "gfork",
+    "u": "https://greasyfork.org/en/scripts?q={{{s}}}"
+  },
+  {
+    "d": "productforums.google.com",
+    "s": "Google Forums",
+    "t": "gforums",
+    "u": "https://productforums.google.com/forum/#!topicsearch/{{{s}}}"
+  },
+  {
+    "d": "www.google.fr",
+    "s": "Google FR",
+    "t": "gfr",
+    "u": "http://www.google.fr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.gurufocus.com",
+    "s": "Gurufocus",
+    "t": "gfstock",
+    "u": "https://www.gurufocus.com/stock/{{{s}}}/summary"
+  },
+  {
+    "d": "en.gfwiki.com",
+    "s": "Girls' Frontline Wiki",
+    "t": "gfwiki",
+    "u": "https://en.gfwiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.graffx.fr",
+    "s": "Graffx",
+    "t": "gfx",
+    "u": "http://www.graffx.fr/blabla/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "/r/GfycatDepot",
+    "t": "gfycatdepot",
+    "u": "https://www.reddit.com/r/GfycatDepot/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "d": "gfycat.com",
+    "s": "Gfycat",
+    "t": "gfy",
+    "u": "https://gfycat.com/gifs/search/{{{s}}}"
+  },
+  {
+    "d": "www.geogebra.org",
+    "s": "Geogebra",
+    "t": "ggb",
+    "u": "http://www.geogebra.org/cms/{{{s}}}"
+  },
+  {
+    "d": "tube.geogebra.org",
+    "s": "geogebratube.org",
+    "t": "ggbtube",
+    "u": "http://tube.geogebra.org/search/perform/search/{{{s}}}"
+  },
+  {
+    "d": "gabgagnon.ca",
+    "s": "GabGagnon.ca",
+    "t": "ggca",
+    "u": "https://gabgagnon.ca/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.gp",
+    "s": "Google Guadeloupe",
+    "t": "ggd",
+    "u": "https://www.google.gp/?gws_rd=ssl#q= {{{s}}} "
+  },
+  {
+    "d": "groups.google.com",
+    "s": "Google Groups",
+    "t": "gg",
+    "u": "http://groups.google.com/groups/search?q={{{s}}}&qt_s=Search+Groups"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Images (Animated)",
+    "t": "ggif",
+    "u": "https://google.com/search?q={{{s}}}&site=webhp&tbm=isch&tbs=itp%3Aanimated"
+  },
+  {
+    "d": "globalgamejam.org",
+    "s": "Global Game Jam",
+    "t": "ggj",
+    "u": "http://globalgamejam.org/?q={{{s}}}"
+  },
+  {
+    "d": "gamegator.net",
+    "s": "GameGator",
+    "t": "ggnet",
+    "u": "https://gamegator.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google",
+    "t": "g",
+    "u": "https://www.google.com/search?q={{{s}}}"
+  },
+  {
+    "d": "plus.google.com",
+    "s": "Google Plus",
+    "t": "g+",
+    "u": "https://plus.google.com/u/0/s/{{{s}}} "
+  },
+  {
+    "d": "www.google.gr",
+    "s": "Google GR",
+    "t": "ggr",
+    "u": "http://www.google.gr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "ggr-law.com",
+    "s": "gulden röttger rechtsanwälte - wir schätzen die Kraft achtsamer Kommunikation in Wort und Bild",
+    "t": "ggrlaw",
+    "u": "https://ggr-law.com/suche/?id=1843&tx_kesearch_pi1%5Bsword%5D={{{s}}}"
+  },
+  {
+    "d": "groups.google.com",
+    "s": "Google Groups",
+    "t": "ggroups",
+    "u": "http://groups.google.com/groups/search?q={{{s}}}&qt_s=Search+Groups"
+  },
+  {
+    "d": "www.ghacks.net",
+    "s": "Ghacks",
+    "t": "ghacks",
+    "u": "https://www.ghacks.net/?s={{{s}}}"
+  },
+  {
+    "d": "ghananews.xyz",
+    "s": "GhanaNews.xyz",
+    "t": "ghananews",
+    "u": "https://ghananews.xyz/?s={{{s}}}"
+  },
+  {
+    "d": "geizhals.at",
+    "s": "Geizhals Österreich",
+    "t": "ghat",
+    "u": "https://geizhals.at/?in=&fs={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub Code",
+    "t": "ghc",
+    "u": "https://github.com/search?utf8=✓&q={{{s}}}&type=Code"
+  },
+  {
+    "d": "github.com",
+    "s": "Github (code search)",
+    "t": "ghcode",
+    "u": "https://github.com/search?utf8=✓&q={{{s}}}&type=Code"
+  },
+  {
+    "d": "geizhals.de",
+    "s": "Geizhals",
+    "t": "ghde",
+    "u": "https://geizhals.de/?fs={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub",
+    "t": "gh",
+    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Github User Pages",
+    "t": "ghio",
+    "u": "https://duckduckgo.com/?q=site%3Agithub.io+{{{s}}}&ia=web"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub JavaScript Code Search",
+    "t": "ghjs",
+    "u": "https://github.com/search?l=JavaScript&o=desc&q={{{s}}}&s=indexed&type=Code"
+  },
+  {
+    "d": "www.google.com.hk",
+    "s": "Google HK",
+    "t": "ghk",
+    "u": "http://www.google.com.hk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.groenehartscholen.nl",
+    "s": "http://www.groenehartscholen.nl/lyceum/",
+    "t": "ghl",
+    "u": "http://www.groenehartscholen.nl/lyceum/={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Past Hour Search ",
+    "t": "ghour",
+    "u": "https://google.com/search?q={{{s}}}&tbs=qdr:h"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub Private Search",
+    "t": "ghp",
+    "u": "https://github.com/search?q=is%3Aprivate+{{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub Repo",
+    "t": "ghrepo",
+    "u": "https://github.com/{{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "Github",
+    "t": "ghr",
+    "u": "https://github.com/{{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "Github - Trending",
+    "t": "ght",
+    "u": "https://github.com/trending/{{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub Topic",
+    "t": "ghtopic",
+    "u": "https://github.com/topic/{{{s}}}"
+  },
+  {
+    "d": "en.glosbe.com",
+    "s": "Glosbe",
+    "t": "ghuen",
+    "u": "https://en.glosbe.com/hu/en/{{{s}}}"
+  },
+  {
+    "d": "www.google.hu",
+    "s": "Google HU",
+    "t": "ghu",
+    "u": "http://www.google.hu/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub",
+    "t": "ghuser",
+    "u": "https://github.com/search?type=Users&q={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "Github User",
+    "t": "ghus",
+    "u": "https://github.com/{{{s}}}/"
+  },
+  {
+    "d": "www.gia.edu",
+    "s": "GIA",
+    "t": "gia",
+    "u": "http://www.gia.edu/cs/Satellite?pagename=GST%2FDispatcher&childpagename=GIA%2FPage%2FReportCheck&c=Page&cid=1355954554547&reportno={{{s}}}"
+  },
+  {
+    "d": "www.giallozafferano.it",
+    "s": "https://www.giallozafferano.it/",
+    "t": "giallozafferano",
+    "u": "https://www.giallozafferano.it/ricerca-ricette/{{{s}}}"
+  },
+  {
+    "d": "www.giantbomb.com",
+    "s": "GiantBomb",
+    "t": "giantbomb",
+    "u": "http://www.giantbomb.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.giant-bicycles.com",
+    "s": "Giant",
+    "t": "giant",
+    "u": "https://www.giant-bicycles.com/global/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.google.com.au",
+    "s": "Google Images Australia",
+    "t": "giau",
+    "u": "https://www.google.com.au/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "gibbon.co",
+    "s": "Gibbon",
+    "t": "gibbon",
+    "u": "https://gibbon.co/search?q={{{s}}}"
+  },
+  {
+    "d": "www.gibert.com",
+    "s": "Gibert",
+    "t": "gibert",
+    "u": "https://www.gibert.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.gibertjoseph.com",
+    "s": "GibertJoseph.com",
+    "t": "gibertj",
+    "u": "http://www.gibertjoseph.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "gibiru.com",
+    "s": "Gibiru",
+    "t": "gib",
+    "u": "https://gibiru.com/results.html?q={{{s}}}&cx=partner-pub-5956360965567042%3A8627692578&cof=FORID%3A11&ie=UTF-8"
+  },
+  {
+    "d": "www.google.ca",
+    "s": "Google.ca Image Search",
+    "t": "gica",
+    "u": "http://www.google.ca/search?q={{{s}}}&tbm=isch"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Images Classic",
+    "t": "gic",
+    "u": "https://www.google.com/search?q={{{s}}}&tbm=isch&sout=1"
+  },
+  {
+    "d": "www.google.co.id",
+    "s": "Google ID",
+    "t": "gid",
+    "u": "http://www.google.co.id/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.ie",
+    "s": "Google IE",
+    "t": "gie",
+    "u": "http://www.google.ie/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "geizhals.at",
+    "s": "Geizhals",
+    "t": "giez",
+    "u": "http://geizhals.at/eu/?in=&fs={{{s}}}"
+  },
+  {
+    "d": "geizhals.at",
+    "s": "Geizhals",
+    "t": "giezhals",
+    "u": "http://geizhals.at/eu/?in=&fs={{{s}}}"
+  },
+  {
+    "d": "gifcities.org",
+    "s": "Gifcities",
+    "t": "gifcities",
+    "u": "http://gifcities.org/?q={{{s}}}"
+  },
+  {
+    "d": "community.giffgaff.com",
+    "s": "GiffGaff",
+    "t": "giffgaff",
+    "u": "http://community.giffgaff.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "d": "gif-finder.com",
+    "s": "Gif Finder",
+    "t": "giff",
+    "u": "http://gif-finder.com/?s={{{s}}}"
+  },
+  {
+    "d": "giphy.com",
+    "s": "Giphy",
+    "t": "gif",
+    "u": "https://giphy.com/search/{{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google: I'm Feeling Lucky",
+    "t": "gifl",
+    "u": "http://google.com/search?btnI=1&q={{{s}}}"
+  },
+  {
+    "d": "www.giftinformation.se",
+    "s": "Giftinformationscentralen",
+    "t": "giftinfo",
+    "u": "http://www.giftinformation.se/searchpage/?query={{{s}}}"
+  },
+  {
+    "d": "www.gigablast.com",
+    "s": "GIGABLAST",
+    "t": "gigablast",
+    "u": "http://www.gigablast.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.gigabyte.com",
+    "s": "Gigabyte support",
+    "t": "gigabyte",
+    "u": "https://www.gigabyte.com/Search?kw={{{s}}}"
+  },
+  {
+    "d": "giga-cultures.com",
+    "s": "Giga Cultures",
+    "t": "giga-cultures",
+    "u": "http://giga-cultures.com/recherche?controller=search&search_query={{{s}}}:"
+  },
+  {
+    "d": "www.gigablast.com",
+    "s": "GIGABLAST",
+    "t": "giga",
+    "u": "http://www.gigablast.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.gigantti.fi",
+    "s": "Gigantti Finland",
+    "t": "gigantti",
+    "u": "http://www.gigantti.fi/search?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "gigaom.com",
+    "s": "GigaOM",
+    "t": "gigaom",
+    "u": "http://gigaom.com/?s={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Images",
+    "t": "gi",
+    "u": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "www.gesetze-im-internet.de",
+    "s": "Gesetze im Internet",
+    "t": "gii",
+    "u": "http://www.gesetze-im-internet.de/cgi-bin/htsearch?config=Gesamt_bmjhome2005&method=and&words={{{s}}}"
+  },
+  {
+    "d": "www.google.co.il",
+    "s": "Google IL",
+    "t": "gik",
+    "u": "http://www.google.co.il/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.co.il",
+    "s": "Google Israel",
+    "t": "gil",
+    "u": "https://www.google.co.il/#q={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Images",
+    "t": "gimages",
+    "u": "http://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Images",
+    "t": "gimg",
+    "u": "https://www.google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Images",
+    "t": "gim",
+    "u": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "www.google.co.in",
+    "s": "Google India",
+    "t": "gin",
+    "u": "https://www.google.co.in/search?q={{{s}}}"
+  },
+  {
+    "d": "glosbe.com",
+    "s": "Glosbe",
+    "t": "gip",
+    "u": "http://glosbe.com/it/pl/{{{s}}}"
+  },
+  {
+    "d": "giphy.com",
+    "s": "Giphy",
+    "t": "giphy",
+    "u": "http://giphy.com/search/{{{s}}} "
+  },
+  {
+    "d": "tv.giphy.com",
+    "s": "Giphy TV",
+    "t": "giphytv",
+    "u": "http://tv.giphy.com/{{{s}}}"
+  },
+  {
+    "d": "dearcomputer.nl",
+    "s": "Dear Computer Google Image Ripper SFW",
+    "t": "gir",
+    "u": "http://dearcomputer.nl/gir/?q={{{s}}}&s=8&imgtype=any"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Images (Safe Off)",
+    "t": "gisafeoff",
+    "u": "http://www.google.com/images?safe=off&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Image Search",
+    "t": "gis",
+    "u": "https://www.google.com/search?site=imghp&tbm=isch&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Images (Safe Off)",
+    "t": "gisoff",
+    "u": "http://www.google.com/images?safe=off&q={{{s}}}"
+  },
+  {
+    "d": "gis.stackexchange.com",
+    "s": "Stack Exchange",
+    "t": "gisse",
+    "u": "https://gis.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "gis.stackexchange.com",
+    "s": "GIS StackExchange",
+    "t": "gisstackexchange",
+    "u": "http://gis.stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "d": "gist.github.com",
+    "s": "Github Gists",
+    "t": "gist",
+    "u": "https://gist.github.com/search?q={{{s}}}"
+  },
+  {
+    "d": "libgit2.github.com",
+    "s": "libgit2 documentation",
+    "t": "git2",
+    "u": "https://libgit2.github.com/libgit2/#HEAD/search/{{{s}}}"
+  },
+  {
+    "d": "git-scm.com",
+    "s": "Git Documentation",
+    "t": "gitdocs",
+    "u": "https://git-scm.com/search/results?search={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "Github",
+    "t": "git",
+    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub.com",
+    "t": "github",
+    "u": "http://github.com/search?q={{{s}}}&type=Everything&repo=&langOverride=&start_value=1"
+  },
+  {
+    "d": "help.github.com",
+    "s": "GitHub Help",
+    "t": "githubhelp",
+    "u": "https://help.github.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "Github Stars",
+    "t": "githubstars",
+    "u": "https://github.com/stars?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.gitignore.io",
+    "s": "gitignore.io",
+    "t": "gitignore",
+    "u": "https://www.gitignore.io/api/{{{s}}}"
+  },
+  {
+    "d": "www.google.fr",
+    "s": "https://www.google.fr/maps/dir/",
+    "t": "giti",
+    "u": "https://www.google.fr/maps/dir/{{{s}}}/{{{s}}}"
+  },
+  {
+    "d": "gitlab.com",
+    "s": "GitLab",
+    "t": "gitlab",
+    "u": "https://gitlab.com/search?utf8=%E2%9C%93&search={{{s}}}&group_id=&repository_ref="
+  },
+  {
+    "d": "www.google.it",
+    "s": "Google IT",
+    "t": "gitl",
+    "u": "http://www.google.it/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "gitote.in",
+    "s": "Gitote",
+    "t": "gitote",
+    "u": "https://gitote.in/explore/repos?q={{{s}}}"
+  },
+  {
+    "d": "git-scm.com",
+    "s": "Git",
+    "t": "git-scm",
+    "u": "http://git-scm.com/search/results?search={{{s}}}"
+  },
+  {
+    "d": "www.gittigidiyor.com",
+    "s": "GittiGidiyor",
+    "t": "gittigidiyor",
+    "u": "http://www.gittigidiyor.com/arama/?k={{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google Images UK",
+    "t": "giuk",
+    "u": "http://www.google.co.uk/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Image",
+    "t": "giurl",
+    "u": "https://www.google.com/searchbyimage?image_url={{{s}}}"
+  },
+  {
+    "d": "www.givero.com",
+    "s": "Givero",
+    "t": "give",
+    "u": "https://www.givero.com/search?q={{{s}}}"
+  },
+  {
+    "d": "es.gizmodo.com",
+    "s": "Gizmodo en español",
+    "t": "gizes",
+    "u": "http://es.gizmodo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "gizmodo.com",
+    "s": "Gizmodo",
+    "t": "gizmodo",
+    "u": "http://gizmodo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.gizoogle.net",
+    "s": "Gizoogle",
+    "t": "gizoogle",
+    "u": "http://www.gizoogle.net/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.gjensidige.no",
+    "s": "Gjensidige",
+    "t": "gjensidige",
+    "u": "https://www.gjensidige.no/s%C3%B8k?query={{{s}}}"
+  },
+  {
+    "d": "www.google.co.jp",
+    "s": "Google Japan",
+    "t": "gj",
+    "u": "http://www.google.co.jp/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.jp",
+    "s": "Google JP",
+    "t": "gjp",
+    "u": "http://www.google.co.jp/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.gamekult.com",
+    "s": "Gamekult",
+    "t": "gk",
+    "u": "https://www.gamekult.com/rechercher-jeu.html?q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.kr",
+    "s": "Google KR",
+    "t": "gkr",
+    "u": "http://www.google.co.kr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "gitlab.com",
+    "s": "GitLab",
+    "t": "glab",
+    "u": "https://gitlab.com/search?utf8=✓&search={{{s}}}"
+  },
+  {
+    "d": "gladrys.com",
+    "s": "gladrys",
+    "t": "gladrys",
+    "u": "http://gladrys.com/search0results-plant{{{s}}}.html"
+  },
+  {
+    "d": "www.glassdoor.com",
+    "s": "Glassdoor",
+    "t": "glassdoor",
+    "u": "https://www.glassdoor.com/Job/jobs.htm?sc.keyword={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Latest",
+    "t": "glatest",
+    "u": "http://www.google.com/search?q={{{s}}}&tbs=rltm:1"
+  },
+  {
+    "d": "www.glassdoor.com",
+    "s": "Glassdoor",
+    "t": "gld",
+    "u": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword={{{s}}}+&sc.keyword={{{s}}}+&locT=&locId=&jobType="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google",
+    "t": "glink",
+    "u": "http://www.google.com/search?as_lq={{{s}}}&hl=en&btnG=Search"
+  },
+  {
+    "d": "glitch.com",
+    "s": "Glitch",
+    "t": "glitch",
+    "u": "https://glitch.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.lk",
+    "s": "Google LK",
+    "t": "glk",
+    "u": "https://www.google.lk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.theglobeandmail.com",
+    "s": "The Globe and Mail",
+    "t": "glmail",
+    "u": "http://www.theglobeandmail.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.gepir.de",
+    "s": "GEPIR Suche",
+    "t": "gln",
+    "u": "https://www.gepir.de/?search={{{s}}}"
+  },
+  {
+    "d": "globaledge.msu.edu",
+    "s": "globalEDGE",
+    "t": "globaledge",
+    "u": "http://globaledge.msu.edu/search?q={{{s}}}"
+  },
+  {
+    "d": "www.globalresearch.ca",
+    "s": "Global Research",
+    "t": "global",
+    "u": "http://www.globalresearch.ca/search?q={{{s}}}"
+  },
+  {
+    "d": "www.theglobeandmail.com",
+    "s": "The Globe and Mail",
+    "t": "globeandmail",
+    "u": "https://www.theglobeandmail.com/search/?q={{{s}}}&mode=all"
+  },
+  {
+    "d": "www.globetrotter.de",
+    "s": "Globetrotter",
+    "t": "globetrotter",
+    "u": "https://www.globetrotter.de/search?q={{{s}}}"
+  },
+  {
+    "d": "globoesporte.globo.com",
+    "s": "GloboEsporte.com",
+    "t": "globoesporte",
+    "u": "https://globoesporte.globo.com/busca/?q={{{s}}}"
+  },
+  {
+    "d": "local.google.com",
+    "s": "Google Local",
+    "t": "glocal",
+    "u": "http://local.google.com/maps?f=q&source=s_q&geocode=&q={{{s}}}"
+  },
+  {
+    "d": "www.opengl.org",
+    "s": "OpenGL",
+    "t": "gl",
+    "u": "https://www.opengl.org/search/?cx=017055583490642512057%3Ahwpumfa180i&cof=FORID%3A9&q={{{s}}}"
+  },
+  {
+    "d": "gloria.tv",
+    "s": "Gloria.tv",
+    "t": "gloriatv",
+    "u": "http://gloria.tv/?search={{{s}}}"
+  },
+  {
+    "d": "www.interglot.com",
+    "s": "Interglot EN -> ES",
+    "t": "glotenes",
+    "u": "http://www.interglot.com/dictionary/en/es/search?q={{{s}}} "
+  },
+  {
+    "d": "www.interglot.com",
+    "s": "Interglot",
+    "t": "glotennl",
+    "u": "http://www.interglot.com/dictionary/en/nl/search?q={{{s}}}"
+  },
+  {
+    "d": "www.interglot.com",
+    "s": "Interglot ES -> EN",
+    "t": "glotesen",
+    "u": "http://www.interglot.com/dictionary/es/en/search?q={{{s}}} "
+  },
+  {
+    "d": "interglot.com",
+    "s": "Interglot (NL->EN)",
+    "t": "glotnl",
+    "u": "http://interglot.com/dictionary/nl/en/search?q={{{s}}}"
+  },
+  {
+    "d": "glottolog.org",
+    "s": "Glottolog",
+    "t": "glottolog",
+    "u": "http://glottolog.org/glottolog?search={{{s}}}"
+  },
+  {
+    "d": "german.stackexchange.com",
+    "s": "German Language Stack Exchange",
+    "t": "glse",
+    "u": "https://german.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "golang.org",
+    "t": "gls",
+    "u": "https://duckduckgo.com/?q=site%3Agolang.org+{{{s}}}"
+  },
+  {
+    "d": "www.google.lt",
+    "s": "Google LT",
+    "t": "glt",
+    "u": "http://www.google.lt/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Feeling Lucky",
+    "t": "gluck",
+    "u": "http://www.google.com/search?q={{{s}}}&btnI"
+  },
+  {
+    "d": "www.google.lu",
+    "s": "Google Luxembourg",
+    "t": "glu",
+    "u": "https://www.google.lu/search?q={{{s}}}"
+  },
+  {
+    "d": "glutenfreerecipebox.com",
+    "s": "Carla’s Gluten Free Recipe Box",
+    "t": "glutenfreerecipebox",
+    "u": "https://glutenfreerecipebox.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.lv",
+    "s": "Google LV",
+    "t": "glv",
+    "u": "http://www.google.lv/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.khronos.org",
+    "s": "OpenGL Wiki",
+    "t": "glwiki",
+    "u": "https://www.khronos.org/opengl/wiki_opengl/index.php?search={{{s}}}"
+  },
+  {
+    "d": "glyde.com",
+    "s": "Glyde",
+    "t": "glyde",
+    "u": "http://glyde.com/stores/glyde#!display_as=2&s_query={{{s}}}"
+  },
+  {
+    "d": "mail.google.com",
+    "s": "Gmail",
+    "t": "gma",
+    "u": "https://mail.google.com/mail/u/0/#search/{{{s}}}"
+  },
+  {
+    "d": "mail.google.com",
+    "s": "GMail.com",
+    "t": "gmail",
+    "u": "https://mail.google.com/mail/#search/{{{s}}}"
+  },
+  {
+    "d": "mail.google.com",
+    "s": "Gmail",
+    "t": "gmailh",
+    "u": "https://mail.google.com/mail/u/0/h/?s=q&q={{{s}}}&nvp_site_mail=Search%20Mail"
+  },
+  {
+    "d": "www.gmanetwork.com",
+    "s": "GMA NEWS",
+    "t": "gmanews",
+    "u": "https://www.gmanetwork.com/news/search/?q={{{s}}}"
+  },
+  {
+    "d": "support.google.com",
+    "s": "Google Support",
+    "t": "gman",
+    "u": "https://support.google.com/search?q={{{s}}}"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Maps",
+    "t": "gmap",
+    "u": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Maps",
+    "t": "gmaps",
+    "u": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "d": "search.gmarket.co.kr",
+    "s": "GMarket",
+    "t": "gmarket",
+    "u": "http://search.gmarket.co.kr/search.aspx?keyword={{{s}}}"
+  },
+  {
+    "d": "www.google.at",
+    "s": "Google Maps Austria",
+    "t": "gmat",
+    "u": "https://www.google.at/maps/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.com.au",
+    "s": "Google Maps Australia",
+    "t": "gmau",
+    "u": "https://www.google.com.au/maps/search/{{{s}}} "
+  },
+  {
+    "d": "www.google.ca",
+    "s": "Google Maps Canada",
+    "t": "gmca",
+    "u": "https://www.google.ca/maps/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Maps Classic",
+    "t": "gmc",
+    "u": "https://www.google.com/maps?q={{{s}}}&output=classic"
+  },
+  {
+    "d": "www.google.cl",
+    "s": "Google Maps Chile",
+    "t": "gmcl",
+    "u": "https://www.google.cl/maps/place/{{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google Maps DE",
+    "t": "gmde",
+    "u": "https://www.google.de/maps/place/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Maps Directions With Two Addresses",
+    "t": "gmd",
+    "u": "https://www.google.com/maps/dir/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Maps Directions",
+    "t": "gmdir",
+    "u": "https://www.google.com/maps/dir//{{{s}}}"
+  },
+  {
+    "d": "www.gme.cz",
+    "s": "GM electronic",
+    "t": "gme",
+    "u": "https://www.gme.cz/vysledky-vyhledavani?search_keyword= {{{s}}}"
+  },
+  {
+    "d": "www.google.fr",
+    "s": "maps.google.com",
+    "t": "gmfr",
+    "u": "https://www.google.fr/maps/search/{{{s}}}"
+  },
+  {
+    "d": "www.greenmangaming.com",
+    "s": "greenmangaming.com",
+    "t": "gmgf",
+    "u": "https://www.greenmangaming.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.greenmangaming.com",
+    "s": "greenmangaming.com",
+    "t": "gmg",
+    "u": "https://www.greenmangaming.com/search/{{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Maps",
+    "t": "gm",
+    "u": "https://google.com/maps/place/{{{s}}}"
+  },
+  {
+    "d": "www.google.co.il",
+    "s": "Google Maps Israel",
+    "t": "gmil",
+    "u": "https://www.google.co.il/maps/search/{{{s}}}/?hl=iw"
+  },
+  {
+    "d": "www.google.it",
+    "s": "Google Maps",
+    "t": "gmit",
+    "u": "https://www.google.it/maps/place/{{{s}}}"
+  },
+  {
+    "d": "www.google.co.jp",
+    "s": "Google Maps JP",
+    "t": "gmjp",
+    "u": "https://www.google.co.jp/maps/place/{{{s}}}"
+  },
+  {
+    "d": "www.gml.se",
+    "s": "GML Bokhandel",
+    "t": "gml",
+    "u": "https://www.gml.se/bocker/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google Maps NL",
+    "t": "gmnl",
+    "u": "https://www.google.de/maps/place/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (mobile site viewer)",
+    "t": "gmob",
+    "u": "http://www.google.com/gwt/x?u={{{s}}}"
+  },
+  {
+    "d": "wiki.garrysmod.com",
+    "s": "GMod wiki",
+    "t": "gmod",
+    "u": "http://wiki.garrysmod.com/page/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (Past Month)",
+    "t": "gmonth",
+    "u": "http://www.google.com/search?q={{{s}}}&tbs=qdr:m"
+  },
+  {
+    "d": "geekmps.fr",
+    "s": "GeekMPS",
+    "t": "gmps",
+    "u": "http://geekmps.fr/component/search/?searchword={{{s}}} "
+  },
+  {
+    "d": "gumroad.com",
+    "s": "Gumraod",
+    "t": "gmr",
+    "u": "https://gumroad.com/discover?query={{{s}}}"
+  },
+  {
+    "d": "www.google.si",
+    "s": "Google Maps SI",
+    "t": "gmsi",
+    "u": "https://www.google.si/maps/search/{{{s}}}/"
+  },
+  {
+    "d": "www.google.com.tw",
+    "s": "Google map (Taiwan)",
+    "t": "gmtw",
+    "u": "https://www.google.com.tw/maps?hl=zh-TW&q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google Maps",
+    "t": "gmuk",
+    "u": "https://www.google.co.uk/maps/place/{{{s}}} "
+  },
+  {
+    "d": "music.google.com",
+    "s": "Google Music",
+    "t": "gmusic",
+    "u": "http://music.google.com/music/listen?#{{{s}}}_sr"
+  },
+  {
+    "d": "www.google.com.mx",
+    "s": "Google",
+    "t": "gmx",
+    "u": "https://www.google.com.mx/#q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.my",
+    "s": "Google MY",
+    "t": "gmy",
+    "u": "http://www.google.com.my/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.at",
+    "s": "Google News Austria",
+    "t": "gnat",
+    "u": "https://www.google.at/#q={{{s}}}&tbm=nws"
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google News Australia",
+    "t": "gnau",
+    "u": "https://news.google.com/search?q={{{s}}}&hl=en-AU&gl=AU&ceid=AU%3Aen"
+  },
+  {
+    "d": "r.gnavi.co.jp",
+    "s": "Gurunavi",
+    "t": "gnavi",
+    "u": "https://r.gnavi.co.jp/area/jp/rs/?fwr={{{s}}}"
+  },
+  {
+    "d": "www.bibleserver.com",
+    "s": "Bibleserver Gute Nachricht Bibel",
+    "t": "gnb",
+    "u": "https://www.bibleserver.com/search/GNB/{{{s}}}/1"
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google news België",
+    "t": "gnbe",
+    "u": "https://news.google.com/news/search/section/q/{{{s}}}/?gl=BE&ned=nl_be&hl=nl"
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google News (Canada)",
+    "t": "gnca",
+    "u": "https://news.google.com/news/search/section/q/{{{s}}}/{{{s}}}?hl=en-CA&ned=ca"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google No Country Redirect",
+    "t": "gncr",
+    "u": "https://www.google.com/search?gws_rd=cr&gl=us&hl=en&num=20&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (In Depth Articles)",
+    "t": "gnda",
+    "u": "https://www.google.com/?gws_rd=ssl#q={{{s}}}&tbs=ida:1&gl=us"
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google News Germany",
+    "t": "gnde",
+    "u": "https://news.google.com/news/search/section/q/{{{s}}}?hl=de&ned=de"
+  },
+  {
+    "d": "www.google.es",
+    "s": "Google News Spain",
+    "t": "gnes",
+    "u": "https://www.google.es/search?q={{{s}}}&prmd=nvi&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiTxIfujK3XAhXItRoKHTQfDLYQ_AUIEigB&biw=375&bih=553"
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google News",
+    "t": "gnews",
+    "u": "https://news.google.com/news/search/section/q/{{{s}}}/{{{s}}}"
+  },
+  {
+    "d": "www.google.fr",
+    "s": "Google News French",
+    "t": "gnfr",
+    "u": "http://www.google.fr/search?aq=f&hl=fr&gl=fr&tbm=nws&btnmeta_news_search=1&q={{{s}}} "
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google News",
+    "t": "gn",
+    "u": "https://news.google.com/news/search/section/q/{{{s}}}"
+  },
+  {
+    "d": "www.google.it",
+    "s": "Google News Italian",
+    "t": "gnit",
+    "u": "https://www.google.it/search?q={{{s}}}&hl=it&source=lnms&tbm=nws"
+  },
+  {
+    "d": "www.google.nl",
+    "s": "Google NL",
+    "t": "gnl",
+    "u": "http://www.google.nl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "globalnewlightofmyanmar.com",
+    "s": "The Global New Light of Myanmar",
+    "t": "gnlm",
+    "u": "http://globalnewlightofmyanmar.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google News (mobile)",
+    "t": "gnm",
+    "u": "http://www.google.com/m/search?site=news&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google News Nederland",
+    "t": "gnnl",
+    "u": "https://www.google.com/search?hl=nl&gl=nl&tbm=nws&q={{{s}}}"
+  },
+  {
+    "d": "www.google.no",
+    "s": "Google NO",
+    "t": "gno",
+    "u": "http://www.google.no/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "gitlab.gnome.org",
+    "s": "GNOME Gitlab Issues",
+    "t": "gnomebugs",
+    "u": "https://gitlab.gnome.org/groups/GNOME/-/issues?search={{{s}}}"
+  },
+  {
+    "d": "developer.gnome.org",
+    "s": "GNOME Developer Center",
+    "t": "gnomedev",
+    "u": "https://developer.gnome.org/symbols/?q={{{s}}}"
+  },
+  {
+    "d": "live.gnome.org",
+    "s": "GNOME Live",
+    "t": "gnome",
+    "u": "http://live.gnome.org/Home?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "d": "wiki.gnome.org",
+    "s": "GNOME Wiki",
+    "t": "gnomewiki",
+    "u": "https://wiki.gnome.org/Home?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "d": "www.google.ru",
+    "s": "Google News RU",
+    "t": "gnru",
+    "u": "https://www.google.ru/search?q={{{s}}}&tbm=nws&cad=h"
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google News Sweden",
+    "t": "gnse",
+    "u": "https://news.google.com/search?q={{{s}}}&hl=sv&gl=SE&ceid=SE%3Asv"
+  },
+  {
+    "d": "google.com",
+    "s": "Google News Spain",
+    "t": "gns",
+    "u": "https://google.com/search?q={{{s}}}&hl=es&prmd=niv&source=lnms&tbm=nws&sa="
+  },
+  {
+    "d": "www.generation-nt.com",
+    "s": "Generation Nouvelles Technologies",
+    "t": "gnt",
+    "u": "http://www.generation-nt.com/s/{{{s}}}/"
+  },
+  {
+    "d": "www.gnu.org",
+    "s": "GNU",
+    "t": "gnu",
+    "u": "http://www.gnu.org/cgi-bin/estseek.cgi?phrase={{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google News UK",
+    "t": "gnuk",
+    "u": "https://www.google.co.uk/search?hl=en&gl=uk&tbm=nws&authuser=0&q={{{s}}}"
+  },
+  {
+    "d": "news.google.com",
+    "s": "Google News",
+    "t": "gnus",
+    "u": "https://news.google.com/news/search/section/q/{{{s}}}/{{{s}}}?hl=en&ned=us"
+  },
+  {
+    "d": "www.google.co.nz",
+    "s": "Google New Zealand",
+    "t": "gnz",
+    "u": "http://www.google.co.nz/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.goatbots.com",
+    "s": "Goatbots",
+    "t": "goat",
+    "u": "https://www.goatbots.com/search/{{{s}}}"
+  },
+  {
+    "d": "gobago.it",
+    "s": "Gobago",
+    "t": "gobago",
+    "u": "https://gobago.it/?q={{{s}}}"
+  },
+  {
+    "d": "duckgobang.com",
+    "s": "Duck Go !Bang",
+    "t": "gobang",
+    "u": "http://duckgobang.com/?s={{{s}}}"
+  },
+  {
+    "d": "golang.cafe",
+    "s": "Golang Cafe",
+    "t": "gocafe",
+    "u": "https://golang.cafe/Golang-{{{s}}}-Jobs"
+  },
+  {
+    "d": "www.gocomics.com",
+    "s": "GoComics",
+    "t": "gocomics",
+    "u": "https://www.gocomics.com/search/results?utf8=%E2%9C%93&terms={{{s}}}"
+  },
+  {
+    "d": "www.gocompare.com",
+    "s": "Gocompare.com",
+    "t": "gocompare",
+    "u": "http://www.gocompare.com/searchresults/?q={{{s}}}"
+  },
+  {
+    "d": "www.godaddy.com",
+    "s": "godaddy",
+    "t": "godaddy",
+    "u": "https://www.godaddy.com/dpp/find?checkAvail=1%2c1&isc=daytona08&ci=8962&domainToCheck={{{s}}}"
+  },
+  {
+    "d": "dictionary.goo.ne.jp",
+    "s": "goo 辞書 英和/和英",
+    "t": "gode",
+    "u": "https://dictionary.goo.ne.jp/word/en/{{{s}}}/"
+  },
+  {
+    "d": "www.gutsofdarkness.com",
+    "s": "Guts of Darkness",
+    "t": "god",
+    "u": "http://www.gutsofdarkness.com/god/recherche.php?r1={{{s}}}"
+  },
+  {
+    "d": "dictionary.goo.ne.jp",
+    "s": "goo 辞書 英和/和英",
+    "t": "godj",
+    "u": "https://dictionary.goo.ne.jp/srch/jn/{{{s}}}/m1u/"
+  },
+  {
+    "d": "godoc.org",
+    "s": "GoDoc",
+    "t": "godoc",
+    "u": "https://godoc.org/?q={{{s}}}"
+  },
+  {
+    "d": "docs.godotengine.org",
+    "s": "Godot Docs",
+    "t": "godot",
+    "u": "http://docs.godotengine.org/en/stable/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "godotengine.org",
+    "s": "Godot Engine Q&A",
+    "t": "godotqa",
+    "u": "https://godotengine.org/qa/search?q={{{s}}}"
+  },
+  {
+    "d": "dictionary.goo.ne.jp",
+    "s": "goo 辞書 類語",
+    "t": "gods",
+    "u": "https://dictionary.goo.ne.jp/thsrs/3913/meaning/m1u/{{{s}}}/"
+  },
+  {
+    "d": "wiki.godvillegame.com",
+    "s": "Godville Wiki",
+    "t": "godville",
+    "u": "http://wiki.godvillegame.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.goettingen.de",
+    "s": "Stadtportal Göttingen",
+    "t": "goe",
+    "u": "https://www.goettingen.de/portalsuche.html?keyword={{{s}}}"
+  },
+  {
+    "d": "www.wiki-goettingen.de",
+    "s": "Wiki Göttingen",
+    "t": "goettingen",
+    "u": "http://www.wiki-goettingen.de/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.gofundme.com",
+    "s": "GoFundMe",
+    "t": "gofundme",
+    "u": "http://www.gofundme.com/mvc.php?route=search&term={{{s}}}"
+  },
+  {
+    "d": "www.gogdb.org",
+    "s": "GOG Database",
+    "t": "gogdb",
+    "u": "https://www.gogdb.org/products?search={{{s}}}"
+  },
+  {
+    "d": "www.gog.com",
+    "s": "GOG.com",
+    "t": "gog",
+    "u": "https://www.gog.com/games?search={{{s}}}"
+  },
+  {
+    "d": "mail.google.com",
+    "s": "Gmail",
+    "t": "go",
+    "u": "https://mail.google.com/mail/u/0/#search/{{{s}}}"
+  },
+  {
+    "d": "www.goodgopher.com",
+    "s": "GoodGopher",
+    "t": "gogo",
+    "u": "http://www.goodgopher.com/SearchResults.asp?query={{{s}}}&pr=GG"
+  },
+  {
+    "d": "gunsoficarusonline.fandom.com",
+    "s": "Guns of Icarus Wiki",
+    "t": "goiw",
+    "u": "https://gunsoficarusonline.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "gokifu.com",
+    "s": "gokifu.com",
+    "t": "gokifu",
+    "u": "http://gokifu.com/index.php?q={{{s}}}"
+  },
+  {
+    "d": "golang.org",
+    "s": "Go Programming Language",
+    "t": "golang",
+    "u": "http://golang.org/search?q={{{s}}}"
+  },
+  {
+    "d": "golden.com",
+    "s": "golden.com",
+    "t": "golden",
+    "u": "https://golden.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.goldenline.pl",
+    "s": "GoldenLine",
+    "t": "goldenline",
+    "u": "http://www.goldenline.pl/szukaj/?q={{{s}}}"
+  },
+  {
+    "d": "www.goldenmoustache.com",
+    "s": "Golden Moustache",
+    "t": "goldenmoustache",
+    "u": "http://www.goldenmoustache.com/?s={{{s}}}"
+  },
+  {
+    "d": "goldbook.iupac.org",
+    "s": "IUPAC Gold Book",
+    "t": "gold",
+    "u": "http://goldbook.iupac.org/terms/search/{{{s}}}"
+  },
+  {
+    "d": "suche.golem.de",
+    "s": "Golem.de",
+    "t": "golem",
+    "u": "http://suche.golem.de/search.php?l=10&q={{{s}}}"
+  },
+  {
+    "d": "www.golfparks.ch",
+    "s": "Golfparks Migros",
+    "t": "golfparks",
+    "u": "http://www.golfparks.ch/de/suche?q={{{s}}}"
+  },
+  {
+    "d": "www.gamingonlinux.com",
+    "s": "GamingOnLinux",
+    "t": "gol",
+    "u": "http://www.gamingonlinux.com/index.php?module=search&q={{{s}}}"
+  },
+  {
+    "d": "golivelively.com",
+    "s": "Go Live Lively",
+    "t": "golivelively",
+    "u": "http://golivelively.com/tag/{{{s}}}"
+  },
+  {
+    "d": "gossiponthis.com",
+    "s": "Gossip on This",
+    "t": "gonthis",
+    "u": "http://gossiponthis.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.gonutss.com",
+    "s": "gonutss.com",
+    "t": "gonutss",
+    "u": "https://www.gonutss.com/s?q={{{s}}}"
+  },
+  {
+    "d": "m.banggood.com",
+    "s": "Banggood",
+    "t": "good",
+    "u": "https://m.banggood.com/search/{{{s}}}.html"
+  },
+  {
+    "d": "goodfeeds.net",
+    "s": "GoodFeeds",
+    "t": "goodfeeds",
+    "u": "https://goodfeeds.net/search?q={{{s}}}"
+  },
+  {
+    "d": "goodfil.ms",
+    "s": "Goodfil.ms",
+    "t": "goodfilms",
+    "u": "http://goodfil.ms/search?term={{{s}}}"
+  },
+  {
+    "d": "www.goodfood.com.au",
+    "s": "Good Food Australia recipes",
+    "t": "goodfoodau",
+    "u": "https://www.goodfood.com.au/search?text={{{s}}}&type=recipe"
+  },
+  {
+    "d": "goodgopher.com",
+    "s": "GoodGopher",
+    "t": "goodg",
+    "u": "http://goodgopher.com/SearchResults.asp?query={{{s}}}&pr=GG"
+  },
+  {
+    "d": "www.thegoodguys.com.au",
+    "s": "The Good Guys",
+    "t": "goodguys",
+    "u": "https://www.thegoodguys.com.au/SearchDisplay?categoryId=&storeId=900&catalogId=30000&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&orderBy=0&pageSize=60&searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.goodreads.com",
+    "s": "GoodReads",
+    "t": "goodreads",
+    "u": "http://www.goodreads.com/search/search?search_type=books&search[query]={{{s}}}"
+  },
+  {
+    "d": "www.goodreads.com",
+    "s": "Goodreads Lists",
+    "t": "goodreadslist",
+    "u": "https://www.goodreads.com/search?search_type=lists&q={{{s}}}"
+  },
+  {
+    "d": "www.goodsearch.com",
+    "s": "GoodSearch",
+    "t": "goodsearch",
+    "u": "http://www.goodsearch.com/search-web?keywords={{{s}}}"
+  },
+  {
+    "d": "www.google.be",
+    "s": "Google Belgium",
+    "t": "googlebe",
+    "u": "https://www.google.be/#q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Books",
+    "t": "googlebooks",
+    "u": "https://www.google.com/search?tbm=bks&q={{{s}}}"
+  },
+  {
+    "d": "www.google.ch",
+    "s": "Google Suisse/Schweiz/Switzerland",
+    "t": "googlech",
+    "u": "https://www.google.ch/search?q={{{s}}}"
+  },
+  {
+    "d": "fonts.google.com",
+    "s": "Google Fonts",
+    "t": "googlefonts",
+    "u": "https://fonts.google.com/?query={{{s}}}"
+  },
+  {
+    "d": "www.google.fr",
+    "s": "Google France",
+    "t": "googlefr",
+    "u": "https://www.google.fr/#q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google",
+    "t": "google",
+    "u": "https://www.google.com/search?q={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Images",
+    "t": "googleimages",
+    "u": "http://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Image",
+    "t": "googleimg",
+    "u": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1"
+  },
+  {
+    "d": "www.google.co.in",
+    "s": "duckduckgo",
+    "t": "googlein",
+    "u": "https://www.google.co.in/search?q={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "www.google.it",
+    "t": "googleit",
+    "u": "https://google.com/search?hl=it&q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.jp",
+    "s": "Google Japan",
+    "t": "googlejp",
+    "u": "https://www.google.co.jp/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.kr",
+    "s": "Google Korea",
+    "t": "google.kr",
+    "u": "https://www.google.co.kr/?gws_rd=cr&ei=GEnlVfT8BMOJuQT8tLPYDg={{{s}}}"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Maps",
+    "t": "googlemap",
+    "u": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Maps",
+    "t": "googlemaps",
+    "u": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.au",
+    "s": "Google Australia",
+    "t": "googleoz",
+    "u": "https://www.google.com.au/#q={{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Store",
+    "t": "googleplay",
+    "u": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.pl",
+    "s": "Google poland",
+    "t": "googlepl",
+    "u": "https://www.google.pl/#q={{{s}}}"
+  },
+  {
+    "d": "www.google.pt",
+    "s": "Google Portugal",
+    "t": "googlept",
+    "u": "https://www.google.pt/search?hl=pt_pt&q={{{s}}}"
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar",
+    "t": "googlescholar",
+    "u": "http://scholar.google.com/scholar?hl=en&q={{{s}}}"
+  },
+  {
+    "d": "google.se",
+    "s": "Google Sweden",
+    "t": "googlese",
+    "u": "http://google.se/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.sv",
+    "s": "Google El Salvador",
+    "t": "googlesv",
+    "u": "https://www.google.com.sv/#q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.tr",
+    "s": "Google Turkey",
+    "t": "googletr",
+    "u": "https://www.google.com.tr/search?q={{{s}}} "
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google UK",
+    "t": "googleuk",
+    "u": "http://www.google.co.uk/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "search.goo.ne.jp",
+    "s": "goo検索",
+    "t": "goo",
+    "u": "http://search.goo.ne.jp/web.jsp?MT={{{s}}}&IE=UTF-8&OE=UTF-8"
+  },
+  {
+    "d": "www.google.com",
+    "s": "unencrypted google search",
+    "t": "goog",
+    "u": "http://www.google.com/?q={{{s}}}"
+  },
+  {
+    "d": "dictionary.goo.ne.jp",
+    "s": "Goo Jisho",
+    "t": "gooj",
+    "u": "http://dictionary.goo.ne.jp/srch/all/{{{s}}}/m0u/"
+  },
+  {
+    "d": "dictionary.goo.ne.jp",
+    "s": "Goo国語辞典検索",
+    "t": "gookokugo",
+    "u": "http://dictionary.goo.ne.jp/srch/jn/{{{s}}} /m0u/"
+  },
+  {
+    "d": "thegooodshop.com",
+    "s": "The Goood Shop",
+    "t": "goood",
+    "u": "https://thegooodshop.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "goosh.org",
+    "s": "Goosh",
+    "t": "goosh",
+    "u": "http://goosh.org/#{{{s}}}"
+  },
+  {
+    "d": "goout.net",
+    "s": "Go Out BRNO",
+    "t": "gooutbrno",
+    "u": "https://goout.net/cs/brno/#\"?\":\"{{{s}}}\""
+  },
+  {
+    "d": "goout.net",
+    "s": "Go Out PRAGUE",
+    "t": "gooutprague",
+    "u": "https://goout.net/cs/praha/#\"?\":\"{{{s}}}\""
+  },
+  {
+    "d": "gopher.floodgap.com",
+    "s": "Floodgap Gopher Proxy",
+    "t": "gopher",
+    "u": "http://gopher.floodgap.com/gopher/gw?ss=gopher%3A%2F%2Fgopher.floodgap.com%3A70%2F7%2Fv2%2Fvs&sq={{{s}}}"
+  },
+  {
+    "d": "golang.org",
+    "s": "golang.org",
+    "t": "gopkg",
+    "u": "https://golang.org/pkg/{{{s}}}"
+  },
+  {
+    "d": "www.goproblog.nl",
+    "s": "GoPro Blog",
+    "t": "goproblog",
+    "u": "https://www.goproblog.nl/component/search/?searchword={{{s}}}"
+  },
+  {
+    "d": "www.legorafi.fr",
+    "s": "Le Gorafi",
+    "t": "gorafi",
+    "u": "http://www.legorafi.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.gorila.sk",
+    "s": "Gorila",
+    "t": "gorila",
+    "u": "https://www.gorila.sk/vyhladavanie?q={{{s}}}"
+  },
+  {
+    "d": "www.gorillasports.de",
+    "s": "Gorilla Sports",
+    "t": "gorilla",
+    "u": "https://www.gorillasports.de/search?page=search&page_action=query&desc=on&sdesc=on&keywords={{{s}}}"
+  },
+  {
+    "d": "go-search.org",
+    "s": "Go Search",
+    "t": "go-search",
+    "u": "http://go-search.org/search?q={{{s}}}"
+  },
+  {
+    "d": "guruofsales.com",
+    "s": "Guru Of Sales",
+    "t": "gos",
+    "u": "http://guruofsales.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.gospell.org",
+    "s": "Gospell",
+    "t": "gospell",
+    "u": "http://www.gospell.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.numbergossip.com",
+    "s": "Number Gossip",
+    "t": "gossip",
+    "u": "http://www.numbergossip.com/?number={{{s}}}"
+  },
+  {
+    "d": "www.google.com.sv",
+    "s": "Google El Salvador",
+    "t": "gosv",
+    "u": "https://www.google.com.sv/#q={{{s}}}"
+  },
+  {
+    "d": "gathering.tweakers.net",
+    "s": "Gathering of Tweakers",
+    "t": "got",
+    "u": "http://gathering.tweakers.net/forum/find?keyword={{{s}}}"
+  },
+  {
+    "d": "gothere.sg",
+    "s": "gothere.sg",
+    "t": "gothere",
+    "u": "https://gothere.sg/maps#q:{{{s}}}"
+  },
+  {
+    "d": "almanach.worldofgothic.de",
+    "s": "Gothic-Almanach",
+    "t": "gothic",
+    "u": "https://almanach.worldofgothic.de/index.php/Spezial:Suche?search={{{s}}}"
+  },
+  {
+    "d": "goto.google.com",
+    "s": "Goto Google link shortener",
+    "t": "goto",
+    "u": "https://goto.google.com/{{{s}}}"
+  },
+  {
+    "d": "www.gotquestions.org",
+    "s": "GotQuestions",
+    "t": "gotquestions",
+    "u": "https://www.gotquestions.org/search.php?zoom_query={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "/r/globaloffensivetrade",
+    "t": "gotrade",
+    "u": "https://www.reddit.com/r/GlobalOffensiveTrade/search?q={{{s}}}&restrict_sr=on&sort=new&t=all"
+  },
+  {
+    "d": "www.gouletpens.com",
+    "s": "Goulet Pen Company",
+    "t": "gouletpens",
+    "u": "https://www.gouletpens.com/pages/search-results?limit=24&q={{{s}}}"
+  },
+  {
+    "d": "www.gouletpens.com",
+    "s": "The Goulet Pen Company",
+    "t": "goulet",
+    "u": "https://www.gouletpens.com/pages/search-results?limit=24&q={{{s}}}"
+  },
+  {
+    "d": "search.usa.gov",
+    "s": "US Government Image Search",
+    "t": "govimages",
+    "u": "https://search.usa.gov/search/images?affiliate=usagov&query={{{s}}}"
+  },
+  {
+    "d": "www.govtrack.us",
+    "s": "govtrack.us",
+    "t": "govtrack",
+    "u": "http://www.govtrack.us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.gov.uk",
+    "s": "GOV.UK",
+    "t": "gov.uk",
+    "u": "https://www.gov.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.gov.uk",
+    "s": "GOV.UK",
+    "t": "govuk",
+    "u": "https://www.gov.uk/search?q= {{{s}}}"
+  },
+  {
+    "d": "search.usa.gov",
+    "s": "US Government Search",
+    "t": "gov",
+    "u": "https://search.usa.gov/search?affiliate=usagov&query={{{s}}}"
+  },
+  {
+    "d": "www.gowifi.co.nz",
+    "s": "Go Wireless NZ",
+    "t": "gowifi",
+    "u": "http://www.gowifi.co.nz/product-search.html?keyword={{{s}}}"
+  },
+  {
+    "d": "packages.gentoo.org",
+    "s": "Gentoo Packages",
+    "t": "gpackages",
+    "u": "https://packages.gentoo.org/packages/search?q={{{s}}} "
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace Africa",
+    "t": "gpafrica",
+    "u": "http://www.greenpeace.org/africa/en/Search-results/?all={{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Apps",
+    "t": "gpa",
+    "u": "https://play.google.com/store/search?q={{{s}}}&c=apps"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Patents",
+    "t": "gpat",
+    "u": "http://www.google.com/patents?q={{{s}}}&btnG=Search+Patents"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace Australia",
+    "t": "gpau",
+    "u": "http://www.greenpeace.org/australia/en/System-templates/Site-Settings-Pages/Search/?all={{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Books",
+    "t": "gpb",
+    "u": "https://play.google.com/store/search?c=books&q={{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace Canada (French)",
+    "t": "gpcanfr",
+    "u": "http://www.greenpeace.org/canada/fr/System-templates/Site-Settings-Pages/Recherche/?all={{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace Canada",
+    "t": "gpcan",
+    "u": "http://www.greenpeace.org/canada/en/System-templates/Site-Settings-Pages/Search/?all={{{s}}}"
+  },
+  {
+    "d": "go.pkgdoc.org",
+    "s": "GoPkgDoc",
+    "t": "gpd",
+    "u": "http://go.pkgdoc.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.gpdp.it",
+    "s": "Garante Privacy",
+    "t": "gpdp",
+    "u": "https://www.gpdp.it/home/ricerca/-/search/key/{{{s}}}"
+  },
+  {
+    "d": "gpodder.net",
+    "s": "gpodder.net",
+    "t": "gpdr",
+    "u": "https://gpodder.net/search/?q={{{s}}} "
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace East Asia",
+    "t": "gpea",
+    "u": "http://www.greenpeace.org/eastasia/system-templates/search-results/?all={{{s}}}"
+  },
+  {
+    "d": "www.google.com.pe",
+    "s": "Google PE",
+    "t": "gpe",
+    "u": "http://www.google.com.pe/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.gouletpens.com",
+    "s": "The Goulet Pen Company",
+    "t": "gpens",
+    "u": "https://www.gouletpens.com/pages/search-results?q={{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace EU Unit",
+    "t": "gpeu",
+    "u": "http://www.greenpeace.org/eu-unit/en/System-templates/such-resultate/?all={{{s}}}"
+  },
+  {
+    "d": "http-keys.gnupg.net",
+    "s": "GPG Key search",
+    "t": "gpg",
+    "u": "http://http-keys.gnupg.net/pks/lookup?op=vindex&search={{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play",
+    "t": "gp",
+    "u": "https://play.google.com/store/search?q={{{s}}}"
+  },
+  {
+    "d": "help.gamepedia.com",
+    "s": "Gamepedia Help Wiki",
+    "t": "gphelp",
+    "u": "https://help.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.google.com.ph",
+    "s": "Google Philippines",
+    "t": "gph",
+    "u": "https://www.google.com.ph/search?hl=en&q={{{s}}}&tbs=ctr:countryPH&cr=countryPH "
+  },
+  {
+    "d": "photos.google.com",
+    "s": "Google Photos",
+    "t": "gphotos",
+    "u": "https://photos.google.com/search/{{{s}}}"
+  },
+  {
+    "d": "glosbe.com",
+    "s": "Glosbe",
+    "t": "gpi",
+    "u": "http://glosbe.com/pl/it/{{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace India",
+    "t": "gpindia",
+    "u": "http://www.greenpeace.org/india/en/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "d": "gpio.co.uk",
+    "s": "GPIO Support Services",
+    "t": "gpio",
+    "u": "https://gpio.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "golang.org",
+    "s": "Go Package Reference",
+    "t": "gpk",
+    "u": "https://golang.org/pkg/{{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Store",
+    "t": "gplay",
+    "u": "https://play.google.com/store/search?q={{{s}}} "
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Music",
+    "t": "gplaym",
+    "u": "https://play.google.com/store/search?q={{{s}}}&c=music"
+  },
+  {
+    "d": "www.google.pl",
+    "s": "Google PL",
+    "t": "gpl",
+    "u": "http://www.google.pl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "plus.google.com",
+    "s": "Google Plus",
+    "t": "gplus",
+    "u": "https://plus.google.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Plus",
+    "t": "gplusp",
+    "u": "http://www.google.com/search?tbs=prfl:e&q={{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Music",
+    "t": "gpm",
+    "u": "https://play.google.com/music/listen#/sr/{{{s}}}"
+  },
+  {
+    "d": "play.google.com",
+    "s": "Google Play Music",
+    "t": "gpmusic",
+    "u": "https://play.google.com/music/listen?u=0#/sr/{{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace New Zealand",
+    "t": "gpnz",
+    "u": "http://www.greenpeace.org/new-zealand/en/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "d": "gpo.zugaina.org",
+    "s": "Gentoo Portage Overlays",
+    "t": "gpo",
+    "u": "http://gpo.zugaina.org/Search?search={{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace Philippines",
+    "t": "gpphilip",
+    "u": "http://www.greenpeace.org/seasia/ph/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "d": "gpsearch.azurewebsites.net",
+    "s": "Group Policy Search",
+    "t": "gpsearch",
+    "u": "http://gpsearch.azurewebsites.net/default.aspx?search={{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace Southeast Asia",
+    "t": "gpseasia",
+    "u": "http://www.greenpeace.org/seasia/System-templates/Search-results/?all={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Product Search",
+    "t": "gps",
+    "u": "https://www.google.com/search?hl=en&tbm=shop&q={{{s}}}"
+  },
+  {
+    "d": "gpsies.de",
+    "s": "GPSies.de",
+    "t": "gpsies",
+    "u": "http://gpsies.de/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.pt",
+    "s": "Google PT",
+    "t": "gpt",
+    "u": "https://www.google.pt/search?q={{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org.uk",
+    "s": "Greenpeace UK",
+    "t": "gpuk",
+    "u": "http://www.greenpeace.org.uk/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.gotquestions.org",
+    "s": "Got Questions",
+    "t": "gq+",
+    "u": "https://www.gotquestions.org/search.php?zoom_query={{{s}}}"
+  },
+  {
+    "d": "www.gq.com",
+    "s": "GQ",
+    "t": "gq",
+    "u": "http://www.gq.com/search?qt=dismax&sort=score+desc&query={{{s}}}"
+  },
+  {
+    "d": "enguayaquil.com",
+    "s": "en Guayaquil",
+    "t": "gquil",
+    "u": "https://enguayaquil.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.nayiri.com",
+    "s": "Classical Armenian to Modern Armenian Dictionary",
+    "t": "grabar",
+    "u": "http://www.nayiri.com/imagedDictionaryBrowser.jsp?dictionaryId=28&dt=HY_HY&query={{{s}}}"
+  },
+  {
+    "d": "grabcad.com",
+    "s": "GrabCAD",
+    "t": "grabcad",
+    "u": "http://grabcad.com/library?per_page=20&query={{{s}}} "
+  },
+  {
+    "d": "thegradcafe.com",
+    "s": "Grad Cafe",
+    "t": "gradcafe",
+    "u": "http://thegradcafe.com/survey/index.php?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Gradle",
+    "t": "gradle",
+    "u": "http://duckduckgo.com/?q=site%3Agradle.org+{{{s}}}"
+  },
+  {
+    "d": "plugins.gradle.org",
+    "s": "gradle plugins",
+    "t": "gradlep",
+    "u": "https://plugins.gradle.org/search?term={{{s}}}"
+  },
+  {
+    "d": "www.grafikart.fr",
+    "s": "Grafikart",
+    "t": "grafikart",
+    "u": "http://www.grafikart.fr/search?q={{{s}}}"
+  },
+  {
+    "d": "www.grailed.com",
+    "s": "grailed",
+    "t": "grailed",
+    "u": "http://www.grailed.com/search?search={{{s}}} "
+  },
+  {
+    "d": "www.grainger.com",
+    "s": "Grainger",
+    "t": "grainger",
+    "u": "http://www.grainger.com/search?nls=1&searchQuery={{{s}}} "
+  },
+  {
+    "d": "grammis.ids-mannheim.de",
+    "s": "Grammis",
+    "t": "grammis",
+    "u": "https://grammis.ids-mannheim.de/suche?search={{{s}}}&research=&research%5B%5D=sysgrams&research%5B%5D=corpora&research%5B%5D=phonos&research%5B%5D=terms&knowledge=&knowledge%5B%5D=questions&knowledge%5B%5D=programs&knowledge%5B%5D=eurograms&knowledge%5B%5D=orthos&ressources=&ressources%5B%5D=connectors&ressources%5B%5D=affixes&ressources%5B%5D=prepositions&ressources%5B%5D=verbs&scat=DuckDuckGo+Bang"
+  },
+  {
+    "d": "gramota.ru",
+    "s": "gramota.ru",
+    "t": "gramota",
+    "u": "http://gramota.ru/slovari/dic/?word={{{s}}}&all=x"
+  },
+  {
+    "d": "graphemica.com",
+    "s": "Graphemica",
+    "t": "graphemica",
+    "u": "http://graphemica.com/search?q={{{s}}}"
+  },
+  {
+    "d": "graph.tk",
+    "s": "Graph.tk",
+    "t": "graph",
+    "u": "http://graph.tk/#{{{s}}}"
+  },
+  {
+    "d": "graphhopper.com",
+    "s": "GraphHopper Maps",
+    "t": "graphhopper",
+    "u": "https://graphhopper.com/maps/?point={{{s}}}&point={{{s}}}"
+  },
+  {
+    "d": "graphicriver.net",
+    "s": "GraphicRiver",
+    "t": "graphicriver",
+    "u": "http://graphicriver.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "d": "archive.org",
+    "s": "Grateful Dead Concerts",
+    "t": "gratefuldead",
+    "u": "http://archive.org/search.php?query={{{s}}}%20AND%20collection%3AGratefulDead"
+  },
+  {
+    "d": "www.findagrave.com",
+    "s": "Find A Grave",
+    "t": "grave",
+    "u": "http://www.findagrave.com/php/famous.php?globalSearchCriteria={{{s}}}"
+  },
+  {
+    "d": "learn.getgrav.org",
+    "s": "learn.getgrav.org",
+    "t": "grav",
+    "u": "https://learn.getgrav.org/search?q={{{s}}}"
+  },
+  {
+    "d": "marketplace.graylog.org",
+    "s": "Graylog Marketplace",
+    "t": "graylog",
+    "u": "https://marketplace.graylog.org/addons?search={{{s}}}"
+  },
+  {
+    "d": "www.grc.com",
+    "s": "GRC Port Authority",
+    "t": "grcp",
+    "u": "https://www.grc.com/port_{{{s}}}.htm"
+  },
+  {
+    "d": "www.goodreads.com",
+    "s": "goodreads",
+    "t": "greads",
+    "u": "https://www.goodreads.com/search?utf8=✓&query={{{s}}}"
+  },
+  {
+    "d": "greasyfork.org",
+    "s": "Greasy Fork",
+    "t": "greasyfork",
+    "u": "https://greasyfork.org/scripts/search?q={{{s}}}"
+  },
+  {
+    "d": "www.grecoantico.com",
+    "s": "Greco olivetti",
+    "t": "greco",
+    "u": "https://www.grecoantico.com/dizionario-greco-antico.php?parola={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Reddit Google search",
+    "t": "greddit",
+    "u": "https://google.com/search?q=site%3Areddit.com+{{{s}}}"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Greek Word Studies",
+    "t": "greek",
+    "u": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=greek#lexicon"
+  },
+  {
+    "d": "www.greentech-news.org",
+    "s": "https://www.greentech-news.org/",
+    "t": "green",
+    "u": "https://www.greentech-news.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.greenpeace.org",
+    "s": "Greenpeace",
+    "t": "greenpeace",
+    "u": "http://www.greenpeace.org/usa/?s={{{s}}}"
+  },
+  {
+    "d": "greensdictofslang.com",
+    "s": "Green's Dictionary of Slang",
+    "t": "greensdic",
+    "u": "https://greensdictofslang.com/search/basic?q={{{s}}}"
+  },
+  {
+    "d": "bigenc.ru",
+    "s": "Great Russian Encyclopedia",
+    "t": "gre",
+    "u": "https://bigenc.ru/search?q={{{s}}}"
+  },
+  {
+    "d": "www.grepmed.com",
+    "s": "grepmed",
+    "t": "grepmed",
+    "u": "https://www.grepmed.com/?q={{{s}}}"
+  },
+  {
+    "d": "goblinrefuge.com",
+    "s": "goblinrefuge.com",
+    "t": "grf",
+    "u": "https://goblinrefuge.com/mediagoblin/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.goodreads.com",
+    "s": "Goodreads",
+    "t": "gr",
+    "u": "https://www.goodreads.com/search?q={{{s}}}"
+  },
+  {
+    "d": "images.google.com",
+    "s": "Google Reverse Image Search",
+    "t": "gri",
+    "u": "https://images.google.com/searchbyimage?image_url={{{s}}} "
+  },
+  {
+    "d": "www.beppegrillo.it",
+    "s": "Blog di Beppe Grillo",
+    "t": "grillo",
+    "u": "http://www.beppegrillo.it/google_cse.html?q={{{s}}}&x=-1208&y=-9"
+  },
+  {
+    "d": "www.grillscatalog.com",
+    "s": "Grills Catalog",
+    "t": "grills",
+    "u": "https://www.grillscatalog.com/?s={{{s}}}"
+  },
+  {
+    "d": "grimdawn.wikia.com",
+    "s": "Grimdawn Wikia",
+    "t": "grimd",
+    "u": "http://grimdawn.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "groenewaterman.mijnboekhandelaar.com",
+    "s": "http://groenewaterman.mijnboekhandelaar.com/",
+    "t": "groene",
+    "u": "http://groenewaterman.mijnboekhandelaar.com/index.php?option=com_mbhbooksearch&Itemid=10008&task=gosearch&query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Le Guide du rôliste galactique",
+    "t": "grog",
+    "u": "https://duckduckgo.com/?q=site%3Alegrog.org+{{{s}}}"
+  },
+  {
+    "d": "www.google.ro",
+    "s": "Google RO",
+    "t": "gro",
+    "u": "http://www.google.ro/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Groovy Documentation",
+    "t": "groovy",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:docs.groovy-lang.org"
+  },
+  {
+    "d": "www.grosbill.com",
+    "s": "GrosBill",
+    "t": "grosbill",
+    "u": "https://www.grosbill.com/catv2.cgi?mode=recherche&recherche={{{s}}}"
+  },
+  {
+    "d": "www.grossoshop.net",
+    "s": "Grossoshop",
+    "t": "grossoshop",
+    "u": "http://www.grossoshop.net/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.grottopress.com",
+    "s": "GrottoPress",
+    "t": "grottopress",
+    "u": "https://www.grottopress.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.groundai.com",
+    "s": "Ground AI",
+    "t": "groundai",
+    "u": "https://www.groundai.com/search/?text={{{s}}}&sort=_score"
+  },
+  {
+    "d": "groupees.com",
+    "s": "Groupees",
+    "t": "groupees",
+    "u": "https://groupees.com/?q={{{s}}}:"
+  },
+  {
+    "d": "www.groupon.com",
+    "s": "Groupon",
+    "t": "groupon",
+    "u": "https://www.groupon.com/browse/?query={{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google Maps Route",
+    "t": "groute",
+    "u": "https://www.google.de/maps/dir/{{{s}}}"
+  },
+  {
+    "d": "www.grouvee.com",
+    "s": "Grouvee",
+    "t": "grouvee",
+    "u": "http://www.grouvee.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "plugins.grails.org",
+    "s": "Grails Plugins",
+    "t": "grp",
+    "u": "http://plugins.grails.org/?query={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.google.rs",
+    "s": "Google RS",
+    "t": "grs",
+    "u": "https://www.google.rs/search?q={{{s}}}"
+  },
+  {
+    "d": "www.grubhub.com",
+    "s": "Grubhub",
+    "t": "grub",
+    "u": "https://www.grubhub.com/search/?cuisine={{{s}}}"
+  },
+  {
+    "d": "www.grubhub.com",
+    "s": "GrubHub",
+    "t": "grubhub",
+    "u": "https://www.grubhub.com/search?queryText={{{s}}}"
+  },
+  {
+    "d": "google.ru",
+    "s": "Google RU",
+    "t": "gru",
+    "u": "https://google.ru/search?hl=ru&q={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Game Grumps",
+    "t": "grumps",
+    "u": "https://www.youtube.com/user/GameGrumps/search?query={{{s}}}"
+  },
+  {
+    "d": "www.gry-online.pl",
+    "s": "Gry-Online",
+    "t": "gryonline",
+    "u": "https://www.gry-online.pl/gry/{{{s}}}/"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (all&safe)",
+    "t": "gsafe",
+    "u": "https://www.google.com/search?hl=all&safe=on&pws=0&q={{{s}}}"
+  },
+  {
+    "d": "www.gsaadvantage.gov",
+    "s": "GSA Advantage",
+    "t": "gsa",
+    "u": "https://www.gsaadvantage.gov/advantage/s/search.do?q=0:0{{{s}}}&db=0&searchType=1"
+  },
+  {
+    "d": "www.google.com.au",
+    "s": "Google Shopping Australia",
+    "t": "gsau",
+    "u": "https://www.google.com.au/search?biw=1920&bih=947&tbm=shop&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.br",
+    "s": "Google Shopping (BR)",
+    "t": "gsbr",
+    "u": "http://www.google.com.br/search?q={{{s}}}&hl=pt-BR&safe=off&biw=1108&bih=651&prmd=imvns&source=univ&tbm=shop&tbo=u&sa=X&ei=ZculTqjGLcvAgQf5n_CxBQ&ved=0CJkBEK0E"
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar",
+    "t": "gsc",
+    "u": "http://scholar.google.com/scholar?q={{{s}}}&btnG=Search&as_sdt=800000000001&as_sdtp=on"
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar",
+    "t": "gsch",
+    "u": "http://scholar.google.com/scholar?&q={{{s}}}"
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar",
+    "t": "gscholar",
+    "u": "http://scholar.google.com/scholar?q={{{s}}}&btnG=Search&as_sdt=800000000001&as_sdtp=on"
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar",
+    "t": "gschol",
+    "u": "http://scholar.google.com/scholar?q={{{s}}} "
+  },
+  {
+    "d": "www.google.se",
+    "s": "Google SE",
+    "t": "gse",
+    "u": "http://www.google.se/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.es",
+    "s": "Google Shopping ES",
+    "t": "gs.es",
+    "u": "https://www.google.es/search?tbm=shop&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.sg",
+    "s": "Google SG",
+    "t": "gsg",
+    "u": "http://www.google.com.sg/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Shopping",
+    "t": "gs",
+    "u": "http://www.google.com/products?q={{{s}}}&sa=N&tab=pf"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Spreadsheets",
+    "t": "gsheet",
+    "u": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Sheets",
+    "t": "gsheets",
+    "u": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Spreadsheets",
+    "t": "gsh",
+    "u": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Shopping",
+    "t": "gshopping",
+    "u": "https://www.google.com/products?q={{{s}}}&sa=N&tab=pf"
+  },
+  {
+    "d": "www.google.si",
+    "s": "Google SI",
+    "t": "gsi",
+    "u": "https://www.google.si/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.it",
+    "s": "Google Shopping IT",
+    "t": "gsit",
+    "u": "https://www.google.it/search?hl=it&tbm=shop&q={{{s}}}"
+  },
+  {
+    "d": "www.google.sk",
+    "s": "Google SK",
+    "t": "gsk",
+    "u": "http://www.google.sk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.com.sl",
+    "s": "Google SL",
+    "t": "gsl",
+    "u": "http://www.google.com.sl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "slides.google.com",
+    "s": "Google Slides",
+    "t": "gslides",
+    "u": "https://slides.google.com/presentation/u/0/?q={{{s}}}"
+  },
+  {
+    "d": "www.gsmarena.com",
+    "s": "GSM Arena",
+    "t": "gsma",
+    "u": "http://www.gsmarena.com/results.php3?sName={{{s}}}"
+  },
+  {
+    "d": "www.gsmarena.com",
+    "s": "GSMArena",
+    "t": "gsmarena",
+    "u": "http://www.gsmarena.com/results.php3?sName={{{s}}}"
+  },
+  {
+    "d": "www.gsmarena.com",
+    "s": "GSMArena",
+    "t": "gsm",
+    "u": "http://www.gsmarena.com/results.php3?sName={{{s}}}"
+  },
+  {
+    "d": "www.gsmpunt.nl",
+    "s": "GSMpunt",
+    "t": "gsmpunt",
+    "u": "https://www.gsmpunt.nl/zoeken?z={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google over StackOverflow",
+    "t": "gso",
+    "u": "https://google.com/search?q=%2B%5Binurl%3Ahttp%3A%2F%2Fstackoverflow.com%5D+{{{s}}}"
+  },
+  {
+    "d": "glammingspace.blogspot.com",
+    "s": "gspace",
+    "t": "gspace",
+    "u": "https://glammingspace.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "de.gegenstandpunkt.com",
+    "s": "GegenStandpunkt Verlage",
+    "t": "gsp",
+    "u": "https://de.gegenstandpunkt.com/artikel/suche?modus=AND&volltextsuche={{{s}}}"
+  },
+  {
+    "d": "www.gsport.no",
+    "s": "G-Sport",
+    "t": "gsport",
+    "u": "https://www.gsport.no/magento/sok?q={{{s}}}"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Spreadsheets",
+    "t": "gspreadsheets",
+    "u": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}"
+  },
+  {
+    "d": "www.gradesource.com",
+    "s": "Gradesource",
+    "t": "gsrc",
+    "u": "http://www.gradesource.com/findcourse.asp?sb=C&name={{{s}}}&st=0&x=0&y=0"
+  },
+  {
+    "d": "google.com",
+    "s": "Google with SSL",
+    "t": "gssl",
+    "u": "https://google.com/search?q={{{s}}}"
+  },
+  {
+    "d": "store.google.com",
+    "s": "Google Store",
+    "t": "gstore",
+    "u": "https://store.google.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google Shopping UK",
+    "t": "gsuk",
+    "u": "http://www.google.co.uk/search?q={{{s}}}&tbm=shop"
+  },
+  {
+    "d": "support.google.com",
+    "s": "Google Support",
+    "t": "gsupport",
+    "u": "https://support.google.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Shopping US",
+    "t": "gsus",
+    "u": "https://www.google.com/search?tbm=shop&q={{{s}}}&gws_rd=cr"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Swedish",
+    "t": "gsv",
+    "u": "https://google.com/search?hl=sv&q={{{s}}}"
+  },
+  {
+    "d": "wiki.greasespot.net",
+    "s": "GreaseSpot Wiki",
+    "t": "gsw",
+    "u": "https://wiki.greasespot.net/index.php?title=Special%3ASearch&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Shopping Express",
+    "t": "gsx",
+    "u": "https://www.google.com/shopping/express/#SearchResultsPlace:s=0&c=24&q={{{s}}}"
+  },
+  {
+    "d": "www.ultimate-guitar.com",
+    "s": "Ultimate Guitar",
+    "t": "gtabs",
+    "u": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Afrikaans",
+    "t": "gtaf",
+    "u": "https://translate.google.com/#auto/af/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Afrikaans",
+    "t": "gt-afrikaans",
+    "u": "https://translate.google.com/#auto/af/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Afrikaans",
+    "t": "gtafrikaans",
+    "u": "https://translate.google.com/#auto/af/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Albanian",
+    "t": "gt-albanian",
+    "u": "https://translate.google.com/#auto/sq/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Albanian",
+    "t": "gtalbanian",
+    "u": "https://translate.google.com/#auto/sq/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Arabic",
+    "t": "gt-arabic",
+    "u": "https://translate.google.com/#auto/ar/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Arabic",
+    "t": "gtarabic",
+    "u": "https://translate.google.com/#auto/ar/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Arabic",
+    "t": "gtar",
+    "u": "https://translate.google.com/#auto/ar/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Armenian",
+    "t": "gt-armenian",
+    "u": "https://translate.google.com/#auto/hy/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Armenian",
+    "t": "gtarmenian",
+    "u": "https://translate.google.com/#auto/hy/{{{s}}}"
+  },
+  {
+    "d": "www.gumtree.com.au",
+    "s": "Gumtree Australia",
+    "t": "gtau",
+    "u": "http://www.gumtree.com.au/s-{{{s}}}/k0"
+  },
+  {
+    "d": "gta.fandom.com",
+    "s": "GTA Wiki",
+    "t": "gtawiki",
+    "u": "https://gta.fandom.com/search?query={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Azerbaijani",
+    "t": "gtaz",
+    "u": "https://translate.google.com/#auto/az/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Azerbaijani",
+    "t": "gt-azerbaijani",
+    "u": "https://translate.google.com/#auto/az/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Azerbaijani",
+    "t": "gtazerbaijani",
+    "u": "https://translate.google.com/#auto/az/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Basque",
+    "t": "gt-basque",
+    "u": "https://translate.google.com/#auto/eu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Basque",
+    "t": "gtbasque",
+    "u": "https://translate.google.com/#auto/eu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Belarusian",
+    "t": "gtbe",
+    "u": "https://translate.google.com/#auto/be/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Belarusian",
+    "t": "gt-belarusian",
+    "u": "https://translate.google.com/#auto/be/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Belarusian",
+    "t": "gtbelarusian",
+    "u": "https://translate.google.com/#auto/be/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bengali",
+    "t": "gt-bengali",
+    "u": "https://translate.google.com/#auto/bn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bengali",
+    "t": "gtbengali",
+    "u": "https://translate.google.com/#auto/bn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bulgarian",
+    "t": "gtbg",
+    "u": "https://translate.google.com/#auto/bg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bengali",
+    "t": "gtbn",
+    "u": "https://translate.google.com/#auto/bn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bosnian",
+    "t": "gt-bosnian",
+    "u": "https://translate.google.com/#auto/bs/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bosnian",
+    "t": "gtbosnian",
+    "u": "https://translate.google.com/#auto/bs/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bosnian",
+    "t": "gtbs",
+    "u": "https://translate.google.com/#auto/bs/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bulgarian",
+    "t": "gt-bulgarian",
+    "u": "https://translate.google.com/#auto/bg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Bulgarian",
+    "t": "gtbulgarian",
+    "u": "https://translate.google.com/#auto/bg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Catalan",
+    "t": "gtca",
+    "u": "https://translate.google.com/#auto/ca/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Catalan",
+    "t": "gt-catalan",
+    "u": "https://translate.google.com/#auto/ca/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Catalan",
+    "t": "gtcatalan",
+    "u": "https://translate.google.com/#auto/ca/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Cebuano",
+    "t": "gtceb",
+    "u": "https://translate.google.com/#auto/ceb/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Cebuano",
+    "t": "gt-cebuano",
+    "u": "https://translate.google.com/#auto/ceb/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Cebuano",
+    "t": "gtcebuano",
+    "u": "https://translate.google.com/#auto/ceb/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Chichewa",
+    "t": "gt-chichewa",
+    "u": "https://translate.google.com/#auto/ny/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Chichewa",
+    "t": "gtchichewa",
+    "u": "https://translate.google.com/#auto/ny/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Chinese",
+    "t": "gt-chinese",
+    "u": "https://translate.google.com/#auto/zh-CN/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Chinese",
+    "t": "gtchinese",
+    "u": "https://translate.google.com/#auto/zh-CN/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Croatian",
+    "t": "gt-croatian",
+    "u": "https://translate.google.com/#auto/hr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Croatian",
+    "t": "gtcroatian",
+    "u": "https://translate.google.com/#auto/hr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Czech",
+    "t": "gtcs",
+    "u": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Welsh",
+    "t": "gtcy",
+    "u": "https://translate.google.com/#auto/cy/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Czech",
+    "t": "gtcz",
+    "u": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Czech",
+    "t": "gt-czech",
+    "u": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Czech",
+    "t": "gtczech",
+    "u": "https://translate.google.com/#auto/cs/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Danish",
+    "t": "gtda",
+    "u": "https://translate.google.com/#auto/da/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Danish",
+    "t": "gt-danish",
+    "u": "https://translate.google.com/#auto/da/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Danish",
+    "t": "gtdanish",
+    "u": "https://translate.google.com/#auto/da/{{{s}}}"
+  },
+  {
+    "d": "www.grimtools.com",
+    "s": "Grimtools",
+    "t": "gtdb",
+    "u": "https://www.grimtools.com/db/search?query={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to German",
+    "t": "gtde",
+    "u": "https://translate.google.com/#auto/de/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Dutch",
+    "t": "gt-dutch",
+    "u": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Dutch",
+    "t": "gtdutch",
+    "u": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Greek",
+    "t": "gtel",
+    "u": "https://translate.google.com/#auto/el/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to English",
+    "t": "gten",
+    "u": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "gtenfr",
+    "u": "https://translate.google.com/#en/fr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate en-ga",
+    "t": "gtenga",
+    "u": "https://translate.google.com/#en/ga/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to English",
+    "t": "gt-english",
+    "u": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to English",
+    "t": "gtenglish",
+    "u": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate en->it",
+    "t": "gtenit",
+    "u": "https://translate.google.com/#en/it/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Esperanto",
+    "t": "gteo",
+    "u": "https://translate.google.com/#auto/eo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Spanish",
+    "t": "gtes",
+    "u": "https://translate.google.com/#auto/es/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Esperanto",
+    "t": "gt-esperanto",
+    "u": "https://translate.google.com/#auto/eo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Esperanto",
+    "t": "gtesperanto",
+    "u": "https://translate.google.com/#auto/eo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Estonian",
+    "t": "gt-estonian",
+    "u": "https://translate.google.com/#auto/et/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Estonian",
+    "t": "gtestonian",
+    "u": "https://translate.google.com/#auto/et/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Estonian",
+    "t": "gtet",
+    "u": "https://translate.google.com/#auto/et/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Basque",
+    "t": "gteu",
+    "u": "https://translate.google.com/#auto/eu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Persian",
+    "t": "gtfa",
+    "u": "https://translate.google.com/#auto/fa/{{{s}}}"
+  },
+  {
+    "d": "www.glocktalk.com",
+    "s": "GlockTalk Forums",
+    "t": "gtf",
+    "u": "https://www.glocktalk.com/search/10717176/?q={{{s}}}&o=date"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Finnish",
+    "t": "gtfi",
+    "u": "https://translate.google.com/#auto/fi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Filipino",
+    "t": "gt-filipino",
+    "u": "https://translate.google.com/#auto/tl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Filipino",
+    "t": "gtfilipino",
+    "u": "https://translate.google.com/#auto/tl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Finnish",
+    "t": "gt-finnish",
+    "u": "https://translate.google.com/#auto/fi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Finnish",
+    "t": "gtfinnish",
+    "u": "https://translate.google.com/#auto/fi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to French",
+    "t": "gtfr",
+    "u": "https://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to French",
+    "t": "gt-french",
+    "u": "https://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to French",
+    "t": "gtfrench",
+    "u": "https://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Irish",
+    "t": "gtga",
+    "u": "https://translate.google.com/#auto/ga/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Galician",
+    "t": "gt-galician",
+    "u": "https://translate.google.com/#auto/gl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Galician",
+    "t": "gtgalician",
+    "u": "https://translate.google.com/#auto/gl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Georgian",
+    "t": "gt-georgian",
+    "u": "https://translate.google.com/#auto/ka/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Georgian",
+    "t": "gtgeorgian",
+    "u": "https://translate.google.com/#auto/ka/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to German",
+    "t": "gt-german",
+    "u": "https://translate.google.com/#auto/de/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to German",
+    "t": "gtgerman",
+    "u": "https://translate.google.com/#auto/de/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Galician",
+    "t": "gtgl",
+    "u": "https://translate.google.com/#auto/gl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "gt",
+    "u": "https://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Greek",
+    "t": "gtgr",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=auto&tl=el&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Greek",
+    "t": "gt-greek",
+    "u": "https://translate.google.com/#auto/el/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Greek",
+    "t": "gtgreek",
+    "u": "https://translate.google.com/#auto/el/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Gujarati",
+    "t": "gtgu",
+    "u": "https://translate.google.com/#auto/gu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Gujarati",
+    "t": "gt-gujarati",
+    "u": "https://translate.google.com/#auto/gu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Gujarati",
+    "t": "gtgujarati",
+    "u": "https://translate.google.com/#auto/gu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hausa",
+    "t": "gtha",
+    "u": "https://translate.google.com/#auto/ha/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Haitian Creole",
+    "t": "gthaitiancreole",
+    "u": "https://translate.google.com/#auto/ht/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hausa",
+    "t": "gt-hausa",
+    "u": "https://translate.google.com/#auto/ha/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hausa",
+    "t": "gthausa",
+    "u": "https://translate.google.com/#auto/ha/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hebrew",
+    "t": "gt-hebrew",
+    "u": "https://translate.google.com/#auto/iw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hebrew",
+    "t": "gthebrew",
+    "u": "https://translate.google.com/#auto/iw/{{{s}}}"
+  },
+  {
+    "d": "www.google.co.th",
+    "s": "Google TH",
+    "t": "gth",
+    "u": "http://www.google.co.th/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hindi",
+    "t": "gthi",
+    "u": "https://translate.google.com/#auto/hi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hindi",
+    "t": "gt-hindi",
+    "u": "https://translate.google.com/#auto/hi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hindi",
+    "t": "gthindi",
+    "u": "https://translate.google.com/#auto/hi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hmong",
+    "t": "gthmn",
+    "u": "https://translate.google.com/#auto/hmn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hmong",
+    "t": "gt-hmong",
+    "u": "https://translate.google.com/#auto/hmn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hmong",
+    "t": "gthmong",
+    "u": "https://translate.google.com/#auto/hmn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Croatian",
+    "t": "gthr",
+    "u": "https://translate.google.com/#auto/hr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Haitian Creole",
+    "t": "gtht",
+    "u": "https://translate.google.com/#auto/ht/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hungarian",
+    "t": "gthu",
+    "u": "https://translate.google.com/#auto/hu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hungarian",
+    "t": "gt-hungarian",
+    "u": "https://translate.google.com/#auto/hu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hungarian",
+    "t": "gthungarian",
+    "u": "https://translate.google.com/#auto/hu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Armenian",
+    "t": "gthy",
+    "u": "https://translate.google.com/#auto/hy/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Icelandic",
+    "t": "gt-icelandic",
+    "u": "https://translate.google.com/#auto/is/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Icelandic",
+    "t": "gticelandic",
+    "u": "https://translate.google.com/#auto/is/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Indonesian",
+    "t": "gtid",
+    "u": "https://translate.google.com/#auto/id/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Igbo",
+    "t": "gt-igbo",
+    "u": "https://translate.google.com/#auto/ig/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Igbo",
+    "t": "gtigbo",
+    "u": "https://translate.google.com/#auto/ig/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Igbo",
+    "t": "gtig",
+    "u": "https://translate.google.com/#auto/ig/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Indonesian",
+    "t": "gt-indonesian",
+    "u": "https://translate.google.com/#auto/id/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Indonesian",
+    "t": "gtindonesian",
+    "u": "https://translate.google.com/#auto/id/{{{s}}}"
+  },
+  {
+    "d": "www.gepir.de",
+    "s": "GEPIR Suche",
+    "t": "gtin",
+    "u": "https://www.gepir.de/?search={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Irish",
+    "t": "gt-irish",
+    "u": "https://translate.google.com/#auto/ga/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Irish",
+    "t": "gtirish",
+    "u": "https://translate.google.com/#auto/ga/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Icelandic",
+    "t": "gtis",
+    "u": "https://translate.google.com/#auto/is/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Italian",
+    "t": "gt-italian",
+    "u": "https://translate.google.com/#auto/it/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Italian",
+    "t": "gtitalian",
+    "u": "https://translate.google.com/#auto/it/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Italian",
+    "t": "gtit",
+    "u": "https://translate.google.com/#auto/it/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate it->en",
+    "t": "gtiten",
+    "u": "https://translate.google.com/#it/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Hebrew",
+    "t": "gtiw",
+    "u": "https://translate.google.com/#auto/iw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Japanese",
+    "t": "gtja",
+    "u": "https://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Japanese",
+    "t": "gt-japanese",
+    "u": "https://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Japanese",
+    "t": "gtjapanese",
+    "u": "https://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Javanese",
+    "t": "gt-javanese",
+    "u": "https://translate.google.com/#auto/jw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Javanese",
+    "t": "gtjavanese",
+    "u": "https://translate.google.com/#auto/jw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate to Japanese",
+    "t": "gtjp",
+    "u": "http://translate.google.com/#auto/ja/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Javanese",
+    "t": "gtjw",
+    "u": "https://translate.google.com/#auto/jw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Georgian",
+    "t": "gtka",
+    "u": "https://translate.google.com/#auto/ka/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Kannada",
+    "t": "gt-kannada",
+    "u": "https://translate.google.com/#auto/kn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Kannada",
+    "t": "gtkannada",
+    "u": "https://translate.google.com/#auto/kn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Kazakh",
+    "t": "gt-kazakh",
+    "u": "https://translate.google.com/#auto/kk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Kazakh",
+    "t": "gtkazakh",
+    "u": "https://translate.google.com/#auto/kk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Khmer",
+    "t": "gt-khmer",
+    "u": "https://translate.google.com/#auto/km/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Khmer",
+    "t": "gtkhmer",
+    "u": "https://translate.google.com/#auto/km/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Kazakh",
+    "t": "gtkk",
+    "u": "https://translate.google.com/#auto/kk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Khmer",
+    "t": "gtkm",
+    "u": "https://translate.google.com/#auto/km/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Kannada",
+    "t": "gtkn",
+    "u": "https://translate.google.com/#auto/kn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Korean",
+    "t": "gtko",
+    "u": "https://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Korean",
+    "t": "gt-korean",
+    "u": "https://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Korean",
+    "t": "gtkorean",
+    "u": "https://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate to Korean",
+    "t": "gtkr",
+    "u": "http://translate.google.com/#auto/ko/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Latin",
+    "t": "gtla",
+    "u": "https://translate.google.com/#auto/la/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "gtlanl",
+    "u": "https://translate.google.com/#la/nl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Lao",
+    "t": "gt-lao",
+    "u": "https://translate.google.com/#auto/lo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Lao",
+    "t": "gtlao",
+    "u": "https://translate.google.com/#auto/lo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Latin",
+    "t": "gt-latin",
+    "u": "https://translate.google.com/#auto/la/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Latin",
+    "t": "gtlatin",
+    "u": "https://translate.google.com/#auto/la/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Latvian",
+    "t": "gt-latvian",
+    "u": "https://translate.google.com/#auto/lv/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Latvian",
+    "t": "gtlatvian",
+    "u": "https://translate.google.com/#auto/lv/{{{s}}}"
+  },
+  {
+    "d": "gatech-primo.hosted.exlibrisgroup.com",
+    "s": "Georgia Tech Library",
+    "t": "gtlib",
+    "u": "https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01GALI_GIT&search_scope=Everything&query=any,contains,{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Lithuanian",
+    "t": "gt-lithuanian",
+    "u": "https://translate.google.com/#auto/lt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Lithuanian",
+    "t": "gtlithuanian",
+    "u": "https://translate.google.com/#auto/lt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Lithuanian",
+    "t": "gtlt",
+    "u": "https://translate.google.com/#auto/lt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Latvian",
+    "t": "gtlv",
+    "u": "https://translate.google.com/#auto/lv/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Macedonian",
+    "t": "gt-macedonian",
+    "u": "https://translate.google.com/#auto/mk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Macedonian",
+    "t": "gtmacedonian",
+    "u": "https://translate.google.com/#auto/mk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malagasy",
+    "t": "gt-malagasy",
+    "u": "https://translate.google.com/#auto/mg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malagasy",
+    "t": "gtmalagasy",
+    "u": "https://translate.google.com/#auto/mg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malayalam",
+    "t": "gt-malayalam",
+    "u": "https://translate.google.com/#auto/ml/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malayalam",
+    "t": "gtmalayalam",
+    "u": "https://translate.google.com/#auto/ml/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malay",
+    "t": "gt-malay",
+    "u": "https://translate.google.com/#auto/ms/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malay",
+    "t": "gtmalay",
+    "u": "https://translate.google.com/#auto/ms/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Maltese",
+    "t": "gt-maltese",
+    "u": "https://translate.google.com/#auto/mt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Maltese",
+    "t": "gtmaltese",
+    "u": "https://translate.google.com/#auto/mt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Maori",
+    "t": "gt-maori",
+    "u": "https://translate.google.com/#auto/mi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Maori",
+    "t": "gtmaori",
+    "u": "https://translate.google.com/#auto/mi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Marathi",
+    "t": "gt-marathi",
+    "u": "https://translate.google.com/#auto/mr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Marathi",
+    "t": "gtmarathi",
+    "u": "https://translate.google.com/#auto/mr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malagasy",
+    "t": "gtmg",
+    "u": "https://translate.google.com/#auto/mg/{{{s}}}"
+  },
+  {
+    "d": "fr.gta5-mods.com",
+    "s": "Gta5-mods",
+    "t": "gtm",
+    "u": "https://fr.gta5-mods.com/search/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Maori",
+    "t": "gtmi",
+    "u": "https://translate.google.com/#auto/mi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Macedonian",
+    "t": "gtmk",
+    "u": "https://translate.google.com/#auto/mk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malayalam",
+    "t": "gtml",
+    "u": "https://translate.google.com/#auto/ml/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Mongolian",
+    "t": "gtmn",
+    "u": "https://translate.google.com/#auto/mn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Mongolian",
+    "t": "gt-mongolian",
+    "u": "https://translate.google.com/#auto/mn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Mongolian",
+    "t": "gtmongolian",
+    "u": "https://translate.google.com/#auto/mn/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Marathi",
+    "t": "gtmr",
+    "u": "https://translate.google.com/#auto/mr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Malay",
+    "t": "gtms",
+    "u": "https://translate.google.com/#auto/ms/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Maltese",
+    "t": "gtmt",
+    "u": "https://translate.google.com/#auto/mt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Myanmar (Burmese)",
+    "t": "gt-myanmar",
+    "u": "https://translate.google.com/#auto/my/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Myanmar (Burmese)",
+    "t": "gtmyanmar",
+    "u": "https://translate.google.com/#auto/my/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Myanmar (Burmese)",
+    "t": "gtmy",
+    "u": "https://translate.google.com/#auto/my/{{{s}}}"
+  },
+  {
+    "d": "geektimes.ru",
+    "s": "GeekTimes",
+    "t": "gtmz",
+    "u": "https://geektimes.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Nepali",
+    "t": "gtne",
+    "u": "https://translate.google.com/#auto/ne/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Nepali",
+    "t": "gt-nepali",
+    "u": "https://translate.google.com/#auto/ne/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Nepali",
+    "t": "gtnepali",
+    "u": "https://translate.google.com/#auto/ne/{{{s}}}"
+  },
+  {
+    "d": "www.google.tn",
+    "s": "Google Tunisia",
+    "t": "gtn",
+    "u": "https://www.google.tn/search?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Dutch",
+    "t": "gtnl",
+    "u": "https://translate.google.com/#auto/nl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "google translate",
+    "t": "gt-nl-du",
+    "u": "https://translate.google.com/m/translate#nl/de/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Norwegian",
+    "t": "gtno",
+    "u": "https://translate.google.com/#auto/no/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Norwegian",
+    "t": "gt-norwegian",
+    "u": "https://translate.google.com/#auto/no/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Norwegian",
+    "t": "gtnorwegian",
+    "u": "https://translate.google.com/#auto/no/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Chichewa",
+    "t": "gtny",
+    "u": "https://translate.google.com/#auto/ny/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Punjabi",
+    "t": "gtpa",
+    "u": "https://translate.google.com/#auto/pa/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Persian",
+    "t": "gt-persian",
+    "u": "https://translate.google.com/#auto/fa/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Persian",
+    "t": "gtpersian",
+    "u": "https://translate.google.com/#auto/fa/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Polish",
+    "t": "gtpl",
+    "u": "https://translate.google.com/#auto/pl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Polish",
+    "t": "gt-polish",
+    "u": "https://translate.google.com/#auto/pl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Polish",
+    "t": "gtpolish",
+    "u": "https://translate.google.com/#auto/pl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Portuguese",
+    "t": "gt-portuguese",
+    "u": "https://translate.google.com/#auto/pt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Portuguese",
+    "t": "gtportuguese",
+    "u": "https://translate.google.com/#auto/pt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Portuguese",
+    "t": "gtpt",
+    "u": "https://translate.google.com/#auto/pt/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Punjabi",
+    "t": "gt-punjabi",
+    "u": "https://translate.google.com/#auto/pa/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Punjabi",
+    "t": "gtpunjabi",
+    "u": "https://translate.google.com/#auto/pa/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "gtrad",
+    "u": "http://translate.google.com/#auto/fr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "gtranslate",
+    "u": "http://translate.google.com/#auto/en/{{{s}}}"
+  },
+  {
+    "d": "trends.google.com",
+    "s": "Google Trends",
+    "t": "gtrends",
+    "u": "https://trends.google.com/trends/explore?date=all&geo=US&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com.tr",
+    "s": "Google TR",
+    "t": "gtr",
+    "u": "http://www.google.com.tr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Romanian",
+    "t": "gtro",
+    "u": "https://translate.google.com/#auto/ro/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Romanian",
+    "t": "gt-romanian",
+    "u": "https://translate.google.com/#auto/ro/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Romanian",
+    "t": "gtromanian",
+    "u": "https://translate.google.com/#auto/ro/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Russian",
+    "t": "gtru",
+    "u": "https://translate.google.com/#auto/ru/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Russian",
+    "t": "gt-russian",
+    "u": "https://translate.google.com/#auto/ru/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Russian",
+    "t": "gtrussian",
+    "u": "https://translate.google.com/#auto/ru/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Serbian",
+    "t": "gt-serbian",
+    "u": "https://translate.google.com/#auto/sr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Serbian",
+    "t": "gtserbian",
+    "u": "https://translate.google.com/#auto/sr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sesotho",
+    "t": "gt-sesotho",
+    "u": "https://translate.google.com/#auto/st/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sesotho",
+    "t": "gtsesotho",
+    "u": "https://translate.google.com/#auto/st/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sinhala",
+    "t": "gtsi",
+    "u": "https://translate.google.com/#auto/si/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sinhala",
+    "t": "gt-sinhala",
+    "u": "https://translate.google.com/#auto/si/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sinhala",
+    "t": "gtsinhala",
+    "u": "https://translate.google.com/#auto/si/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Slovak",
+    "t": "gtsk",
+    "u": "https://translate.google.com/#auto/sk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Slovenian",
+    "t": "gtsl",
+    "u": "https://translate.google.com/#auto/sl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Slovak",
+    "t": "gt-slovak",
+    "u": "https://translate.google.com/#auto/sk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Slovak",
+    "t": "gtslovak",
+    "u": "https://translate.google.com/#auto/sk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Slovenian",
+    "t": "gt-slovenian",
+    "u": "https://translate.google.com/#auto/sl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Slovenian",
+    "t": "gtslovenian",
+    "u": "https://translate.google.com/#auto/sl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Somali",
+    "t": "gtso",
+    "u": "https://translate.google.com/#auto/so/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Somali",
+    "t": "gt-somali",
+    "u": "https://translate.google.com/#auto/so/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Somali",
+    "t": "gtsomali",
+    "u": "https://translate.google.com/#auto/so/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Spanish",
+    "t": "gt-spanish",
+    "u": "https://translate.google.com/#auto/es/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Spanish",
+    "t": "gtspanish",
+    "u": "https://translate.google.com/#auto/es/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate to Spanish",
+    "t": "gtsp",
+    "u": "https://translate.google.com/#en/es/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Albanian",
+    "t": "gtsq",
+    "u": "https://translate.google.com/#auto/sq/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Serbian",
+    "t": "gtsr",
+    "u": "https://translate.google.com/#auto/sr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sesotho",
+    "t": "gtst",
+    "u": "https://translate.google.com/#auto/st/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sundanese",
+    "t": "gtsu",
+    "u": "https://translate.google.com/#auto/su/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sundanese",
+    "t": "gt-sundanese",
+    "u": "https://translate.google.com/#auto/su/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Sundanese",
+    "t": "gtsundanese",
+    "u": "https://translate.google.com/#auto/su/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Swedish",
+    "t": "gtsv",
+    "u": "https://translate.google.com/#auto/sv/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Swahili",
+    "t": "gt-swahili",
+    "u": "https://translate.google.com/#auto/sw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Swahili",
+    "t": "gtswahili",
+    "u": "https://translate.google.com/#auto/sw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Swahili",
+    "t": "gtsw",
+    "u": "https://translate.google.com/#auto/sw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Swedish",
+    "t": "gt-swedish",
+    "u": "https://translate.google.com/#auto/sv/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Swedish",
+    "t": "gtswedish",
+    "u": "https://translate.google.com/#auto/sv/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Tamil",
+    "t": "gtta",
+    "u": "https://translate.google.com/#auto/ta/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Tajik",
+    "t": "gt-tajik",
+    "u": "https://translate.google.com/#auto/tg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Tajik",
+    "t": "gttajik",
+    "u": "https://translate.google.com/#auto/tg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Tamil",
+    "t": "gt-tamil",
+    "u": "https://translate.google.com/#auto/ta/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Tamil",
+    "t": "gttamil",
+    "u": "https://translate.google.com/#auto/ta/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Telugu",
+    "t": "gtte",
+    "u": "https://translate.google.com/#auto/te/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Telugu",
+    "t": "gt-telugu",
+    "u": "https://translate.google.com/#auto/te/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Telugu",
+    "t": "gttelugu",
+    "u": "https://translate.google.com/#auto/te/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Tajik",
+    "t": "gttg",
+    "u": "https://translate.google.com/#auto/tg/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Thai",
+    "t": "gt-thai",
+    "u": "https://translate.google.com/#auto/th/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Thai",
+    "t": "gtthai",
+    "u": "https://translate.google.com/#auto/th/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Thai",
+    "t": "gtth",
+    "u": "https://translate.google.com/#auto/th/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Filipino",
+    "t": "gttl",
+    "u": "https://translate.google.com/#auto/tl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Turkish",
+    "t": "gttr",
+    "u": "https://translate.google.com/#auto/tr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Turkish",
+    "t": "gt-turkish",
+    "u": "https://translate.google.com/#auto/tr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Turkish",
+    "t": "gtturkish",
+    "u": "https://translate.google.com/#auto/tr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com.tw",
+    "s": "Google translate (Taiwan)",
+    "t": "gttw",
+    "u": "https://translate.google.com.tw/#auto/zh-TW/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Ukrainian",
+    "t": "gtuk",
+    "u": "https://translate.google.com/#auto/uk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Ukrainian",
+    "t": "gt-ukrainian",
+    "u": "https://translate.google.com/#auto/uk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Ukrainian",
+    "t": "gtukrainian",
+    "u": "https://translate.google.com/#auto/uk/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Urdu",
+    "t": "gtur",
+    "u": "https://translate.google.com/#auto/ur/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Urdu",
+    "t": "gt-urdu",
+    "u": "https://translate.google.com/#auto/ur/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Urdu",
+    "t": "gturdu",
+    "u": "https://translate.google.com/#auto/ur/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate URL",
+    "t": "gturl",
+    "u": "http://translate.google.com/translate?js=n&prev=_t&ie=UTF-8&layout=2&eotf=1&sl=auto&tl=en&u={{{s}}}&act=url"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Uzbek",
+    "t": "gt-uzbek",
+    "u": "https://translate.google.com/#auto/uz/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Uzbek",
+    "t": "gtuzbek",
+    "u": "https://translate.google.com/#auto/uz/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Uzbek",
+    "t": "gtuz",
+    "u": "https://translate.google.com/#auto/uz/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Vietnamese",
+    "t": "gtvi",
+    "u": "https://translate.google.com/#auto/vi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Vietnamese",
+    "t": "gt-vietnamese",
+    "u": "https://translate.google.com/#auto/vi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Vietnamese",
+    "t": "gtvietnamese",
+    "u": "https://translate.google.com/#auto/vi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Welsh",
+    "t": "gt-welsh",
+    "u": "https://translate.google.com/#auto/cy/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Welsh",
+    "t": "gtwelsh",
+    "u": "https://translate.google.com/#auto/cy/{{{s}}}"
+  },
+  {
+    "d": "www.google.com.tw",
+    "s": "Google TW",
+    "t": "gtw",
+    "u": "http://www.google.com.tw/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "growtopia.wikia.com",
+    "s": "GrowTopia Wikia",
+    "t": "gtwiki",
+    "u": "http://growtopia.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Yiddish",
+    "t": "gt-yiddish",
+    "u": "https://translate.google.com/#auto/yi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Yiddish",
+    "t": "gtyiddish",
+    "u": "https://translate.google.com/#auto/yi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Yiddish",
+    "t": "gtyi",
+    "u": "https://translate.google.com/#auto/yi/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Yoruba",
+    "t": "gtyo",
+    "u": "https://translate.google.com/#auto/yo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Yoruba",
+    "t": "gt-yoruba",
+    "u": "https://translate.google.com/#auto/yo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Yoruba",
+    "t": "gtyoruba",
+    "u": "https://translate.google.com/#auto/yo/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Chinese",
+    "t": "gtzh-CN",
+    "u": "https://translate.google.com/#auto/zh-CN/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to traditional Chinese",
+    "t": "gtzh-TW",
+    "u": "https://translate.google.com/#auto/zh-TW/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Zulu",
+    "t": "gtzu",
+    "u": "https://translate.google.com/#auto/zu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Zulu",
+    "t": "gt-zulu",
+    "u": "https://translate.google.com/#auto/zu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Detect language to Zulu",
+    "t": "gtzulu",
+    "u": "https://translate.google.com/#auto/zu/{{{s}}}"
+  },
+  {
+    "d": "www.google.com.ua",
+    "s": "Google UA",
+    "t": "gua",
+    "u": "http://www.google.com.ua/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.guardiana.net",
+    "s": "Guardiana",
+    "t": "guardiana",
+    "u": "http://www.guardiana.net/MDG-Database/Search/?search_value={{{s}}} "
+  },
+  {
+    "d": "guardianproject.info",
+    "s": "Guardian Project",
+    "t": "guardianproject",
+    "u": "https://guardianproject.info/?s={{{s}}}"
+  },
+  {
+    "d": "www.theguardian.com",
+    "s": "The Guardian",
+    "t": "guardian",
+    "u": "https://www.theguardian.com/{{{s}}}"
+  },
+  {
+    "d": "hds.hebis.de",
+    "s": "Goethe Uni Bib FRA",
+    "t": "gubf",
+    "u": "https://hds.hebis.de/ubffm/Search/Results?lookfor={{{s}}}&type=allfields&submit=Suchen"
+  },
+  {
+    "d": "www.gucci.com",
+    "s": "Gucci",
+    "t": "gucci",
+    "u": "https://www.gucci.com/fr/fr/search?search-cat=header-search&text={{{s}}}"
+  },
+  {
+    "d": "www.guenstiger.de",
+    "s": "guenstiger.de",
+    "t": "gue",
+    "u": "http://www.guenstiger.de/Katalog/Preis.pl?suche={{{s}}}"
+  },
+  {
+    "d": "www.guenstiger.de",
+    "s": "Günstiger.de",
+    "t": "guenstiger",
+    "u": "http://www.guenstiger.de/Katalog/Preis.pl?suche={{{s}}}"
+  },
+  {
+    "d": "guideforlm.com",
+    "s": "Guide for Lords Mobile",
+    "t": "gufolm",
+    "u": "https://guideforlm.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.guidestar.org",
+    "s": "GuideStar",
+    "t": "guidestar",
+    "u": "https://www.guidestar.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.guildwiki.org",
+    "s": "Guild Wiki",
+    "t": "guildwiki",
+    "u": "http://www.guildwiki.org/index.php?title=Special%3ASearch&redirs=0&search={{{s}}}&fulltext=Search&ns0=1"
+  },
+  {
+    "d": "www.guitaa.com",
+    "s": "Guitaa.com",
+    "t": "guitaa",
+    "u": "https://www.guitaa.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.guitartabsexplorer.com",
+    "s": "GuitarTabsExplorer.com",
+    "t": "guitartabs",
+    "u": "http://www.guitartabsexplorer.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google UK",
+    "t": "g.uk",
+    "u": "https://www.google.co.uk/#q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google UK",
+    "t": "guk",
+    "u": "https://www.google.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.eniro.se",
+    "s": "Eniro",
+    "t": "gulasidorna",
+    "u": "http://www.eniro.se/query?what=all&search_word={{{s}}}"
+  },
+  {
+    "d": "www.gulesider.no",
+    "s": "Gule Sider",
+    "t": "gulesider",
+    "u": "https://www.gulesider.no/?q={{{s}}}"
+  },
+  {
+    "d": "www.gumtree.com.au",
+    "s": "Gumtree",
+    "t": "gumau",
+    "u": "http://www.gumtree.com.au/s-{{{s}}}/k0"
+  },
+  {
+    "d": "theamazingworldofgumball.fandom.com",
+    "s": "The Amazing World of Gumball Wiki",
+    "t": "gumball",
+    "u": "https://theamazingworldofgumball.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.gumtree.com.au",
+    "s": "Gumtree Australia",
+    "t": "gumtreeau",
+    "u": "http://www.gumtree.com.au/s-{{{s}}}/k0"
+  },
+  {
+    "d": "www.gumtree.com.au",
+    "s": "gmtr",
+    "t": "gumtree",
+    "u": "http://www.gumtree.com.au/s-melbourne/{{{s}}} /k0l3001317"
+  },
+  {
+    "d": "www.gumtree.pl",
+    "s": "Gumtree Polska",
+    "t": "gumtreepl",
+    "u": "https://www.gumtree.pl/s-{{{s}}}/v1q0p1"
+  },
+  {
+    "d": "www.gumtree.com",
+    "s": "Gumtree UK",
+    "t": "gumtreeuk",
+    "u": "https://www.gumtree.com/search?search_category=all&q={{{s}}}"
+  },
+  {
+    "d": "www.gumtree.co.za",
+    "s": "Gumtree South Africa",
+    "t": "gumtreeza",
+    "u": "https://www.gumtree.co.za/s-{{{s}}}/v1q0p1"
+  },
+  {
+    "d": "www.gunbroker.com",
+    "s": "GunBroker",
+    "t": "gunbroker",
+    "u": "http://www.gunbroker.com/All/BI.aspx?Keywords={{{s}}}"
+  },
+  {
+    "d": "gundam.wikia.com",
+    "s": "Gundam Wikia",
+    "t": "gundam",
+    "u": "http://gundam.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "gun.deals",
+    "s": "gun.deals",
+    "t": "gundeals",
+    "u": "https://gun.deals/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "www.gunengine.com",
+    "s": "GunEngine",
+    "t": "gunengine",
+    "u": "http://www.gunengine.com/guns?q={{{s}}}"
+  },
+  {
+    "d": "gunmagwarehouse.com",
+    "s": "Gun Magazine Warehouse",
+    "t": "gunmag",
+    "u": "https://gunmagwarehouse.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "gunstreamer.com",
+    "s": "Gun Streamer",
+    "t": "gunstreamer",
+    "u": "https://gunstreamer.com/search?q=Test&idx=videos&p=0&keyword={{{s}}}"
+  },
+  {
+    "d": "gunwatcher.com",
+    "s": "GunWatcher",
+    "t": "gunwatcher",
+    "u": "https://gunwatcher.com/Search/{{{s}}}"
+  },
+  {
+    "d": "www.gurtbandlager.de",
+    "s": "Gurtbandlager.de",
+    "t": "gurtband",
+    "u": "https://www.gurtbandlager.de/search?sSearch={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google US",
+    "t": "gus",
+    "u": "http://www.google.com/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.gussmark.at",
+    "s": "GUSSMARK GesmbH & Co KG",
+    "t": "gussmark",
+    "u": "https://www.gussmark.at/_/search?query={{{s}}}"
+  },
+  {
+    "d": "www.gutefrage.net",
+    "s": "Gutefrage",
+    "t": "gutefrage",
+    "u": "https://www.gutefrage.net/search?query={{{s}}}"
+  },
+  {
+    "d": "www.gutenberg.org",
+    "s": "Project Gutenberg",
+    "t": "gutenberg",
+    "u": "http://www.gutenberg.org/ebooks/search/?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "theguardian.com",
+    "t": "gu",
+    "u": "https://duckduckgo.com/?q=site%3Awww.theguardian.com+{{{s}}}"
+  },
+  {
+    "d": "www.gutscheine.de",
+    "s": "Gutscheine.de",
+    "t": "gutschein",
+    "u": "http://www.gutscheine.de/suche?search={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Search Verbatim 100 English Results",
+    "t": "gv100en",
+    "u": "http://google.com/search?q={{{s}}}&tbo=1&num=100&tbs=li:1&lr=lang_en"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Search Verbatim 100 Results",
+    "t": "gv100",
+    "u": "http://google.com/search?q={{{s}}}&tbo=1&num=100&tbs=li:1"
+  },
+  {
+    "d": "www.google.com.au",
+    "s": "Google Videos Australia",
+    "t": "gvau",
+    "u": "https://www.google.com.au/search?tbm=vid&q={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Verbatim",
+    "t": "gvb",
+    "u": "https://google.com/search?&tbs=li:1&q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.ve",
+    "s": "Google VE",
+    "t": "gve",
+    "u": "http://www.google.co.ve/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Video",
+    "t": "gv",
+    "u": "https://www.google.com/search?tbm=vid&q={{{s}}}"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Docs Viewer",
+    "t": "gviewer",
+    "u": "http://docs.google.com/viewer?url={{{s}}}"
+  },
+  {
+    "d": "docs.google.com",
+    "s": "Google Docs Viewer",
+    "t": "gview",
+    "u": "http://docs.google.com/viewer?url={{{s}}}"
+  },
+  {
+    "d": "gso.gbv.de",
+    "s": "Gemeinsamer Verbundkatalog",
+    "t": "gvk",
+    "u": "https://gso.gbv.de/DB=2.1/CMD?MATCFILTER=N&MATCSET=N&ACT0=&IKT0=&TRM0=&ACT3=*&IKT3=8183&ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "d": "www.google.com.vn",
+    "s": "Google VN",
+    "t": "gvn",
+    "u": "http://www.google.com.vn/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Voice",
+    "t": "gvoice",
+    "u": "https://www.google.com/voice#search/{{{s}}}"
+  },
+  {
+    "d": "go.galegroup.com",
+    "s": "Gale Virtual Reference Library",
+    "t": "gvrl",
+    "u": "http://go.galegroup.com/ps/headerQuickSearch.do?quickSearchTerm={{{s}}}&inputFieldNames%5B0%5D=OQE&searchType=BasicSearchForm&userGroupName=mlin_m_newtnsh&nwf=y&prodId=GVRL&stw.option=&ebook=&quicksearchIndex=OQE&spellCheck=true&hasCoProduct=false"
+  },
+  {
+    "d": "www.gw2bltc.com",
+    "s": "GW2BLTC",
+    "t": "gw2bltc",
+    "u": "https://www.gw2bltc.com/en/tp/search?name={{{s}}}"
+  },
+  {
+    "d": "wiki-de.guildwars2.com",
+    "s": "Guild Wars 2 Wiki Deutsch",
+    "t": "gw2de",
+    "u": "https://wiki-de.guildwars2.com/index.php?search={{{s}}}&go=Seite"
+  },
+  {
+    "d": "gw2efficiency.com",
+    "s": "Gw2 Efficiency",
+    "t": "gw2e",
+    "u": "https://gw2efficiency.com/account/overview?filter.name={{{s}}}"
+  },
+  {
+    "d": "wiki-fr.guildwars2.com",
+    "s": "Guild Wars 2 Wiki Français",
+    "t": "gw2fr",
+    "u": "http://wiki-fr.guildwars2.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wiki.guildwars2.com",
+    "s": "Guild Wars 2 Wiki",
+    "t": "gw2",
+    "u": "https://wiki.guildwars2.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.gw2spidy.com",
+    "s": "Guild Wars 2 Spidy",
+    "t": "gw2spidy",
+    "u": "http://www.gw2spidy.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.gw2tp.com",
+    "s": "GW2TP",
+    "t": "gw2tp",
+    "u": "https://www.gw2tp.com/search?name={{{s}}}"
+  },
+  {
+    "d": "wiki.guildwars2.com",
+    "s": "Guild Wars 2 Wiki",
+    "t": "gw2wiki",
+    "u": "http://wiki.guildwars2.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.gwct.org.uk",
+    "s": "Game & Wildlife Conservation Trust",
+    "t": "gwct",
+    "u": "http://www.gwct.org.uk/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (Past Week)",
+    "t": "gweek",
+    "u": "http://www.google.com/search?q={{{s}}}&tbs=qdr:w"
+  },
+  {
+    "d": "en.glyphwiki.org",
+    "s": "GlyphWiki English",
+    "t": "gwen",
+    "u": "http://en.glyphwiki.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.gwentdb.com",
+    "s": "GwentDB",
+    "t": "gwentdb",
+    "u": "http://www.gwentdb.com/search?search={{{s}}}"
+  },
+  {
+    "d": "gwentify.com",
+    "s": "Gwentify",
+    "t": "gwentify",
+    "u": "http://gwentify.com/cards/?st={{{s}}}"
+  },
+  {
+    "d": "www.games-workshop.com",
+    "s": "Games Workshop Webstore España",
+    "t": "gwes",
+    "u": "https://www.games-workshop.com/es-ES/searchResults?_dyncharset=UTF-8&_dynSessConf=7453102396832862391&qty=&sorting=&view=&Ntt={{{s}}}"
+  },
+  {
+    "d": "wiki.gentoo.org",
+    "s": "Gentoo Wiki",
+    "t": "gw",
+    "u": "https://wiki.gentoo.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "gowatchit.com",
+    "s": "Gowatchit",
+    "t": "gwi",
+    "u": "https://gowatchit.com/search?terms={{{s}}}"
+  },
+  {
+    "d": "wiki.gentoo.org",
+    "s": "Gentoo Wiki",
+    "t": "gwiki",
+    "u": "http://wiki.gentoo.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "library.gwu.edu",
+    "s": "George Washington University Libraries",
+    "t": "gwlib",
+    "u": "http://library.gwu.edu/search-all?query={{{s}}}"
+  },
+  {
+    "d": "www.girlswithmuscle.com",
+    "s": "Girls with muscle",
+    "t": "gwm",
+    "u": "https://www.girlswithmuscle.com/images/?name={{{s}}}"
+  },
+  {
+    "d": "www.games-workshop.com",
+    "s": "Games Workshop",
+    "t": "gworkshop",
+    "u": "https://www.games-workshop.com/searchResults?_dyncharset=UTF-8&_dynSessConf=1497710725317319147&qty=&sorting=&view=&Ntt={{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google de.Wikipedia",
+    "t": "gwpde",
+    "u": "http://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Wikipedia",
+    "t": "gwp",
+    "u": "http://www.google.com/search?q={{{s}}}%20site:wikipedia.org"
+  },
+  {
+    "d": "www.guinnessworldrecords.com",
+    "s": "Guinness World Records",
+    "t": "gwr",
+    "u": "http://www.guinnessworldrecords.com/search?term={{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Google WebStore XT",
+    "t": "gws",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}?_category=extensions"
+  },
+  {
+    "d": "www.ghanawebsolutions.com",
+    "s": "Ghana Web Solutions",
+    "t": "gwsonline",
+    "u": "https://www.ghanawebsolutions.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.ghanawebsolutions.com",
+    "s": "GWS Online GH",
+    "t": "gwsonlinegh",
+    "u": "https://www.ghanawebsolutions.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "search.gwu.edu",
+    "s": "The George Washington University",
+    "t": "gwu",
+    "u": "https://search.gwu.edu/search?site=gw_main_VCM&client=gw_main_VCM&proxystylesheet=phase2fe&output=xml_no_dtd&q={{{s}}}"
+  },
+  {
+    "d": "wiki.guildwars.com",
+    "s": "Guild Wars Wiki",
+    "t": "gww",
+    "u": "https://wiki.guildwars.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "gyazo.com",
+    "s": "Gyazo",
+    "t": "gyazo",
+    "u": "https://gyazo.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google (Past Year)",
+    "t": "gyear",
+    "u": "http://www.google.com/search?q={{{s}}}&tbs=qdr:y"
+  },
+  {
+    "d": "google.com",
+    "s": "Google",
+    "t": "gy",
+    "u": "https://google.com/search?q={{{s}}} &tbs=qdr:y"
+  },
+  {
+    "d": "www.gyakorikerdesek.hu",
+    "s": "Gyakorikérdések.hu",
+    "t": "gyk",
+    "u": "http://www.gyakorikerdesek.hu/kereses.php?keres={{{s}}}"
+  },
+  {
+    "d": "www.genyoutube.net",
+    "s": "GenYouTube",
+    "t": "gyt",
+    "u": "https://www.genyoutube.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.za",
+    "s": "Google ZA",
+    "t": "gza",
+    "u": "http://www.google.co.za/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai="
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Simplified Chinese",
+    "t": "gzc",
+    "u": "https://www.google.com/search?q={{{s}}}&lr=lang_zh-CN"
+  },
+  {
+    "d": "www.geekzone.fr",
+    "s": "GeekZone",
+    "t": "gz",
+    "u": "http://www.geekzone.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.geizhals.at",
+    "s": "Geizhals",
+    "t": "gzh",
+    "u": "http://www.geizhals.at/eu/?such={{{s}}}"
+  },
+  {
+    "d": "www.giallozafferano.it",
+    "s": "Giallo Zafferano",
+    "t": "gzric",
+    "u": "http://www.giallozafferano.it/ricerca-ricette/{{{s}}} "
+  }
+]

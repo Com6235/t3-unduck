@@ -1,0 +1,344 @@
+[
+  {
+    "d": "stockflare.com",
+    "s": "Stockflare",
+    "t": "$",
+    "u": "https://stockflare.com/#stocks/${{{s}}} "
+  },
+  {
+    "d": "www.fransktlexikon.se",
+    "s": "Franskt Lexikon",
+    "t": "'f",
+    "u": "https://www.fransktlexikon.se/{{{s}}}"
+  },
+  {
+    "d": "www.searchdotnet.com",
+    "s": "DotNet Docs",
+    "t": ".net",
+    "u": "http://www.searchdotnet.com/results.aspx?cx=002213837942349435108:jki1okx03jq&q={{{s}}}&sa=Search+.NET+sites&cof=FORID:9&siteurl=www.searchdotnet.com/"
+  },
+  {
+    "d": "slashdot.org",
+    "s": "Slashdot",
+    "t": "./",
+    "u": "http://slashdot.org/index2.pl?fhfilter={{{s}}}"
+  },
+  {
+    "d": "slashdot.jp",
+    "s": "Slashdot Japan",
+    "t": "/.j",
+    "u": "http://slashdot.jp/index2.pl?fhfilter={{{s}}}"
+  },
+  {
+    "d": "activehi.com",
+    "s": "ActiveHi News",
+    "t": "/?s",
+    "u": "https://activehi.com/?s={{{s}}}"
+  },
+  {
+    "d": "slashdot.org",
+    "s": "Slashdot",
+    "t": "/.",
+    "u": "http://slashdot.org/index2.pl?fhfilter={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "?",
+    "u": "http://duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "facebook.com",
+    "s": "Facebook User Page",
+    "t": "@fb",
+    "u": "https://facebook.com/{{{s}}}"
+  },
+  {
+    "d": "twitter.com",
+    "s": "Twitter User Page",
+    "t": "@",
+    "u": "https://twitter.com/{{{s}}}"
+  },
+  {
+    "d": "www.albumartexchange.com",
+    "s": "Album Art Exchange",
+    "t": "àax",
+    "u": "http://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q={{{s}}}"
+  },
+  {
+    "d": "www.levykauppax.fi",
+    "s": "Levykauppa Äx",
+    "t": "äx",
+    "u": "https://www.levykauppax.fi/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.eki.ee",
+    "s": "Eesti õigekeelsussõnaraamat",
+    "t": "õ",
+    "u": "http://www.eki.ee/dict/qs/index.cgi?Q={{{s}}}"
+  },
+  {
+    "d": "www.eki.ee",
+    "s": "Eesti Õigekeelsussõnaraamat",
+    "t": "õs",
+    "u": "http://www.eki.ee/dict/qs/index.cgi?Q={{{s}}}"
+  },
+  {
+    "d": "el.m.wikipedia.org",
+    "s": "Βικιπαίδεια ",
+    "t": "Βικι",
+    "u": "https://el.m.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.google.gr",
+    "s": "https://www.google.gr/?gws_rd=ssl",
+    "t": "γ",
+    "u": "https://www.google.gr/?gws_rd=ssl#q={{{s}}}"
+  },
+  {
+    "d": "el.m.wiktionary.org",
+    "s": "Λεξικό ",
+    "t": "Λεξικό",
+    "u": "https://el.m.wiktionary.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "el.wikipedia.org",
+    "s": "greek wikipedia",
+    "t": "ςγρ",
+    "u": "https://el.wikipedia.org/wiki/?search={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube",
+    "t": "υτ",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "engramm.su",
+    "s": "Вики-учебник Английского Языка",
+    "t": "англяз",
+    "u": "http://engramm.su/start?do=search&id={{{s}}}"
+  },
+  {
+    "d": "uk.m.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "в",
+    "u": "https://uk.m.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "Википедия",
+    "t": "вики",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}&"
+  },
+  {
+    "d": "ru.wikinews.org",
+    "s": "викиновости",
+    "t": "вн",
+    "u": "https://ru.wikinews.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA?search={{{s}}}"
+  },
+  {
+    "d": "ru.wiktionary.org",
+    "s": "Викисловарь",
+    "t": "вс",
+    "u": "https://ru.wiktionary.org/w/index.php?search={{{s}}}&ns0=1"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Ru",
+    "t": "г",
+    "u": "https://google.com/search?hl=ru&q={{{s}}}"
+  },
+  {
+    "d": "www.google.bg",
+    "s": "Google BG",
+    "t": "гбг",
+    "u": "https://www.google.bg/search?source=hp&q={{{s}}}"
+  },
+  {
+    "d": "www.google.ru",
+    "s": "Google Images Russian",
+    "t": "гк",
+    "u": "https://www.google.ru/search?q={{{s}}}&tbm=isch"
+  },
+  {
+    "d": "docs.cntd.ru",
+    "s": "docs.cntd.ru",
+    "t": "гост",
+    "u": "http://docs.cntd.ru/search/intellectual?q={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Yandex.Maps (Карты)",
+    "t": "карты",
+    "u": "https://yandex.ru/maps/?text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate (ru→en)",
+    "t": "кгут",
+    "u": "https://translate.google.com/#ru/en/{{{s}}}"
+  },
+  {
+    "d": "www.labirint.ru",
+    "s": "Лабиринт",
+    "t": "л",
+    "u": "http://www.labirint.ru/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.bg",
+    "s": "Google Maps BG",
+    "t": "мапс",
+    "u": "https://www.google.bg/maps/search/{{{s}}}/"
+  },
+  {
+    "d": "npsd.party",
+    "s": "НПСД",
+    "t": "нпсд",
+    "u": "https://npsd.party/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "google.com",
+    "t": "п",
+    "u": "https://www.google.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.ru",
+    "s": "Google Images",
+    "t": "пш",
+    "u": "https://www.google.ru/search?tbm=isch&q={{{s}}}"
+  },
+  {
+    "d": "bg.wikipedia.org",
+    "s": "Wikipedia (BG)",
+    "t": "уики",
+    "u": "https://bg.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "Википедия",
+    "t": "ц",
+    "u": "https://ru.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "Wikipedia (ru)",
+    "t": "ш",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "Wikipedia (ru)",
+    "t": "шру",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Yandex.ru",
+    "t": "я",
+    "u": "https://yandex.ru/yandsearch?text={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Yandex images (Яндекс картинки)",
+    "t": "як",
+    "u": "https://yandex.ru/images/search?text={{{s}}}"
+  },
+  {
+    "d": "music.yandex.com",
+    "s": "Yandex Music",
+    "t": "яму",
+    "u": "https://music.yandex.com/search?text={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Яндекс.Карты",
+    "t": "ям",
+    "u": "https://yandex.ru/maps/?text={{{s}}}"
+  },
+  {
+    "d": "nayiri.com",
+    "s": "Nayiri",
+    "t": "նայ",
+    "u": "http://nayiri.com/search?l=hy_LB&dt=HY_HY&r=0&query={{{s}}}"
+  },
+  {
+    "d": "www.google.co.il",
+    "s": "Google Israel",
+    "t": "ג",
+    "u": "https://www.google.co.il/{{{s}}}"
+  },
+  {
+    "d": "he.wikipedia.org",
+    "s": "Hebrew wikipedia",
+    "t": "ויקי",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=מיוחד%3Aחיפוש&go=לערך"
+  },
+  {
+    "d": "he.wikisource.org",
+    "s": "Israeli Open Law project at Hebrew Wikisource",
+    "t": "חוק",
+    "u": "https://he.wikisource.org/w/index.php?search=חוק+{{{s}}}"
+  },
+  {
+    "d": "www.morfix.co.il",
+    "s": "מורפיקס",
+    "t": "מורפיקס",
+    "u": "http://www.morfix.co.il/{{{s}}}"
+  },
+  {
+    "d": "www.protocol.co.il",
+    "s": "פרוטוקול",
+    "t": "פרוטוקול",
+    "u": "https://www.protocol.co.il/?s={{{s}}}"
+  },
+  {
+    "d": "www.sahifatv.com",
+    "s": "صحيفة تيفي",
+    "t": "الاخبار",
+    "u": "https://www.sahifatv.com/category/{{{s}}}"
+  },
+  {
+    "d": "tapseet.com",
+    "s": "موقع تبسيط",
+    "t": "تبسيط",
+    "u": "https://tapseet.com/?s={{{s}}}"
+  },
+  {
+    "d": "mobilesacademy.com",
+    "s": "أكاديمية الموبايل",
+    "t": "موبايل",
+    "u": "https://mobilesacademy.com/?s={{{s}}}"
+  },
+  {
+    "d": "ar.wikipedia.org",
+    "s": "ويكيبيديا العربية",
+    "t": "و",
+    "u": "https://ar.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "setareh-co.com",
+    "s": "شرکت پخش ستاره",
+    "t": "پخشستاره",
+    "u": "https://setareh-co.com/?s={{{s}}}&submit="
+  },
+  {
+    "d": "astronet.ge",
+    "s": "Astronet.Ge",
+    "t": "ასტრო",
+    "u": "http://astronet.ge/?s={{{s}}}"
+  },
+  {
+    "d": "search.naver.com",
+    "s": "Naver",
+    "t": "ㄴ",
+    "u": "https://search.naver.com/search.naver?query={{{s}}}"
+  },
+  {
+    "d": "dic.daum.net",
+    "s": "Daum 어학사전",
+    "t": "다음사전",
+    "u": "http://dic.daum.net/search.do?q={{{s}}}"
+  }
+]

@@ -1,0 +1,1016 @@
+[
+  {
+    "d": "www.y8.com",
+    "s": "Y8",
+    "t": "y8",
+    "u": "http://www.y8.com/search?utf8=%E2%9C%93&kind=game&q={{{s}}}"
+  },
+  {
+    "d": "chinese.yabla.com",
+    "s": "Yabla Chinese",
+    "t": "yabla",
+    "u": "https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define={{{s}}} "
+  },
+  {
+    "d": "search.yacy.net",
+    "s": "yacy",
+    "t": "yacy",
+    "u": "https://search.yacy.net/yacysearch/index.html?query={{{s}}}&Enter=&verify=false&nav=filetype%2Cprotocol%2Chosts%2Cauthors%2Ccollections%2Cnamespace%2Ctopics%2Cdate&startRecord=0&indexof=off&meanCount=5&resource=global&prefermaskfilter=&maximumRecords=10&timezoneOffset=0"
+  },
+  {
+    "d": "www.yad2.co.il",
+    "s": "Yad2- Search Second hand items (Hebrew)",
+    "t": "yad2",
+    "u": "https://www.yad2.co.il/products/all?info={{{s}}}"
+  },
+  {
+    "d": "slovari.yandex.ru",
+    "s": "Yandex Dictionaries",
+    "t": "yad",
+    "u": "https://slovari.yandex.ru/{{{s}}}/"
+  },
+  {
+    "d": "yandex.com",
+    "s": "Yandex",
+    "t": "yaen",
+    "u": "https://yandex.com/yandsearch?text={{{s}}}&lr=103421"
+  },
+  {
+    "d": "au.finance.yahoo.com",
+    "s": "Yahoo Finance Australia",
+    "t": "yahoofinau",
+    "u": "https://au.finance.yahoo.com/quote/{{{s}}}"
+  },
+  {
+    "d": "dic.search.yahoo.co.jp",
+    "s": "Yahoo Search Japan",
+    "t": "yahoojdic",
+    "u": "http://dic.search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "d": "search.yahoo.com",
+    "s": "Yahoo!",
+    "t": "yahoo",
+    "u": "http://search.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "d": "auctions.search.yahoo.co.jp",
+    "s": "Yahoo! Auctions Japan",
+    "t": "yajp",
+    "u": "http://auctions.search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "d": "ya-market.org",
+    "s": "Ya Market",
+    "t": "yamarket",
+    "u": "https://ya-market.org/products?search={{{s}}}"
+  },
+  {
+    "d": "market.yandex.ru",
+    "s": "Yandex.Market",
+    "t": "yama",
+    "u": "https://market.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "d": "yamgo.com",
+    "s": "Yamgo TV",
+    "t": "yamgo",
+    "u": "http://yamgo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "music.yandex.ru",
+    "s": "Yandex Music",
+    "t": "yamusic",
+    "u": "https://music.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "d": "music.yandex.ru",
+    "s": "yandex music",
+    "t": "yamu",
+    "u": "https://music.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "d": "www.yammer.com",
+    "s": "Yammer",
+    "t": "yam",
+    "u": "https://www.yammer.com/search?search={{{s}}}"
+  },
+  {
+    "d": "yandex.com",
+    "s": "Yandex",
+    "t": "yandexen",
+    "u": "https://yandex.com/yandsearch?text={{{s}}}"
+  },
+  {
+    "d": "maps.yandex.ru",
+    "s": "Yandex Maps",
+    "t": "yandexmaps",
+    "u": "http://maps.yandex.ru/?text={{{s}}} "
+  },
+  {
+    "d": "market.yandex.ru",
+    "s": "Yandex Market",
+    "t": "yandexm",
+    "u": "http://market.yandex.ru/search.xml?text={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "yandex.ru/pogoda/",
+    "t": "yandexw",
+    "u": "https://yandex.ru/pogoda/{{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Yandex.Ru",
+    "t": "yandex",
+    "u": "https://yandex.ru/yandsearch?text={{{s}}}"
+  },
+  {
+    "d": "answers.yahoo.com",
+    "s": "Yahoo! Answers",
+    "t": "yanswers",
+    "u": "http://answers.yahoo.com/search/search_result;_ylt=AnPnri0ekBBFsWt64sNbHmvj1KIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers"
+  },
+  {
+    "d": "yandex.com",
+    "s": "yandex.com",
+    "t": "yan",
+    "u": "https://yandex.com/search/?text={{{s}}}"
+  },
+  {
+    "d": "www.yaoota.com",
+    "s": "yaoota",
+    "t": "yaoota",
+    "u": "https://www.yaoota.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "yarnpkg.com",
+    "s": "Yarn",
+    "t": "yarnpkg",
+    "u": "https://yarnpkg.com/en/packages?q={{{s}}}"
+  },
+  {
+    "d": "yarnpkg.com",
+    "s": "Yarn",
+    "t": "yarn",
+    "u": "https://yarnpkg.com/en/packages?q={{{s}}}"
+  },
+  {
+    "d": "slovari.yandex.ru",
+    "s": "Yandex Slovari",
+    "t": "yaslovari",
+    "u": "https://slovari.yandex.ru/{{{s}}}"
+  },
+  {
+    "d": "yandex.com.tr",
+    "s": "Yandex Turkey",
+    "t": "yatr",
+    "u": "https://yandex.com.tr/search/?text={{{s}}}"
+  },
+  {
+    "d": "www.youtube.be",
+    "s": "YouTube BE",
+    "t": "yatu",
+    "u": "https://www.youtube.be/?q={{{s}}}: "
+  },
+  {
+    "d": "translate.yandex.com",
+    "s": "Yandex Translate",
+    "t": "yat",
+    "u": "https://translate.yandex.com/?text={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Yandex Video",
+    "t": "yav",
+    "u": "https://yandex.ru/video/search?text={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Yandex Weather",
+    "t": "yaw",
+    "u": "https://yandex.ru/pogoda/search?request={{{s}}}"
+  },
+  {
+    "d": "yandex.ru",
+    "s": "Yandex",
+    "t": "ya",
+    "u": "https://yandex.ru/search/?text={{{s}}}"
+  },
+  {
+    "d": "yayimages.com",
+    "s": "YAYIMAGES",
+    "t": "yayimg",
+    "u": "https://yayimages.com/search?phrase={{{s}}}"
+  },
+  {
+    "d": "www.yay.bg",
+    "s": "YAY.BG",
+    "t": "yay",
+    "u": "https://www.yay.bg/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "hn.algolia.com",
+    "s": "Hacker News Search",
+    "t": "yc",
+    "u": "https://hn.algolia.com/?query={{{s}}}"
+  },
+  {
+    "d": "chiebukuro.search.yahoo.co.jp",
+    "s": "Yahoo! Japan Chiebukuro",
+    "t": "ychiejp",
+    "u": "http://chiebukuro.search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "d": "dict.youdao.com",
+    "s": "Youdao Dict",
+    "t": "ydd",
+    "u": "http://dict.youdao.com/search?q={{{s}}}"
+  },
+  {
+    "d": "de.yahoo.com",
+    "s": "Yahoo German",
+    "t": "yde",
+    "u": "https://de.yahoo.com/?q={{{s}}}"
+  },
+  {
+    "d": "dic.search.yahoo.co.jp",
+    "s": "Yahoo!辞書",
+    "t": "ydic",
+    "u": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p={{{s}}}&stype=full&fr=dic"
+  },
+  {
+    "d": "www.yourdictionary.com",
+    "s": "YourDictionary",
+    "t": "yd",
+    "u": "http://www.yourdictionary.com/search/?ydQ={{{s}}}"
+  },
+  {
+    "d": "www.yeastgenome.org",
+    "s": "Saccharomyces Genome Database (SGD) ",
+    "t": "yeast",
+    "u": "http://www.yeastgenome.org/search?q={{{s}}}&is_quick=true"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Gabriel Weinberg's Blog",
+    "t": "yegg",
+    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fwww.gabrielweinberg.com%2Fblog+{{{s}}}"
+  },
+  {
+    "d": "www.yeggi.com",
+    "s": "Yeggi",
+    "t": "yeggi",
+    "u": "http://www.yeggi.com/q/{{{s}}}/"
+  },
+  {
+    "d": "www.yellow.lu",
+    "s": "Yellow.lu",
+    "t": "yellowlu",
+    "u": "http://www.yellow.lu/en/yellow-pages/search?location=&query={{{s}}}&sort_by=relevance"
+  },
+  {
+    "d": "yellow.co.nz",
+    "s": "Yellow NZ",
+    "t": "yellownz",
+    "u": "http://yellow.co.nz/yellow+pages/{{{s}}}/New+Zealand"
+  },
+  {
+    "d": "www.yelp.de",
+    "s": "Yelp.de",
+    "t": "yelpde",
+    "u": "http://www.yelp.de/search?find_desc={{{s}}}&ns=1&rpp=10&find_loc="
+  },
+  {
+    "d": "www.yelp.com",
+    "s": "Yelp San Diego",
+    "t": "yelpsd",
+    "u": "http://www.yelp.com/search?find_desc={{{s}}}&find_loc=san+diego&ns=1"
+  },
+  {
+    "d": "www.yelp.com",
+    "s": "Yelp",
+    "t": "yelp",
+    "u": "http://www.yelp.com/search?find_desc={{{s}}}&ns=1&rpp=10&find_loc="
+  },
+  {
+    "d": "www.yentlendeboer.nl",
+    "s": "Yentl en de Boer",
+    "t": "yentlendeboer",
+    "u": "http://www.yentlendeboer.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.yesasia.com",
+    "s": "Yes Asia",
+    "t": "yesasia",
+    "u": "http://www.yesasia.com/us/search/{{{s}}}/0-0-0-q.{{{s}}}_bpt.48-en/list.html"
+  },
+  {
+    "d": "yetigogo.com",
+    "s": "YetiGoGo",
+    "t": "yeti",
+    "u": "https://yetigogo.com/?q={{{s}}}"
+  },
+  {
+    "d": "finance.yahoo.com",
+    "s": "Yahoo Finance Charts",
+    "t": "yfc",
+    "u": "https://finance.yahoo.com/quote/{{{s}}}/chart"
+  },
+  {
+    "d": "yufid.com",
+    "s": "Yufid",
+    "t": "yfd",
+    "u": "http://yufid.com/result/?search={{{s}}} "
+  },
+  {
+    "d": "finance.yahoo.com",
+    "s": "Yahoo Finance",
+    "t": "yfinance",
+    "u": "https://finance.yahoo.com/quote/{{{s}}}"
+  },
+  {
+    "d": "finance.yahoo.com",
+    "s": "Yahoo Finance (Company Profile)",
+    "t": "yfp",
+    "u": "https://finance.yahoo.com/quote/{{{s}}}/profile"
+  },
+  {
+    "d": "finance.yahoo.com",
+    "s": "Yahoo Finance",
+    "t": "yf",
+    "u": "https://finance.yahoo.com/quote/{{{s}}}"
+  },
+  {
+    "d": "yugioh.wikia.com",
+    "s": "Yu-Gi-Oh! Wikia",
+    "t": "ygo",
+    "u": "http://yugioh.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.yeastgenome.org",
+    "s": "Saccharomyces Genome Database",
+    "t": "yg",
+    "u": "https://www.yeastgenome.org/search?q={{{s}}}"
+  },
+  {
+    "d": "yandex.com.tr",
+    "s": "Yandex Haritalar",
+    "t": "yh",
+    "u": "https://yandex.com.tr/harita/?text={{{s}}}"
+  },
+  {
+    "d": "www.yidio.com",
+    "s": "Yidio",
+    "t": "yidio",
+    "u": "http://www.yidio.com/search/entertainment/{{{s}}}/1?find={{{s}}}"
+  },
+  {
+    "d": "www.yiiframework.com",
+    "s": "Yii Framework",
+    "t": "yii",
+    "u": "http://www.yiiframework.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "images.search.yahoo.com",
+    "s": "Yahoo! Images",
+    "t": "yimages",
+    "u": "http://images.search.yahoo.com/search/images;_ylt=A0WTefMw66dLrEoAACeLuLkF?p={{{s}}}&ei=utf-8&iscqry=&fr=sfp"
+  },
+  {
+    "d": "images.search.yahoo.com",
+    "s": "Yahoo! Images",
+    "t": "yim",
+    "u": "http://images.search.yahoo.com/search/images?p={{{s}}}&fr=alltheweb&ei=utf-8&n=30&x=wrt&y=Search"
+  },
+  {
+    "d": "www.yippy.com",
+    "s": "Yippy",
+    "t": "yippy",
+    "u": "https://www.yippy.com/search/?v%3Aproject=clusty-new&query={{{s}}}"
+  },
+  {
+    "d": "images.search.yahoo.com",
+    "s": "Yahoo Image Search",
+    "t": "yi",
+    "u": "https://images.search.yahoo.com/search/images?p={{{s}}}"
+  },
+  {
+    "d": "dic.search.yahoo.co.jp",
+    "s": "Yahoo Jisho",
+    "t": "yjisho",
+    "u": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p={{{s}}}&fr=dic&stype=prefix"
+  },
+  {
+    "d": "map.yahoo.co.jp",
+    "s": "yahoo japan map",
+    "t": "yjm",
+    "u": "https://map.yahoo.co.jp/mapsearch/search?p={{{s}}}"
+  },
+  {
+    "d": "search.yahoo.co.jp",
+    "s": "Yahoo! Japan",
+    "t": "yjp",
+    "u": "http://search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "d": "search.yahoo.co.jp",
+    "s": "Yahoo! Japan Realtime",
+    "t": "yjr",
+    "u": "https://search.yahoo.co.jp/realtime/search?p={{{s}}}"
+  },
+  {
+    "d": "tv.yahoo.co.jp",
+    "s": "Yahoo! Japan TV",
+    "t": "yjtv",
+    "u": "https://tv.yahoo.co.jp/search/?q={{{s}}}"
+  },
+  {
+    "d": "youngjustice.wikia.com",
+    "s": "Young Justice Wiki",
+    "t": "yjwiki",
+    "u": "http://youngjustice.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "search.yahoo.co.jp",
+    "s": "Yahoo Japan",
+    "t": "yj",
+    "u": "https://search.yahoo.co.jp/search?p={{{s}}}"
+  },
+  {
+    "d": "haku.yle.fi",
+    "s": "Yle",
+    "t": "yle",
+    "u": "http://haku.yle.fi/?language=fi&UILanguage=fi&q={{{s}}}"
+  },
+  {
+    "d": "ylilauta.org",
+    "s": "ylilauta.org",
+    "t": "ylilauta",
+    "u": "https://ylilauta.org/{{{s}}} "
+  },
+  {
+    "d": "mail.yahoo.com",
+    "s": "Yahoo Mail",
+    "t": "ymail",
+    "u": "https://mail.yahoo.com/d/search/keyword={{{s}}}"
+  },
+  {
+    "d": "www.youmagine.com",
+    "s": "Youmagine",
+    "t": "ymgn",
+    "u": "https://www.youmagine.com/search/designs?search={{{s}}}"
+  },
+  {
+    "d": "yandex.com",
+    "s": "Yandex Images",
+    "t": "ymg",
+    "u": "https://yandex.com/images/search?text={{{s}}}"
+  },
+  {
+    "d": "www.youneedabudget.com",
+    "s": "https://www.youneedabudget.com/",
+    "t": "ynab",
+    "u": "https://www.youneedabudget.com/?s={{{s}}}"
+  },
+  {
+    "d": "news.search.yahoo.com",
+    "s": "Yahoo! News",
+    "t": "ynews",
+    "u": "http://news.search.yahoo.com/news/search?ei=UTF-8&fr=news-us-ss&c=&p={{{s}}}"
+  },
+  {
+    "d": "fr.news.search.yahoo.com",
+    "s": "Yahoo news france",
+    "t": "ynfr",
+    "u": "https://fr.news.search.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "d": "yubnub.org",
+    "s": "Yubnub",
+    "t": "yn",
+    "u": "http://yubnub.org/parser/parse?command={{{s}}} "
+  },
+  {
+    "d": "www.yobi3d.com",
+    "s": "Yobi3D",
+    "t": "yobi3d",
+    "u": "https://www.yobi3d.com/#!/search?q={{{s}}}"
+  },
+  {
+    "d": "www.yodobashi.com",
+    "s": "Yodobashi.com",
+    "t": "yodobashi",
+    "u": "http://www.yodobashi.com/ec/category/index.html?word={{{s}}}"
+  },
+  {
+    "d": "yogscast.wikia.com",
+    "s": "Yogscast Wiki",
+    "t": "yogscast",
+    "u": "http://yogscast.wikia.com/wiki/index.php?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "yomikatawa.com",
+    "s": "読み方は？",
+    "t": "yomikata",
+    "u": "https://yomikatawa.com/kanji/{{{s}}}"
+  },
+  {
+    "d": "www.yopmail.com",
+    "s": "YopMail.com",
+    "t": "yop.email",
+    "u": "http://www.yopmail.com/en/?login={{{s}}}"
+  },
+  {
+    "d": "www.yopi.de",
+    "s": "Yopi Tests und Preise",
+    "t": "yopi",
+    "u": "http://www.yopi.de/search?search_str={{{s}}}"
+  },
+  {
+    "d": "www.yopmail.com",
+    "s": "YopMail",
+    "t": "yopmail",
+    "u": "http://www.yopmail.com/en/index.php?login={{{s}}}"
+  },
+  {
+    "d": "dict.youdao.com",
+    "s": "有道词典",
+    "t": "youdaod",
+    "u": "http://dict.youdao.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.youdao.com",
+    "s": "Youdao",
+    "t": "youdao",
+    "u": "http://www.youdao.com/search?q={{{s}}}&ue=utf8&keyfrom=web.index"
+  },
+  {
+    "d": "youglish.com",
+    "s": "YouGlish",
+    "t": "youglish",
+    "u": "http://youglish.com/search/{{{s}}}/us"
+  },
+  {
+    "d": "www.soku.com",
+    "s": "Youku",
+    "t": "youku",
+    "u": "http://www.soku.com/search_video/q_{{{s}}}"
+  },
+  {
+    "d": "youla.ru",
+    "s": "Youla / Юла",
+    "t": "youla",
+    "u": "https://youla.ru/?q={{{s}}}"
+  },
+  {
+    "d": "youloop.org",
+    "s": "youloop.org",
+    "t": "youloop",
+    "u": "http://youloop.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.youmagine.com",
+    "s": "YouMagine",
+    "t": "youmagine",
+    "u": "https://www.youmagine.com/search/designs?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "d": "www.youpak.com",
+    "s": "https://www.youpak.com/",
+    "t": "youpak",
+    "u": "https://www.youpak.com/search?q={{{s}}}"
+  },
+  {
+    "d": "yourei.jp",
+    "s": "Yourei.jp",
+    "t": "yourei",
+    "u": "http://yourei.jp/{{{s}}}"
+  },
+  {
+    "d": "youglish.com",
+    "s": "Yourglish",
+    "t": "yourglish",
+    "u": "https://youglish.com/search/{{{s}}}?"
+  },
+  {
+    "d": "www.yours.org",
+    "s": "yours.org",
+    "t": "yours",
+    "u": "https://www.yours.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.yourtv.com.au",
+    "s": "yourTV.com.au",
+    "t": "yourtv",
+    "u": "http://www.yourtv.com.au/guide/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "youtubeonrepeat.com",
+    "s": "Youtube on Repeat",
+    "t": "youtubeonrepeat",
+    "u": "http://youtubeonrepeat.com/results/?search_query={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube",
+    "t": "youtube",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "www.youtv.de",
+    "s": "YouTV",
+    "t": "youtv",
+    "u": "https://www.youtv.de/suche?search[q]={{{s}}}"
+  },
+  {
+    "d": "yout.com",
+    "s": "yout.com",
+    "t": "yout",
+    "u": "https://yout.com/search?terms={{{s}}}"
+  },
+  {
+    "d": "www.bible.com",
+    "s": "Bible YouVersion",
+    "t": "youversion",
+    "u": "https://www.bible.com/search/bible?q={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube",
+    "t": "you",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "yochicago.com",
+    "s": "YoChicago",
+    "t": "yo",
+    "u": "http://yochicago.com/?s={{{s}}}"
+  },
+  {
+    "d": "yppedia.puzzlepirates.com",
+    "s": "Puzzle Pirates YPPedia",
+    "t": "ypp",
+    "u": "https://yppedia.puzzlepirates.com/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "wiki.yoctoproject.org",
+    "s": "Yocto Project Wiki",
+    "t": "ypw",
+    "u": "https://wiki.yoctoproject.org/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.yellowpages.com",
+    "s": "YellowPages",
+    "t": "yp",
+    "u": "https://www.yellowpages.com/search?search_terms={{{s}}}"
+  },
+  {
+    "d": "yippy.com",
+    "s": "Yippy",
+    "t": "ypy",
+    "u": "http://yippy.com/search/?v%3Aproject=clusty-new&query={{{s}}}"
+  },
+  {
+    "d": "yandex.com",
+    "s": "Yandex",
+    "t": "yri",
+    "u": "https://yandex.com/images/search?source=collections&&url={{{s}}}&rpt=imageview"
+  },
+  {
+    "d": "search.yahoo.co.jp",
+    "s": "Yahoo! Japan Realtime",
+    "t": "yrtjp",
+    "u": "https://search.yahoo.co.jp/realtime/search?p={{{s}}}"
+  },
+  {
+    "d": "www.yr.no",
+    "s": "yr.no/NRK/Meteorologisk institutt Weather",
+    "t": "yr",
+    "u": "http://www.yr.no/soek/soek.aspx?sted={{{s}}}"
+  },
+  {
+    "d": "search.yahoo.com",
+    "s": "Yahoo Sports",
+    "t": "ysports",
+    "u": "https://search.yahoo.com/search?p=/{{{s}}}"
+  },
+  {
+    "d": "ystream.tv",
+    "s": "YStream.TV",
+    "t": "ystream",
+    "u": "https://ystream.tv/q/?s={{{s}}}"
+  },
+  {
+    "d": "slovari.yandex.ru",
+    "s": "Яндекс.Словари",
+    "t": "ys",
+    "u": "https://slovari.yandex.ru/{{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube",
+    "t": "yt24",
+    "u": "https://www.youtube.com/results?q={{{s}}}&sp=EgIIAg%253D%253D"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube",
+    "t": "ytb",
+    "u": "https://www.youtube.com/results?search_query= {{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube (Creative Commons)",
+    "t": "ytcc",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIwAQ%253D%253D"
+  },
+  {
+    "d": "www.youtube.ch",
+    "s": "YouTube CH",
+    "t": "ytch",
+    "u": "https://www.youtube.ch/results?search_query={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube Channel Videos",
+    "t": "ytcv",
+    "u": "https://www.youtube.com/user/{{{s}}}/videos"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube Channel",
+    "t": "ytc",
+    "u": "https://www.youtube.com/user/{{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube",
+    "t": "ytdate",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&search_sort=video_date_uploaded"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube",
+    "t": "ytday",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIIAg%253D%253D"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube",
+    "t": "ytde",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=DE&hl=de"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube",
+    "t": "ytd",
+    "u": "https://www.youtube.com/watch?v={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube ES",
+    "t": "ytes",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=ES&hl=es"
+  },
+  {
+    "d": "www.youtube.fr",
+    "s": "YouTube France",
+    "t": "ytfr",
+    "u": "http://www.youtube.fr/results?search_query={{{s}}}"
+  },
+  {
+    "d": "gaming.youtube.com",
+    "s": "YouTube Gaming",
+    "t": "ytgaming",
+    "u": "https://gaming.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "gaming.youtube.com",
+    "s": "Youtube Gaming",
+    "t": "ytg",
+    "u": "https://gaming.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube History",
+    "t": "yth",
+    "u": "https://www.youtube.com/feed/history?query={{{s}}}"
+  },
+  {
+    "d": "in.youtube.com",
+    "s": "YouTube India",
+    "t": "yti",
+    "u": "https://in.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "travel.yahoo.co.jp",
+    "s": "Yahoo! Travel Japan",
+    "t": "ytj",
+    "u": "https://travel.yahoo.co.jp/dhotel/search/?qry={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube",
+    "t": "ytlist",
+    "u": "https://www.youtube.com/results?filters=playlist&lclk=playlist&search_query={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube - long",
+    "t": "ytl",
+    "u": "https://www.youtube.com/results?search_type=videos&search_query={{{s}}}&search_duration=long&uni=3"
+  },
+  {
+    "d": "ytmnd.com",
+    "s": "YTMND",
+    "t": "ytmnd",
+    "u": "http://ytmnd.com/search?q={{{s}}}"
+  },
+  {
+    "d": "music.youtube.com",
+    "s": "YouTube Music",
+    "t": "ytmusic",
+    "u": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "d": "music.youtube.com",
+    "s": "YouTube Music",
+    "t": "ytmu",
+    "u": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube (MX)",
+    "t": "ytmx",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=MX"
+  },
+  {
+    "d": "music.youtube.com",
+    "s": "Youtube Music",
+    "t": "ytm",
+    "u": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "d": "youtubenews.de",
+    "s": "YouTube News DE",
+    "t": "ytn",
+    "u": "https://youtubenews.de/?s={{{s}}}"
+  },
+  {
+    "d": "youtubeonrepeat.com",
+    "s": "YouTube On Repeat",
+    "t": "ytor",
+    "u": "http://youtubeonrepeat.com/results/?search_query={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube playlists",
+    "t": "ytp",
+    "u": "https://www.youtube.com/results?q={{{s}}}&sp=EgIQAw%253D%253D"
+  },
+  {
+    "d": "youtrack.jetbrains.com",
+    "s": "YouTrack",
+    "t": "ytrack",
+    "u": "https://youtrack.jetbrains.com/issues?q={{{s}}}"
+  },
+  {
+    "d": "translate.yandex.com",
+    "s": "Yandex.Translate",
+    "t": "ytren",
+    "u": "https://translate.yandex.com/?text={{{s}}}"
+  },
+  {
+    "d": "translate.yandex.ru",
+    "s": "Yandex.Translate",
+    "t": "ytr",
+    "u": "https://translate.yandex.ru/?text={{{s}}}"
+  },
+  {
+    "d": "tv.youtube.com",
+    "s": "Youtube TV",
+    "t": "yttv",
+    "u": "https://tv.youtube.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube (US)",
+    "t": "ytus",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=US"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Youtube video",
+    "t": "ytvideo",
+    "u": "https://www.youtube.com/watch?v={{{s}}}"
+  },
+  {
+    "d": "www.yourtv.com.au",
+    "s": "yourTV.com.au",
+    "t": "ytv",
+    "u": "http://www.yourtv.com.au/guide/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "tw.dictionary.search.yahoo.com",
+    "s": "Yahoo奇摩字典",
+    "t": "ytwd",
+    "u": "https://tw.dictionary.search.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "d": "tw.search.yahoo.com",
+    "s": "Yahoo! Taiwan",
+    "t": "ytw",
+    "u": "http://tw.search.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "YouTube",
+    "t": "yt",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "yubnub.org",
+    "s": "YubNub",
+    "t": "yubnub",
+    "u": "http://yubnub.org/parser/parse?command={{{s}}}"
+  },
+  {
+    "d": "www.db.yugioh-card.com",
+    "s": "Yu-Gi-Oh! Card Database",
+    "t": "yugiohdb",
+    "u": "http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=1&keyword={{{s}}}&stype=1&ctype=&starfr=&starto=&atkfr=&atkto=&deffr=&defto=&othercon=1"
+  },
+  {
+    "d": "yugipedia.com",
+    "s": "Yu-Gi-Oh! Wikia",
+    "t": "yugioh",
+    "u": "https://yugipedia.com/wiki/Special:Search?search={{{s}}}&button=Go"
+  },
+  {
+    "d": "hooktube.com",
+    "s": "HookTube",
+    "t": "yu",
+    "u": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "yume100prince.wikia.com",
+    "s": "Yume100 Wiki",
+    "t": "yume100",
+    "u": "http://yume100prince.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.yummly.com",
+    "s": "Yummly",
+    "t": "yummly",
+    "u": "http://www.yummly.com/recipes?q={{{s}}}"
+  },
+  {
+    "d": "www.yummly.com",
+    "s": "Yummly",
+    "t": "yum",
+    "u": "http://www.yummly.com/recipes?q={{{s}}}"
+  },
+  {
+    "d": "www.yvr.ca",
+    "s": "Vancouver Airport",
+    "t": "yvr",
+    "u": "http://www.yvr.ca/en/search#q={{{s}}}"
+  },
+  {
+    "d": "video.search.yahoo.com",
+    "s": "Yahoo Video Search",
+    "t": "yv",
+    "u": "https://video.search.yahoo.com/search/video?p={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Yahoo! Weather",
+    "t": "yw",
+    "u": "https://duckduckgo.com/?q=site%3Aweather.yahoo.com+{{{s}}}"
+  },
+  {
+    "d": "maps.yandex.ru",
+    "s": "Maps.Yandex",
+    "t": "yxmaps",
+    "u": "https://maps.yandex.ru/?text={{{s}}}"
+  },
+  {
+    "d": "search.yahoo.com",
+    "s": "Yahoo!",
+    "t": "y",
+    "u": "http://search.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "d": "yuyuhakusho.wikia.com",
+    "s": "Yu Yu Hakusho Wiki",
+    "t": "yyh",
+    "u": "http://yuyuhakusho.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "youzeek.com",
+    "s": "youzeek",
+    "t": "yz",
+    "u": "http://youzeek.com/?lng=RU#xPAGE_V3-Artist_%3Flng%3DRU%26Artist%3D{{{s}}}%26page%3DGeneral"
+  }
+]

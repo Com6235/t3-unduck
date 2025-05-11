@@ -1,0 +1,1274 @@
+[
+  {
+    "d": "junookyo.blogspot.com",
+    "s": "Juno_okyo's Blog",
+    "t": "j2team",
+    "u": "https://junookyo.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate",
+    "t": "ja2en",
+    "u": "https://translate.google.com/#ja/en/{{{s}}}"
+  },
+  {
+    "d": "www.jabong.com",
+    "s": "Jabong.com",
+    "t": "jab",
+    "u": "https://www.jabong.com/find/{{{s}}}"
+  },
+  {
+    "d": "jacobinmag.com",
+    "s": "Jacobin Magazine",
+    "t": "jacobin",
+    "u": "https://jacobinmag.com/search?query={{{s}}}"
+  },
+  {
+    "d": "japaneseverbconjugator.com",
+    "s": "Ultra Handy Japanese Verb Conjugator",
+    "t": "jaconj",
+    "u": "http://japaneseverbconjugator.com/VerbDetails.asp?txtVerb={{{s}}}&Go=Conjugate"
+  },
+  {
+    "d": "jade.io",
+    "s": "BarNet Jade",
+    "t": "jade",
+    "u": "https://jade.io/search/{{{s}}}"
+  },
+  {
+    "d": "jadi.net",
+    "s": "jadi.net",
+    "t": "jadi",
+    "u": "https://jadi.net/?s={{{s}}}"
+  },
+  {
+    "d": "ja.is",
+    "s": "Já.is",
+    "t": "já",
+    "u": "http://ja.is/?q={{{s}}}"
+  },
+  {
+    "d": "www.j-archive.com",
+    "s": "j-archive",
+    "t": "ja",
+    "u": "http://www.j-archive.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.jal.co.jp",
+    "s": "JAL",
+    "t": "jal",
+    "u": "http://www.jal.co.jp/cgi-bin/jal/insite_search/index.cgi?keyword={{{s}}}&collection=jalcojp&charset=shift_jis"
+  },
+  {
+    "d": "jalopnik.com",
+    "s": "Jalopnik",
+    "t": "jalop",
+    "u": "http://jalopnik.com/search?q={{{s}}}"
+  },
+  {
+    "d": "jalopnik.com",
+    "s": "Jalopnik",
+    "t": "jalopnik",
+    "u": "http://jalopnik.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.jamendo.com",
+    "s": "Jamendo",
+    "t": "jamendo",
+    "u": "https://www.jamendo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.jamf.com",
+    "s": "Jamf Nation",
+    "t": "jamf",
+    "u": "https://www.jamf.com/jamf-nation/search?query={{{s}}}"
+  },
+  {
+    "d": "www.jamieoliver.com",
+    "s": "Jamie Oliver",
+    "t": "jamie",
+    "u": "https://www.jamieoliver.com/search/?s={{{s}}}"
+  },
+  {
+    "d": "www.jamendo.com",
+    "s": "Jamendo",
+    "t": "jam",
+    "u": "https://www.jamendo.com/en/search?qs=q={{{s}}}"
+  },
+  {
+    "d": "janus.lib.cam.ac.uk",
+    "s": "Janus: Catalogues of Cambridge Archives",
+    "t": "janus",
+    "u": "https://janus.lib.cam.ac.uk/db/node.xsp?search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Joomla! API",
+    "t": "japi",
+    "u": "https://duckduckgo.com/?q=site%3Aapi.joomla.org+{{{s}}}"
+  },
+  {
+    "d": "support.justaddpower.com",
+    "s": "support.justaddpower.com",
+    "t": "jap",
+    "u": "https://support.justaddpower.com/kb/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.findjar.com",
+    "s": "FindJar.com",
+    "t": "jar",
+    "u": "http://www.findjar.com/index.x?query={{{s}}}"
+  },
+  {
+    "d": "jargonf.org",
+    "s": "Le Jargon Français",
+    "t": "jargonf",
+    "u": "http://jargonf.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Jargon File",
+    "t": "jargon",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Acatb.org+inurl%3Ajargon"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Java 11 documentation",
+    "t": "java11",
+    "u": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fen%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F+{{{s}}}"
+  },
+  {
+    "d": "search.oracle.com",
+    "s": "Java4 Docs",
+    "t": "java4",
+    "u": "http://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/1.4.2/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0"
+  },
+  {
+    "d": "search.oracle.com",
+    "s": "Java5 Docs",
+    "t": "java5",
+    "u": "http://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/1.5.0/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0"
+  },
+  {
+    "d": "search.oracle.com",
+    "s": "Java6 Docs",
+    "t": "java6",
+    "u": "http://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/6/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0"
+  },
+  {
+    "d": "docs.oracle.com",
+    "s": "Oracle Help Center",
+    "t": "java7",
+    "u": "https://docs.oracle.com/apps/search/search.jsp?q={{{s}}}&category=java&product=e17409-01"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Java 8 Documentation",
+    "t": "java8",
+    "u": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fjavase%2F8%2Fdocs%2Fapi%2F+{{{s}}}"
+  },
+  {
+    "d": "docs.oracle.com",
+    "s": "Java Oracle documenation",
+    "t": "java9",
+    "u": "http://docs.oracle.com/apps/search/search.jsp?category=java&q={{{s}}}"
+  },
+  {
+    "d": "search.oracle.com",
+    "s": "Oracle",
+    "t": "javafx",
+    "u": "https://search.oracle.com/search/search?num=10&exttimeout=false&q={{{s}}}+url:/javase/8/javafx/api&group=Documentation"
+  },
+  {
+    "d": "java.libhunt.com",
+    "s": "Java LibHunt",
+    "t": "javalibhunt",
+    "u": "https://java.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "d": "javalibs.com",
+    "s": "Javalibs",
+    "t": "javalibs",
+    "u": "https://javalibs.com/search?q={{{s}}}"
+  },
+  {
+    "d": "docs.oracle.com",
+    "s": "Oracle Java Docs",
+    "t": "java",
+    "u": "https://docs.oracle.com/apps/search/search.jsp?q={{{s}}}&category=java"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "JavaScript Docs",
+    "t": "javascript",
+    "u": "https://developer.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "d": "ja.wikibooks.org",
+    "s": "Japanese Wikibooks",
+    "t": "jawb",
+    "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ja.wikipedia.org",
+    "s": "Japanese Wikipedia",
+    "t": "jawiki",
+    "u": "https://ja.wikipedia.org/wiki/{{{s}}} "
+  },
+  {
+    "d": "ja.wikipedia.org",
+    "s": "Japanese Wikipedia",
+    "t": "jawp",
+    "u": "https://ja.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ja.wikiquote.org",
+    "s": "Japanese Wikiquote",
+    "t": "jawq",
+    "u": "https://ja.wikiquote.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ja.wikisource.org",
+    "s": "Japanese Wikisource",
+    "t": "jaws",
+    "u": "https://ja.wikisource.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ja.wiktionary.org",
+    "s": "Japanese Wiktionary",
+    "t": "jawt",
+    "u": "https://ja.wiktionary.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ja.wikiversity.org",
+    "s": "Japanese Wikiversity",
+    "t": "jawv",
+    "u": "https://ja.wikiversity.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.jaycar.co.nz",
+    "s": "Jaycar Electronics NZ",
+    "t": "jaycar",
+    "u": "https://www.jaycar.co.nz/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.jaycar.com.au",
+    "s": "Jaycar",
+    "t": "jay",
+    "u": "http://www.jaycar.com.au/search?text={{{s}}}"
+  },
+  {
+    "d": "www.jbhifi.com.au",
+    "s": "JB Hi Fi",
+    "t": "jbhifi",
+    "u": "http://www.jbhifi.com.au/?q={{{s}}}"
+  },
+  {
+    "d": "www.jupiterbroadcasting.com",
+    "s": "jupiter broadcasting",
+    "t": "jb",
+    "u": "http://www.jupiterbroadcasting.com/?s={{{s}}}"
+  },
+  {
+    "d": "jbovlaste.lojban.org",
+    "s": " The Logical Language Group Online Dictionary",
+    "t": "jbo",
+    "u": "http://jbovlaste.lojban.org/lookup?Form=lookup.pl1&Strategy=*&Query={{{s}}}"
+  },
+  {
+    "d": "jbovlaste.lojban.org",
+    "s": "Jbovlaste - search the lojban dictionary in any language",
+    "t": "jbovlaste",
+    "u": "http://jbovlaste.lojban.org/dict/{{{s}}}"
+  },
+  {
+    "d": "plugins.jetbrains.com",
+    "s": "JetBrains IDE Plugins",
+    "t": "jbplugins",
+    "u": "https://plugins.jetbrains.com/search?correctionAllowed=true&search={{{s}}}"
+  },
+  {
+    "d": "chaitan.cloudapp.net",
+    "s": "JustCompare",
+    "t": "jcomp",
+    "u": "http://chaitan.cloudapp.net/justcompare/search?q={{{s}}}"
+  },
+  {
+    "d": "jcp.org",
+    "s": "Java Community Process",
+    "t": "jcp",
+    "u": "https://jcp.org/en/jsr/summary?id={{{s}}}"
+  },
+  {
+    "d": "www.lejournaldubienetre.com",
+    "s": "Le Journal du Bien être",
+    "t": "jdbe",
+    "u": "http://www.lejournaldubienetre.com/search?tag={{{s}}}"
+  },
+  {
+    "d": "ca.justdial.com",
+    "s": "JustDial Canada",
+    "t": "jdca",
+    "u": "http://ca.justdial.com/allus/{{{s}}}"
+  },
+  {
+    "d": "www.journaldesfemmes.com",
+    "s": "Journal des femmes",
+    "t": "jdf",
+    "u": "http://www.journaldesfemmes.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.journaldugeek.com",
+    "s": "Le Journal du Geek",
+    "t": "jdg",
+    "u": "http://www.journaldugeek.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.justdial.com",
+    "s": "JustDial India",
+    "t": "jdin",
+    "u": "http://www.justdial.com/National-Search/{{{s}}}"
+  },
+  {
+    "d": "docs.oracle.com",
+    "s": "Java Docs",
+    "t": "jdk",
+    "u": "http://docs.oracle.com/apps/search/search.jsp?category=java&q={{{s}}}"
+  },
+  {
+    "d": "www.jdlighting.com.au",
+    "s": "JD Lighting",
+    "t": "jdl",
+    "u": "https://www.jdlighting.com.au/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.journaldunet.com",
+    "s": "JournalDuNet",
+    "t": "jdn",
+    "u": "http://www.journaldunet.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.justdial.com",
+    "s": "JustDial Pune",
+    "t": "jdpune",
+    "u": "http://www.justdial.com/Pune/{{{s}}}"
+  },
+  {
+    "d": "www.jdwetherspoon.co.uk",
+    "s": "J D Weatherpoon",
+    "t": "jdw",
+    "u": "http://www.jdwetherspoon.co.uk/home/pubs/find/{{{s}}}"
+  },
+  {
+    "d": "search.jd.com",
+    "s": "京东网上商城",
+    "t": "jd",
+    "u": "http://search.jd.com/Search?keyword={{{s}}}&enc=utf-8"
+  },
+  {
+    "d": "www.jedipedia.net",
+    "s": "Jedipedia.net",
+    "t": "jedi",
+    "u": "https://www.jedipedia.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "jedipedia.wikia.com",
+    "s": "Jedipedia Wikia",
+    "t": "jedipedia",
+    "u": "http://jedipedia.wikia.com/wiki/Spezial:Suche?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.jedisjeux.net",
+    "s": "http://www.jedisjeux.net/",
+    "t": "jedis",
+    "u": "http://www.jedisjeux.net/search_results.php?search={{{s}}}&button_search=Ok"
+  },
+  {
+    "d": "extensions.joomla.org",
+    "s": "Joomla Extensions",
+    "t": "jed",
+    "u": "https://extensions.joomla.org/extensions/extension/?searchall={{{s}}}&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=&filter%5Bhasdemo%5D=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&dir=DESC&limitstart=&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1"
+  },
+  {
+    "d": "www.jegs.com",
+    "s": "Jegs",
+    "t": "jegs",
+    "u": "https://www.jegs.com/webapp/wcs/stores/servlet/SearchResultsPageCmd?Ntt={{{s}}}"
+  },
+  {
+    "d": "items.jellyneo.net",
+    "s": "JellyNeo",
+    "t": "jellyneo",
+    "u": "https://items.jellyneo.net/search/?name={{{s}}}"
+  },
+  {
+    "d": "www.jensonusa.com",
+    "s": "JensonUSA",
+    "t": "jensonusa",
+    "u": "http://www.jensonusa.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.j-archive.com",
+    "s": "J! Archive",
+    "t": "jeopardy",
+    "u": "http://www.j-archive.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.aeaweb.org",
+    "s": "The Journal of Economic Perspectives",
+    "t": "jep",
+    "u": "https://www.aeaweb.org/journals/jep/search-results?within%5Btitle%5D=on&within%5Babstract%5D=on&within%5Bauthor%5D=on&journal=3&q={{{s}}}"
+  },
+  {
+    "d": "www.jergasdehablahispana.org",
+    "s": "Jergas de habla hispana",
+    "t": "jergas",
+    "u": "http://www.jergasdehablahispana.org/?pais=&palabra={{{s}}}&submit=Buscar&tipobusqueda=0"
+  },
+  {
+    "d": "jesuerocha.com",
+    "s": "Jesue Rocha",
+    "t": "jesuerocha",
+    "u": "https://jesuerocha.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.tanoshiijapanese.com",
+    "s": "Tanoshii Japanese",
+    "t": "je",
+    "u": "http://www.tanoshiijapanese.com/dictionary/index.cfm?j={{{s}}}&e=&search=Search+%3E"
+  },
+  {
+    "d": "www.jetbrains.com",
+    "s": "Jetbrains",
+    "t": "jetbrains",
+    "u": "https://www.jetbrains.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "jet.com",
+    "s": "Jet.com",
+    "t": "jet",
+    "u": "https://jet.com/search?term={{{s}}}"
+  },
+  {
+    "d": "thehappyjetlagger.com",
+    "s": "The Happy Jetlagger",
+    "t": "jetlag",
+    "u": "https://thehappyjetlagger.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.jetpens.com",
+    "s": "JetPens",
+    "t": "jetpens",
+    "u": "http://www.jetpens.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.jeuxvideo.com",
+    "s": "JeuxVideo",
+    "t": "jeux",
+    "u": "http://www.jeuxvideo.com/recherche.php?q={{{s}}}"
+  },
+  {
+    "d": "jezebel.com",
+    "s": "jezebel.com",
+    "t": "jezebel",
+    "u": "http://jezebel.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.liberty.edu",
+    "s": "Jerry Falwell Library",
+    "t": "jfl",
+    "u": "https://www.liberty.edu/library/search-results/?type=all&q={{{s}}}"
+  },
+  {
+    "d": "www.cambridge.org",
+    "s": "Journal of Fluid Mechanics",
+    "t": "jfm",
+    "u": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/listing?q={{{s}}}"
+  },
+  {
+    "d": "www.jazzguitar.be",
+    "s": "The Jazz Guitar Forum",
+    "t": "jgf",
+    "u": "http://www.jazzguitar.be/forum/search.php?searchid={{{s}}}"
+  },
+  {
+    "d": "jguitar.com",
+    "s": "JGuitar",
+    "t": "jguitar",
+    "u": "http://jguitar.com/chordsearch?chordsearch={{{s}}}"
+  },
+  {
+    "d": "jhg-traunreut.de",
+    "s": "Website des JHG-Traunreut",
+    "t": "jhg",
+    "u": "http://jhg-traunreut.de/index.php?q={{{s}}}&option=com_finder&view=search"
+  },
+  {
+    "d": "catalyst.library.jhu.edu",
+    "s": "Johns Hopkins University Library",
+    "t": "jhulib",
+    "u": "https://catalyst.library.jhu.edu/multi_search?utf8=✓&search_field=all_fields&q={{{s}}}"
+  },
+  {
+    "d": "items.jellyneo.net",
+    "s": "Jellyneo Item Database",
+    "t": "jid",
+    "u": "https://items.jellyneo.net/search/?name={{{s}}}"
+  },
+  {
+    "d": "jayisgames.com",
+    "s": "JayIsGames",
+    "t": "jig",
+    "u": "http://jayisgames.com/search/?cx=partner-pub-4854273876013864%3A9692641413&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}&sa=Search&siteurl=jayisgames.com%2Fgames%2F&ref=jayisgames.com%2F&ss=&siteurl=jayisgames.com%2Fsearch%2F%3Fq%3Dhello&ref=&ss=849j189425j6"
+  },
+  {
+    "d": "jisho.org",
+    "s": "Jisho.org",
+    "t": "ji",
+    "u": "https://jisho.org/search/{{{s}}}"
+  },
+  {
+    "d": "jisho.org",
+    "s": "Jisho (kanji search)",
+    "t": "jik",
+    "u": "https://jisho.org/search/%23kanji%20{{{s}}}"
+  },
+  {
+    "d": "www.jimms.fi",
+    "s": "Jimm's",
+    "t": "jimms",
+    "u": "https://www.jimms.fi/fi/Product/Search?q={{{s}}}"
+  },
+  {
+    "d": "jionews.com",
+    "s": "https://jionews.com",
+    "t": "jion",
+    "u": "https://jionews.com/search?query={{{s}}}"
+  },
+  {
+    "d": "jisho.org",
+    "s": "Jisho",
+    "t": "jisho",
+    "u": "http://jisho.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.jobintree.com",
+    "s": "Jobintree",
+    "t": "jit",
+    "u": "http://www.jobintree.com/emploi?keywords={{{s}}}"
+  },
+  {
+    "d": "jivesearch.com",
+    "s": "Jive",
+    "t": "jive",
+    "u": "https://jivesearch.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.jouwictvacature.nl",
+    "s": "JouwICTvacature",
+    "t": "jiv",
+    "u": "https://www.jouwictvacature.nl/vacatures?s={{{s}}}"
+  },
+  {
+    "d": "jet.com",
+    "s": "Jet.com",
+    "t": "j",
+    "u": "https://jet.com/search?term={{{s}}}"
+  },
+  {
+    "d": "jinja.pocoo.org",
+    "s": "Jinja",
+    "t": "jj",
+    "u": "http://jinja.pocoo.org/docs/2.10/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.johnlewis.com",
+    "s": "John Lewis",
+    "t": "jl",
+    "u": "http://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "www.jean-luc-melenchon.fr",
+    "s": "Jean-Luc Mélenchon",
+    "t": "jlm",
+    "u": "http://www.jean-luc-melenchon.fr/?s={{{s}}}"
+  },
+  {
+    "d": "jlptdictionary.com",
+    "s": "JLPT Dictionary",
+    "t": "jlpt",
+    "u": "http://jlptdictionary.com/index.php?pn=1&st=0&jl=0&njl=0&sb=0&obt=0&wpp=25&ot=0&k={{{s}}}"
+  },
+  {
+    "d": "japanese.stackexchange.com",
+    "s": "Japanese Language Stack Exchange",
+    "t": "jlse",
+    "u": "http://japanese.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hub.jmonkeyengine.org",
+    "s": "jMonkeyEngine Forum",
+    "t": "jme",
+    "u": "https://hub.jmonkeyengine.org/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "jMonkeyEngine WIki",
+    "t": "jmew",
+    "u": "https://duckduckgo.com/?q={{{s}}} site:wiki.jmonkeyengine.org"
+  },
+  {
+    "d": "joemonster.org",
+    "s": "Joe Monster",
+    "t": "jm",
+    "u": "http://joemonster.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.jemepropose.com",
+    "s": "Jemepropose.com",
+    "t": "jmp",
+    "u": "http://www.jemepropose.com/annonces?keywords={{{s}}}"
+  },
+  {
+    "d": "www.jellynote.com",
+    "s": "Jellynote",
+    "t": "jn",
+    "u": "https://www.jellynote.com/en/search?q={{{s}}}"
+  },
+  {
+    "d": "jovemnerd.com.br",
+    "s": "Joven Nerd",
+    "t": "jnn",
+    "u": "https://jovemnerd.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "www.joann.com",
+    "s": "Joann",
+    "t": "joann",
+    "u": "https://www.joann.com/search?q={{{s}}}"
+  },
+  {
+    "d": "us.job2u.org",
+    "s": "JOBS IN USA",
+    "t": "job2u",
+    "u": "https://us.job2u.org/?s={{{s}}}"
+  },
+  {
+    "d": "job.am",
+    "s": "Job.am",
+    "t": "job",
+    "u": "https://job.am/hy/jobs?q={{{s}}}"
+  },
+  {
+    "d": "www.jobs.bg",
+    "s": "jobs.bg",
+    "t": "jobsbg",
+    "u": "https://www.jobs.bg/front_job_search.php?zone_id=0&distance=0&location_sid=0&all_categories=0&all_type=0&all_position_level=1&all_company_type=1&keyword={{{s}}}&last=0"
+  },
+  {
+    "d": "www.indeed.ca",
+    "s": "Indeed Canada",
+    "t": "jobsca",
+    "u": "http://www.indeed.ca/jobs?q={{{s}}}"
+  },
+  {
+    "d": "englishjobs.de",
+    "s": "Jobs in Germany",
+    "t": "jobsde",
+    "u": "https://englishjobs.de/search?q={{{s}}}"
+  },
+  {
+    "d": "www.indeed.com",
+    "s": "Indeed",
+    "t": "jobs",
+    "u": "http://www.indeed.com/jobs?q={{{s}}}"
+  },
+  {
+    "d": "www.jobillico.com",
+    "s": "Jobillico Montreal",
+    "t": "jobsmtl",
+    "u": "https://www.jobillico.com/search-jobs?skwd={{{s}}}&scty=Montr%C3%A9al%2C%20QC&icty=6185&ipc=0&sil=&sjdpl=&sdl=&imc1=0&imc2=0&flat=45.509828&flng=-73.6715&mfil=byCity&ipg=1&clr=1"
+  },
+  {
+    "d": "www.justonecookbook.com",
+    "s": "Just One Cookbook",
+    "t": "jocb",
+    "u": "https://www.justonecookbook.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.jonathancoulton.com",
+    "s": "JoCopedia",
+    "t": "joco",
+    "u": "http://www.jonathancoulton.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.joefresh.com",
+    "s": "Joe Fresh",
+    "t": "joefresh",
+    "u": "https://www.joefresh.com/search?text={{{s}}}"
+  },
+  {
+    "d": "joemonster.org",
+    "s": "JoeMonster",
+    "t": "joe",
+    "u": "http://joemonster.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "joemonster.org",
+    "s": "Joe Monster",
+    "t": "joemonster",
+    "u": "http://joemonster.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.jofogas.hu",
+    "s": "Jófogás",
+    "t": "jofogas",
+    "u": "http://www.jofogas.hu/magyarorszag?q={{{s}}}"
+  },
+  {
+    "d": "www.johnlewis.com",
+    "s": "John Lewis",
+    "t": "johnlewis",
+    "u": "http://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "joinup.ec.europa.eu",
+    "s": "Joinup",
+    "t": "joinup",
+    "u": "https://joinup.ec.europa.eu/search?keys={{{s}}}"
+  },
+  {
+    "d": "jojo.wikia.com",
+    "s": "JoJo's Bizarre Encyclopedia",
+    "t": "jojo",
+    "u": "http://jojo.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.jotrin.com",
+    "s": "Jotrin Electronics",
+    "t": "jo",
+    "u": "https://www.jotrin.com/product/list?keyword={{{s}}}"
+  },
+  {
+    "d": "www.joker.be",
+    "s": "Joker",
+    "t": "joker",
+    "u": "https://www.joker.be/nl/groepsreizen/{{{s}}}"
+  },
+  {
+    "d": "together.jolla.com",
+    "s": "Jolla Questions",
+    "t": "jolla",
+    "u": "https://together.jolla.com/questions/scope:all/sort:activity-desc/page:1/query:{{{s}}}/"
+  },
+  {
+    "d": "jomgeek.my",
+    "s": "JomGeek.my",
+    "t": "jomgeek",
+    "u": "https://jomgeek.my/?s={{{s}}}"
+  },
+  {
+    "d": "www.joofficial.com",
+    "s": "JoOfficial",
+    "t": "joofficial",
+    "u": "http://www.joofficial.com/website/search?query={{{s}}} "
+  },
+  {
+    "d": "www.joom.com",
+    "s": "Joom",
+    "t": "joom",
+    "u": "https://www.joom.com/en/search/q.{{{s}}}"
+  },
+  {
+    "d": "www.jornaldaparaiba.com.br",
+    "s": "Jornal da Paraíba",
+    "t": "jornaldaparaiba",
+    "u": "http://www.jornaldaparaiba.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "www.jorudan.co.jp",
+    "s": "Jorudan",
+    "t": "jorudan",
+    "u": "https://www.jorudan.co.jp/jt/cgi/qsearch/qsearch.cgi?s={{{s}}}"
+  },
+  {
+    "d": "jotboard.info",
+    "s": "Jotboard",
+    "t": "jotb",
+    "u": "https://jotboard.info/lookup.php?q={{{s}}}"
+  },
+  {
+    "d": "www.jove.com",
+    "s": "Jove",
+    "t": "jove",
+    "u": "https://www.jove.com/search?q={{{s}}}"
+  },
+  {
+    "d": "jovemnerd.com.br",
+    "s": "JovemNerd",
+    "t": "jovemnerd",
+    "u": "http://jovemnerd.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "www.jpc.de",
+    "s": "JPC",
+    "t": "jpc",
+    "u": "https://www.jpc.de/s/{{{s}}}"
+  },
+  {
+    "d": "jpdic.naver.com",
+    "s": "Naver Japanese Dictionary",
+    "t": "jpdic",
+    "u": "http://jpdic.naver.com/search.nhn?query={{{s}}}"
+  },
+  {
+    "d": "www.japandict.com",
+    "s": "Japan Dict",
+    "t": "jpd",
+    "u": "https://www.japandict.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.kanjijapanese.com",
+    "s": "Japanese - English Dictionary",
+    "t": "jpen",
+    "u": "http://www.kanjijapanese.com/en/dictionary-japanese-english/{{{s}}}"
+  },
+  {
+    "d": "www.jetpens.com",
+    "s": "Jet Pens",
+    "t": "jp",
+    "u": "http://www.jetpens.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.buycarplate.com",
+    "s": "We Sell Car Plate Number Online, Malaysia",
+    "t": "jpj",
+    "u": "https://www.buycarplate.com/?m=scr&searchval={{{s}}}"
+  },
+  {
+    "d": "www.jpl.nasa.gov",
+    "s": "NASA Jet Propulsion Laboratory",
+    "t": "jpl",
+    "u": "https://www.jpl.nasa.gov/search.php?q={{{s}}}"
+  },
+  {
+    "d": "trackings.post.japanpost.jp",
+    "s": "Japan Post Tracking",
+    "t": "jpost",
+    "u": "https://trackings.post.japanpost.jp/services/srv/search/direct?searchKind=S004&locale=en&reqCodeNo1={{{s}}}"
+  },
+  {
+    "d": "jpralves.net",
+    "s": "jpralves.net",
+    "t": "jpralves",
+    "u": "https://jpralves.net/search.html?q={{{s}}}"
+  },
+  {
+    "d": "api.jquery.com",
+    "s": "jquery ",
+    "t": "jqd",
+    "u": "http://api.jquery.com/{{{s}}}/"
+  },
+  {
+    "d": "api.jquery.com",
+    "s": "jQuery Docs",
+    "t": "jq",
+    "u": "http://api.jquery.com/?ns0=1&s={{{s}}}"
+  },
+  {
+    "d": "jquerymobile.com",
+    "s": "jquerymobile.com",
+    "t": "jqm",
+    "u": "http://jquerymobile.com/?s={{{s}}}"
+  },
+  {
+    "d": "api.jquery.com",
+    "s": "jQuery Docs",
+    "t": "jquery",
+    "u": "http://api.jquery.com/?ns0=1&s={{{s}}}"
+  },
+  {
+    "d": "api.jqueryui.com",
+    "s": "JQuery UI",
+    "t": "jqui",
+    "u": "http://api.jqueryui.com/?s={{{s}}}"
+  },
+  {
+    "d": "jqueryui.com",
+    "s": "jQuery UI",
+    "t": "jqu",
+    "u": "http://jqueryui.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.idsjmk.cz",
+    "s": "IDS JMK – jízdní řády Brno a Jihomoravský kraj",
+    "t": "jrady",
+    "u": "https://www.idsjmk.cz/jrady/{{{s}}}.pdf"
+  },
+  {
+    "d": "www.jra.go.jp",
+    "s": "JRA",
+    "t": "jra",
+    "u": "http://www.jra.go.jp/search/top/index.html?q={{{s}}}"
+  },
+  {
+    "d": "www.jrdevjobs.com",
+    "s": "Jr.DevJobs",
+    "t": "jrdevjobs",
+    "u": "https://www.jrdevjobs.com/jobs?query={{{s}}}"
+  },
+  {
+    "d": "joyreactor.cc",
+    "s": "JoyReactor",
+    "t": "jr",
+    "u": "http://joyreactor.cc/search?q={{{s}}}"
+  },
+  {
+    "d": "jrsbelgium.org",
+    "s": "Jesuit Refugee Service Belgium",
+    "t": "jrs",
+    "u": "https://jrsbelgium.org/spip.php?page=recherche&recherche={{{s}}}"
+  },
+  {
+    "d": "bundlephobia.com",
+    "s": "BundlePhobia",
+    "t": "jsbf",
+    "u": "https://bundlephobia.com/result?p={{{s}}}"
+  },
+  {
+    "d": "js.coach",
+    "s": "JS.coach",
+    "t": "jscoach",
+    "u": "https://js.coach/?search={{{s}}}"
+  },
+  {
+    "d": "www.jsdelivr.com",
+    "s": "jsDelivr",
+    "t": "jsd",
+    "u": "https://www.jsdelivr.com/?query={{{s}}}"
+  },
+  {
+    "d": "www.jshint.com",
+    "s": "JSHint",
+    "t": "jshint",
+    "u": "http://www.jshint.com/docs/options/#{{{s}}}"
+  },
+  {
+    "d": "javascript.info",
+    "s": "Javascript Info",
+    "t": "jsinfo",
+    "u": "https://javascript.info/search/?query={{{s}}}"
+  },
+  {
+    "d": "junespringmultimedia.com",
+    "s": "Junespringmedia",
+    "t": "jsm",
+    "u": "https://junespringmultimedia.com/?s={{{s}}}&post_type=page"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Network",
+    "t": "js",
+    "u": "https://developer.mozilla.org/en-US/search?topic=api&topic=js&q={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Java questions on Stack Overflow",
+    "t": "jso",
+    "u": "http://stackoverflow.com/search?q=[java]+{{{s}}}"
+  },
+  {
+    "d": "jsonlint.com",
+    "s": "JsonLint",
+    "t": "jsonlint",
+    "u": "http://jsonlint.com/?json={{{s}}}"
+  },
+  {
+    "d": "jsr.io",
+    "s": "JSR",
+    "t": "jsr",
+    "u": "https://jsr.io/packages?search={{{s}}}"
+  },
+  {
+    "d": "www.johnstonesupply.com",
+    "s": "Johnstone Supply",
+    "t": "jssupply",
+    "u": "https://www.johnstonesupply.com/search/go?w={{{s}}}"
+  },
+  {
+    "d": "www.jstor.org",
+    "s": "JSTOR",
+    "t": "jstor",
+    "u": "http://www.jstor.org/action/doBasicSearch?Query={{{s}}}"
+  },
+  {
+    "d": "www.justtryart.ml",
+    "s": "Just Try Art",
+    "t": "jta",
+    "u": "https://www.justtryart.ml/search.php?k={{{s}}}"
+  },
+  {
+    "d": "search.oracle.com",
+    "s": "Java Tutorial (Oracle)",
+    "t": "jtut",
+    "u": "http://search.oracle.com/search/search?search_p_main_operator=all&group=Documentation&q={{{s}}}+url%3A%2Fjavase%2Ftutorial"
+  },
+  {
+    "d": "www.just-the-word.com",
+    "s": "Just The Word",
+    "t": "jtw",
+    "u": "http://www.just-the-word.com/api/combinations?word={{{s}}}"
+  },
+  {
+    "d": "www.jualusg2d3dmurah.com",
+    "s": "Jual Usg",
+    "t": "jualusg",
+    "u": "https://www.jualusg2d3dmurah.com/search?q={{{s}}}"
+  },
+  {
+    "d": "juejin.im",
+    "s": "Juejin",
+    "t": "juejin",
+    "u": "https://juejin.im/search?query= {{{s}}}&type=all"
+  },
+  {
+    "d": "juick.com",
+    "s": "juick.com",
+    "t": "juick",
+    "u": "http://juick.com/?search={{{s}}}"
+  },
+  {
+    "d": "jujucharms.com",
+    "s": "Juju Charm Store",
+    "t": "juju",
+    "u": "https://jujucharms.com/q/{{{s}}}"
+  },
+  {
+    "d": "jukuu.com",
+    "s": "Jukuu",
+    "t": "jukuu",
+    "u": "http://jukuu.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.jula.se",
+    "s": "Jula",
+    "t": "jula",
+    "u": "https://www.jula.se/search/?query={{{s}}}"
+  },
+  {
+    "d": "docs.julialang.org",
+    "s": "Julia language documentation",
+    "t": "julia",
+    "u": "https://docs.julialang.org/en/latest/search?q={{{s}}}"
+  },
+  {
+    "d": "slovniky.juls.savba.sk",
+    "s": "http://slovniky.juls.savba.sk/",
+    "t": "juls",
+    "u": "http://slovniky.juls.savba.sk/?w={{{s}}}&s=exact&c=608a&d=kssj4&d=psp&d=sssj&d=scs&d=sss&d=peciar&d=ma&d=hssjV&d=bernolak&d=obce&d=priezviska&d=un&d=locutio&d=pskcs&d=psken&d=noundb&ie=utf-8&oe=utf-8#"
+  },
+  {
+    "d": "www.jumbo.pt",
+    "s": "Jumbo",
+    "t": "jumbo",
+    "u": "https://www.jumbo.pt/Frontoffice/search/{{{s}}}"
+  },
+  {
+    "d": "www.jumbo.com",
+    "s": "Jumbo Supermarkten",
+    "t": "jumbosupermarkt",
+    "u": "http://www.jumbo.com/zoeken?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "www.jumps.nl",
+    "s": "Jumping Spectacles",
+    "t": "jumps",
+    "u": "https://www.jumps.nl/index.php/component/finder/search?q={{{s}}}&Itemid=106"
+  },
+  {
+    "d": "www.junat.net",
+    "s": "Junat.net",
+    "t": "junat",
+    "u": "https://www.junat.net/en/{{{s}}}"
+  },
+  {
+    "d": "www.juniper.net",
+    "s": "Juniper networks",
+    "t": "juninet",
+    "u": "https://www.juniper.net/search/gsa/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.junodownload.com",
+    "s": "Juno Download",
+    "t": "junodl",
+    "u": "http://www.junodownload.com/search/?q[all][0]={{{s}}}"
+  },
+  {
+    "d": "www.juno.co.uk",
+    "s": "juno.co.uk",
+    "t": "juno",
+    "u": "https://www.juno.co.uk/search/?q[all][]={{{s}}}"
+  },
+  {
+    "d": "www.jusbrasil.com.br",
+    "s": "JusBrasil",
+    "t": "jusbrasil",
+    "u": "https://www.jusbrasil.com.br/busca?q={{{s}}}"
+  },
+  {
+    "d": "www.jusbrasil.com.br",
+    "s": "Jusbrasil",
+    "t": "jusbr",
+    "u": "http://www.jusbrasil.com.br/busca?q={{{s}}} "
+  },
+  {
+    "d": "law.justia.com",
+    "s": "Justia",
+    "t": "justia",
+    "u": "http://law.justia.com/lawsearch?query={{{s}}}"
+  },
+  {
+    "d": "or.justice.cz",
+    "s": "Justice - obchodní rejstřík",
+    "t": "justice",
+    "u": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev={{{s}}}"
+  },
+  {
+    "d": "www.justimprinted.com",
+    "s": "Just Imprinted",
+    "t": "justimprinted",
+    "u": "https://www.justimprinted.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "justwalkers.com",
+    "s": "Just Walkers",
+    "t": "justwalkers",
+    "u": "http://justwalkers.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "JustWatch AU",
+    "t": "justwatchau",
+    "u": "https://www.justwatch.com/au/search?q={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "justwatch german",
+    "t": "justwatchde",
+    "u": "https://www.justwatch.com/de/Suche?q={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "Justwatch (Finnish)",
+    "t": "justwatchfi",
+    "u": "https://www.justwatch.com/fi/search?q={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "JustWatch",
+    "t": "justwatch",
+    "u": "https://www.justwatch.com/us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "JustWatch UK",
+    "t": "justwatchuk",
+    "u": "https://www.justwatch.com/uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.jutarnji.hr",
+    "s": "Jutarnji.hr",
+    "t": "jutarnji",
+    "u": "https://www.jutarnji.hr/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.juwelo.es",
+    "s": "juwelo.es",
+    "t": "juwelo",
+    "u": "https://www.juwelo.es/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "japaneseverbconjugator.com",
+    "s": "Japanese Verb Conjugator",
+    "t": "jvc",
+    "u": "http://japaneseverbconjugator.com/VerbDetails.asp?txtVerb={{{s}}}"
+  },
+  {
+    "d": "www.jeuxvideo.com",
+    "s": "jeuxvideo.com",
+    "t": "jvcom",
+    "u": "http://www.jeuxvideo.com/recherche.php?q={{{s}}} "
+  },
+  {
+    "d": "www.jeuxvideo.com",
+    "s": "JeuxVideo.com",
+    "t": "jvd",
+    "u": "http://www.jeuxvideo.com/recherche.php?q={{{s}}}"
+  },
+  {
+    "d": "www.jeuxvideo.com",
+    "s": "JeuxVideo",
+    "t": "jv",
+    "u": "http://www.jeuxvideo.com/recherche.php?q={{{s}}}"
+  },
+  {
+    "d": "www.japanesevehicles.com",
+    "s": "JapaneseVehicles.com",
+    "t": "jvj",
+    "u": "https://www.japanesevehicles.com/stocklist.php?qsearch_kbn=1&lang=en&opt=0&qsearch={{{s}}}"
+  },
+  {
+    "d": "www.jw.org",
+    "s": "Jehovas Zeugen — Offizielle Website: jw.org",
+    "t": "jwde",
+    "u": "https://www.jw.org/de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.jw.org",
+    "s": "Sitio oficial de los testigos de Jehová: jw.org",
+    "t": "jwes",
+    "u": "https://www.jw.org/es/búsquedas/?q={{{s}}}:"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "JustWatch",
+    "t": "jwh",
+    "u": "https://www.justwatch.com/us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "JustWatch India",
+    "t": "jwi",
+    "u": "https://www.justwatch.com/in/search?q={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "JustWatch Italy",
+    "t": "jwit",
+    "u": "https://www.justwatch.com/it/cerca?q={{{s}}}"
+  },
+  {
+    "d": "www.jw.org",
+    "s": "Jehovah's Witnesses",
+    "t": "jw",
+    "u": "http://www.jw.org/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.jwpepper.com",
+    "s": "J.W. Pepper Sheet Music",
+    "t": "jwpepper",
+    "u": "http://www.jwpepper.com/sheet-music/search.jsp?keywords={{{s}}}"
+  },
+  {
+    "d": "www.jwpepper.com",
+    "s": "J.W. Pepper",
+    "t": "jwp",
+    "u": "http://www.jwpepper.com/sheet-music/search.jsp?keywords={{{s}}}"
+  },
+  {
+    "d": "www.justwatch.com",
+    "s": "JustWatch Sweden",
+    "t": "jwse",
+    "u": "https://www.justwatch.com/se/search?q={{{s}}}"
+  }
+]

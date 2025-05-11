@@ -1,0 +1,2174 @@
+[
+  {
+    "d": "www.h2g2.com",
+    "s": "h2g2",
+    "t": "h2g2",
+    "u": "http://www.h2g2.com/search?search_type=article_quick_search&searchstring={{{s}}}&approved_entries_only_chk=1"
+  },
+  {
+    "d": "www.h2olimpo.com",
+    "s": "H2Olimpo",
+    "t": "h2",
+    "u": "http://www.h2olimpo.com/buscar?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Hard2mano",
+    "t": "h2m",
+    "u": "https://duckduckgo.com/?q={{{s}}}&sites=hard2mano.com"
+  },
+  {
+    "d": "www.h2olimpo.com",
+    "s": "H2Olimpo",
+    "t": "h2o",
+    "u": "http://www.h2olimpo.com/buscar?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "d": "www.haaretz.co.il",
+    "s": "Haaretz",
+    "t": "haaretz",
+    "u": "http://www.haaretz.co.il/misc/search-results?searchType=textSearch&simpleSearch=simpleSearch&text={{{s}}}"
+  },
+  {
+    "d": "www.ruilwaarde.nl",
+    "s": "Habbo Ruilwaarde",
+    "t": "habbotrading",
+    "u": "http://www.ruilwaarde.nl/?p={{{s}}}"
+  },
+  {
+    "d": "habrahabr.ru",
+    "s": "habrahabr.ru",
+    "t": "habra",
+    "u": "http://habrahabr.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "habr.com",
+    "s": "HabraHabr",
+    "t": "habr",
+    "u": "https://habr.com/ru/search/?&q={{{s}}}"
+  },
+  {
+    "d": "hack42.nl",
+    "s": "Hack42",
+    "t": "hack42",
+    "u": "https://hack42.nl/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "hackaday.com",
+    "s": "HackADay",
+    "t": "hackaday",
+    "u": "http://hackaday.com/?s={{{s}}}"
+  },
+  {
+    "d": "hackage.haskell.org",
+    "s": "Hackage",
+    "t": "hackage",
+    "u": "http://hackage.haskell.org/packages/search?terms={{{s}}}"
+  },
+  {
+    "d": "blog.hackeradana.org",
+    "s": "Hacker Adana Blog",
+    "t": "hackeradana",
+    "u": "https://blog.hackeradana.org/search?q={{{s}}}"
+  },
+  {
+    "d": "hn.algolia.com",
+    "s": "Hacker News",
+    "t": "hackernews",
+    "u": "http://hn.algolia.com/#!/all/forever/0/{{{s}}}"
+  },
+  {
+    "d": "blog.drhack.net",
+    "s": "Hackology",
+    "t": "hackology",
+    "u": "https://blog.drhack.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.romhacking.net",
+    "s": "ROMhacking",
+    "t": "hack",
+    "u": "https://www.romhacking.net/?page=hacks&genre=&platform=&game=&category=&perpage=30&order=Date&dir=1&title={{{s}}}&author=&hacksearch=Go"
+  },
+  {
+    "d": "www.hackster.io",
+    "s": "Hackster",
+    "t": "hackster",
+    "u": "https://www.hackster.io/search?i=projects&q={{{s}}}"
+  },
+  {
+    "d": "handmade-add.com",
+    "s": "Handmade Add",
+    "t": "hadd",
+    "u": "https://handmade-add.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "hackaday.com",
+    "s": "Hackaday",
+    "t": "had",
+    "u": "http://hackaday.com/?s={{{s}}}"
+  },
+  {
+    "d": "search-hadoop.com",
+    "s": "Search-Hadoop",
+    "t": "hadoop",
+    "u": "http://search-hadoop.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.hafele.nl",
+    "s": "Hafele.nl",
+    "t": "hafelenl",
+    "u": "https://www.hafele.nl/INTERSHOP/web/WFS/Haefele-HNL-Site/nl_NL/-/EUR/ViewParametricSearch-SimpleOfferSearch?SearchType=all&SearchTerm={{{s}}}"
+  },
+  {
+    "d": "www.hahwul.com",
+    "s": "HAHWUL",
+    "t": "hahwul",
+    "u": "http://www.hahwul.com/search?max-results=7&q={{{s}}}"
+  },
+  {
+    "d": "forums.hak5.org",
+    "s": "Hak5 Forums",
+    "t": "hak5f",
+    "u": "https://forums.hak5.org/index.php?app=core&module=search&do=search&fromMainBar=1&search_term={{{s}}}"
+  },
+  {
+    "d": "hak5.org",
+    "s": "Hak5",
+    "t": "hak5",
+    "u": "http://hak5.org/?s={{{s}}}"
+  },
+  {
+    "d": "wiki.hydrogenaudio.org",
+    "s": "The Hydrogenaudio Knowledgebase",
+    "t": "hak",
+    "u": "http://wiki.hydrogenaudio.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.halaltube.com",
+    "s": "Halal Tube",
+    "t": "halaltube",
+    "u": "https://www.halaltube.com/?s={{{s}}}"
+  },
+  {
+    "d": "hal.archives-ouvertes.fr",
+    "s": "HAL",
+    "t": "hal",
+    "u": "https://hal.archives-ouvertes.fr/search/index/?q={{{s}}}"
+  },
+  {
+    "d": "www.halopedia.org",
+    "s": "Halopedia",
+    "t": "halopedia",
+    "u": "http://www.halopedia.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.hamdata.com",
+    "s": "http://www.hamdata.com/getcall.html",
+    "t": "ham",
+    "u": "http://www.hamdata.com/getcall.html?callsign={{{s}}}"
+  },
+  {
+    "d": "app.handelsblatt.com",
+    "s": "Handelsblatt",
+    "t": "handelsblatt",
+    "u": "http://app.handelsblatt.com/suche/?sw={{{s}}}"
+  },
+  {
+    "d": "handmade-add.com",
+    "s": "Handmade Add",
+    "t": "handmadeadd",
+    "u": "https://handmade-add.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.handytarife.de",
+    "s": "handytarife.de",
+    "t": "handytarife",
+    "u": "https://www.handytarife.de/?q={{{s}}}"
+  },
+  {
+    "d": "hanja.naver.com",
+    "s": "Naver Hanja Dictionary",
+    "t": "hanja",
+    "u": "http://hanja.naver.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.hannaford.com",
+    "s": "Hannaford",
+    "t": "hannaford",
+    "u": "http://www.hannaford.com/catalog/search.cmd?form_state=searchForm&keyword={{{s}}}"
+  },
+  {
+    "d": "hansard.parliament.uk",
+    "s": "Hansard (UK Parliament)",
+    "t": "hansard",
+    "u": "https://hansard.parliament.uk/search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.hanze.nl",
+    "s": "Hanze Hogeschool",
+    "t": "hanze",
+    "u": "https://www.hanze.nl/nld/zoeken?k={{{s}}}"
+  },
+  {
+    "d": "www.hanzicraft.com",
+    "s": "HanziCraft",
+    "t": "hanzicraft",
+    "u": "http://www.hanzicraft.com/character/{{{s}}}"
+  },
+  {
+    "d": "hanzidb.org",
+    "s": "hanziDB",
+    "t": "hanzidb",
+    "u": "http://hanzidb.org/character/{{{s}}}"
+  },
+  {
+    "d": "www.happi.com",
+    "s": "www.happi.com",
+    "t": "happi",
+    "u": "https://www.happi.com/contents/searchcontent/all/{{{s}}}/"
+  },
+  {
+    "d": "www.happycow.net",
+    "s": "HappyCow",
+    "t": "happycow",
+    "u": "https://www.happycow.net/searchmap?lat=&lng=&location={{{s}}}"
+  },
+  {
+    "d": "www.hapshoe.com",
+    "s": "Hapshoe.com | Aklındaki Ayakkabı, Tıkla Ayağına Gelsin !",
+    "t": "hapshoe",
+    "u": "https://www.hapshoe.com/Arama?1&kelime={{{s}}}"
+  },
+  {
+    "d": "hakkani.org",
+    "s": "Hakkani",
+    "t": "haq",
+    "u": "http://hakkani.org/?term={{{s}}}"
+  },
+  {
+    "d": "www.hardocp.com",
+    "s": "[H]ardOCP",
+    "t": "hardocp",
+    "u": "https://www.hardocp.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "us.hardware.info",
+    "s": "Hardware.info",
+    "t": "hardwareinfo",
+    "u": "https://us.hardware.info/#search:{{{s}}}"
+  },
+  {
+    "d": "www.harney.com",
+    "s": "Harney & Sons Fine Teas",
+    "t": "harney",
+    "u": "https://www.harney.com/pages/search-results?findify_q={{{s}}}"
+  },
+  {
+    "d": "www.harptabs.com",
+    "s": "HarpTabs",
+    "t": "harptabs",
+    "u": "https://www.harptabs.com/searchsong.php?Name={{{s}}}&HarpType=0"
+  },
+  {
+    "d": "harrypotter.wikia.com",
+    "s": "Harry Potter wiki",
+    "t": "harrypotter",
+    "u": "http://harrypotter.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "hollis.harvard.edu",
+    "s": "Harvard University Library",
+    "t": "harvardlib",
+    "u": "http://hollis.harvard.edu/primo_library/libweb/action/dlSearch.do?institution=HVD&vid=HVD&tab=everything&displayField=all&search_scope=everything&mode=Basic&onCampus=false&displayMode=full&query=any%2Ccontains%2C{{{s}}}"
+  },
+  {
+    "d": "twitter.com",
+    "s": "Twitter Hashtags",
+    "t": "hashtag",
+    "u": "https://twitter.com/search?q=%23{{{s}}}"
+  },
+  {
+    "d": "www.haskell.org",
+    "s": "Haskell Wiki",
+    "t": "haskellwiki",
+    "u": "http://www.haskell.org/haskellwiki/Special:Search/{{{s}}}"
+  },
+  {
+    "d": "www.trhastane.com",
+    "s": "Hastane",
+    "t": "hastane",
+    "u": "http://www.trhastane.com/arama.php?sehir=0&word={{{s}}} "
+  },
+  {
+    "d": "b.hatena.ne.jp",
+    "s": "Hatena Bookmark",
+    "t": "hatebu",
+    "u": "http://b.hatena.ne.jp/search/text?q={{{s}}}"
+  },
+  {
+    "d": "babel.hathitrust.org",
+    "s": "HathiTrust",
+    "t": "hathi",
+    "u": "http://babel.hathitrust.org/cgi/ls?field1=ocr;q1={{{s}}};a=srchls"
+  },
+  {
+    "d": "crazyabouthavana.com",
+    "s": "Crazy About Havana",
+    "t": "havana",
+    "u": "https://crazyabouthavana.com/?s={{{s}}}"
+  },
+  {
+    "d": "havenmaine.wikia.com",
+    "s": "Haven",
+    "t": "haven",
+    "u": "http://havenmaine.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "hawkclothing.uk",
+    "s": "Hawk",
+    "t": "hawk",
+    "u": "http://hawkclothing.uk/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "lib.haxe.org",
+    "s": "Haxelib",
+    "t": "haxelib",
+    "u": "http://lib.haxe.org/search?v={{{s}}}"
+  },
+  {
+    "d": "holumbus.fh-wedel.de",
+    "s": "Hayoo",
+    "t": "hayoo",
+    "u": "http://holumbus.fh-wedel.de/hayoo/hayoo.html?query={{{s}}}"
+  },
+  {
+    "d": "hazeguitars.com",
+    "s": "Haze Guitars",
+    "t": "haze",
+    "u": "https://hazeguitars.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.hornbach.at",
+    "s": "Hornbach.at",
+    "t": "hbat",
+    "u": "https://www.hornbach.at/shop/suche/sortiment/{{{s}}}"
+  },
+  {
+    "d": "www.humblebundle.com",
+    "s": "Humblebundle",
+    "t": "hb",
+    "u": "https://www.humblebundle.com/store/search?search={{{s}}}"
+  },
+  {
+    "d": "www.hbl.fi",
+    "s": "Hufvudstadsbladet",
+    "t": "hbl",
+    "u": "https://www.hbl.fi/?s={{{s}}}"
+  },
+  {
+    "d": "www.heartbowsmakeup.com",
+    "s": "Heart Bows & Makeup",
+    "t": "hbm",
+    "u": "http://www.heartbowsmakeup.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.homebrewtalk.com",
+    "s": "Home Brew Talk",
+    "t": "hbt",
+    "u": "http://www.homebrewtalk.com/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "okeanos-www.hbz-nrw.de",
+    "s": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen",
+    "t": "hbz",
+    "u": "http://okeanos-www.hbz-nrw.de/F/?func=find-c&ccl_term=WRD%3D%22{{{s}}}%22"
+  },
+  {
+    "d": "www.holidaycheck.de",
+    "s": "HolidayCheck",
+    "t": "hc",
+    "u": "http://www.holidaycheck.de/schnellsuche.php?q={{{s}}}"
+  },
+  {
+    "d": "hackage.haskell.org",
+    "s": "Hackage",
+    "t": "hckg",
+    "u": "https://hackage.haskell.org/packages/search?terms={{{s}}}"
+  },
+  {
+    "d": "hclib.bibliocommons.com",
+    "s": "Hennepin County Library",
+    "t": "hclib",
+    "u": "https://hclib.bibliocommons.com/v2/search?query={{{s}}}&searchType=smart"
+  },
+  {
+    "d": "hcommons.org",
+    "s": "Humanities Commons",
+    "t": "hcommons",
+    "u": "https://hcommons.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.findacode.com",
+    "s": "FindACode.com",
+    "t": "hcpcs",
+    "u": "https://www.findacode.com/code.php?set=HCPCS&c={{{s}}}"
+  },
+  {
+    "d": "www.hockeydb.com",
+    "s": "Hockeydb.com",
+    "t": "hdb",
+    "u": "http://www.hockeydb.com/ihdb/stats/find_player.php?full_name={{{s}}}"
+  },
+  {
+    "d": "www.hdblog.it",
+    "s": "Hdblog",
+    "t": "hdblog",
+    "u": "https://www.hdblog.it/?sName={{{s}}}"
+  },
+  {
+    "d": "www.homedepot.ca",
+    "s": "Home Depot Canada",
+    "t": "hdc",
+    "u": "https://www.homedepot.ca/en/home/search.html?q={{{s}}}"
+  },
+  {
+    "d": "hudoc.echr.coe.int",
+    "s": "HUDOC",
+    "t": "hd",
+    "u": "http://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22{{{s}}}%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]}"
+  },
+  {
+    "d": "hyperdictionary.com",
+    "s": "Hyperdictionary",
+    "t": "hdict",
+    "u": "http://hyperdictionary.com/search.aspx?define={{{s}}}"
+  },
+  {
+    "d": "www.heise.de",
+    "s": "Heise Download",
+    "t": "hdl",
+    "u": "https://www.heise.de/download/search?terms={{{s}}}"
+  },
+  {
+    "d": "hdrapin.com",
+    "s": "LES MISCELLANÉES NUMÉRIQUES",
+    "t": "hdrapin",
+    "u": "http://hdrapin.com/?s={{{s}}}"
+  },
+  {
+    "d": "search.datasheetcatalog.net",
+    "s": "All Datasheet Catalog",
+    "t": "hds",
+    "u": "http://search.datasheetcatalog.net/key/{{{s}}}"
+  },
+  {
+    "d": "www.hdtracks.com",
+    "s": "HDtracks.com",
+    "t": "hdt",
+    "u": "https://www.hdtracks.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "acm.hdu.edu.cn",
+    "s": "Hangzhou Dianzi University Online Judge",
+    "t": "hdu",
+    "u": "http://acm.hdu.edu.cn/search.php?field=problem&key={{{s}}}"
+  },
+  {
+    "d": "www.homedepot.com",
+    "s": "Home Depot",
+    "t": "hdx",
+    "u": "http://www.homedepot.com/s/{{{s}}}"
+  },
+  {
+    "d": "hdyc.neis-one.org",
+    "s": "How did you contribute to OpenStreetMap?",
+    "t": "hdyc",
+    "u": "http://hdyc.neis-one.org/?{{{s}}}"
+  },
+  {
+    "d": "www.head-fi.org",
+    "s": "Head-Fi",
+    "t": "headfi",
+    "u": "https://www.head-fi.org/search/9458473/?q={{{s}}}&o=relevance&c[p][sonnb_xengallery_photo][focal]=0&c[p][sonnb_xengallery_photo][iso]=0&c[p][sonnb_xengallery_photo][aperture]=0"
+  },
+  {
+    "d": "www.head-fi.org",
+    "s": "Head-Fi",
+    "t": "head-fi",
+    "u": "http://www.head-fi.org/search.php?search={{{s}}}"
+  },
+  {
+    "d": "headtalker.com",
+    "s": "HeadTalker",
+    "t": "headtalker",
+    "u": "https://headtalker.com/?s={{{s}}}&post_type[]=campaigns"
+  },
+  {
+    "d": "www.healthable.org",
+    "s": "Healthable",
+    "t": "healthable",
+    "u": "https://www.healthable.org/?s={{{s}}}"
+  },
+  {
+    "d": "filippo.io",
+    "s": "Heartbleed Test",
+    "t": "heartbleed",
+    "u": "http://filippo.io/Heartbleed/#{{{s}}}"
+  },
+  {
+    "d": "www.hearthpwn.com",
+    "s": "Hearthpwn",
+    "t": "hearthpwn",
+    "u": "http://www.hearthpwn.com/search?search={{{s}}}#t1:cards"
+  },
+  {
+    "d": "hearthstone.gamepedia.com",
+    "s": "Hearthstone Wiki",
+    "t": "hearthstone",
+    "u": "http://hearthstone.gamepedia.com/?search={{{s}}}"
+  },
+  {
+    "d": "www.heatershop.co.uk",
+    "s": "Heater Shop",
+    "t": "heaters",
+    "u": "https://www.heatershop.co.uk/search?query={{{s}}}"
+  },
+  {
+    "d": "www.heatspring.com",
+    "s": "HeatSpring",
+    "t": "heatspring",
+    "u": "https://www.heatspring.com/app/courses/?query={{{s}}}"
+  },
+  {
+    "d": "www.heb.com",
+    "s": "HEB Grocery Company",
+    "t": "heb",
+    "u": "https://www.heb.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "he.wikipedia.org",
+    "s": "Hebrew Wikipedia",
+    "t": "hebwiki",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "hazmeelchingadofavor.com",
+    "s": "Hazme El Chingado Favor",
+    "t": "hecf",
+    "u": "http://hazmeelchingadofavor.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.heeza.fr",
+    "s": "HEEZA - L'Univers du Cartoon",
+    "t": "heeza",
+    "u": "http://www.heeza.fr/fr/recherche?orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Rechercher"
+  },
+  {
+    "d": "katalog.ub.uni-heidelberg.de",
+    "s": "Universitätsbibliothek Heiedelberg OPAC",
+    "t": "heidi",
+    "u": "http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?fsubmit=1&query= {{{s}}}"
+  },
+  {
+    "d": "heilkraeuter.de",
+    "s": "Heilkraeuter",
+    "t": "heilkraeuter",
+    "u": "http://heilkraeuter.de/cgi-bin/search.cgi?Terms={{{s}}}"
+  },
+  {
+    "d": "www.heinzelnisse.info",
+    "s": "Heinzelnisse",
+    "t": "heinzelnisse",
+    "u": "http://www.heinzelnisse.info/dict?searchItem={{{s}}} "
+  },
+  {
+    "d": "www.heise.de",
+    "s": "heise online",
+    "t": "heise",
+    "u": "http://www.heise.de/suche/?q={{{s}}}&rm=search"
+  },
+  {
+    "d": "helka.finna.fi",
+    "s": "Helka",
+    "t": "helka",
+    "u": "https://helka.finna.fi/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "d": "haku.helmet.fi",
+    "s": "HelMet",
+    "t": "helmet",
+    "u": "http://haku.helmet.fi/iii/encore/search/C__S{{{s}}}"
+  },
+  {
+    "d": "www.helm.nu",
+    "s": "Helm",
+    "t": "helm",
+    "u": "http://www.helm.nu/Pages/Search.aspx?search={{{s}}}"
+  },
+  {
+    "d": "hub.helm.sh",
+    "s": "Helm Hub",
+    "t": "helmh",
+    "u": "https://hub.helm.sh/charts?q={{{s}}}"
+  },
+  {
+    "d": "help.duckduckgo.com",
+    "s": "DuckDuckGo Help",
+    "t": "help",
+    "u": "https://help.duckduckgo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.hema.nl",
+    "s": "HEMA",
+    "t": "hema",
+    "u": "https://www.hema.nl/search?q={{{s}}}&lang=nl_NL"
+  },
+  {
+    "d": "www.thehendonmob.com",
+    "s": "thehendonmob.com",
+    "t": "hendon",
+    "u": "http://www.thehendonmob.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.henna-boy.co.uk",
+    "s": "Henna Boy",
+    "t": "henna",
+    "u": "https://www.henna-boy.co.uk/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.henrys.com",
+    "s": "Henrys",
+    "t": "henry",
+    "u": "https://www.henrys.com/Search/{{{s}}}.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.henrys.com",
+    "s": "Henrys",
+    "t": "henrysphoto",
+    "u": "https://www.henrys.com/Search/{{{s}}}.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.hepsiburada.com",
+    "s": "Hepsi Burada",
+    "t": "hepsib",
+    "u": "http://www.hepsiburada.com/ara?q={{{s}}}"
+  },
+  {
+    "d": "www.hepsiburada.com",
+    "s": "Hepsiburada",
+    "t": "hepsiburada",
+    "u": "http://www.hepsiburada.com/ara?q={{{s}}}"
+  },
+  {
+    "d": "www.heraldsun.com.au",
+    "s": "Herald Sun",
+    "t": "heraldsun",
+    "u": "https://www.heraldsun.com.au/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Herber",
+    "t": "herber",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aherber.de"
+  },
+  {
+    "d": "wego.here.com",
+    "s": "Here WeGo",
+    "t": "here",
+    "u": "https://wego.here.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.heritage.org",
+    "s": "Heritage Foundation",
+    "t": "heritage",
+    "u": "https://www.heritage.org/search?contains={{{s}}}"
+  },
+  {
+    "d": "www.myhermes.de",
+    "s": "Hermes Sendungsverfolgung",
+    "t": "hermes",
+    "u": "https://www.myhermes.de/empfangen/sendungsverfolgung/sendungsinformation/#{{{s}}}"
+  },
+  {
+    "d": "heroeshearth.com",
+    "s": "Heroes Hearth",
+    "t": "heroes",
+    "u": "https://heroeshearth.com/hero/{{{s}}}/"
+  },
+  {
+    "d": "devcenter.heroku.com",
+    "s": "Heroku Devcenter",
+    "t": "heroku",
+    "u": "http://devcenter.heroku.com/articles?q={{{s}}}"
+  },
+  {
+    "d": "www.herold.at",
+    "s": "Herold",
+    "t": "herold",
+    "u": "http://www.herold.at/telefonbuch/{{{s}}}/"
+  },
+  {
+    "d": "hs.fi",
+    "s": "Helsingin Sanomat",
+    "t": "hesari",
+    "u": "http://hs.fi/haku/?search-term={{{s}}}"
+  },
+  {
+    "d": "www.heureka.cz",
+    "s": "Heureka!",
+    "t": "heureka",
+    "u": "http://www.heureka.cz/?h[fraze]={{{s}}}"
+  },
+  {
+    "d": "www.heureka.sk",
+    "s": "Heureka.sk",
+    "t": "heurekask",
+    "u": "http://www.heureka.sk/?h[fraze]={{{s}}} "
+  },
+  {
+    "d": "www.zdf.de",
+    "s": "ZDF heute",
+    "t": "heute",
+    "u": "https://www.zdf.de/suche?q={{{s}}}&synth=true&sender=heute.de&from=&to=&attrs="
+  },
+  {
+    "d": "www.colorhexa.com",
+    "s": "Colorhexa",
+    "t": "hex",
+    "u": "http://www.colorhexa.com/{{{s}}}"
+  },
+  {
+    "d": "hexdocs.pm",
+    "s": "Hex Docs",
+    "t": "hexdocs",
+    "u": "http://hexdocs.pm/{{{s}}}"
+  },
+  {
+    "d": "hex.pm",
+    "s": "Hex.pm",
+    "t": "hexpm",
+    "u": "https://hex.pm/packages?search={{{s}}}&sort=downloads"
+  },
+  {
+    "d": "www.hfqpdb.com",
+    "s": "Harbor Freight Tools Coupon Database",
+    "t": "hfqpdb",
+    "u": "http://www.hfqpdb.com/search/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Forum Hardware.fr",
+    "t": "hfr",
+    "u": "http://duckduckgo.com/?q=site:linuxfr.org+{{{s}}}"
+  },
+  {
+    "d": "www.hifishark.com",
+    "s": "Hifishark",
+    "t": "hfs",
+    "u": "https://www.hifishark.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.harborfreight.com",
+    "s": "Harbor Freight Tools",
+    "t": "hft",
+    "u": "http://www.harborfreight.com/catalogsearch/result?q={{{s}}}"
+  },
+  {
+    "d": "hsfu.boss2.bsz-bw.de",
+    "s": "HS Furtwangen BOSS",
+    "t": "hfuboss",
+    "u": "https://hsfu.boss2.bsz-bw.de/Search/Results?lookfor={{{s}}}&limit=20"
+  },
+  {
+    "d": "www.hs-furtwangen.de",
+    "s": "Hochschule Furtwangen",
+    "t": "hfu",
+    "u": "https://www.hs-furtwangen.de/suche/?L=0&id=207&tx_solr[q]={{{s}}}"
+  },
+  {
+    "d": "www.hardcoregaming101.net",
+    "s": "HardcoreGaming101",
+    "t": "hg101",
+    "u": "http://www.hardcoregaming101.net/?s={{{s}}}"
+  },
+  {
+    "d": "holbein-gymnasium.de",
+    "s": "Holbein Gymnasium Augsburg",
+    "t": "hga",
+    "u": "https://holbein-gymnasium.de/index.php/component/search/?searchword={{{s}}}"
+  },
+  {
+    "d": "www.haskell.org",
+    "s": "hoogle",
+    "t": "hgle",
+    "u": "https://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "d": "www.haskell.org",
+    "s": "haskell.org/hoogle",
+    "t": "hgl",
+    "u": "https://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "d": "www.mercurial-scm.org",
+    "s": "Mecurial",
+    "t": "hg",
+    "u": "https://www.mercurial-scm.org/wiki/Mercurial?action=fullsearch&context=180&value={{{s}}}&titlesearch=Title"
+  },
+  {
+    "d": "www.genenames.org",
+    "s": "HUGO Gene Nomenclature Committee (HGNC)",
+    "t": "hgnc",
+    "u": "http://www.genenames.org/cgi-bin/quick_search.pl?submit=Submit&search={{{s}}}"
+  },
+  {
+    "d": "hgpu.org",
+    "s": "hgpu.org",
+    "t": "hgpu",
+    "u": "http://hgpu.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.herold.at",
+    "s": "Herold - Gelbe Seiten",
+    "t": "hgs",
+    "u": "https://www.herold.at/gelbe-seiten/was_{{{s}}}/"
+  },
+  {
+    "d": "hexagonhotchocolate.wordpress.com",
+    "s": "Hexagon Hot Chocolate",
+    "t": "hhc",
+    "u": "https://hexagonhotchocolate.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.homehardware.ca",
+    "s": "Home Hardware",
+    "t": "hh",
+    "u": "https://www.homehardware.ca/search?query={{{s}}}"
+  },
+  {
+    "d": "www.haskell.org",
+    "s": "Hoogle",
+    "t": "h",
+    "u": "http://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate English to Hindi",
+    "t": "hi2en",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=hi&tl=en&text={{{s}}}"
+  },
+  {
+    "d": "hi5.com",
+    "s": "Hi5",
+    "t": "hi5",
+    "u": "http://hi5.com/friend/processHeaderNameSearch.do?searchText={{{s}}}"
+  },
+  {
+    "d": "haveibeenpwned.com",
+    "s": "Have I Been Pwned",
+    "t": "hibp",
+    "u": "https://haveibeenpwned.com/account/{{{s}}}"
+  },
+  {
+    "d": "hwikis25cffertqe.onion",
+    "s": "Hidden Wiki",
+    "t": "hidden",
+    "u": "http://hwikis25cffertqe.onion/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "nl.hideproxy.me",
+    "s": "Hide.me proxy",
+    "t": "hideme",
+    "u": "https://nl.hideproxy.me/go.php?u={{{s}}}"
+  },
+  {
+    "d": "success.highfive.com",
+    "s": "Highfive",
+    "t": "highfive",
+    "u": "https://success.highfive.com/hc/en-us/search?utf8=✓&query={{{s}}}"
+  },
+  {
+    "d": "www.highsnobiety.com",
+    "s": "highsnobiety",
+    "t": "highsnob",
+    "u": "http://www.highsnobiety.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.hihostels.com",
+    "s": "Hostelling International",
+    "t": "hihostels",
+    "u": "https://www.hihostels.com/search/hostels?q={{{s}}}"
+  },
+  {
+    "d": "www.hikr.org",
+    "s": "Hikr.org",
+    "t": "hikr",
+    "u": "http://www.hikr.org/cse.php?q={{{s}}}"
+  },
+  {
+    "d": "www.hillel.org",
+    "s": "Hillel College Guide",
+    "t": "hillel",
+    "u": "http://www.hillel.org/college-guide/search#keyword={{{s}}}&radius=10"
+  },
+  {
+    "d": "www.hilux4x4.co.za",
+    "s": "Hilux 4x4",
+    "t": "hilux4x4",
+    "u": "http://www.hilux4x4.co.za/views/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search"
+  },
+  {
+    "d": "www.thehindu.com",
+    "s": "The Hindu",
+    "t": "hindu",
+    "u": "http://www.thehindu.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "hi-news.ru",
+    "s": "Hi-News.ru",
+    "t": "hinews",
+    "u": "http://hi-news.ru/?s={{{s}}}"
+  },
+  {
+    "d": "hinta.fi",
+    "s": "Hinta.fi",
+    "t": "hintafi",
+    "u": "http://hinta.fi/haku?q={{{s}}}"
+  },
+  {
+    "d": "hintaseuranta.fi",
+    "s": "Hintaseuranta",
+    "t": "hinta",
+    "u": "http://hintaseuranta.fi/haku/{{{s}}}"
+  },
+  {
+    "d": "www.maxgyan.com",
+    "s": "Max Gyan Hindi to English",
+    "t": "hintoeng",
+    "u": "http://www.maxgyan.com/search/hindi-to-english/index.php?q={{{s}}}"
+  },
+  {
+    "d": "hackaday.io",
+    "s": "Hackaday.io",
+    "t": "hio",
+    "u": "https://hackaday.io/search?term={{{s}}}"
+  },
+  {
+    "d": "www.hippressurecooking.com",
+    "s": "hip pressure cooking",
+    "t": "hip",
+    "u": "http://www.hippressurecooking.com/?s={{{s}}} "
+  },
+  {
+    "d": "wiki.hippiestation.com",
+    "s": "HippieStation wiki",
+    "t": "hippie",
+    "u": "https://wiki.hippiestation.com//index.php?title=Special%3ASearch&profile=default&search={{{s}}}"
+  },
+  {
+    "d": "historio.us",
+    "s": "Historious",
+    "t": "historious",
+    "u": "http://historio.us/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.history.com",
+    "s": "History",
+    "t": "history",
+    "u": "http://www.history.com/search?search-field={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "hitchwiki.org",
+    "s": "Hitchwiki",
+    "t": "hitchwiki",
+    "u": "http://hitchwiki.org/en/index.php?search={{{s}}}&fulltext=Search&title=Special%3ASearch"
+  },
+  {
+    "d": "www.hitta.se",
+    "s": "Hitta.se",
+    "t": "hitta",
+    "u": "https://www.hitta.se/sök?vad={{{s}}}"
+  },
+  {
+    "d": "www.hive.co.uk",
+    "s": "Hive",
+    "t": "hive",
+    "u": "https://www.hive.co.uk/Search/Keyword?keyword={{{s}}}"
+  },
+  {
+    "d": "www.honestjohn.co.uk",
+    "s": "Honest John",
+    "t": "hj",
+    "u": "https://www.honestjohn.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "howjsay.com",
+    "s": "HowJSay",
+    "t": "hjs",
+    "u": "https://howjsay.com/search?word={{{s}}}"
+  },
+  {
+    "d": "www.elegislation.gov.hk",
+    "s": "Hong Kong e-Legislation",
+    "t": "hkeleg",
+    "u": "https://www.elegislation.gov.hk/results?SEARCH_OPTION=K&keyword.SEARCH_FIELD=E&keyword.SEARCH_KEYWORD={{{s}}}"
+  },
+  {
+    "d": "www.hongkongfp.com",
+    "s": "Hong Kong Free Press",
+    "t": "hkfp",
+    "u": "https://www.hongkongfp.com/?s={{{s}}}"
+  },
+  {
+    "d": "hackage.haskell.org",
+    "s": "Hackage",
+    "t": "hkg",
+    "u": "https://hackage.haskell.org/packages/search?terms={{{s}}}"
+  },
+  {
+    "d": "hacktips.it",
+    "s": "HackTips",
+    "t": "hk",
+    "u": "http://hacktips.it/?s={{{s}}}"
+  },
+  {
+    "d": "search.legco.gov.hk",
+    "s": "Hong Kong Leg-Co",
+    "t": "hklegco",
+    "u": "https://search.legco.gov.hk/LegCoWeb/Search.aspx?lang=en&searchtype=simple&keyword={{{s}}}"
+  },
+  {
+    "d": "www.hklii.hk",
+    "s": "HKLII",
+    "t": "hklii",
+    "u": "http://www.hklii.hk/cgi-bin/sinosrch.cgi?query={{{s}}}&results=50&submit=Search&mask_world=&mask_path=&callback=on&method=auto&meta=%2Fhklii"
+  },
+  {
+    "d": "www.hockey-reference.com",
+    "s": "Hockey Reference",
+    "t": "hkref",
+    "u": "https://www.hockey-reference.com/search/search.fcgi?hint=&search={{{s}}}"
+  },
+  {
+    "d": "hooktube.com",
+    "s": "Hooktube",
+    "t": "hkt",
+    "u": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "hollowknight.wikia.com",
+    "s": "Hollow Knight Wiki",
+    "t": "hkw",
+    "u": "http://hollowknight.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "hollowknight.wikia.com",
+    "s": "Hollow Knight Wikia",
+    "t": "hkwikia",
+    "u": "http://hollowknight.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "howlongtobeat.com",
+    "s": "How Long to Beat",
+    "t": "hlb",
+    "u": "http://howlongtobeat.com/?q={{{s}}}"
+  },
+  {
+    "d": "horalectura.blogspot.com",
+    "s": "HoraLectura",
+    "t": "hlectura",
+    "u": "https://horalectura.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hugelol.com",
+    "s": "Hugelol",
+    "t": "hl",
+    "u": "http://hugelol.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hlj.com",
+    "s": "HobbyLink Japan",
+    "t": "hlj",
+    "u": "https://hlj.com/search/go?w={{{s}}}"
+  },
+  {
+    "d": "www.hln.be",
+    "s": "Het Laatste Nieuws",
+    "t": "hln",
+    "u": "https://www.hln.be/zoeken?query={{{s}}}"
+  },
+  {
+    "d": "hlp-search.tproxy.de",
+    "s": "Hard-Light Productions",
+    "t": "hlp",
+    "u": "https://hlp-search.tproxy.de/search?q={{{s}}}"
+  },
+  {
+    "d": "howlongtobeat.com",
+    "s": "How Long To Beat",
+    "t": "hltb",
+    "u": "http://howlongtobeat.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.hltv.org",
+    "s": "HLTV.org",
+    "t": "hltv",
+    "u": "https://www.hltv.org/search?query={{{s}}}"
+  },
+  {
+    "d": "catalog.hmcpl.org",
+    "s": "Huntsville-Madison County Public Library",
+    "t": "hmcpl",
+    "u": "https://catalog.hmcpl.org/cgi-bin/koha/opac-search.pl?q={{{s}}}"
+  },
+  {
+    "d": "wego.here.com",
+    "s": "HERE maps",
+    "t": "hm",
+    "u": "https://wego.here.com/search/{{{s}}}?"
+  },
+  {
+    "d": "www5.atwiki.jp",
+    "s": "初音ミク Wiki",
+    "t": "hmiku",
+    "u": "http://www5.atwiki.jp/hmiku/?cmd=search&keyword={{{s}}}"
+  },
+  {
+    "d": "hn.algolia.com",
+    "s": "Hacker News",
+    "t": "hnd",
+    "u": "https://hn.algolia.com/?query={{{s}}}&sort=byDate"
+  },
+  {
+    "d": "www.harald-nyborg.dk",
+    "s": "Harald Nyborg (Denmark/Danmark)",
+    "t": "hndk",
+    "u": "https://www.harald-nyborg.dk/search?q={{{s}}}"
+  },
+  {
+    "d": "hn.algolia.com",
+    "s": "Hacker News",
+    "t": "hn",
+    "u": "https://hn.algolia.com/?q={{{s}}}"
+  },
+  {
+    "d": "hackernoon.com",
+    "s": "hackernoon",
+    "t": "hno",
+    "u": "https://hackernoon.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hn.algolia.com",
+    "s": "Hacker News",
+    "t": "hnsearch",
+    "u": "http://hn.algolia.com/#!/story/forever/0/{{{s}}}"
+  },
+  {
+    "d": "www.harald-nyborg.se",
+    "s": "Harald Nyborg (Sweden/Sverige)",
+    "t": "hnse",
+    "u": "http://www.harald-nyborg.se/search?q={{{s}}}"
+  },
+  {
+    "d": "www.hs-neu-ulm.de",
+    "s": "Hochschule Neu-Ulm",
+    "t": "hnu",
+    "u": "https://www.hs-neu-ulm.de/nc/suchergebnisse/?id=1289&L=0&q={{{s}}}"
+  },
+  {
+    "d": "hobbyking.com",
+    "s": "Hobby King",
+    "t": "hobbyking",
+    "u": "https://hobbyking.com/en_us/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.hobby-machinist.com",
+    "s": "The Hobby Machinist",
+    "t": "hobby-machinist",
+    "u": "http://www.hobby-machinist.com//?={{{s}}}"
+  },
+  {
+    "d": "www.hobbyworks.com",
+    "s": "HobbyWorks",
+    "t": "hobbyworks",
+    "u": "https://www.hobbyworks.com/index.cfm?action=search&searchText={{{s}}}"
+  },
+  {
+    "d": "dlc.lib.de.us",
+    "s": "Hockessin Library",
+    "t": "hockessinlib",
+    "u": "https://dlc.lib.de.us/client/en_US/default/search/results?qu={{{s}}}&te="
+  },
+  {
+    "d": "www.hockeydb.com",
+    "s": "hockeydb.com",
+    "t": "hockeydb",
+    "u": "http://www.hockeydb.com/ihdb/stats/findplayer.php?full_name={{{s}}}"
+  },
+  {
+    "d": "www.hockeymonkey.com",
+    "s": "Hockey Monkey",
+    "t": "hockeymonkey",
+    "u": "http://www.hockeymonkey.com/nsearch?q={{{s}}}"
+  },
+  {
+    "d": "www.hockey-reference.com",
+    "s": "Hockey Reference",
+    "t": "hockeyref",
+    "u": "http://www.hockey-reference.com/search/search.fcgi?search={{{s}}}"
+  },
+  {
+    "d": "www.homedepot.com",
+    "s": "Home Depot",
+    "t": "hode",
+    "u": "http://www.homedepot.com/s/{{{s}}}?NCNI-5"
+  },
+  {
+    "d": "www.heavenofhorror.com",
+    "s": "Heaven of Horror",
+    "t": "hoh",
+    "u": "https://www.heavenofhorror.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.haskell.org",
+    "s": "Hoogle",
+    "t": "ho",
+    "u": "http://www.haskell.org/hoogle/?hoogle={{{s}}}"
+  },
+  {
+    "d": "www.hoi3wiki.com",
+    "s": "Hearts of Iron 3 Wiki",
+    "t": "hoi3",
+    "u": "http://www.hoi3wiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "hoi4.paradoxwikis.com",
+    "s": "Hearts of Iron IV wiki",
+    "t": "hoi4",
+    "u": "https://hoi4.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "hol.kag.org",
+    "s": "Klingon Assault Group",
+    "t": "hol",
+    "u": "https://hol.kag.org/a/{{{s}}}"
+  },
+  {
+    "d": "www.hollandandbarrett.com",
+    "s": "Holland and Barrett",
+    "t": "hollbarr",
+    "u": "https://www.hollandandbarrett.com/search?query={{{s}}}&isSearch=true"
+  },
+  {
+    "d": "hollis.harvard.edu",
+    "s": "HOLLIS",
+    "t": "hollis",
+    "u": "https://hollis.harvard.edu/primo-explore/search?query=any,contains,{{{s}}}&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0"
+  },
+  {
+    "d": "www.homebase.co.uk",
+    "s": "Homebase",
+    "t": "homebase",
+    "u": "http://www.homebase.co.uk/webapp/wcs/stores/servlet/Search?storeId=10151&catalogId=1500001201&langId=110&searchTerms={{{s}}}&authToken="
+  },
+  {
+    "d": "www.homedepot.ca",
+    "s": "Home Depot Canada",
+    "t": "homedepotca",
+    "u": "https://www.homedepot.ca/en/home/search.html?q={{{s}}}#!q={{{s}}}"
+  },
+  {
+    "d": "www.homedepot.com",
+    "s": "The Home Depot",
+    "t": "homedepot",
+    "u": "https://www.homedepot.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.homeadvisor.com",
+    "s": "Home Advisor",
+    "t": "home",
+    "u": "http://www.homeadvisor.com/sitesearch/searchQuery?action=SEARCH&searchType=SiteTaskSearch&useExtSearch=false&initialSearch=true&query={{{s}}}"
+  },
+  {
+    "d": "www.homesnap.com",
+    "s": "Homesnap",
+    "t": "homesnap",
+    "u": "https://www.homesnap.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.homestuck.com",
+    "s": "Homestuck.com",
+    "t": "homestuck",
+    "u": "https://www.homestuck.com/search?search={{{s}}}"
+  },
+  {
+    "d": "homeworkhelpforkids.co.uk",
+    "s": "Homework Help For Kids",
+    "t": "homework",
+    "u": "http://homeworkhelpforkids.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "www.projecthoneypot.org",
+    "s": "Project Honey Pot",
+    "t": "honeypot",
+    "u": "http://www.projecthoneypot.org/ip_{{{s}}}"
+  },
+  {
+    "d": "honto.jp",
+    "s": "honto",
+    "t": "hon",
+    "u": "https://honto.jp/netstore/search_10{{{s}}}.html?srchf=1&tbty=0"
+  },
+  {
+    "d": "www.hood.de",
+    "s": "Hood.de - Auktionen und Online Shopping",
+    "t": "hood",
+    "u": "https://www.hood.de/suchergebnisse.htm?q={{{s}}}"
+  },
+  {
+    "d": "hoogle.haskell.org",
+    "s": "hoogle",
+    "t": "hoogle",
+    "u": "https://hoogle.haskell.org/?hoogle={{{s}}}&scope=set%3Astackage"
+  },
+  {
+    "d": "hooktube.com",
+    "s": "HookTube",
+    "t": "hook",
+    "u": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "hooktube.com",
+    "s": "HookTube",
+    "t": "hooktube",
+    "u": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "hoopshype.com",
+    "s": "Hoops Hype",
+    "t": "hooph",
+    "u": "http://hoopshype.com/?s={{{s}}}"
+  },
+  {
+    "d": "opac.hebib.de",
+    "s": "hessen.OPAC",
+    "t": "hopac",
+    "u": "http://opac.hebib.de/search?scope=R1&q={{{s}}}"
+  },
+  {
+    "d": "www.hornbach.de",
+    "s": "Hornbach",
+    "t": "hornbach",
+    "u": "https://www.hornbach.de/shop/suche/sortiment/{{{s}}}"
+  },
+  {
+    "d": "horormagoria.sk",
+    "s": "Horormagória",
+    "t": "horor",
+    "u": "https://horormagoria.sk/?s={{{s}}}"
+  },
+  {
+    "d": "horormagoria.sk",
+    "s": "Horormagória",
+    "t": "horormagoria",
+    "u": "https://horormagoria.sk/?s={{{s}}}"
+  },
+  {
+    "d": "horormagoria.sk",
+    "s": "Horormagória",
+    "t": "horory",
+    "u": "https://horormagoria.sk/?s={{{s}}}"
+  },
+  {
+    "d": "en.hortipedia.com",
+    "s": "Hortipedia",
+    "t": "hort",
+    "u": "http://en.hortipedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "help.openstreetmap.org",
+    "s": "OpenStreetMap Help",
+    "t": "hosm",
+    "u": "https://help.openstreetmap.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.whoishostingthis.com",
+    "s": "WhoIsHostingThis",
+    "t": "hosting",
+    "u": "http://www.whoishostingthis.com/?q={{{s}}}"
+  },
+  {
+    "d": "networking.ringofsaturn.com",
+    "s": "IP Lookup",
+    "t": "host",
+    "u": "http://networking.ringofsaturn.com/Tools/dig.php?domain=ANY+{{{s}}}"
+  },
+  {
+    "d": "www.hotbot.com",
+    "s": "HotBot Web",
+    "t": "hotbot",
+    "u": "http://www.hotbot.com/search/web?q={{{s}}}"
+  },
+  {
+    "d": "www.buzzyhot.com",
+    "s": "Hot Buzzy",
+    "t": "hotbuzzy",
+    "u": "https://www.buzzyhot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hotels.com",
+    "s": "Hotels",
+    "t": "hotel",
+    "u": "https://hotels.com/search.do?q-destination={{{s}}}"
+  },
+  {
+    "d": "hotels.com",
+    "s": "Hotels",
+    "t": "hotels",
+    "u": "https://hotels.com/search.do?q-destination={{{s}}}"
+  },
+  {
+    "d": "hotline.ua",
+    "s": "Hotline",
+    "t": "hotline",
+    "u": "http://hotline.ua/sr/?q={{{s}}}"
+  },
+  {
+    "d": "www.hotnews.ro",
+    "s": "Hotnews.ro",
+    "t": "hotn",
+    "u": "https://www.hotnews.ro/cauta/{{{s}}}/1"
+  },
+  {
+    "d": "www.hotstar.com",
+    "s": "Hotsar",
+    "t": "hotsar",
+    "u": "http://www.hotstar.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.hotstar.com",
+    "s": "Hotstar",
+    "t": "hotstar",
+    "u": "http://www.hotstar.com/search?q={{{s}}}"
+  },
+  {
+    "d": "homotopytypetheory.org",
+    "s": "Homotopy Type Theory",
+    "t": "hott",
+    "u": "https://homotopytypetheory.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.hottopic.com",
+    "s": "Hot Topic",
+    "t": "hottopic",
+    "u": "http://www.hottopic.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.homeoftheunderdogs.net",
+    "s": "Home of the Underdogs",
+    "t": "hotud",
+    "u": "http://www.homeoftheunderdogs.net/search.php?search_game={{{s}}}"
+  },
+  {
+    "d": "www.hotukdeals.com",
+    "s": "Hotukdeals",
+    "t": "hotukdeals",
+    "u": "http://www.hotukdeals.com/search?action=search&keywords={{{s}}}"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "Houdini Documentation",
+    "t": "hou",
+    "u": "https://cse.google.com/cse?cx=001106583893786776783%3Au81vudxhm7a&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.sidefx.com%2Fdocs%2Fhoudini%2F&ref=www.sidefx.com%2Fdocs%2F&ss=504j116288j4"
+  },
+  {
+    "d": "www.housepetscomic.com",
+    "s": "Housepets!",
+    "t": "housepets",
+    "u": "http://www.housepetscomic.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.housetrip.com",
+    "s": "HouseTrip",
+    "t": "housetrip",
+    "u": "http://www.housetrip.com/en/search-holiday-apartments/{{{s}}}?guests=2"
+  },
+  {
+    "d": "www.houzz.com",
+    "s": "Houzz",
+    "t": "houzz",
+    "u": "https://www.houzz.com/photos/query/{{{s}}}"
+  },
+  {
+    "d": "www.hover.com",
+    "s": "Hover",
+    "t": "hover",
+    "u": "https://www.hover.com/domains/results?q={{{s}}}"
+  },
+  {
+    "d": "www.howardpianoindustries.com",
+    "s": "Howard Piano Industries",
+    "t": "howard",
+    "u": "https://www.howardpianoindustries.com/search.php?search_query={{{s}}}"
+  },
+  {
+    "d": "howcode.org",
+    "s": "howCode",
+    "t": "how",
+    "u": "https://howcode.org/search?q={{{s}}}"
+  },
+  {
+    "d": "howjsay.com",
+    "s": "HowJSay",
+    "t": "howjsay",
+    "u": "https://howjsay.com/search?word={{{s}}}"
+  },
+  {
+    "d": "howlongtobeat.com",
+    "s": "HowLongToBeat",
+    "t": "howlongtobeat",
+    "u": "https://howlongtobeat.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.howstuffworks.com",
+    "s": "How Stuff Works",
+    "t": "howstuffworks",
+    "u": "http://www.howstuffworks.com/search.php?terms={{{s}}}"
+  },
+  {
+    "d": "howthingswork.virginia.edu",
+    "s": "How Things Work",
+    "t": "howthingswork",
+    "u": "http://howthingswork.virginia.edu/search.php?searchs={{{s}}}&Go.x=0&Go.y=0&searchq=yes&searcha=yes"
+  },
+  {
+    "d": "howtodoinjava.com",
+    "s": "Howtodoinjava",
+    "t": "howtodoinjava",
+    "u": "http://howtodoinjava.com/search-results/?q={{{s}}}"
+  },
+  {
+    "d": "www.howtoforge.com",
+    "s": "HowtoForge",
+    "t": "howtoforge",
+    "u": "http://www.howtoforge.com/trip_search?keys={{{s}}}"
+  },
+  {
+    "d": "www.howtogeek.com",
+    "s": "How-To Geek",
+    "t": "howtogeek",
+    "u": "http://www.howtogeek.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "howtomakemyblog.com",
+    "s": "HowToMakeMyBlog",
+    "t": "howtomakemyblog",
+    "u": "http://howtomakemyblog.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.hpb.com",
+    "s": "Half Price Books",
+    "t": "hpb",
+    "u": "https://www.hpb.com/products?utf8=%E2%9C%93&keywords={{{s}}}"
+  },
+  {
+    "d": "www.housepetscomic.com",
+    "s": "Housepets! Forums",
+    "t": "hpcf",
+    "u": "http://www.housepetscomic.com/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.housepetscomic.com",
+    "s": "Housepets!",
+    "t": "hpc",
+    "u": "http://www.housepetscomic.com/?s={{{s}}}"
+  },
+  {
+    "d": "hpecas.com",
+    "s": "hpecas",
+    "t": "hpecas",
+    "u": "https://hpecas.com/pesquisa?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "d": "www.housepetscomic.com",
+    "s": "Housepets! Forums",
+    "t": "hpf",
+    "u": "http://www.housepetscomic.com/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "hosts-file.net",
+    "s": "hphosts",
+    "t": "hphosts",
+    "u": "http://hosts-file.net/default.asp?s={{{s}}}"
+  },
+  {
+    "d": "search.hp.com",
+    "s": "HP",
+    "t": "hp",
+    "u": "http://search.hp.com/query.html?lang=en&submit.x=0&submit.y=0&qt={{{s}}}&la=en&cc=us"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "HyperPhysics",
+    "t": "hphys",
+    "u": "https://duckduckgo.com/?q=site%3Ahyperphysics.phy-astr.gsu.edu+{{{s}}}"
+  },
+  {
+    "d": "hpluspedia.org",
+    "s": "Hpluspedia",
+    "t": "hplus",
+    "u": "https://hpluspedia.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "hpluspedia.org",
+    "s": "H+Pedia",
+    "t": "hpluspedia",
+    "u": "https://hpluspedia.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "hpluspedia.org",
+    "s": "H+Pedia",
+    "t": "hpp",
+    "u": "https://hpluspedia.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "id.healthyplusplus.com",
+    "s": "Healthy++ ID",
+    "t": "hppid",
+    "u": "https://id.healthyplusplus.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.support.hp.com",
+    "s": "HP Support",
+    "t": "hpsupport",
+    "u": "http://www.support.hp.com/us-en/search?q={{{s}}}&filter="
+  },
+  {
+    "d": "www.heise.de",
+    "s": "Heise.de Preisvergleich",
+    "t": "hpv",
+    "u": "http://www.heise.de/preisvergleich/?fs={{{s}}}"
+  },
+  {
+    "d": "harrypotter.wikia.com",
+    "s": "Harry Potter Wikia",
+    "t": "hpwiki",
+    "u": "http://harrypotter.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.hogeschoolrotterdam.nl",
+    "s": "Hogeschool Rotterdam",
+    "t": "hro",
+    "u": "https://www.hogeschoolrotterdam.nl/zoek/?q={{{s}}}"
+  },
+  {
+    "d": "www.restovisio.com",
+    "s": "HotelRestoVisio",
+    "t": "hrv",
+    "u": "http://www.restovisio.com/search?sq={{{s}}}"
+  },
+  {
+    "d": "hrwiki.org",
+    "s": "Homestar Runner Wiki",
+    "t": "hrwiki",
+    "u": "http://hrwiki.org/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.hs-albsig.de",
+    "s": "Hochschule Albstadt-Sigmaringen",
+    "t": "hsas",
+    "u": "http://www.hs-albsig.de/search/results.aspx?k={{{s}}}&cs=Diese%20Website&u=http%3A%2F%2Fwww.hs-albsig.de"
+  },
+  {
+    "d": "soblex.de",
+    "s": "soblex",
+    "t": "hsb",
+    "u": "http://soblex.de/?p_w={{{s}}}&cmd=search_soblex"
+  },
+  {
+    "d": "www.adl.org",
+    "s": "ADL Hate Symbols Database",
+    "t": "hsdb",
+    "u": "https://www.adl.org/education-and-resources/resource-knowledge-base/hate-symbols?keys={{{s}}}"
+  },
+  {
+    "d": "honyakustar.com",
+    "s": "Honyaku Star",
+    "t": "hs",
+    "u": "http://honyakustar.com/en/{{{s}}} "
+  },
+  {
+    "d": "www.hsl.fi",
+    "s": "Helsingin Seudun Liikenne",
+    "t": "hsl",
+    "u": "https://www.hsl.fi/search/solr?keywords={{{s}}}"
+  },
+  {
+    "d": "hstspreload.org",
+    "s": "HSTS preload list",
+    "t": "hsts",
+    "u": "https://hstspreload.org/?domain={{{s}}}"
+  },
+  {
+    "d": "www.heraldsun.com.au",
+    "s": "Herald Sun",
+    "t": "hsun",
+    "u": "https://www.heraldsun.com.au/?s={{{s}}}"
+  },
+  {
+    "d": "computer.howstuffworks.com",
+    "s": "HowStuffWorks",
+    "t": "hsw",
+    "u": "http://computer.howstuffworks.com/search.php?terms={{{s}}}"
+  },
+  {
+    "d": "hearthstone.gamepedia.com",
+    "s": "Hearthstone: Heroes of Warcraft Wiki",
+    "t": "hswiki",
+    "u": "http://hearthstone.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "hooktube.com",
+    "s": "HookTube",
+    "t": "htb",
+    "u": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "http.cat",
+    "s": "https://http.cat/",
+    "t": "htcat",
+    "u": "https://http.cat/{{{s}}}"
+  },
+  {
+    "d": "www.herold.at",
+    "s": "Herold - Telefon",
+    "t": "htel",
+    "u": "https://www.herold.at/telefonbuch/telefon_{{{s}}}/"
+  },
+  {
+    "d": "www.howtoforge.com",
+    "s": "HowtoForge",
+    "t": "htf",
+    "u": "http://www.howtoforge.com/trip_search?keys={{{s}}}"
+  },
+  {
+    "d": "www.howtogeek.com",
+    "s": "How-To Geek",
+    "t": "htg",
+    "u": "http://www.howtogeek.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "hooktube.com",
+    "s": "HookTube",
+    "t": "ht",
+    "u": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "www.w3.org",
+    "s": "Html2Txt",
+    "t": "html2txt",
+    "u": "http://www.w3.org/services/html2txt?url={{{s}}}"
+  },
+  {
+    "d": "html5doctor.com",
+    "s": "HTML5 Doctor",
+    "t": "html5d",
+    "u": "http://html5doctor.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "htmlbook.ru",
+    "s": "htmlbook.ru",
+    "t": "htmlbook",
+    "u": "http://htmlbook.ru/search/?as_q={{{s}}}"
+  },
+  {
+    "d": "www.htmldog.com",
+    "s": "HTML Dog",
+    "t": "htmldog",
+    "u": "http://www.htmldog.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo (HTML)",
+    "t": "html",
+    "u": "https://duckduckgo.com/html/?q={{{s}}}"
+  },
+  {
+    "d": "http.cat",
+    "s": "HTTP Status Cats",
+    "t": "httpcat",
+    "u": "https://http.cat/{{{s}}}"
+  },
+  {
+    "d": "httpstatuses.com",
+    "s": "HTTP Status Codes",
+    "t": "http",
+    "u": "https://httpstatuses.com/{{{s}}} "
+  },
+  {
+    "d": "hooktube.com",
+    "s": "HookTube",
+    "t": "htube",
+    "u": "https://hooktube.com/results?search_query={{{s}}}"
+  },
+  {
+    "d": "www.htw-berlin.de",
+    "s": "HTW Berlin",
+    "t": "htwb",
+    "u": "https://www.htw-berlin.de/suche/?domain=www.htw-berlin.de&query={{{s}}}"
+  },
+  {
+    "d": "www.htw-dresden.de",
+    "s": "HTW Dresden",
+    "t": "htw",
+    "u": "https://www.htw-dresden.de/suche.html?tx_kesearch_pi1[sword]={{{s}}}"
+  },
+  {
+    "d": "consumer.huawei.com",
+    "s": "Huawei",
+    "t": "huawei",
+    "u": "http://consumer.huawei.com/en/search/index.htm?keywords={{{s}}}"
+  },
+  {
+    "d": "hubpages.com",
+    "s": "Hubpages",
+    "t": "hubpg",
+    "u": "https://hubpages.com/search/?s={{{s}}} "
+  },
+  {
+    "d": "hubski.com",
+    "s": "Hubski",
+    "t": "hubski",
+    "u": "https://hubski.com/search?q={{{s}}}"
+  },
+  {
+    "d": "knowledge.hubspot.com",
+    "s": "HubSpot",
+    "t": "hubspot",
+    "u": "https://knowledge.hubspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hudoc.echr.coe.int",
+    "s": "European Court of human right",
+    "t": "huco",
+    "u": "http://hudoc.echr.coe.int/sites/eng/Pages/search.aspx#{%22fulltext%22:[%22{{{s}}} %22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate hu-de",
+    "t": "hude",
+    "u": "http://translate.google.com/#hu/de/{{{s}}}"
+  },
+  {
+    "d": "hud.summon.serialssolutions.com",
+    "s": "University of Huddersfield Library",
+    "t": "hud",
+    "u": "https://hud.summon.serialssolutions.com/search?ho=t&l=en&fvf=ContentType%2CBook+Review%2Ct&q={{{s}}}&limit=everything"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate hu-en",
+    "t": "huen",
+    "u": "http://translate.google.com/#hu/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.hu",
+    "s": "Google Translate hu-es",
+    "t": "hues",
+    "u": "https://translate.google.hu/#hu/es/{{{s}}}"
+  },
+  {
+    "d": "www.huffingtonpost.com",
+    "s": "Huffington Post",
+    "t": "huffingtonpost",
+    "u": "https://www.huffingtonpost.com/search?keywords={{{s}}}&sortBy=recency&sortOrder=desc"
+  },
+  {
+    "d": "www.huffingtonpost.com",
+    "s": "Huffington Post",
+    "t": "huffpost",
+    "u": "https://www.huffingtonpost.com/search?keywords={{{s}}}&sortBy=recency&sortOrder=desc"
+  },
+  {
+    "d": "hugethinking.com",
+    "s": "Huge Thinking",
+    "t": "huge",
+    "u": "https://hugethinking.com/?s={{{s}}}"
+  },
+  {
+    "d": "codewithhugo.com",
+    "s": "Code with Hugo",
+    "t": "hugo",
+    "u": "https://codewithhugo.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "healthunlocked.com",
+    "s": "HealthUnlocked",
+    "t": "hu",
+    "u": "https://healthunlocked.com/search/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate hu-it",
+    "t": "huit",
+    "u": "http://translate.google.com/#hu/it/{{{s}}}"
+  },
+  {
+    "d": "www.hotukdeals.com",
+    "s": "HotUKDeals",
+    "t": "hukd",
+    "u": "http://www.hotukdeals.com/search?action=search&keywords={{{s}}}"
+  },
+  {
+    "d": "www.hulu.com",
+    "s": "Hulu",
+    "t": "hulu",
+    "u": "http://www.hulu.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.humanite.fr",
+    "s": "L'Humanité",
+    "t": "huma",
+    "u": "http://www.humanite.fr/search/{{{s}}}"
+  },
+  {
+    "d": "www.humblebundle.com",
+    "s": "Humble Bundle",
+    "t": "humblebest",
+    "u": "https://www.humblebundle.com/store/search?sort=bestselling&search={{{s}}}"
+  },
+  {
+    "d": "www.humblebundle.com",
+    "s": "Humble Bundle",
+    "t": "humbledeals",
+    "u": "https://www.humblebundle.com/store/search?sort=discount&search={{{s}}}"
+  },
+  {
+    "d": "www.humblebundle.com",
+    "s": "Humble Store",
+    "t": "humble",
+    "u": "https://www.humblebundle.com/store/search?search={{{s}}}"
+  },
+  {
+    "d": "humble.wikia.com",
+    "s": "The Humble Wiki",
+    "t": "humblewiki",
+    "u": "http://humble.wikia.com/w/{{{s}}}"
+  },
+  {
+    "d": "www.humblebundle.com",
+    "s": "Humble Bundle",
+    "t": "hum",
+    "u": "https://www.humblebundle.com/store/search?sort=bestselling&search={{{s}}}"
+  },
+  {
+    "d": "huskermax.com",
+    "s": "huskermax",
+    "t": "huskermax",
+    "u": "http://huskermax.com/?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate: Hungarian to Serbian",
+    "t": "husr",
+    "u": "https://translate.google.com/#hu/sr/{{{s}}} "
+  },
+  {
+    "d": "www.huuto.net",
+    "s": "Huuto",
+    "t": "huuto",
+    "u": "http://www.huuto.net/hakutulos?words={{{s}}}"
+  },
+  {
+    "d": "hvg.hu",
+    "s": "HVG.hu",
+    "t": "hvg",
+    "u": "http://hvg.hu/kereses?term={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.hinnavaatlus.ee",
+    "s": "Hinnavaatlus",
+    "t": "hv",
+    "u": "http://www.hinnavaatlus.ee/search/?Type=products&Query={{{s}}}"
+  },
+  {
+    "d": "www.harveynorman.com.au",
+    "s": "Harvey Norman",
+    "t": "hvnorman",
+    "u": "https://www.harveynorman.com.au/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.hv-store.de",
+    "s": "HV-Store",
+    "t": "hvstore",
+    "u": "https://www.hv-store.de/navi.php?qs={{{s}}}: "
+  },
+  {
+    "d": "geofox.hvv.de",
+    "s": "HVV",
+    "t": "hvv",
+    "u": "https://geofox.hvv.de/jsf/home.seam?destination={{{s}}}"
+  },
+  {
+    "d": "howto9ja.com",
+    "s": "HowTo9ja",
+    "t": "hw2",
+    "u": "https://howto9ja.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.hollywoodreporter.com",
+    "s": "The Hollywood Reporter",
+    "t": "hwd",
+    "u": "http://www.hollywoodreporter.com/search/{{{s}}} "
+  },
+  {
+    "d": "halo.umbc.edu",
+    "s": "HaloWeb",
+    "t": "hw",
+    "u": "http://halo.umbc.edu/cgi-bin/haloweb/nrc1.pl?display=json&operation=search&keyword={{{s}}}"
+  },
+  {
+    "d": "hi.wikipedia.org",
+    "s": "Hindi Wikipedia",
+    "t": "hwiki",
+    "u": "https://hi.wikipedia.org/w/index.php?search={{{s}}}&title=विशेष%3Aखोज&go=जाएँ&ns0=1"
+  },
+  {
+    "d": "www.hackingwithswift.com",
+    "s": "Hacking With Swift",
+    "t": "hws",
+    "u": "https://www.hackingwithswift.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.hardwarezone.com.sg",
+    "s": "Hardware Zone Forums",
+    "t": "hwz",
+    "u": "http://www.hardwarezone.com.sg/search/forum/?{{{s}}}"
+  },
+  {
+    "d": "www.hoaxbuster.com",
+    "s": "Hoaxbuster",
+    "t": "hxb",
+    "u": "http://www.hoaxbuster.com/search/node/{{{s}}}%20type%3Aarticle"
+  },
+  {
+    "d": "hex.pm",
+    "s": "Hex.pm",
+    "t": "hx",
+    "u": "https://hex.pm/packages?search={{{s}}}&sort=downloads"
+  },
+  {
+    "d": "hunterxhunter.wikia.com",
+    "s": "Hunterpedia",
+    "t": "hxh",
+    "u": "http://hunterxhunter.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Map (Hybrid)",
+    "t": "hybrid",
+    "u": "https://maps.google.com/maps?t=h&q={{{s}}}"
+  },
+  {
+    "d": "via.hypothes.is",
+    "s": "Hypothes.is Via",
+    "t": "hy",
+    "u": "https://via.hypothes.is/{{{s}}}"
+  },
+  {
+    "d": "hymnary.org",
+    "s": "Hymnary.org",
+    "t": "hymnary",
+    "u": "https://hymnary.org/search?qu={{{s}}}"
+  },
+  {
+    "d": "hymn.se",
+    "s": "HYMN",
+    "t": "hymn",
+    "u": "http://hymn.se/?s={{{s}}}"
+  },
+  {
+    "d": "hymn.se",
+    "s": "HYMN",
+    "t": "hymnse",
+    "u": "http://hymn.se/?s={{{s}}}"
+  },
+  {
+    "d": "www.hymnal.net",
+    "s": "hymnal.net",
+    "t": "hymns",
+    "u": "https://www.hymnal.net/en/search/all/all/{{{s}}}"
+  },
+  {
+    "d": "hypem.com",
+    "s": "The Hype Machine",
+    "t": "hypem",
+    "u": "http://hypem.com/#!/search/{{{s}}}/1/"
+  },
+  {
+    "d": "www.hyperbola.info",
+    "s": "hyperbola.info",
+    "t": "hyper",
+    "u": "https://www.hyperbola.info/packages/?q={{{s}}}"
+  },
+  {
+    "d": "hyperninjas.com",
+    "s": "HyperNinjas",
+    "t": "hyperninjas",
+    "u": "http://hyperninjas.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.{{{s}}}.hypestat.com",
+    "s": "hypestat",
+    "t": "hypestat",
+    "u": "http://www.{{{s}}}.hypestat.com/"
+  },
+  {
+    "d": "www.hyphenation24.com",
+    "s": "hyphenation24",
+    "t": "hyphen",
+    "u": "https://www.hyphenation24.com/word/{{{s}}}/"
+  },
+  {
+    "d": "www.hyperninjas.com",
+    "s": "HyperNinjas",
+    "t": "hyp",
+    "u": "http://www.hyperninjas.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hypixel.net",
+    "s": "Hypixel",
+    "t": "hypixel",
+    "u": "https://hypixel.net/player/{{{s}}}/"
+  },
+  {
+    "d": "hypixel-skyblock.fandom.com",
+    "s": "Hypixel Skyblock Wiki",
+    "t": "hysb",
+    "u": "https://hypixel-skyblock.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.hytiva.com",
+    "s": "Hytiva",
+    "t": "hyt",
+    "u": "https://www.hytiva.com/search?searchString={{{s}}}"
+  },
+  {
+    "d": "www.hytiva.com",
+    "s": "Hytive : Strains",
+    "t": "hyts",
+    "u": "https://www.hytiva.com/strains?searchString={{{s}}}"
+  },
+  {
+    "d": "www.hy-vee.com",
+    "s": "Hy-Vee",
+    "t": "hyvee",
+    "u": "https://www.hy-vee.com/grocery/search?search={{{s}}}"
+  },
+  {
+    "d": "www.hyves.nl",
+    "s": "Hyves",
+    "t": "hyves",
+    "u": "http://www.hyves.nl/search/hyver/?searchterms={{{s}}}"
+  }
+]

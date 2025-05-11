@@ -1,0 +1,4652 @@
+[
+  {
+    "d": "pkginfo.devuan.org",
+    "s": "Devuan Package information",
+    "t": "d1pkg",
+    "u": "https://pkginfo.devuan.org/cgi-bin/d1pkgweb-query?search={{{s}}}&release=any"
+  },
+  {
+    "d": "www.d20pfsrd.com",
+    "s": "Pathfinder SRD",
+    "t": "d20pfsrd",
+    "u": "http://www.d20pfsrd.com/system/app/pages/search?scope=search-site&q={{{s}}}"
+  },
+  {
+    "d": "www.d20srd.org",
+    "s": "The Hypertext d20 SRD",
+    "t": "d20srd",
+    "u": "http://www.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "d": "www.d20srd.org",
+    "s": "The Hypertext d20 SRD",
+    "t": "d20",
+    "u": "http://www.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "d": "dota2.gamepedia.com",
+    "s": "Dota2 Gamepedia",
+    "t": "d2gp",
+    "u": "http://dota2.gamepedia.com/Special:Search/{{{s}}}"
+  },
+  {
+    "d": "www.light.gg",
+    "s": "Light.gg",
+    "t": "d2",
+    "u": "https://www.light.gg/db/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.drive2.ru",
+    "s": "https://www.drive2.ru/",
+    "t": "d2r",
+    "u": "https://www.drive2.ru/search?text={{{s}}}"
+  },
+  {
+    "d": "diablo2.diablowiki.net",
+    "s": "Diablo II Wiki",
+    "t": "d2w",
+    "u": "http://diablo2.diablowiki.net/index.php?title=Special%3ASearch&redirs=1&search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+  },
+  {
+    "d": "dirty.ru",
+    "s": "dirty.ru",
+    "t": "d3",
+    "u": "https://dirty.ru/search/?query={{{s}}}"
+  },
+  {
+    "d": "datasheet4u.com",
+    "s": "Datasheet4u",
+    "t": "d4u",
+    "u": "http://datasheet4u.com/share_search.php?sWord={{{s}}}"
+  },
+  {
+    "d": "d66.nl",
+    "s": "D66",
+    "t": "d66",
+    "u": "https://d66.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.dacardworld.com",
+    "s": "Dave & Adam's",
+    "t": "dacardworld",
+    "u": "http://www.dacardworld.com/search?Search={{{s}}}"
+  },
+  {
+    "d": "daccaa.com",
+    "s": "DACCAA",
+    "t": "daccaa",
+    "u": "https://daccaa.com/results/?q={{{s}}}"
+  },
+  {
+    "d": "daddyknows.ru",
+    "s": "Папа знает",
+    "t": "daddyknows",
+    "u": "https://daddyknows.ru/?s={{{s}}}"
+  },
+  {
+    "d": "www.deviantart.com",
+    "s": "DeviantArt",
+    "t": "da",
+    "u": "http://www.deviantart.com/browse/all/?section=&global=1&q={{{s}}}"
+  },
+  {
+    "d": "dadtribe.in",
+    "s": "https://dadtribe.in",
+    "t": "dadtribe",
+    "u": "https://dadtribe.in/?s={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate da-en",
+    "t": "daen",
+    "u": "https://translate.google.com/#da/en/{{{s}}}"
+  },
+  {
+    "d": "www.dafont.com",
+    "s": "DaFont",
+    "t": "dafont",
+    "u": "http://www.dafont.com/search.php?psize=m&q={{{s}}}"
+  },
+  {
+    "d": "www.dafoodmall.com",
+    "s": "dafoodmall",
+    "t": "dafoodmall",
+    "u": "http://www.dafoodmall.com/goods/search.asp?sword={{{s}}}"
+  },
+  {
+    "d": "www.dagen.se",
+    "s": "Dagen",
+    "t": "dagen",
+    "u": "http://www.dagen.se/search-7.157994?sortby=date&q={{{s}}}"
+  },
+  {
+    "d": "www.dagjeweg.nl",
+    "s": "DagjeWeg.NL",
+    "t": "dagjeweg",
+    "u": "https://www.dagjeweg.nl/zoeken?dq={{{s}}}"
+  },
+  {
+    "d": "dagobah.net",
+    "s": "Dagobah Flash Gallery",
+    "t": "dagobah",
+    "u": "http://dagobah.net/?search={{{s}}}"
+  },
+  {
+    "d": "www.collegian.psu.edu",
+    "s": "The Daily Collegian",
+    "t": "dailycollegian",
+    "u": "http://www.collegian.psu.edu/search/?f=html&q={{{s}}}"
+  },
+  {
+    "d": "www.dailymail.co.uk",
+    "s": "Daily Mail Online",
+    "t": "dailymail",
+    "u": "https://www.dailymail.co.uk/home/search.html?sel=site&searchPhrase={{{s}}}"
+  },
+  {
+    "d": "dailymed.nlm.nih.gov",
+    "s": "DailyMed",
+    "t": "dailymed",
+    "u": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query={{{s}}}"
+  },
+  {
+    "d": "www.dailymotion.com",
+    "s": "Dailymotion",
+    "t": "dailymotion",
+    "u": "https://www.dailymotion.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.delcotimes.com",
+    "s": "Delaware County Daily Times",
+    "t": "dailytimes",
+    "u": "http://www.delcotimes.com/search?text={{{s}}}"
+  },
+  {
+    "d": "www.dailywritingtips.com",
+    "s": "DailyWritingTips",
+    "t": "dailywriting",
+    "u": "https://www.dailywritingtips.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ábrete libro",
+    "t": "dal",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:abretelibro.com"
+  },
+  {
+    "d": "asturianu.elahorcado.net",
+    "s": "Diccionariu de l'Academia de la Llingua Asturiana",
+    "t": "dalla",
+    "u": "http://asturianu.elahorcado.net/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.dallasnews.com",
+    "s": "The Dallas Morning News",
+    "t": "dallasnews",
+    "u": "https://www.dallasnews.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.danas.rs",
+    "s": "Danas.rs",
+    "t": "danas",
+    "u": "https://www.danas.rs/?s={{{s}}}"
+  },
+  {
+    "d": "search.danawa.com",
+    "s": "Danawa",
+    "t": "danawa",
+    "u": "http://search.danawa.com/dsearch.php?query={{{s}}}"
+  },
+  {
+    "d": "danbooru.donmai.us",
+    "s": "Danbooru",
+    "t": "danbooru",
+    "u": "https://danbooru.donmai.us/posts?tags={{{s}}}+rating:safe"
+  },
+  {
+    "d": "www.dandyfellow.com",
+    "s": "Dandy Fellow",
+    "t": "dandyfellow",
+    "u": "https://www.dandyfellow.com/search/{{{s}}}"
+  },
+  {
+    "d": "dane.ac-dijon.fr",
+    "s": "dane dijon",
+    "t": "dane",
+    "u": "http://dane.ac-dijon.fr/?s={{{s}}}"
+  },
+  {
+    "d": "danielha.tk",
+    "s": "Daniel's Home Automation Blog",
+    "t": "danielha",
+    "u": "https://danielha.tk/search.html?query={{{s}}}"
+  },
+  {
+    "d": "www.danielshomecenter.com",
+    "s": "Daniel's Home Center",
+    "t": "danielshomecenter",
+    "u": "https://www.danielshomecenter.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.daniweb.com",
+    "s": "DaniWeb",
+    "t": "daniweb",
+    "u": "https://www.daniweb.com/search/index?q={{{s}}}"
+  },
+  {
+    "d": "www.nexusmods.com",
+    "s": "Dragon Age NexusMods",
+    "t": "danm",
+    "u": "https://www.nexusmods.com/dragonage/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "d": "www.danmurphys.com.au",
+    "s": "Dan Murphy's",
+    "t": "danmurphys",
+    "u": "https://www.danmurphys.com.au/search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.dansverine.com",
+    "s": "Dansverine",
+    "t": "dansverine",
+    "u": "https://www.dansverine.com/search?q={{{s}}}"
+  },
+  {
+    "d": "api.drupal.org",
+    "s": "Drupal API",
+    "t": "dapi",
+    "u": "https://api.drupal.org/api/drupal/latest/search/{{{s}}}"
+  },
+  {
+    "d": "www.d-archive.org",
+    "s": "https://www.d-archive.org/",
+    "t": "darc",
+    "u": "https://www.d-archive.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.dariawiki.org",
+    "s": "Daria Wiki",
+    "t": "daria",
+    "u": "http://www.dariawiki.org/wiki/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "dariusforoux.com",
+    "s": "Darius Foroux",
+    "t": "dariusf",
+    "u": "https://dariusforoux.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Dark Theme",
+    "t": "dark",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kae=d"
+  },
+  {
+    "d": "www.darkhorse.com",
+    "s": "Dark Horse Comics",
+    "t": "darkhorse",
+    "u": "http://www.darkhorse.com/Search/{{{s}}}"
+  },
+  {
+    "d": "www.darklyrics.com",
+    "s": "DarkLyrics.com",
+    "t": "darklyrics",
+    "u": "http://www.darklyrics.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.darknetmarkets.net",
+    "s": "Darknet Markets News",
+    "t": "darknetmarkets",
+    "u": "https://www.darknetmarkets.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.dartlang.org",
+    "s": "dartlang",
+    "t": "dart",
+    "u": "http://www.dartlang.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "libcat.dartmouth.edu",
+    "s": "Dartmouth College Libraries",
+    "t": "dartlib",
+    "u": "http://libcat.dartmouth.edu/search/X?{{{s}}}"
+  },
+  {
+    "d": "pub.dartlang.org",
+    "s": "Dart Packages",
+    "t": "dartpub",
+    "u": "https://pub.dartlang.org/packages?q={{{s}}}"
+  },
+  {
+    "d": "www.darty.com",
+    "s": "Darty",
+    "t": "darty",
+    "u": "http://www.darty.com/nav/recherche?text={{{s}}}"
+  },
+  {
+    "d": "dic.academic.ru",
+    "s": "dic.academic.ru",
+    "t": "daru",
+    "u": "http://dic.academic.ru/searchall.php?SWord={{{s}}}&from=xx&to=ru&did=&stype=0"
+  },
+  {
+    "d": "dash.harvard.edu",
+    "s": "Digital Access to Scholarship at Harvard",
+    "t": "dash",
+    "u": "http://dash.harvard.edu/search?scope=%2F&query={{{s}}}&rpp=10&sort_by=0&order=DESC"
+  },
+  {
+    "d": "dashradio.com",
+    "s": "Dash Radio",
+    "t": "dashradio",
+    "u": "http://dashradio.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.databaze-her.cz",
+    "s": "Databáze her",
+    "t": "databaze-her",
+    "u": "http://www.databaze-her.cz/hledani/?fraze={{{s}}}"
+  },
+  {
+    "d": "www.data-blogger.com",
+    "s": "Data Blogger",
+    "t": "datablogger",
+    "u": "https://www.data-blogger.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "search.datacite.org",
+    "s": "datacite.org",
+    "t": "datacite",
+    "u": "https://search.datacite.org/works?query={{{s}}}"
+  },
+  {
+    "d": "datadeer.net",
+    "s": "datadeer",
+    "t": "datadeer",
+    "u": "https://datadeer.net/search/index.php?q={{{s}}}"
+  },
+  {
+    "d": "toolbox.google.com",
+    "s": "Google Dataset Search",
+    "t": "data",
+    "u": "https://toolbox.google.com/datasetsearch/search?query={{{s}}}"
+  },
+  {
+    "d": "www.data.gouv.fr",
+    "s": "DataGouv",
+    "t": "datagouv",
+    "u": "https://www.data.gouv.fr/fr/search/?q={{{s}}}"
+  },
+  {
+    "d": "data.gov.au",
+    "s": "Australia Government Datasets",
+    "t": "datagovau",
+    "u": "http://data.gov.au/dataset?q={{{s}}}"
+  },
+  {
+    "d": "catalog.data.gov",
+    "s": "Data.Gov",
+    "t": "datagov",
+    "u": "http://catalog.data.gov/dataset?q={{{s}}}&sort=score+desc%2C+name+asc"
+  },
+  {
+    "d": "toolbox.google.com",
+    "s": "https://toolbox.google.com/datasetsearch",
+    "t": "datasearch",
+    "u": "https://toolbox.google.com/datasetsearch/search?query={{{s}}}"
+  },
+  {
+    "d": "www.datasheetarchive.com",
+    "s": "Datasheet Archive",
+    "t": "datasheetarchive",
+    "u": "http://www.datasheetarchive.com/{{{s}}}-datasheet.html"
+  },
+  {
+    "d": "www.data.vic.gov.au",
+    "s": "Victorian Government Datasets",
+    "t": "datavicgov",
+    "u": "https://www.data.vic.gov.au/data/dataset?q={{{s}}}"
+  },
+  {
+    "d": "www.datazar.com",
+    "s": "Datazar",
+    "t": "datazar",
+    "u": "https://www.datazar.com/search/data/?q={{{s}}}"
+  },
+  {
+    "d": "www.datev.de",
+    "s": "DATEV",
+    "t": "datev",
+    "u": "https://www.datev.de/web/de/suche/?query={{{s}}}"
+  },
+  {
+    "d": "datpiff.com",
+    "s": "Datpiff",
+    "t": "datpiff",
+    "u": "http://datpiff.com/mixtapes-search?criteria={{{s}}}&sort=rating"
+  },
+  {
+    "d": "search.daum.net",
+    "s": "Daum",
+    "t": "daum",
+    "u": "http://search.daum.net/search?w=tot&q={{{s}}}"
+  },
+  {
+    "d": "dic.daum.net",
+    "s": "Daum 어학사전",
+    "t": "daumdic",
+    "u": "http://dic.daum.net/search.do?q={{{s}}}"
+  },
+  {
+    "d": "{{{s}}}.deviantart.com",
+    "s": "DeviantArt User",
+    "t": "dauser",
+    "u": "http://{{{s}}}.deviantart.com"
+  },
+  {
+    "d": "davesgarden.com",
+    "s": "Dave's Garden",
+    "t": "davesgarden",
+    "u": "http://davesgarden.com/sitewidesearch.php?q={{{s}}}"
+  },
+  {
+    "d": "www.davetiyebaski.net",
+    "s": "davetiye baskı",
+    "t": "davetiyebaski",
+    "u": "http://www.davetiyebaski.net/arama?q={{{s}}}"
+  },
+  {
+    "d": "davidnesher.com.ar",
+    "s": "David Nesher Blog",
+    "t": "davidnesher",
+    "u": "http://davidnesher.com.ar/?q={{{s}}}:"
+  },
+  {
+    "d": "davidsw.com",
+    "s": "DavidSW",
+    "t": "davidsw",
+    "u": "http://davidsw.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "daviswiki.org",
+    "s": "DavisWiki",
+    "t": "daviswiki",
+    "u": "https://daviswiki.org/_rsearch/?q={{{s}}}"
+  },
+  {
+    "d": "dragonage.fandom.com",
+    "s": "Dragon Age wiki",
+    "t": "dawiki",
+    "u": "https://dragonage.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "dax",
+    "u": "http://duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "day",
+    "u": "https://duckduckgo.com/?q={{{s}}}&df=d"
+  },
+  {
+    "d": "www.ibm.com",
+    "s": "IBM DB2 for z/OS doc search",
+    "t": "db2z",
+    "u": "https://www.ibm.com/support/knowledgecenter/search/{{{s}}}?scope=SSEPEK_11.0.0"
+  },
+  {
+    "d": "www.dba.dk",
+    "s": "Den Blå Avis",
+    "t": "dba",
+    "u": "http://www.dba.dk/soeg/?soeg={{{s}}}"
+  },
+  {
+    "d": "dba.stackexchange.com",
+    "s": "DBA StackExchange",
+    "t": "dbasx",
+    "u": "http://dba.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "book.douban.com",
+    "s": "Douban",
+    "t": "dbbook",
+    "u": "https://book.douban.com/subject_search?search_text={{{s}}}&cat=1001"
+  },
+  {
+    "d": "deadbydaylight.gamepedia.com",
+    "s": "Dead by Daylight Wiki",
+    "t": "dbd",
+    "u": "https://deadbydaylight.gamepedia.com/index.php?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "d": "m.douban.com",
+    "s": "Douban",
+    "t": "db",
+    "u": "https://m.douban.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "dbGaP",
+    "t": "dbgap",
+    "u": "https://www.ncbi.nlm.nih.gov/gap/?term={{{s}}}"
+  },
+  {
+    "d": "dejure.org",
+    "s": "BGB - dejure.org",
+    "t": "dbgb",
+    "u": "http://dejure.org/gesetze/BGB/{{{s}}}.html"
+  },
+  {
+    "d": "www.dotabuff.com",
+    "s": "Dotabuff Hero Guides",
+    "t": "dbguide",
+    "u": "https://www.dotabuff.com/heroes/{{{s}}}/guides"
+  },
+  {
+    "d": "www.databazeknih.cz",
+    "s": "Databaze knih",
+    "t": "dbk",
+    "u": "http://www.databazeknih.cz/search?q={{{s}}}"
+  },
+  {
+    "d": "discordbots.org",
+    "s": "Discord Bot List",
+    "t": "dbl",
+    "u": "https://discordbots.org/search?q={{{s}}}"
+  },
+  {
+    "d": "dblp.uni-trier.de",
+    "s": "DBLP Computer Science Bibliography",
+    "t": "dblp",
+    "u": "https://dblp.uni-trier.de/search?q={{{s}}}"
+  },
+  {
+    "d": "dblp.uni-trier.de",
+    "s": "DBLP",
+    "t": "dblp.pub",
+    "u": "http://dblp.uni-trier.de/search/publ?q={{{s}}} "
+  },
+  {
+    "d": "movie.douban.com",
+    "s": "Douban Movie",
+    "t": "dbm",
+    "u": "https://movie.douban.com/subject_search?search_text={{{s}}}"
+  },
+  {
+    "d": "movie.douban.com",
+    "s": "Douban",
+    "t": "dbmovie",
+    "u": "https://movie.douban.com/subject_search?search_text={{{s}}}&cat=1002"
+  },
+  {
+    "d": "music.douban.com",
+    "s": "Douban Music",
+    "t": "dbmusic",
+    "u": "https://music.douban.com/subject_search?search_text={{{s}}}&cat=1003"
+  },
+  {
+    "d": "data.bnf.fr",
+    "s": "Data Bnf",
+    "t": "dbnf",
+    "u": "http://data.bnf.fr/search?term={{{s}}}"
+  },
+  {
+    "d": "dbnl.nl",
+    "s": "http://dbnl.nl/",
+    "t": "dbnl",
+    "u": "http://dbnl.nl/zoeken/zoekeninteksten/index.php?zoek={{{s}}}"
+  },
+  {
+    "d": "discord.boats",
+    "s": "Discord Boats",
+    "t": "dboats",
+    "u": "https://discord.boats/bots?search={{{s}}}"
+  },
+  {
+    "d": "dev.bukkit.org",
+    "s": "BukkitDev",
+    "t": "dbo",
+    "u": "https://dev.bukkit.org/search?search={{{s}}}"
+  },
+  {
+    "d": "discord.bots.gg",
+    "s": "Discord Bots",
+    "t": "dbots",
+    "u": "https://discord.bots.gg/search?q={{{s}}}"
+  },
+  {
+    "d": "paper.dropbox.com",
+    "s": "Dropbox Paper",
+    "t": "dbp",
+    "u": "https://paper.dropbox.com/?q={{{s}}}"
+  },
+  {
+    "d": "wiki.dbpedia.org",
+    "s": "DBPedia",
+    "t": "dbpedia",
+    "u": "http://wiki.dbpedia.org/Search?phrase={{{s}}}"
+  },
+  {
+    "d": "danbooru.donmai.us",
+    "s": "Danbooru Artists",
+    "t": "dbrartist",
+    "u": "https://danbooru.donmai.us/artists?commit=Search&search%5Bany_name_matches%5D={{{s}}}&search%5Border%5D=created_at&utf8=%E2%9C%93"
+  },
+  {
+    "d": "danbooru.donmai.us",
+    "s": "Danbooru",
+    "t": "dbr",
+    "u": "https://danbooru.donmai.us/posts?tags={{{s}}}+rating:safe"
+  },
+  {
+    "d": "read.douban.com",
+    "s": "read.douban",
+    "t": "dbread",
+    "u": "https://read.douban.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "NCBI dbSNP",
+    "t": "dbsnp",
+    "u": "http://www.ncbi.nlm.nih.gov/snp?term={{{s}}}"
+  },
+  {
+    "d": "bugs.debian.org",
+    "s": "Debian Bug Tracking System",
+    "t": "dbts",
+    "u": "https://bugs.debian.org/{{{s}}}"
+  },
+  {
+    "d": "diebuchsuche.de",
+    "s": "diebuchsuche.de",
+    "t": "dbuch",
+    "u": "http://diebuchsuche.de/r.php?q={{{s}}}"
+  },
+  {
+    "d": "www.dotabuff.com",
+    "s": "Dotabuff",
+    "t": "dbuff",
+    "u": "http://www.dotabuff.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "bugs.debian.org",
+    "s": "Debian Bugs",
+    "t": "dbugs",
+    "u": "http://bugs.debian.org/{{{s}}}"
+  },
+  {
+    "d": "dragonbolt-vanguard.wikia.com",
+    "s": "Dragonbolt Vanguard Wiki",
+    "t": "dbv",
+    "u": "http://dragonbolt-vanguard.wikia.com/search?query={{{s}}}"
+  },
+  {
+    "d": "deathbattle.wikia.com",
+    "s": "DEATH BATTLE Wiki",
+    "t": "dbwiki",
+    "u": "http://deathbattle.wikia.com/wiki/Special:Search?fulltext=Search&search={{{s}}}"
+  },
+  {
+    "d": "int.darkbyte.ru",
+    "s": "Darkbyte",
+    "t": "dbyte",
+    "u": "http://int.darkbyte.ru/{{{s}}}"
+  },
+  {
+    "d": "www.dict.cc",
+    "s": "dict.cc",
+    "t": "dcc",
+    "u": "http://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.dccomics.com",
+    "s": "DC Comics",
+    "t": "dccomics",
+    "u": "http://www.dccomics.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "duck.co",
+    "s": "DuckDuckGo Community",
+    "t": "dc",
+    "u": "https://duck.co/forum/search?q={{{s}}}"
+  },
+  {
+    "d": "search.dcinside.com",
+    "s": "dcinside",
+    "t": "dcinside",
+    "u": "http://search.dcinside.com/combine/q/{{{s}}}"
+  },
+  {
+    "d": "dict.cn",
+    "s": "Dict.cn Chinese<>English Dictionary",
+    "t": "dcn",
+    "u": "http://dict.cn/{{{s}}}"
+  },
+  {
+    "d": "www.apps.dcnr.state.pa.us",
+    "s": "Pennsylvania Department of Conservation and Natural Resources",
+    "t": "dcnr",
+    "u": "http://www.apps.dcnr.state.pa.us/search.aspx?cx=008544532008978746929:8o8oxsc28a8&cof=FORID:11&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "dictionary.reference.com",
+    "s": "Dictionary.com",
+    "t": "d.com",
+    "u": "http://dictionary.reference.com/browse/{{{s}}}?s=t"
+  },
+  {
+    "d": "www.dictionary.com",
+    "s": "Dictionary.com",
+    "t": "dcom",
+    "u": "http://www.dictionary.com/browse/{{{s}}}"
+  },
+  {
+    "d": "docs.anakeen.com",
+    "s": "Dynacase documentation",
+    "t": "dcp",
+    "u": "http://docs.anakeen.com/dynacase/stable/#{{{s}}}"
+  },
+  {
+    "d": "www.dcrainmaker.com",
+    "s": "dcrainmaker.com",
+    "t": "dcr",
+    "u": "http://www.dcrainmaker.com/?s={{{s}}} "
+  },
+  {
+    "d": "dcs.rutgers.edu",
+    "s": "Rutgers University – Digital Classroom Services",
+    "t": "dcs",
+    "u": "https://dcs.rutgers.edu/search/node/{{{s}}}"
+  },
+  {
+    "d": "crawl.chaosforge.org",
+    "s": "Crawl Wiki",
+    "t": "dcss",
+    "u": "http://crawl.chaosforge.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "capitadiscovery.co.uk",
+    "s": "Dublin City University Library Catalogue",
+    "t": "dcul",
+    "u": "https://capitadiscovery.co.uk/dcu/items?query={{{s}}}"
+  },
+  {
+    "d": "wiki.dcinside.com",
+    "s": "DCinside wiki",
+    "t": "dcw",
+    "u": "http://wiki.dcinside.com/wiki/{{{s}}}"
+  },
+  {
+    "d": "dc.wikia.com",
+    "s": "DC Wiki",
+    "t": "dcwiki",
+    "u": "http://dc.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.deutsche-digitale-bibliothek.de",
+    "s": "Deutsche Digitale Bibliothek",
+    "t": "ddb",
+    "u": "https://www.deutsche-digitale-bibliothek.de/searchresults?query={{{s}}}"
+  },
+  {
+    "d": "www.dndbeyond.com",
+    "s": "D&D Beyond",
+    "t": "d&d",
+    "u": "https://www.dndbeyond.com/search?q={{{s}}}"
+  },
+  {
+    "d": "sli.uvigo.gal",
+    "s": "Dicionario de Dicionarios",
+    "t": "ddd",
+    "u": "http://sli.uvigo.gal/ddd/ddd_pescuda.php?pescuda={{{s}}}&tipo_busca=lema"
+  },
+  {
+    "d": "devdocs.io",
+    "s": "DevDocs",
+    "t": "dd",
+    "u": "https://devdocs.io/#q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Duckduckgo Germany",
+    "t": "dde",
+    "u": "https://duckduckgo.com/?kl=de-de&q={{{s}}}"
+  },
+  {
+    "d": "qa.debian.org",
+    "s": "Debian Developer's pkgs overview",
+    "t": "ddev",
+    "u": "https://qa.debian.org/developer.php?login={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Dansdeals Forum",
+    "t": "ddf",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aforums.dansdeals.com"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo América Latina con Pale Moon",
+    "t": "ddgal",
+    "u": "https://duckduckgo.com/?t=palemoon&kl=xl-es&ko=1&k1=1&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Argentina con Pale Moon",
+    "t": "ddgar",
+    "u": "https://duckduckgo.com/?t=palemoon&kl=ar-es&ko=1&k1=1&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Brazilian Portuguese Search",
+    "t": "ddgbr",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-1&kl=br-pt"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Calculator",
+    "t": "ddgc",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=calculator"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo dictionary definitions",
+    "t": "ddgd",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=definition"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "duckduckgo",
+    "t": "ddgde",
+    "u": "https://duckduckgo.com/?kl=de-de&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "ddg",
+    "u": "http://duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Estonia",
+    "t": "ddgee",
+    "u": "https://duckduckgo.com/?kl=ee-et&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Estados Unidos",
+    "t": "ddgeue",
+    "u": "https://duckduckgo.com/?kl=ue-es&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckgo France",
+    "t": "ddgf",
+    "u": "http://duckduckgo.com/?kl=fr-fr&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Hungary",
+    "t": "ddghu",
+    "u": "http://duckduckgo.com/?kl=hu-hu&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "ddgi",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iax=images&ia=images"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo in Japan",
+    "t": "ddgja",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=jp-jp&kp=-1"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Maps",
+    "t": "ddgm",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iaxm=maps"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo news",
+    "t": "ddgn",
+    "u": "http://duckduckgo.com/?q={{{s}}}&iar=news&ia=news"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "ddgnl",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=nl-nl"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Norway",
+    "t": "ddgno",
+    "u": "https://duckduckgo.com/?kl=no-no&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Past Day",
+    "t": "ddgpd",
+    "u": "https://duckduckgo.com/?df=d&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Reddit search (via DuckDuckGo)",
+    "t": "ddgr",
+    "u": "https://duckduckgo.com/?q=site:reddit.com+{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Video Search",
+    "t": "ddgv",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=videos&iax=videos&ia=videos"
+  },
+  {
+    "d": "ddh10.duckduckgo.com",
+    "s": "DuckDuckGo DDH10",
+    "t": "ddh10",
+    "u": "http://ddh10.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh1.duckduckgo.com",
+    "s": "ddh1",
+    "t": "ddh1",
+    "u": "http://ddh1.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh2.duckduckgo.com",
+    "s": "DuckDuckGo DDH2",
+    "t": "ddh2",
+    "u": "http://ddh2.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh3.duckduckgo.com",
+    "s": "DuckDuckGo DDH3",
+    "t": "ddh3",
+    "u": "http://ddh3.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh4.duckduckgo.com",
+    "s": "DuckDuckGo DDH4",
+    "t": "ddh4",
+    "u": "http://ddh4.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh5.duckduckgo.com",
+    "s": "DuckDuckGo DDH5",
+    "t": "ddh5",
+    "u": "http://ddh5.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh6.duckduckgo.com",
+    "s": "DuckDuckGo DDH6",
+    "t": "ddh6",
+    "u": "http://ddh6.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh7.duckduckgo.com",
+    "s": "DuckDuckGo DDH7",
+    "t": "ddh7",
+    "u": "http://ddh7.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh8.duckduckgo.com",
+    "s": "DuckDuckGo DDH8",
+    "t": "ddh8",
+    "u": "http://ddh8.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "ddh9.duckduckgo.com",
+    "s": "DuckDuckGo DDH9",
+    "t": "ddh9",
+    "u": "http://ddh9.duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "docs.duckduckhack.com",
+    "s": "DuckDuckHack Docs",
+    "t": "ddhdoc",
+    "u": "http://docs.duckduckhack.com/?q={{{s}}}"
+  },
+  {
+    "d": "duck.co",
+    "s": "DuckDuckHack",
+    "t": "ddh",
+    "u": "https://duck.co/ia?q={{{s}}}"
+  },
+  {
+    "d": "duckduckhack.com",
+    "s": "DuckDuckHack",
+    "t": "ddhu",
+    "u": "http://duckduckhack.com/u/{{{s}}}"
+  },
+  {
+    "d": "www.joindiaspora.com",
+    "s": "Diaspora*",
+    "t": "d*",
+    "u": "https://www.joindiaspora.com/people?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "dic.daum.net",
+    "s": "Daum Dictionary",
+    "t": "ddic",
+    "u": "http://dic.daum.net/search.do?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "ddi",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iax=images&ia=images"
+  },
+  {
+    "d": "www.digitaldjtips.com",
+    "s": "Digital DJ Tips",
+    "t": "ddjt",
+    "u": "https://www.digitaldjtips.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DansDeals",
+    "t": "ddms",
+    "u": "https://duckduckgo.com/?q= {{{s}}}+site%3Adansdeals.com"
+  },
+  {
+    "d": "www.daytondailynews.com",
+    "s": "Dayton Daily News",
+    "t": "ddn",
+    "u": "https://www.daytondailynews.com/google-search/?q={{{s}}}"
+  },
+  {
+    "d": "ddnet.tw",
+    "s": "DDrace Network",
+    "t": "ddnet",
+    "u": "https://ddnet.tw/players/{{{s}}}"
+  },
+  {
+    "d": "ordnet.dk",
+    "s": "Den Danske Ordbog",
+    "t": "ddo",
+    "u": "http://ordnet.dk/ddo/ordbog?query={{{s}}} "
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Stack Overflow via DuckDuckGo",
+    "t": "ddso",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:stackoverflow.com"
+  },
+  {
+    "d": "duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion",
+    "s": "DuckDuckGo Tor url",
+    "t": "ddt",
+    "u": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/?q={{{s}}}"
+  },
+  {
+    "d": "www.dduknow.com",
+    "s": "dduknow.com",
+    "t": "dduknow",
+    "u": "http://www.dduknow.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.deepdotweb.com",
+    "s": "DeepDotWeb",
+    "t": "ddw",
+    "u": "https://www.deepdotweb.com/?s={{{s}}}"
+  },
+  {
+    "d": "darkestdungeon.gamepedia.com",
+    "s": "Official Darkest Dungeon Wiki",
+    "t": "ddwiki",
+    "u": "https://darkestdungeon.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.dd-wrt.com",
+    "s": "DD-WRT Wiki",
+    "t": "ddwrt",
+    "u": "http://www.dd-wrt.com/wiki/index.php/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "de2fr",
+    "u": "https://translate.google.com/#de/fr/{{{s}}}"
+  },
+  {
+    "d": "deadline.com",
+    "s": "Deadline Hollywood",
+    "t": "deadline",
+    "u": "https://deadline.com/results/#?q={{{s}}} "
+  },
+  {
+    "d": "deadspin.com",
+    "s": "Deadspin",
+    "t": "deadspin",
+    "u": "http://deadspin.com/search?q={{{s}}}"
+  },
+  {
+    "d": "library.deakin.edu.au",
+    "s": "Deakin University Library",
+    "t": "deakin",
+    "u": "http://library.deakin.edu.au/search/?searchtype=X&SORT=D&searcharg={{{s}}}&searchscope=1"
+  },
+  {
+    "d": "www.dealabs.com",
+    "s": "Dealabs",
+    "t": "dealabs",
+    "u": "http://www.dealabs.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.dealagora.com",
+    "s": "DealAgora",
+    "t": "dealagora",
+    "u": "https://www.dealagora.com/recherche?q={{{s}}}"
+  },
+  {
+    "d": "dealbook.nytimes.com",
+    "s": "DealBook",
+    "t": "deal",
+    "u": "http://dealbook.nytimes.com/?s={{{s}}}"
+  },
+  {
+    "d": "dx.com",
+    "s": "DealExtreme",
+    "t": "dealextreme",
+    "u": "http://dx.com/s/{{{s}}}"
+  },
+  {
+    "d": "dealnews.com",
+    "s": "Deal News",
+    "t": "dealnews",
+    "u": "http://dealnews.com/search.html?search={{{s}}}"
+  },
+  {
+    "d": "www.dealspricer.com",
+    "s": "DealsPricer",
+    "t": "dealspricer",
+    "u": "http://www.dealspricer.com/search?q={{{s}}}&utm_source=ddgbang&utm_medium=organic"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/deals",
+    "t": "deals",
+    "u": "https://www.reddit.com/r/deals/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "www.debate.org",
+    "s": "debate.org",
+    "t": "debate",
+    "u": "http://www.debate.org/search?q={{{s}}}"
+  },
+  {
+    "d": "bugs.debian.org",
+    "s": "Debian Bugs",
+    "t": "debbug",
+    "u": "http://bugs.debian.org/{{{s}}}"
+  },
+  {
+    "d": "buildd.debian.org",
+    "s": "Debian Package Auto-Building",
+    "t": "debbuildd",
+    "u": "http://buildd.debian.org/status/package.php?p={{{s}}}"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian Packages",
+    "t": "debcontent",
+    "u": "https://packages.debian.org/search?searchon=contents&keywords={{{s}}}&mode=path&suite=unstable&arch=any"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian Packages",
+    "t": "deb",
+    "u": "https://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.debenhams.com",
+    "s": "Debenhams",
+    "t": "debenhams",
+    "u": "http://www.debenhams.com/search/{{{s}}}"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian",
+    "t": "debfiles",
+    "u": "https://packages.debian.org/search?searchon=contents&keywords={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate de-bg",
+    "t": "debg",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=de&tl=bg&text={{{s}}}"
+  },
+  {
+    "d": "search.debian.org",
+    "s": "Debian",
+    "t": "debian",
+    "u": "http://search.debian.org/cgi-bin/omega?DB=en&P={{{s}}}"
+  },
+  {
+    "d": "forums.debian.net",
+    "s": "Debian Forums",
+    "t": "debianforums",
+    "u": "http://forums.debian.net/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Debian Pages (French)",
+    "t": "debianfr",
+    "u": "http://www.google.com/cse?cx=007724375775369850404%3Ajwpah_hbbjk&ie=UTF-8&q={{{s}}}&sa=Rechercher&siteurl=www.google.com%2Fcse%2Fhome%3Fcx%3D007724375775369850404%3Ajwpah_hbbjk"
+  },
+  {
+    "d": "forum.debianizzati.org",
+    "s": "Forum Debianizzati.org",
+    "t": "debianizzati",
+    "u": "http://forum.debianizzati.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian Packages",
+    "t": "debianpack",
+    "u": "https://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "d": "dyn.manpages.debian.org",
+    "s": "Debian Manpages",
+    "t": "debman",
+    "u": "https://dyn.manpages.debian.org/jump?q={{{s}}}"
+  },
+  {
+    "d": "lists.debian.org",
+    "s": "Debian mailing list archives",
+    "t": "debmla",
+    "u": "http://lists.debian.org/debian-{{{s}}}/"
+  },
+  {
+    "d": "lists.debian.org",
+    "s": "Debian Mailing Lists",
+    "t": "debml",
+    "u": "http://lists.debian.org/cgi-bin/search?query={{{s}}}&DEFAULTOP=and&author=&sort=relevance&HITSPERPAGE=10&language=en"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian Packages",
+    "t": "debpackages",
+    "u": "https://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "d": "qa.debian.org",
+    "s": "Debian Popularity Contest Statistics",
+    "t": "debpc",
+    "u": "https://qa.debian.org/popcon.php?package={{{s}}}"
+  },
+  {
+    "d": "snapshot.debian.org",
+    "s": "snapshot.debian.org",
+    "t": "debsnap",
+    "u": "http://snapshot.debian.org/binary/{{{s}}}/"
+  },
+  {
+    "d": "tracker.debian.org",
+    "s": "Debian Package Tracker",
+    "t": "debtracker",
+    "u": "https://tracker.debian.org/search?package_name={{{s}}}"
+  },
+  {
+    "d": "wiki.debian.org",
+    "s": "debian.org",
+    "t": "debwiki",
+    "u": "http://wiki.debian.org/FrontPage?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "d": "www.decathlon.co.uk",
+    "s": "Decathlon",
+    "t": "decathlon",
+    "u": "http://www.decathlon.co.uk/Buy/{{{s}}}"
+  },
+  {
+    "d": "www.decathlon.es",
+    "s": "Decathlon España",
+    "t": "decathlones",
+    "u": "https://www.decathlon.es/Comprar/{{{s}}}"
+  },
+  {
+    "d": "www.decathlon.fr",
+    "s": "Decathlon France",
+    "t": "decathlonfr",
+    "u": "http://www.decathlon.fr/Acheter/{{{s}}}"
+  },
+  {
+    "d": "www.decathlon.it",
+    "s": "Decathlon Italia",
+    "t": "decathlonit",
+    "u": "http://www.decathlon.it/Comprare/{{{s}}}"
+  },
+  {
+    "d": "www.decathlon.de",
+    "s": "Decathlon Deutschland",
+    "t": "decde",
+    "u": "https://www.decathlon.de/search?Ntt={{{s}}}"
+  },
+  {
+    "d": "www.decitre.fr",
+    "s": "Decitre",
+    "t": "decitre",
+    "u": "http://www.decitre.fr/rechercher/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.decks.de",
+    "s": "Decks Vinyl Shop",
+    "t": "decks",
+    "u": "https://www.decks.de/decks/workfloor/search_db.php?such={{{s}}}"
+  },
+  {
+    "d": "decoracion2.com",
+    "s": "Decoración 2.0",
+    "t": "deco",
+    "u": "https://decoracion2.com/search/{{{s}}}"
+  },
+  {
+    "d": "urldecode.org",
+    "s": "UrlDecode.org",
+    "t": "decode",
+    "u": "https://urldecode.org/?text={{{s}}}&mode=decode"
+  },
+  {
+    "d": "dedalus.usp.br",
+    "s": "University of Sao Paulo Library",
+    "t": "dedalus",
+    "u": "http://dedalus.usp.br/F/?func=find-b&request={{{s}}}"
+  },
+  {
+    "d": "dedalus.usp.br",
+    "s": "Dedalus - Catálogo Geral",
+    "t": "ded",
+    "u": "http://dedalus.usp.br/F/2GT4AME1FV9M25Q886NF9PCLB2BK39NF8XMFRXNHCQIL1JX5IG-19193?func=find-b&request={{{s}}}&find_code=WRD&adjacent=N&local_base=USP01&x=39&y=11&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WMA&filter_request_4=&filter_code_5=WBA&filter_request_5="
+  },
+  {
+    "d": "www.dict.cc",
+    "s": "dict.cc free dictionary (de<>en)",
+    "t": "deen",
+    "u": "http://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "deeo.dict.cc",
+    "s": "dict.cc: Esperanto-Deutsch",
+    "t": "deeo",
+    "u": "https://deeo.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.deepdyve.com",
+    "s": "DeepDyve",
+    "t": "deepdyve",
+    "u": "https://www.deepdyve.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL Translator",
+    "t": "deepl",
+    "u": "https://www.deepl.com/translator#xx/en/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL ES-EN",
+    "t": "deepleen",
+    "u": "https://www.deepl.com/translator#es/en/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL",
+    "t": "deeplef",
+    "u": "https://www.deepl.com/translator#en/fr/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL",
+    "t": "deepleg",
+    "u": "https://www.deepl.com/translator#en/de/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "Deepl",
+    "t": "deeplen",
+    "u": "https://www.deepl.com/translator#es/en/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "Deepl en-es",
+    "t": "deeplenes",
+    "u": "https://www.deepl.com/translator#en/es/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL en-pt",
+    "t": "deeplenpt",
+    "u": "https://www.deepl.com/translator#de/pt/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL Translator",
+    "t": "deeples",
+    "u": "https://www.deepl.com/translator#en/es/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "deepl.com",
+    "t": "deeplfr",
+    "u": "https://www.deepl.com/translator#fr/en/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL",
+    "t": "deeplge",
+    "u": "https://www.deepl.com/translator#de/en/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL pt-en",
+    "t": "deeplpten",
+    "u": "https://www.deepl.com/translator#pt/en/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL Translator (RU)",
+    "t": "deeplru",
+    "u": "https://www.deepl.com/ru/translator#en/ru/{{{s}}}"
+  },
+  {
+    "d": "dd.thekkedam.org",
+    "s": "Deepthi Devaki Akkoorath",
+    "t": "deepthidevaki",
+    "u": "https://dd.thekkedam.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "dees.dict.cc",
+    "s": "Dict.cc Deutsch-Spanisch",
+    "t": "dees",
+    "u": "http://dees.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.deezer.com",
+    "s": "Deezer",
+    "t": "deezer",
+    "u": "https://www.deezer.com/search/{{{s}}}"
+  },
+  {
+    "d": "kids.wordsmyth.net",
+    "s": "Kids Wordsmyth",
+    "t": "definekids",
+    "u": "https://kids.wordsmyth.net/we/?ent={{{s}}}"
+  },
+  {
+    "d": "www.thefreedictionary.com",
+    "s": "The Free Dictionary",
+    "t": "define",
+    "u": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "d": "defkey.com",
+    "s": "defkey",
+    "t": "defkey",
+    "u": "https://defkey.com/search?irq={{{s}}}"
+  },
+  {
+    "d": "defr.dict.cc",
+    "s": "dict.cc Deutsch-Französisch",
+    "t": "defr",
+    "u": "http://defr.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.thefreedictionary.com",
+    "s": "The Free Dictionary",
+    "t": "def",
+    "u": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "d": "dict.tu-chemnitz.de",
+    "s": "German",
+    "t": "de",
+    "u": "http://dict.tu-chemnitz.de/dings.cgi?query={{{s}}}"
+  },
+  {
+    "d": "dehr.dict.cc",
+    "s": "dict.cc DE <> HR",
+    "t": "dehr",
+    "u": "https://dehr.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate de-hu",
+    "t": "dehu",
+    "u": "http://translate.google.com/#de/hu/{{{s}}}"
+  },
+  {
+    "d": "sok.deichman.no",
+    "s": "Deichmanske Biblotek",
+    "t": "deic",
+    "u": "https://sok.deichman.no/search?query={{{s}}}"
+  },
+  {
+    "d": "www.deichmann.com",
+    "s": "Deichmann (Deutschland)",
+    "t": "dei",
+    "u": "http://www.deichmann.com/DE/de/shop/search.html?q={{{s}}}"
+  },
+  {
+    "d": "deit.dict.cc",
+    "s": "Dict CC DE <> IT",
+    "t": "deit",
+    "u": "http://deit.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "dejure.org",
+    "s": "Dejure",
+    "t": "dejure",
+    "u": "https://dejure.org/cgi-bin/suche?Suchenach={{{s}}}"
+  },
+  {
+    "d": "delcat.worldcat.org",
+    "s": "DELCAT Discovery",
+    "t": "delcat",
+    "u": "https://delcat.worldcat.org/search?qt=wc_org_delcat&q={{{s}}}&scope=0&oldscope=0&wcsbtn2w=Search&fq=&dblist=1461%2C1542%2C638"
+  },
+  {
+    "d": "www.delcotimes.com",
+    "s": "Delaware County Daily Times",
+    "t": "delcotimes",
+    "u": "http://www.delcotimes.com/search?text={{{s}}}"
+  },
+  {
+    "d": "delectable.com",
+    "s": "Delectable",
+    "t": "delectable",
+    "u": "https://delectable.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.delfi.lt",
+    "s": "Delfi",
+    "t": "delfi",
+    "u": "http://www.delfi.lt/paieska/?q={{{s}}}"
+  },
+  {
+    "d": "otsing.delfi.ee",
+    "s": "Delfi.ee",
+    "t": "delfiee",
+    "u": "http://otsing.delfi.ee/find?c=dns&q={{{s}}} &x=0&y=0"
+  },
+  {
+    "d": "www.delfi.lt",
+    "s": "Delfi.lt",
+    "t": "delflt",
+    "u": "http://www.delfi.lt/paieska/?q={{{s}}}"
+  },
+  {
+    "d": "delicious-fruit.com",
+    "s": "Delicious Fruit",
+    "t": "delfruit",
+    "u": "http://delicious-fruit.com/ratings/full.php?s={{{s}}}"
+  },
+  {
+    "d": "dlc.lib.de.us",
+    "s": "Delaware Library Search",
+    "t": "delib",
+    "u": "http://dlc.lib.de.us/client/default/search/results?qu={{{s}}}&te="
+  },
+  {
+    "d": "www.delijn.be",
+    "s": "De Lijn",
+    "t": "delijn",
+    "u": "https://www.delijn.be/nl/zoekresultaten/index.html?searchtext={{{s}}}"
+  },
+  {
+    "d": "www.yelp.com",
+    "s": "Yelp Delivery Search",
+    "t": "delivery",
+    "u": "http://www.yelp.com/search?&rpp=10&find_loc=&start=0&attrs=RestaurantsDelivery&find_desc={{{s}}}"
+  },
+  {
+    "d": "search.dell.com",
+    "s": "Dell",
+    "t": "dell",
+    "u": "http://search.dell.com/results.aspx?s=gen&c=us&l=en&cs=&k={{{s}}}&cat=all"
+  },
+  {
+    "d": "www.dell.com",
+    "s": "Dell Support Search",
+    "t": "dellsp",
+    "u": "https://www.dell.com/support/search/us/en/19#q={{{s}}}&sort=relevancy&f:langFacet=[en]"
+  },
+  {
+    "d": "www.dell.com",
+    "s": "Dell Support Service Tag",
+    "t": "dellst",
+    "u": "http://www.dell.com/support/home/us/en/19/product-support/servicetag/{{{s}}}"
+  },
+  {
+    "d": "search.euro.dell.com",
+    "s": "Dell UK",
+    "t": "delluk",
+    "u": "http://search.euro.dell.com/results.aspx?s=gen&c=uk&l=en&cs=&k={{{s}}}&cat=all&x=0&y=0"
+  },
+  {
+    "d": "www.delphibasics.co.uk",
+    "s": "Delphi Basics",
+    "t": "delphi",
+    "u": "http://www.delphibasics.co.uk/RTL.asp?Name={{{s}}}"
+  },
+  {
+    "d": "www.deltaco.se",
+    "s": "Deltaco (SE)",
+    "t": "deltaco",
+    "u": "https://www.deltaco.se/Sidor/SearchResults.aspx?k={{{s}}}"
+  },
+  {
+    "d": "dizionario.internazionale.it",
+    "s": "Dizionario Italiano De Mauro",
+    "t": "demauro",
+    "u": "https://dizionario.internazionale.it/parola/{{{s}}}"
+  },
+  {
+    "d": "www.demeure-et-jardin.com",
+    "s": "Demeure et Jardin",
+    "t": "demeureetjardin",
+    "u": "http://www.demeure-et-jardin.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.democracynow.org",
+    "s": "Democracy Now!",
+    "t": "democracynow",
+    "u": "http://www.democracynow.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.dict.cc",
+    "s": "Dict.cc english-german",
+    "t": "dende",
+    "u": "https://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "ledenicheur.fr",
+    "s": "Le Dénicheur",
+    "t": "denicheur",
+    "u": "http://ledenicheur.fr/#rparams=ss={{{s}}} "
+  },
+  {
+    "d": "denl.dict.cc",
+    "s": "Dict.cc Deutsch-Niederländisch",
+    "t": "denl",
+    "u": "http://denl.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "deno.dict.cc",
+    "s": "dict.cc",
+    "t": "deno",
+    "u": "https://deno.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "Deepl English to Russian ",
+    "t": "denru",
+    "u": "https://www.deepl.com/translator#en/ru/{{{s}}}%0A"
+  },
+  {
+    "d": "forum.dragen-en-voeden.nl",
+    "s": "Dragen en Voeden Forum",
+    "t": "denv",
+    "u": "https://forum.dragen-en-voeden.nl/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Zoek"
+  },
+  {
+    "d": "www.openthesaurus.de",
+    "s": "https://www.openthesaurus.de",
+    "t": "deopenthesaurus",
+    "u": "https://www.openthesaurus.de/synonyme/?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "google translate de-pl",
+    "t": "depl",
+    "u": "https://translate.google.com/#de/pl/{{{s}}}"
+  },
+  {
+    "d": "www.depop.com",
+    "s": "Depop",
+    "t": "depop",
+    "u": "https://www.depop.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "deredactie.be",
+    "s": "deredactie.be",
+    "t": "deredactie",
+    "u": "http://deredactie.be/cm/vrtnieuws/1.516538?text={{{s}}}&action=submit"
+  },
+  {
+    "d": "derpibooru.org",
+    "s": "Derpibooru",
+    "t": "derpibooru",
+    "u": "https://derpibooru.org/search?utf8=%E2%9C%93&sbq={{{s}}}"
+  },
+  {
+    "d": "derpibooru.org",
+    "s": "Derpibooru.org",
+    "t": "derpibooruorg",
+    "u": "https://derpibooru.org/search?utf8=✓&sbq= {{{s}}}"
+  },
+  {
+    "d": "derpibooru.org",
+    "s": "Derpibooru",
+    "t": "derpi",
+    "u": "https://derpibooru.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.derstandard.at",
+    "s": "derStandard.at",
+    "t": "derstandard",
+    "u": "https://www.derstandard.at/search?query={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "deru",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=de&tl=ru&text={{{s}}}"
+  },
+  {
+    "d": "descriptionari.com",
+    "s": "Descriptionari",
+    "t": "desc",
+    "u": "http://descriptionari.com/q/{{{s}}}"
+  },
+  {
+    "d": "www.desiclik.com",
+    "s": "DesiClik",
+    "t": "desiclik",
+    "u": "https://www.desiclik.com/_search.php?page=1&q={{{s}}}"
+  },
+  {
+    "d": "www.desiclik.com",
+    "s": "DesiClik",
+    "t": "desi",
+    "u": "https://www.desiclik.com/_search.php?page=1&q={{{s}}}"
+  },
+  {
+    "d": "www.dexigner.com",
+    "s": "Design Directory",
+    "t": "designdirectory",
+    "u": "http://www.dexigner.com/directory/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.designernews.co",
+    "s": "Designer News",
+    "t": "designernews",
+    "u": "https://www.designernews.co/search?q={{{s}}}"
+  },
+  {
+    "d": "es.thefreedictionary.com",
+    "s": "The free dictionary ES",
+    "t": "des",
+    "u": "http://es.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "d": "destinonegocio.com",
+    "s": "DestinoNegocio",
+    "t": "destinonegocio",
+    "u": "http://destinonegocio.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.destructoid.com",
+    "s": "Destructoid",
+    "t": "destructoid",
+    "u": "http://www.destructoid.com/search.phtml?cx=009275597616460404995%3A_iu6yjvsnom&cof=FORID%3A11&q={{{s}}}&sa=Search&siteurl=http%3A%2F%2Fwww.destructoid.com%2F"
+  },
+  {
+    "d": "desv.dict.cc",
+    "s": "dict.cc",
+    "t": "desv",
+    "u": "http://desv.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "de.tfd.com",
+    "s": "The Free Dictionary Deutsch (German)",
+    "t": "detfd",
+    "u": "http://de.tfd.com/{{{s}}}"
+  },
+  {
+    "d": "www.detik.com",
+    "s": "Detik",
+    "t": "detik",
+    "u": "https://www.detik.com/search/searchall?query={{{s}}}"
+  },
+  {
+    "d": "deutsch-tuerkisch.net",
+    "s": "Deutsch-Türkisch.net",
+    "t": "deuturk",
+    "u": "https://deutsch-tuerkisch.net/suche/{{{s}}}"
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "Apple Developer",
+    "t": "devapple",
+    "u": "https://developer.apple.com/search/index.php?q={{{s}}}"
+  },
+  {
+    "d": "devdocs.io",
+    "s": "DevDocs",
+    "t": "dev",
+    "u": "https://devdocs.io/#q={{{s}}}"
+  },
+  {
+    "d": "devdocs.io",
+    "s": "DevDocs",
+    "t": "devdocs",
+    "u": "https://devdocs.io/#q={{{s}}}"
+  },
+  {
+    "d": "www.developpez.com",
+    "s": "Developpez.com",
+    "t": "developpez",
+    "u": "http://www.developpez.com/recherche/?q={{{s}}}&sa.x=0&sa.y=0&sa=Go&cx=006424388311999799839:-31tnf0iuqy&cof=FORID:9&ie=ISO-8859-1&siteurl=www.developpez.com/"
+  },
+  {
+    "d": "devhints.io",
+    "s": "Dev Hints",
+    "t": "devhints",
+    "u": "https://devhints.io/?q={{{s}}}"
+  },
+  {
+    "d": "www.deviantart.com",
+    "s": "DeviantArt",
+    "t": "deviantart",
+    "u": "http://www.deviantart.com/browse/all/?section=&global=1&q={{{s}}}"
+  },
+  {
+    "d": "dev.opera.com",
+    "s": "Dev.Opera ",
+    "t": "devo",
+    "u": "http://dev.opera.com/search?q={{{s}}}"
+  },
+  {
+    "d": "forum.devontechnologies.com",
+    "s": "DEVONtechnologies Forum",
+    "t": "devonforum",
+    "u": "http://forum.devontechnologies.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "devot-ee.com",
+    "s": "Devot:ee",
+    "t": "devotee",
+    "u": "http://devot-ee.com/search/results?keywords={{{s}}}&addon_version_support=ee2"
+  },
+  {
+    "d": "devrant.com",
+    "s": "devRant",
+    "t": "devrant",
+    "u": "https://devrant.com/search?term={{{s}}}"
+  },
+  {
+    "d": "dev.splunk.com",
+    "s": "dev.splunk.com",
+    "t": "dev.splunk",
+    "u": "http://dev.splunk.com/search/dev?q={{{s}}}"
+  },
+  {
+    "d": "dev.to",
+    "s": "dev.to",
+    "t": "dev.to",
+    "u": "https://dev.to/search?q={{{s}}}"
+  },
+  {
+    "d": "dev.to",
+    "s": "DEV.to",
+    "t": "devto",
+    "u": "https://dev.to/search?q={{{s}}}"
+  },
+  {
+    "d": "dev.tube",
+    "s": "DevTube",
+    "t": "devtube",
+    "u": "http://dev.tube?q={{{s}}}"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "de.wikipedia.org",
+    "t": "dew",
+    "u": "https://de.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "de.wikipedia.org",
+    "t": "dewiki",
+    "u": "http://de.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "de.wikihow.com",
+    "s": "de.wikihow.com",
+    "t": "dewikihow",
+    "u": "http://de.wikihow.com/Special:GoogSearch?ie=UTF-8&q={{{s}}}&sa=Suche"
+  },
+  {
+    "d": "www.pokebip.com",
+    "s": "Pokdex Pokebip",
+    "t": "dex6g",
+    "u": "https://www.pokebip.com/pokedex/index.php?phppage=recherche&req={{{s}}}"
+  },
+  {
+    "d": "www.dexigner.com",
+    "s": "Dexigner",
+    "t": "dexigner",
+    "u": "http://www.dexigner.com/search?q={{{s}}}"
+  },
+  {
+    "d": "index.hu",
+    "s": "Index",
+    "t": "dex",
+    "u": "http://index.hu/24ora/?word=1&pepe=1&tol=1999-01-01&ig=2016-01-18&s={{{s}}}"
+  },
+  {
+    "d": "dexonline.ro",
+    "s": "Dexonline",
+    "t": "dexonline",
+    "u": "http://dexonline.ro/definitie/{{{s}}}"
+  },
+  {
+    "d": "www.dogfoodadvisor.com",
+    "s": "Dog Food Advisor",
+    "t": "dfa",
+    "u": "https://www.dogfoodadvisor.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Daring Fireball",
+    "t": "df",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adaringfireball.net"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "Down For Everyone Or Just Me",
+    "t": "dfeojm",
+    "u": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian file search",
+    "t": "dfiles",
+    "u": "http://packages.debian.org/search?section=all&arch=any&searchon=contents&keywords={{{s}}} "
+  },
+  {
+    "d": "leaf.dragonflybsd.org",
+    "s": "DragonFly BSD manual pages",
+    "t": "dfman",
+    "u": "http://leaf.dragonflybsd.org/cgi/web-man?command={{{s}}}&section=ANY"
+  },
+  {
+    "d": "enfr.dict.cc",
+    "s": "dict.cc Dictionary French-English",
+    "t": "dfren",
+    "u": "https://enfr.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "dwarffortresswiki.org",
+    "s": "DwarfFortress Wiki",
+    "t": "dfw",
+    "u": "http://dwarffortresswiki.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "dwarffortresswiki.org",
+    "s": "DwarfFortress Wiki",
+    "t": "dfwiki",
+    "u": "http://dwarffortresswiki.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.desiringgod.org",
+    "s": "Desiring God",
+    "t": "dg",
+    "u": "http://www.desiringgod.org/search/results?utf8=%E2%9C%93&search_source=navbar&q={{{s}}}#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "d": "dejure.org",
+    "s": "GG - dejure.org",
+    "t": "dgg",
+    "u": "http://dejure.org/gesetze/GG/{{{s}}}.html"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "dggi",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Images",
+    "t": "dgi",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=images&iax=images&ia=images"
+  },
+  {
+    "d": "www.digikey.com",
+    "s": "Digikey",
+    "t": "dgky",
+    "u": "https://www.digikey.com/products/en?keywords={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "docs.GL for OpenGL 4",
+    "t": "dgl4",
+    "u": "https://duckduckgo.com/?q=site%3Adocs.gl%2Fgl4+{{{s}}}"
+  },
+  {
+    "d": "www.degulesider.dk",
+    "s": "De gule sider",
+    "t": "dgs",
+    "u": "http://www.degulesider.dk/person/resultat/{{{s}}}"
+  },
+  {
+    "d": "www.fgv.br",
+    "s": "Dicionário Histórico e Biográfico Brasileiro do CPDOC",
+    "t": "dhbb",
+    "u": "http://www.fgv.br/cpdoc/acervo/arquivo?busca= {{{s}}} &TipoUD=0&MacroTipoUD=0&nItens=100"
+  },
+  {
+    "d": "delhihighcourt.nic.in",
+    "s": "High Court of Delhi",
+    "t": "dhc",
+    "u": "http://delhihighcourt.nic.in/SiteSearch.asp?zoom_query= {{{s}}}"
+  },
+  {
+    "d": "hub.docker.com",
+    "s": "Docker Hub",
+    "t": "dh",
+    "u": "https://hub.docker.com/search/?q={{{s}}}&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0"
+  },
+  {
+    "d": "docs.docker.com",
+    "s": "Dockerhub docs",
+    "t": "dhdocs",
+    "u": "https://docs.docker.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.dhgate.com",
+    "s": "DHGate",
+    "t": "dhgate",
+    "u": "http://www.dhgate.com/wholesale/search.do?act=search&supplierid=&isfactory=&sus=&searchkey={{{s}}}&catalog=#search"
+  },
+  {
+    "d": "www.dhgate.com",
+    "s": "DHgate",
+    "t": "dhg",
+    "u": "http://www.dhgate.com/wholesale/search.do?act=search&sus=&searchkey={{{s}}}"
+  },
+  {
+    "d": "nolp.dhl.de",
+    "s": "DHL German",
+    "t": "dhlde",
+    "u": "http://nolp.dhl.de/nextt-online-public/set_identcodes.do?lang=de&idc={{{s}}}&rfn=&extendedSearch=true"
+  },
+  {
+    "d": "www.dhl-usa.com",
+    "s": "DHL",
+    "t": "dhl",
+    "u": "http://www.dhl-usa.com/content/us/en/express/tracking.shtml?AWB={{{s}}}"
+  },
+  {
+    "d": "activetracing.dhl.com",
+    "s": "DHL Freight",
+    "t": "dhlf",
+    "u": "https://activetracing.dhl.com/DatPublic/datSelection.do?search=consignmentId&at=cons_ordercode&valueShipmentOrderField={{{s}}}&focus=search2&searchConsignmentId=track"
+  },
+  {
+    "d": "webtrack.dhlglobalmail.com",
+    "s": "DHL Global Mail Tracking",
+    "t": "dhlgm",
+    "u": "http://webtrack.dhlglobalmail.com/?trackingnumber={{{s}}}"
+  },
+  {
+    "d": "www.dhnet.be",
+    "s": "La Dernière Heure",
+    "t": "dhnet",
+    "u": "http://www.dhnet.be/search/?query={{{s}}}"
+  },
+  {
+    "d": "hub.docker.com",
+    "s": "Docker Hub",
+    "t": "dhub",
+    "u": "https://hub.docker.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "diablo.wikia.com",
+    "s": "Diablo Wiki",
+    "t": "diablo",
+    "u": "http://diablo.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "duck.co",
+    "s": "Instant Answers",
+    "t": "dia",
+    "u": "https://duck.co/ia?q={{{s}}}"
+  },
+  {
+    "d": "dialnet.unirioja.es",
+    "s": "Dialnet",
+    "t": "dialnet",
+    "u": "http://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO={{{s}}}"
+  },
+  {
+    "d": "joindiaspora.com",
+    "s": "Diaspora Tags",
+    "t": "diasporatags",
+    "u": "https://joindiaspora.com/tags/{{{s}}}"
+  },
+  {
+    "d": "www.differencebetween.net",
+    "s": "http://differencebetween.net",
+    "t": "dibe",
+    "u": "http://www.differencebetween.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.1stdibs.com",
+    "s": "1st Dibs",
+    "t": "dibs",
+    "u": "https://www.1stdibs.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.diccionari.cat",
+    "s": "Diccionari de la llengua Catalana",
+    "t": "diccionari",
+    "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "http://www.merriam-webster.com/",
+    "t": "dic",
+    "u": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "www.dicionarioinformal.com.br",
+    "s": "Dicionário Informal",
+    "t": "dicinfo",
+    "u": "https://www.dicionarioinformal.com.br/{{{s}}}/"
+  },
+  {
+    "d": "www.dicio.com.br",
+    "s": "Dicio",
+    "t": "dicio",
+    "u": "https://www.dicio.com.br/pesquisa.php?q={{{s}}}"
+  },
+  {
+    "d": "dic.nicovideo.jp",
+    "s": "ニコニコ大百科",
+    "t": "dicnico",
+    "u": "https://dic.nicovideo.jp/a/{{{s}}}"
+  },
+  {
+    "d": "dict.cn",
+    "s": "ocean dictionary",
+    "t": "dicn",
+    "u": "http://dict.cn/{{{s}}} "
+  },
+  {
+    "d": "dicoado.org",
+    "s": "Dico des Ados",
+    "t": "dico",
+    "u": "https://dicoado.org/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "dico.isc.cnrs.fr",
+    "s": "http://dico.isc.cnrs.fr/fr/index_tr.html",
+    "t": "dicoiscenfr",
+    "u": "http://dico.isc.cnrs.fr/dico/tr/chercher_en?r={{{s}}}"
+  },
+  {
+    "d": "dico.isc.cnrs.fr",
+    "s": "http://dico.isc.cnrs.fr/fr/index_tr.html",
+    "t": "dicoiscfren",
+    "u": "http://dico.isc.cnrs.fr/dico/tr/chercher_fr?r={{{s}}}"
+  },
+  {
+    "d": "www.dicoz.fr",
+    "s": "Dicoz",
+    "t": "dicoz",
+    "u": "http://www.dicoz.fr/?s={{{s}}}"
+  },
+  {
+    "d": "dic.pixiv.net",
+    "s": "Pixiv Dictionary",
+    "t": "dicpixiv",
+    "u": "http://dic.pixiv.net/a/{{{s}}}"
+  },
+  {
+    "d": "michaelis.uol.com.br",
+    "s": "Michaelis Online",
+    "t": "dic-ptbr",
+    "u": "http://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/{{{s}}}"
+  },
+  {
+    "d": "www.infopedia.pt",
+    "s": "Dicionário Infopédia da Língua Portuguesa",
+    "t": "dicpt",
+    "u": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}"
+  },
+  {
+    "d": "www.dict.cc",
+    "s": "dict.cc",
+    "t": "dictcc",
+    "u": "https://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.dict.cc",
+    "s": "dict.cc",
+    "t": "dict.cc",
+    "u": "http://www.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "www.dict.org",
+    "s": "Dict.org",
+    "t": "dict",
+    "u": "http://www.dict.org/bin/Dict?Form=Dict2&Database=*&Query={{{s}}}"
+  },
+  {
+    "d": "www.greek-language.gr",
+    "s": "http://www.greek-language.gr",
+    "t": "dictgr",
+    "u": "http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq={{{s}}}"
+  },
+  {
+    "d": "dictionary.reference.com",
+    "s": "Dictionary (reference)",
+    "t": "dictionaryr",
+    "u": "http://dictionary.reference.com/browse/{{{s}}}"
+  },
+  {
+    "d": "www.thefreedictionary.com",
+    "s": "The Free Dictionary",
+    "t": "dictionary",
+    "u": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "Leo Translation EN<->DE",
+    "t": "dictleode",
+    "u": "http://dict.leo.org/ende?cmpType=relaxed&search={{{s}}}"
+  },
+  {
+    "d": "dict-navi.com",
+    "s": "Dict-Na'vi.com",
+    "t": "dictn",
+    "u": "http://dict-navi.com/en/dictionary/list/?type=search&search_term={{{s}}}"
+  },
+  {
+    "d": "dict.pl",
+    "s": "Dict.pl",
+    "t": "dictpl",
+    "u": "http://dict.pl/dict?word={{{s}}}"
+  },
+  {
+    "d": "www.dict.org",
+    "s": "dict.org",
+    "t": "dictre",
+    "u": "http://www.dict.org/bin/Dict?Form=Dict1&Database=*&Strategy=re&Query=^{{{s}}}$"
+  },
+  {
+    "d": "dictzone.com",
+    "s": "DictZone spanyol-magyar",
+    "t": "dictzonespma",
+    "u": "http://dictzone.com/spanyol-magyar-szotar/{{{s}}}"
+  },
+  {
+    "d": "portail.atilf.fr",
+    "s": "Encyclopédie de Diderot et d'Alembert",
+    "t": "diddal",
+    "u": "http://portail.atilf.fr/cgi-bin/search2e?title={{{s}}}&author=&class=&speech=&objtype=&word=&CONJUNCT=PHRASE&PROXY=moins+de&DISTANCE=3&OUTPUT=conc&SYSTEM_DIR=%2Fvar%2Fartfla%2Fencyclopedie%2Ftextdata%2FIMAGE%2F"
+  },
+  {
+    "d": "www.dictionary.com",
+    "s": "Dictionary.com",
+    "t": "di",
+    "u": "http://www.dictionary.com/browse/{{{s}}}"
+  },
+  {
+    "d": "dlc.iec.cat",
+    "s": "Institut d'Estudis Catalans",
+    "t": "diec",
+    "u": "https://dlc.iec.cat/results.asp?txtEntrada={{{s}}}"
+  },
+  {
+    "d": "www.die.net",
+    "s": "Linux.die.net man pages",
+    "t": "die",
+    "u": "http://www.die.net/search/?q={{{s}}}&sa=Search&ie=ISO-8859-1&cx=partner-pub-5823754184406795%3A54htp1rtx5u&cof=FORID%3A9"
+  },
+  {
+    "d": "diepresse.com",
+    "s": "Die Presse",
+    "t": "diepresse",
+    "u": "http://diepresse.com/user/search.do?resetForm=1&resultsPage=0&searchText={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.dierenkruiden.nl",
+    "s": "Dierenkruiden",
+    "t": "dierenkruiden",
+    "u": "https://www.dierenkruiden.nl/search?s={{{s}}} "
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuck",
+    "t": "diff",
+    "u": "https://duckduckgo.com/?q=difference+between+{{{s}}}&ia=qa"
+  },
+  {
+    "d": "www.di.fm",
+    "s": "Digitally Imported",
+    "t": "difm",
+    "u": "https://www.di.fm/search?q={{{s}}}"
+  },
+  {
+    "d": "networking.ringofsaturn.com",
+    "s": "dig Lookup",
+    "t": "dig",
+    "u": "http://networking.ringofsaturn.com/Tools/dig.php?domain=ANY+{{{s}}}"
+  },
+  {
+    "d": "digg.com",
+    "s": "Digg",
+    "t": "digg",
+    "u": "http://digg.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.digi24.ro",
+    "s": "Digi24",
+    "t": "digi24",
+    "u": "https://www.digi24.ro/cautare?q={{{s}}}"
+  },
+  {
+    "d": "digiato.com",
+    "s": "digiato",
+    "t": "digiato",
+    "u": "http://digiato.com/?q={{{s}}}: "
+  },
+  {
+    "d": "www.digibron.nl",
+    "s": "Digibron",
+    "t": "digibron",
+    "u": "https://www.digibron.nl/search/results?q={{{s}}}"
+  },
+  {
+    "d": "www.digi.no",
+    "s": "Digi",
+    "t": "digi",
+    "u": "https://www.digi.no/sok?query={{{s}}}"
+  },
+  {
+    "d": "www.digikala.com",
+    "s": "Digikala",
+    "t": "digikala",
+    "u": "https://www.digikala.com/Search?q={{{s}}}"
+  },
+  {
+    "d": "www.digikey.com",
+    "s": "Digi-Key",
+    "t": "digikey",
+    "u": "http://www.digikey.com/product-search/en?x=17&y=13&lang=en&site=us&KeyWords={{{s}}}"
+  },
+  {
+    "d": "digitalcomicmuseum.com",
+    "s": "Digital Comic Museum",
+    "t": "digitalcomicmuseum",
+    "u": "http://digitalcomicmuseum.com/index.php?ACT=dosearch&terms={{{s}}}"
+  },
+  {
+    "d": "digitalcomicmuseum.com",
+    "s": "Digital Comic Museum",
+    "t": "digitalcomics",
+    "u": "http://digitalcomicmuseum.com/index.php?ACT=dosearch&terms={{{s}}}"
+  },
+  {
+    "d": "www.digitalspy.com",
+    "s": "DigitalSpy",
+    "t": "digitalspy",
+    "u": "http://www.digitalspy.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.digitaltrends.com",
+    "s": "DigitalTrends",
+    "t": "digitaltrends",
+    "u": "http://www.digitaltrends.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.digitec.ch",
+    "s": "Digitec",
+    "t": "digitec",
+    "u": "https://www.digitec.ch/Search?q={{{s}}}"
+  },
+  {
+    "d": "www.digitick.com",
+    "s": "Digitick",
+    "t": "digitick",
+    "u": "http://www.digitick.com/fr/recherche?query={{{s}}}"
+  },
+  {
+    "d": "igranje.hr",
+    "s": "Udruga Igranje",
+    "t": "digra",
+    "u": "https://igranje.hr/?s={{{s}}}"
+  },
+  {
+    "d": "www.diigo.com",
+    "s": "Diigo",
+    "t": "diigo",
+    "u": "http://www.diigo.com/search/my?q={{{s}}}"
+  },
+  {
+    "d": "www.diigo.com",
+    "s": "Diigo (tags)",
+    "t": "diigt",
+    "u": "https://www.diigo.com/tag/{{{s}}}?year=2"
+  },
+  {
+    "d": "www.diki.pl",
+    "s": "diki.pl/slownik-niemieckiego",
+    "t": "dikide",
+    "u": "https://www.diki.pl/slownik-niemieckiego?q={{{s}}}"
+  },
+  {
+    "d": "www.diki.pl",
+    "s": "diki.pl",
+    "t": "diki",
+    "u": "https://www.diki.pl/slownik-angielskiego/?q={{{s}}}"
+  },
+  {
+    "d": "dilbert.com",
+    "s": "Dilbert",
+    "t": "dilbert",
+    "u": "https://dilbert.com/search_results?terms={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo ",
+    "t": "dim",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images"
+  },
+  {
+    "d": "app.dimensions.ai",
+    "s": "Dimensions",
+    "t": "dimensions",
+    "u": "https://app.dimensions.ai/discover/publication?search_text={{{s}}}&search_type=kws&search_field=full_search"
+  },
+  {
+    "d": "www.dicionarioinformal.com.br",
+    "s": "Dicionário inFormal",
+    "t": "din",
+    "u": "http://www.dicionarioinformal.com.br/{{{s}}}"
+  },
+  {
+    "d": "dict.tu-chemnitz.de",
+    "s": "BEOLINGUS Online ditctionary, German, English, Spanish (using the Linux program DING)",
+    "t": "ding",
+    "u": "https://dict.tu-chemnitz.de/dings.cgi?query={{{s}}}"
+  },
+  {
+    "d": "invidio.us",
+    "s": "https://invidio.us",
+    "t": "dio",
+    "u": "https://invidio.us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.monde-diplomatique.fr",
+    "s": "Le Monde Diplomatique",
+    "t": "diplo",
+    "u": "http://www.monde-diplomatique.fr/recherche?s={{{s}}}"
+  },
+  {
+    "d": "dirae.es",
+    "s": "Dirae",
+    "t": "dirae",
+    "u": "http://dirae.es/palabras/?q={{{s}}}"
+  },
+  {
+    "d": "dirble.com",
+    "s": "Dirble",
+    "t": "dirble",
+    "u": "http://dirble.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.direnc.net",
+    "s": "Direnç.net",
+    "t": "direncnet",
+    "u": "https://www.direnc.net/arama?q={{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google.de Maps",
+    "t": "dir",
+    "u": "https://www.google.de/maps/dir/{{{s}}}"
+  },
+  {
+    "d": "www.dirpy.com",
+    "s": "Dirpy",
+    "t": "dirpy",
+    "u": "http://www.dirpy.com/studio?url={{{s}}}"
+  },
+  {
+    "d": "disboard.org",
+    "s": "DISBOARD",
+    "t": "disboard",
+    "u": "https://disboard.org/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.disclose.tv",
+    "s": "Disclose.tv",
+    "t": "disclosetv",
+    "u": "http://www.disclose.tv/search/desk?title={{{s}}}"
+  },
+  {
+    "d": "discord.me",
+    "s": "Discord Me",
+    "t": "discme",
+    "u": "https://discord.me/servers/1/{{{s}}}"
+  },
+  {
+    "d": "discoverygc.com",
+    "s": "Discovery Wiki",
+    "t": "disco",
+    "u": "http://discoverygc.com/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.discogs.com",
+    "s": "Discogs",
+    "t": "discogs",
+    "u": "http://www.discogs.com/search?q={{{s}}}&btn=&type=all"
+  },
+  {
+    "d": "search.disconnect.me",
+    "s": "Disconnect Search",
+    "t": "disconnect",
+    "u": "http://search.disconnect.me/searchTerms/search?query={{{s}}}&ses=Google"
+  },
+  {
+    "d": "search.disconnect.me",
+    "s": "Disconnect Image Search",
+    "t": "disconnectimg",
+    "u": "https://search.disconnect.me/searchTerms/search?query={{{s}}}&option=Images"
+  },
+  {
+    "d": "discordapp.com",
+    "s": "Discord Invite",
+    "t": "discord",
+    "u": "https://discordapp.com/invite/{{{s}}}"
+  },
+  {
+    "d": "discountoffice.co.nz",
+    "s": "Discount Office",
+    "t": "discountoffice",
+    "u": "https://discountoffice.co.nz/search?type=product&q={{{s}}}*"
+  },
+  {
+    "d": "meta.discourse.org",
+    "s": "Discourse Meta",
+    "t": "discourse",
+    "u": "https://meta.discourse.org/search?q={{{s}}}"
+  },
+  {
+    "d": "dsc.discovery.com",
+    "s": "Discovery.com",
+    "t": "discovery",
+    "u": "http://dsc.discovery.com/search.htm?terms={{{s}}}"
+  },
+  {
+    "d": "scratch.mit.edu",
+    "s": "Scratch",
+    "t": "discussscratch",
+    "u": "http://scratch.mit.edu/search/google_results/?q={{{s}}}&date=anytime&sort_by=datetime_shared"
+  },
+  {
+    "d": "discworld.wikia.com",
+    "s": "discworld",
+    "t": "discworld",
+    "u": "http://discworld.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.discogs.com",
+    "s": "http://discogs.com/",
+    "t": "dis",
+    "u": "https://www.discogs.com/search/?q={{{s}}}&type=all"
+  },
+  {
+    "d": "search.disney.go.com",
+    "s": "Disney.com",
+    "t": "disney",
+    "u": "http://search.disney.go.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.dispostable.com",
+    "s": "Dispostable",
+    "t": "dispt",
+    "u": "http://www.dispostable.com/inbox/{{{s}}}/"
+  },
+  {
+    "d": "dissenter.com",
+    "s": "Dissenter",
+    "t": "dissent",
+    "u": "https://dissenter.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.distrelec.ch",
+    "s": "Distrelec Schweiz",
+    "t": "distch",
+    "u": "https://www.distrelec.ch/search?q={{{s}}}"
+  },
+  {
+    "d": "www.distrelec.de",
+    "s": "Distrelec",
+    "t": "dist",
+    "u": "http://www.distrelec.de/search?q={{{s}}}"
+  },
+  {
+    "d": "distrowatch.com",
+    "s": "DistroWatch",
+    "t": "distro",
+    "u": "http://distrowatch.com/table.php?distribution={{{s}}}"
+  },
+  {
+    "d": "distrowatch.com",
+    "s": "DistroWatch",
+    "t": "distrowatch",
+    "u": "http://distrowatch.com/table.php?distribution={{{s}}}"
+  },
+  {
+    "d": "dizionario.internazionale.it",
+    "s": "Dizionario Internazionale De Mauro",
+    "t": "dit",
+    "u": "http://dizionario.internazionale.it/parola/{{{s}}}"
+  },
+  {
+    "d": "www.diva-portal.org",
+    "s": "DiVA - Digitala Vetenskapliga Arkivet",
+    "t": "diva",
+    "u": "https://www.diva-portal.org/smash/resultList.jsf?dswid=8805&language=en&searchType=SIMPLE&query={{{s}}}&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all"
+  },
+  {
+    "d": "liu.diva-portal.org",
+    "s": "divaliu",
+    "t": "divaliu",
+    "u": "http://liu.diva-portal.org/smash/resultList.jsf?searchType=SIMPLE&query={{{s}}}"
+  },
+  {
+    "d": "divazus.com",
+    "s": "Divazus ®",
+    "t": "divazus",
+    "u": "https://divazus.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.elegantthemes.com",
+    "s": "Divi",
+    "t": "divi",
+    "u": "https://www.elegantthemes.com/documentation/?s={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "d": "www.divii.org",
+    "s": "Divii",
+    "t": "divii",
+    "u": "http://www.divii.org/search?q= {{{s}}}"
+  },
+  {
+    "d": "kidicarus.wikia.com",
+    "s": "Divinipedia",
+    "t": "divinipedia",
+    "u": "http://kidicarus.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.diynetwork.com",
+    "s": "DIY Network",
+    "t": "diy",
+    "u": "http://www.diynetwork.com/search/{{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "diy.org",
+    "t": "diyorg",
+    "u": "/?q=site:diy.org+{{{s}}}"
+  },
+  {
+    "d": "dizionario.internazionale.it",
+    "s": "Internazionale.it",
+    "t": "dizint",
+    "u": "http://dizionario.internazionale.it/cerca/{{{s}}}"
+  },
+  {
+    "d": "docs.djangoproject.com",
+    "s": "Django Docs",
+    "t": "django",
+    "u": "http://docs.djangoproject.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "docs.djangoproject.com",
+    "s": "Django Documentation",
+    "t": "djangodoc",
+    "u": "https://docs.djangoproject.com/en/1.8/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.deejay.de",
+    "s": "Deejay.de",
+    "t": "djay",
+    "u": "http://www.deejay.de/{{{s}}}"
+  },
+  {
+    "d": "docs.djangoproject.com",
+    "s": "Django documentation",
+    "t": "dj",
+    "u": "https://docs.djangoproject.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.djentmag.com",
+    "s": "DjentMag",
+    "t": "djent",
+    "u": "https://www.djentmag.com/?s={{{s}}}"
+  },
+  {
+    "d": "store.dji.com",
+    "s": "DJI",
+    "t": "dji",
+    "u": "https://store.dji.com/product-search?q={{{s}}}"
+  },
+  {
+    "d": "docs.djangoproject.com",
+    "s": "Django Documentation",
+    "t": "djlts",
+    "u": "https://docs.djangoproject.com/en/2.2/search/?q={{{s}}}"
+  },
+  {
+    "d": "search.www.davidjones.com",
+    "s": "David Jones",
+    "t": "djones",
+    "u": "https://search.www.davidjones.com/search?w={{{s}}}"
+  },
+  {
+    "d": "djangopackages.com",
+    "s": "Django Packages",
+    "t": "djpackages",
+    "u": "http://djangopackages.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "discord.js.org",
+    "s": "Discord.JS Docs",
+    "t": "djs",
+    "u": "https://discord.js.org/#/docs/main/stable/search?q={{{s}}}"
+  },
+  {
+    "d": "code.djangoproject.com",
+    "s": "Django Ticket",
+    "t": "djticket",
+    "u": "https://code.djangoproject.com/ticket/{{{s}}}"
+  },
+  {
+    "d": "www.dictjuggler.net",
+    "s": "DictJuggler.net Japanese-English and English-Japanese Translation Dictionary",
+    "t": "djtrans",
+    "u": "http://www.dictjuggler.net/en/yakugo/?word={{{s}}}"
+  },
+  {
+    "d": "www.djtechtools.com",
+    "s": "DJTechTools",
+    "t": "djtt",
+    "u": "http://www.djtechtools.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.digikey.ca",
+    "s": "Digikey.ca",
+    "t": "dkc",
+    "u": "http://www.digikey.ca/product-search/en?x=-1308&y=-74&lang=en&site=ca&KeyWords={{{s}}} "
+  },
+  {
+    "d": "store.docker.com",
+    "s": "docker hub",
+    "t": "dk",
+    "u": "https://store.docker.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.digikey.es",
+    "s": "Digikey ES",
+    "t": "dkes",
+    "u": "https://www.digikey.es/products/es?keywords={{{s}}}"
+  },
+  {
+    "d": "www.digikey.fr",
+    "s": "DigiKey.fr",
+    "t": "dkfr",
+    "u": "http://www.digikey.fr/product-search/fr?keywords={{{s}}}"
+  },
+  {
+    "d": "www.digikey.it",
+    "s": "Digikey Italy",
+    "t": "dkit",
+    "u": "http://www.digikey.it/products/it?keywords={{{s}}}"
+  },
+  {
+    "d": "ordnet.dk",
+    "s": "Den Danske Ordbog",
+    "t": "dkord",
+    "u": "http://ordnet.dk/ddo/ordbog?query={{{s}}}"
+  },
+  {
+    "d": "diksiyonaryo.ph",
+    "s": "Diksiyonaryo",
+    "t": "dkp",
+    "u": "https://diksiyonaryo.ph/search/{{{s}}}"
+  },
+  {
+    "d": "store.docker.com",
+    "s": "Docker Store",
+    "t": "dkstore",
+    "u": "https://store.docker.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dokuwiki.org",
+    "s": "DokuWiki",
+    "t": "dkwk",
+    "u": "http://www.dokuwiki.org/start?do=search&id={{{s}}}"
+  },
+  {
+    "d": "www.digikey.com",
+    "s": "Digi-Key",
+    "t": "dky",
+    "u": "https://www.digikey.com/products/en?keywords={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "D Programming Language",
+    "t": "dlang",
+    "u": "https://duckduckgo.com/?q=site%3Adlang.org+{{{s}}}"
+  },
+  {
+    "d": "traducciones-videojuegos.clandlan.net",
+    "s": "Clan Dlan - Traducciones",
+    "t": "dlantrad",
+    "u": "http://traducciones-videojuegos.clandlan.net/index.php?page=academia%2Fsearch&search={{{s}}}"
+  },
+  {
+    "d": "mdlc.iec.cat",
+    "s": "Diccionari de la llengua catalana",
+    "t": "dlcat",
+    "u": "http://mdlc.iec.cat/results.asp?txtEntrada={{{s}}}&operEntrada=0"
+  },
+  {
+    "d": "www.dlcompare.com",
+    "s": "DLCompare",
+    "t": "dlc",
+    "u": "http://www.dlcompare.com/search?q={{{s}}}"
+  },
+  {
+    "d": "blog.desdelinux.net",
+    "s": "DesdeLinux",
+    "t": "dl",
+    "u": "http://blog.desdelinux.net/?s={{{s}}}"
+  },
+  {
+    "d": "dleague.nba.com",
+    "s": "NBA D-League",
+    "t": "dleague",
+    "u": "http://dleague.nba.com/?q={{{s}}}"
+  },
+  {
+    "d": "dle.rae.es",
+    "s": "Diccionario de la lengua española, 23.ª Edición, RAE",
+    "t": "dle",
+    "u": "http://dle.rae.es/?w={{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL eng-esp",
+    "t": "dlenes",
+    "u": "https://www.deepl.com/translator#en/es/{{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL",
+    "t": "dles",
+    "u": "https://www.deepl.com/translator#au/es/{{{s}}}"
+  },
+  {
+    "d": "www.deutschlandfunk.de",
+    "s": "dlf",
+    "t": "dlf",
+    "u": "http://www.deutschlandfunk.de/suchergebnisse.448.de.html?search%5Bsubmit%5D=1&search%5BwithNews%5D%5B%5D=WithNews&search%5Bword%5D={{{s}}}"
+  },
+  {
+    "d": "discipleshiplibrary.com",
+    "s": "Discipleship Library",
+    "t": "dlib",
+    "u": "http://discipleshiplibrary.com/search.php?a=1&e=1&m=0&p=0&n=0&s=topic1&t=TOPIC%20A&ss={{{s}}}&st=all&ssf="
+  },
+  {
+    "d": "dlive.tv",
+    "s": "dlive",
+    "t": "dlive",
+    "u": "https://dlive.tv/s/search/{{{s}}}"
+  },
+  {
+    "d": "www.dll-files.com",
+    "s": "DLL-files.com",
+    "t": "dll",
+    "u": "http://www.dll-files.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "dlmf.nist.gov",
+    "s": "NIST Digital Library of Mathematical Functions",
+    "t": "dlmf",
+    "u": "http://dlmf.nist.gov/search/search?q={{{s}}}"
+  },
+  {
+    "d": "dict.leo.org",
+    "s": "dict.leo.org",
+    "t": "dlo",
+    "u": "https://dict.leo.org/german-english/{{{s}}}"
+  },
+  {
+    "d": "www.priberam.pt",
+    "s": "Priberam - Conjugar",
+    "t": "dlpoc",
+    "u": "https://www.priberam.pt/dlpo/Conjugar/{{{s}}}"
+  },
+  {
+    "d": "www.priberam.pt",
+    "s": "Priberam",
+    "t": "dlpo",
+    "u": "https://www.priberam.pt/dlpo/{{{s}}}"
+  },
+  {
+    "d": "duke.summon.serialssolutions.com",
+    "s": "Duke Summon",
+    "t": "dlss",
+    "u": "http://duke.summon.serialssolutions.com/?summonVersion=2.0#!/search?ho=t&fvf=SourceType,Library%20Catalog,f%7CContentType,Book%20%2F%20eBook,f&q={{{s}}}&l=en"
+  },
+  {
+    "d": "dmaciasblog.com",
+    "s": "dmaciasblog",
+    "t": "dmaciasblog",
+    "u": "http://dmaciasblog.com/?s={{{s}}}"
+  },
+  {
+    "d": "dyn.manpages.debian.org",
+    "s": "Debian Manual Pages",
+    "t": "dman",
+    "u": "https://dyn.manpages.debian.org/jump?q={{{s}}}"
+  },
+  {
+    "d": "map.daum.net",
+    "s": "Daum Map",
+    "t": "dmap",
+    "u": "http://map.daum.net/?q={{{s}}}"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MXToolbox DMARC",
+    "t": "dmarc",
+    "u": "https://mxtoolbox.com/SuperTool.aspx?action=dmarc%3a{{{s}}}&run=networktools"
+  },
+  {
+    "d": "www.dailymotion.com",
+    "s": "Daily Motion",
+    "t": "dm",
+    "u": "https://www.dailymotion.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.dm.de",
+    "s": "DM.DE",
+    "t": "dmde",
+    "u": "https://www.dm.de/search/468652.html?type=product&q={{{s}}}"
+  },
+  {
+    "d": "eikaiwa.dmm.com",
+    "s": "DMM英会話なんてuKnow?",
+    "t": "dme",
+    "u": "https://eikaiwa.dmm.com/uknow/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "Dictionnaire du Moyen Français",
+    "t": "dmf",
+    "u": "http://www.cnrtl.fr/definition/dmf/{{{s}}}"
+  },
+  {
+    "d": "www.digitalinmarket.com",
+    "s": "DigitalinMarket",
+    "t": "dmg",
+    "u": "https://www.digitalinmarket.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dmi.dk",
+    "s": "DMI Byvejr",
+    "t": "dmiby",
+    "u": "http://www.dmi.dk/byindex?by={{{s}}}"
+  },
+  {
+    "d": "www.dmi.dk",
+    "s": "DMI Byvejr",
+    "t": "dmi",
+    "u": "http://www.dmi.dk/byindex?by={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Deb-Multimedia",
+    "t": "dmo",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adeb-multimedia.org%2Fpool%2F"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "Merriam-Webster Dictionary",
+    "t": "dmw",
+    "u": "https://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "learn.microsoft.com",
+    "s": ".NET API Browser",
+    "t": "dnab",
+    "u": "https://learn.microsoft.com/en-us/dotnet/api/?term={{{s}}}"
+  },
+  {
+    "d": "portal.dnb.de",
+    "s": "Deutsche National Bibliothek",
+    "t": "dnb",
+    "u": "https://portal.dnb.de/opac.htm?query={{{s}}}&method=simpleSearch"
+  },
+  {
+    "d": "www.dn.se",
+    "s": "Dagens Nyheter",
+    "t": "dn",
+    "u": "https://www.dn.se/sok/?q={{{s}}}&page=1&sort=relevance"
+  },
+  {
+    "d": "www.dndbeyond.com",
+    "s": "Dnd Beyond",
+    "t": "dndbeyond",
+    "u": "https://www.dndbeyond.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dndbeyond.com",
+    "s": "D&D Beyond",
+    "t": "dnd",
+    "u": "https://www.dndbeyond.com/search?q={{{s}}}"
+  },
+  {
+    "d": "dict-navi.com",
+    "s": "Dict-Na'vi.com",
+    "t": "dnde",
+    "u": "http://dict-navi.com/de/dictionary/list/?type=search&search_term={{{s}}}"
+  },
+  {
+    "d": "dungeons.wikia.com",
+    "s": "Dungeons and Dragons Wiki",
+    "t": "dndwiki",
+    "u": "http://dungeons.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.dnevnik.bg",
+    "s": "Dnevnik.bg",
+    "t": "dnevnik",
+    "u": "https://www.dnevnik.bg/search/{{{s}}}"
+  },
+  {
+    "d": "www.designernews.co",
+    "s": "Designer News",
+    "t": "dnews",
+    "u": "https://www.designernews.co/search#stq={{{s}}}&stp=1"
+  },
+  {
+    "d": "dnf.readthedocs.io",
+    "s": "DNF Documentation",
+    "t": "dnf",
+    "u": "https://dnf.readthedocs.io/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "referenceworks.brillonline.com",
+    "s": "Der Neue Pauly",
+    "t": "dnp",
+    "u": "http://referenceworks.brillonline.com/search?s.q={{{s}}}&s.f.s2_parent=s.f.book.der-neue-pauly"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MXToolbox",
+    "t": "dns",
+    "u": "http://mxtoolbox.com/SuperTool.aspx?action=a%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "d": "www.dns-shop.ru",
+    "s": "DNS",
+    "t": "dnsshop",
+    "u": "http://www.dns-shop.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.dnt.no",
+    "s": "Norwegian Trekking Association",
+    "t": "dnt",
+    "u": "https://www.dnt.no/søk/?q={{{s}}}"
+  },
+  {
+    "d": "www.avl.gva.es",
+    "s": "Diccionari Normatiu Valencià",
+    "t": "dnv",
+    "u": "http://www.avl.gva.es/lexicval/dnv?paraula={{{s}}}"
+  },
+  {
+    "d": "search.danawa.com",
+    "s": "Danawa",
+    "t": "dnw",
+    "u": "http://search.danawa.com/dsearch.php?k1={{{s}}}"
+  },
+  {
+    "d": "doai.io",
+    "s": "Digital Open Access Identifier",
+    "t": "doai",
+    "u": "http://doai.io/{{{s}}}"
+  },
+  {
+    "d": "www.doaj.org",
+    "s": "Directory of Open Access Journals",
+    "t": "doaj",
+    "u": "https://www.doaj.org/search?source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22{{{s}}}%22%2C%22default_operator%22%3A%22AND%22%7D%7D%2C%22from%22%3A0%2C%22size%22%3A10%7D"
+  },
+  {
+    "d": "dobberhockey.com",
+    "s": "DobberHockey",
+    "t": "dobber",
+    "u": "https://dobberhockey.com/?s={{{s}}}&orderby=post_date"
+  },
+  {
+    "d": "www.dobre-knihy.cz",
+    "s": "Dobré Knihy.cz",
+    "t": "dobreknihy",
+    "u": "http://www.dobre-knihy.cz/vyhledavani/?q={{{s}}}"
+  },
+  {
+    "d": "docbook.org",
+    "s": "DocBook 5: The Definitive Guide",
+    "t": "docbook5",
+    "u": "http://docbook.org/search/?cx=008085259838719972531%3Atqmky0g0tbo&q={{{s}}}&sa=DocBook+Search&cof=FORID%3A9&siteurl=docbook.org%2F&ref=&ss=551j84183j5"
+  },
+  {
+    "d": "flexikon.doccheck.com",
+    "s": "DocCheck",
+    "t": "doccde",
+    "u": "http://flexikon.doccheck.com/de/index.php?title=Spezial:Suche&q={{{s}}}"
+  },
+  {
+    "d": "m.flexikon.doccheck.com",
+    "s": "DocCheck",
+    "t": "docc",
+    "u": "http://m.flexikon.doccheck.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.doccheck.com",
+    "s": "doccheck",
+    "t": "doccheck",
+    "u": "http://www.doccheck.com/de/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.doctorofcredit.com",
+    "s": "DoctorOfCredit",
+    "t": "doc",
+    "u": "https://www.doctorofcredit.com/?s={{{s}}}"
+  },
+  {
+    "d": "store.docker.com",
+    "s": "Docker Store",
+    "t": "docker",
+    "u": "https://store.docker.com/search?q={{{s}}}"
+  },
+  {
+    "d": "hub.docker.com",
+    "s": "Docker Hub",
+    "t": "dockerhub",
+    "u": "https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q={{{s}}}&starCount=0"
+  },
+  {
+    "d": "docksal.readthedocs.io",
+    "s": "Docksal",
+    "t": "docksal",
+    "u": "https://docksal.readthedocs.io/en/master/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.donationcoder.com",
+    "s": "DonationCoder",
+    "t": "doco",
+    "u": "http://www.donationcoder.com/forum/index.php?action=search2&search={{{s}}} "
+  },
+  {
+    "d": "docs.rs",
+    "s": "Docs.rs",
+    "t": "docsrs",
+    "u": "https://docs.rs/releases/search?query={{{s}}}"
+  },
+  {
+    "d": "docs.rs",
+    "s": "docs.rs",
+    "t": "docs.rs",
+    "u": "https://docs.rs/releases/search?query={{{s}}}"
+  },
+  {
+    "d": "www.scribd.com",
+    "s": "Scribd.com",
+    "t": "docs",
+    "u": "http://www.scribd.com/search?query={{{s}}}"
+  },
+  {
+    "d": "docs.splunk.com",
+    "s": "Splunk Docs",
+    "t": "docs.splunk",
+    "u": "https://docs.splunk.com/Special:SplunkSearch/docs?q={{{s}}}"
+  },
+  {
+    "d": "www.doctrine.fr",
+    "s": "Doctrine.fr",
+    "t": "doctrine",
+    "u": "https://www.doctrine.fr/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Documentation Ubuntu-fr",
+    "t": "docubufr",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adoc.ubuntu-fr.org"
+  },
+  {
+    "d": "help.ubuntu.com",
+    "s": "Ubuntu Documentation",
+    "t": "docubu",
+    "u": "https://help.ubuntu.com/search.html?cof=FORID%3A9&cx=004599128559784038176%3Avj_p0xo-nng&ie=UTF-8&q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "documentaryheaven.com",
+    "s": "Documentary Heaven",
+    "t": "documentary",
+    "u": "http://documentaryheaven.com/find/?q={{{s}}}"
+  },
+  {
+    "d": "www.dodax.it",
+    "s": "dodax.it",
+    "t": "dodaxit",
+    "u": "https://www.dodax.it/it-it/search/?s={{{s}}}"
+  },
+  {
+    "d": "www.digitalocean.com",
+    "s": "DigitalOcean",
+    "t": "do",
+    "u": "https://www.digitalocean.com/community/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dasoertliche.de",
+    "s": "Das Örtliche",
+    "t": "doe",
+    "u": "http://www.dasoertliche.de/Controller?form_name=search_inv&page=5&context=4&action=43&ph={{{s}}}"
+  },
+  {
+    "d": "dofuswiki.wikia.com",
+    "s": "Dofus Wiki",
+    "t": "dofus",
+    "u": "https://dofuswiki.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "canigivemydog.com",
+    "s": "CanIGiveMyDog",
+    "t": "dog",
+    "u": "http://canigivemydog.com/?s={{{s}}} "
+  },
+  {
+    "d": "dogechain.info",
+    "s": "DogeChain",
+    "t": "dogechain",
+    "u": "http://dogechain.info/address/{{{s}}}"
+  },
+  {
+    "d": "www.dogobooks.com",
+    "s": "DOGO books",
+    "t": "dogob",
+    "u": "http://www.dogobooks.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.dogomovies.com",
+    "s": "DOGO movies",
+    "t": "dogom",
+    "u": "http://www.dogomovies.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.dogpedia.org",
+    "s": "DogPedia",
+    "t": "dogpedia",
+    "u": "http://www.dogpedia.org/?s={{{s}}}"
+  },
+  {
+    "d": "results.dogpile.com",
+    "s": "Dogpile",
+    "t": "dogpile",
+    "u": "http://results.dogpile.com/search/web?q={{{s}}}&ql=&topSearchSubmit.x=0&topSearchSubmit.y=0&fcoid=417&fcop=topnav&fpid=27&om_nextpage=True"
+  },
+  {
+    "d": "dogsing.com",
+    "s": "dogsing.com",
+    "t": "dogsing",
+    "u": "https://dogsing.com/results/?q={{{s}}}"
+  },
+  {
+    "d": "dohp.com",
+    "s": "D.O.H.P.",
+    "t": "dohp",
+    "u": "https://dohp.com/search?q={{{s}}}"
+  },
+  {
+    "d": "doi.org",
+    "s": "Digital Object Identifier",
+    "t": "doi",
+    "u": "https://doi.org/{{{s}}}"
+  },
+  {
+    "d": "www.doityourself.com",
+    "s": "https://www.doityourself.com/",
+    "t": "doit",
+    "u": "https://www.doityourself.com/search?dsp=how-to&psearch={{{s}}}"
+  },
+  {
+    "d": "wiki.dolphin-emu.org",
+    "s": "Dolphin Emulator Wiki",
+    "t": "dolphin",
+    "u": "https://wiki.dolphin-emu.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "centralops.net",
+    "s": "Domain Dossier",
+    "t": "domaindossier",
+    "u": "http://centralops.net/co/DomainDossier.aspx?addr={{{s}}}&dom_whois=true&dom_dns=true&traceroute=true&net_whois=true&svc_scan=true"
+  },
+  {
+    "d": "www.namecheap.com",
+    "s": "NameCheap",
+    "t": "domain",
+    "u": "http://www.namecheap.com/domains/domain-name-search/results.aspx?domain={{{s}}}"
+  },
+  {
+    "d": "domainr.com",
+    "s": "Domainr",
+    "t": "domainr",
+    "u": "https://domainr.com/?q={{{s}}}"
+  },
+  {
+    "d": "domainsbot.com",
+    "s": "domainsbot.com",
+    "t": "domainsbot",
+    "u": "http://domainsbot.com/?q={{{s}}} "
+  },
+  {
+    "d": "domeinwinkel.hosting",
+    "s": "Domeinwinkel",
+    "t": "domein",
+    "u": "https://domeinwinkel.hosting/?domain={{{s}}}"
+  },
+  {
+    "d": "domize.com",
+    "s": "Domize",
+    "t": "domize.com",
+    "u": "https://domize.com/?q={{{s}}}"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Network",
+    "t": "dom",
+    "u": "https://developer.mozilla.org/en-US/search?topic=api&q={{{s}}}"
+  },
+  {
+    "d": "www.domu.com",
+    "s": "domu",
+    "t": "domu",
+    "u": "https://www.domu.com/chicago/apartment-search2?domu_search={{{s}}}"
+  },
+  {
+    "d": "wiki.dominionstrategy.com",
+    "s": "Dominion Strategy Wiki",
+    "t": "domw",
+    "u": "http://wiki.dominionstrategy.com/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "d": "www.donedeal.ie",
+    "s": "Done Deal",
+    "t": "donedeal",
+    "u": "https://www.donedeal.ie/all?words={{{s}}}"
+  },
+  {
+    "d": "dont-starve-game.wikia.com",
+    "s": "http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki",
+    "t": "dontstarve",
+    "u": "http://dont-starve-game.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "doomwiki.org",
+    "s": "Doom Wiki",
+    "t": "doom",
+    "u": "http://doomwiki.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.doomsdayprep.com",
+    "s": "Doomsday Prep",
+    "t": "doomsday",
+    "u": "https://www.doomsdayprep.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "www.dopeclics.com",
+    "s": "Dopeclics",
+    "t": "dopeclics",
+    "u": "http://www.dopeclics.com/search?q={{{s}}}"
+  },
+  {
+    "d": "dorama.akihabara.cz",
+    "s": "Dorama Akihabara",
+    "t": "dorabara",
+    "u": "http://dorama.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "d": "dwarffortresswiki.org",
+    "s": "DwarfFortress Wiki",
+    "t": "dorf",
+    "u": "http://dwarffortresswiki.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.steinberg.net",
+    "s": "Dorico forum",
+    "t": "dorfor",
+    "u": "https://www.steinberg.net/forums/search.php?keywords={{{s}}}&fid%5B0%5D=246"
+  },
+  {
+    "d": "buecher-doerner.buchhandlung.de",
+    "s": "Bücher Dörner Onlineshop",
+    "t": "dörner",
+    "u": "https://buecher-doerner.buchhandlung.de/shop/quickSearch?searchString={{{s}}}"
+  },
+  {
+    "d": "wiki.teamliquid.net",
+    "s": "Teamliquid Wiki",
+    "t": "dota2",
+    "u": "http://wiki.teamliquid.net/dota2/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.dotabuff.com",
+    "s": "Dotabuff",
+    "t": "dotabuff",
+    "u": "http://www.dotabuff.com/search?q={{{s}}}"
+  },
+  {
+    "d": "dota2.gamepedia.com",
+    "s": "Dota 2 Wiki",
+    "t": "dota",
+    "u": "http://dota2.gamepedia.com/index.php?search={{{s}}} "
+  },
+  {
+    "d": "www.digitalocean.com",
+    "s": "Digital Ocean Tutorials",
+    "t": "dot",
+    "u": "https://www.digitalocean.com/community/tutorials?q={{{s}}}"
+  },
+  {
+    "d": "evemaps.dotlan.net",
+    "s": "Dotlan EVE Maps",
+    "t": "dotlan",
+    "u": "http://evemaps.dotlan.net/search?q={{{s}}}"
+  },
+  {
+    "d": "learn.microsoft.com",
+    "s": ".NET API",
+    "t": "dotnetapi",
+    "u": "https://learn.microsoft.com/en-us/dotnet/api/?term={{{s}}}"
+  },
+  {
+    "d": "learn.microsoft.com",
+    "s": "Microsoft Docs",
+    "t": "dotnet",
+    "u": "https://learn.microsoft.com/en-us/search/?terms={{{s}}}&products=%2Fdevrel%2F7696cda6-0510-47f6-8302-71bb5d2e28cf"
+  },
+  {
+    "d": "my.dot.tk",
+    "s": "Dot TK",
+    "t": "dottk",
+    "u": "http://my.dot.tk/registration/register?domainname={{{s}}}"
+  },
+  {
+    "d": "dotwhat.net",
+    "s": "DotWhat",
+    "t": "dotwhat",
+    "u": "http://dotwhat.net/search/{{{s}}}"
+  },
+  {
+    "d": "www.douban.com",
+    "s": "Douban",
+    "t": "douban",
+    "u": "http://www.douban.com/search?q={{{s}}}"
+  },
+  {
+    "d": "movie.douban.com",
+    "s": "Douban Movie",
+    "t": "doubanmovie",
+    "u": "https://movie.douban.com/subject_search?search_text={{{s}}}"
+  },
+  {
+    "d": "www.doubtbox.online",
+    "s": "doubt box",
+    "t": "doubtbox",
+    "u": "https://www.doubtbox.online/search/?q={{{s}}}"
+  },
+  {
+    "d": "en.niconico.sarashi.com",
+    "s": "niconico douga bypass",
+    "t": "douga",
+    "u": "http://en.niconico.sarashi.com/?{{{s}}}"
+  },
+  {
+    "d": "www.douglas.nl",
+    "s": "Douglas",
+    "t": "douglas",
+    "u": "https://www.douglas.nl/douglas/search.html?query={{{s}}}&searchType=search&init=true"
+  },
+  {
+    "d": "dougscripts.com",
+    "s": "Doug's AppleScripts for iTunes",
+    "t": "dougscripts",
+    "u": "http://dougscripts.com/itunes/itinfo/searchform.php?my_srch_term={{{s}}}"
+  },
+  {
+    "d": "www.doujinshi.org",
+    "s": "Doujinshi.org",
+    "t": "doujinshi",
+    "u": "http://www.doujinshi.org/search/simple/?T=objects&sn={{{s}}}"
+  },
+  {
+    "d": "search.doverpublications.com",
+    "s": "Dover Publications",
+    "t": "dover",
+    "u": "http://search.doverpublications.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "Down For Everyone Or Just Me",
+    "t": "down4me",
+    "u": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "downdetector.co.uk",
+    "s": "Downdetector",
+    "t": "downd",
+    "u": "https://downdetector.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "Down For Everyone Or Just Me",
+    "t": "down",
+    "u": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "DownForEveryone?",
+    "t": "downfor",
+    "u": "http://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "Down For Everyone Or Just Me",
+    "t": "downforme",
+    "u": "https://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "download.cnet.com",
+    "s": "Cnet Downloads",
+    "t": "downloadcnet",
+    "u": "http://download.cnet.com/1770-20_4-0.html?query={{{s}}}&platformSelect=&tag=srch&searchtype=downloads&filterName=platform%3DWindows%2CMobile%2CMac%2CWebware&filter=platform%3DWindows%2CMobile%2CMac%2CWebware"
+  },
+  {
+    "d": "download.cnet.com",
+    "s": "Download.com",
+    "t": "download",
+    "u": "http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go%252521"
+  },
+  {
+    "d": "www.downpour.com",
+    "s": "Downpour",
+    "t": "downpour",
+    "u": "http://www.downpour.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.amdocs.com",
+    "s": "Amdocs",
+    "t": "dox",
+    "u": "https://www.amdocs.com/search?search={{{s}}}"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian Packages",
+    "t": "dpackages",
+    "u": "http://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "d": "derpibooru.org",
+    "s": "Derpibooru",
+    "t": "dpb",
+    "u": "https://derpibooru.org/search?q={{{s}}}"
+  },
+  {
+    "d": "dvdpascher.net",
+    "s": "DVDpasCher",
+    "t": "dpc",
+    "u": "http://dvdpascher.net/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "PCsoft",
+    "t": "dpcs",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:doc.pcsoft.fr&ia=web"
+  },
+  {
+    "d": "lema.rae.es",
+    "s": "Diccionario panhispánico de dudas",
+    "t": "dpd",
+    "u": "http://lema.rae.es/dpd/?key={{{s}}}"
+  },
+  {
+    "d": "tracking.dpd.de",
+    "s": "DPD",
+    "t": "dpdpost",
+    "u": "http://tracking.dpd.de/parcelstatus?query={{{s}}}&locale=en_DE"
+  },
+  {
+    "d": "www.duckduckgo.com",
+    "s": "D Reference",
+    "t": "dp",
+    "u": "http://www.duckduckgo.com/?q=site%3Adlang.org+{{{s}}}"
+  },
+  {
+    "d": "tracking.dpd.de",
+    "s": "DPD Online Tracking",
+    "t": "dpdt",
+    "u": "https://tracking.dpd.de/cgi-bin/delistrack?typ=1&pknr={{{s}}}"
+  },
+  {
+    "d": "www.dpg-verhandlungen.de",
+    "s": "https://www.dpg-verhandlungen.de",
+    "t": "dpg",
+    "u": "https://www.dpg-verhandlungen.de/year/2019/conference/regensburg/search?query={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.dogpile.com",
+    "s": "Dogpile Images",
+    "t": "dpi",
+    "u": "http://www.dogpile.com/search/images?q={{{s}}}"
+  },
+  {
+    "d": "packages.debian.org",
+    "s": "Debian Packages",
+    "t": "dpkg",
+    "u": "http://packages.debian.org/search?keywords={{{s}}}"
+  },
+  {
+    "d": "dp.la",
+    "s": "Digital Public Library of America",
+    "t": "dpla",
+    "u": "http://dp.la/search?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "www.dblp.org",
+    "s": "DPLB",
+    "t": "dplb",
+    "u": "http://www.dblp.org/search/index.php#query={{{s}}}"
+  },
+  {
+    "d": "www.deepl.com",
+    "s": "DeepL",
+    "t": "dpl",
+    "u": "https://www.deepl.com/translator#xx/en/{{{s}}}"
+  },
+  {
+    "d": "dpldocs.info",
+    "s": "The D Programming Language's Unofficial Docs",
+    "t": "dpldocs",
+    "u": "https://dpldocs.info/locate?q={{{s}}}"
+  },
+  {
+    "d": "ilg.usc.es",
+    "s": "Dicionário de Pronúncia da Língua Galega",
+    "t": "dplg",
+    "u": "http://ilg.usc.es/pronuncia/?pq=&q={{{s}}}&l=1&c[]=0"
+  },
+  {
+    "d": "anonscm.debian.org",
+    "s": "Debian Python Modules Team git repo",
+    "t": "dpmt",
+    "u": "https://anonscm.debian.org/git/python-modules/packages/{{{s}}}.git"
+  },
+  {
+    "d": "www.dogpile.com",
+    "s": "Dogpile News",
+    "t": "dpn",
+    "u": "http://www.dogpile.com/search/news?q={{{s}}}"
+  },
+  {
+    "d": "www.debian.org",
+    "s": "Debian Policy Manual",
+    "t": "dpolicy",
+    "u": "https://www.debian.org/doc/debian-policy {{{s}}}"
+  },
+  {
+    "d": "www.dpreview.com",
+    "s": "Digital Photgrapy Review",
+    "t": "dpr",
+    "u": "http://www.dpreview.com/search/?query={{{s}}} "
+  },
+  {
+    "d": "www.dpreview.com",
+    "s": "DPReview",
+    "t": "dpreview",
+    "u": "http://www.dpreview.com/search/?query={{{s}}}&terms={{{s}}}"
+  },
+  {
+    "d": "michaelis.uol.com.br",
+    "s": "Michaelis",
+    "t": "dptbr",
+    "u": "http://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/{{{s}}}"
+  },
+  {
+    "d": "www.dicio.com.br",
+    "s": "Dicio",
+    "t": "dpt",
+    "u": "http://www.dicio.com.br/{{{s}}}"
+  },
+  {
+    "d": "tracker.debian.org",
+    "s": "Debian Packages",
+    "t": "dpts",
+    "u": "https://tracker.debian.org/pkg/{{{s}}}"
+  },
+  {
+    "d": "pub.dartlang.org",
+    "s": "Dartlang Packages",
+    "t": "dpub",
+    "u": "http://pub.dartlang.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dogpile.com",
+    "s": "Dogpile Video",
+    "t": "dpv",
+    "u": "http://www.dogpile.com/search/video?q={{{s}}}"
+  },
+  {
+    "d": "www.dogpile.com",
+    "s": "Dogpile Web",
+    "t": "dpw",
+    "u": "http://www.dogpile.com/search/web?q={{{s}}}"
+  },
+  {
+    "d": "dragon-quest.org",
+    "s": "Dragon Quest Wiki",
+    "t": "dq",
+    "u": "http://dragon-quest.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.deutschlandradio.de",
+    "s": "dradio.de",
+    "t": "dradio",
+    "u": "http://www.deutschlandradio.de/text-und-audio-suche.287.de.html?search%5Bsubmit%5D=1&search%5Bword%5D={{{s}}}"
+  },
+  {
+    "d": "dle.rae.es",
+    "s": "Diccionario de la Lengua Española",
+    "t": "drae",
+    "u": "http://dle.rae.es/srv/fetch?w={{{s}}}&m=30"
+  },
+  {
+    "d": "www.draftexpress.com",
+    "s": "DraftExpress",
+    "t": "draftexpress",
+    "u": "http://www.draftexpress.com/search/term/{{{s}}}"
+  },
+  {
+    "d": "dragonball.wikia.com",
+    "s": "Dragon Ball Wiki",
+    "t": "dragball",
+    "u": "https://dragonball.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "dragcave.wikia.com",
+    "s": "Dragon Cave Wiki",
+    "t": "dragcave",
+    "u": "http://dragcave.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "academia.gal",
+    "s": "Dicionario da Real Academia Galega",
+    "t": "drag",
+    "u": "http://academia.gal/dicionario_rag/searchNoun.do?nounTitle={{{s}}}"
+  },
+  {
+    "d": "leaf.dragonflybsd.org",
+    "s": "DragonFly BSD Manual Pages",
+    "t": "dragonflyman",
+    "u": "https://leaf.dragonflybsd.org/cgi/web-man?command={{{s}}}"
+  },
+  {
+    "d": "violettacyra.blogspot.com",
+    "s": "DRAOMAI",
+    "t": "draomai",
+    "u": "https://violettacyra.blogspot.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "www.drargapress.com",
+    "s": "جريدة الدراركة بريس",
+    "t": "drargapress",
+    "u": "http://www.drargapress.com/?s={{{s}}}"
+  },
+  {
+    "d": "draxe.com",
+    "s": "Dr. Axe",
+    "t": "draxe",
+    "u": "https://draxe.com/?s={{{s}}}"
+  },
+  {
+    "d": "dr.loudness-war.info",
+    "s": "Dynamic Range Database (album)",
+    "t": "drdba",
+    "u": "http://dr.loudness-war.info/album/list?album={{{s}}}"
+  },
+  {
+    "d": "dr.loudness-war.info",
+    "s": "Dynamic Range Database",
+    "t": "drdb",
+    "u": "http://dr.loudness-war.info/album/list?artist={{{s}}}"
+  },
+  {
+    "d": "www.dr.dk",
+    "s": "Danmark Radio",
+    "t": "drdk",
+    "u": "http://www.dr.dk/search/Result?query={{{s}}}"
+  },
+  {
+    "d": "www.dr.com.tr",
+    "s": "d&r",
+    "t": "d&r",
+    "u": "https://www.dr.com.tr/search?q={{{s}}}"
+  },
+  {
+    "d": "dribbble.com",
+    "s": "Dribbble",
+    "t": "dr",
+    "u": "http://dribbble.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dreambible.com",
+    "s": "Dream Bible",
+    "t": "dreambible",
+    "u": "http://www.dreambible.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.dreamcareerbuilder.com",
+    "s": "DreamCareerBuilder",
+    "t": "dreamcareerbuilder",
+    "u": "https://www.dreamcareerbuilder.com/findjob.php?keyword={{{s}}}"
+  },
+  {
+    "d": "dreammoods.com",
+    "s": "DreamMoods",
+    "t": "dream",
+    "u": "http://dreammoods.com/cgibin/dreamdictionarysearch.pl?method=exact&header=dreamsymbol&search={{{s}}}"
+  },
+  {
+    "d": "www.dreamincode.net",
+    "s": "Dream In Code",
+    "t": "dreamincode",
+    "u": "http://www.dreamincode.net/forums/index.php?app=core&module=search&section=search&do=quick_search&search_app=core&fromsearch=1&search_term={{{s}}}&search_app=forums"
+  },
+  {
+    "d": "dictionary.reference.com",
+    "s": "Dictionary at Reference.com",
+    "t": "dref",
+    "u": "http://dictionary.reference.com/browse/{{{s}}}"
+  },
+  {
+    "d": "www.diarioregistrado.com",
+    "s": "Diario Registrado",
+    "t": "dreg",
+    "u": "https://www.diarioregistrado.com/search?text={{{s}}}"
+  },
+  {
+    "d": "community.dremio.com",
+    "s": "dremio community",
+    "t": "dremio",
+    "u": "https://community.dremio.com/search?q={{{s}}}"
+  },
+  {
+    "d": "yun.dreye.com",
+    "s": "Dreye",
+    "t": "dreye",
+    "u": "https://yun.dreye.com/dict_new/dict.php?w={{{s}}}"
+  },
+  {
+    "d": "www.django-rest-framework.org",
+    "s": "Django REST Framework",
+    "t": "drf",
+    "u": "http://www.django-rest-framework.org/?q={{{s}}}"
+  },
+  {
+    "d": "dribbble.com",
+    "s": "dribbble",
+    "t": "dribbble",
+    "u": "http://dribbble.com/search?q={{{s}}}"
+  },
+  {
+    "d": "dribbble.com",
+    "s": "dribbble",
+    "t": "dribble",
+    "u": "http://dribbble.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.drillsource.com",
+    "s": "Drill Source",
+    "t": "drill",
+    "u": "http://www.drillsource.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.drinkify.org",
+    "s": "Drinkify",
+    "t": "drinkify",
+    "u": "http://www.drinkify.org/{{{s}}}"
+  },
+  {
+    "d": "drive.google.com",
+    "s": "Google Drive",
+    "t": "drive",
+    "u": "https://drive.google.com/drive/search?q={{{s}}} "
+  },
+  {
+    "d": "drivetribe.com",
+    "s": "Drive Tribe",
+    "t": "drivetribe",
+    "u": "https://drivetribe.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.directlyrics.com",
+    "s": "Directlyrics",
+    "t": "drly",
+    "u": "http://www.directlyrics.com/search/?q=direct+lyrics&ie=utf-8&q={{{s}}}"
+  },
+  {
+    "d": "www.doctornerdlove.com",
+    "s": "Dr Nerdlove",
+    "t": "drnerdlove",
+    "u": "http://www.doctornerdlove.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.drom.ru",
+    "s": "drom.ru",
+    "t": "drom",
+    "u": "https://www.drom.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.dropbox.com",
+    "s": "Dropbox",
+    "t": "dropbox",
+    "u": "https://www.dropbox.com/search/personal?query={{{s}}}"
+  },
+  {
+    "d": "www.maildrop.cc",
+    "s": "MailDrop",
+    "t": "drop",
+    "u": "https://www.maildrop.cc/inbox/{{{s}}}"
+  },
+  {
+    "d": "dsn.dk",
+    "s": "Retskrivningsordbogen (dansk)",
+    "t": "dro",
+    "u": "https://dsn.dk/?retskriv={{{s}}}"
+  },
+  {
+    "d": "docs.rs",
+    "s": "Docs.rs - Documentation for Rust packages",
+    "t": "drs",
+    "u": "https://docs.rs/{{{s}}}"
+  },
+  {
+    "d": "www.dr.dk",
+    "s": "DR Tv",
+    "t": "drtv",
+    "u": "https://www.dr.dk/tv/soeg/{{{s}}}"
+  },
+  {
+    "d": "www.drudgereportarchives.com",
+    "s": "Drudge Report",
+    "t": "drudge",
+    "u": "http://www.drudgereportarchives.com/dsp/search.htm?searchFor={{{s}}}"
+  },
+  {
+    "d": "www.drugbank.ca",
+    "s": "drugbank.ca",
+    "t": "drugbank",
+    "u": "http://www.drugbank.ca/search?query={{{s}}} "
+  },
+  {
+    "d": "www.drugs.com",
+    "s": "Drugs.com",
+    "t": "drugs.com",
+    "u": "https://www.drugs.com/search.php?searchterm={{{s}}}"
+  },
+  {
+    "d": "www.drugs.com",
+    "s": "Drugs",
+    "t": "drugs",
+    "u": "http://www.drugs.com/search.php?&searchterm={{{s}}}"
+  },
+  {
+    "d": "api.drupal.org",
+    "s": "Drupal API",
+    "t": "drupalapi",
+    "u": "https://api.drupal.org/api/drupal/includes%21common.inc/function/{{{s}}}/7.x"
+  },
+  {
+    "d": "cgit.drupalcode.org",
+    "s": "drupalcode.org",
+    "t": "drupalcode",
+    "u": "https://cgit.drupalcode.org/{{{s}}}"
+  },
+  {
+    "d": "drupal.org",
+    "s": "Drupal",
+    "t": "drupal",
+    "u": "http://drupal.org/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "www.drupal.org",
+    "s": "Drupal modules repository",
+    "t": "drupmod",
+    "u": "https://www.drupal.org/project/project_module/token?f%5B0%5D=&f%5B1%5D=&f%5B2%5D=&f%5B3%5D=&f%5B4%5D=sm_field_project_type%3Afull&f%5B5%5D=&f%5B6%5D=&text={{{s}}}&solrsort=iss_project_release_usage+desc&op=Search"
+  },
+  {
+    "d": "drupal.org",
+    "s": "drupal",
+    "t": "drupp",
+    "u": "http://drupal.org/project/{{{s}}}"
+  },
+  {
+    "d": "drw-www.adw.uni-heidelberg.de",
+    "s": "Deutsches Rechtswörterbuch",
+    "t": "drw",
+    "u": "http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?term={{{s}}}&index=lemmata"
+  },
+  {
+    "d": "darksouls.wiki.fextralife.com",
+    "s": "Dark Souls Wiki",
+    "t": "ds1",
+    "u": "https://darksouls.wiki.fextralife.com/{{{s}}}"
+  },
+  {
+    "d": "darksouls2.wikidot.com",
+    "s": "Dark Souls 2 Wiki",
+    "t": "ds2w",
+    "u": "http://darksouls2.wikidot.com/search:site/q/{{{s}}}"
+  },
+  {
+    "d": "darksouls3.wikidot.com",
+    "s": "Dark Souls 3 Wiki",
+    "t": "ds3w",
+    "u": "http://darksouls3.wikidot.com/search:site/a/p/q/{{{s}}}"
+  },
+  {
+    "d": "www.ulisses-regelwiki.de",
+    "s": "DSA Regel Wiki",
+    "t": "dsarw",
+    "u": "http://www.ulisses-regelwiki.de/index.php/suche.html?keywords={{{s}}}"
+  },
+  {
+    "d": "wiki-aventurica.de",
+    "s": "Wiki Aventurica",
+    "t": "dsa",
+    "u": "http://wiki-aventurica.de/wiki/index.php?title=Spezial:Suche&search={{{s}}}"
+  },
+  {
+    "d": "snapshot.debian.org",
+    "s": "snapshot.debian.org",
+    "t": "dsbin",
+    "u": "http://snapshot.debian.org/binary/?bin={{{s}}}"
+  },
+  {
+    "d": "screenshots.debian.net",
+    "s": "Debian Screenshots",
+    "t": "dsc",
+    "u": "https://screenshots.debian.net/packages?utf8=✓&search={{{s}}}"
+  },
+  {
+    "d": "discordservers.com",
+    "s": "Discord Servers",
+    "t": "DscSrv",
+    "u": "https://discordservers.com/?term={{{s}}}"
+  },
+  {
+    "d": "www.denstoredanske.dk",
+    "s": "Den Store Danske",
+    "t": "dsd",
+    "u": "http://www.denstoredanske.dk/Special:Opslag?q={{{s}}}"
+  },
+  {
+    "d": "www.standaard.be",
+    "s": "De Standaard",
+    "t": "ds",
+    "u": "http://www.standaard.be/zoeken?keyword={{{s}}} "
+  },
+  {
+    "d": "www.datenschutz-wiki.de",
+    "s": "Datenschutz-Wiki.de",
+    "t": "dsgvo",
+    "u": "https://www.datenschutz-wiki.de/index.php?search={{{s}}}&ns3000=1"
+  },
+  {
+    "d": "dsmcz.com",
+    "s": "DSM Components",
+    "t": "dsmcz",
+    "u": "http://dsmcz.com/prestashop/en/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "d": "www.dsmrf.com",
+    "s": "The Des Moines Renaissance Faire",
+    "t": "dsmrf",
+    "u": "https://www.dsmrf.com/?s={{{s}}}"
+  },
+  {
+    "d": "dsn.dk",
+    "s": "Dansk Sprognævn",
+    "t": "dsn",
+    "u": "https://dsn.dk/?retskriv={{{s}}}&ae=0"
+  },
+  {
+    "d": "codesearch.debian.net",
+    "s": "Debian Code Search",
+    "t": "dsource",
+    "u": "https://codesearch.debian.net/search?q={{{s}}}"
+  },
+  {
+    "d": "dsp.stackexchange.com",
+    "s": "StackExchange Signal Processing",
+    "t": "dspse",
+    "u": "http://dsp.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Dota 2 subreddit",
+    "t": "dsr",
+    "u": "https://www.reddit.com/r/DotA2/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "d": "search.disroot.org",
+    "s": "Disroot Search",
+    "t": "dsrt",
+    "u": "https://search.disroot.org/?q={{{s}}}"
+  },
+  {
+    "d": "snapshot.debian.org",
+    "s": "snapshot.debian.org",
+    "t": "dssrc",
+    "u": "http://snapshot.debian.org/package/?src={{{s}}}"
+  },
+  {
+    "d": "dont-starve-game.wikia.com",
+    "s": "Don't Starve Wiki",
+    "t": "dstarve",
+    "u": "http://dont-starve-game.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "security-tracker.debian.org",
+    "s": "Debian Security Tracker",
+    "t": "dst",
+    "u": "https://security-tracker.debian.org/tracker/{{{s}}}"
+  },
+  {
+    "d": "www.d-seite.de",
+    "s": "D-Seite ",
+    "t": "dste",
+    "u": "https://www.d-seite.de/vis/vis.php?lemma={{{s}}}"
+  },
+  {
+    "d": "dejure.org",
+    "s": "StGB - dejure.org",
+    "t": "dstgb",
+    "u": "http://dejure.org/gesetze/StGB/{{{s}}}.html"
+  },
+  {
+    "d": "dontsweattherecipe.com",
+    "s": "Don't Sweat The Recipe",
+    "t": "dstr",
+    "u": "https://dontsweattherecipe.com/?s={{{s}}}"
+  },
+  {
+    "d": "dsv.su.se",
+    "s": "DSV SU",
+    "t": "dsv",
+    "u": "http://dsv.su.se/s%C3%B6k?q={{{s}}}"
+  },
+  {
+    "d": "darksouls.wikidot.com",
+    "s": "Dark Souls Wiki",
+    "t": "dsw",
+    "u": "http://darksouls.wikidot.com/search:site/q/{{{s}}}"
+  },
+  {
+    "d": "www.datenschutz-wiki.de",
+    "s": "Datenschutz-Wiki.de",
+    "t": "dswiki",
+    "u": "https://www.datenschutz-wiki.de/index.php?search={{{s}}}"
+  },
+  {
+    "d": "debtags.debian.net",
+    "s": "DebTags",
+    "t": "dtag",
+    "u": "http://debtags.debian.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.joindiaspora.com",
+    "s": "Diaspora*",
+    "t": "dtags",
+    "u": "https://www.joindiaspora.com/tags/{{{s}}}"
+  },
+  {
+    "d": "danstonchat.com",
+    "s": "DansTonChat",
+    "t": "dtc",
+    "u": "http://danstonchat.com/search.html?search= {{{s}}}"
+  },
+  {
+    "d": "www.doubletakedeals.com",
+    "s": "DoubleTakeDeals",
+    "t": "dtdeals",
+    "u": "http://www.doubletakedeals.com/searchresults?srch={{{s}}}"
+  },
+  {
+    "d": "deskthority.net",
+    "s": "Deskthority Wiki",
+    "t": "dt",
+    "u": "https://deskthority.net/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.joindiaspora.com",
+    "s": "Diaspora*",
+    "t": "d*t",
+    "u": "https://www.joindiaspora.com/tags/{{{s}}} "
+  },
+  {
+    "d": "translate.reference.com",
+    "s": "EN to SPA | Dictionary.com",
+    "t": "dtes",
+    "u": "http://translate.reference.com/english/spanish/{{{s}}}/"
+  },
+  {
+    "d": "www.data.gouv.fr",
+    "s": "data.gouv.fr",
+    "t": "dtg",
+    "u": "https://www.data.gouv.fr/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.thefreedictionary.com",
+    "s": "The Free Dictionary",
+    "t": "d",
+    "u": "http://www.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "d": "deskthority.net",
+    "s": "Deskthority Wiki",
+    "t": "dthority",
+    "u": "http://deskthority.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.discoverthenetworks.org",
+    "s": "Discover the Networks",
+    "t": "dtn",
+    "u": "http://www.discoverthenetworks.org/search/?q={{{s}}}&cof=FORID%3A11&cx=013255222075609514560%3Avfcebs4vcuo"
+  },
+  {
+    "d": "tracker.debian.org",
+    "s": "Debian Package Tracker",
+    "t": "dtr",
+    "u": "https://tracker.debian.org/pkg/{{{s}}}"
+  },
+  {
+    "d": "www.drivethrurpg.com",
+    "s": "DriveThruRPG",
+    "t": "dtrpg",
+    "u": "https://www.drivethrurpg.com/browse.php?keywords={{{s}}}"
+  },
+  {
+    "d": "d.tube",
+    "s": "DTube",
+    "t": "dtube",
+    "u": "https://d.tube/#!/s/{{{s}}}"
+  },
+  {
+    "d": "deskthority.net",
+    "s": "Deskthority Wiki",
+    "t": "dtwiki",
+    "u": "https://deskthority.net/wiki/{{{s}}}"
+  },
+  {
+    "d": "board.dualthegame.com",
+    "s": "Dual Universe Forums",
+    "t": "dualb",
+    "u": "https://board.dualthegame.com/index.php?/search/&q={{{s}}}"
+  },
+  {
+    "d": "code.dlang.org",
+    "s": "Dub Package Registry",
+    "t": "dub",
+    "u": "http://code.dlang.org/search?q={{{s}}}"
+  },
+  {
+    "d": "dubai.dubizzle.com",
+    "s": "dubizzle.com",
+    "t": "dubizzle",
+    "u": "http://dubai.dubizzle.com/search/?keywords={{{s}}}&is_basic_search_widget=1&is_search=1"
+  },
+  {
+    "d": "find.library.duke.edu",
+    "s": "Duke University Catalog",
+    "t": "duc",
+    "u": "https://find.library.duke.edu/?search_field=all_fields&q={{{s}}}"
+  },
+  {
+    "d": "www.duckduckgo.com",
+    "s": "Duck.ai",
+    "t": "duckai",
+    "u": "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true "
+  },
+  {
+    "d": "duck.co",
+    "s": "duck.co",
+    "t": "duck.co",
+    "u": "https://duck.co/search/{{{s}}}"
+  },
+  {
+    "d": "duck.co",
+    "s": "The DuckDuckGo Community",
+    "t": "duckco",
+    "u": "https://duck.co/search/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "duckduckgo",
+    "u": "https://duckduckgo.com/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Duck Duck Go Español",
+    "t": "duckgoes",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-1&k5=1&kah=wt-wt&kl=xl-es&kad=es_ES"
+  },
+  {
+    "d": "help.appducx.com",
+    "s": "Fabasoft app.ducx Help",
+    "t": "ducx",
+    "u": "http://help.appducx.com/index.php?topic=doc/Search-Result/index_en.htm&q={{{s}}}"
+  },
+  {
+    "d": "www.duden.de",
+    "s": "Duden",
+    "t": "duden",
+    "u": "http://www.duden.de/suchen/dudenonline/{{{s}}}"
+  },
+  {
+    "d": "www.duedil.com",
+    "s": "Duedil",
+    "t": "duedil",
+    "u": "https://www.duedil.com/companies/search?query={{{s}}}&op=Companies"
+  },
+  {
+    "d": "duet3d.dozuki.com",
+    "s": "Duet3D Documentation",
+    "t": "duet",
+    "u": "https://duet3d.dozuki.com/Search?query={{{s}}}"
+  },
+  {
+    "d": "www.dotabuff.com",
+    "s": "DOTABUFF",
+    "t": "duff",
+    "u": "http://www.dotabuff.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo UK",
+    "t": "duk",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kah=uk-en&kl=uk-en&ia=web"
+  },
+  {
+    "d": "library.duke.edu",
+    "s": "Duke University Libraries",
+    "t": "dul",
+    "u": "http://library.duke.edu/find/all?Ntt={{{s}}} "
+  },
+  {
+    "d": "www.duluxdecoratorcentre.co.uk",
+    "s": "Dulux Decorator Centre",
+    "t": "duluxdc",
+    "u": "http://www.duluxdecoratorcentre.co.uk/servlet/SiteAdvancedSearchHandler?searchString={{{s}}}"
+  },
+  {
+    "d": "www.dulux.co.uk",
+    "s": "Dulux UK",
+    "t": "duluxuk",
+    "u": "https://www.dulux.co.uk/en/search?s={{{s}}}"
+  },
+  {
+    "d": "www.dummies.com",
+    "s": "dummies.com",
+    "t": "dummies",
+    "u": "https://www.dummies.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.dummies.com",
+    "s": "http://www.dummies.com/search.html?query=cisc",
+    "t": "dummi",
+    "u": "http://www.dummies.com/search.html?query={{{s}}}"
+  },
+  {
+    "d": "www.dumpert.nl",
+    "s": "Dumpert",
+    "t": "dumpert",
+    "u": "http://www.dumpert.nl/tag/{{{s}}}/"
+  },
+  {
+    "d": "dejure.org",
+    "s": "Dejure.org ",
+    "t": "durhg",
+    "u": "http://dejure.org/cgi-bin/suche?Suchenach={{{s}}}"
+  },
+  {
+    "d": "kulturkaufhaus.buchhandlung.de",
+    "s": "Dussmann das Kulturkaufhaus",
+    "t": "duss",
+    "u": "https://kulturkaufhaus.buchhandlung.de/shop/quickSearch?searchString={{{s}}}"
+  },
+  {
+    "d": "www.dustin.se",
+    "s": "Dustin.se",
+    "t": "dustin",
+    "u": "https://www.dustin.se/search/{{{s}}}"
+  },
+  {
+    "d": "www.dustloop.com",
+    "s": "Dustloop Wiki",
+    "t": "dustloop",
+    "u": "http://www.dustloop.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "duunitori.fi",
+    "s": "Duunitori",
+    "t": "duunitori",
+    "u": "https://duunitori.fi/tyopaikat/?haku={{{s}}}"
+  },
+  {
+    "d": "www.dv247.com",
+    "s": "DV247",
+    "t": "dv247",
+    "u": "http://www.dv247.com/search/0/0/Relevance/Descending/{{{s}}}/1/"
+  },
+  {
+    "d": "m.dvb.de",
+    "s": "DVB",
+    "t": "dvb",
+    "u": "https://m.dvb.de/de/verbindungsauskunft/verbindungen.do?vaform%5Bstartname%5D={{{s}}}"
+  },
+  {
+    "d": "www.dvdfr.com",
+    "s": "DVDFr",
+    "t": "dvdfr",
+    "u": "http://www.dvdfr.com/search/search.php?produit=all&title={{{s}}}"
+  },
+  {
+    "d": "www.ikonet.com",
+    "s": "Dictionnaire visuel",
+    "t": "dv",
+    "u": "http://www.ikonet.com/fr/ledictionnairevisuel/static/qc/searchresults?cx=partner-pub-7156007925185226%3Atd1ipa-ejn8&cof=FORID%3A9&ie=UTF-8&q={{{s}}}&siteurl=www.ikonet.com%2Ffr%2Fledictionnairevisuel%2F&ref=www.ikonet.com%2Ffr%2Fledictionnairevisuel%2Fstatic%2Fqc%2Fsearchresults%3Fcx%3Dpartner-pub-7156007925185226%253Atd1ipa-ejn8%26cof%3DFORID%253A9%26ie%3DUTF-8%26q%3Dfraise%26siteurl%3Dwww.ikonet.com%252Ffr%252Fledictionnairevisuel%252Fstatic%252Fqc%252Fvisuel%26ref%3D%26ss%3D607j79921j6&ss=648j91840j6"
+  },
+  {
+    "d": "www.dvdupc.com",
+    "s": "Disc to Digital UPC",
+    "t": "dvdupc",
+    "u": "https://www.dvdupc.com/find?find={{{s}}}"
+  },
+  {
+    "d": "www.developpez.com",
+    "s": "developpez.com",
+    "t": "dvlp",
+    "u": "http://www.developpez.com/recherche/?q={{{s}}}&sa.x=-1376&sa.y=-2&cx=006424388311999799839%3A-31tnf0iuqy&cof=FORID%3A9&ie=ISO-8859-1&siteurl=www.developpez.com%2F%3Fq%3Dmicrosoft&ref=&ss=1463j290467j10"
+  },
+  {
+    "d": "www.developpez.com",
+    "s": "Developpez.com",
+    "t": "dvp",
+    "u": "http://www.developpez.com/recherche/?cx=006424388311999799839%3A-31tnf0iuqy&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}&sa=Rechercher"
+  },
+  {
+    "d": "xboxdvr.com",
+    "s": "Xbox DVR",
+    "t": "dvr",
+    "u": "http://xboxdvr.com/gamer/{{{s}}}"
+  },
+  {
+    "d": "dwarffortresswiki.org",
+    "s": "dwarf fortress wiki",
+    "t": "dwarf",
+    "u": "http://dwarffortresswiki.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "woerterbuchnetz.de",
+    "s": "Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm",
+    "t": "dwb",
+    "u": "http://woerterbuchnetz.de/DWB/?lemma={{{s}}}"
+  },
+  {
+    "d": "www.dwd.de",
+    "s": "Deutscher Wetterdienst (WarnWetter)",
+    "t": "dwd",
+    "u": "https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html?ort={{{s}}}"
+  },
+  {
+    "d": "www.dwdl.de",
+    "s": "DWDL",
+    "t": "dwdl",
+    "u": "http://www.dwdl.de/features/suche/?suche={{{s}}} "
+  },
+  {
+    "d": "wiki.d-addicts.com",
+    "s": "DramaWiki",
+    "t": "dw",
+    "u": "https://wiki.d-addicts.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.dwds.de",
+    "s": "DWDS",
+    "t": "dwds",
+    "u": "http://www.dwds.de/?qu={{{s}}}"
+  },
+  {
+    "d": "www.dw.com",
+    "s": "DW - Actualidad en español",
+    "t": "dwe",
+    "u": "http://www.dw.com/search/es?languageCode=es&item={{{s}}}"
+  },
+  {
+    "d": "www.dwell.com",
+    "s": "Dwell",
+    "t": "dwell",
+    "u": "https://www.dwell.com/query/{{{s}}}"
+  },
+  {
+    "d": "daviswiki.org",
+    "s": "DavisWiki",
+    "t": "dwiki",
+    "u": "https://daviswiki.org/_rsearch/?q={{{s}}}"
+  },
+  {
+    "d": "dark-world.ru",
+    "s": "Dark-World.ru",
+    "t": "dwru",
+    "u": "http://dark-world.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "tardis.wikia.com",
+    "s": "The Doctor Who Wiki",
+    "t": "dww",
+    "u": "http://tardis.wikia.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.dx.com",
+    "s": "DealExtreme",
+    "t": "dx",
+    "u": "http://www.dx.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.dictionary.com",
+    "s": "Dictionary.com",
+    "t": "dxn",
+    "u": "http://www.dictionary.com/browse/{{{s}}}?s=ts"
+  },
+  {
+    "d": "www.dxomark.com",
+    "s": "dxomark.com",
+    "t": "dxo",
+    "u": "http://www.dxomark.com/content/search/?SearchText={{{s}}} "
+  },
+  {
+    "d": "dxr.mozilla.org",
+    "s": "Mozilla DXR Code Search",
+    "t": "dxr",
+    "u": "https://dxr.mozilla.org/mozilla-central/search?q={{{s}}}"
+  },
+  {
+    "d": "www.dymocks.com.au",
+    "s": "Dymocks Booksellers",
+    "t": "dymocks",
+    "u": "https://www.dymocks.com.au/books/?term={{{s}}}"
+  },
+  {
+    "d": "www.dr.loudness-war.info",
+    "s": "Dynamic Range Database (album)",
+    "t": "dynamicrangea",
+    "u": "http://www.dr.loudness-war.info/index.php?search_album={{{s}}}"
+  },
+  {
+    "d": "www.dr.loudness-war.info",
+    "s": "Dynamic Range Database",
+    "t": "dynamicrange",
+    "u": "http://www.dr.loudness-war.info/index.php?search_artist={{{s}}}"
+  },
+  {
+    "d": "dynamite.com",
+    "s": "Dynamite Entertainment",
+    "t": "dynamite",
+    "u": "http://dynamite.com/htmlfiles/search2.html?0=19&next0=&KMPZ={{{s}}}"
+  },
+  {
+    "d": "dynasty-scans.com",
+    "s": "Dynasty Reader",
+    "t": "dyn",
+    "u": "https://dynasty-scans.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.deezer.com",
+    "s": "Deezer",
+    "t": "dz",
+    "u": "https://www.deezer.com/search/{{{s}}}"
+  }
+]

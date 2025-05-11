@@ -1,0 +1,1652 @@
+[
+  {
+    "d": "www.urgente24.com",
+    "s": "Urgente24",
+    "t": "u24",
+    "u": "http://www.urgente24.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.uaar.it",
+    "s": "UAAR",
+    "t": "uaar",
+    "u": "http://www.uaar.it/news/?s={{{s}}}"
+  },
+  {
+    "d": "uappexplorer.com",
+    "s": "uApp Explorer",
+    "t": "uappex",
+    "u": "https://uappexplorer.com/apps?q={{{s}}}&sort=relevance"
+  },
+  {
+    "d": "apps.ubuntu.com",
+    "s": "Ubuntu Apps Directory",
+    "t": "uapps",
+    "u": "https://apps.ubuntu.com/cat/search/?q={{{s}}}"
+  },
+  {
+    "d": "ubc.summon.serialssolutions.com",
+    "s": "University of British Columbia Library",
+    "t": "ubclib",
+    "u": "http://ubc.summon.serialssolutions.com/search?s.cmd=addFacetValueFilters%28ContentType%2CNewspaper+Article%3At%29&spellcheck=true&s.q={{{s}}}"
+  },
+  {
+    "d": "www.ubergizmo.com",
+    "s": "ubergizmo",
+    "t": "ubergizmo",
+    "u": "http://www.ubergizmo.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "wiki.uberspace.de",
+    "s": "Uberspace-Wiki",
+    "t": "uberspace",
+    "u": "https://wiki.uberspace.de/start?do=search&id={{{s}}}"
+  },
+  {
+    "d": "katalog.ub.uni-freiburg.de",
+    "s": "Universitätsbibliothek Freiburg",
+    "t": "ubfr",
+    "u": "https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Search?lookfor={{{s}}}&source=homepage"
+  },
+  {
+    "d": "gu-se-primo.hosted.exlibrisgroup.com",
+    "s": "Göteborgs universitetsbibliotek / University of Gothenburg library",
+    "t": "ub",
+    "u": "https://gu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=46GUB_VU1&lang=sv_SE&offset=0"
+  },
+  {
+    "d": "www.ub.uni-heidelberg.de",
+    "s": "Universitätsbibliothek Heidelberg",
+    "t": "ubhd",
+    "u": "http://www.ub.uni-heidelberg.de/suche/suche.html?cx=009778813800417314295%3Af3s5sfjqeck&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Suche"
+  },
+  {
+    "d": "beluga.sub.uni-hamburg.de",
+    "s": "Beluga Uni Hamburg",
+    "t": "ubhh",
+    "u": "https://beluga.sub.uni-hamburg.de/vufind/Search/Results?lookfor={{{s}}}&submitForm=Suchen&library=BELUGA_ALL"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ubuntu.hu",
+    "t": "ubhu",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:ubuntu.hu"
+  },
+  {
+    "d": "www.youbehero.com",
+    "s": "YouBeHero",
+    "t": "ubh",
+    "u": "https://www.youbehero.com/gr/search/causes?loose_type=1&term={{{s}}}"
+  },
+  {
+    "d": "community.ubnt.com",
+    "s": "Ubiquiti Forums",
+    "t": "ubiquiti",
+    "u": "https://community.ubnt.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "d": "hds.hebis.de",
+    "s": "Universitätsbibliothek Mainz",
+    "t": "ubjgu",
+    "u": "https://hds.hebis.de/ubmz/Search/Results?lookfor={{{s}}}&trackSearchEvent=Einfache+Suche&type=allfields&search=new&submit=Suchen"
+  },
+  {
+    "d": "hds.hebis.de",
+    "s": "Universitätsbibliothek Kassel",
+    "t": "ubks",
+    "u": "https://hds.hebis.de/ubks/Discover/EBSCO?lookfor={{{s}}} "
+  },
+  {
+    "d": "katalog.ub.uni-leipzig.de",
+    "s": "Universitätsbibliothek Leipzig",
+    "t": "ubl",
+    "u": "https://katalog.ub.uni-leipzig.de/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "d": "ubottu.com",
+    "s": "Ubottu.com",
+    "t": "ubottu",
+    "u": "http://ubottu.com/factoids.cgi?search={{{s}}}"
+  },
+  {
+    "d": "rds-tue.ibs-bw.de",
+    "s": "Universitätsbibliothek Tübingen",
+    "t": "ubt",
+    "u": "https://rds-tue.ibs-bw.de/opac/RDSIndex/Search?lookfor={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "https://www.ubuntu-fr.org/",
+    "t": "ubufr",
+    "u": "https://duckduckgo.com/?q=site%3Aubuntu-fr.org+{{{s}}}&ia=web"
+  },
+  {
+    "d": "forum.ubuntu.org.cn",
+    "s": "Ubuntu China Forum",
+    "t": "ubuntuchina",
+    "u": "https://forum.ubuntu.org.cn/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "ubuntuforums.org",
+    "s": "Ubuntu Forums",
+    "t": "ubuntuforums",
+    "u": "http://ubuntuforums.org/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "d": "www.google.fr",
+    "s": "ubuntu-fr",
+    "t": "ubuntufr",
+    "u": "https://www.google.fr/search?q={{{s}}}+site%3Aubuntu-fr.org&gws_rd=ssl"
+  },
+  {
+    "d": "ubuntuforums.org",
+    "s": "Ubuntu Forums",
+    "t": "ubuntuf",
+    "u": "http://ubuntuforums.org/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "d": "packages.ubuntu.com",
+    "s": "Ubuntu Packages",
+    "t": "ubuntupack",
+    "u": "http://packages.ubuntu.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "forum.ubuntu-tr.net",
+    "s": "Ubuntu Türkiye",
+    "t": "ubuntutr",
+    "u": "http://forum.ubuntu-tr.net/index.php?action=search;q={{{s}}}"
+  },
+  {
+    "d": "www.ubuntu.com",
+    "s": "Ubuntu",
+    "t": "ubuntu",
+    "u": "https://www.ubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "ubuntuusers.de",
+    "s": "Ubuntuusers",
+    "t": "ubuntuusers",
+    "u": "http://ubuntuusers.de/search/?query={{{s}}}&area=all"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ubuntuusers Wiki",
+    "t": "ubuntuwikide",
+    "u": "http://duckduckgo.com/?q=site%3Awiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "d": "search.freefind.com",
+    "s": "UbuWeb",
+    "t": "ubu",
+    "u": "http://search.freefind.com/find.html?si=61902956&pid=r&n=0&_charset_=UTF-8&bcd=%C3%B7&query={{{s}}}"
+  },
+  {
+    "d": "www.ucdavis.edu",
+    "s": "UC Davis",
+    "t": "ucd",
+    "u": "https://www.ucdavis.edu/search/google/{{{s}}}"
+  },
+  {
+    "d": "search.ucern.com",
+    "s": "uCern",
+    "t": "ucern",
+    "u": "https://search.ucern.com/search?cp=connect&q={{{s}}}"
+  },
+  {
+    "d": "search.ucf.edu",
+    "s": "University of Central Florida",
+    "t": "ucfl",
+    "u": "https://search.ucf.edu/#?q={{{s}}}"
+  },
+  {
+    "d": "www.mclean.net.nz",
+    "s": "Unicode Character Finder",
+    "t": "ucf",
+    "u": "http://www.mclean.net.nz/ucf/?q={{{s}}}"
+  },
+  {
+    "d": "u.gg",
+    "s": "U.GG",
+    "t": "uchamp",
+    "u": "https://u.gg/lol/champions/{{{s}}}"
+  },
+  {
+    "d": "catalog.lib.uchicago.edu",
+    "s": "University of Chicago Library Catalog",
+    "t": "uchi",
+    "u": "https://catalog.lib.uchicago.edu/vufind/Search/Results?lookfor={{{s}}} &type=AllFields"
+  },
+  {
+    "d": "www.uci.org",
+    "s": "Union Cycliste Internationale",
+    "t": "uci",
+    "u": "https://www.uci.org/search?q={{{s}}}"
+  },
+  {
+    "d": "ucl-new-primo.hosted.exlibrisgroup.com",
+    "s": "UCL Library",
+    "t": "ucllib",
+    "u": "https://ucl-new-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&offset=0&tab=local&vid=UCL_VU2&search_scope=CSCOP_UCL"
+  },
+  {
+    "d": "search2.ucl.ac.uk",
+    "s": "UCL",
+    "t": "ucl",
+    "u": "https://search2.ucl.ac.uk/s/search.html?query={{{s}}}&collection=website-meta&profile=_website&tab=websites&submit=Go"
+  },
+  {
+    "d": "ja.uncyc.org",
+    "s": "Uncyclopedia",
+    "t": "ucpjp",
+    "u": "http://ja.uncyc.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.genome.ucsc.edu",
+    "s": "https://www.genome.ucsc.edu",
+    "t": "ucscgb",
+    "u": "http://www.genome.ucsc.edu/cgi-bin/hgTracks?hgsid=592541357_hq8TArn5c0CoLwcXM3n3eZOaR8ZC&org=Human&db=hg38&position={{{s}}}&pix=800"
+  },
+  {
+    "d": "unicode-table.com",
+    "s": "unicode-table.com",
+    "t": "uct",
+    "u": "http://unicode-table.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "catalog.lib.uchicago.edu",
+    "s": "University of Chicago Library Catalog",
+    "t": "uc",
+    "u": "https://catalog.lib.uchicago.edu/vufind/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "d": "vancouverunitarians.ca",
+    "s": "Vancouver Unitarians",
+    "t": "ucv",
+    "u": "http://vancouverunitarians.ca/?s={{{s}}}"
+  },
+  {
+    "d": "www.udemy.com",
+    "s": "Udemy",
+    "t": "udemy",
+    "u": "https://www.udemy.com/courses/search/?q={{{s}}}"
+  },
+  {
+    "d": "developer.ubuntu.com",
+    "s": "Ubuntu Developer",
+    "t": "udev",
+    "u": "https://developer.ubuntu.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.urbandictionary.com",
+    "s": "Urban Dictionary",
+    "t": "ud",
+    "u": "https://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "d": "docs.unrealengine.com",
+    "s": "Unreal Engine Documentation",
+    "t": "ue4docs",
+    "u": "https://docs.unrealengine.com/en-us/Search-Results?Search={{{s}}}"
+  },
+  {
+    "d": "answers.unrealengine.com",
+    "s": "Unreal Engine 4 Answerhub",
+    "t": "uea",
+    "u": "https://answers.unrealengine.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "uem.blackboard.com",
+    "s": "Blackboard UEM",
+    "t": "uembb",
+    "u": "https://uem.blackboard.com/{{{s}}}"
+  },
+  {
+    "d": "en.uesp.net",
+    "s": "The Unofficial Elder Scrolls Pages",
+    "t": "uesp",
+    "u": "http://en.uesp.net/w/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "ufc.com",
+    "s": "Ultimate Fighting Championship",
+    "t": "ufc",
+    "u": "https://ufc.com/search?search={{{s}}}&sort_by=created"
+  },
+  {
+    "d": "ufind.univie.ac.at",
+    "s": "u:find - Universität Wien",
+    "t": "ufind",
+    "u": "https://ufind.univie.ac.at/de/search.html?filter=all&query={{{s}}}"
+  },
+  {
+    "d": "www.ufret.jp",
+    "s": "U-フレット",
+    "t": "ufret",
+    "u": "http://www.ufret.jp/search.php?key={{{s}}}"
+  },
+  {
+    "d": "www.ufrj.br",
+    "s": "Universidade Federal do Rio de Janeiro",
+    "t": "ufrj",
+    "u": "http://www.ufrj.br/buscagoogle2.php?ie=utf-8&oe=utf-8&cx=001879131226118048161%3Ac12ayzh7sok&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "d": "u.gg",
+    "s": "U.GG",
+    "t": "ugg",
+    "u": "https://u.gg/opensearch/?query={{{s}}}"
+  },
+  {
+    "d": "u.gg",
+    "s": "u.gg",
+    "t": "u.gg",
+    "u": "https://u.gg/opensearch/?query={{{s}}}"
+  },
+  {
+    "d": "www.ugodecoracion.com",
+    "s": "UGO decoración",
+    "t": "ugo",
+    "u": "http://www.ugodecoracion.com/buscar?controller=search&orderby=position&orderway=desc&search-cat-select=0&search_query={{{s}}}&submit_search="
+  },
+  {
+    "d": "www.ugr.es",
+    "s": "Universidad de Granada",
+    "t": "ugr",
+    "u": "http://www.ugr.es/pages/search?query={{{s}}}"
+  },
+  {
+    "d": "www.ultimate-guitar.com",
+    "s": "Ultimate Guitar",
+    "t": "ug",
+    "u": "https://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "d": "www.uhasselt.be",
+    "s": "uHasselt",
+    "t": "uh",
+    "u": "https://www.uhasselt.be/google-search?q={{{s}}}"
+  },
+  {
+    "d": "uiba.co",
+    "s": "Uiba",
+    "t": "uiba",
+    "u": "http://uiba.co/?s={{{s}}}"
+  },
+  {
+    "d": "ordbok.uib.no",
+    "s": "Bokmålsordboka og Nynorskordboka",
+    "t": "uib",
+    "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge"
+  },
+  {
+    "d": "www.ultralingua.com",
+    "s": "Ultralingua",
+    "t": "uif",
+    "u": "http://www.ultralingua.com/onlinedictionary/dictionary#src_lang=Italian&dest_lang=French&query={{{s}}}"
+  },
+  {
+    "d": "www.uio.no",
+    "s": "UiO emnesøk",
+    "t": "uio",
+    "u": "https://www.uio.no/studier/emner/?course-query={{{s}}}&vrtx=search&searchMode=emne"
+  },
+  {
+    "d": "www.uitinvlaanderen.be",
+    "s": "UIT in Vlaanderen",
+    "t": "uitinv",
+    "u": "http://www.uitinvlaanderen.be/agenda/search?query={{{s}}}"
+  },
+  {
+    "d": "www.uitmuntend.de",
+    "s": "Uitmuntend",
+    "t": "uitm",
+    "u": "http://www.uitmuntend.de/woerterbuch/{{{s}}}/"
+  },
+  {
+    "d": "www.uitmuntend.de",
+    "s": "Uitmuntend",
+    "t": "uit",
+    "u": "http://www.uitmuntend.de/search.html?search={{{s}}}"
+  },
+  {
+    "d": "www.ujaen.es",
+    "s": "Universidad de Jaén",
+    "t": "uja",
+    "u": "https://www.ujaen.es/search?s={{{s}}}"
+  },
+  {
+    "d": "prirucka.ujc.cas.cz",
+    "s": "Internetová jazyková příručka",
+    "t": "ujc",
+    "u": "http://prirucka.ujc.cas.cz/?slovo={{{s}}}&Hledej=Hledej"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "UK Appstore",
+    "t": "ukappstore",
+    "u": "https://duckduckgo.com/?q=site%3Aapps.apple.com%2Fgb%2Fapp%2F+{{{s}}}"
+  },
+  {
+    "d": "ukcsgo.com",
+    "s": "UKCSGO",
+    "t": "ukcsgo",
+    "u": "http://ukcsgo.com/forums/search/{{{s}}}/"
+  },
+  {
+    "d": "www.ukulele-tabs.com",
+    "s": "Ukulele Tabs",
+    "t": "uketabs",
+    "u": "https://www.ukulele-tabs.com/search-uke-chords.html?find={{{s}}}"
+  },
+  {
+    "d": "keyserver.ubuntu.com",
+    "s": "Ubuntu keyserver",
+    "t": "ukeys",
+    "u": "https://keyserver.ubuntu.com/pks/lookup?search={{{s}}}&fingerprint=on&hash=on&op=vindex"
+  },
+  {
+    "d": "petition.parliament.uk",
+    "s": "Petitions UK Government and Parliament",
+    "t": "ukgovpeti",
+    "u": "https://petition.parliament.uk/petitions?q={{{s}}}"
+  },
+  {
+    "d": "gridreferencefinder.com",
+    "s": "UK Grid Reference",
+    "t": "ukgr",
+    "u": "https://gridreferencefinder.com/bing.php?gr={{{s}}}"
+  },
+  {
+    "d": "ukikipedia.net",
+    "s": "Ukikipedia",
+    "t": "ukiki",
+    "u": "https://ukikipedia.net/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.legislation.gov.uk",
+    "s": "UK Legislation (Official Archive)",
+    "t": "uklaw",
+    "u": "http://www.legislation.gov.uk/all?title={{{s}}}"
+  },
+  {
+    "d": "www.uni-konstanz.de",
+    "s": "University of Konstanz",
+    "t": "ukn",
+    "u": "https://www.uni-konstanz.de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.parliament.uk",
+    "s": "UK Parliament (Official Site)",
+    "t": "ukparl",
+    "u": "http://www.parliament.uk/search/results/?q={{{s}}}"
+  },
+  {
+    "d": "uk.pcpartpicker.com",
+    "s": "uk.pcpartpicker.com",
+    "t": "ukppp",
+    "u": "https://uk.pcpartpicker.com/search/?cc=uk&q={{{s}}}"
+  },
+  {
+    "d": "www.parliament.uk",
+    "s": "UK Parliament",
+    "t": "ukp",
+    "u": "http://www.parliament.uk/search/results/?q={{{s}}}"
+  },
+  {
+    "d": "ukutabs.com",
+    "s": "Ukutabs",
+    "t": "uku",
+    "u": "https://ukutabs.com/?s={{{s}}}"
+  },
+  {
+    "d": "uk.wikipedia.org",
+    "s": "Ukrainian Wikipedia",
+    "t": "ukwiki",
+    "u": "https://uk.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.ulabox.com",
+    "s": "Ulabox",
+    "t": "ulabox",
+    "u": "https://www.ulabox.com/busca?q={{{s}}}"
+  },
+  {
+    "d": "cibleplus.ulb.ac.be",
+    "s": "Bibliothèques de l'Université Libre de Bruxelles",
+    "t": "ulb",
+    "u": "https://cibleplus.ulb.ac.be/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=32ULB_VU1&lang=fr_FR&offset=0"
+  },
+  {
+    "d": "hds.hebis.de",
+    "s": "ULB TU Darmstadt",
+    "t": "ulbda",
+    "u": "https://hds.hebis.de/ulbda/Search/Results?lookfor= {{{s}}}&service=catalog"
+  },
+  {
+    "d": "katalog.ulb.hhu.de",
+    "s": " Universitätsbibliothek Düsseldorf",
+    "t": "ulbd",
+    "u": "https://katalog.ulb.hhu.de/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "d": "hds.hebis.de",
+    "s": "Landesbibliothek Hessen/ULB Darmstadt",
+    "t": "ulbh",
+    "u": "https://hds.hebis.de/ulbda/Search/Results?lookfor={{{s}}}&service=catalog"
+  },
+  {
+    "d": "www.uline.com",
+    "s": "Uline",
+    "t": "uline",
+    "u": "https://www.uline.com/Product/AdvSearchResult?keywords={{{s}}}"
+  },
+  {
+    "d": "www.ulta.com",
+    "s": "Ulta",
+    "t": "ulta",
+    "u": "http://www.ulta.com/ulta/a/_/Ntt-{{{s}}}/Nty-1?Dy=1&ciSelector=searchResults"
+  },
+  {
+    "d": "www.ultimate-guitar.com",
+    "s": "Ultimate Guitar",
+    "t": "ultimate-guitar",
+    "u": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "d": "www.ultimate-guitar.com",
+    "s": "Ultimate Guitar",
+    "t": "ultimateguitar",
+    "u": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "d": "ultrastar-es.org",
+    "s": "Ultrastar Espana",
+    "t": "ultrastares",
+    "u": "http://ultrastar-es.org/en/canciones?busqueda={{{s}}}"
+  },
+  {
+    "d": "www.uludagsozluk.com",
+    "s": "uludağ sözlük",
+    "t": "uludagsozluk",
+    "u": "http://www.uludagsozluk.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.ulule.com",
+    "s": "Ulule",
+    "t": "ul",
+    "u": "https://www.ulule.com/discover/?q={{{s}}}"
+  },
+  {
+    "d": "um3bd.free.fr",
+    "s": "http://um3bd.free.fr",
+    "t": "um3bd",
+    "u": "http://um3bd.free.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.youmagine.com",
+    "s": "YouMagine",
+    "t": "umagine",
+    "u": "https://www.youmagine.com/search/designs?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "d": "manpages.ubuntu.com",
+    "s": "Ubuntu Manpage",
+    "t": "uman",
+    "u": "https://manpages.ubuntu.com/cgi-bin/search.py?q={{{s}}}"
+  },
+  {
+    "d": "www.umassd.edu",
+    "s": "University of Massachusetts Dartmouth",
+    "t": "umassd",
+    "u": "https://www.umassd.edu/universitysearch/?q={{{s}}}"
+  },
+  {
+    "d": "www.umass.edu",
+    "s": "UMass Amherst",
+    "t": "umass",
+    "u": "https://www.umass.edu/search/#stq={{{s}}}&stp=1"
+  },
+  {
+    "d": "www.umb.edu",
+    "s": "UMass Boston",
+    "t": "umb",
+    "u": "https://www.umb.edu/search?cx=001225130692263366863%3Auxj4oosyzxy&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "d": "www.searchum.umd.edu",
+    "s": "University of Maryland",
+    "t": "umd",
+    "u": "http://www.searchum.umd.edu/search?site=UMCP&client=UMCP&proxystylesheet=UMCP&output=xml_no_dtd&q={{{s}}}"
+  },
+  {
+    "d": "search.unimelb.edu.au",
+    "s": "University of Melbourne",
+    "t": "umelb",
+    "u": "https://search.unimelb.edu.au/?q={{{s}}}"
+  },
+  {
+    "d": "umich.edu",
+    "s": "University of Michigan",
+    "t": "umich",
+    "u": "http://umich.edu/search/keywords/{{{s}}}/"
+  },
+  {
+    "d": "opac.bu.umk.pl",
+    "s": "Biblioteka UMK",
+    "t": "umk",
+    "u": "http://opac.bu.umk.pl/webpac-bin/B_horizonPL/wgbroker.exe?new+-access+top+search+open+CI+{{{s}}}"
+  },
+  {
+    "d": "primo-pmtna01.hosted.exlibrisgroup.com",
+    "s": "University of Manitoba Library",
+    "t": "uml",
+    "u": "https://primo-pmtna01.hosted.exlibrisgroup.com/primo-explore/search?institution=UMB&vid=UMB&tab=default_tab&search_scope=UManitoba&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,{{{s}}}&displayField=all&pcAvailabiltyMode=true&sortby=rank&lang=en_US"
+  },
+  {
+    "d": "search.umn.edu",
+    "s": "University of Minnesota",
+    "t": "umn",
+    "u": "https://search.umn.edu/tc/index.php?q={{{s}}} "
+  },
+  {
+    "d": "www.umart.com.au",
+    "s": "Umart Online",
+    "t": "umo",
+    "u": "http://www.umart.com.au/newsite/search.php?type=0&keywords={{{s}}}"
+  },
+  {
+    "d": "repositorio.unb.br",
+    "s": "Universidade de Brasília / Repositório Institucional",
+    "t": "unbri",
+    "u": "http://repositorio.unb.br/simple-search?query={{{s}}}&submit=Ir"
+  },
+  {
+    "d": "search.uncg.edu",
+    "s": "University of North Caroline at Greensboro",
+    "t": "uncg",
+    "u": "http://search.uncg.edu/search?q={{{s}}}&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend"
+  },
+  {
+    "d": "library.unc.edu",
+    "s": "University of North Carolina at Chapel Hill Library",
+    "t": "unclib",
+    "u": "https://library.unc.edu/find/combinedresults/?Ntt={{{s}}}&Ntk=Keyword"
+  },
+  {
+    "d": "uncyclopedia.wikia.com",
+    "s": "Uncyclopedia",
+    "t": "uncyclopedia",
+    "u": "http://uncyclopedia.wikia.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.uncyclopedia.co",
+    "s": "Uncyclopedia",
+    "t": "uncyc",
+    "u": "https://en.uncyclopedia.co/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "undertale.wikia.com",
+    "s": "Undertale wiki",
+    "t": "undertale",
+    "u": "http://undertale.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.calida.com",
+    "s": "calida.com",
+    "t": "underwear",
+    "u": "https://www.calida.com/search/#/q/{{{s}}}"
+  },
+  {
+    "d": "whc.unesco.org",
+    "s": "UNESCO World Heritage Centre",
+    "t": "unescowhc",
+    "u": "http://whc.unesco.org/en/search/?criteria={{{s}}}"
+  },
+  {
+    "d": "www.une.edu.au",
+    "s": "University of New England (Australia)",
+    "t": "une",
+    "u": "https://www.une.edu.au/search?collection=une-meta&query={{{s}}}"
+  },
+  {
+    "d": "www.unfpa.org",
+    "s": "unfpa.org",
+    "t": "unfpa",
+    "u": "http://www.unfpa.org/search/node/{{{s}}} "
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "UNHCR",
+    "t": "unhcr",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:http://www.unhcr.org/"
+  },
+  {
+    "d": "unicat.be",
+    "s": "Unicat",
+    "t": "unicat",
+    "u": "http://unicat.be/uniCat?func=search&language=en&fromWeb=1&formQuery={{{s}}}"
+  },
+  {
+    "d": "www.unicef.org",
+    "s": "UNICEF",
+    "t": "unicef",
+    "u": "http://www.unicef.org/search/search.php?q_en={{{s}}}"
+  },
+  {
+    "d": "unicode.party",
+    "s": "Unicode Party",
+    "t": "unicodeparty",
+    "u": "http://unicode.party/?query={{{s}}}"
+  },
+  {
+    "d": "unicode-table.com",
+    "s": "Unicode Table",
+    "t": "unicodetable",
+    "u": "http://unicode-table.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.fileformat.info",
+    "s": "Unicode Character Search",
+    "t": "unicode",
+    "u": "http://www.fileformat.info/info/unicode/char/search.htm?q={{{s}}}&preview=entity"
+  },
+  {
+    "d": "unicode-table.com",
+    "s": "Unicode Character Table",
+    "t": "unic",
+    "u": "https://unicode-table.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.uni-goettingen.de",
+    "s": "Georg-August-Universität Göttingen",
+    "t": "unigö",
+    "u": "http://www.uni-goettingen.de/de/suche.html?query={{{s}}}"
+  },
+  {
+    "d": "www.unilad.co.uk",
+    "s": "UNILAD",
+    "t": "unilad",
+    "u": "https://www.unilad.co.uk/search/{{{s}}}"
+  },
+  {
+    "d": "www.uni-mannheim.de",
+    "s": "Uni Mannheim",
+    "t": "unima",
+    "u": "https://www.uni-mannheim.de/suche/?tx_solr%5Bq%5D={{{s}}}"
+  },
+  {
+    "d": "www.unimc.it",
+    "s": "Università degli Studi di Macerata",
+    "t": "unimc",
+    "u": "http://www.unimc.it/@@search?SearchableText={{{s}}}"
+  },
+  {
+    "d": "www.uniprot.org",
+    "s": "UniprotKB",
+    "t": "uniprot",
+    "u": "http://www.uniprot.org/uniprot/?query={{{s}}}"
+  },
+  {
+    "d": "www.uniqlo.com",
+    "s": "Uniqlo",
+    "t": "uniqlo",
+    "u": "https://www.uniqlo.com/us/en/search/?q={{{s}}}&lang=default"
+  },
+  {
+    "d": "search.library.unisa.edu.au",
+    "s": "UniSA Library Catalogue",
+    "t": "unisalib",
+    "u": "http://search.library.unisa.edu.au/?query=any,contains,{{{s}}}"
+  },
+  {
+    "d": "unicode-search.net",
+    "s": "Search for character(s) in Unicode",
+    "t": "uni",
+    "u": "http://unicode-search.net/unicode-namesearch.pl?term={{{s}}}"
+  },
+  {
+    "d": "unity3d.com",
+    "s": "Unity3D answers",
+    "t": "unityans",
+    "u": "http://unity3d.com/search?refinement=answers&gq={{{s}}} "
+  },
+  {
+    "d": "answers.unity3d.com",
+    "s": "Unity Answers",
+    "t": "unityanswers",
+    "u": "http://answers.unity3d.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.unity3d.com",
+    "s": "Unity3D Scripting API",
+    "t": "unityapi",
+    "u": "http://docs.unity3d.com/ScriptReference/30_search.html?q={{{s}}} "
+  },
+  {
+    "d": "www.assetstore.unity3d.com",
+    "s": "Unity asset store",
+    "t": "unityast",
+    "u": "https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query={{{s}}}"
+  },
+  {
+    "d": "docs.unity3d.com",
+    "s": "Unity Manual",
+    "t": "unitym",
+    "u": "http://docs.unity3d.com/Manual/30_search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.unity3d.com",
+    "s": "Unity Scripting Reference",
+    "t": "unitysr",
+    "u": "http://docs.unity3d.com/ScriptReference/30_search.html?q={{{s}}}"
+  },
+  {
+    "d": "unity3d.com",
+    "s": "Unity",
+    "t": "unity",
+    "u": "http://unity3d.com/search?gq={{{s}}} "
+  },
+  {
+    "d": "www.universalis.fr",
+    "s": "Encyclopædia Universalis",
+    "t": "universalis",
+    "u": "https://www.universalis.fr/recherche/q/{{{s}}}"
+  },
+  {
+    "d": "ufind.univie.ac.at",
+    "s": "University of Vienna",
+    "t": "univie",
+    "u": "http://ufind.univie.ac.at/en/search.html?query={{{s}}}"
+  },
+  {
+    "d": "wiki.eveuniversity.org",
+    "s": "UniWiki",
+    "t": "uniwiki",
+    "u": "https://wiki.eveuniversity.org/index.php?title=Special%3ASearch&search={{{s}}}&button="
+  },
+  {
+    "d": "unixhow.com",
+    "s": "Unix How",
+    "t": "unixhow",
+    "u": "https://unixhow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "minnie.tuhs.org",
+    "s": "The Unix Tree",
+    "t": "unix",
+    "u": "http://minnie.tuhs.org/cgi-bin/utree.pl?filesearch={{{s}}}&submit=Go"
+  },
+  {
+    "d": "www.unizar.es",
+    "s": "Universidad de Zaragoza",
+    "t": "unizar",
+    "u": "http://www.unizar.es/search/node/{{{s}}}"
+  },
+  {
+    "d": "ja.uncyclopedia.info",
+    "s": "アンサイクロペディア",
+    "t": "unja",
+    "u": "http://ja.uncyclopedia.info/wiki/{{{s}}}"
+  },
+  {
+    "d": "unkompliziert.eu",
+    "s": "unkompliziert.eu",
+    "t": "unkompliziert",
+    "u": "https://unkompliziert.eu/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com.br",
+    "s": "Kindle Unlimited Brasil",
+    "t": "unlimitedbr",
+    "u": "https://www.amazon.com.br/s?k={{{s}}}&i=digital-text"
+  },
+  {
+    "d": "search.unm.edu",
+    "s": "University of New Mexico",
+    "t": "unm",
+    "u": "http://search.unm.edu/search?q={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "UnNotchslayer1 channel",
+    "t": "unnotchslayer1yt",
+    "u": "https://www.youtube.com/channel/UCBX3P-QmXmCgWmCU2Mqt9sg/search?query={{{s}}}"
+  },
+  {
+    "d": "unogs.com",
+    "s": "uNoGS",
+    "t": "unogs",
+    "u": "http://unogs.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.unomaha.edu",
+    "s": "unomaha",
+    "t": "unomaha",
+    "u": "https://www.unomaha.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "unpkg.com",
+    "s": "unpkg",
+    "t": "unpkg",
+    "u": "https://unpkg.com/{{{s}}}"
+  },
+  {
+    "d": "www.unp.me",
+    "s": "UNP",
+    "t": "unp",
+    "u": "http://www.unp.me/search/1/?q={{{s}}}"
+  },
+  {
+    "d": "docs.unrealengine.com",
+    "s": "Unreal Engine Documentation",
+    "t": "unrealengine",
+    "u": "https://docs.unrealengine.com/en-us/Search-Results?Search={{{s}}}"
+  },
+  {
+    "d": "www.unseen64.net",
+    "s": "Unseen64",
+    "t": "unseen64",
+    "u": "http://www.unseen64.net/?s={{{s}}}"
+  },
+  {
+    "d": "unshorten.me",
+    "s": "Unshorten.me",
+    "t": "unshorten",
+    "u": "https://unshorten.me/s/{{{s}}}"
+  },
+  {
+    "d": "www.un-spider.org",
+    "s": "UN-SPIDER Knowledge Portal",
+    "t": "unspider",
+    "u": "http://www.un-spider.org/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "unsplash.com",
+    "s": "unsplash.com",
+    "t": "unsplash",
+    "u": "https://unsplash.com/search?utf8=✓&keyword={{{s}}}"
+  },
+  {
+    "d": "unsplash.com",
+    "s": "Unsplash",
+    "t": "unspls",
+    "u": "https://unsplash.com/search/photos/{{{s}}}"
+  },
+  {
+    "d": "unsplash.com",
+    "s": "Unsplash",
+    "t": "unspl",
+    "u": "https://unsplash.com/search?utf8=✓&keyword={{{s}}}"
+  },
+  {
+    "d": "unsplash.com",
+    "s": "Unsplash",
+    "t": "uns",
+    "u": "https://unsplash.com/search/photos/{{{s}}}"
+  },
+  {
+    "d": "untappd.com",
+    "s": "Untappd",
+    "t": "untappd",
+    "u": "https://untappd.com/search?q={{{s}}} "
+  },
+  {
+    "d": "untergang.de",
+    "s": "Linux und Technik",
+    "t": "untergang",
+    "u": "http://untergang.de/index.php?option=search&searchword={{{s}}}"
+  },
+  {
+    "d": "untermportal.un.org",
+    "s": "UN terminology search portal",
+    "t": "unterm",
+    "u": "http://untermportal.un.org/search/{{{s}}}"
+  },
+  {
+    "d": "search.un.org",
+    "s": "United Nations",
+    "t": "un",
+    "u": "http://search.un.org/search?ie=utf8&site=un_org&output=xml_no_dtd&client=UN_Website_en&num=10&lr=lang_en&proxystylesheet=UN_Website_en&oe=utf8&q={{{s}}}&Submit=Go"
+  },
+  {
+    "d": "unvis.it",
+    "s": "Unvisit.me",
+    "t": "unv",
+    "u": "http://unvis.it/{{{s}}}"
+  },
+  {
+    "d": "uncyclopedia.wikia.com",
+    "s": "Uncyclopedia",
+    "t": "unwiki",
+    "u": "http://uncyclopedia.wikia.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "reddit.com/r/unixporn",
+    "t": "unxprn",
+    "u": "https://www.reddit.com/r/unixporn/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "www.library.auckland.ac.nz",
+    "s": "University of Auckland Library",
+    "t": "uoalib",
+    "u": "https://www.library.auckland.ac.nz/search/{{{s}}}"
+  },
+  {
+    "d": "search.library.ualberta.ca",
+    "s": "University of Alberta Library",
+    "t": "uoal",
+    "u": "https://search.library.ualberta.ca/symphony?q={{{s}}}"
+  },
+  {
+    "d": "search.auckland.ac.nz",
+    "s": "University of Auckland",
+    "t": "uoa",
+    "u": "https://search.auckland.ac.nz/search?site=All_university_websites&client=uoa_frontend&proxystylesheet=uoa_frontend&proxyreload=0&output=xml_no_dtd&q={{{s}}}"
+  },
+  {
+    "d": "udallas.edu",
+    "s": "University of Dallas",
+    "t": "uod",
+    "u": "http://udallas.edu/searchresults.html?q={{{s}}}"
+  },
+  {
+    "d": "onesearch.library.utoronto.ca",
+    "s": "University of Toronto Libraries",
+    "t": "uoftlib",
+    "u": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}//"
+  },
+  {
+    "d": "onesearch.library.utoronto.ca",
+    "s": "University of Toronto Library Onesearch",
+    "t": "uoft",
+    "u": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}"
+  },
+  {
+    "d": "www.kent.ac.uk",
+    "s": "University of Kent",
+    "t": "uok",
+    "u": "https://www.kent.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.manchester.ac.uk",
+    "s": " University of Manchester ",
+    "t": "uom",
+    "u": "http://www.manchester.ac.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.nottingham.ac.uk",
+    "s": "University of Nottingham",
+    "t": "uon",
+    "u": "http://www.nottingham.ac.uk/search.aspx?q={{{s}}}:"
+  },
+  {
+    "d": "www.surrey.ac.uk",
+    "s": "University of Surrey",
+    "t": "uos",
+    "u": "https://www.surrey.ac.uk/search?query={{{s}}}"
+  },
+  {
+    "d": "packages.ubuntu.com",
+    "s": "Ubuntu Packages",
+    "t": "upackages",
+    "u": "http://packages.ubuntu.com/search?keywords={{{s}}}&searchon=names&suite=all&section=all"
+  },
+  {
+    "d": "www.upcdatabase.com",
+    "s": "UPC Database",
+    "t": "upc",
+    "u": "http://www.upcdatabase.com/item/{{{s}}}"
+  },
+  {
+    "d": "downforeveryoneorjustme.com",
+    "s": "DownForEveryone?",
+    "t": "updown",
+    "u": "http://downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "launchpad.net",
+    "s": "Ubuntu Launchpad Package Page",
+    "t": "upkg",
+    "u": "https://launchpad.net/ubuntu/+source/{{{s}}}"
+  },
+  {
+    "d": "www.uplabs.com",
+    "s": "UpLabs",
+    "t": "uplabs",
+    "u": "http://www.uplabs.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.upng.ac.pg",
+    "s": "University of Papua New Guinea",
+    "t": "upng",
+    "u": "http://www.upng.ac.pg/site/component/search/?searchword={{{s}}}&searchphrase=all&Itemid=101"
+  },
+  {
+    "d": "www.ups.com",
+    "s": "UPS Spain",
+    "t": "upses",
+    "u": "https://www.ups.com/track?loc=es_ES&tracknum={{{s}}}"
+  },
+  {
+    "d": "wwwapps.ups.com",
+    "s": "UPS Tracking",
+    "t": "ups",
+    "u": "https://wwwapps.ups.com/WebTracking/processInputRequest?tracknum={{{s}}}&"
+  },
+  {
+    "d": "www.uptodate.com",
+    "s": "UpToDate",
+    "t": "uptodate",
+    "u": "http://www.uptodate.com/contents/search?search={{{s}}}"
+  },
+  {
+    "d": "en.uptodown.com",
+    "s": "Uptodown",
+    "t": "uptodown",
+    "u": "https://en.uptodown.com/android/search/{{{s}}}"
+  },
+  {
+    "d": "packages.ubuntu.com",
+    "s": "Ubuntu Packages",
+    "t": "up",
+    "u": "http://packages.ubuntu.com/search?keywords={{{s}}}&searchon=names"
+  },
+  {
+    "d": "www.upwork.com",
+    "s": "Upwork",
+    "t": "upwork",
+    "u": "https://www.upwork.com/o/jobs/browse/?q={{{s}}}"
+  },
+  {
+    "d": "search.library.uq.edu.au",
+    "s": "University of Queensland Library",
+    "t": "uql",
+    "u": "https://search.library.uq.edu.au/primo-explore/search?query=any,contains,{{{s}}}&tab=61uq_all&search_scope=61UQ_All&sortby=rank&vid=61UQ&offset=0"
+  },
+  {
+    "d": "wiki.uqm.stack.nl",
+    "s": "Ultranomicon",
+    "t": "uqm",
+    "u": "http://wiki.uqm.stack.nl/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wiki.uqm.stack.nl",
+    "s": "Ultronomicon",
+    "t": "uq",
+    "u": "http://wiki.uqm.stack.nl/script/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "d": "urbaanisanakirja.com",
+    "s": "Urbaani Sanakirja",
+    "t": "urbaani",
+    "u": "http://urbaanisanakirja.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.urbandictionary.com",
+    "s": "Urban Dictionary",
+    "t": "urbandictionary",
+    "u": "http://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "d": "urbaneffect.net",
+    "s": "urbaneffect.net",
+    "t": "urbanfx",
+    "u": "http://urbaneffect.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.urbandictionary.com",
+    "s": "Urban Dictionary",
+    "t": "urban",
+    "u": "http://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "d": "www.urbanoutfitters.com",
+    "s": "Urban Outfitters",
+    "t": "urbout",
+    "u": "http://www.urbanoutfitters.com/fr/catalog/search.jsp?q={{{s}}}"
+  },
+  {
+    "d": "forums.urealms.com",
+    "s": "URealms Forums",
+    "t": "urealmsforums",
+    "u": "https://forums.urealms.com/search?Search={{{s}}}"
+  },
+  {
+    "d": "wiki.urealms.com",
+    "s": "URealms Wiki",
+    "t": "urealms",
+    "u": "https://wiki.urealms.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.ureka.org",
+    "s": "Ureka: Earth Heart Communityure",
+    "t": "ureka",
+    "u": "https://www.ureka.org/search?loader=1&q={{{s}}}"
+  },
+  {
+    "d": "urlquery.net",
+    "s": "Urlquery",
+    "t": "urlquery",
+    "u": "http://urlquery.net/search.php?q={{{s}}}&type=string&max=50"
+  },
+  {
+    "d": "urlscan.io",
+    "s": "urlscan",
+    "t": "urlscan",
+    "u": "https://urlscan.io/search/#{{{s}}}"
+  },
+  {
+    "d": "www.urlvoid.com",
+    "s": "Urlvoid",
+    "t": "urlvoid",
+    "u": "http://www.urlvoid.com/scan/{{{s}}}"
+  },
+  {
+    "d": "suche.uni-regensburg.de",
+    "s": "Universität Regensburg",
+    "t": "ur",
+    "u": "http://suche.uni-regensburg.de/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.usal.es",
+    "s": "usal",
+    "t": "usal",
+    "u": "http://www.usal.es/webusal/usal_buscador?query={{{s}}}"
+  },
+  {
+    "d": "www.usaspending.gov",
+    "s": "usaspending.gov",
+    "t": "usaspending",
+    "u": "http://www.usaspending.gov/search?form_fields=%7B%22search_term%22%3A%22{{{s}}}%22%7D"
+  },
+  {
+    "d": "www.usatoday.com",
+    "s": "USA Today",
+    "t": "usatoday",
+    "u": "http://www.usatoday.com/search/{{{s}}}/"
+  },
+  {
+    "d": "search.usa.gov",
+    "s": "USA.gov",
+    "t": "usa",
+    "u": "https://search.usa.gov/search?utf8=✓&affiliate=usagov&query={{{s}}}"
+  },
+  {
+    "d": "www.uschess.org",
+    "s": "US Chess Federation",
+    "t": "uschess",
+    "u": "http://www.uschess.org/datapage/player-search.php?name={{{s}}}&state=ANY&ratingmin=&ratingmax=&order=N&rating=R&mode=Find"
+  },
+  {
+    "d": "usc-primo.hosted.exlibrisgroup.com",
+    "s": "University of Southern California Libraries",
+    "t": "usclib",
+    "u": "https://usc-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01USC_INST&vid=01USC&mode=Basic&facet=&displayMode=full&bulkSize=25&highlight=true&dum=true&query=any,contains,{{{s}}}&displayField=all&pcAvailabiltyMode=true&sortby=rank&lang=en_US"
+  },
+  {
+    "d": "docs.unity3d.com",
+    "s": "Unity Script Reference",
+    "t": "uscript",
+    "u": "http://docs.unity3d.com/Documentation/ScriptReference/30_search.html?q={{{s}}}"
+  },
+  {
+    "d": "apps.ubuntu.com",
+    "s": "Ubuntu Software Center",
+    "t": "usc",
+    "u": "https://apps.ubuntu.com/cat/search/?q={{{s}}} "
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "usd2brl",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=USD&To=BRL"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "Xe.com",
+    "t": "usd2cop",
+    "u": "http://www.xe.com/currencyconverter/convert/?From=USD&To=COP&Amount={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "Xe.com",
+    "t": "usd2eur",
+    "u": "http://www.xe.com/currencyconverter/convert/?From=USD&To=EUR&Amount={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "xe",
+    "t": "usd2gbp",
+    "u": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=USD&To=GBP"
+  },
+  {
+    "d": "ndb.nal.usda.gov",
+    "s": "USDA Food Composition Database",
+    "t": "usda",
+    "u": "https://ndb.nal.usda.gov/ndb/search/list?SYNCHRONIZER_TOKEN=f84a82f2-08ef-411f-a08f-2ae87edece78&SYNCHRONIZER_URI=%2Fndb%2Fsearch%2Flist&qt=&qlookup={{{s}}}&ds=&manu="
+  },
+  {
+    "d": "www.machineseeker.com",
+    "s": "Machineseeker.com - Used machinery search engine",
+    "t": "used",
+    "u": "https://www.machineseeker.com/fy/inserat/inseratliste/index?stichwort={{{s}}}&submit="
+  },
+  {
+    "d": "www.usedvictoria.com",
+    "s": "UsedVictoria",
+    "t": "usedvictoria",
+    "u": "http://www.usedvictoria.com/classifieds/all?description={{{s}}}"
+  },
+  {
+    "d": "galaxyproject.org",
+    "s": "Galaxy Community Hub",
+    "t": "usegalaxy",
+    "u": "https://galaxyproject.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.userbenchmark.com",
+    "s": "User Benchmark",
+    "t": "userbench",
+    "u": "http://www.userbenchmark.com/Search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "userstyles.org",
+    "s": "Userstyles",
+    "t": "userstyles",
+    "u": "http://userstyles.org/styles/browse/all/{{{s}}}"
+  },
+  {
+    "d": "unix.stackexchange.com",
+    "s": "Unix & Linux (StackExchange)",
+    "t": "use",
+    "u": "http://unix.stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "d": "usite.hu",
+    "s": "Usite.hu",
+    "t": "usite",
+    "u": "http://usite.hu/{{{s}}}"
+  },
+  {
+    "d": "search.usmint.gov",
+    "s": "The United States Mint",
+    "t": "usmint",
+    "u": "http://search.usmint.gov/search?affiliate=usmint.gov&formFocused=0&query={{{s}}}"
+  },
+  {
+    "d": "www.usopen.org",
+    "s": "US Open Tennis",
+    "t": "usopen",
+    "u": "https://www.usopen.org/en_US/search/results.html?query={{{s}}}"
+  },
+  {
+    "d": "tools.usps.com",
+    "s": "USPS",
+    "t": "usps",
+    "u": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1={{{s}}}"
+  },
+  {
+    "d": "usq.summon.serialssolutions.com",
+    "s": "University of Southern Queensland",
+    "t": "usq",
+    "u": "https://usq.summon.serialssolutions.com/search?s.q={{{s}}} "
+  },
+  {
+    "d": "docs.unity3d.com",
+    "s": "Unity3D Scripting Reference",
+    "t": "usr",
+    "u": "https://docs.unity3d.com/ScriptReference/30_search.html?q={{{s}}}"
+  },
+  {
+    "d": "userstyles.org",
+    "s": "userstyles.org",
+    "t": "ustyles",
+    "u": "https://userstyles.org/styles/browse?search_terms={{{s}}}"
+  },
+  {
+    "d": "userstyles.org",
+    "s": "Userstyles.org",
+    "t": "us",
+    "u": "https://userstyles.org/styles/browse?search_terms={{{s}}}"
+  },
+  {
+    "d": "opac.library.usyd.edu.au",
+    "s": "University of Sydney Library",
+    "t": "usydlib",
+    "u": "http://opac.library.usyd.edu.au/search/?searchtype=X&SORT=D&searcharg={{{s}}}&searchscope=4&submit=Submit"
+  },
+  {
+    "d": "usyd.summon.serialssolutions.com",
+    "s": "Usyd Library",
+    "t": "usydl",
+    "u": "https://usyd.summon.serialssolutions.com/search?q={{{s}}}"
+  },
+  {
+    "d": "sydney.edu.au",
+    "s": "The University of Sydney",
+    "t": "usyd",
+    "u": "http://sydney.edu.au/s/search.html?collection=Usyd&query={{{s}}}"
+  },
+  {
+    "d": "utaitedb.net",
+    "s": "Utaite Database",
+    "t": "utaite",
+    "u": "http://utaitedb.net/Search?filter={{{s}}}"
+  },
+  {
+    "d": "www.uta.edu",
+    "s": "University of Texas at Arlington",
+    "t": "uta",
+    "u": "http://www.uta.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.uptodate.com",
+    "s": "uptodate online",
+    "t": "utdol",
+    "u": "https://www.uptodate.com/contents/search?search={{{s}}}"
+  },
+  {
+    "d": "www.fileformat.info",
+    "s": "Unicode Character Search",
+    "t": "utf8",
+    "u": "http://www.fileformat.info/info/unicode/char/search.htm?q={{{s}}}&preview=entity"
+  },
+  {
+    "d": "utk-almaprimo.hosted.exlibrisgroup.com",
+    "s": "UTK Library OneSearch",
+    "t": "utk",
+    "u": "https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?vid=01UTK&institution=01UTK&facet=rtype,exclude,reviews&facet=rtype,exclude,reference_entrys&search_scope=OneSearch&tab=default_tab&onCampus=false&group=GUEST&query=any,contains,{{{s}}}&lang=en_US"
+  },
+  {
+    "d": "le.utah.gov",
+    "s": "Utah State Legislature",
+    "t": "utleg",
+    "u": "http://le.utah.gov/solrsearch.jsp?request={{{s}}}"
+  },
+  {
+    "d": "catalog.lib.utexas.edu",
+    "s": "University of Texas in Austin - Library",
+    "t": "utlibrary",
+    "u": "https://catalog.lib.utexas.edu/search/?searchtype=X&SORT=D&searcharg={{{s}}}&searchscope=29"
+  },
+  {
+    "d": "onesearch.library.utoronto.ca",
+    "s": "University of Toronto Libraries",
+    "t": "utlib",
+    "u": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}/"
+  },
+  {
+    "d": "onesearch.library.utoronto.ca",
+    "s": "University of Toronto Libraries",
+    "t": "utl",
+    "u": "https://onesearch.library.utoronto.ca/onesearch/{{{s}}}"
+  },
+  {
+    "d": "ut.no",
+    "s": "UT.no - Outdoors for all",
+    "t": "utno",
+    "u": "http://ut.no/finn?search={{{s}}}"
+  },
+  {
+    "d": "wiki.utopia-game.com",
+    "s": "Utopia Wikipedia",
+    "t": "utopia",
+    "u": "http://wiki.utopia-game.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "find.utoronto.ca",
+    "s": "University of Toronto",
+    "t": "utoronto",
+    "u": "http://find.utoronto.ca/search?proxystylesheet=default_frontend&q={{{s}}}"
+  },
+  {
+    "d": "open-store.io",
+    "s": "OpenStore",
+    "t": "utos",
+    "u": "https://open-store.io/?sort=relevance&search={{{s}}}"
+  },
+  {
+    "d": "www.utexas.edu",
+    "s": "utexas.edu",
+    "t": "ut",
+    "u": "https://www.utexas.edu/search/results?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ubuntuusers",
+    "t": "uude",
+    "u": "https://duckduckgo.com/?q=site%3Aubuntuusers.de+{{{s}}}"
+  },
+  {
+    "d": "www.urbandictionary.com",
+    "s": "Urban Dictionary",
+    "t": "u",
+    "u": "http://www.urbandictionary.com/define.php?term={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ubuntuusers.de",
+    "t": "uu",
+    "u": "https://duckduckgo.com/?q=site%3Aubuntuusers.de+{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ubuntu Users Wiki",
+    "t": "uuwiki",
+    "u": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ubuntuusers.de Wiki",
+    "t": "uuw",
+    "u": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+{{{s}}}"
+  },
+  {
+    "d": "search.lib.virginia.edu",
+    "s": "University of Virginia Library Catalog",
+    "t": "uvac",
+    "u": "http://search.lib.virginia.edu/catalog?q={{{s}}}"
+  },
+  {
+    "d": "faulkner.lib.virginia.edu",
+    "s": "Faulkner at Virginia",
+    "t": "uvafaulk",
+    "u": "http://faulkner.lib.virginia.edu/results?type=transcription&q={{{s}}} "
+  },
+  {
+    "d": "search.lib.virginia.edu",
+    "s": "University of Virginia Library",
+    "t": "uvalib",
+    "u": "http://search.lib.virginia.edu/catalog?q={{{s}}}"
+  },
+  {
+    "d": "www.virginia.edu",
+    "s": "University of Virginia",
+    "t": "uva",
+    "u": "http://www.virginia.edu/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.uvic.ca",
+    "s": "The University of Victoria",
+    "t": "uvic",
+    "u": "https://www.uvic.ca/search/q/web.php?q={{{s}}}&t=4&p=1&g=true"
+  },
+  {
+    "d": "onesearch.library.uwa.edu.au",
+    "s": "The University of Western Australia Library",
+    "t": "uwalib",
+    "u": "https://onesearch.library.uwa.edu.au/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=MyInst_and_CI&sortby=rank&vid=61UWA_INST:UWA&offset=0"
+  },
+  {
+    "d": "www.dailyuw.com",
+    "s": "The Daily of the University of Washington",
+    "t": "uwd",
+    "u": "http://www.dailyuw.com/search/?t=article&nsa=eedition&q=&x=17&y=23{{{s}}}: "
+  },
+  {
+    "d": "uwflow.com",
+    "s": "University of Waterloo Flow",
+    "t": "uwflow",
+    "u": "https://uwflow.com/courses?keywords={{{s}}}"
+  },
+  {
+    "d": "wiki.ubuntu.com",
+    "s": "Ubuntu Wiki",
+    "t": "uwiki",
+    "u": "https://wiki.ubuntu.com/Home?action=fullsearch&context=180&value={{{s}}}"
+  },
+  {
+    "d": "search.library.wisc.edu",
+    "s": "University of Wisconsin Libraries",
+    "t": "uwlib",
+    "u": "https://search.library.wisc.edu/search/catalog?q={{{s}}}"
+  },
+  {
+    "d": "unlimitedworld.de",
+    "s": "Unlimitedworld",
+    "t": "uwmc",
+    "u": "https://unlimitedworld.de/search/1786851/?q={{{s}}}"
+  },
+  {
+    "d": "www.ssjoy.org",
+    "s": "SSJOY Uncharted waters Korean wiki",
+    "t": "uwo",
+    "u": "https://www.ssjoy.org/dho/?vid=&mid=home&act=IS&is_target=all&is_keyword={{{s}}}"
+  },
+  {
+    "d": "www.ssjoy.org",
+    "s": "UWO Joy",
+    "t": "uw",
+    "u": "https://www.ssjoy.org/dho/?vid=&mid=home&act=IS&is_target=all&is_keyword={{{s}}}"
+  },
+  {
+    "d": "uxul.de",
+    "s": "Ein Templatesystem Für Templatesysteme",
+    "t": "uxul",
+    "u": "https://uxul.de/find?search={{{s}}}"
+  },
+  {
+    "d": "ux.stackexchange.com",
+    "s": "UX stackexchange",
+    "t": "ux",
+    "u": "http://ux.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.unwrapyourmind.com",
+    "s": "UnwrapYourMind",
+    "t": "uym",
+    "u": "https://www.unwrapyourmind.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.npo.nl",
+    "s": "Uitzendinggemist",
+    "t": "uzg",
+    "u": "https://www.npo.nl/zoeken?term={{{s}}}"
+  },
+  {
+    "d": "www.uzh.ch",
+    "s": "University of Zurich",
+    "t": "uzh",
+    "u": "http://www.uzh.ch/de/search.html?q={{{s}}}"
+  }
+]

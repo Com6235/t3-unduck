@@ -1,0 +1,68 @@
+[
+  {
+    "d": "prime.500px.com",
+    "s": "500px",
+    "t": "500",
+    "u": "https://prime.500px.com/search/keywords={{{s}}}"
+  },
+  {
+    "d": "500px.com",
+    "s": "500px",
+    "t": "500px",
+    "u": "https://500px.com/search?q={{{s}}}"
+  },
+  {
+    "d": "food52.com",
+    "s": "Food52",
+    "t": "52",
+    "u": "http://food52.com/recipes/search?q={{{s}}}"
+  },
+  {
+    "d": "fivethirtyeight.com",
+    "s": "fivethirtyeight.com",
+    "t": "538",
+    "u": "http://fivethirtyeight.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.quintoandar.com.br",
+    "s": "QuintoAndar",
+    "t": "5a",
+    "u": "https://www.quintoandar.com.br/alugar/imovel/{{{s}}}/"
+  },
+  {
+    "d": "find.5ch.net",
+    "s": "5ちゃんねる",
+    "t": "5ch",
+    "u": "https://find.5ch.net/search?q={{{s}}}"
+  },
+  {
+    "d": "find.5ch.net",
+    "s": "5channel",
+    "t": "5channel",
+    "u": "http://find.5ch.net/search?q={{{s}}}"
+  },
+  {
+    "d": "engl393-dnd5th.wikia.com",
+    "s": "D&D 5e Wiki",
+    "t": "5e",
+    "u": "http://engl393-dnd5th.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "dnd5e.wikidot.com",
+    "s": "D&D 5e Wikidot",
+    "t": "5ew",
+    "u": "http://dnd5e.wikidot.com/search:site/a/p/q/{{{s}}}"
+  },
+  {
+    "d": "fiverr.com",
+    "s": "Fiverr",
+    "t": "5",
+    "u": "http://fiverr.com/gigs/search?query={{{s}}}"
+  },
+  {
+    "d": "www.gta5-mods.com",
+    "s": "GTA 5 Mods",
+    "t": "5mods",
+    "u": "https://www.gta5-mods.com/search/{{{s}}}"
+  }
+]

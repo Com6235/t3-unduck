@@ -1,0 +1,4880 @@
+[
+  {
+    "d": "www.commander1024.de",
+    "s": "Dem Commander1024 sein Blog",
+    "t": "c1024",
+    "u": "http://www.commander1024.de/wordpress/?s={{{s}}}"
+  },
+  {
+    "d": "www.channel21.de",
+    "s": "Channel21",
+    "t": "c21",
+    "u": "https://www.channel21.de/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.chrono24.com",
+    "s": "Chrono24",
+    "t": "c24",
+    "u": "https://www.chrono24.com/search/index.htm?watchTypes=&query={{{s}}}&dosearch=true&searchexplain=1&accessoryTypes="
+  },
+  {
+    "d": "www.camptocamp.org",
+    "s": "Camptocamp",
+    "t": "c2c",
+    "u": "http://www.camptocamp.org/summits/list/snam/{{{s}}}"
+  },
+  {
+    "d": "www.camptocamp.org",
+    "s": "http://www.camptocamp.org/",
+    "t": "c2cforum",
+    "u": "http://www.camptocamp.org/documents/search?type=forums&q={{{s}}} "
+  },
+  {
+    "d": "www.camptocamp.org",
+    "s": "Camp to Camp",
+    "t": "c2csite",
+    "u": "http://www.camptocamp.org/documents/search?type=sites&q={{{s}}}"
+  },
+  {
+    "d": "www.camptocamp.org",
+    "s": "Camp to Camp",
+    "t": "c2csummit",
+    "u": "http://www.camptocamp.org/documents/search?type=summits&q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate (Czech to English)",
+    "t": "c2e",
+    "u": "https://translate.google.com/#cs/en/{{{s}}}"
+  },
+  {
+    "d": "c2.com",
+    "s": "Wiki Wiki Web",
+    "t": "c2",
+    "u": "http://c2.com/cgi/fullSearch?search={{{s}}}"
+  },
+  {
+    "d": "media.ccc.de",
+    "s": "C3TV",
+    "t": "c3tv",
+    "u": "https://media.ccc.de/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.channel4.com",
+    "s": "Channel 4",
+    "t": "c4",
+    "u": "http://www.channel4.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.c64-wiki.de",
+    "s": "C64-Wiki (de)",
+    "t": "c64wde",
+    "u": "http://www.c64-wiki.de/index.php?title=Spezial%3ASuche&go=Seite&search={{{s}}}"
+  },
+  {
+    "d": "cycling74.com",
+    "s": "Cycling '74",
+    "t": "c74",
+    "u": "https://cycling74.com/search/page/1/{{{s}}}"
+  },
+  {
+    "d": "www.caa.ca",
+    "s": "Canadian Automobile Association",
+    "t": "caa",
+    "u": "http://www.caa.ca/?s={{{s}}}&submit=Search&lang=en"
+  },
+  {
+    "d": "www.amazon.ca",
+    "s": "Amazon Canada",
+    "t": "ca",
+    "u": "https://www.amazon.ca/s?k={{{s}}}"
+  },
+  {
+    "d": "www.cabq.gov",
+    "s": "City of Albuquerque",
+    "t": "cabq",
+    "u": "http://www.cabq.gov/searchresults?q={{{s}}}"
+  },
+  {
+    "d": "webcache.googleusercontent.com",
+    "s": "Google Cache",
+    "t": "cached",
+    "u": "https://webcache.googleusercontent.com/search?q=cache:{{{s}}}"
+  },
+  {
+    "d": "webcache.googleusercontent.com",
+    "s": "Google Cached Pages",
+    "t": "cachedview",
+    "u": "http://webcache.googleusercontent.com/search?q=cache:{{{s}}}"
+  },
+  {
+    "d": "webcache.googleusercontent.com",
+    "s": "Google Cache",
+    "t": "cache",
+    "u": "https://webcache.googleusercontent.com/search?q=cache:{{{s}}}"
+  },
+  {
+    "d": "conjd.cactus2000.de",
+    "s": "Cactus2000 - Conjugation Table (German)",
+    "t": "cact",
+    "u": "http://conjd.cactus2000.de/index.php?q={{{s}}}"
+  },
+  {
+    "d": "shop.cactusmart.com",
+    "s": "Cactus Mart",
+    "t": "cactus",
+    "u": "https://shop.cactusmart.com/search?q={{{s}}}"
+  },
+  {
+    "d": "shop.cactusmart.com",
+    "s": "Cactus Mart",
+    "t": "cactusmart",
+    "u": "https://shop.cactusmart.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.caddetails.com",
+    "s": "CADdetails",
+    "t": "cad",
+    "u": "https://www.caddetails.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cadence.com",
+    "s": "Cadence Community",
+    "t": "cadence",
+    "u": "https://www.cadence.com/content/cadence-www/global/en_US/home/search.html?k={{{s}}}"
+  },
+  {
+    "d": "www.cafepress.com",
+    "s": "CafePress",
+    "t": "cafepress",
+    "u": "https://www.cafepress.com/+{{{s}}}"
+  },
+  {
+    "d": "www.carrefour.fr",
+    "s": "Carrefour",
+    "t": "cafr",
+    "u": "http://www.carrefour.fr/?q={{{s}}}"
+  },
+  {
+    "d": "www.cagematch.net",
+    "s": "Cagematch - The Internet Wrestling Database",
+    "t": "cagematch",
+    "u": "http://www.cagematch.net/?id=666&search={{{s}}}"
+  },
+  {
+    "d": "michaelyingling.com",
+    "s": "Calvin and Hobbes Search Engine",
+    "t": "cah",
+    "u": "http://michaelyingling.com/random/calvin_and_hobbes/search.php?phrase={{{s}}}"
+  },
+  {
+    "d": "www.cardhoarder.com",
+    "s": "Cardhoarder",
+    "t": "caho",
+    "u": "https://www.cardhoarder.com/cards?data[search]={{{s}}}"
+  },
+  {
+    "d": "www.cairn.info",
+    "s": "Cairn",
+    "t": "cairn",
+    "u": "http://www.cairn.info/resultats_recherche.php?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.cajunlyrics.com",
+    "s": "CajunLyrics",
+    "t": "CajunLyrics",
+    "u": "https://www.cajunlyrics.com/?page=search&word={{{s}}}"
+  },
+  {
+    "d": "book.cakephp.org",
+    "s": "Cakephp 2 Book",
+    "t": "cake2book",
+    "u": "http://book.cakephp.org/2.0/en/search.html?q={{{s}}} "
+  },
+  {
+    "d": "book.cakephp.org",
+    "s": "CakePHP 2",
+    "t": "cake2",
+    "u": "http://book.cakephp.org/2.0/en/search.html?q={{{s}}}"
+  },
+  {
+    "d": "book.cakephp.org",
+    "s": "CakePHP Cakebook 3.x",
+    "t": "cakebook",
+    "u": "https://book.cakephp.org/3.0/en/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "d": "api.cakephp.org",
+    "s": "CakePHP API",
+    "t": "cake",
+    "u": "http://api.cakephp.org/search/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Calculator",
+    "t": "calc",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=calculator"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Calculator",
+    "t": "calculator",
+    "u": "https://duckduckgo.com/?ia=calculator&q={{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Dictionary",
+    "t": "cald",
+    "u": "http://dictionary.cambridge.org/search/british/?source=duckduckgo&q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Calendar",
+    "t": "calendar",
+    "u": "https://www.google.com/calendar/b/0/render?q={{{s}}}"
+  },
+  {
+    "d": "callook.info",
+    "s": "Callook",
+    "t": "callook",
+    "u": "http://callook.info/{{{s}}}"
+  },
+  {
+    "d": "qrzcq.com",
+    "s": "QRZCQ",
+    "t": "call",
+    "u": "http://qrzcq.com/?q={{{s}}}&action=search&page=search"
+  },
+  {
+    "d": "www.caloriecount.com",
+    "s": "Calorie Count",
+    "t": "cals",
+    "u": "https://www.caloriecount.com/search/foods?searchpro={{{s}}}"
+  },
+  {
+    "d": "michaelyingling.com",
+    "s": "Calvin And Hobbes",
+    "t": "calvinandhobbes",
+    "u": "http://michaelyingling.com/random/calvin_and_hobbes/search.php?phrase={{{s}}}"
+  },
+  {
+    "d": "www.z28.com",
+    "s": "Camaro Forums @ Z28.com",
+    "t": "camaro",
+    "u": "https://www.z28.com/search/search?keywords={{{s}}}&order=relevance"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Dictionary",
+    "t": "cambridge",
+    "u": "http://dictionary.cambridge.org/dictionary/english/{{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "http://dictionary.cambridge.org",
+    "t": "camd",
+    "u": "http://dictionary.cambridge.org/search/american-english/direct/?q={{{s}}}"
+  },
+  {
+    "d": "camelcamelcamel.com",
+    "s": "CamelCamelCamel",
+    "t": "camel",
+    "u": "http://camelcamelcamel.com/products?sq={{{s}}} "
+  },
+  {
+    "d": "de.camelcamelcamel.com",
+    "s": "CamelCamelCamel (German)",
+    "t": "camelde",
+    "u": "https://de.camelcamelcamel.com/products?sq={{{s}}}"
+  },
+  {
+    "d": "fr.camelcamelcamel.com",
+    "s": "fr.camelcamelcamel.com",
+    "t": "camelfr",
+    "u": "https://fr.camelcamelcamel.com/search?sq={{{s}}}"
+  },
+  {
+    "d": "www.camerapricebuster.co.uk",
+    "s": "Camera Price Buster",
+    "t": "camerapb",
+    "u": "https://www.camerapricebuster.co.uk/Search?q={{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Dictionary Spanish-English",
+    "t": "camesen",
+    "u": "https://dictionary.cambridge.org/dictionary/spanish-english/{{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge French-English Dictionary",
+    "t": "camfren",
+    "u": "https://dictionary.cambridge.org/dictionary/french-english/{{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge University Press",
+    "t": "camg",
+    "u": "http://dictionary.cambridge.org/us/grammar/british-grammar/{{{s}}}"
+  },
+  {
+    "d": "idiscover.lib.cam.ac.uk",
+    "s": "University of Cambridge Libraries iDiscover",
+    "t": "camlib",
+    "u": "http://idiscover.lib.cam.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=cam_lib_coll&search_scope=SCOP_CAM_ALL&vid=44CAM_PROD&lang=en_US&offset=0"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge PL",
+    "t": "campl",
+    "u": "http://dictionary.cambridge.org/dictionary/english-polish/{{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Polish-English Dictionary",
+    "t": "camplen",
+    "u": "https://dictionary.cambridge.org/dictionary/polish-english/{{{s}}}"
+  },
+  {
+    "d": "accucampus.net",
+    "s": "AccuCampus",
+    "t": "campus",
+    "u": "https://accucampus.net/search?q={{{s}}}"
+  },
+  {
+    "d": "navigator.tu-dresden.de",
+    "s": "TU Dresden Campus Navigator",
+    "t": "campusnav",
+    "u": "https://navigator.tu-dresden.de/erweitertesuche/{{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Traditional Chinese",
+    "t": "camtw",
+    "u": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/{{{s}}}"
+  },
+  {
+    "d": "search.cam.ac.uk",
+    "s": "University of Cambridge",
+    "t": "cam",
+    "u": "http://search.cam.ac.uk/web?query={{{s}}}"
+  },
+  {
+    "d": "recherche-search.gc.ca",
+    "s": "Canada.ca",
+    "t": "canada",
+    "u": "https://recherche-search.gc.ca/rGs/s_r?cdn=canada&st=s&num=10&langs=eng&st1rt=0&s5bm3ts21rch=x&q={{{s}}}"
+  },
+  {
+    "d": "www.canadacomputers.com",
+    "s": "Canada Computers",
+    "t": "canadacomputers",
+    "u": "http://www.canadacomputers.com/advanced_search_result.php?keywords={{{s}}} "
+  },
+  {
+    "d": "www.canadapost.ca",
+    "s": "Canada Post Tracking",
+    "t": "canadapost",
+    "u": "https://www.canadapost.ca/cpotools/apps/track/personal/findByTrackNumber?trackingNumber={{{s}}}&LOCALE=en&LOCALE2=en"
+  },
+  {
+    "d": "www.canadiantire.ca",
+    "s": "Canadian Tire",
+    "t": "canadiantire",
+    "u": "http://www.canadiantire.ca/en/search-results.html?searchByTerm=true&q={{{s}}}"
+  },
+  {
+    "d": "recherche-search.gc.ca",
+    "s": "Canada.ca",
+    "t": "can",
+    "u": "https://recherche-search.gc.ca/rGs/s_r?cdn=canada&st=s&num=10&langs=eng&st1rt=0&s5bm3ts21rch=x&q={{{s}}}"
+  },
+  {
+    "d": "www.c-and-a.com",
+    "s": "C-and-A DE",
+    "t": "candade",
+    "u": "https://www.c-and-a.com/webapp/wcs/stores/servlet/SearchDisplay?catalogId=10001&storeId=10153&langId=-3&articleSearch=false&searchTerm={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.candlestickpatterns.org",
+    "s": "Candlestick Patterns",
+    "t": "candlestickpatterns",
+    "u": "http://www.candlestickpatterns.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.canistream.it",
+    "s": "Can I Stream It?",
+    "t": "canistream",
+    "u": "http://www.canistream.it/search/term/{{{s}}}"
+  },
+  {
+    "d": "www.canistream.it",
+    "s": "Can I Stream It",
+    "t": "canistreamit",
+    "u": "http://www.canistream.it/search/term/{{{s}}}"
+  },
+  {
+    "d": "www.canistream.it",
+    "s": "canistream.it",
+    "t": "canistreammovie",
+    "u": "http://www.canistream.it/search/movie/{{{s}}}"
+  },
+  {
+    "d": "www.canistream.it",
+    "s": "canistream.it",
+    "t": "canistreamtv",
+    "u": "http://www.canistream.it/search/tv/{{{s}}}"
+  },
+  {
+    "d": "caniuse.com",
+    "s": "Can I use...",
+    "t": "caniuse",
+    "u": "http://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "d": "www.canlii.ca",
+    "s": "CanLII",
+    "t": "canlii",
+    "u": "http://www.canlii.ca/en/search/search.do?all={{{s}}}"
+  },
+  {
+    "d": "www.andcannabis.com",
+    "s": "AND Cannabis",
+    "t": "cannabis",
+    "u": "https://www.andcannabis.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.usa.canon.com",
+    "s": "Canon USA",
+    "t": "canon",
+    "u": "https://www.usa.canon.com/internet/portal/us/home/searchresults?query={{{s}}}&searchTab=products"
+  },
+  {
+    "d": "www.canoonet.eu",
+    "s": "canoonet",
+    "t": "canoo",
+    "u": "http://www.canoonet.eu/services/Controller?input={{{s}}}"
+  },
+  {
+    "d": "11foot8.com",
+    "s": "11foot8.com",
+    "t": "canopener",
+    "u": "http://11foot8.com/?s={{{s}}}"
+  },
+  {
+    "d": "cantonese.org",
+    "s": "CC-Canto - A Cantonese Dictionary",
+    "t": "canto",
+    "u": "http://cantonese.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.cantonese.sheik.co.uk",
+    "s": "CantoDict",
+    "t": "cantodict",
+    "u": "http://www.cantonese.sheik.co.uk/dictionary/search/?searchtype=1&text={{{s}}}"
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "CoinMarketCap",
+    "t": "cap",
+    "u": "https://coinmarketcap.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.capfriendly.com",
+    "s": "CapFriendly",
+    "t": "capf",
+    "u": "https://www.capfriendly.com/search?s={{{s}}}"
+  },
+  {
+    "d": "www.capital.bg",
+    "s": "Capital.bg",
+    "t": "capital",
+    "u": "https://www.capital.bg/search.php?stext={{{s}}}"
+  },
+  {
+    "d": "www.canadapost.ca",
+    "s": "Canada Post",
+    "t": "capost",
+    "u": "http://www.canadapost.ca//cpotools/apps/track/personal/findByTrackNumber?trackingNumber={{{s}}}"
+  },
+  {
+    "d": "www.cappusa.com",
+    "s": "CAPP/USA",
+    "t": "capp",
+    "u": "http://www.cappusa.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "caranddriver.com",
+    "s": "Car and Driver",
+    "t": "caranddriver",
+    "u": "http://caranddriver.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.calorieking.com.au",
+    "s": "Calorie King",
+    "t": "carbs",
+    "u": "http://www.calorieking.com.au/foods/search.php?keywords={{{s}}}&showresults=yes&go=Search"
+  },
+  {
+    "d": "www.carmagazine.co.uk",
+    "s": "CarMagazine.co.uk",
+    "t": "car",
+    "u": "http://www.carmagazine.co.uk/GLOBAL/Search-Results/?N=0&Ntx=mode%20matchallpartial&Ntk=site&Ntt={{{s}}}"
+  },
+  {
+    "d": "www.cardboardconnection.com",
+    "s": "https://www.cardboardconnection.com/",
+    "t": "cardboard",
+    "u": "https://www.cardboardconnection.com/search-results?q={{{s}}}"
+  },
+  {
+    "d": "www.cardkingdom.com",
+    "s": "CardKingdom",
+    "t": "cardkingdom",
+    "u": "https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D={{{s}}}"
+  },
+  {
+    "d": "www.careerbuilder.com",
+    "s": "CareerBuilder",
+    "t": "careerbuilder",
+    "u": "http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&ch=&rs=&s_rawwords={{{s}}}&s_jobtypes=ALL&s_freshness=30&s_education=DRNS&s_freeloc=&qsbButton=Find+Jobs+%3E%3E"
+  },
+  {
+    "d": "crates.io",
+    "s": "Cargo",
+    "t": "cargo",
+    "u": "https://crates.io/search?q={{{s}}}"
+  },
+  {
+    "d": "carjam.co.nz",
+    "s": "CarJam",
+    "t": "carjam",
+    "u": "https://carjam.co.nz/car/?plate={{{s}}}"
+  },
+  {
+    "d": "www.carmagazine.co.uk",
+    "s": "CarMagazine.co.uk",
+    "t": "carmag",
+    "u": "http://www.carmagazine.co.uk/GLOBAL/Search-Results/?N=0&Ntx=mode%20matchallpartial&Ntk=site&Ntt={{{s}}}"
+  },
+  {
+    "d": "www.carmax.com",
+    "s": "CarMax",
+    "t": "carmax",
+    "u": "https://www.carmax.com/search#FreeText={{{s}}}"
+  },
+  {
+    "d": "carousell.com",
+    "s": "carousell",
+    "t": "carousell",
+    "u": "https://carousell.com/search/products/?query={{{s}}} "
+  },
+  {
+    "d": "search.carrot2.org",
+    "s": "Carrot2 Clustering Engine",
+    "t": "carrot",
+    "u": "http://search.carrot2.org/stable/search?source=web&view=folders&skin=fancy-compact&query={{{s}}}&results=100&algorithm=lingo"
+  },
+  {
+    "d": "www.carsales.com.au",
+    "s": "Carsales",
+    "t": "carsales",
+    "u": "https://www.carsales.com.au/cars/results/?q=CarAll.keyword({{{s}}}).&area=Stock&vertical=car&WT.z_srchsrcx=makemodel"
+  },
+  {
+    "d": "www.cartoonnetwork.com",
+    "s": "Cartoon Network",
+    "t": "cartoonnetwork",
+    "u": "http://www.cartoonnetwork.com/search/index.html?keywords={{{s}}}"
+  },
+  {
+    "d": "stadt-bremerhaven.de",
+    "s": "Caschys Blog",
+    "t": "caschy",
+    "u": "http://stadt-bremerhaven.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.commonchemistry.org",
+    "s": "Common Chemistry (CAS Registry Number)",
+    "t": "cas",
+    "u": "http://www.commonchemistry.org/ChemicalDetail.aspx?ref={{{s}}}"
+  },
+  {
+    "d": "casetext.com",
+    "s": "casetext",
+    "t": "casetext",
+    "u": "https://casetext.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cashoverflow.in",
+    "s": "CashOverflow",
+    "t": "cashoverflow",
+    "u": "http://www.cashoverflow.in/?s={{{s}}} "
+  },
+  {
+    "d": "castbox.fm",
+    "s": "CastBox",
+    "t": "castbox",
+    "u": "https://castbox.fm/podcasts/{{{s}}}"
+  },
+  {
+    "d": "www.catalandictionary.org",
+    "s": "CatalanDictionary.org",
+    "t": "catalandictionary",
+    "u": "http://www.catalandictionary.org/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.catawiki.be",
+    "s": "Catawiki",
+    "t": "catawikibe",
+    "u": "https://www.catawiki.be/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cathdb.info",
+    "s": "CATH database",
+    "t": "cath",
+    "u": "http://www.cathdb.info/search?q={{{s}}}"
+  },
+  {
+    "d": "www.catholic.com",
+    "s": "Catholic Answers",
+    "t": "catholic",
+    "u": "http://www.catholic.com/search/content/{{{s}}}"
+  },
+  {
+    "d": "www.zieglers.com",
+    "s": "Zieglers - Catholic Store",
+    "t": "catholicstore",
+    "u": "https://www.zieglers.com/search.php?search_query={{{s}}}"
+  },
+  {
+    "d": "dlc.iec.cat",
+    "s": "Institut d'Estudis Catalans",
+    "t": "cat",
+    "u": "https://dlc.iec.cat/results.asp?txtEntrada={{{s}}}"
+  },
+  {
+    "d": "www.computerbase.de",
+    "s": "ComputerBase",
+    "t": "cbase",
+    "u": "http://www.computerbase.de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.sports-reference.com",
+    "s": "College Basketball Reference",
+    "t": "cbbr",
+    "u": "https://www.sports-reference.com/cbb/search/search.fcgi?hint=&search={{{s}}}&pid=&idx="
+  },
+  {
+    "d": "www.cbc.ca",
+    "s": "CBC News",
+    "t": "cbc",
+    "u": "https://www.cbc.ca/search?q={{{s}}}"
+  },
+  {
+    "d": "www.crunchbase.com",
+    "s": "CrunchBase",
+    "t": "cb",
+    "u": "https://www.crunchbase.com/textsearch?q={{{s}}}"
+  },
+  {
+    "d": "cbdb.cz",
+    "s": "Československá bibliografická databáze",
+    "t": "cbdbcz",
+    "u": "https://cbdb.cz/hledat?text={{{s}}}"
+  },
+  {
+    "d": "www.christianbook.com",
+    "s": "Christianbook.com",
+    "t": "cbd",
+    "u": "http://www.christianbook.com/Christian/Books/easy_find?Ntt={{{s}}}&N=0&Ntk=keywords&action=Search&Ne=0"
+  },
+  {
+    "d": "cbd-oil-canada.ca",
+    "s": "CBD Oil Canada",
+    "t": "cbdoil",
+    "u": "https://cbd-oil-canada.ca/?s=/{{{s}}}"
+  },
+  {
+    "d": "carminbook.com",
+    "s": "Carminbook",
+    "t": "cbk",
+    "u": "http://carminbook.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.coolblue.nl",
+    "s": "Coolblue",
+    "t": "cblue",
+    "u": "https://www.coolblue.nl/zoeken?query={{{s}}}"
+  },
+  {
+    "d": "www1.cbn.com",
+    "s": "Christian Broadcasting Network",
+    "t": "cbn",
+    "u": "http://www1.cbn.com/cbn-search?search_term={{{s}}}&site=default_collection"
+  },
+  {
+    "d": "codebottle.io",
+    "s": "Codebottle",
+    "t": "cbottle",
+    "u": "https://codebottle.io/?q={{{s}}}"
+  },
+  {
+    "d": "comicbookroundup.com",
+    "s": "Comic Book Roundup",
+    "t": "cbr",
+    "u": "http://comicbookroundup.com/search_results.php?f_search={{{s}}}"
+  },
+  {
+    "d": "www.cbs.nl",
+    "s": "Artikelen van het CBS",
+    "t": "cbs",
+    "u": "https://www.cbs.nl/nl-nl/zoeken/?query={{{s}}}"
+  },
+  {
+    "d": "www.cbservicedetersivi.it",
+    "s": "CB Service",
+    "t": "cbservice",
+    "u": "http://www.cbservicedetersivi.it/?s={{{s}}}"
+  },
+  {
+    "d": "search.cbsnews.com",
+    "s": "CBSNews",
+    "t": "cbsnews",
+    "u": "http://search.cbsnews.com/?source=cbs&q={{{s}}}"
+  },
+  {
+    "d": "www.sportsline.com",
+    "s": "CBS Sports",
+    "t": "cbssports",
+    "u": "http://www.sportsline.com/info/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cbtnuggets.com",
+    "s": "CBT Nuggets",
+    "t": "cbtnuggets",
+    "u": "https://www.cbtnuggets.com/search?q={{{s}}}"
+  },
+  {
+    "d": "combineoverwiki.net",
+    "s": "Combine OverWiki",
+    "t": "cbwiki",
+    "u": "http://combineoverwiki.net/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "choualbox.com",
+    "s": "Choualbox",
+    "t": "cbx",
+    "u": "http://choualbox.com/recherche?q={{{s}}}"
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "CoinMarketCap",
+    "t": "ccap",
+    "u": "https://coinmarketcap.com/currencies/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.climbbybike.com",
+    "s": "Climbbybike.com",
+    "t": "ccb",
+    "u": "https://www.climbbybike.com/climbs_selection.asp?Mountainname={{{s}}}"
+  },
+  {
+    "d": "ca.camelcamelcamel.com",
+    "s": "CamelCamelCamel (Canada)",
+    "t": "cccca",
+    "u": "https://ca.camelcamelcamel.com/search?sq={{{s}}}"
+  },
+  {
+    "d": "camelcamelcamel.com",
+    "s": "CamelCamelCamel",
+    "t": "ccc",
+    "u": "http://camelcamelcamel.com/search?sq={{{s}}}"
+  },
+  {
+    "d": "ccc.scborromeo.org.master.com",
+    "s": "Catechism of the Catholic Church",
+    "t": "cccc",
+    "u": "http://ccc.scborromeo.org.master.com/texis/master/search/?sufs=0&q={{{s}}}"
+  },
+  {
+    "d": "de.camelcamelcamel.com",
+    "s": "CamelCamelCamel (Germany)",
+    "t": "cccde",
+    "u": "https://de.camelcamelcamel.com/search?sq={{{s}}}"
+  },
+  {
+    "d": "search.creativecommons.org",
+    "s": "CreativeCommons.org",
+    "t": "cc",
+    "u": "https://search.creativecommons.org/search?q={{{s}}}"
+  },
+  {
+    "d": "uk.camelcamelcamel.com",
+    "s": "Camelcamelcamel",
+    "t": "cccuk",
+    "u": "http://uk.camelcamelcamel.com/search?sq={{{s}}}"
+  },
+  {
+    "d": "hamster.foxhollow.ca",
+    "s": "FoxHollow CCD",
+    "t": "ccd",
+    "u": "http://hamster.foxhollow.ca/ccd/index.php?keywords={{{s}}} "
+  },
+  {
+    "d": "www.ccel.org",
+    "s": "Christian Classics Ethereal Library",
+    "t": "ccel",
+    "u": "http://www.ccel.org/search/fulltext/{{{s}}}"
+  },
+  {
+    "d": "www.christcenteredgamer.com",
+    "s": "Christ Centered Gamer Forums",
+    "t": "ccgrforum",
+    "u": "https://www.christcenteredgamer.com/phpBB3/search.php?keywords={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.christcenteredgamer.com",
+    "s": "Christ Centered Gamer Reviews",
+    "t": "ccgrreviews",
+    "u": "https://www.christcenteredgamer.com/index.php/component/search/?searchword={{{s}}}&ordering=newest&searchphrase=all&areas[0]=blogs"
+  },
+  {
+    "d": "www.codecheck.info",
+    "s": "Codecheck",
+    "t": "ccheck",
+    "u": "https://www.codecheck.info/product.search?q={{{s}}}&OK=Suchen"
+  },
+  {
+    "d": "cinemaclock.com",
+    "s": "cinemaclock",
+    "t": "cck",
+    "u": "http://cinemaclock.com/search?r=bri&m=Vancouver&key={{{s}}} "
+  },
+  {
+    "d": "www.cclonline.com",
+    "s": "CCL",
+    "t": "ccl",
+    "u": "http://www.cclonline.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "colorcodedlyrics.com",
+    "s": "Color Coded Lyrics",
+    "t": "ccly",
+    "u": "https://colorcodedlyrics.com/?s={{{s}}}"
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "CryptoCurrency Market",
+    "t": "ccm",
+    "u": "https://coinmarketcap.com/currencies/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.cnet.com",
+    "s": "CNET",
+    "t": "c",
+    "u": "http://www.cnet.com/1770-5_1-0.html?query={{{s}}}"
+  },
+  {
+    "d": "www.cheapies.nz",
+    "s": "Cheapies NZ",
+    "t": "ccnz",
+    "u": "https://www.cheapies.nz/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.country-codes.org",
+    "s": "Country calling codes",
+    "t": "ccode",
+    "u": "http://www.country-codes.org/{{{s}}}"
+  },
+  {
+    "d": "recherche.conseil-constitutionnel.fr",
+    "s": "Conseil Constitutionnel",
+    "t": "cconst",
+    "u": "http://recherche.conseil-constitutionnel.fr/?q={{{s}}}"
+  },
+  {
+    "d": "www.cybercook.com.br",
+    "s": "CyberCook",
+    "t": "ccook",
+    "u": "http://www.cybercook.com.br/receitas/{{{s}}}"
+  },
+  {
+    "d": "canadiancouchpotato.com",
+    "s": "Canadian Couch Potato",
+    "t": "ccp",
+    "u": "http://canadiancouchpotato.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "www.coworking.coffee",
+    "s": "Coworking & Coffee: search for place",
+    "t": "ccplace",
+    "u": "https://www.coworking.coffee/places?q={{{s}}}"
+  },
+  {
+    "d": "www.cplusplus.com",
+    "s": "cplusplus.com",
+    "t": "c++",
+    "u": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  },
+  {
+    "d": "ccr.chakralinux.org",
+    "s": "Chakra Community Repository",
+    "t": "ccr",
+    "u": "https://ccr.chakralinux.org/packages.php?O=0&K={{{s}}}&do_Search=+Go+"
+  },
+  {
+    "d": "ccsearch.creativecommons.org",
+    "s": "Creative commons search",
+    "t": "ccsearch",
+    "u": "https://ccsearch.creativecommons.org/search?q={{{s}}}"
+  },
+  {
+    "d": "css-tricks.com",
+    "s": "CSS Tricks",
+    "t": "ccst",
+    "u": "http://css-tricks.com/search-results/?q={{{s}}}"
+  },
+  {
+    "d": "www.class-central.com",
+    "s": "Class Central",
+    "t": "cctrl",
+    "u": "https://www.class-central.com/search?q={{{s}}} "
+  },
+  {
+    "d": "so.cntv.cn",
+    "s": "CCTV",
+    "t": "cctv",
+    "u": "http://so.cntv.cn/language/english/?qtext={{{s}}}"
+  },
+  {
+    "d": "coincheckup.com",
+    "s": "CoinCheckup",
+    "t": "ccu",
+    "u": "https://coincheckup.com/coins/{{{s}}}"
+  },
+  {
+    "d": "computercraft.info",
+    "s": "ComputerCraft Wiki",
+    "t": "ccwiki",
+    "u": "http://computercraft.info/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "cda.chronomania.net",
+    "s": "CDA",
+    "t": "cda",
+    "u": "http://cda.chronomania.net/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.cdandlp.com",
+    "s": "cdandlp",
+    "t": "cdandlp",
+    "u": "http://www.cdandlp.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "chess-db.com",
+    "s": "Chess-DB",
+    "t": "cdb",
+    "u": "https://chess-db.com/public/execute.jsp?name={{{s}}}"
+  },
+  {
+    "d": "www.cdc.gov",
+    "s": "CDC",
+    "t": "cdc",
+    "u": "http://www.cdc.gov/search.do?queryText={{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Dictionary",
+    "t": "cd",
+    "u": "http://www.collinsdictionary.com/dictionary/english/{{{s}}}?showCookiePolicy=true"
+  },
+  {
+    "d": "cddawiki.chezzo.com",
+    "s": "Cataclysm: Dark Days Ahead wiki",
+    "t": "cdda",
+    "u": "http://cddawiki.chezzo.com/cdda_wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "cdda-trunk.chezzo.com",
+    "s": "CDDA Item Browser",
+    "t": "cddai",
+    "u": "http://cdda-trunk.chezzo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "cddawiki.chezzo.com",
+    "s": "Cataclysm: Dark Days Ahead wiki",
+    "t": "cddaw",
+    "u": "http://cddawiki.chezzo.com/cdda_wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "cheapdigitaldownload.com",
+    "s": "CheapDigitalDownload",
+    "t": "cdd",
+    "u": "https://cheapdigitaldownload.com/catalog/search-{{{s}}}"
+  },
+  {
+    "d": "lookup.computerlanguage.com",
+    "s": "Computer Desktop Encyclopedia",
+    "t": "cde",
+    "u": "http://lookup.computerlanguage.com/host_app/search?cid=C999999&term={{{s}}}&lookup.x=0&lookup.y=0"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Dictionary",
+    "t": "cdeen",
+    "u": "http://www.collinsdictionary.com/spellcheck/english-german?q={{{s}}} "
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Dictionary English-German",
+    "t": "cdende",
+    "u": "https://dictionary.cambridge.org/dictionary/english-german/{{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Dictionary English-Spanish",
+    "t": "cdenes",
+    "u": "https://dictionary.cambridge.org/dictionary/english-spanish/{{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Dictionaries Online",
+    "t": "cdgdic",
+    "u": "http://dictionary.cambridge.org/dictionary/learner-english/{{{s}}}_1?q={{{s}}}"
+  },
+  {
+    "d": "dictionary.cambridge.org",
+    "s": "Cambridge Dictionary",
+    "t": "cdic",
+    "u": "https://dictionary.cambridge.org/spellcheck/english/?q={{{s}}}"
+  },
+  {
+    "d": "www.dictionary.com",
+    "s": "collinsdictionary",
+    "t": "cdi",
+    "u": "https://www.dictionary.com/browse/{{{s}}}"
+  },
+  {
+    "d": "cdict.net",
+    "s": "Chinese-English Dictionary/Calculator",
+    "t": "cdict",
+    "u": "https://cdict.net/?q={{{s}}}"
+  },
+  {
+    "d": "www.comdirect.de",
+    "s": "comdirect",
+    "t": "cdirect",
+    "u": "https://www.comdirect.de/inf/search/general.html?SEARCH_VALUE={{{s}}}"
+  },
+  {
+    "d": "www.cdiscount.com",
+    "s": "Cdiscount",
+    "t": "cdiscount",
+    "u": "http://www.cdiscount.com/search/10/{{{s}}}.html"
+  },
+  {
+    "d": "chronodivers.com",
+    "s": "ChronoDiver.com",
+    "t": "cdiver",
+    "u": "https://chronodivers.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.cdjapan.co.jp",
+    "s": "CDJapan",
+    "t": "cdj",
+    "u": "http://www.cdjapan.co.jp/products?q={{{s}}}"
+  },
+  {
+    "d": "www.cdkeys.com",
+    "s": "CDKeys",
+    "t": "cdkeys",
+    "u": "https://www.cdkeys.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Dictionaries (English for Learners)",
+    "t": "cdl",
+    "u": "http://www.collinsdictionary.com/dictionary/english-cobuild-learners/{{{s}}}"
+  },
+  {
+    "d": "www.cdm.me",
+    "s": "Cafe del Montenegro",
+    "t": "cdm",
+    "u": "http://www.cdm.me/pretraga/{{{s}}}"
+  },
+  {
+    "d": "www.cdnjs.com",
+    "s": "Cdn js",
+    "t": "cdn",
+    "u": "http://www.cdnjs.com/#/search/{{{s}}} "
+  },
+  {
+    "d": "www.cdnplanet.com",
+    "s": "CDNPlanet CDN Finder Tool",
+    "t": "cdnfinder",
+    "u": "http://www.cdnplanet.com/tools/cdnfinder/#host:{{{s}}} "
+  },
+  {
+    "d": "cdnjs.com",
+    "s": "cdnjs",
+    "t": "cdnjs",
+    "u": "https://cdnjs.com/#q={{{s}}}"
+  },
+  {
+    "d": "cdon.se",
+    "s": "CDON",
+    "t": "cdon",
+    "u": "http://cdon.se/search?q={{{s}}}"
+  },
+  {
+    "d": "cdon.dk",
+    "s": "CDON.com (Denmark/Danmark)",
+    "t": "cdondk",
+    "u": "http://cdon.dk/search?q={{{s}}}"
+  },
+  {
+    "d": "cdon.eu",
+    "s": "CDON.com (Europe)",
+    "t": "cdoneu",
+    "u": "http://cdon.eu/search?q={{{s}}}"
+  },
+  {
+    "d": "cdon.fi",
+    "s": "CDON.com (Finland/Suomi)",
+    "t": "cdonfi",
+    "u": "http://cdon.fi/search?q={{{s}}}"
+  },
+  {
+    "d": "cdon.no",
+    "s": "CDON.com (Norway/Norge)",
+    "t": "cdonno",
+    "u": "http://cdon.no/search?q={{{s}}}"
+  },
+  {
+    "d": "cdon.se",
+    "s": "CDON.com (Sweden/Sverige)",
+    "t": "cdonse",
+    "u": "http://cdon.se/search?q={{{s}}}"
+  },
+  {
+    "d": "currentlydown.com",
+    "s": "Currently Down",
+    "t": "cdown",
+    "u": "http://currentlydown.com/{{{s}}}"
+  },
+  {
+    "d": "www.cdp.net",
+    "s": "CDP (Carbon Disclosure Project)",
+    "t": "cdp",
+    "u": "https://www.cdp.net/en/responses?utf8=✓&queries[name]={{{s}}}"
+  },
+  {
+    "d": "cdsportal.u-strasbg.fr",
+    "s": "CDS Portal",
+    "t": "cds",
+    "u": "http://cdsportal.u-strasbg.fr/#{{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Thesaurus",
+    "t": "cdt",
+    "u": "https://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}"
+  },
+  {
+    "d": "www.cduniverse.com",
+    "s": "CDUniverse",
+    "t": "cdu",
+    "u": "http://www.cduniverse.com/sresult.asp?HT_Search_Info={{{s}}}"
+  },
+  {
+    "d": "www.cdw.ca",
+    "s": "CDW.ca",
+    "t": "cdwca",
+    "u": "https://www.cdw.ca/shop/search/result.aspx?key={{{s}}}}&wclsscat=&b=&p=&ctlgfilter=&searchscope=all&sr=1"
+  },
+  {
+    "d": "www.cdw.com",
+    "s": "CDW",
+    "t": "cdw",
+    "u": "http://www.cdw.com/shop/search/result.aspx?key={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com",
+    "s": "eBay: completed listings",
+    "t": "ceb",
+    "u": "https://www.ebay.com/csc/items/?_nkw={{{s}}}+&LH_Complete=1"
+  },
+  {
+    "d": "forum.cheatengine.org",
+    "s": "Cheat Engine Forums",
+    "t": "ce",
+    "u": "http://forum.cheatengine.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.cecmed.cu",
+    "s": "CECMED",
+    "t": "cecmed",
+    "u": "https://www.cecmed.cu/search/node?keys={{{s}}}"
+  },
+  {
+    "d": "www.ceek.jp",
+    "s": "ceek.jp",
+    "t": "ceekjp",
+    "u": "http://www.ceek.jp/search.cgi?q={{{s}}}"
+  },
+  {
+    "d": "celebrity.tn",
+    "s": "Celebrity Magazine",
+    "t": "celebrity",
+    "u": "https://celebrity.tn/?s={{{s}}}"
+  },
+  {
+    "d": "wikisceleb.com",
+    "s": "Wikisceleb",
+    "t": "celeb",
+    "u": "https://wikisceleb.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.cellartracker.com",
+    "s": "CellarTracker",
+    "t": "cellartracker",
+    "u": "http://www.cellartracker.com/list.asp?fInStock=0&Table=List&iUserOverride=0&szSearch={{{s}}}"
+  },
+  {
+    "d": "celticmusicpodcast.com",
+    "s": "Irish & Celtic Music Podcast",
+    "t": "celticpodcast",
+    "u": "http://celticmusicpodcast.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.ceneje.si",
+    "s": "Ceneje.si",
+    "t": "ceneje",
+    "u": "https://www.ceneje.si/Iskanje/Izdelki?q={{{s}}}"
+  },
+  {
+    "d": "www.ceneo.pl",
+    "s": "Ceneo",
+    "t": "ceneo",
+    "u": "http://www.ceneo.pl/;szukaj-{{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Dictionary (English - Spanish)",
+    "t": "cenes",
+    "u": "https://www.collinsdictionary.com/dictionary/english-spanish/{{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins French Dictionary (to French)",
+    "t": "cenfr",
+    "u": "http://www.collinsdictionary.com/dictionary/english-french/{{{s}}}"
+  },
+  {
+    "d": "www.censys.io",
+    "s": "Censys",
+    "t": "censys",
+    "u": "https://www.censys.io/ipv4?q={{{s}}}"
+  },
+  {
+    "d": "www.centredaily.com",
+    "s": "Centre Daily Times",
+    "t": "centredailytimes",
+    "u": "http://www.centredaily.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.consultarcep.com.br",
+    "s": "Consultar CEP",
+    "t": "cep",
+    "u": "http://www.consultarcep.com.br/resultados.html?cx=partner-pub-6657933402951336%3A8478085485&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=%C2%A0"
+  },
+  {
+    "d": "www.cerberusbyte.com",
+    "s": "Cerberusbyte",
+    "t": "cerb",
+    "u": "https://www.cerberusbyte.com/?s={{{s}}}"
+  },
+  {
+    "d": "cercavino.com",
+    "s": "CercaVino",
+    "t": "cercavino",
+    "u": "http://cercavino.com/cerca?vino={{{s}}}"
+  },
+  {
+    "d": "thesaurus.cerl.org",
+    "s": "CERL Thesaurus",
+    "t": "cerl",
+    "u": "http://thesaurus.cerl.org/cgi-bin/search.pl?type=l&type=i&type=p&type=c&query={{{s}}}"
+  },
+  {
+    "d": "phonebook.cern.ch",
+    "s": "CERN Phonebook",
+    "t": "cern",
+    "u": "https://phonebook.cern.ch/phonebook/#search/?query={{{s}}}"
+  },
+  {
+    "d": "maps.cern.ch",
+    "s": "Cern map",
+    "t": "cernmap",
+    "u": "https://maps.cern.ch/mapsearch/mapsearch.htm?n=[%27{{{s}}}%27]"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway: Contemporary English Version",
+    "t": "cev",
+    "u": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=CEV"
+  },
+  {
+    "d": "uk.webuy.com",
+    "s": "CeX",
+    "t": "cex",
+    "u": "https://uk.webuy.com/search/index.php?stext={{{s}}}"
+  },
+  {
+    "d": "www.cfainstitute.org",
+    "s": "CFA Institute",
+    "t": "cfa",
+    "u": "https://www.cfainstitute.org/en/search#q={{{s}}}"
+  },
+  {
+    "d": "store.channelfireball.com",
+    "s": "Channel Fireball",
+    "t": "cfb",
+    "u": "http://store.channelfireball.com/products/search?query={{{s}}}"
+  },
+  {
+    "d": "www.sports-reference.com",
+    "s": "College Football Reference",
+    "t": "cfbr",
+    "u": "http://www.sports-reference.com/cfb/search/search.fcgi?search={{{s}}}"
+  },
+  {
+    "d": "cfdocs.org",
+    "s": "Cold Fusion Docs",
+    "t": "cfd",
+    "u": "https://cfdocs.org/{{{s}}}"
+  },
+  {
+    "d": "www.codingforentrepreneurs.com",
+    "s": "Coding For Entrepreneurs",
+    "t": "cfe",
+    "u": "https://www.codingforentrepreneurs.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "docs.aws.amazon.com",
+    "s": "AWS CloudFormation Documentation",
+    "t": "cfn",
+    "u": "http://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery={{{s}}}&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS%20CloudFormation&facet_doc_guide=User%20Guide"
+  },
+  {
+    "d": "forum.curvefever.pro",
+    "s": "Curve Fever Pro Forum",
+    "t": "cfpforum",
+    "u": "https://forum.curvefever.pro/search?q={{{s}}}"
+  },
+  {
+    "d": "wikicfp.com",
+    "s": "WikiCFP",
+    "t": "cfp",
+    "u": "http://wikicfp.com/cfp/servlet/tool.search?q={{{s}}}&year=f"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins French Dictionary (to English)",
+    "t": "cfren",
+    "u": "http://www.collinsdictionary.com/dictionary/french-english/{{{s}}}"
+  },
+  {
+    "d": "www.ecfr.gov",
+    "s": "http://www.ecfr.gov/cgi-bin/ECFR",
+    "t": "cfr",
+    "u": "http://www.ecfr.gov/cgi-bin/searchECFR?q1={{{s}}}"
+  },
+  {
+    "d": "hub.culturegraph.org",
+    "s": "CultureGraph",
+    "t": "cg",
+    "u": "http://hub.culturegraph.org/search?query={{{s}}}"
+  },
+  {
+    "d": "champion.gg",
+    "s": "Champion.gg",
+    "t": "cgg",
+    "u": "http://champion.gg/champion/{{{s}}}"
+  },
+  {
+    "d": "pittsburgh.craigslist.org",
+    "s": "craigslist",
+    "t": "cgl",
+    "u": "https://pittsburgh.craigslist.org/search/sss?query={{{s}}}"
+  },
+  {
+    "d": "catalog.gpo.gov",
+    "s": "Catalog of Government Publications",
+    "t": "cgp",
+    "u": "http://catalog.gpo.gov/F?func=find-b&find_code=WRD&request={{{s}}}"
+  },
+  {
+    "d": "www.cgtrader.com",
+    "s": "cgtrader",
+    "t": "cgt",
+    "u": "https://www.cgtrader.com/3d-models?keywords={{{s}}}"
+  },
+  {
+    "d": "resources.allsetlearning.com",
+    "s": "Chinese Grammar Wiki",
+    "t": "cgw",
+    "u": "https://resources.allsetlearning.com/gramwiki/?search={{{s}}}"
+  },
+  {
+    "d": "www.chabad.org",
+    "s": "Chabad.org",
+    "t": "chabad",
+    "u": "http://www.chabad.org/search/results.asp?searchWord={{{s}}}"
+  },
+  {
+    "d": "www.chairish.com",
+    "s": "Chairish",
+    "t": "chairish",
+    "u": "https://www.chairish.com/search?q={{{s}}} "
+  },
+  {
+    "d": "chakraos.org",
+    "s": "The Chakra Project",
+    "t": "chakraforum",
+    "u": "http://chakraos.org/forum/search.php?action=search&keywords={{{s}}}&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit"
+  },
+  {
+    "d": "www.chakraos.org",
+    "s": "The Chakra Project Packages",
+    "t": "chakrapkg",
+    "u": "http://www.chakraos.org/packages/index.php?act=search&subdir=&sortby=date&order=descending&searchpattern={{{s}}}"
+  },
+  {
+    "d": "chakraos.org",
+    "s": "Chakra Wiki",
+    "t": "chakrawiki",
+    "u": "http://chakraos.org/wiki/index.php?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "chambers.co.uk",
+    "s": "Chambers",
+    "t": "chambers",
+    "u": "http://chambers.co.uk/search.php?query={{{s}}}&title=21st"
+  },
+  {
+    "d": "championrunner.com",
+    "s": "Champion runner",
+    "t": "champion",
+    "u": "https://championrunner.com/?s={{{s}}}"
+  },
+  {
+    "d": "champion.gg",
+    "s": "Champion.gg",
+    "t": "championgg",
+    "u": "http://champion.gg/champion/{{{s}}}"
+  },
+  {
+    "d": "www.champssports.com",
+    "s": "Champs Sports",
+    "t": "champssports",
+    "u": "http://www.champssports.com/_-_/keyword-{{{s}}}"
+  },
+  {
+    "d": "www.change.org",
+    "s": "https://www.change.org",
+    "t": "change",
+    "u": "https://www.change.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.channel4.com",
+    "s": "Channel 4",
+    "t": "channel4",
+    "u": "http://www.channel4.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.channel5.com",
+    "s": "Channel 5",
+    "t": "channel5",
+    "u": "http://www.channel5.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/ChapoTrapHouse",
+    "t": "chapo",
+    "u": "https://www.reddit.com/r/ChapoTrapHouse/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "postavy.akihabara.cz",
+    "s": "Characters Akihabara",
+    "t": "charbara",
+    "u": "http://postavy.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "d": "charcod.es",
+    "s": "charcode.es",
+    "t": "char",
+    "u": "http://charcod.es/#{{{s}}}"
+  },
+  {
+    "d": "initialcharge.net",
+    "s": "Initial Charge",
+    "t": "charge",
+    "u": "http://initialcharge.net/?s={{{s}}} "
+  },
+  {
+    "d": "www.charitynavigator.org",
+    "s": "Charity Navigator",
+    "t": "charity",
+    "u": "http://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}"
+  },
+  {
+    "d": "www.charitynavigator.org",
+    "s": "Charity Navigator",
+    "t": "charitynavigator",
+    "u": "http://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}"
+  },
+  {
+    "d": "www.charlotteslaw.nl",
+    "s": "Charlotte's Law & Fine Prints",
+    "t": "charlotteslaw",
+    "u": "https://www.charlotteslaw.nl/?s={{{s}}}"
+  },
+  {
+    "d": "charmed.wikia.com",
+    "s": "The Charmed Wikia",
+    "t": "charmed",
+    "u": "http://charmed.wikia.com/wiki/Special:Search?search={{{s}}} "
+  },
+  {
+    "d": "hub.helm.sh",
+    "s": "Helm Charts",
+    "t": "chart",
+    "u": "https://hub.helm.sh/charts?q={{{s}}}"
+  },
+  {
+    "d": "www.duckduckgo.com",
+    "s": "Duck.ai",
+    "t": "chat",
+    "u": "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true "
+  },
+  {
+    "d": "chatters.ca",
+    "s": "Chatters Salons",
+    "t": "chatters",
+    "u": "https://chatters.ca/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "chequeado.com",
+    "s": "Chequeado",
+    "t": "ch",
+    "u": "http://chequeado.com/?s={{{s}}}"
+  },
+  {
+    "d": "camphikedrive.blogspot.com.au",
+    "s": "CampHikeDrive",
+    "t": "chd",
+    "u": "http://camphikedrive.blogspot.com.au/search?q={{{s}}}&m=1"
+  },
+  {
+    "d": "www.cheapassgamer.com",
+    "s": "Cheap Ass Gamer",
+    "t": "cheapassgamer",
+    "u": "http://www.cheapassgamer.com/query.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.cheatcc.com",
+    "s": "CheatCC.com",
+    "t": "cheatcc",
+    "u": "http://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11"
+  },
+  {
+    "d": "www.cheatcc.com",
+    "s": "CheatCC",
+    "t": "cheatcodes",
+    "u": "http://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11"
+  },
+  {
+    "d": "devhints.io",
+    "s": "https://devhints.io/",
+    "t": "cheat",
+    "u": "https://devhints.io/{{{s}}}"
+  },
+  {
+    "d": "www.cheatography.com",
+    "s": "Cheatography",
+    "t": "cheatography",
+    "u": "http://www.cheatography.com/explore/search/?q={{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Web Store Extensions",
+    "t": "che",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}?_category=extensions"
+  },
+  {
+    "d": "preisvergleich.check24.de",
+    "s": "Check24 Preisvergleich",
+    "t": "check24",
+    "u": "https://preisvergleich.check24.de/suche.html?query={{{s}}}"
+  },
+  {
+    "d": "check-host.net",
+    "s": "Check-host.net",
+    "t": "checkhost",
+    "u": "https://check-host.net/ip-info?host={{{s}}}"
+  },
+  {
+    "d": "cheddar.com",
+    "s": "Cheddar",
+    "t": "cheddar",
+    "u": "https://cheddar.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cheese.com",
+    "s": "Cheese",
+    "t": "cheese",
+    "u": "http://www.cheese.com/?q={{{s}}}"
+  },
+  {
+    "d": "search.cheezburger.com",
+    "s": "Cheezburger",
+    "t": "cheezburger",
+    "u": "http://search.cheezburger.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.chefkoch.de",
+    "s": "Chefkoch",
+    "t": "chef",
+    "u": "http://www.chefkoch.de/rs/s0/{{{s}}}/Rezepte.html"
+  },
+  {
+    "d": "docs.chef.io",
+    "s": "Chef Docs",
+    "t": "chefdoc",
+    "u": "https://docs.chef.io/search.html#stq={{{s}}}&stp=1"
+  },
+  {
+    "d": "docs.chef.io",
+    "s": "Chef Docs",
+    "t": "chefio",
+    "u": "https://docs.chef.io/search.html#stq={{{s}}}&stp=1"
+  },
+  {
+    "d": "www.chefkoch.de",
+    "s": "chefkoch.de",
+    "t": "chefkoch",
+    "u": "https://www.chefkoch.de/suche.php?wo=2&suche={{{s}}}"
+  },
+  {
+    "d": "www.chefkoch.de",
+    "s": "Chefkoch.de Vegan",
+    "t": "chefkochvegan",
+    "u": "http://www.chefkoch.de/rs/s0t57/{{{s}}}/Vegan-Rezepte.html"
+  },
+  {
+    "d": "www.chegg.com",
+    "s": "Chegg",
+    "t": "chegg",
+    "u": "http://www.chegg.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.chemicalize.org",
+    "s": "http://www.chemicalize.org/",
+    "t": "chemicalize",
+    "u": "http://www.chemicalize.org/structure/#!mol={{{s}}}&source=fp"
+  },
+  {
+    "d": "www.chemie.de",
+    "s": "Chemie.de",
+    "t": "chemie.de",
+    "u": "http://www.chemie.de/search/?q={{{s}}}"
+  },
+  {
+    "d": "chemistry.stackexchange.com",
+    "s": "Chemistry StackExchange",
+    "t": "chemse",
+    "u": "http://chemistry.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.chemspider.com",
+    "s": "ChemSpider",
+    "t": "chemspider",
+    "u": "http://www.chemspider.com/Search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "chemwiki.ucdavis.edu",
+    "s": "Chemwiki",
+    "t": "chemwiki",
+    "u": "http://chemwiki.ucdavis.edu/Special:Search?search={{{s}}}&qid=&fpid=1285&fpth="
+  },
+  {
+    "d": "www.chess.com",
+    "s": "Chess.com",
+    "t": "chess",
+    "u": "https://www.chess.com/topic/{{{s}}}"
+  },
+  {
+    "d": "www.chessgames.com",
+    "s": "Chess Games",
+    "t": "chessgames",
+    "u": "http://www.chessgames.com/perl/ezsearch.pl?search={{{s}}}"
+  },
+  {
+    "d": "www.chewy.com",
+    "s": "chewy.com",
+    "t": "chewy",
+    "u": "http://www.chewy.com/s?dept=all&query={{{s}}}"
+  },
+  {
+    "d": "champion.gg",
+    "s": "Champion.gg",
+    "t": "chgg",
+    "u": "http://champion.gg/champion/{{{s}}}"
+  },
+  {
+    "d": "www.chicagotribune.com",
+    "s": "The Chicago Tribune",
+    "t": "chicagotribune",
+    "u": "http://www.chicagotribune.com/search/dispatcher.front?Query={{{s}}}&sortby=display_time+descending&subheader-search-button=Go&target=article"
+  },
+  {
+    "d": "www.chichester.gov.uk",
+    "s": "Chichester District Council",
+    "t": "chichester",
+    "u": "http://www.chichester.gov.uk/article/23353/Search?q={{{s}}}"
+  },
+  {
+    "d": "wiki.call-cc.org",
+    "s": "Chicken Scheme",
+    "t": "chicken",
+    "u": "https://wiki.call-cc.org/search?text={{{s}}}"
+  },
+  {
+    "d": "www.chiefdelphi.com",
+    "s": "Chief Delphi",
+    "t": "chief",
+    "u": "https://www.chiefdelphi.com/search?expanded=true&q={{{s}}}"
+  },
+  {
+    "d": "www.chilango.com",
+    "s": "Chilango",
+    "t": "chilango",
+    "u": "https://www.chilango.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.chillingeffects.org",
+    "s": "Chilling Effects",
+    "t": "chillingeffects",
+    "u": "https://www.chillingeffects.org/notices/search?&term={{{s}}}"
+  },
+  {
+    "d": "www.chimerarevo.com",
+    "s": "Chimera Revo",
+    "t": "chimerarevo",
+    "u": "http://www.chimerarevo.com/search/{{{s}}}"
+  },
+  {
+    "d": "ucblibraries.summon.serialssolutions.com",
+    "s": "University of Colorado Libraries Catalog",
+    "t": "chinook",
+    "u": "http://ucblibraries.summon.serialssolutions.com/search?q={{{s}}}"
+  },
+  {
+    "d": "suche.chip.de",
+    "s": "CHIP Online",
+    "t": "chip",
+    "u": "http://suche.chip.de/?q={{{s}}}&it=1&submit.x=0&submit.y=0"
+  },
+  {
+    "d": "www.msarnoff.org",
+    "s": "msarnoff.org ChipDB",
+    "t": "chipdb",
+    "u": "http://www.msarnoff.org/chipdb/{{{s}}}"
+  },
+  {
+    "d": "www.chipoteka.hr",
+    "s": "Chipoteka",
+    "t": "chipoteka",
+    "u": "https://www.chipoteka.hr/search?q={{{s}}}"
+  },
+  {
+    "d": "churchhistorycatalog.lds.org",
+    "s": "Church History Library",
+    "t": "chl",
+    "u": "http://churchhistorycatalog.lds.org/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=chl&indx=1&dum=true&srt=rank&vid=CHL_PUBLIC&frbg=&tb=t&vl%28freeText0%29={{{s}}}&scp.scps=scope%3A%28PEAD%29%2Cscope%3A%28PARCHIVES%29%2Cscope%3A%28PLIBRARY%29%2Cscope%3A%28ALEPH-PCPX%29%2Cscope%3A%28ALEPH-JHX%29%2Cscope%3A%28ALEPH-CAX%29&vl%2830857204UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2830857210UI0%29=any&vl%2830857210UI0%29=title&vl%2830857210UI0%29=any"
+  },
+  {
+    "d": "chalmers.summon.serialssolutions.com",
+    "s": "Chalmers Library",
+    "t": "chlib",
+    "u": "http://chalmers.summon.serialssolutions.com/en/search?ho=t&q={{{s}}}"
+  },
+  {
+    "d": "www.lachainemeteo.com",
+    "s": "La chaine météo",
+    "t": "chm",
+    "u": "https://www.lachainemeteo.com/synthese-previsions-meteo-{{{s}}}"
+  },
+  {
+    "d": "chmodcommand.com",
+    "s": "Chmod Calculator",
+    "t": "chmod",
+    "u": "https://chmodcommand.com/chmod-{{{s}}}/"
+  },
+  {
+    "d": "chocolatecoveredkatie.com",
+    "s": "Chocolate Covered Katie",
+    "t": "choc",
+    "u": "https://chocolatecoveredkatie.com/?s={{{s}}}"
+  },
+  {
+    "d": "chocolatey.org",
+    "s": "Chocolatey",
+    "t": "choco",
+    "u": "https://chocolatey.org/packages?q={{{s}}}"
+  },
+  {
+    "d": "chocolatey.org",
+    "s": "Chocolatey",
+    "t": "chocolatey",
+    "u": "http://chocolatey.org/packages?q={{{s}}}"
+  },
+  {
+    "d": "www.choice.com.au",
+    "s": "Choice",
+    "t": "choice",
+    "u": "https://www.choice.com.au/search?q={{{s}}}"
+  },
+  {
+    "d": "www.chollometro.com",
+    "s": "chollometro",
+    "t": "chollo",
+    "u": "https://www.chollometro.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.chordie.com",
+    "s": "http://www.chordie.com/",
+    "t": "chordie",
+    "u": "http://www.chordie.com/?q={{{s}}}"
+  },
+  {
+    "d": "chordify.net",
+    "s": "Chordify",
+    "t": "chordify",
+    "u": "https://chordify.net/?search={{{s}}}"
+  },
+  {
+    "d": "www.ultimate-guitar.com",
+    "s": "Ultimate Guitar",
+    "t": "chords",
+    "u": "http://www.ultimate-guitar.com/search.php?search_type=title&value={{{s}}}"
+  },
+  {
+    "d": "ja.chordwiki.org",
+    "s": "Chord Wiki",
+    "t": "chordwiki",
+    "u": "https://ja.chordwiki.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "nsearch.chosun.com",
+    "s": "The Chosun Ilbo",
+    "t": "chosun",
+    "u": "http://nsearch.chosun.com/search/total.search?query={{{s}}}"
+  },
+  {
+    "d": "choualbox.com",
+    "s": "choualbox",
+    "t": "choualbox",
+    "u": "https://choualbox.com/recherche?q={{{s}}}"
+  },
+  {
+    "d": "choualbox.com",
+    "s": "Choualbox",
+    "t": "choual",
+    "u": "https://choualbox.com/recherche?q={{{s}}}"
+  },
+  {
+    "d": "www.chow.com",
+    "s": "Chowhound",
+    "t": "chow",
+    "u": "http://www.chow.com/search?type=Topic&from_date=1+year+ago&query={{{s}}}"
+  },
+  {
+    "d": "www.computerhope.com",
+    "s": "Computer Hope",
+    "t": "chp",
+    "u": "https://www.computerhope.com/search2.htm?q={{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Web Store",
+    "t": "chrome",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Web Store",
+    "t": "chromestore",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Web Store",
+    "t": "chromewebstore",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "d": "www.chronopost.fr",
+    "s": "Chronopost France",
+    "t": "chronopost",
+    "u": "http://www.chronopost.fr/fr/chrono_suivi_search?lang=fr&listeNumerosLT={{{s}}}"
+  },
+  {
+    "d": "chain.so",
+    "s": "https://chain.so/",
+    "t": "chs",
+    "u": "https://chain.so/address/{{{s}}}"
+  },
+  {
+    "d": "cheat.sh",
+    "s": "cheat.sh",
+    "t": "chtsh",
+    "u": "https://cheat.sh/{{{s}}}"
+  },
+  {
+    "d": "chuck-nbc.wikia.com",
+    "s": "Chuck Wiki",
+    "t": "chuck",
+    "u": "http://chuck-nbc.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "beta.companieshouse.gov.uk",
+    "s": "Companies House",
+    "t": "chuk",
+    "u": "https://beta.companieshouse.gov.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.churchclarity.org",
+    "s": "Church Clarity",
+    "t": "churchclarity",
+    "u": "https://www.churchclarity.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.churchofsatan.com",
+    "s": "Church of Satan Official Site",
+    "t": "churchofsatan",
+    "u": "http://www.churchofsatan.com/search-results.php?q={{{s}}}"
+  },
+  {
+    "d": "www.cia.gov",
+    "s": "CIA World Factbook",
+    "t": "cia",
+    "u": "https://www.cia.gov/search?q={{{s}}}&site=WORLD_FACTBOOK&btnG=Search&x=0&y=0&output=xml_no_dtd&client=CIA&myAction=%2Fsearch&proxystylesheet=CIA&submitMethod=get&sort=date%3AD%3AL%3Ad1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1"
+  },
+  {
+    "d": "www.ciao.de",
+    "s": "Ciao.de",
+    "t": "ciao",
+    "u": "http://www.ciao.de/sr/q-{{{s}}}"
+  },
+  {
+    "d": "web2.wipo.int",
+    "s": "Classification Internationale des Brevets (2016)",
+    "t": "cib",
+    "u": "http://web2.wipo.int/classifications/ipc/ipcpub/#lang=fr&menulang=FR&refresh=page&fipcpc=yes&indexes=yes&notion=scheme&version=20160101&symbol={{{s}}}"
+  },
+  {
+    "d": "ciberduvidas.iscte-iul.pt",
+    "s": "Ciberdúvidas da Língua Portuguesa",
+    "t": "ciberduvidas",
+    "u": "https://ciberduvidas.iscte-iul.pt/pesquisa?termo={{{s}}}"
+  },
+  {
+    "d": "www.codeigniter.com",
+    "s": "CodeIgniter",
+    "t": "ci",
+    "u": "https://www.codeigniter.com/user_guide/search.html?q={{{s}}}"
+  },
+  {
+    "d": "paper.sc",
+    "s": "Paper.sc",
+    "t": "cie",
+    "u": "https://paper.sc/search/?as=page&query={{{s}}}"
+  },
+  {
+    "d": "www.cinemainfocus.com",
+    "s": "Cinema In Focus",
+    "t": "cif",
+    "u": "http://www.cinemainfocus.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cifraclub.com.br",
+    "s": "Cifra Club",
+    "t": "cifraclub",
+    "u": "http://www.cifraclub.com.br/?q={{{s}}}"
+  },
+  {
+    "d": "ciied.xyz",
+    "s": "CIIED",
+    "t": "ciied",
+    "u": "http://ciied.xyz/?s={{{s}}}"
+  },
+  {
+    "d": "cinemassacre.com",
+    "s": "Cinemassacre",
+    "t": "cine",
+    "u": "http://cinemassacre.com/?s={{{s}}}&search.x=0&search.y=0"
+  },
+  {
+    "d": "www.cinemagay.it",
+    "s": "CinemaGay",
+    "t": "cinemagay",
+    "u": "http://www.cinemagay.it/ricerca.asp?tipo=0&campo={{{s}}}&Submit=Cerca"
+  },
+  {
+    "d": "www.cineycortosgay.com",
+    "s": "CineyCortosGay.com",
+    "t": "cineycortosgay",
+    "u": "http://www.cineycortosgay.com/search?q={{{s}}}"
+  },
+  {
+    "d": "chocolatey.org",
+    "s": "Chocolatey",
+    "t": "cinst",
+    "u": "http://chocolatey.org/packages?q={{{s}}}"
+  },
+  {
+    "d": "www.lirikcinta.com",
+    "s": "Lirikcinta.com",
+    "t": "cinta",
+    "u": "https://www.lirikcinta.com/result/?q={{{s}}}"
+  },
+  {
+    "d": "company.info",
+    "s": "Company.info",
+    "t": "cio",
+    "u": "https://company.info/organisations/search?q={{{s}}}"
+  },
+  {
+    "d": "www.circuit-help.com.ph",
+    "s": "Circuit-Help",
+    "t": "circuit-help-ph",
+    "u": "https://www.circuit-help.com.ph/?s={{{s}}}"
+  },
+  {
+    "d": "racingcircuits.info",
+    "s": "RacingCircuits.info",
+    "t": "circuit",
+    "u": "http://racingcircuits.info/misc/search-results.html?search={{{s}}}"
+  },
+  {
+    "d": "search.cisco.com",
+    "s": "Cisco",
+    "t": "cisco",
+    "u": "https://search.cisco.com/search?query={{{s}}}"
+  },
+  {
+    "d": "cisne.sim.ucm.es",
+    "s": "Catálogo Cisne UCM",
+    "t": "cisne",
+    "u": "http://cisne.sim.ucm.es/search*spi~S/X?SEARCH={{{s}}}"
+  },
+  {
+    "d": "www.citatum.hu",
+    "s": "Citatum",
+    "t": "citatum",
+    "u": "https://www.citatum.hu/kereso.php?kereses={{{s}}}"
+  },
+  {
+    "d": "citeseer.ist.psu.edu",
+    "s": "CiteSeer",
+    "t": "citeseer",
+    "u": "http://citeseer.ist.psu.edu/search?q={{{s}}}&submit=Search&sort=rlv&t=doc"
+  },
+  {
+    "d": "www.citeulike.org",
+    "s": "CikeULike",
+    "t": "citeul",
+    "u": "http://www.citeulike.org/search/all?q={{{s}}}"
+  },
+  {
+    "d": "citizendium.org",
+    "s": "Citizendium",
+    "t": "citi",
+    "u": "http://citizendium.org/wiki?search={{{s}}}&title=Special%3ASearch&go=Go+To+Page"
+  },
+  {
+    "d": "www.citizen.es",
+    "s": "Citizen España",
+    "t": "citizenes",
+    "u": "http://www.citizen.es/search?s={{{s}}}"
+  },
+  {
+    "d": "citroenc3owners.com",
+    "s": "citroenC3owners.com",
+    "t": "citroenc3owners",
+    "u": "http://citroenc3owners.com/search.php?keywords={{{s}}}&terms=all&author=&fid[]=5&sc=1&sf=all&sk=t&sd=d&sr=posts&st=0&ch=300&t=0&submit=Search"
+  },
+  {
+    "d": "caniuse.com",
+    "s": "Can I use...",
+    "t": "ciu",
+    "u": "http://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "d": "caniusepython3.com",
+    "s": "Can I Use Python 3?",
+    "t": "ciupy3",
+    "u": "https://caniusepython3.com/project/{{{s}}}"
+  },
+  {
+    "d": "caniuse.com",
+    "s": "can i use ",
+    "t": "cius",
+    "u": "https://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "d": "civilization.wikia.com",
+    "s": "Civilization Wikia",
+    "t": "civ",
+    "u": "http://civilization.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "civilization.wikia.com",
+    "s": "Civilization Wikia",
+    "t": "civilization",
+    "u": "http://civilization.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "conjour.world",
+    "s": "Conjour",
+    "t": "cj",
+    "u": "https://conjour.world/?s={{{s}}}"
+  },
+  {
+    "d": "curia.europa.eu",
+    "s": "Curia",
+    "t": "cjeu",
+    "u": "http://curia.europa.eu/juris/liste.jsf?language=en&num={{{s}}}"
+  },
+  {
+    "d": "www.ck12.org",
+    "s": "cK-12.org",
+    "t": "ck12",
+    "u": "https://www.ck12.org/search/?q={{{s}}}&referrer=top_nav&autoComplete=false"
+  },
+  {
+    "d": "ck2.paradoxwikis.com",
+    "s": "CK2Wiki",
+    "t": "ck2",
+    "u": "https://ck2.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.chefkoch.de",
+    "s": "Chefkoch.de",
+    "t": "ck",
+    "u": "http://www.chefkoch.de/rs/s0/{{{s}}}/Rezepte.html"
+  },
+  {
+    "d": "craftkeys.com",
+    "s": "CraftKeys",
+    "t": "ckeys",
+    "u": "http://craftkeys.com/site-info/{{{s}}}"
+  },
+  {
+    "d": "ck2.paradoxwikis.com",
+    "s": "Crusader Kings II Wiki",
+    "t": "ckiiwiki",
+    "u": "https://ck2.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.cookinglight.com",
+    "s": "http://www.cookinglight.com",
+    "t": "cklt",
+    "u": "http://www.cookinglight.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.creationkit.com",
+    "s": "Creation Kit",
+    "t": "ckt",
+    "u": "http://www.creationkit.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.1001cocktails.com",
+    "s": "1001cocktails",
+    "t": "cktl",
+    "u": "http://www.1001cocktails.com/cocktails/rechercheCocktailsNom.php?mot={{{s}}}"
+  },
+  {
+    "d": "www.encole.com",
+    "s": "Clamps",
+    "t": "clamps",
+    "u": "https://www.encole.com/search/{{{s}}}"
+  },
+  {
+    "d": "clanky.seznam.cz",
+    "s": "Seznam Články",
+    "t": "clanky",
+    "u": "https://clanky.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "d": "www.clarin.com",
+    "s": "Clarín",
+    "t": "clarin",
+    "u": "https://www.clarin.com/buscador/?q={{{s}}}"
+  },
+  {
+    "d": "clark.com",
+    "s": "Clark Howard",
+    "t": "clark",
+    "u": "https://clark.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.clarks.co.uk",
+    "s": "Clarks",
+    "t": "clarks",
+    "u": "https://www.clarks.co.uk/search/?text={{{s}}}"
+  },
+  {
+    "d": "www.clasohlson.com",
+    "s": "Clas Ohlson",
+    "t": "clas",
+    "u": "https://www.clasohlson.com/se/view/content/search?searchKey=All&search_prefix={{{s}}}"
+  },
+  {
+    "d": "www.clasohlson.com",
+    "s": "Clas Ohlson Finland",
+    "t": "clasfi",
+    "u": "https://www.clasohlson.com/fi/view/content/search?N=0&Ntk=All&Ntt={{{s}}}&Nty=1&D={{{s}}}&Ntx=mode+matchpartial&Dx=mode+matchpartial&showTabs=true"
+  },
+  {
+    "d": "clashofclans.wikia.com",
+    "s": "Clash of Clans",
+    "t": "clashofclans",
+    "u": "http://clashofclans.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1#"
+  },
+  {
+    "d": "www.clasohlson.com",
+    "s": "Clas Ohlson Norge",
+    "t": "clasno",
+    "u": "https://www.clasohlson.com/no/view/content/search?searchKey=All&search_prefix={{{s}}}"
+  },
+  {
+    "d": "classicdb.ch",
+    "s": "ClassicDB",
+    "t": "classicdb",
+    "u": "http://classicdb.ch/?search={{{s}}}"
+  },
+  {
+    "d": "www.classrr.com",
+    "s": "Classrr",
+    "t": "classrr",
+    "u": "https://www.classrr.com/classroom/list?q={{{s}}}"
+  },
+  {
+    "d": "clcnederland.com",
+    "s": "CLC Nederland",
+    "t": "clc",
+    "u": "https://clcnederland.com/producten/zoeken?sq={{{s}}}"
+  },
+  {
+    "d": "www.craigslist.org",
+    "s": "Craigslist",
+    "t": "cl",
+    "u": "https://www.craigslist.org/search/sss?query={{{s}}}"
+  },
+  {
+    "d": "support.cloudinary.com",
+    "s": "Cloudinary",
+    "t": "cld",
+    "u": "https://support.cloudinary.com/hc/en-us/search?utf8=%E2%9C%93&query={{{s}}}"
+  },
+  {
+    "d": "www.cleanfreak.com",
+    "s": "CleanFreak",
+    "t": "cleanfreak",
+    "u": "https://www.cleanfreak.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.cleanuptheworld.org",
+    "s": "Clean Up the World",
+    "t": "cleanuptheworld",
+    "u": "http://www.cleanuptheworld.org/en/search.html?kw={{{s}}}"
+  },
+  {
+    "d": "www.clearly.ca",
+    "s": "Clearly.ca",
+    "t": "clearly",
+    "u": "https://www.clearly.ca/eyewear/search?query={{{s}}}"
+  },
+  {
+    "d": "www.clearwebstats.com",
+    "s": "ClearWebStats",
+    "t": "clearweb",
+    "u": "http://www.clearwebstats.com/process.php?q={{{s}}}"
+  },
+  {
+    "d": "www.commandlinefu.com",
+    "s": "Command Line Fu",
+    "t": "clf",
+    "u": "http://www.commandlinefu.com/commands/matching/{{{s}}}/bys=/sort-by-votes"
+  },
+  {
+    "d": "www.charlotteslaw.nl",
+    "s": "Charlotte's Law & Fine Prints",
+    "t": "clfp",
+    "u": "https://www.charlotteslaw.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.lispworks.com",
+    "s": "CommonLisp HyperSpec",
+    "t": "clhs",
+    "u": "http://www.lispworks.com/cgi-bin/search.cgi?q={{{s}}}&cmd=Search%21&t=-D--HB-"
+  },
+  {
+    "d": "clickforce.com.au",
+    "s": "ClickForce",
+    "t": "clickforce",
+    "u": "https://clickforce.com.au/?s={{{s}}}"
+  },
+  {
+    "d": "www.clicrbs.com.br",
+    "s": "ClicRBS",
+    "t": "clicrbs",
+    "u": "http://www.clicrbs.com.br/busca/rs/?q={{{s}}} "
+  },
+  {
+    "d": "www.clien.net",
+    "s": "Clien",
+    "t": "clien",
+    "u": "https://www.clien.net/service/search?q={{{s}}}"
+  },
+  {
+    "d": "www.music.cliggo.com",
+    "s": "Cliggo",
+    "t": "cliggo",
+    "u": "https://www.music.cliggo.com/search/{{{s}}}"
+  },
+  {
+    "d": "cliki.net",
+    "s": "Cliki",
+    "t": "cliki",
+    "u": "http://cliki.net/site/search?query={{{s}}}"
+  },
+  {
+    "d": "climatecounts.org",
+    "s": "Climate Counts",
+    "t": "climatecounts",
+    "u": "http://climatecounts.org/searchresults.php?p=term&term={{{s}}}"
+  },
+  {
+    "d": "www.climatempo.com.br",
+    "s": "Climatempo",
+    "t": "climatempo",
+    "u": "http://www.climatempo.com.br/?q={{{s}}}"
+  },
+  {
+    "d": "www.climedweb.com",
+    "s": "Climed Seviços de Saude",
+    "t": "climed",
+    "u": "http://www.climedweb.com/wp/?s="
+  },
+  {
+    "d": "jobs.advancedclinical.com",
+    "s": "Advanced Clinical Careers",
+    "t": "clinical",
+    "u": "https://jobs.advancedclinical.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "clinicasyhospitales.com.co",
+    "s": "https://clinicasyhospitales.com.co/",
+    "t": "clinicas",
+    "u": "https://clinicasyhospitales.com.co/buscar?q={{{s}}}"
+  },
+  {
+    "d": "clio.columbia.edu",
+    "s": "CLIO: Columbia University Library Catalog",
+    "t": "clio",
+    "u": "https://clio.columbia.edu/catalog?q={{{s}}}"
+  },
+  {
+    "d": "office.microsoft.com",
+    "s": "Microsoft Clipart",
+    "t": "clipart",
+    "u": "http://office.microsoft.com/en-us/clipart/results.aspx?qu={{{s}}}&sc=20"
+  },
+  {
+    "d": "www.clipstijl.nl",
+    "s": "Clipstijl",
+    "t": "clipstijl",
+    "u": "http://www.clipstijl.nl/zoeken.php?zoek={{{s}}} "
+  },
+  {
+    "d": "cliqist.com",
+    "s": "Cliqist",
+    "t": "cliqist",
+    "u": "http://cliqist.com/?s={{{s}}}"
+  },
+  {
+    "d": "beta.cliqz.com",
+    "s": "Cliqz",
+    "t": "cliqz",
+    "u": "https://beta.cliqz.com/search?q={{{s}}}&lang=en"
+  },
+  {
+    "d": "clojuredocs.org",
+    "s": "ClojureDocs",
+    "t": "clj",
+    "u": "https://clojuredocs.org/search?q={{{s}}}"
+  },
+  {
+    "d": "cljdoc.org",
+    "s": "cljdoc",
+    "t": "cljdoc",
+    "u": "https://cljdoc.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.clker.com",
+    "s": "Clker",
+    "t": "clker",
+    "u": "http://www.clker.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.clockworksynergy.com",
+    "s": "Clockwork Synergy",
+    "t": "clockworksynergy",
+    "u": "http://www.clockworksynergy.com/?s={{{s}}} &post_type=product"
+  },
+  {
+    "d": "clojars.org",
+    "s": "Clojars",
+    "t": "clojars",
+    "u": "https://clojars.org/search?q={{{s}}}"
+  },
+  {
+    "d": "clojuredocs.org",
+    "s": "Clojure Docs",
+    "t": "clojure",
+    "u": "http://clojuredocs.org/search?x=0&y=0&q={{{s}}}"
+  },
+  {
+    "d": "clojuredocs.org",
+    "s": "Clojure Docs",
+    "t": "clojuredocs",
+    "u": "http://clojuredocs.org/search?x=0&y=0&q={{{s}}}"
+  },
+  {
+    "d": "cloogle.org",
+    "s": "Cloogle",
+    "t": "cloogle",
+    "u": "http://cloogle.org/#{{{s}}}"
+  },
+  {
+    "d": "www.worldcat.org",
+    "s": "WorldCat",
+    "t": "closebook",
+    "u": "https://www.worldcat.org/search?qt=worldcat_org_bks&q={{{s}}}&fq=dt%3Abks"
+  },
+  {
+    "d": "docs.aws.amazon.com",
+    "s": "AWS CloudFormation Documentation",
+    "t": "cloudformation",
+    "u": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery={{{s}}}&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS CloudFormation&facet_doc_guide=User Guide"
+  },
+  {
+    "d": "cloudron.io",
+    "s": "Cloudron",
+    "t": "cloudron",
+    "u": "https://cloudron.io/appstore.html?search={{{s}}}"
+  },
+  {
+    "d": "www.cloudsdale.org",
+    "s": "Cloudsdale",
+    "t": "cloudsdale",
+    "u": "https://www.cloudsdale.org/explore/clouds/search?q={{{s}}}"
+  },
+  {
+    "d": "nightwear.clovia.com",
+    "s": "Clovia",
+    "t": "clovia.app",
+    "u": "https://nightwear.clovia.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "clearlinux.org",
+    "s": "Clear Linux* Project",
+    "t": "clr",
+    "u": "https://clearlinux.org/search?search={{{s}}}"
+  },
+  {
+    "d": "calil.jp",
+    "s": "東京都の図書館横断検索 | カーリル",
+    "t": "clt",
+    "u": "https://calil.jp/local/search?csid=tokyo&q={{{s}}}"
+  },
+  {
+    "d": "www.clubic.com",
+    "s": "Clubic",
+    "t": "clubic",
+    "u": "http://www.clubic.com/r/{{{s}}}"
+  },
+  {
+    "d": "catalogue.leidenuniv.nl",
+    "s": "Catalogue Leiden University",
+    "t": "clu",
+    "u": "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,{{{s}}}&tab=all_content&search_scope=All_Content&vid=UBL_V1&lang=en_US&offset=0"
+  },
+  {
+    "d": "clwb.net",
+    "s": "clwb",
+    "t": "clwb",
+    "u": "https://clwb.net/?post_type=event&s={{{s}}}"
+  },
+  {
+    "d": "www.cmake.org",
+    "s": "CMake 3.0 Documentation",
+    "t": "cmake30",
+    "u": "http://www.cmake.org/cmake/help/v3.0/search.html?q={{{s}}}"
+  },
+  {
+    "d": "cmake.org",
+    "s": "CMake documentation",
+    "t": "cmake",
+    "u": "https://cmake.org/cmake/help/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "CoinMarketCap",
+    "t": "cmcap",
+    "u": "https://coinmarketcap.com/currencies/{{{s}}}"
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "CoinMarketCap",
+    "t": "cmc",
+    "u": "https://coinmarketcap.com/currencies/{{{s}}}"
+  },
+  {
+    "d": "cm.center",
+    "s": "CM.Center",
+    "t": "cm",
+    "u": "https://cm.center/catalog/?q={{{s}}}"
+  },
+  {
+    "d": "www.chicagomusicexchange.com",
+    "s": "Chicago Music Exchange",
+    "t": "cme",
+    "u": "https://www.chicagomusicexchange.com/search?query={{{s}}}"
+  },
+  {
+    "d": "library.cmi.ac.in",
+    "s": "CMI Library",
+    "t": "cmi",
+    "u": "http://library.cmi.ac.in/cgi-bin/koha/opac-search.pl?q={{{s}}}"
+  },
+  {
+    "d": "catalog.clcohio.org",
+    "s": "Columbus Metropolitan Library",
+    "t": "cml",
+    "u": "http://catalog.clcohio.org/polaris/search/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "d": "www.cmmmanager.com",
+    "s": "CMM-Manager Forum",
+    "t": "cmmm",
+    "u": "https://www.cmmmanager.com/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.cmmmanager.com",
+    "s": "CMM-Manager",
+    "t": "cmmmgr",
+    "u": "https://www.cmmmanager.com/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "compare.eu",
+    "s": "compare.eu",
+    "t": "cmpeu",
+    "u": "http://compare.eu/?fs={{{s}}}"
+  },
+  {
+    "d": "www.chicagomanualofstyle.org",
+    "s": "Chicago Manual of Style",
+    "t": "cms",
+    "u": "http://www.chicagomanualofstyle.org/search.epl?q={{{s}}}"
+  },
+  {
+    "d": "cmslxr.fnal.gov",
+    "s": "CMSSW Software Cross-Reference",
+    "t": "cmssw",
+    "u": "http://cmslxr.fnal.gov/search?_filestring=&_string={{{s}}}"
+  },
+  {
+    "d": "cnba.uba.ar",
+    "s": "Colegio Nacional de Buenos Aires",
+    "t": "cnba",
+    "u": "http://cnba.uba.ar/search/node/{{{s}}}"
+  },
+  {
+    "d": "search.cnbc.com",
+    "s": "CNBC",
+    "t": "cnbc",
+    "u": "http://search.cnbc.com/main.do?target=all&keywords={{{s}}}"
+  },
+  {
+    "d": "www.charitynavigator.org",
+    "s": "Charity Navigator",
+    "t": "cn",
+    "u": "http://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}"
+  },
+  {
+    "d": "cndic.naver.com",
+    "s": "Naver Chinese Dictionary",
+    "t": "cndic",
+    "u": "http://cndic.naver.com/search/all?q={{{s}}}"
+  },
+  {
+    "d": "www.cnet.com",
+    "s": "CNET",
+    "t": "cnet",
+    "u": "http://www.cnet.com/1770-5_1-0.html?query={{{s}}}&tag=srch&target=nw"
+  },
+  {
+    "d": "www.cnet.com",
+    "s": "CNET en español",
+    "t": "cnete",
+    "u": "http://www.cnet.com/es/busqueda/?query={{{s}}}"
+  },
+  {
+    "d": "www.cnet.com",
+    "s": "CNET UK",
+    "t": "cnetuk",
+    "u": "http://www.cnet.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.conservativehome.com",
+    "s": "Conservative Home",
+    "t": "cnh",
+    "u": "https://www.conservativehome.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.cnm.edu",
+    "s": "Central New Mexico Community College",
+    "t": "cnm",
+    "u": "https://www.cnm.edu/@@gcse-searchresults?q={{{s}}}"
+  },
+  {
+    "d": "www.cnn.com",
+    "s": "CNN",
+    "t": "cnn",
+    "u": "http://www.cnn.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "cnnespanol.cnn.com",
+    "s": "CNN en español",
+    "t": "cnne",
+    "u": "http://cnnespanol.cnn.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.cineplex.com",
+    "s": "Cineplex",
+    "t": "cnplx",
+    "u": "http://www.cineplex.com/search-2015?search-query={{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "CNRTL",
+    "t": "cnrtla",
+    "u": "http://www.cnrtl.fr/antonymie/{{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "cnrtl concordance",
+    "t": "cnrtlc",
+    "u": "http://www.cnrtl.fr/concordance/{{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "Centre national de ressources textuelles et lexicales",
+    "t": "cnrtl",
+    "u": "http://www.cnrtl.fr/definition/{{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "cnrtl définitions",
+    "t": "cnrtld",
+    "u": "http://www.cnrtl.fr/definition/{{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "cnrtl étymologie",
+    "t": "cnrtle",
+    "u": "http://www.cnrtl.fr/etymologie/{{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "cnrtl morphologie",
+    "t": "cnrtlm",
+    "u": "http://www.cnrtl.fr/morphologie/{{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "cnrtl proxemie",
+    "t": "cnrtlp",
+    "u": "http://www.cnrtl.fr/proxemie/{{{s}}}"
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "cnrtl synonymie",
+    "t": "cnrtls",
+    "u": "http://www.cnrtl.fr/synonymie/{{{s}}}"
+  },
+  {
+    "d": "casinonews.today",
+    "s": "Casino News Today",
+    "t": "cnt",
+    "u": "http://casinonews.today/?s={{{s}}} "
+  },
+  {
+    "d": "www.cnrtl.fr",
+    "s": "Centre National de Ressources Textuelles et Lexicales",
+    "t": "cntrl",
+    "u": "http://www.cnrtl.fr/definition/{{{s}}}"
+  },
+  {
+    "d": "www.counterpunch.org",
+    "s": "Counterpunch",
+    "t": "cntrp",
+    "u": "https://www.counterpunch.org/search-results/?q={{{s}}}"
+  },
+  {
+    "d": "cannanewswire.co",
+    "s": "Canna Newswire",
+    "t": "cnw",
+    "u": "https://cannanewswire.co/?s={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "cny2eur",
+    "u": "https://www.xe.com/currencyconverter/convert/?From=CNY&To=EUR&Amount={{{s}}}"
+  },
+  {
+    "d": "www.cheapies.nz",
+    "s": "Cheapies NZ",
+    "t": "cnz",
+    "u": "https://www.cheapies.nz/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.coastercrazy.com",
+    "s": "CoasterCrazy",
+    "t": "coastercrazy",
+    "u": "http://www.coastercrazy.com/forums/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "cocatalog.loc.gov",
+    "s": "Copyright Catalog (title)",
+    "t": "cocatalog",
+    "u": "http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg={{{s}}}&Search_Code=TALL&CNT=25&HIST=1"
+  },
+  {
+    "d": "cocatalog.loc.gov",
+    "s": "Copyright Catalog (name)",
+    "t": "cocatalogn",
+    "u": "http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg={{{s}}}&Search_Code=NALL&CNT=25&HIST=1"
+  },
+  {
+    "d": "coccoc.com",
+    "s": "Cốc Cốc",
+    "t": "coccoc",
+    "u": "http://coccoc.com/search#query={{{s}}}"
+  },
+  {
+    "d": "www.cocklestorm.com",
+    "s": "Cocklestorm Fencing Ltd",
+    "t": "cocklestorm",
+    "u": "http://www.cocklestorm.com/catalogsearch/result/?q={{{s}}} "
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "Apple Developer",
+    "t": "cocoa",
+    "u": "https://developer.apple.com/search/index.php?q={{{s}}} "
+  },
+  {
+    "d": "cocoapods.org",
+    "s": "Cocoapods",
+    "t": "cocoapods",
+    "u": "http://cocoapods.org/?q={{{s}}}"
+  },
+  {
+    "d": "physics.nist.gov",
+    "s": "https://physics.nist.gov/cuu/Constants/index.html",
+    "t": "codata",
+    "u": "https://physics.nist.gov/cgi-bin/cuu/Results?search_for={{{s}}}"
+  },
+  {
+    "d": "coda.io",
+    "s": "Coda Template",
+    "t": "codat",
+    "u": "https://coda.io/templates/productivity?search={{{s}}}"
+  },
+  {
+    "d": "support.code42.com",
+    "s": "Code42",
+    "t": "code42",
+    "u": "https://support.code42.com/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "codebottle.io",
+    "s": "CodeBottle",
+    "t": "codebottle",
+    "u": "https://codebottle.io/?q={{{s}}}"
+  },
+  {
+    "d": "codecanyon.net",
+    "s": "CodeCanyon",
+    "t": "codecanyon",
+    "u": "http://codecanyon.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "d": "codedgar.com.ve",
+    "s": "Codedgar",
+    "t": "codedgar",
+    "u": "https://codedgar.com.ve/?s={{{s}}}"
+  },
+  {
+    "d": "codeforces.com",
+    "s": "Codeforces",
+    "t": "codeforces",
+    "u": "http://codeforces.com/search?query={{{s}}}"
+  },
+  {
+    "d": "code.gov",
+    "s": "Code.gov",
+    "t": "codegov",
+    "u": "https://code.gov/search?query={{{s}}}"
+  },
+  {
+    "d": "code.kx.com",
+    "s": "code.kx",
+    "t": "codekx",
+    "u": "https://code.kx.com/q/search?query={{{s}}}"
+  },
+  {
+    "d": "codepen.io",
+    "s": "Codepen",
+    "t": "codepen",
+    "u": "https://codepen.io/search/pens?q={{{s}}}&limit=all&type=type-pens"
+  },
+  {
+    "d": "codepoints.net",
+    "s": "Codepoints",
+    "t": "codepoints",
+    "u": "http://codepoints.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.searchco.de",
+    "s": "Search Code",
+    "t": "code",
+    "u": "http://www.searchco.de/?q={{{s}}}&cs=on"
+  },
+  {
+    "d": "www.codeweavers.com",
+    "s": "Codeweavers",
+    "t": "codeweavers",
+    "u": "http://www.codeweavers.com/compatibility/search/?name={{{s}}}"
+  },
+  {
+    "d": "codex.wordpress.org",
+    "s": "WordPress Codex",
+    "t": "codex",
+    "u": "http://codex.wordpress.org/?search={{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "collinsdictionary",
+    "t": "codi",
+    "u": "https://www.collinsdictionary.com/dictionary/english/{{{s}}}"
+  },
+  {
+    "d": "thecodinglove.com",
+    "s": "thecodinglove.com",
+    "t": "codinglove",
+    "u": "http://thecodinglove.com/search/{{{s}}}"
+  },
+  {
+    "d": "cod.esportspedia.com",
+    "s": "Call of Duty eSports Wiki",
+    "t": "codpedia",
+    "u": "https://cod.esportspedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "tympanus.net",
+    "s": "Codrops",
+    "t": "codrops",
+    "u": "http://tympanus.net/codrops/?s={{{s}}}"
+  },
+  {
+    "d": "callofduty.wikia.com",
+    "s": "Call of Duty Wiki",
+    "t": "codw",
+    "u": "http://callofduty.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "getsmokin.nl",
+    "s": "GetSmokin'",
+    "t": "coffeeshop",
+    "u": "https://getsmokin.nl/coffeeshops?shopsearch={{{s}}}"
+  },
+  {
+    "d": "www.cloudofgoods.com",
+    "s": "Cloud of Goods",
+    "t": "cog",
+    "u": "https://www.cloudofgoods.com/s/products?query={{{s}}}"
+  },
+  {
+    "d": "bookmanager.com",
+    "s": "Coho Books",
+    "t": "coho",
+    "u": "http://bookmanager.com/760081x/index.php?q=h.tviewer&using_sb=status&qsb=keyword&so=oh&searchtype=keyword&qs={{{s}}}&x=0&y=0&qs_file="
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "CoinMarketCap",
+    "t": "coin",
+    "u": "https://coinmarketcap.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.coingecko.com",
+    "s": "CoinGecko",
+    "t": "coingecko",
+    "u": "https://www.coingecko.com/en/search/bang?query={{{s}}}"
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "Coinmarketcap",
+    "t": "coinmarketcap",
+    "u": "https://coinmarketcap.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "coinmarketcap.com",
+    "s": "Coin Market Cap",
+    "t": "coinmc",
+    "u": "https://coinmarketcap.com/currencies/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.londoncoins.co.uk",
+    "s": "London Coins",
+    "t": "coins",
+    "u": "http://www.londoncoins.co.uk/?page=Pastresults&searchterm={{{s}}}&searchtype=1"
+  },
+  {
+    "d": "www.colourbox.com",
+    "s": "Colourbox",
+    "t": "col",
+    "u": "https://www.colourbox.com/search/find?q={{{s}}}"
+  },
+  {
+    "d": "community.adobe.com",
+    "s": "ColdFusion Docs",
+    "t": "coldfusion",
+    "u": "http://community.adobe.com/help/search.html?searchterm={{{s}}}&go=go&q={{{s}}}&l=coldfusion_product_adobelr&x=0&y=0&area=0&lr=en_US"
+  },
+  {
+    "d": "shop.coles.com.au",
+    "s": "Coles",
+    "t": "coles",
+    "u": "https://shop.coles.com.au/a/a-national/everything/search/{{{s}}}?pageNumber=1"
+  },
+  {
+    "d": "www.collegeboard.org",
+    "s": "CollegeBoard",
+    "t": "collegeboard",
+    "u": "https://www.collegeboard.org/search?tp=usearch&x=15&x1=t4&y=13&searchType=site&word={{{s}}}"
+  },
+  {
+    "d": "www.collegeconfidential.com",
+    "s": "CollegeConfidential Forums",
+    "t": "collegeconfidential",
+    "u": "http://www.collegeconfidential.com/search_results.htm?q={{{s}}}&sa=Google+Search&userInput=&sitesearch=collegeconfidential.com&cx=013579521852154800353%3Avvp1k6kluvq&cof=FORID%3A9 "
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Dictionary",
+    "t": "collins",
+    "u": "http://www.collinsdictionary.com/dictionary/english/{{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins German to English",
+    "t": "collinsge",
+    "u": "https://www.collinsdictionary.com/dictionary/german-english/{{{s}}}"
+  },
+  {
+    "d": "oxforddictionary.so8848.com",
+    "s": "Online Oxford Collocation Dictionary",
+    "t": "collocation",
+    "u": "http://oxforddictionary.so8848.com/search1?word={{{s}}}"
+  },
+  {
+    "d": "colloq.io",
+    "s": "Colloq.io",
+    "t": "colloq",
+    "u": "https://colloq.io/search?query={{{s}}}"
+  },
+  {
+    "d": "colostate-primo.hosted.exlibrisgroup.com",
+    "s": "Colorado State Universtiy library",
+    "t": "Cololib",
+    "u": "https://colostate-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01COLSU&lang=en_US&primoQueryTemp=d&search_field=any&search_scope=Everything&query=any,contains,{{{s}}}"
+  },
+  {
+    "d": "www.colorhexa.com",
+    "s": "ColorHexa",
+    "t": "color",
+    "u": "http://www.colorhexa.com/{{{s}}}"
+  },
+  {
+    "d": "www.colormango.com",
+    "s": "ColorMango",
+    "t": "colormango",
+    "u": "http://www.colormango.com/search/index.asp?keyword={{{s}}}"
+  },
+  {
+    "d": "combodeck.net",
+    "s": "ComboDeck",
+    "t": "combodeck",
+    "u": "http://combodeck.net/Query/{{{s}}} "
+  },
+  {
+    "d": "www.comc.com",
+    "s": "COMC",
+    "t": "comc",
+    "u": "https://www.comc.com/Cards,={{{s}}}"
+  },
+  {
+    "d": "computernewb.com",
+    "s": "Computernewb Wiki",
+    "t": "com",
+    "u": "https://computernewb.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "comfy.ua",
+    "s": "Comfy",
+    "t": "comfy",
+    "u": "https://comfy.ua/catalogsearch/result?q={{{s}}}"
+  },
+  {
+    "d": "www.comic-rocket.com",
+    "s": "Comic Rocket",
+    "t": "comicrocket",
+    "u": "https://www.comic-rocket.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.comicvine.com",
+    "s": "Comic Vine",
+    "t": "comicvine",
+    "u": "http://www.comicvine.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.comixology.com",
+    "s": "Comixology",
+    "t": "comix",
+    "u": "https://www.comixology.com/search?search={{{s}}}"
+  },
+  {
+    "d": "www.comixology.eu",
+    "s": "Comixology.eu",
+    "t": "comixeu",
+    "u": "https://www.comixology.eu/search?search={{{s}}} "
+  },
+  {
+    "d": "www.comixology.co.uk",
+    "s": "ComiXology UK",
+    "t": "comixuk",
+    "u": "https://www.comixology.co.uk/search?search={{{s}}}&submit=Submit"
+  },
+  {
+    "d": "www.commitstrip.com",
+    "s": "Commit Strip",
+    "t": "commitstrip",
+    "u": "http://www.commitstrip.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.commonsensemedia.org",
+    "s": "Common Sense Media",
+    "t": "commonsensemedia",
+    "u": "http://www.commonsensemedia.org/search/{{{s}}}"
+  },
+  {
+    "d": "commons.wikimedia.org",
+    "s": "Wikimedia Commons",
+    "t": "commons",
+    "u": "https://commons.wikimedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "beta.companieshouse.gov.uk",
+    "s": "UK Companies House",
+    "t": "companieshouse",
+    "u": "https://beta.companieshouse.gov.uk/search/companies?q={{{s}}}"
+  },
+  {
+    "d": "www.comparegames.com.br",
+    "s": "Compare Games",
+    "t": "comparegames",
+    "u": "http://www.comparegames.com.br/comprar/{{{s}}} "
+  },
+  {
+    "d": "compass-style.org",
+    "s": "Compass",
+    "t": "compass",
+    "u": "http://compass-style.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "compfight.com",
+    "s": "Compfight",
+    "t": "compfight",
+    "u": "http://compfight.com/search/{{{s}}} /"
+  },
+  {
+    "d": "mail.google.com",
+    "s": "Compose Email (Gmail)",
+    "t": "compose",
+    "u": "https://mail.google.com/mail/?view=cm&to=&su={{{s}}}"
+  },
+  {
+    "d": "www.comptoirsecu.fr",
+    "s": "Le Comptoir Sécu",
+    "t": "comptoirsecu",
+    "u": "http://www.comptoirsecu.fr/?s={{{s}}}"
+  },
+  {
+    "d": "www.compumundo.com.ar",
+    "s": "Compumundo",
+    "t": "compumundo",
+    "u": "https://www.compumundo.com.ar/q/{{{s}}}/srch?q={{{s}}}"
+  },
+  {
+    "d": "www.computerhope.com",
+    "s": "Computer Hope",
+    "t": "computerhope",
+    "u": "https://www.computerhope.com/search2.htm?q={{{s}}}"
+  },
+  {
+    "d": "www.computrabajo.com.ar",
+    "s": "CompuTrabajo",
+    "t": "computrabajo",
+    "u": "http://www.computrabajo.com.ar/ofertas-de-trabajo/?q={{{s}}}"
+  },
+  {
+    "d": "www.conference-service.com",
+    "s": "COMS (conference-service.com)",
+    "t": "coms",
+    "u": "https://www.conference-service.com/conferences/conference-search.html?searchwords={{{s}}}"
+  },
+  {
+    "d": "www.consumeraffairs.com",
+    "s": "Consumer Affairs",
+    "t": "conaff",
+    "u": "https://www.consumeraffairs.com/search.html?q={{{s}}}&cat=homepage"
+  },
+  {
+    "d": "conarte.org.mx",
+    "s": "CONARTE",
+    "t": "conarte",
+    "u": "http://conarte.org.mx/?s={{{s}}}"
+  },
+  {
+    "d": "www.pollstar.com",
+    "s": "Pollstar",
+    "t": "concerts",
+    "u": "http://www.pollstar.com/tour/searchall.pl?By=All&Content={{{s}}}&go_green.x=0&go_green.y=0"
+  },
+  {
+    "d": "anaconda.org",
+    "s": "https://anaconda.org",
+    "t": "conda",
+    "u": "https://anaconda.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.elconfidencial.com",
+    "s": "El Confidencial",
+    "t": "confi",
+    "u": "http://www.elconfidencial.com/buscar/2-6-1-3/0/1/10/desc/{{{s}}}/"
+  },
+  {
+    "d": "config.lk",
+    "s": "Config",
+    "t": "config",
+    "u": "https://config.lk/?s={{{s}}}"
+  },
+  {
+    "d": "portal.core.edu.au",
+    "s": "Computing Research and Education Association of Australasia, CORE",
+    "t": "confrank",
+    "u": "http://portal.core.edu.au/conf-ranks/?search={{{s}}}&by=all&source=all&sort=atitle&page=1"
+  },
+  {
+    "d": "www.conferenceranks.com",
+    "s": "Conference Ranks",
+    "t": "confranks",
+    "u": "http://www.conferenceranks.com/?searchall={{{s}}}"
+  },
+  {
+    "d": "www.congress.gov",
+    "s": "Congress",
+    "t": "congress",
+    "u": "https://www.congress.gov/search?q={%22source%22%3A%22legislation%22%2C%22search%22%3A%22{{{s}}}%22}"
+  },
+  {
+    "d": "conjugator.reverso.net",
+    "s": "conjugator.reverso.net",
+    "t": "conjen",
+    "u": "http://conjugator.reverso.net/conjugation-english-verb-{{{s}}}.html"
+  },
+  {
+    "d": "www.spanishdict.com",
+    "s": "SpanishDict - Conjugate",
+    "t": "conjes",
+    "u": "http://www.spanishdict.com/conjugate/{{{s}}}"
+  },
+  {
+    "d": "conjugueur.reverso.net",
+    "s": "conjugueur.reverso.net",
+    "t": "conjfr",
+    "u": "http://conjugueur.reverso.net/conjugaison-francais-verbe-{{{s}}}.html"
+  },
+  {
+    "d": "leconjugueur.lefigaro.fr",
+    "s": "Le conjugueur",
+    "t": "conj",
+    "u": "https://leconjugueur.lefigaro.fr/conjugaison/verbe/{{{s}}}"
+  },
+  {
+    "d": "www.conjugacao.com.br",
+    "s": "conjugação.com.br",
+    "t": "conjugacao",
+    "u": "https://www.conjugacao.com.br/busca.php?q={{{s}}}"
+  },
+  {
+    "d": "www.conjuga-me.net",
+    "s": "Conjuga-me",
+    "t": "conjuga",
+    "u": "http://www.conjuga-me.net/verbo-{{{s}}}"
+  },
+  {
+    "d": "leconjugueur.lefigaro.fr",
+    "s": "Le figaro",
+    "t": "conjuguer",
+    "u": "http://leconjugueur.lefigaro.fr/conjugaison/verbe/{{{s}}}.html"
+  },
+  {
+    "d": "www.connectny.info",
+    "s": "Connect NY",
+    "t": "connectny",
+    "u": "http://www.connectny.info/search/?searchtype=X&SORT=D&searcharg={{{s}}}"
+  },
+  {
+    "d": "www.conrad.at",
+    "s": "Conrad Austria",
+    "t": "conradat",
+    "u": "https://www.conrad.at/de/Search.html?searchType=REGULAR&search={{{s}}}"
+  },
+  {
+    "d": "www.conrad.de",
+    "s": "Conrad",
+    "t": "conrad",
+    "u": "http://www.conrad.de/ce/de/Search.html?search={{{s}}}"
+  },
+  {
+    "d": "consent.games",
+    "s": "Consent Games",
+    "t": "consent",
+    "u": "https://consent.games/?s={{{s}}}"
+  },
+  {
+    "d": "www.conservapedia.com",
+    "s": "Conservapedia",
+    "t": "conservapedia",
+    "u": "http://www.conservapedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.consultant.ru",
+    "s": "Consultant Plus",
+    "t": "consplus",
+    "u": "https://www.consultant.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.consumerreports.org",
+    "s": "Consumer Reports",
+    "t": "consumer",
+    "u": "https://www.consumerreports.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.consumerlab.com",
+    "s": "ConsumerLab.com",
+    "t": "consumerlab",
+    "u": "https://www.consumerlab.com/Search/{{{s}}}"
+  },
+  {
+    "d": "contacts.google.com",
+    "s": "Google Contacts",
+    "t": "contacts",
+    "u": "https://contacts.google.com/search/{{{s}}}"
+  },
+  {
+    "d": "contamet.wordpress.com",
+    "s": "contamet.wordpress.com",
+    "t": "contamet",
+    "u": "http://contamet.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.continente.pt",
+    "s": "Continente",
+    "t": "continente",
+    "u": "http://www.continente.pt/stores/continente/pt-pt/public/Pages/searchResults.aspx?k={{{s}}}"
+  },
+  {
+    "d": "www.conversadesofa.com",
+    "s": "Conversa de Sofá",
+    "t": "conversa",
+    "u": "http://www.conversadesofa.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.clipconverter.cc",
+    "s": "ClipConverter.cc",
+    "t": "convert",
+    "u": "http://www.clipconverter.cc/?url={{{s}}}"
+  },
+  {
+    "d": "theconversation.com",
+    "s": "The Conversation",
+    "t": "conv",
+    "u": "https://theconversation.com/search?q={{{s}}}"
+  },
+  {
+    "d": "supermarket.chef.io",
+    "s": "Chef Supermarket",
+    "t": "coobook",
+    "u": "https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "supermarket.chef.io",
+    "s": "Opscode community cookbooks",
+    "t": "cookbook",
+    "u": "https://supermarket.chef.io/cookbooks?q={{{s}}}"
+  },
+  {
+    "d": "www.cooks.com",
+    "s": "Cooks.com",
+    "t": "cook",
+    "u": "http://www.cooks.com/?/q={{{s}}}"
+  },
+  {
+    "d": "cooking.nytimes.com",
+    "s": "NYT Cooking",
+    "t": "cooking",
+    "u": "https://cooking.nytimes.com/search?q={{{s}}}"
+  },
+  {
+    "d": "cookpad.com",
+    "s": "Cookpad",
+    "t": "cookpad",
+    "u": "http://cookpad.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.cookscountry.com",
+    "s": "Cook's Country",
+    "t": "cooksc",
+    "u": "http://www.cookscountry.com/search/?type=&q={{{s}}}"
+  },
+  {
+    "d": "www.cooks.com",
+    "s": "Cooks.com",
+    "t": "cooks",
+    "u": "http://www.cooks.com/rec/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cooksillustrated.com",
+    "s": "Cook's Illustrated",
+    "t": "cooksi",
+    "u": "http://www.cooksillustrated.com/search/results.asp?query={{{s}}}"
+  },
+  {
+    "d": "www.coolapk.com",
+    "s": "Coolapk",
+    "t": "Coolapk",
+    "u": "https://www.coolapk.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.coolblue.be",
+    "s": "Coolblue België",
+    "t": "coolbluebe",
+    "u": "https://www.coolblue.be/zoeken?query={{{s}}}"
+  },
+  {
+    "d": "www.coolblue.nl",
+    "s": "Coolblue",
+    "t": "coolblue",
+    "u": "https://www.coolblue.nl/zoeken?query={{{s}}}"
+  },
+  {
+    "d": "www.coolblue.nl",
+    "s": "Coolblue NL",
+    "t": "coolbluenl",
+    "u": "https://www.coolblue.nl/zoeken?query={{{s}}}"
+  },
+  {
+    "d": "cooljugator.com",
+    "s": "CoolJugator Lithuanian",
+    "t": "cool",
+    "u": "http://cooljugator.com/lt/{{{s}}}"
+  },
+  {
+    "d": "www.coolinarika.com",
+    "s": "Coolinarika",
+    "t": "coolinarika",
+    "u": "https://www.coolinarika.com/recepti/pretrazivanje/?upit={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Cool Math Games",
+    "t": "coolmath",
+    "u": "https://duckduckgo.com/?q=site%3Acoolmathgames.com+{{{s}}}&ia=web"
+  },
+  {
+    "d": "www.coolshop.dk",
+    "s": "Coolshop",
+    "t": "coolshop",
+    "u": "https://www.coolshop.dk/s/?q={{{s}}}"
+  },
+  {
+    "d": "www.coolstuffinc.com",
+    "s": "CoolStuffInc",
+    "t": "coolstuffinc",
+    "u": "http://www.coolstuffinc.com/main_search.php?pa=searchOnName&page=1&resultsPerPage=25&q={{{s}}}"
+  },
+  {
+    "d": "www.coopathome.ch",
+    "s": "Coop at Home",
+    "t": "coopathome",
+    "u": "https://www.coopathome.ch/search/?text={{{s}}}"
+  },
+  {
+    "d": "www.coop.se",
+    "s": "Coop",
+    "t": "coop",
+    "u": "https://www.coop.se/handla-online/sok/?q={{{s}}}"
+  },
+  {
+    "d": "www.coop.ch",
+    "s": "Coop (DE)",
+    "t": "coop_de",
+    "u": "http://www.coop.ch/pb/site/search/search/2057/Lde/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=de&_sid=4aea1684-910e-4741-9099-86fff3d8a570"
+  },
+  {
+    "d": "www.coop.ch",
+    "s": "Coop (FR)",
+    "t": "coop_fr",
+    "u": "http://www.coop.ch/pb/site/search/search/2057/Lfr/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=fr&_sid=2fae98df-7f08-49a8-86b5-38148b71ebdb"
+  },
+  {
+    "d": "www.coop.ch",
+    "s": "Coop (IT)",
+    "t": "coop_it",
+    "u": "http://www.coop.ch/pb/site/search/search/2057/Lit/index.html?qs={{{s}}}&fr=coop2012&SuchButton.x=0&SuchButton.y=0&search=search&backend=backend_coop2012&la=it&_sid=537d493c-9c35-41dc-8881-d878b57e702f"
+  },
+  {
+    "d": "www.coop.se",
+    "s": "Coop Sweden",
+    "t": "coop_se",
+    "u": "https://www.coop.se/Sok/Receptsok/{{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "Xe.com",
+    "t": "cop2usd",
+    "u": "http://www.xe.com/currencyconverter/convert/?From=COP&To=USD&Amount={{{s}}}"
+  },
+  {
+    "d": "copac.ac.uk",
+    "s": "COPAC",
+    "t": "copac",
+    "u": "http://copac.ac.uk/search?&title={{{s}}}"
+  },
+  {
+    "d": "coppermind.net",
+    "s": "The Coppermind",
+    "t": "coppermind",
+    "u": "http://coppermind.net/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "copr.fedoraproject.org",
+    "s": "Fedora Copr",
+    "t": "copr",
+    "u": "http://copr.fedoraproject.org/coprs/fulltext/?fulltext={{{s}}}"
+  },
+  {
+    "d": "coptr.digipres.org",
+    "s": "Community Owned digital Preservation Tool Registry (COPTR)",
+    "t": "coptr",
+    "u": "http://coptr.digipres.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "coq.inria.fr",
+    "s": "Coq",
+    "t": "coq",
+    "u": "https://coq.inria.fr/distrib/current/refman/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.cornishdictionary.org.uk",
+    "s": "Cornish-English Dictionary",
+    "t": "cor",
+    "u": "https://www.cornishdictionary.org.uk/home?locale=en#{{{s}}}"
+  },
+  {
+    "d": "plugins.cordova.io",
+    "s": "Apache Cordova Plugins Registry",
+    "t": "cordovapl",
+    "u": "http://plugins.cordova.io/#/search?search={{{s}}}"
+  },
+  {
+    "d": "core.ac.uk",
+    "s": "CORE",
+    "t": "core",
+    "u": "https://core.ac.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "coronalabs.com",
+    "s": "Corona",
+    "t": "corona",
+    "u": "https://coronalabs.com/?s={{{s}}}"
+  },
+  {
+    "d": "opencorporates.com",
+    "s": "opencorporates",
+    "t": "corp",
+    "u": "https://opencorporates.com/companies?q={{{s}}}"
+  },
+  {
+    "d": "www.linkcorreios.com.br",
+    "s": "Correios",
+    "t": "correios",
+    "u": "https://www.linkcorreios.com.br/{{{s}}}"
+  },
+  {
+    "d": "www.correos.es",
+    "s": "Localizados Correos de España",
+    "t": "correos",
+    "u": "http://www.correos.es/ss/Satellite/site/aplicacion-4000003383089-herramientas_y_apps/detalle_app-sidioma=es_ES?numero={{{s}}}"
+  },
+  {
+    "d": "sitesearch.corriere.it",
+    "s": "Corriere della Sera",
+    "t": "corriere",
+    "u": "http://sitesearch.corriere.it/forward.jsp?q={{{s}}}"
+  },
+  {
+    "d": "consequenceofsound.net",
+    "s": "Consequence of Sound",
+    "t": "cos",
+    "u": "http://consequenceofsound.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.cosdna.com",
+    "s": "CosDNA (english)",
+    "t": "cosdna",
+    "u": "http://www.cosdna.com/eng/product.php?q={{{s}}}"
+  },
+  {
+    "d": "www.cosmoty.de",
+    "s": "COSMOTY.de",
+    "t": "cosmoty",
+    "u": "http://www.cosmoty.de/suche/{{{s}}}/"
+  },
+  {
+    "d": "www.costco.ca",
+    "s": "Costco Canada",
+    "t": "costcoca",
+    "u": "https://www.costco.ca/CatalogSearch?dept=All&keyword={{{s}}}"
+  },
+  {
+    "d": "www.costco.com",
+    "s": "Costco.com",
+    "t": "costco",
+    "u": "http://www.costco.com/CatalogSearch?storeId=10301&catalogId=10701&langId=-1&keyword={{{s}}}"
+  },
+  {
+    "d": "selfcater.com",
+    "s": "Self Cater",
+    "t": "cottages",
+    "u": "https://selfcater.com/find?query={{{s}}}"
+  },
+  {
+    "d": "cottrillcompass.com",
+    "s": "Cottrill Compass blog",
+    "t": "cottrillcompassblog",
+    "u": "http://cottrillcompass.com/blog/?s={{{s}}}"
+  },
+  {
+    "d": "coub.com",
+    "s": "Coub",
+    "t": "coub",
+    "u": "http://coub.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.couchsurfing.org",
+    "s": "Couchsurfing",
+    "t": "couch",
+    "u": "https://www.couchsurfing.org/?q={{{s}}}"
+  },
+  {
+    "d": "couleur-science.eu",
+    "s": "Couleur Science",
+    "t": "couleur",
+    "u": "http://couleur-science.eu/index.php?q={{{s}}}"
+  },
+  {
+    "d": "cd.justinjc.com",
+    "s": "Countdown",
+    "t": "countdown",
+    "u": "http://cd.justinjc.com/{{{s}}}"
+  },
+  {
+    "d": "www.countrycode.org",
+    "s": "CountryCode.org",
+    "t": "country",
+    "u": "https://www.countrycode.org/{{{s}}}"
+  },
+  {
+    "d": "www.coupang.com",
+    "s": "쿠팡",
+    "t": "coupang",
+    "u": "https://www.coupang.com/np/search?component=&q={{{s}}}"
+  },
+  {
+    "d": "www.couponcabin.com",
+    "s": "CouponCabin",
+    "t": "couponcabin",
+    "u": "http://www.couponcabin.com/ps/{{{s}}}/1/"
+  },
+  {
+    "d": "www.couponmeup.com",
+    "s": "CouponMeUp",
+    "t": "couponmeup",
+    "u": "http://www.couponmeup.com/cgi-bin/display.pl?search=1&q={{{s}}} "
+  },
+  {
+    "d": "www.dealtaker.com",
+    "s": "DealTaker",
+    "t": "coupons",
+    "u": "http://www.dealtaker.com/site/search?q={{{s}}}"
+  },
+  {
+    "d": "www.couponsurfer.com",
+    "s": "CouponSurfer",
+    "t": "couponsurfer",
+    "u": "http://www.couponsurfer.com/coupon_search.cfm?q={{{s}}}"
+  },
+  {
+    "d": "www.courant.com",
+    "s": "Hartford Courant",
+    "t": "courant",
+    "u": "http://www.courant.com/search/dispatcher.front?target=article&sortby=display_time++descending&Query={{{s}}} "
+  },
+  {
+    "d": "www.courrierinternational.com",
+    "s": "Courrier International",
+    "t": "courrierint",
+    "u": "http://www.courrierinternational.com/search/result/{{{s}}}"
+  },
+  {
+    "d": "www.coursera.org",
+    "s": "Coursera",
+    "t": "coursera",
+    "u": "https://www.coursera.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.courttv.com",
+    "s": "Court TV",
+    "t": "courttv",
+    "u": "https://www.courttv.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.coveo.com",
+    "s": "Coveo",
+    "t": "coveo",
+    "u": "http://www.coveo.com/en/search#q={{{s}}}"
+  },
+  {
+    "d": "www.covot.net",
+    "s": "Covot Dictionary",
+    "t": "covot",
+    "u": "http://www.covot.net/dictionary?search={{{s}}}"
+  },
+  {
+    "d": "www.cowboylyrics.com",
+    "s": "Cowboy Lyrics",
+    "t": "cowboylyrics",
+    "u": "https://www.cowboylyrics.com/search.html?cx=partner-pub-1248082249428003%3A7921416976&ie=UTF-8&q={{{s}}}&cof=FORID%3A10&siteurl=cowboylyrics.com%2F&ref=&ss=346j47246j4"
+  },
+  {
+    "d": "combineoverwiki.net",
+    "s": "Combine OverWiki",
+    "t": "cow",
+    "u": "http://combineoverwiki.net/index.php?search={{{s}}}&button=&title=Special%3ASearch"
+  },
+  {
+    "d": "www.cozydays.com",
+    "s": "CozyDays",
+    "t": "cozydays",
+    "u": "https://www.cozydays.com/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "metacpan.org",
+    "s": "MetaCPAN",
+    "t": "cpan1",
+    "u": "https://metacpan.org/search?q={{{s}}}&lucky=1"
+  },
+  {
+    "d": "deps.cpantesters.org",
+    "s": "CPAN Dependencies Checker",
+    "t": "cpandeps",
+    "u": "http://deps.cpantesters.org/?module={{{s}}}&perl=any+version&os=any+OS"
+  },
+  {
+    "d": "metacpan.org",
+    "s": "MetaCPAN",
+    "t": "cpan",
+    "u": "http://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "d": "metacpan.org",
+    "s": "MetaCPAN",
+    "t": "cpanm",
+    "u": "http://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cpap.com",
+    "s": "CPAP.com",
+    "t": "cpap",
+    "u": "http://www.cpap.com/productSearch.php?q=1&query={{{s}}}"
+  },
+  {
+    "d": "www.passmark.com",
+    "s": "Cpu Benchmarks",
+    "t": "cpb",
+    "u": "https://www.passmark.com/search/zoomsearch.php?zoom_query={{{s}}}"
+  },
+  {
+    "d": "cpc.farnell.com",
+    "s": "CPC",
+    "t": "cpc",
+    "u": "http://cpc.farnell.com/search?st={{{s}}}"
+  },
+  {
+    "d": "www1.cpdl.org",
+    "s": "Choral Public Domain Library",
+    "t": "cpdl",
+    "u": "http://www1.cpdl.org/wiki/index.php/Special:Search?search={{{s}}}&fulltext=Keyword+search"
+  },
+  {
+    "d": "codepen.io",
+    "s": "Codepen",
+    "t": "cpen",
+    "u": "http://codepen.io/search?q={{{s}}}&limit=all&depth=everything&show_forks=false"
+  },
+  {
+    "d": "cygwin.com",
+    "s": "Cygwin Package Grep",
+    "t": "cpg",
+    "u": "https://cygwin.com/cgi-bin2/package-grep.cgi?grep={{{s}}}"
+  },
+  {
+    "d": "coinpaprika.com",
+    "s": "https://coinpaprika.com/",
+    "t": "cp",
+    "u": "https://coinpaprika.com/?sort={{{s}}}"
+  },
+  {
+    "d": "chipublib.bibliocommons.com",
+    "s": "Chicago Public Library",
+    "t": "cpl",
+    "u": "https://chipublib.bibliocommons.com/search?&t=title&search_category=title&q={{{s}}}"
+  },
+  {
+    "d": "www.cplusplus.com",
+    "s": "Cplusplus.com",
+    "t": "cplusplus",
+    "u": "http://www.cplusplus.com/query/search.cgi?q={{{s}}}"
+  },
+  {
+    "d": "www.postaonline.cz",
+    "s": "Czech post",
+    "t": "cpost",
+    "u": "https://www.postaonline.cz/trackandtrace/-/zasilka/cislo?parcelNumbers={{{s}}}"
+  },
+  {
+    "d": "en.cppreference.com",
+    "s": "cppreference.com",
+    "t": "cpp",
+    "u": "http://en.cppreference.com/mwiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "de.cppreference.com",
+    "s": "cppreference",
+    "t": "cppde",
+    "u": "http://de.cppreference.com/mwiki/index.php?title=Spezial%3ASuche&search={{{s}}}"
+  },
+  {
+    "d": "en.cppreference.com",
+    "s": "Cppreference",
+    "t": "cppr",
+    "u": "http://en.cppreference.com/mwiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "en.cppreference.com",
+    "s": "cppreference.com",
+    "t": "cppref",
+    "u": "http://en.cppreference.com/mwiki/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "cppreference.com",
+    "s": "Cppreference",
+    "t": "cppreference",
+    "u": "http://cppreference.com/w/?search={{{s}}}"
+  },
+  {
+    "d": "www.cppsamples.com",
+    "s": "C++​Samples",
+    "t": "cppsamples",
+    "u": "http://www.cppsamples.com/#/search/{{{s}}}"
+  },
+  {
+    "d": "www.codeproject.com",
+    "s": "Code Project",
+    "t": "cproj",
+    "u": "http://www.codeproject.com/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "coder.aapc.com",
+    "s": "CPT Codes",
+    "t": "cpt",
+    "u": "https://coder.aapc.com/cpt-codes/{{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Dictionary (Portuguese - English)",
+    "t": "cpten",
+    "u": "https://www.collinsdictionary.com/dictionary/portuguese-english/{{{s}}}"
+  },
+  {
+    "d": "www.cpugeek.co.uk",
+    "s": "TheComputerGeek",
+    "t": "cpu",
+    "u": "https://www.cpugeek.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cpu-world.com",
+    "s": "cpu-world.com",
+    "t": "cpuworld",
+    "u": "http://www.cpu-world.com/cgi-bin/SearchSite.pl?SEARCH={{{s}}}&PROCESS=Search"
+  },
+  {
+    "d": "qrzcq.com",
+    "s": "QRZCQ Database",
+    "t": "cq",
+    "u": "http://qrzcq.com/call/{{{s}}}"
+  },
+  {
+    "d": "www.rollcall.com",
+    "s": "CQ Roll Call",
+    "t": "cqrq",
+    "u": "https://www.rollcall.com/page/search?keyword={{{s}}}&advanced=false&sort=relevance"
+  },
+  {
+    "d": "crackberry.com",
+    "s": "Crackberry",
+    "t": "crackberry",
+    "u": "http://crackberry.com/search/google/{{{s}}}?query={{{s}}}"
+  },
+  {
+    "d": "www.cracked.com",
+    "s": "Cracked",
+    "t": "cracked",
+    "u": "http://www.cracked.com/search/search.php?sa=search&q={{{s}}}"
+  },
+  {
+    "d": "wikidiy.org",
+    "s": "WikiDIY.org - Crafts",
+    "t": "crafts",
+    "u": "https://wikidiy.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.craftsy.com",
+    "s": "Craftsy",
+    "t": "craftsy",
+    "u": "https://www.craftsy.com/search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Craigslist",
+    "t": "craigslist",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Acraigslist.org"
+  },
+  {
+    "d": "www.cram.com",
+    "s": "Cram",
+    "t": "cram",
+    "u": "http://www.cram.com/search?query={{{s}}}&submit=Search"
+  },
+  {
+    "d": "finzi.psych.upenn.edu",
+    "s": "cran.r-project.org",
+    "t": "cran",
+    "u": "http://finzi.psych.upenn.edu/cgi-bin/namazu.cgi?query={{{s}}}&max=100&result=normal&sort=score&idxname=functions&idxname=vignettes&idxname=views"
+  },
+  {
+    "d": "crystal-ann.com",
+    "s": "Crystal Ann (Crystal related news)",
+    "t": "crann",
+    "u": "https://crystal-ann.com/?query={{{s}}}"
+  },
+  {
+    "d": "crate.io",
+    "s": "crate.io",
+    "t": "crate",
+    "u": "https://crate.io/docs/stable/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "d": "crates.io",
+    "s": "The Rust community's crate host",
+    "t": "crates",
+    "u": "https://crates.io/search?q={{{s}}}"
+  },
+  {
+    "d": "crawl.chaosforge.org",
+    "s": "CrawlWiki",
+    "t": "crawl",
+    "u": "http://crawl.chaosforge.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "loom.shalott.org",
+    "s": "##Crawl Learndb",
+    "t": "crawldb",
+    "u": "https://loom.shalott.org/learndb.html#{{{s}}}"
+  },
+  {
+    "d": "bugs.chromium.org",
+    "s": "Chromium bugs",
+    "t": "crbug",
+    "u": "https://bugs.chromium.org/p/chromium/issues/list?q={{{s}}}"
+  },
+  {
+    "d": "www.chainreactioncycles.com",
+    "s": "Chain Reaction Cycles",
+    "t": "crc",
+    "u": "http://www.chainreactioncycles.com/s?q={{{s}}}&sort=pricelow"
+  },
+  {
+    "d": "codereview.stackexchange.com",
+    "s": "codereview.stackexchange.com",
+    "t": "cr",
+    "u": "http://codereview.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cloudretails.com",
+    "s": "CloudRetails",
+    "t": "crcom",
+    "u": "https://www.cloudretails.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cockroachlabs.com",
+    "s": "CockroachDB Docs",
+    "t": "crdb",
+    "u": "https://www.cockroachlabs.com/docs/search.html?q={{{s}}}"
+  },
+  {
+    "d": "crystal-lang.org",
+    "s": "Crystal Language",
+    "t": "crdoc",
+    "u": "https://crystal-lang.org/docs/?q={{{s}}}"
+  },
+  {
+    "d": "www.creative-cables.nl",
+    "s": "Creative Cables NL",
+    "t": "creacables",
+    "u": "https://www.creative-cables.nl/zoeken?controller=search&orderby=position&orderway=desc&search_query={{{s}}}"
+  },
+  {
+    "d": "creation.com",
+    "s": "Creation Ministries",
+    "t": "creation",
+    "u": "https://creation.com/search?q={{{s}}}"
+  },
+  {
+    "d": "forums.creativecow.net",
+    "s": "Creative Cow Forums",
+    "t": "creativecow",
+    "u": "http://forums.creativecow.net/search.php?content=F&q={{{s}}}"
+  },
+  {
+    "d": "library.creativecow.net",
+    "s": "Creative Cow Library",
+    "t": "creativecowlib",
+    "u": "http://library.creativecow.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "en.cppreference.com",
+    "s": "cppreference.com",
+    "t": "c++ref",
+    "u": "http://en.cppreference.com/mwiki/index.php?search=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.consumerreports.org",
+    "s": "Consumer Reports",
+    "t": "crep",
+    "u": "https://www.consumerreports.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.consumerreports.org",
+    "s": "Consumer Reports",
+    "t": "creps",
+    "u": "https://www.consumerreports.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.cricbuzz.com",
+    "s": "Cricbuzz",
+    "t": "cricbuzz",
+    "u": "https://www.cricbuzz.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.criterionchannel.com",
+    "s": "Criterion Channel",
+    "t": "cric",
+    "u": "https://www.criterionchannel.com/search?q={{{s}}}"
+  },
+  {
+    "d": "search.espncricinfo.com",
+    "s": "Cricinfo",
+    "t": "cricinfo",
+    "u": "http://search.espncricinfo.com/ci/content/site/search.html?search={{{s}}}&gblsearch="
+  },
+  {
+    "d": "crickhero.blogspot.com",
+    "s": "CRICKET HERO",
+    "t": "crickhero",
+    "u": "https://crickhero.blogspot.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.crisco.unicaen.fr",
+    "s": "CRISCO Dictionnaire Electronique des Synonymes",
+    "t": "crisco",
+    "u": "http://www.crisco.unicaen.fr/des/synonymes/{{{s}}}"
+  },
+  {
+    "d": "www.criterion.com",
+    "s": "The Criterion Collection",
+    "t": "cri",
+    "u": "https://www.criterion.com/search#stq={{{s}}}"
+  },
+  {
+    "d": "www.criticker.com",
+    "s": "Criticker",
+    "t": "criticker",
+    "u": "https://www.criticker.com/?search={{{s}}}&type=films"
+  },
+  {
+    "d": "critiki.com",
+    "s": "Critiki",
+    "t": "critiki",
+    "u": "https://critiki.com/search/?t={{{s}}}"
+  },
+  {
+    "d": "critiquebrainz.org",
+    "s": "CritiqueBrainz",
+    "t": "critique",
+    "u": "https://critiquebrainz.org/search/?query={{{s}}}&type=artist"
+  },
+  {
+    "d": "criticalrole.wikia.com",
+    "s": "Critical Role Wikia",
+    "t": "critrole",
+    "u": "http://criticalrole.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.bettycrocker.com",
+    "s": "Betty Crocker",
+    "t": "crocker",
+    "u": "https://www.bettycrocker.com/search?term={{{s}}} "
+  },
+  {
+    "d": "www.crol.hr",
+    "s": "CroL",
+    "t": "crol",
+    "u": "https://www.crol.hr/index.php/search?searchword={{{s}}}&searchphrase=all"
+  },
+  {
+    "d": "crontab.guru",
+    "s": "Crontab.guru",
+    "t": "cron",
+    "u": "https://crontab.guru/#{{{s}}}"
+  },
+  {
+    "d": "www.cronista.com",
+    "s": "El Cronista Comercial",
+    "t": "cronista",
+    "u": "https://www.cronista.com/buscar/{{{s}}}"
+  },
+  {
+    "d": "crossclj.info",
+    "s": "CrossClj",
+    "t": "crossclj",
+    "u": "http://crossclj.info/search?q={{{s}}}"
+  },
+  {
+    "d": "www.codeweavers.com",
+    "s": "CodeWeavers",
+    "t": "crossover",
+    "u": "http://www.codeweavers.com/compatibility/search/?name={{{s}}}&search=app"
+  },
+  {
+    "d": "search.crossref.org",
+    "s": "crossref",
+    "t": "crossref",
+    "u": "http://search.crossref.org/?q={{{s}}}"
+  },
+  {
+    "d": "stats.stackexchange.com",
+    "s": "Cross Validated (Stats StackExchange)",
+    "t": "crossvalidated",
+    "u": "http://stats.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.wordfun.ca",
+    "s": "WordFun crossword solver",
+    "t": "crossword",
+    "u": "http://www.wordfun.ca/words/fw?q={{{s}}}"
+  },
+  {
+    "d": "crowdin.com",
+    "s": "Crowdin",
+    "t": "crowdin",
+    "u": "https://crowdin.com/projects?q={{{s}}}#advanced-search"
+  },
+  {
+    "d": "www.crowdsupply.com",
+    "s": "CrowdSupply",
+    "t": "crowdsupply",
+    "u": "https://www.crowdsupply.com/search?q={{{s}}}"
+  },
+  {
+    "d": "chemsearch.kovsky.net",
+    "s": "Chemistry Reference Resolver",
+    "t": "crr",
+    "u": "http://chemsearch.kovsky.net/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.crunchyroll.com",
+    "s": "Crunchyroll",
+    "t": "crs",
+    "u": "http://www.crunchyroll.com/search?from=&q={{{s}}}"
+  },
+  {
+    "d": "crystalshards.xyz",
+    "s": "Crystal Language Libraries",
+    "t": "crsh",
+    "u": "https://crystalshards.xyz/?filter={{{s}}}"
+  },
+  {
+    "d": "crt.sh",
+    "s": "crt.sh",
+    "t": "crt",
+    "u": "https://crt.sh/?q={{{s}}}"
+  },
+  {
+    "d": "www.crunchbase.com",
+    "s": "CrunchBase",
+    "t": "crunchbase",
+    "u": "https://www.crunchbase.com/textsearch?q={{{s}}}"
+  },
+  {
+    "d": "www.crunchbase.com",
+    "s": "Crunchbase",
+    "t": "crunch",
+    "u": "https://www.crunchbase.com/textsearch/?q={{{s}}}"
+  },
+  {
+    "d": "www.crunchyroll.com",
+    "s": "CrunchyRoll",
+    "t": "crunchyroll",
+    "u": "http://www.crunchyroll.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.crushwineco.com",
+    "s": "crushwineco.com",
+    "t": "crush",
+    "u": "https://www.crushwineco.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "crux.nu",
+    "s": "CRUX",
+    "t": "crux",
+    "u": "http://crux.nu/portdb/?a=search&q={{{s}}}"
+  },
+  {
+    "d": "clashroyale.fandom.com",
+    "s": "Clash Royale Wiki",
+    "t": "crw",
+    "u": "https://clashroyale.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Extension Repository",
+    "t": "crx",
+    "u": "https://chrome.google.com/webstore/search?q={{{s}}}"
+  },
+  {
+    "d": "robwu.nl",
+    "s": "Extension Source Viewer",
+    "t": "crxviewer",
+    "u": "https://robwu.nl/crxviewer/?crx={{{s}}}"
+  },
+  {
+    "d": "www.cryptoanalyst.co",
+    "s": "CryptoAnalyst",
+    "t": "cryptoanalyst",
+    "u": "https://www.cryptoanalyst.co/?s={{{s}}}"
+  },
+  {
+    "d": "cryptocoinspy.com",
+    "s": "Cryptocoin Spy",
+    "t": "cryptocoinspy",
+    "u": "https://cryptocoinspy.com/?s={{{s}}}"
+  },
+  {
+    "d": "crypto.stackexchange.com",
+    "s": "Crypto Stack Exchange",
+    "t": "crypto",
+    "u": "http://crypto.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "webopac.csbno.net",
+    "s": "Consorzio Sistema Bibliotecario Nord Ovest",
+    "t": "csbno",
+    "u": "http://webopac.csbno.net/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "d": "api.call-cc.org",
+    "s": "Chicken Scheme Chickadee",
+    "t": "csc",
+    "u": "http://api.call-cc.org/cdoc?q={{{s}}}&query-regex=Regexp"
+  },
+  {
+    "d": "www.cheapshark.com",
+    "s": "CheapShark",
+    "t": "cs",
+    "u": "http://www.cheapshark.com/search?q={{{s}}}"
+  },
+  {
+    "d": "noname.c64.org",
+    "s": "The C64 Scene Database",
+    "t": "csdb",
+    "u": "http://noname.c64.org/csdb/search/?seinsel=all&search={{{s}}}"
+  },
+  {
+    "d": "www.csfd.cz",
+    "s": "ČSFD",
+    "t": "csfd",
+    "u": "https://www.csfd.cz/hledat/?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "reddit.com/r/GlobalOffensive",
+    "t": "csgo",
+    "u": "https://www.reddit.com/r/GlobalOffensive/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "csgo-stats.net",
+    "s": "CSGO-STATS.NET",
+    "t": "csgostats",
+    "u": "https://csgo-stats.net/search?q={{{s}}}"
+  },
+  {
+    "d": "social.msdn.microsoft.com",
+    "s": "C# MSDN",
+    "t": "csharp",
+    "u": "http://social.msdn.microsoft.com/Search/en-US?query={{{s}}}&Refinement=126&ac=8"
+  },
+  {
+    "d": "www.coolstuffinc.com",
+    "s": "Cool Stuff Inc",
+    "t": "csi",
+    "u": "http://www.coolstuffinc.com/main_search.php?pa=searchOnName&page=1&resultsPerPage=25&q={{{s}}}"
+  },
+  {
+    "d": "ciphersuite.info",
+    "s": "Cipher Suite Info",
+    "t": "csinfo",
+    "u": "https://ciphersuite.info/search/?q={{{s}}} "
+  },
+  {
+    "d": "wiki.teamliquid.net",
+    "s": "Liquipedia Counter-Strike Wiki",
+    "t": "cslq",
+    "u": "http://wiki.teamliquid.net/counterstrike/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.commonsensemedia.org",
+    "s": "Common Sense Media",
+    "t": "csm",
+    "u": "https://www.commonsensemedia.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.csmonitor.com",
+    "s": "CSMonitor",
+    "t": "csmonitor",
+    "u": "http://www.csmonitor.com/content/search?SearchText={{{s}}}&SearchButton=Search"
+  },
+  {
+    "d": "cisne.sim.ucm.es",
+    "s": "Catálogo cisne UCM",
+    "t": "csn",
+    "u": "http://cisne.sim.ucm.es/search*spi~S/X?SEARCH={{{s}}}&sort=D"
+  },
+  {
+    "d": "www.csounds.com",
+    "s": "csounds",
+    "t": "csound",
+    "u": "http://www.csounds.com/manual/html/{{{s}}}.html"
+  },
+  {
+    "d": "www.c-span.org",
+    "s": "C-SPAN",
+    "t": "cspan",
+    "u": "https://www.c-span.org/search/basic/?query={{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins Dictionary",
+    "t": "cspen",
+    "u": "https://www.collinsdictionary.com/dictionary/spanish-english/{{{s}}}"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "CSS",
+    "t": "css",
+    "u": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=css"
+  },
+  {
+    "d": "cs.stackexchange.com",
+    "s": "Computer Science - Stack Exchange",
+    "t": "csse",
+    "u": "http://cs.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "css-tricks.com",
+    "s": "CSS-Tricks",
+    "t": "csst",
+    "u": "https://css-tricks.com/?s={{{s}}}"
+  },
+  {
+    "d": "css-tricks.com",
+    "s": "CSS-Tricks",
+    "t": "csstricks",
+    "u": "https://css-tricks.com/search-results/?q={{{s}}}"
+  },
+  {
+    "d": "cstheory.stackexchange.com",
+    "s": "Theoretical Computer Science - Stack Exchange",
+    "t": "cstheory",
+    "u": "http://cstheory.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Web Store",
+    "t": "cstore",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "/r/globaloffensivetrade",
+    "t": "cstrade",
+    "u": "https://www.reddit.com/r/GlobalOffensiveTrade/search?q={{{s}}}&restrict_sr=on&sort=new&t=all"
+  },
+  {
+    "d": "checkshorturl.com",
+    "s": "CheckShortURL",
+    "t": "csu",
+    "u": "http://checkshorturl.com/expand.php?u={{{s}}}"
+  },
+  {
+    "d": "www.couchsurfing.com",
+    "s": "Couchsurfing.org",
+    "t": "csurf",
+    "u": "https://www.couchsurfing.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.csv.de",
+    "s": "Computer Service & Vertrieb",
+    "t": "csv",
+    "u": "https://www.csv.de/artsearchresult.php?STICHWORT={{{s}}}"
+  },
+  {
+    "d": "wiki.call-cc.org",
+    "s": "Chicken Scheme Wiki",
+    "t": "csw",
+    "u": "http://wiki.call-cc.org/search?text={{{s}}}&ident="
+  },
+  {
+    "d": "cs.wikipedia.org",
+    "s": "Wikipedia (cs)",
+    "t": "cswiki",
+    "u": "http://cs.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "ctan.org",
+    "s": "CTAN.org",
+    "t": "ctan",
+    "u": "http://ctan.org/search/?phrase={{{s}}}&x=1&PORTAL=on&PKG=on&AUTHORS=on&TOPICS=on&max=16"
+  },
+  {
+    "d": "www.canadiantire.ca",
+    "s": "Canadian Tire",
+    "t": "ct",
+    "u": "http://www.canadiantire.ca/en/search-results.html?q={{{s}}}"
+  },
+  {
+    "d": "www.cheaperthandirt.com",
+    "s": "Cheaper Than Dirt",
+    "t": "ctd",
+    "u": "http://www.cheaperthandirt.com/SolrSearchResults.aspx?site=All+Products&num=15&q={{{s}}}"
+  },
+  {
+    "d": "ctext.org",
+    "s": "Chinese Text Project Dictionary",
+    "t": "ctextd",
+    "u": "http://ctext.org/dictionary.pl?if=en&char={{{s}}}"
+  },
+  {
+    "d": "clinicaltrials.gov",
+    "s": "ClinicalTrials.gov",
+    "t": "ctgov",
+    "u": "https://clinicaltrials.gov/ct2/results?term={{{s}}}"
+  },
+  {
+    "d": "www.collinsdictionary.com",
+    "s": "Collins English Thesaurus",
+    "t": "cth",
+    "u": "http://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}"
+  },
+  {
+    "d": "www.collegiatetimes.com",
+    "s": "Collegiate Times",
+    "t": "ctimes",
+    "u": "https://www.collegiatetimes.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.ctt.pt",
+    "s": "CTT",
+    "t": "ctt",
+    "u": "https://www.ctt.pt/feapl_2/app/open/objectSearch/objectSearch.jspx?objects={{{s}}}"
+  },
+  {
+    "d": "www.ctv.ca",
+    "s": "CTV",
+    "t": "ctv",
+    "u": "http://www.ctv.ca/searchResult.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.ctvnews.ca",
+    "s": "CTV News",
+    "t": "ctvnews",
+    "u": "http://www.ctvnews.ca/search-results/search-ctv-news-7.137?q={{{s}}}"
+  },
+  {
+    "d": "www.cuantocabron.com",
+    "s": "Cuánto Cabrón",
+    "t": "cuantocabron",
+    "u": "http://www.cuantocabron.com/busqueda/0/{{{s}}}"
+  },
+  {
+    "d": "www.cubanet.org",
+    "s": "Cubanet",
+    "t": "cubanet",
+    "u": "http://www.cubanet.org/?s={{{s}}}"
+  },
+  {
+    "d": "cubash.com",
+    "s": "Cubash",
+    "t": "cub",
+    "u": "https://cubash.com/users?filter=0&query={{{s}}}"
+  },
+  {
+    "d": "cubehero.com",
+    "s": "Cube Hero",
+    "t": "cubehero",
+    "u": "https://cubehero.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.skutchi.com",
+    "s": "Skutchi Designs",
+    "t": "cubicles",
+    "u": "http://www.skutchi.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "caniuse.com",
+    "s": "CanIUse",
+    "t": "cu",
+    "u": "http://caniuse.com/#search={{{s}}}"
+  },
+  {
+    "d": "cuchilleriaalbacete.com",
+    "s": "Cuchilleria Albacete - Grupo Marpasi S.L.",
+    "t": "cuchilleriaalbacete",
+    "u": "https://cuchilleriaalbacete.com/articulos-buscar.php?busco={{{s}}}"
+  },
+  {
+    "d": "cudl.lib.cam.ac.uk",
+    "s": "Cambridge Digital Library",
+    "t": "cudl",
+    "u": "https://cudl.lib.cam.ac.uk/search?keyword={{{s}}}"
+  },
+  {
+    "d": "newcatalog.library.cornell.edu",
+    "s": "Cornell University Library",
+    "t": "cul",
+    "u": "https://newcatalog.library.cornell.edu/search?q={{{s}}}"
+  },
+  {
+    "d": "newcatalog.library.cornell.edu",
+    "s": "Cornell Library Catalog",
+    "t": "culib",
+    "u": "https://newcatalog.library.cornell.edu/catalog?q={{{s}}}"
+  },
+  {
+    "d": "libraries.clemson.edu",
+    "s": "Clemson University Library",
+    "t": "culibrary",
+    "u": "http://libraries.clemson.edu/?s={{{s}}}"
+  },
+  {
+    "d": "www.cultofmac.com",
+    "s": "Cult of Mac",
+    "t": "cultofmac",
+    "u": "http://www.cultofmac.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.cultpens.com",
+    "s": "Cult Pens",
+    "t": "cultpens",
+    "u": "https://www.cultpens.com/s?q={{{s}}}"
+  },
+  {
+    "d": "cults3d.com",
+    "s": "cults3d",
+    "t": "cults3d",
+    "u": "https://cults3d.com/fr/recherche?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.cultureunplugged.com",
+    "s": "CultureUnplugged.com",
+    "t": "cultureunplugged",
+    "u": "http://www.cultureunplugged.com/festival/gsearch.php?cx=006605354541519765965:qm01kqkdyrq&cof=FORID:10;NB:1&ie=UTF-8&q={{{s}}}&sa.x=0&sa.y=0"
+  },
+  {
+    "d": "www.culy.nl",
+    "s": "Culy",
+    "t": "culy",
+    "u": "http://www.culy.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.cambridge.org",
+    "s": "Cambridge University Press",
+    "t": "cup",
+    "u": "https://www.cambridge.org/gb/search?query={{{s}}}"
+  },
+  {
+    "d": "www.cuprinol.co.uk",
+    "s": "Cuprinol UK",
+    "t": "cuprinoluk",
+    "u": "http://www.cuprinol.co.uk/servlet/SiteAdvancedSearchHandler?searchtype=all&searchString={{{s}}}"
+  },
+  {
+    "d": "curia.europa.eu",
+    "s": "Curia (Case number)",
+    "t": "curiac",
+    "u": "http://curia.europa.eu/juris/liste.jsf?pro=&lgrec=en&nat=&oqp=&dates=&lg=&language=en&jur=C%2CT%2CF&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&num={{{s}}}&td=ALL&pcs=O&avg=&page=1&mat=or&jge=&for=&cid=114819"
+  },
+  {
+    "d": "curia.europa.eu",
+    "s": "InfoCuria",
+    "t": "curia",
+    "u": "http://curia.europa.eu/juris/liste.jsf?&num={{{s}}}"
+  },
+  {
+    "d": "curia.europa.eu",
+    "s": "Curia (Name of the parties)",
+    "t": "curian",
+    "u": "http://curia.europa.eu/juris/liste.jsf?pro=&nat=&oqp=&dates=&lg=&language=en&jur=C%2CT%2CF&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&td=ALL&pcs=O&avg=&page=1&mat=or&parties={{{s}}}&jge=&for=&cid=114819"
+  },
+  {
+    "d": "www.currclick.com",
+    "s": "CurrClick",
+    "t": "currclick",
+    "u": "http://www.currclick.com/browse.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.curseforge.com",
+    "s": "curseforge",
+    "t": "curse",
+    "u": "https://www.curseforge.com/wow/addons/search?search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Curse Forge",
+    "t": "curseforge",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Acurseforge.com"
+  },
+  {
+    "d": "www.gesformacion.es",
+    "s": "Ges Formacion",
+    "t": "cursos",
+    "u": "http://www.gesformacion.es/buscar?controller=search&search_query={{{s}}}"
+  },
+  {
+    "d": "www.cuspide.com",
+    "s": "Cúspide",
+    "t": "cuspide",
+    "u": "http://www.cuspide.com/resultados.aspx?c={{{s}}}"
+  },
+  {
+    "d": "stats.stackexchange.com",
+    "s": "Cross Validated",
+    "t": "cv",
+    "u": "https://stats.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "cve.mitre.org",
+    "s": "Common Vulnerabilities and Exposures (CVE)",
+    "t": "cve",
+    "u": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword={{{s}}}"
+  },
+  {
+    "d": "cvedetails.com",
+    "s": "CVE Details",
+    "t": "cved",
+    "u": "http://cvedetails.com/cve-details.php?t=1&cve_id={{{s}}}"
+  },
+  {
+    "d": "www.cvedetails.com",
+    "s": "CVE Details",
+    "t": "cvedtls",
+    "u": "https://www.cvedetails.com/google-search-results.php?q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "cvmweb.cvm.gov.br",
+    "s": "Consulta de Documentos de Companhias Abertas (CVM)",
+    "t": "cvmcia",
+    "u": "http://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/ResultBuscaParticCiaAb.aspx?CNPJNome={{{s}}}&TipoConsult=C"
+  },
+  {
+    "d": "www.cvmarket.lt",
+    "s": "CV Market",
+    "t": "cvm",
+    "u": "http://www.cvmarket.lt/joboffers.php?op=search&search%5Bkeyword%5D={{{s}}}"
+  },
+  {
+    "d": "www.cvo.co.uk",
+    "s": "CVO",
+    "t": "cvo",
+    "u": "http://www.cvo.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "www.cvo.co.uk",
+    "s": "CVO Fire",
+    "t": "cvofire",
+    "u": "https://www.cvo.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "datacvr.virk.dk",
+    "s": "Danish Central Business Register",
+    "t": "cvr",
+    "u": "https://datacvr.virk.dk/data/visninger?soeg={{{s}}}"
+  },
+  {
+    "d": "www.cvs.com",
+    "s": "CVS",
+    "t": "cvs",
+    "u": "http://www.cvs.com/search/_/N-0?searchTerm={{{s}}}&pt=global"
+  },
+  {
+    "d": "www.codewars.com",
+    "s": "CodeWars",
+    "t": "cw",
+    "u": "https://www.codewars.com/kata/search/?q={{{s}}}"
+  },
+  {
+    "d": "de.wikipedia.org",
+    "s": "Wikipedia - Zitierhilfe",
+    "t": "cwde",
+    "u": "https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page={{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Web Store",
+    "t": "cwebstore",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "Common Weakness Enumeration",
+    "t": "cwe",
+    "u": "https://cse.google.com/cse?oe=utf8&ie=utf8&source=uds&q={{{s}}}&start=0&cx=012899561505164599335:tb0er0xsk_o"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia - Cite This Page",
+    "t": "cwen",
+    "u": "https://en.wikipedia.org/wiki/Special:CiteThisPage?page={{{s}}}"
+  },
+  {
+    "d": "www.cwjobs.co.uk",
+    "s": "CWJobs",
+    "t": "cwj",
+    "u": "https://www.cwjobs.co.uk/jobs/{{{s}}}"
+  },
+  {
+    "d": "classic.wowhead.com",
+    "s": "https://classic.wowhead.com/",
+    "t": "cwow",
+    "u": "https://classic.wowhead.com/search?q={{{s}}}"
+  },
+  {
+    "d": "chrome.google.com",
+    "s": "Chrome Web Store",
+    "t": "cws",
+    "u": "https://chrome.google.com/webstore/search/{{{s}}}"
+  },
+  {
+    "d": "crosswordtracker.com",
+    "s": "Crossword Tracker",
+    "t": "cwt",
+    "u": "http://crosswordtracker.com/answer/{{{s}}}/"
+  },
+  {
+    "d": "www.cplusplus.com",
+    "s": "Cplusplus.com",
+    "t": "cxx",
+    "u": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "Cyanide and Happiness",
+    "t": "cyanide",
+    "u": "/?q={{{s}}}+site:explosm.net"
+  },
+  {
+    "d": "cyberlearn.hes-so.ch",
+    "s": "Cyberlearn",
+    "t": "cyb",
+    "u": "https://cyberlearn.hes-so.ch/course/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.cyberscoop.com",
+    "s": "Cyberscoop",
+    "t": "cyber",
+    "u": "https://www.cyberscoop.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.cyberport.de",
+    "s": "Cyberport",
+    "t": "cyberport",
+    "u": "http://www.cyberport.de/?EVENT=itemsearch&query={{{s}}}"
+  },
+  {
+    "d": "cyberleninka.ru",
+    "s": "Киберленинка",
+    "t": "cybl",
+    "u": "https://cyberleninka.ru/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cybrhome.com",
+    "s": "CybrHome",
+    "t": "cybrhome",
+    "u": "https://www.cybrhome.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cycletec.ch",
+    "s": "CycleTec GmbH",
+    "t": "cycletec",
+    "u": "https://www.cycletec.ch/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.cyclingweekly.com",
+    "s": "Cycling Weekly",
+    "t": "cyclingweekly",
+    "u": "https://www.cyclingweekly.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.chooseyourevent.co.uk",
+    "s": "Chooseyourevent.co.uk",
+    "t": "cye",
+    "u": "http://www.chooseyourevent.co.uk/keywordsearch.asp?searchterms={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate - Welsh to English",
+    "t": "cyen",
+    "u": "https://translate.google.com/#cy/en/{{{s}}}"
+  },
+  {
+    "d": "cygwin.com",
+    "s": "Cygwin Package Search",
+    "t": "cyg64",
+    "u": "https://cygwin.com/cgi-bin2/package-grep.cgi?grep={{{s}}}&arch=x86_64"
+  },
+  {
+    "d": "cygwin.com",
+    "s": "Cygwin",
+    "t": "cygwin",
+    "u": "http://cygwin.com/cgi-bin2/package-grep.cgi?grep={{{s}}}"
+  },
+  {
+    "d": "www.cymath.com",
+    "s": "Cymath",
+    "t": "cymath",
+    "u": "http://www.cymath.com/answer.php?q={{{s}}}"
+  },
+  {
+    "d": "cymon.io",
+    "s": "Cymon",
+    "t": "cymon",
+    "u": "https://cymon.io/{{{s}}}"
+  },
+  {
+    "d": "cadence.gq",
+    "s": "Candence CloudTube (YouTube Client)",
+    "t": "cyt",
+    "u": "https://cadence.gq/cloudtube/search?q={{{s}}}&sort_by=relevance"
+  },
+  {
+    "d": "www.czc.cz",
+    "s": "CZC.cz",
+    "t": "czc",
+    "u": "http://www.czc.cz/search?q-fulltext={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "xe",
+    "t": "czk2eur",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=CZK&To=EUR"
+  },
+  {
+    "d": "complexityzoo.uwaterloo.ca",
+    "s": "The Complexity Zoo",
+    "t": "cz",
+    "u": "https://complexityzoo.uwaterloo.ca/index.php?search={{{s}}}&title=Special%3ASearch"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "d": "www.911tabs.com",
+    "s": "911tabs",
+    "t": "911",
+    "u": "http://www.911tabs.com/search.php?search={{{s}}}&type=band"
+  },
+  {
+    "d": "www.911tabs.com",
+    "s": "911 Tabs (Songs)",
+    "t": "911s",
+    "u": "http://www.911tabs.com/search.php?search={{{s}}}&type=song"
+  },
+  {
+    "d": "www.91mobiles.com",
+    "s": "91 mobiles",
+    "t": "91",
+    "u": "http://www.91mobiles.com/topic/{{{s}}}/all"
+  },
+  {
+    "d": "931women.com",
+    "s": "臭い女性から卒業宣言",
+    "t": "931women",
+    "u": "https://931women.com/?s={{{s}}}: "
+  },
+  {
+    "d": "hermetic.com",
+    "s": "The Hermetic Library",
+    "t": "93",
+    "u": "https://hermetic.com/index?do=search&id={{{s}}}"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "9to5google",
+    "t": "95g",
+    "u": "https://cse.google.com/cse?cx=008464549922976904202:uxmexxzm3k4&q={{{s}}}"
+  },
+  {
+    "d": "9to5google.com",
+    "s": "9to5Google",
+    "t": "95google",
+    "u": "https://9to5google.com/?s={{{s}}}"
+  },
+  {
+    "d": "9to5mac.com",
+    "s": "9to5Mac",
+    "t": "95mac",
+    "u": "http://9to5mac.com/?s={{{s}}}"
+  },
+  {
+    "d": "990finder.foundationcenter.org",
+    "s": "990 Search (Foundation Center)",
+    "t": "990",
+    "u": "http://990finder.foundationcenter.org/990results.aspx?990_type=&fn={{{s}}}&st=&zp=&ei=&fy=&action=Search"
+  },
+  {
+    "d": "999.md",
+    "s": "999.md",
+    "t": "999",
+    "u": "https://999.md/ru/search?query={{{s}}}"
+  },
+  {
+    "d": "9pp.co",
+    "s": "9pp.co",
+    "t": "9",
+    "u": "http://9pp.co/search?q={{{s}}}"
+  },
+  {
+    "d": "99quotes.me",
+    "s": "99 Quotes",
+    "t": "99quotes",
+    "u": "https://99quotes.me/search?q={{{s}}}"
+  },
+  {
+    "d": "9gag.com",
+    "s": "9gag",
+    "t": "9g",
+    "u": "http://9gag.com/search?query={{{s}}}"
+  },
+  {
+    "d": "9gag.com",
+    "s": "9gag",
+    "t": "9gag",
+    "u": "https://9gag.com/search?query={{{s}}}"
+  }
+]

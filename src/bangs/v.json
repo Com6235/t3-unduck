@@ -1,0 +1,1508 @@
+[
+  {
+    "d": "www.duckduckgo.com",
+    "s": "V2EX",
+    "t": "v2ex",
+    "u": "https://www.duckduckgo.com/?q=site:v2ex.com/t+{{{s}}}"
+  },
+  {
+    "d": "www.verb2verbe.com",
+    "s": "verb2verbe.com",
+    "t": "v2ve",
+    "u": "http://www.verb2verbe.com/EnglishConj.aspx?verb={{{s}}}&tail=&type=query"
+  },
+  {
+    "d": "www.verb2verbe.com",
+    "s": "verb2verbe.com",
+    "t": "v2vf",
+    "u": "http://www.verb2verbe.com/francais/FrenchConj.aspx?verb={{{s}}}&tail=&ref=0&type=query"
+  },
+  {
+    "d": "www.vagalume.com.br",
+    "s": "Vagalume",
+    "t": "vagalume",
+    "u": "http://www.vagalume.com.br/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.vagas.com.br",
+    "s": "VAGAS.com.br",
+    "t": "vagas",
+    "u": "https://www.vagas.com.br/vagas-de-{{{s}}}?"
+  },
+  {
+    "d": "app.vagrantup.com",
+    "s": "Vagrant Cloud",
+    "t": "vagrant",
+    "u": "https://app.vagrantup.com/boxes/search?q={{{s}}}"
+  },
+  {
+    "d": "procarmanuals.com",
+    "s": "ProCarManuals.com",
+    "t": "vagssp",
+    "u": "https://procarmanuals.com/?s={{{s}}}"
+  },
+  {
+    "d": "db.vanillagaming.org",
+    "s": "Vanilla Gaming",
+    "t": "vag",
+    "u": "http://db.vanillagaming.org/?search={{{s}}}"
+  },
+  {
+    "d": "www.vagonweb.cz",
+    "s": "Vagonweb",
+    "t": "vagw",
+    "u": "http://www.vagonweb.cz/razeni/razeni.php?jmeno={{{s}}}&najit=Suchen"
+  },
+  {
+    "d": "vajehyab.com",
+    "s": "Vajehyab",
+    "t": "vajeh",
+    "u": "https://vajehyab.com/?q={{{s}}} "
+  },
+  {
+    "d": "www.vajje.com",
+    "s": "Vajje",
+    "t": "vajje",
+    "u": "http://www.vajje.com/vajje/search/index?query={{{s}}}"
+  },
+  {
+    "d": "rsnijders.info",
+    "s": "Vakblog",
+    "t": "vakblog",
+    "u": "http://rsnijders.info/vakblog/?s={{{s}}} "
+  },
+  {
+    "d": "valadoc.org",
+    "s": "Valadoc",
+    "t": "valadoc",
+    "u": "https://valadoc.org/?q={{{s}}}"
+  },
+  {
+    "d": "jigsaw.w3.org",
+    "s": "CSS Validation Service",
+    "t": "validatecss",
+    "u": "http://jigsaw.w3.org/css-validator/validator?uri={{{s}}}&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en"
+  },
+  {
+    "d": "validator.w3.org",
+    "s": "W3C Validator",
+    "t": "validate",
+    "u": "http://validator.w3.org/check?uri={{{s}}}&charset=%28detect+automatically%29&doctype=Inline&group=0"
+  },
+  {
+    "d": "validator.nu",
+    "s": "Validator.nu",
+    "t": "validatornu",
+    "u": "https://validator.nu/?doc={{{s}}}"
+  },
+  {
+    "d": "www.valvesonline.co.uk",
+    "s": "Valves Online",
+    "t": "valvesonline",
+    "u": "https://www.valvesonline.co.uk/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.valvesonline.co.uk",
+    "s": "Valves Online",
+    "t": "valves",
+    "u": "https://www.valvesonline.co.uk/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "developer.valvesoftware.com",
+    "s": "Valve Developer Wiki",
+    "t": "valve",
+    "u": "https://developer.valvesoftware.com/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "vancouver.ca",
+    "s": "City of Vancouver",
+    "t": "vancouver",
+    "u": "http://vancouver.ca/search.aspx?q={{{s}}}&searchEngine=GSA"
+  },
+  {
+    "d": "www.vandale.nl",
+    "s": "Van Dale",
+    "t": "vandale",
+    "u": "http://www.vandale.nl/opzoeken?pattern={{{s}}}&lang=nn"
+  },
+  {
+    "d": "www.vanguardinvestments.com.au",
+    "s": "Vanguard",
+    "t": "vanguard",
+    "u": "https://www.vanguardinvestments.com.au/retail/mvc/searchresults.htm?https%3A%2F%2Fwww.vanguardinvestments.com.au%2Fretail%2Fmvc%2Fsearchresults.htm=&searchtext={{{s}}}"
+  },
+  {
+    "d": "vanillawowdb.com",
+    "s": "Vanilla WoW DB",
+    "t": "vani",
+    "u": "https://vanillawowdb.com/?search={{{s}}}"
+  },
+  {
+    "d": "www.vans.com",
+    "s": "Vans",
+    "t": "vans",
+    "u": "https://www.vans.com/webapp/wcs/stores/servlet/VFSearchDisplay?storeId=10153&catalogId=10703&langId=-1&beginIndex=0&searchSource=Q&sType=SimpleSearch&searchTerm={{{s}}}"
+  },
+  {
+    "d": "vandal.elespanol.com",
+    "s": "Vandal",
+    "t": "van",
+    "u": "https://vandal.elespanol.com/busqueda/{{{s}}}"
+  },
+  {
+    "d": "vapefiend.co.uk",
+    "s": "Vapefiend",
+    "t": "vapefiend",
+    "u": "https://vapefiend.co.uk/search?q={{{s}}}&type=product"
+  },
+  {
+    "d": "www.vapetime-ec.com",
+    "s": "Vapetime EC",
+    "t": "vapetime",
+    "u": "https://www.vapetime-ec.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.vapeoildirect.co.uk",
+    "s": "www.vapeoildirect.co.uk",
+    "t": "vape",
+    "u": "http://www.vapeoildirect.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "variety.com",
+    "s": "Variety",
+    "t": "variety",
+    "u": "https://variety.com/results/#?q={{{s}}} "
+  },
+  {
+    "d": "www.varle.lt",
+    "s": "Varlė",
+    "t": "varle",
+    "u": "https://www.varle.lt/search/?q={{{s}}}"
+  },
+  {
+    "d": "varsome.com",
+    "s": "VarSome",
+    "t": "varsome",
+    "u": "https://varsome.com/variant/search?query={{{s}}}"
+  },
+  {
+    "d": "www.vartoslo.no",
+    "s": "VårtOslo",
+    "t": "vartoslo",
+    "u": "https://www.vartoslo.no/?s={{{s}}} "
+  },
+  {
+    "d": "vaski.finna.fi",
+    "s": "Vaski-kirjastot",
+    "t": "vaski",
+    "u": "https://vaski.finna.fi/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "d": "www.vat19.com",
+    "s": "Vat19",
+    "t": "vat19",
+    "u": "https://www.vat19.com/products/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vatera.hu",
+    "s": "Vatera",
+    "t": "vatera",
+    "u": "http://www.vatera.hu/listings/index.php?q={{{s}}}"
+  },
+  {
+    "d": "gsearch.vatican.va",
+    "s": "Vatican",
+    "t": "vatican",
+    "u": "http://gsearch.vatican.va/search?q={{{s}}}&btnG=Search+on&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend&sort=date%3AD%3AL%3Ad1&entsp=a__policy_documenti&wc=200&wc_mc=1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&filter=0"
+  },
+  {
+    "d": "fallout.gamepedia.com",
+    "s": "The Vault Fallout Wiki",
+    "t": "vault",
+    "u": "http://fallout.gamepedia.com/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "vimawesome.com",
+    "s": "Vim Awesome",
+    "t": "va",
+    "u": "http://vimawesome.com/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "MS Office VBA Refference",
+    "t": "vba",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Amsdn.microsoft.com%2Fen-us%2Fvba&t=ffab&ia=web"
+  },
+  {
+    "d": "volumebot.com",
+    "s": "Volume Bot",
+    "t": "vbot",
+    "u": "https://volumebot.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.vbox7.com",
+    "s": "Vbox7",
+    "t": "vbox7",
+    "u": "https://www.vbox7.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.vbprofiles.com",
+    "s": "http://www.vbprofiles.com/",
+    "t": "vbp",
+    "u": "http://www.vbprofiles.com/search?q={{{s}}}"
+  },
+  {
+    "d": "vedabase.com",
+    "s": "VedaBase",
+    "t": "vb",
+    "u": "http://vedabase.com/en/search/site/{{{s}}}"
+  },
+  {
+    "d": "vision.org.au",
+    "s": "Vision Christian Media",
+    "t": "vcm",
+    "u": "https://vision.org.au/site-search/?phrase={{{s}}}&cbi=1"
+  },
+  {
+    "d": "shop.vcp-san.at",
+    "s": "VCP Sanitärfachhandel",
+    "t": "vcp",
+    "u": "http://shop.vcp-san.at/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}"
+  },
+  {
+    "d": "vc.ru",
+    "s": "vc.ru",
+    "t": "vcru",
+    "u": "https://vc.ru/search/{{{s}}}"
+  },
+  {
+    "d": "www.vouchercodes.co.uk",
+    "s": "VoucherCodes",
+    "t": "vc",
+    "u": "https://www.vouchercodes.co.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.vandenborre.be",
+    "s": "Vanden Borre",
+    "t": "vdb",
+    "u": "https://www.vandenborre.be/zoekresultaat?query={{{s}}}&v2"
+  },
+  {
+    "d": "developer.valvesoftware.com",
+    "s": "Valve Developer Community",
+    "t": "vdc",
+    "u": "https://developer.valvesoftware.com/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "www.vandale.nl",
+    "s": "Vandale français-néerlandais",
+    "t": "vdfn",
+    "u": "http://www.vandale.nl/opzoeken?pattern={{{s}}}&lang=fn"
+  },
+  {
+    "d": "vdisk.weibo.com",
+    "s": "微盘",
+    "t": "vdisk",
+    "u": "http://vdisk.weibo.com/search/?type=public&keyword={{{s}}}"
+  },
+  {
+    "d": "www.vandale.nl",
+    "s": "Vandale",
+    "t": "vdnf",
+    "u": "http://www.vandale.nl/opzoeken?pattern={{{s}}}&lang=nf"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo video search",
+    "t": "v",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos"
+  },
+  {
+    "d": "www.vecteezy.com",
+    "s": "Vecteezy",
+    "t": "vecteezy",
+    "u": "http://www.vecteezy.com/free-vector/{{{s}}}"
+  },
+  {
+    "d": "vectorspace.ai",
+    "s": "Vectorspace AI",
+    "t": "vectorspace",
+    "u": "http://vectorspace.ai/recommend/app/crypto_discover?query={{{s}}}"
+  },
+  {
+    "d": "vector.me",
+    "s": "VectorMe",
+    "t": "vector",
+    "u": "http://vector.me/search/{{{s}}} "
+  },
+  {
+    "d": "www.vedantcomputers.com",
+    "s": "Vedant Computers",
+    "t": "vedant",
+    "u": "https://www.vedantcomputers.com/index.php?route=product/search&search={{{s}}}&description=true"
+  },
+  {
+    "d": "veekun.com",
+    "s": "Veekun Pokedex",
+    "t": "veekun",
+    "u": "http://veekun.com/dex/lookup?lookup={{{s}}}"
+  },
+  {
+    "d": "www.venuefirst.com",
+    "s": "Venue First",
+    "t": "vef",
+    "u": "https://www.venuefirst.com/all/venues?search_keyword={{{s}}}"
+  },
+  {
+    "d": "veganistan.se",
+    "s": "Veganistan",
+    "t": "veganistan",
+    "u": "http://veganistan.se/search/innehall/{{{s}}}"
+  },
+  {
+    "d": "find.vegas.com",
+    "s": "Vegas",
+    "t": "vegas",
+    "u": "http://find.vegas.com/search?entqr=1&output=xml_no_dtd&sort=date%3AD%3AL%3Ad1&entsp=0&client=vegas&ud=1&oe=UTF-8&ie=UTF-8&proxystylesheet=vegas&site=vegas&q={{{s}}}&btnG=%E2%8C%95"
+  },
+  {
+    "d": "store.veganessentials.com",
+    "s": "Vegan Essentials",
+    "t": "vegess",
+    "u": "https://store.veganessentials.com/categories.aspx?Keyword={{{s}}}"
+  },
+  {
+    "d": "vegewel.com",
+    "s": "Vegewel",
+    "t": "vegewel",
+    "u": "https://vegewel.com/en/search?utf8=%E2%9C%93&q%5Bg%5D%5B1%5D%5Brestaurant_search%5D={{{s}}}&q%5Bg%5D%5B0%5D%5Bm%5D=or&commit=Search"
+  },
+  {
+    "d": "www.diarioveloz.com",
+    "s": "Diario Veloz",
+    "t": "veloz",
+    "u": "http://www.diarioveloz.com/contenidos/resultado.html?text={{{s}}}"
+  },
+  {
+    "d": "www.vemo.it",
+    "s": "Vemo.it forniture alberghiere",
+    "t": "vemo",
+    "u": "http://www.vemo.it/cerca.php?prodotto={{{s}}}"
+  },
+  {
+    "d": "vemringde.se",
+    "s": "Vem ringde",
+    "t": "vem",
+    "u": "http://vemringde.se/?q={{{s}}}"
+  },
+  {
+    "d": "venturebeat.com",
+    "s": "VentureBeat",
+    "t": "venturebeat",
+    "u": "http://venturebeat.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.verbs.cat",
+    "s": "Verbs.cat",
+    "t": "verbcat",
+    "u": "http://www.verbs.cat/ca/conjugacio.html?infinitive={{{s}}} "
+  },
+  {
+    "d": "www.verbformen.de",
+    "s": "VerbFormen",
+    "t": "verben",
+    "u": "http://www.verbformen.de/konjugation/?i={{{s}}}"
+  },
+  {
+    "d": "www.les-verbes.com",
+    "s": "VERBES - Conjugaison française",
+    "t": "verbes",
+    "u": "http://www.les-verbes.com/conjuguer.php?verbe={{{s}}}"
+  },
+  {
+    "d": "www.dictionar-finlandez.net",
+    "s": "Finnish Verb Conjugator",
+    "t": "verbfi",
+    "u": "http://www.dictionar-finlandez.net/online/verbs/conjugate_verb.php?verb={{{s}}}"
+  },
+  {
+    "d": "www.verbix.com",
+    "s": "Verbix (English conjugation verb)",
+    "t": "verbixeng",
+    "u": "http://www.verbix.com/webverbix/English/{{{s}}}r.html"
+  },
+  {
+    "d": "www.verbix.com",
+    "s": "Verbix Spanish",
+    "t": "verbixes",
+    "u": "http://www.verbix.com/webverbix/Spanish/{{{s}}}.html"
+  },
+  {
+    "d": "www.verbix.com",
+    "s": "Verbix",
+    "t": "verbixpt",
+    "u": "http://www.verbix.com/webverbix/Portuguese/{{{s}}}.html"
+  },
+  {
+    "d": "verbix.com",
+    "s": "Verbix",
+    "t": "verbix",
+    "u": "http://verbix.com/find-verb/?verb={{{s}}}"
+  },
+  {
+    "d": "conjugator.reverso.net",
+    "s": "Verb-o-Matic",
+    "t": "verbomatic",
+    "u": "http://conjugator.reverso.net/conjugation-english-verb-{{{s}}}.html"
+  },
+  {
+    "d": "www.verbs.cat",
+    "s": "Català, verbs i conjugació",
+    "t": "verbs",
+    "u": "http://www.verbs.cat/ca/conjugacio.html?infinitive={{{s}}}"
+  },
+  {
+    "d": "conjugator.reverso.net",
+    "s": "Verb-o-Matic",
+    "t": "verb",
+    "u": "http://conjugator.reverso.net/conjugation-english-verb-{{{s}}}.html"
+  },
+  {
+    "d": "www.theverge.com",
+    "s": "The Verge",
+    "t": "verge",
+    "u": "http://www.theverge.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.verisure.se",
+    "s": "Verisure",
+    "t": "verisure",
+    "u": "https://www.verisure.se/hidden/search-results.html?query={{{s}}}"
+  },
+  {
+    "d": "www.verkkokauppa.com",
+    "s": "Verkkokauppa.com",
+    "t": "verkkis",
+    "u": "https://www.verkkokauppa.com/fi/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.verkkokauppa.com",
+    "s": "Verkkokauppa.com",
+    "t": "verkkokauppa",
+    "u": "https://www.verkkokauppa.com/fi/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.politie.nl",
+    "s": "Controleer verkopergegevens Politie",
+    "t": "verkoper",
+    "u": "https://www.politie.nl/zoek?query={{{s}}}"
+  },
+  {
+    "d": "www.verkkokauppa.com",
+    "s": "Verkkokauppa.com",
+    "t": "verk",
+    "u": "https://www.verkkokauppa.com/fi/search/?query={{{s}}}"
+  },
+  {
+    "d": "veroot.com",
+    "s": "Veroot",
+    "t": "veroot",
+    "u": "http://veroot.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.bible.com",
+    "s": "Bible.com",
+    "t": "verse",
+    "u": "https://www.bible.com/search/bible?q={{{s}}}"
+  },
+  {
+    "d": "versus.com",
+    "s": "Versus",
+    "t": "versus",
+    "u": "https://versus.com/en/{{{s}}}"
+  },
+  {
+    "d": "www.vertalen.nu",
+    "s": "Vertalen.nu",
+    "t": "vertalennu",
+    "u": "http://www.vertalen.nu/vertaal?vertaal={{{s}}}&van=en&naar=nl"
+  },
+  {
+    "d": "www.vertalen.nu",
+    "s": "vertalen.nu",
+    "t": "vertalen",
+    "u": "http://www.vertalen.nu/vertaal?van=nl&naar=en&vertaal={{{s}}}"
+  },
+  {
+    "d": "vertigo.wikia.com",
+    "s": "Vertigo Comics",
+    "t": "vertigocomics",
+    "u": "http://vertigo.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "videoeta.com",
+    "s": "VideoETA",
+    "t": "ve",
+    "u": "https://videoeta.com/search?utf8=%E2%9C%93&keywords={{{s}}}"
+  },
+  {
+    "d": "www.youtube.com",
+    "s": "Vevo",
+    "t": "vevo",
+    "u": "https://www.youtube.com/user/VEVO/search?query={{{s}}}"
+  },
+  {
+    "d": "veriforcetactical.com",
+    "s": "Veriforce Tactical",
+    "t": "vft",
+    "u": "https://veriforcetactical.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.verbformen.de",
+    "s": "VerbFormen",
+    "t": "vf",
+    "u": "http://www.verbformen.de/konjugation/?i={{{s}}}"
+  },
+  {
+    "d": "vgcollect.com",
+    "s": "VGCollect",
+    "t": "vgcollect",
+    "u": "http://vgcollect.com/search/{{{s}}}"
+  },
+  {
+    "d": "v.gd",
+    "s": "v.gd",
+    "t": "vgd",
+    "u": "http://v.gd/create.php?url={{{s}}}"
+  },
+  {
+    "d": "www.viagogo.de",
+    "s": "viagogo.de",
+    "t": "vggde",
+    "u": "http://www.viagogo.de/searchResults.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google",
+    "t": "vg",
+    "u": "https://google.com/search?hl=en&q={{{s}}}&tbs=li:1"
+  },
+  {
+    "d": "www.viagogo.co.uk",
+    "s": "viagogo.co.uk",
+    "t": "vgguk",
+    "u": "http://www.viagogo.co.uk/searchResults.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "www.viagogo.com",
+    "s": "viagogo",
+    "t": "vgg",
+    "u": "http://www.viagogo.com/searchResults.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "vgmdb.net",
+    "s": "Vgmdb",
+    "t": "vgmdb",
+    "u": "https://vgmdb.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vgn.de",
+    "s": "Ver­kehrs­ver­bund Groß­raum Nürn­berg",
+    "t": "vgn",
+    "u": "https://www.vgn.de/verbindungen/?td={{{s}}}"
+  },
+  {
+    "d": "videogames.pricecharting.com",
+    "s": "Video Game Price Charts",
+    "t": "vgpc",
+    "u": "http://videogames.pricecharting.com/search?q={{{s}}}&submit=Go"
+  },
+  {
+    "d": "victorhckinthefreeworld.wordpress.com",
+    "s": "victorhckinthefreeworld",
+    "t": "vhck",
+    "u": "https://victorhckinthefreeworld.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "visualhunt.com",
+    "s": "visualhunt.com",
+    "t": "vhunt",
+    "u": "https://visualhunt.com/search/instant/?q={{{s}}}"
+  },
+  {
+    "d": "www.vantagehunt.com",
+    "s": "Vantagehunt",
+    "t": "vh",
+    "u": "https://www.vantagehunt.com/jobs?search={{{s}}}"
+  },
+  {
+    "d": "viaf.org",
+    "s": "VIAF (Virtual Internet Authority File)",
+    "t": "viaf",
+    "u": "http://viaf.org/viaf/search?query=local.names+all+%22{{{s}}}%22&stylesheet=/viaf/xsl/results.xsl&sortKeys=holdingscount&maximumRecords=100"
+  },
+  {
+    "d": "viaplay.com",
+    "s": "Viaplay",
+    "t": "viaplay",
+    "u": "https://viaplay.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.viasona.cat",
+    "s": "Viasona",
+    "t": "viasona",
+    "u": "http://www.viasona.cat/cerca?que={{{s}}}&cerca=&sourceid=duckduckgo"
+  },
+  {
+    "d": "vibed.org",
+    "s": "vibe.d Documentation",
+    "t": "vibed",
+    "u": "https://vibed.org/api/search?q={{{s}}}"
+  },
+  {
+    "d": "vic2.paradoxwikis.com",
+    "s": "Victoria 2 Wiki",
+    "t": "vic2",
+    "u": "https://vic2.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.vice.com",
+    "s": "Vice",
+    "t": "vice",
+    "u": "https://www.vice.com/en_us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vic.gov.au",
+    "s": "Victorian Government",
+    "t": "vicgovau",
+    "u": "https://www.vic.gov.au/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vic.gov.au",
+    "s": "Victorian Government",
+    "t": "vicgov",
+    "u": "https://www.vic.gov.au/search?q={{{s}}}"
+  },
+  {
+    "d": "la.wikipedia.org",
+    "s": "Vicipaedia",
+    "t": "vici",
+    "u": "https://la.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "www.vidal.fr",
+    "s": "VIDAL",
+    "t": "vidal",
+    "u": "https://www.vidal.fr/recherche/index/q:{{{s}}}/"
+  },
+  {
+    "d": "www.vidangel.com",
+    "s": "VidAngel",
+    "t": "vidangel",
+    "u": "http://www.vidangel.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.vidaxl.nl",
+    "s": "www.vidaxl.nl",
+    "t": "vidaxl",
+    "u": "https://www.vidaxl.nl/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "videa.seznam.cz",
+    "s": "Seznam Videa",
+    "t": "videa",
+    "u": "https://videa.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "d": "videnskab.dk",
+    "s": "https://videnskab.dk/",
+    "t": "viden",
+    "u": "https://videnskab.dk/s?query={{{s}}}"
+  },
+  {
+    "d": "www.videoculinary.ru",
+    "s": "videoculinary.ru",
+    "t": "videoculinary",
+    "u": "http://www.videoculinary.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.videodetective.com",
+    "s": "Video Detective",
+    "t": "videodetective",
+    "u": "http://www.videodetective.com/Search/Results?id={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo video search",
+    "t": "video",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos"
+  },
+  {
+    "d": "videogamegeek.com",
+    "s": "VideoGameGeek",
+    "t": "videogamegeek",
+    "u": "http://videogamegeek.com/geeksearch.php?action=search&objecttype=videogameunified&q={{{s}}}&B1=Go"
+  },
+  {
+    "d": "videohive.net",
+    "s": "VideoHive",
+    "t": "videohive",
+    "u": "http://videohive.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "d": "www.videonews.com",
+    "s": "Video News",
+    "t": "videonews",
+    "u": "https://www.videonews.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Videos",
+    "t": "videos",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=1"
+  },
+  {
+    "d": "videosift.com",
+    "s": "Videosift",
+    "t": "videosift",
+    "u": "http://videosift.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vidlii.com",
+    "s": "VidLii",
+    "t": "vidlii",
+    "u": "https://www.vidlii.com/results?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Videos",
+    "t": "vids",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos"
+  },
+  {
+    "d": "vigilantcitizen.com",
+    "s": "The Vigilant Citizen",
+    "t": "vigcit",
+    "u": "http://vigilantcitizen.com/?s={{{s}}} "
+  },
+  {
+    "d": "www.vijesti.me",
+    "s": "Vijesti Online",
+    "t": "vijesti",
+    "u": "http://www.vijesti.me/trazi/?q={{{s}}}"
+  },
+  {
+    "d": "www.vikatan.com",
+    "s": "vikatan",
+    "t": "vikatan",
+    "u": "https://www.vikatan.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "et.wikipedia.org",
+    "s": "Estonian Wikipedia (Vikipeedia)",
+    "t": "viki",
+    "u": "https://et.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "eo.wikipedia.org",
+    "s": "Vikipedio (Esperanto Wikipedia)",
+    "t": "vikipedio",
+    "u": "https://eo.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "tr.wikipedia.org",
+    "s": "Vikipedi (Turkish Wikipedia)",
+    "t": "vikipedi",
+    "u": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.viki.com",
+    "s": "Viki.com",
+    "t": "vik",
+    "u": "https://www.viki.com/search?q={{{s}}}"
+  },
+  {
+    "d": "villains.wikia.com",
+    "s": "Villains Wikia",
+    "t": "villain",
+    "u": "http://villains.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "vimawesome.com",
+    "s": "Vim Awesome",
+    "t": "vimawesome",
+    "u": "http://vimawesome.com/?q={{{s}}}"
+  },
+  {
+    "d": "vimawesome.com",
+    "s": "Vim Awesome",
+    "t": "vimaw",
+    "u": "http://vimawesome.com/?q={{{s}}}"
+  },
+  {
+    "d": "vimdoc.sourceforge.net",
+    "s": "Vimdoc",
+    "t": "vimdoc",
+    "u": "http://vimdoc.sourceforge.net/search.php?search={{{s}}}&docs=help"
+  },
+  {
+    "d": "vimeo.com",
+    "s": "Vimeo",
+    "t": "vimeo",
+    "u": "https://vimeo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vim.org",
+    "s": "Vim Scripts",
+    "t": "vimscripts",
+    "u": "http://www.vim.org/scripts/script_search_results.php?keywords={{{s}}}&script_type=&order_by=rating&direction=descending&search=search"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Vim.org",
+    "t": "vim",
+    "u": "https://www.google.com/cse?cx=partner-pub-3005259998294962%3Abvyni59kjr1&q={{{s}}}"
+  },
+  {
+    "d": "vim.wikia.com",
+    "s": "Vim Tips wiki",
+    "t": "vimw",
+    "u": "http://vim.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.decodethis.com",
+    "s": "Decode This!",
+    "t": "vin",
+    "u": "http://www.decodethis.com/VINdecoder/65/vin/{{{s}}}"
+  },
+  {
+    "d": "www.ving.no",
+    "s": "Ving",
+    "t": "ving",
+    "u": "http://www.ving.no/searchresult?q={{{s}}}"
+  },
+  {
+    "d": "www.vipon.com",
+    "s": "Vipon",
+    "t": "vipon",
+    "u": "https://www.vipon.com/promotion/index?search={{{s}}}"
+  },
+  {
+    "d": "ca.wikipedia.org",
+    "s": "Viquipèdia",
+    "t": "viquipedia",
+    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3ACerca&go=V%C3%A9s-hi"
+  },
+  {
+    "d": "mail.virgilio.it",
+    "s": "Virgilio Mail",
+    "t": "virgiliomail",
+    "u": "http://mail.virgilio.it/login/?q={{{s}}}:"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Virtus Investment Partners",
+    "t": "virtus",
+    "u": "https://duckduckgo.com/?q=site:virtus.com+{{{s}}}"
+  },
+  {
+    "d": "www.virustotal.com",
+    "s": "VirusTotal",
+    "t": "virustotalfilesearch",
+    "u": "https://www.virustotal.com/en/search?query={{{s}}}"
+  },
+  {
+    "d": "www.virustotal.com",
+    "s": "VirusTotal",
+    "t": "virustotal",
+    "u": "https://www.virustotal.com/url/submission/?force=1&url={{{s}}}"
+  },
+  {
+    "d": "ricerca.virgilio.it",
+    "s": "Virgilio",
+    "t": "vir",
+    "u": "http://ricerca.virgilio.it/ricerca?qs={{{s}}}"
+  },
+  {
+    "d": "www.visiondirect.com.au",
+    "s": "VisionDirect",
+    "t": "visiondirect",
+    "u": "https://www.visiondirect.com.au/search?query={{{s}}}"
+  },
+  {
+    "d": "visitwarrington.com",
+    "s": "Visit Warrington",
+    "t": "visitwarrington",
+    "u": "https://visitwarrington.com/explore/?type=search-all&search_keywords={{{s}}}&sort=latest"
+  },
+  {
+    "d": "vi.stackexchange.com",
+    "s": "Vi @ stackExchange",
+    "t": "viso",
+    "u": "https://vi.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "visualhunt.com",
+    "s": "Visual Hunt",
+    "t": "visualh",
+    "u": "https://visualhunt.com/search/instant/?q={{{s}}}"
+  },
+  {
+    "d": "www.yasiv.com",
+    "s": "visual-youtube",
+    "t": "visual-youtube",
+    "u": "http://www.yasiv.com/youtube#?q={{{s}}}"
+  },
+  {
+    "d": "visuwords.com",
+    "s": "Visuwords",
+    "t": "visuwords",
+    "u": "https://visuwords.com/{{{s}}}"
+  },
+  {
+    "d": "visuwords.com",
+    "s": "visuwords.com",
+    "t": "vis",
+    "u": "http://visuwords.com/?q={{{s}}}"
+  },
+  {
+    "d": "viu.summon.serialssolutions.com",
+    "s": "Vancouver Island University Library",
+    "t": "viul",
+    "u": "http://viu.summon.serialssolutions.com/search?s.q={{{s}}}"
+  },
+  {
+    "d": "forum.vivaldi.net",
+    "s": "Vivaldi Forums",
+    "t": "vivaldi",
+    "u": "https://forum.vivaldi.net/search?term={{{s}}}"
+  },
+  {
+    "d": "www.viveport.com",
+    "s": "Viveport",
+    "t": "viveport",
+    "u": "https://www.viveport.com/list/desktop?keyword={{{s}}}"
+  },
+  {
+    "d": "www.vivino.com",
+    "s": "Vivino",
+    "t": "vivino",
+    "u": "https://www.vivino.com/search/wines?q={{{s}}}"
+  },
+  {
+    "d": "www.kono.be",
+    "s": "Vikia Vortaro",
+    "t": "vivo",
+    "u": "http://www.kono.be/cgi-bin/vivo/ViVo.cgi?lingvo=eo&esprimo={{{s}}}"
+  },
+  {
+    "d": "vjphotos.net",
+    "s": "Vicol’s Journey – Free Photography",
+    "t": "vj",
+    "u": "http://vjphotos.net/?s={{{s}}}"
+  },
+  {
+    "d": "fr.vikidia.org",
+    "s": "Vikidia",
+    "t": "vkdia",
+    "u": "https://fr.vikidia.org/w/index.php?search={{{s}}}&title=Sp%C3%A9cial:Recherche&go=Trouver"
+  },
+  {
+    "d": "vk.com",
+    "s": "Vkontakte",
+    "t": "vk",
+    "u": "http://vk.com/search?c[q]={{{s}}}&c[section]=auto"
+  },
+  {
+    "d": "vk.com",
+    "s": "Vkontakte video",
+    "t": "vkv",
+    "u": "https://vk.com/video?q={{{s}}}"
+  },
+  {
+    "d": "vlasisku.lojban.org",
+    "s": "Vlasisku",
+    "t": "vlasisku",
+    "u": "http://vlasisku.lojban.org/vlasisku/{{{s}}}"
+  },
+  {
+    "d": "vlasisku.lojban.org",
+    "s": "Vlasisku",
+    "t": "vla",
+    "u": "http://vlasisku.lojban.org/vlasisku/{{{s}}}"
+  },
+  {
+    "d": "www.vlh.de",
+    "s": "https://www.vlh.de",
+    "t": "vlh",
+    "u": "https://www.vlh.de/suchergebnis.html?q={{{s}}}"
+  },
+  {
+    "d": "www.vlive.tv",
+    "s": "V LIVE",
+    "t": "vlive",
+    "u": "https://www.vlive.tv/search/all?query={{{s}}}"
+  },
+  {
+    "d": "docs.vmware.com",
+    "s": "VMware Docs",
+    "t": "vmdocs",
+    "u": "https://docs.vmware.com/en/search/#/{{{s}}}"
+  },
+  {
+    "d": "kb.vmware.com",
+    "s": "VMware Knowledge Base",
+    "t": "vmkb",
+    "u": "https://kb.vmware.com/s/global-search/%40uri#q={{{s}}}"
+  },
+  {
+    "d": "www.viamichelin.com",
+    "s": "ViaMichelin",
+    "t": "vml",
+    "u": "https://www.viamichelin.com/web/Maps?address={{{s}}}"
+  },
+  {
+    "d": "vndb.org",
+    "s": "VNDB",
+    "t": "vndb",
+    "u": "http://vndb.org/v/all?sq={{{s}}}"
+  },
+  {
+    "d": "vanillo.co",
+    "s": "Vanillo",
+    "t": "vnillo",
+    "u": "https://vanillo.co/search?q={{{s}}}"
+  },
+  {
+    "d": "vi.wikipedia.org",
+    "s": "Wikipedia Vietnamese",
+    "t": "vnwiki",
+    "u": "https://vi.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "www.voanews.com",
+    "s": "Voice of America News",
+    "t": "voan",
+    "u": "https://www.voanews.com/s?k={{{s}}}&tab=all&pi=1&r=any&pp=10"
+  },
+  {
+    "d": "searchvoat.co",
+    "s": "Voat",
+    "t": "voat",
+    "u": "https://searchvoat.co/?all={{{s}}}"
+  },
+  {
+    "d": "www.vocabulary.com",
+    "s": "Vocabulary",
+    "t": "vocabulary",
+    "u": "https://www.vocabulary.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "www.vocabulary.com",
+    "s": "Vocabulary.com",
+    "t": "vocab",
+    "u": "http://www.vocabulary.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "vocadb.net",
+    "s": "VocaDB",
+    "t": "vocadb",
+    "u": "http://vocadb.net/Search?filter={{{s}}}"
+  },
+  {
+    "d": "vocaloid.wikia.com",
+    "s": "Vocaloid Wiki",
+    "t": "vocaloid",
+    "u": "http://vocaloid.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.voced.edu.au",
+    "s": "VOCED",
+    "t": "voced",
+    "u": "http://www.voced.edu.au/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "www.vodafone.com",
+    "s": "Vodafone",
+    "t": "vodafone",
+    "u": "https://www.vodafone.com/content/index/search.html?search-query={{{s}}}"
+  },
+  {
+    "d": "www.vodafone.it",
+    "s": "Vodafone.it",
+    "t": "voda",
+    "u": "http://www.vodafone.it/area-utente/appmanager/fai-da-te/Common?_nfpb=true&_pageLabel=P5000626721379247340997&categoryId=&pageNumber=&slideNumber=&defaultView=true&searchQuery={{{s}}}"
+  },
+  {
+    "d": "www.voedingswaardetabel.nl",
+    "s": "Voedingswaardetabel.nl",
+    "t": "voedingswaarde",
+    "u": "http://www.voedingswaardetabel.nl/voedingswaarde/?q={{{s}}}"
+  },
+  {
+    "d": "eo.wikipedia.org",
+    "s": "Esperanta Vikipedio",
+    "t": "vo",
+    "u": "https://eo.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.vogue.co.uk",
+    "s": "Vogue.co.uk",
+    "t": "vogueuk",
+    "u": "https://www.vogue.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vogue.com",
+    "s": "Vogue.com",
+    "t": "vogue",
+    "u": "https://www.vogue.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Voice",
+    "t": "voice",
+    "u": "https://www.google.com/voice#search/{{{s}}}"
+  },
+  {
+    "d": "www.voicy.network",
+    "s": "Voicy Network",
+    "t": "voicy",
+    "u": "https://www.voicy.network/clips/search?search={{{s}}}"
+  },
+  {
+    "d": "docs.voidlinux.org",
+    "s": "Void Linux Handbook",
+    "t": "voiddocs",
+    "u": "https://docs.voidlinux.org/?search={{{s}}}"
+  },
+  {
+    "d": "wiki.voidlinux.org",
+    "s": "Void GNU/Linux",
+    "t": "void",
+    "u": "https://wiki.voidlinux.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "wiki.voidlinux.org",
+    "s": "Void Linux Wiki",
+    "t": "voidwiki",
+    "u": "https://wiki.voidlinux.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "publicvoit",
+    "t": "voit",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3AKarl-Voit.at&ia=web"
+  },
+  {
+    "d": "www.librairielesvolcans.com",
+    "s": "Librairie Les Volcans",
+    "t": "volcans",
+    "u": "http://www.librairielesvolcans.com/listeliv.php?RECHERCHE=simple&MOTS={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "voltron.wikia.com",
+    "s": "Voltron Wiki",
+    "t": "voltron",
+    "u": "http://voltron.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.vivaolinux.com.br",
+    "s": "Viva o Linux",
+    "t": "vol",
+    "u": "http://www.vivaolinux.com.br/busca/?cx=partner-pub-3535276187000580%3A4725058203&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&tipoBusca=0&siteurl=www.vivaolinux.com.br"
+  },
+  {
+    "d": "vortaro.nl",
+    "s": "vortaro.nl",
+    "t": "vortaronl",
+    "u": "https://vortaro.nl/?v={{{s}}}"
+  },
+  {
+    "d": "vortaro.net",
+    "s": "Vortaro.net",
+    "t": "vortaro",
+    "u": "http://vortaro.net/#{{{s}}}"
+  },
+  {
+    "d": "vortex.gg",
+    "s": "Vorteex Cloud Gaming",
+    "t": "vortexcg",
+    "u": "https://vortex.gg/games?title={{{s}}}"
+  },
+  {
+    "d": "www.vossey.com",
+    "s": "Vossey.com",
+    "t": "vossey",
+    "u": "http://www.vossey.com/recherche/index.php?ac=recherche&titre={{{s}}}"
+  },
+  {
+    "d": "voteformost.net",
+    "s": "voteformost",
+    "t": "voteformost",
+    "u": "https://voteformost.net/?s={{{s}}}"
+  },
+  {
+    "d": "voterly.com",
+    "s": "Voterly",
+    "t": "voterly",
+    "u": "https://voterly.com/search/politicians?q={{{s}}}"
+  },
+  {
+    "d": "vote.us.org",
+    "s": "Vote",
+    "t": "vote",
+    "u": "https://vote.us.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "vortaro.net",
+    "s": "Plena Ilustrita Vortaro de Esperanto",
+    "t": "votraro",
+    "u": "http://vortaro.net/?w={{{s}}}"
+  },
+  {
+    "d": "www.vox.com",
+    "s": "Vox.com",
+    "t": "vox",
+    "u": "http://www.vox.com/search?q={{{s}}}"
+  },
+  {
+    "d": "vpl.bibliocommons.com",
+    "s": "Vancouver Public Library",
+    "t": "vpl",
+    "u": "https://vpl.bibliocommons.com/search?q={{{s}}}&t=smart&search_category=keyword"
+  },
+  {
+    "d": "www.vpncompare.co.uk",
+    "s": "VPNCompare",
+    "t": "vpn",
+    "u": "https://www.vpncompare.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "videogames.pricecharting.com",
+    "s": "Price Charting",
+    "t": "vp",
+    "u": "http://videogames.pricecharting.com/search?q={{{s}}}&type=videogames&go=Go"
+  },
+  {
+    "d": "vrchat.net",
+    "s": "VRChat",
+    "t": "vrchat",
+    "u": "https://vrchat.net/home/search/{{{s}}}"
+  },
+  {
+    "d": "vrijuit.nl",
+    "s": "Vrij Uit vakanties",
+    "t": "vrijuit",
+    "u": "https://vrijuit.nl/algemeen/ListerPage.aspx?filter=search({{{s}}})"
+  },
+  {
+    "d": "www.vrt.be",
+    "s": "VRT NU",
+    "t": "vrtnu",
+    "u": "https://www.vrt.be/vrtnu/zoeken/#query={{{s}}}"
+  },
+  {
+    "d": "vrv.co",
+    "s": "VRV",
+    "t": "vrv",
+    "u": "https://vrv.co/?q={{{s}}}"
+  },
+  {
+    "d": "www.vsb.bc.ca",
+    "s": "Vancouver School District",
+    "t": "vsb",
+    "u": "http://www.vsb.bc.ca/search/node/{{{s}}}"
+  },
+  {
+    "d": "vschart.com",
+    "s": "vsChart.com",
+    "t": "vschart",
+    "u": "http://vschart.com/search?q={{{s}}}"
+  },
+  {
+    "d": "marketplace.visualstudio.com",
+    "s": "Visual Studio Code Extensions",
+    "t": "vscode",
+    "u": "https://marketplace.visualstudio.com/search?term={{{s}}}&target=VSCode&sortBy=Relevance"
+  },
+  {
+    "d": "sapere.virgilio.it",
+    "s": "Virgilio - Sinonimi e Contrari",
+    "t": "vsc",
+    "u": "https://sapere.virgilio.it/parole/sinonimi-e-contrari/{{{s}}}"
+  },
+  {
+    "d": "code.visualstudio.com",
+    "s": "Visual Studio Code Docs",
+    "t": "vsdocs",
+    "u": "https://code.visualstudio.com/Search?q={{{s}}}"
+  },
+  {
+    "d": "www.vintagesynth.com",
+    "s": "Vintage Synth Explorer",
+    "t": "vse",
+    "u": "http://www.vintagesynth.com/google_results.php?cx=partner-pub-9231860735104128%3A7369484958&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.vintagesynth.com%2F&ref=&ss=572j143576j4"
+  },
+  {
+    "d": "valuestockguide.com",
+    "s": "Value Stock Guide",
+    "t": "vsg",
+    "u": "http://valuestockguide.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.vst4free.com",
+    "s": "VST 4 FREE",
+    "t": "vst4free",
+    "u": "http://www.vst4free.com/index.php?s_keywords={{{s}}}&s_name=1&s_kind=1&s_sent2=1&Submit=Search"
+  },
+  {
+    "d": "www.vancouversun.com",
+    "s": "vancouversun.com",
+    "t": "vsun",
+    "u": "http://www.vancouversun.com/search/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.vividseats.com",
+    "s": "Vivid Seats",
+    "t": "vs",
+    "u": "http://www.vividseats.com/Search.action?searchTerm={{{s}}}"
+  },
+  {
+    "d": "search.vt.edu",
+    "s": "Virginia Tech",
+    "t": "vtech",
+    "u": "https://search.vt.edu/search/pages.html;sa=Search&q={{{s}}}"
+  },
+  {
+    "d": "www.vatefaireconjuguer.com",
+    "s": "Va te faire conjuguer",
+    "t": "vtfc",
+    "u": "https://www.vatefaireconjuguer.com/search?verb={{{s}}}"
+  },
+  {
+    "d": "www.vatefaireconjuguer.com",
+    "s": "VTFC - vatefaireconjuguer.com",
+    "t": "vtf",
+    "u": "http://www.vatefaireconjuguer.com/conjugaison/verbe/{{{s}}}"
+  },
+  {
+    "d": "www.virustotal.com",
+    "s": "www.virustotal.com",
+    "t": "vtip",
+    "u": "https://www.virustotal.com/en/ip-address/{{{s}}}/information/"
+  },
+  {
+    "d": "www.vtk.org",
+    "s": "Visualization Toolkit (VTK) class documentation (devel)",
+    "t": "vtkcd",
+    "u": "http://www.vtk.org/doc/nightly/html/class{{{s}}}.html"
+  },
+  {
+    "d": "vtluug.org",
+    "s": "vtluug wiki",
+    "t": "vtluug",
+    "u": "https://vtluug.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "vtmb.wikia.com",
+    "s": "Vampire: The Masquerade - Blooslines wiki",
+    "t": "vtmb",
+    "u": "http://vtmb.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.vulgumtechus.com",
+    "s": "Vulgum Techus",
+    "t": "vt",
+    "u": "http://www.vulgumtechus.com/index.php?title=Spécial:Recherche&search={{{s}}}"
+  },
+  {
+    "d": "biblio.vub.ac.be",
+    "s": "Bibliotheek van de Vrije Univesiteit Brussel",
+    "t": "vub",
+    "u": "http://biblio.vub.ac.be/vubissmartweb/List.csp?SearchT1={{{s}}}&Index1=Vuballewoorden&Database=3_UB01&OpacLanguage=dut&NumberToRetrieve=20&SearchMethod=Find_1&SearchTerm1=test&Profile=Default&PreviousList=Start&PageType=Start&EncodedRequest=p*20W*20*0A*20*B5*86*DF*D6*7E*A7*15*FD*0F*5E&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount="
+  },
+  {
+    "d": "www.vudu.com",
+    "s": "Vudu",
+    "t": "vudu",
+    "u": "https://www.vudu.com/content/movies/search?searchString={{{s}}}"
+  },
+  {
+    "d": "vuetifyjs.com",
+    "s": "Vuetifyjs",
+    "t": "vuetify",
+    "u": "https://vuetifyjs.com/en/components/{{{s}}}#{{{s}}}"
+  },
+  {
+    "d": "vuejs.org",
+    "s": "Vue Docs",
+    "t": "vue",
+    "u": "https://vuejs.org/v2/search/?q={{{s}}}"
+  },
+  {
+    "d": "vukajlija.com",
+    "s": "Vukajlija",
+    "t": "vukajlija",
+    "u": "http://vukajlija.com/pretraga/izraz?s={{{s}}}"
+  },
+  {
+    "d": "vulners.com",
+    "s": "Vulners.com",
+    "t": "vulners",
+    "u": "https://vulners.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.vulnhub.com",
+    "s": "Vulnhub",
+    "t": "vulnhub",
+    "u": "https://www.vulnhub.com/?q={{{s}}}&sort=date-asc&type=vm"
+  },
+  {
+    "d": "vuo.org",
+    "s": "Vuo",
+    "t": "vuo",
+    "u": "https://vuo.org/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.victoria.ac.nz",
+    "s": "Victoria University of Wellington",
+    "t": "vuw",
+    "u": "http://www.victoria.ac.nz/search?q={{{s}}}"
+  },
+  {
+    "d": "www.vwe.nl",
+    "s": "VWE",
+    "t": "vwe",
+    "u": "http://www.vwe.nl/zoeken_resultaten.aspx?q={{{s}}}"
+  },
+  {
+    "d": "us.vwr.com",
+    "s": "VWR International ",
+    "t": "vwr",
+    "u": "https://us.vwr.com/store/product?keyword={{{s}}}"
+  },
+  {
+    "d": "wiki.voidlinux.org",
+    "s": "Void Linux Wiki",
+    "t": "vw",
+    "u": "https://wiki.voidlinux.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "vyavasthit.com",
+    "s": "Vyavasthit",
+    "t": "vyavasthit",
+    "u": "https://vyavasthit.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.vajehyab.com",
+    "s": "Vajeh Yab",
+    "t": "vy",
+    "u": "https://www.vajehyab.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.vz.lt",
+    "s": "Verslo žinios",
+    "t": "vz",
+    "u": "https://www.vz.lt/section/?template=search&search={{{s}}}"
+  }
+]

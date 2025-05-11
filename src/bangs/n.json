@@ -1,0 +1,2438 @@
+[
+  {
+    "d": "www.n11.com",
+    "s": "n11.com",
+    "t": "n11",
+    "u": "http://www.n11.com/arama?q={{{s}}}"
+  },
+  {
+    "d": "www.news24.com",
+    "s": "News24",
+    "t": "n24",
+    "u": "http://www.news24.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.naardensebijbel.nl",
+    "s": "Naardense Bijbel",
+    "t": "naarden",
+    "u": "http://www.naardensebijbel.nl/?search-class=DB_CustomSearch_Widget-db_customsearch_widget&widget_number=preset-default&-0=vers&cs-booknr-1=&cs-bijbelhoofdstuk-2=&cs-versnummer-3=&cs-bijbelvers_v2-4={{{s}}}&search=Zoeken"
+  },
+  {
+    "d": "www.nabava.net",
+    "s": "Nabava.net",
+    "t": "nabava",
+    "u": "https://www.nabava.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "notabug.org",
+    "s": "notabug.org (free code hosting)",
+    "t": "nab",
+    "u": "https://notabug.org/explore/repos?q={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway",
+    "t": "nabre",
+    "u": "https://www.biblegateway.com/passage/?search={{{s}}}&version=NABRE"
+  },
+  {
+    "d": "gbpicx.de",
+    "s": "gbpicx",
+    "t": "nacht",
+    "u": "http://gbpicx.de//?s={{{s}}}"
+  },
+  {
+    "d": "naeb.brit.org",
+    "s": "Native American Ethnobotany",
+    "t": "naeb",
+    "u": "http://naeb.brit.org/uses/search/?string={{{s}}}"
+  },
+  {
+    "d": "naijalingo.com",
+    "s": "Naija Lingo",
+    "t": "naijalingo",
+    "u": "http://naijalingo.com/search?word={{{s}}}"
+  },
+  {
+    "d": "www.naijatoptech.com.ng",
+    "s": "Naijatoptech",
+    "t": "naijatoptech",
+    "u": "https://www.naijatoptech.com.ng/search?q={{{s}}}"
+  },
+  {
+    "d": "www.najdi.si",
+    "s": "Najdi.si",
+    "t": "najdi",
+    "u": "http://www.najdi.si/search.jsp?q={{{s}}}"
+  },
+  {
+    "d": "nakedsecurity.sophos.com",
+    "s": "Naked Security (by Sophos)",
+    "t": "nakedsec",
+    "u": "https://nakedsecurity.sophos.com/?s={{{s}}}"
+  },
+  {
+    "d": "namchey.com",
+    "s": "Namchey",
+    "t": "namchey",
+    "u": "https://namchey.com/search/?searchKeyword={{{s}}}"
+  },
+  {
+    "d": "www.namecheap.com",
+    "s": "Namecheap",
+    "t": "namecheap",
+    "u": "https://www.namecheap.com/domains/registration/results.aspx?domain={{{s}}}"
+  },
+  {
+    "d": "nameling.net",
+    "s": "Nameling",
+    "t": "nameling",
+    "u": "http://nameling.net/name/{{{s}}}"
+  },
+  {
+    "d": "de.namemc.com",
+    "s": "NameMC",
+    "t": "namemc",
+    "u": "https://de.namemc.com/s?{{{s}}}"
+  },
+  {
+    "d": "www.name.com",
+    "s": "Name.com ",
+    "t": "name",
+    "u": "http://www.name.com/name?&domain={{{s}}}"
+  },
+  {
+    "d": "namu.wiki",
+    "s": "namuwiki",
+    "t": "namu",
+    "u": "https://namu.wiki/go/{{{s}}}"
+  },
+  {
+    "d": "search.naver.com",
+    "s": "NAVER",
+    "t": "na",
+    "u": "https://search.naver.com/search.naver?query={{{s}}}"
+  },
+  {
+    "d": "www.timini.no",
+    "s": "Timini",
+    "t": "nano",
+    "u": "https://www.timini.no/search/q/{{{s}}}"
+  },
+  {
+    "d": "www.naob.no",
+    "s": "NAOB – Det Norske Akademis ordbok",
+    "t": "naob",
+    "u": "https://www.naob.no/s%C3%B8k/{{{s}}}"
+  },
+  {
+    "d": "www.naointendo.com.br",
+    "s": "Não Intendo",
+    "t": "naointendo",
+    "u": "http://www.naointendo.com.br/blog/busca?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "na.op.gg",
+    "s": "opgg",
+    "t": "naopgg",
+    "u": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "na.op.gg",
+    "s": "op.gg",
+    "t": "na.op",
+    "u": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "www.naora.me",
+    "s": "나오라",
+    "t": "naora",
+    "u": "https://www.naora.me/web?q={{{s}}}"
+  },
+  {
+    "d": "naruto.wikia.com",
+    "s": "Narutopedia",
+    "t": "naruto",
+    "u": "http://naruto.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "nasasearch.nasa.gov",
+    "s": "NASA",
+    "t": "nasa",
+    "u": "https://nasasearch.nasa.gov/search?query={{{s}}}&affiliate=nasa&utf8=%E2%9C%93"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "New American Standard Bible",
+    "t": "nasb",
+    "u": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=NASB"
+  },
+  {
+    "d": "www.nasdaq.com",
+    "s": "NASDAQ",
+    "t": "nasdaq",
+    "u": "https://www.nasdaq.com/symbol/{{{s}}}/real-time"
+  },
+  {
+    "d": "www.naslovi.net",
+    "s": "Naslovi.net",
+    "t": "naslovi",
+    "u": "http://www.naslovi.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "search.shopping.naver.com",
+    "s": "Naver Shopping",
+    "t": "nasp",
+    "u": "https://search.shopping.naver.com/search/all.nhn?query={{{s}}}&cat_id=&frm=NVSHATC"
+  },
+  {
+    "d": "www.natgeokids.com",
+    "s": "National Geographic Kids",
+    "t": "natgeokids",
+    "u": "https://www.natgeokids.com/?s=testhttps://www.nationalgeographic.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.nationalgeographic.com",
+    "s": "National Geographic",
+    "t": "natgeo",
+    "u": "https://www.nationalgeographic.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.nationalgeographic.com",
+    "s": "National Geographic",
+    "t": "nationalgeographic",
+    "u": "https://www.nationalgeographic.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.nationalobserver.com",
+    "s": "National Observer",
+    "t": "nationalobserver",
+    "u": "https://www.nationalobserver.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "nationalpost.com",
+    "s": "National Post",
+    "t": "nationalpost",
+    "u": "https://nationalpost.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.nationalreview.com",
+    "s": "National Review",
+    "t": "nationalreview",
+    "u": "https://www.nationalreview.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.native-instruments.com",
+    "s": "Native Instruments User Library",
+    "t": "nativeinstruments",
+    "u": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/?q={{{s}}}&t=userlib"
+  },
+  {
+    "d": "www.nationalobserver.com",
+    "s": "National Observer",
+    "t": "natobserver",
+    "u": "https://www.nationalobserver.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.thenational.com.pg",
+    "s": "The National Newspaper Papua New Guinea",
+    "t": "natpng",
+    "u": "http://www.thenational.com.pg/?s={{{s}}}"
+  },
+  {
+    "d": "naturallybeautycare.com",
+    "s": "NaturallyBeautyCare",
+    "t": "natural",
+    "u": "https://naturallybeautycare.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.nature.com",
+    "s": "Nature",
+    "t": "nature",
+    "u": "http://www.nature.com/search/executeSearch?sp-q-1=&sp-q={{{s}}}"
+  },
+  {
+    "d": "www.naturespic.com",
+    "s": "Nature's Pic Images",
+    "t": "naturespic",
+    "u": "http://www.naturespic.com/NewZealand/result_search.asp?search={{{s}}}"
+  },
+  {
+    "d": "naturvin.wordpress.com",
+    "s": "Naturvin – The Sound of Soil",
+    "t": "naturvin",
+    "u": "https://naturvin.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.nautiljon.com",
+    "s": "Nautiljon",
+    "t": "nautiljon",
+    "u": "http://www.nautiljon.com/search.php?cx=partner-pub-0881008410530095%3Ad1y8wrnakj0&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "nautil.us",
+    "s": "Nautil.us",
+    "t": "nautilus",
+    "u": "http://nautil.us/search/{{{s}}}"
+  },
+  {
+    "d": "www.navalactionwiki.com",
+    "s": "Naval Action Wiki",
+    "t": "nava",
+    "u": "http://www.navalactionwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "dict.naver.com",
+    "s": "Naver Dictionnaire Fr",
+    "t": "naverdicfr",
+    "u": "https://dict.naver.com/frkodict/#/search?query={{{s}}}"
+  },
+  {
+    "d": "search.naver.com",
+    "s": "Naver",
+    "t": "naver",
+    "u": "http://search.naver.com/search.naver?where=nexearch&sm=osd&ie={inputEncoding}&query={{{s}}}"
+  },
+  {
+    "d": "beta.map.naver.com",
+    "s": "Naver Maps (yanndch)",
+    "t": "navm",
+    "u": "https://beta.map.naver.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.navigium.de",
+    "s": "Navigium",
+    "t": "nav",
+    "u": "http://www.navigium.de/latein-woerterbuch.php?form={{{s}}}&wb=gross&phr=true&mh=true"
+  },
+  {
+    "d": "nayiri.com",
+    "s": "Nayiri Armenian dictionary",
+    "t": "nayiri",
+    "u": "http://nayiri.com/search?query={{{s}}}"
+  },
+  {
+    "d": "dleague.nba.com",
+    "s": "NBA D-League",
+    "t": "nbadl",
+    "u": "http://dleague.nba.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.nbamaniacs.com",
+    "s": "Nba Maniacs",
+    "t": "nbam",
+    "u": "https://www.nbamaniacs.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.nba.com",
+    "s": "NBA.com",
+    "t": "nba",
+    "u": "http://www.nba.com/search#/{{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "duckduckgo new !bang",
+    "t": "nbang",
+    "u": "/newbang"
+  },
+  {
+    "d": "www.notebookcheck.com",
+    "s": "Notebookcheck(DE)",
+    "t": "nbcde",
+    "u": "https://www.notebookcheck.com/Notebook-Suche.1095.0.html?&manufacturer=&model={{{s}}}"
+  },
+  {
+    "d": "www.notebookcheck.net",
+    "s": "NotebookCheck",
+    "t": "nbc",
+    "u": "https://www.notebookcheck.net/Google-Search.36690.0.html?q={{{s}}}"
+  },
+  {
+    "d": "ordbokene.no",
+    "s": "Norwegian Bokmål Dictionary",
+    "t": "nbd",
+    "u": "https://ordbokene.no/bm/search?scope=ei&perPage=20&q={{{s}}}"
+  },
+  {
+    "d": "www.nb.no",
+    "s": "Nasjonalbiblioteket",
+    "t": "nb",
+    "u": "http://www.nb.no/nbsok/search?page=0&menuOpen=false&instant=true&action=search&currentHit=-1&searchString={{{s}}}"
+  },
+  {
+    "d": "nbcstructuredsolutions.ca",
+    "s": "National Bank Structured Notes",
+    "t": "nbnotes",
+    "u": "https://nbcstructuredsolutions.ca/listeProduits.aspx?search={{{s}}}"
+  },
+  {
+    "d": "nbn-resolving.org",
+    "s": "URN:NBN Resolver for Germany & Switzerland",
+    "t": "nbn",
+    "u": "https://nbn-resolving.org/{{{s}}}"
+  },
+  {
+    "d": "www.notebooksbilliger.de",
+    "s": "NotebooksBillger",
+    "t": "nbooks",
+    "u": "http://www.notebooksbilliger.de/produkte/{{{s}}}"
+  },
+  {
+    "d": "netbsd.gw.com",
+    "s": "NetBSD manual pages",
+    "t": "nbsdman",
+    "u": "http://netbsd.gw.com/cgi-bin/man-cgi?{{{s}}}"
+  },
+  {
+    "d": "ncatlab.org",
+    "s": "nLab",
+    "t": "ncatlab",
+    "u": "http://ncatlab.org/nlab/show/HomePage/?q={{{s}}}"
+  },
+  {
+    "d": "www.nocoastbestcoast.com",
+    "s": "NoCoastBestCoast",
+    "t": "ncbc",
+    "u": "https://www.nocoastbestcoast.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "NCBI",
+    "t": "ncbi",
+    "u": "http://www.ncbi.nlm.nih.gov/gquery/?term={{{s}}}"
+  },
+  {
+    "d": "nciku.com",
+    "s": "Nciku English",
+    "t": "nce",
+    "u": "http://nciku.com/search/en/{{{s}}}"
+  },
+  {
+    "d": "www.namecheap.com",
+    "s": "NameCheap",
+    "t": "ncheap",
+    "u": "http://www.namecheap.com/domains/domain-name-search/results.aspx?domain={{{s}}}"
+  },
+  {
+    "d": "www.nciku.com",
+    "s": "Nciku.com",
+    "t": "nciku",
+    "u": "http://www.nciku.com/search/all/{{{s}}}"
+  },
+  {
+    "d": "nciku.com",
+    "s": "Nciku",
+    "t": "nck",
+    "u": "http://nciku.com/search/all/{{{s}}}"
+  },
+  {
+    "d": "www.nclive.org",
+    "s": "NC Live",
+    "t": "ncl",
+    "u": "https://www.nclive.org/search-everything?search={{{s}}}"
+  },
+  {
+    "d": "www.namecheap.com",
+    "s": "Namecheap",
+    "t": "nc",
+    "u": "https://www.namecheap.com/domains/registration/results.aspx?domain={{{s}}} "
+  },
+  {
+    "d": "www.ncregister.com",
+    "s": "National Catholic Register",
+    "t": "ncr",
+    "u": "https://www.ncregister.com/search/results?q={{{s}}}"
+  },
+  {
+    "d": "www.ncsc.nl",
+    "s": "Nationaal Cyber Security Centrum",
+    "t": "ncsc",
+    "u": "https://www.ncsc.nl/zoeken?trefwoord={{{s}}}"
+  },
+  {
+    "d": "search.lib.ncsu.edu",
+    "s": "NCSU Libraries",
+    "t": "ncsulib",
+    "u": "http://search.lib.ncsu.edu/?q={{{s}}}"
+  },
+  {
+    "d": "www.nicovideo.jp",
+    "s": "Nicovideo jp",
+    "t": "ncvi",
+    "u": "http://www.nicovideo.jp/search/{{{s}}}?track=nicouni_search_keyword"
+  },
+  {
+    "d": "nciku.com",
+    "s": "Nciku Chinese",
+    "t": "ncz",
+    "u": "http://nciku.com/search/zh/{{{s}}}"
+  },
+  {
+    "d": "www.deutsche-biographie.de",
+    "s": "Deutsche Biographie (NDB/ADB)",
+    "t": "ndb",
+    "u": "https://www.deutsche-biographie.de/search?name={{{s}}}&kat=ndbadb&beruf=&orte=&geburtsjahr=&todesjahr=&gnd=&st=erw&facets=&cf=10&number=0&ot=&sl=[]&sort="
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo News DE",
+    "t": "nde",
+    "u": "https://duckduckgo.com/?q=test&iar=news&ia=news&kl=de-de"
+  },
+  {
+    "d": "www.neues-deutschland.de",
+    "s": "Neues Deutschland",
+    "t": "ndeutsch",
+    "u": "https://www.neues-deutschland.de/suche/index.php?and={{{s}}}&s0_d=00&s0_m=00&s0_y=0000&s1_d=00&s1_m=00&s1_y=0000&modus=2&sort=1&searchfields%5B%5D=0&searchfields%5B%5D=1&searchfields%5B%5D=2&searchfields%5B%5D=3&searchfields%5B%5D=4&display=1&search=Suchen"
+  },
+  {
+    "d": "endic.naver.com",
+    "s": "Naver English Dictionary",
+    "t": "ndic",
+    "u": "http://endic.naver.com/search.nhn?query={{{s}}}"
+  },
+  {
+    "d": "ndla.no",
+    "s": "NDLA",
+    "t": "ndla",
+    "u": "https://ndla.no/en/search/apachesolr_search/{{{s}}}?language[]=und&filters=1/"
+  },
+  {
+    "d": "ndlonline.ndl.go.jp",
+    "s": "National Diet Library Online",
+    "t": "ndl",
+    "u": "https://ndlonline.ndl.go.jp/#!/search?keyword={{{s}}}"
+  },
+  {
+    "d": "onesearch.library.nd.edu",
+    "s": "Notre Dame Library OneSearch",
+    "t": "nd",
+    "u": "https://onesearch.library.nd.edu/primo-explore/search?query=any,contains,{{{s}}}&tab=onesearch&search_scope=malc_blended&vid=NDU&lang=en_US&offset=0"
+  },
+  {
+    "d": "ndpr.nd.edu",
+    "s": "Notre Dame Philosophical Reviews",
+    "t": "ndpr",
+    "u": "http://ndpr.nd.edu/search/?search_keyword=&as_sitesearch=ndpr.nd.edu&q={{{s}}}"
+  },
+  {
+    "d": "ndr.de",
+    "s": "NDR.de - Der Norddeutsche Rundfunk",
+    "t": "ndrde",
+    "u": "https://ndr.de/suche10.html?query={{{s}}}"
+  },
+  {
+    "d": "www.ndr.de",
+    "s": "Norddeutscher Rundfunk",
+    "t": "ndr",
+    "u": "https://www.ndr.de/suche10.html?query={{{s}}}"
+  },
+  {
+    "d": "www.nachdenkseiten.de",
+    "s": "Nachdenkseiten",
+    "t": "nds",
+    "u": "http://www.nachdenkseiten.de/?s={{{s}}}"
+  },
+  {
+    "d": "ndtv.com",
+    "s": "NDTV",
+    "t": "ndtv",
+    "u": "http://ndtv.com/topic/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo News",
+    "t": "n",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news"
+  },
+  {
+    "d": "recherche.nebis.ch",
+    "s": "Nebis",
+    "t": "nebis",
+    "u": "https://recherche.nebis.ch/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=NEBIS"
+  },
+  {
+    "d": "www.neb.com",
+    "s": "New England BioLabs",
+    "t": "neb",
+    "u": "https://www.neb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.newegg.ca",
+    "s": "Newegg Canada",
+    "t": "neca",
+    "u": "http://www.newegg.ca/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description={{{s}}}&N=-1&isNodeId=1"
+  },
+  {
+    "d": "crypt-of-the-necrodancer.wikia.com",
+    "s": "Crypt of the NecroDancer Wikia",
+    "t": "necrod",
+    "u": "http://crypt-of-the-necrodancer.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns1=1&ns2=1&ns3=1&ns4=1&ns5=1&ns6=1&ns7=1&ns8=1&ns9=1&ns10=1&ns11=1&ns12=1&ns13=1&ns14=1&ns15=1&ns110=1&ns111=1&ns828=1&ns829=1&ns1201=1#advanced"
+  },
+  {
+    "d": "necyklopedie.wikia.com",
+    "s": "Necyklopedie CZ",
+    "t": "necy",
+    "u": "http://necyklopedie.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "d": "nedir-sozluk.com",
+    "s": "Nedir Sözlük",
+    "t": "nedir",
+    "u": "http://nedir-sozluk.com/ara/{{{s}}}"
+  },
+  {
+    "d": "ned.ipac.caltech.edu",
+    "s": "NASA Extragalactic Database",
+    "t": "ned",
+    "u": "http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname={{{s}}}"
+  },
+  {
+    "d": "www.needsnest.com",
+    "s": "Needs Nest",
+    "t": "needsnest",
+    "u": "https://www.needsnest.com/search/?search_keywords={{{s}}}"
+  },
+  {
+    "d": "www.nejm.org",
+    "s": "New England Journal Of Medicine",
+    "t": "nejm",
+    "u": "http://www.nejm.org/search?q={{{s}}}&asug="
+  },
+  {
+    "d": "www.nemlig.com",
+    "s": "Nemlig",
+    "t": "nemlig",
+    "u": "https://www.nemlig.com/?search={{{s}}}"
+  },
+  {
+    "d": "music.163.com",
+    "s": "网易云音乐(NeteaseMusic)",
+    "t": "nem",
+    "u": "http://music.163.com/#/search/m/?s={{{s}}}"
+  },
+  {
+    "d": "www.newegg.com",
+    "s": "Newegg",
+    "t": "ne",
+    "u": "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description={{{s}}}"
+  },
+  {
+    "d": "neo4j.com",
+    "s": "Neo4j",
+    "t": "neo4j",
+    "u": "https://neo4j.com/?s={{{s}}}"
+  },
+  {
+    "d": "neocities.org",
+    "s": "Neocities",
+    "t": "neo",
+    "u": "https://neocities.org/browse?tag={{{s}}}"
+  },
+  {
+    "d": "www.neos.io",
+    "s": "Neos.io",
+    "t": "neos",
+    "u": "https://www.neos.io/download-and-extend/packages.html?search={{{s}}}"
+  },
+  {
+    "d": "www.neowin.net",
+    "s": "Neowin",
+    "t": "neowin",
+    "u": "http://www.neowin.net/search/news?terms={{{s}}}"
+  },
+  {
+    "d": "neptunia.wikia.com",
+    "s": "Hyperdimension Neptunia Wiki",
+    "t": "nepu",
+    "u": "http://neptunia.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.nerdscoop.com",
+    "s": "Nerdscoop",
+    "t": "nerdscoop",
+    "u": "http://www.nerdscoop.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.nerdstore.com.br",
+    "s": "Nerd Store",
+    "t": "nerdstore",
+    "u": "http://www.nerdstore.com.br/{{{s}}}"
+  },
+  {
+    "d": "www.nerdwallet.com",
+    "s": "NerdWallet ",
+    "t": "nerdwallet",
+    "u": "http://www.nerdwallet.com/search/results#q={{{s}}}"
+  },
+  {
+    "d": "wiki.nesdev.com",
+    "s": "NESDev Wiki",
+    "t": "nesdev",
+    "u": "http://wiki.nesdev.com/w/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=1"
+  },
+  {
+    "d": "www.ne.se",
+    "s": "Nationalencyklopedin",
+    "t": "nese",
+    "u": "http://www.ne.se/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.ne.se",
+    "s": "Svenska Nationalencyklopedin",
+    "t": "ne.se",
+    "u": "http://www.ne.se/s%C3%B6k/?t=uppslagsverk&q={{{s}}}"
+  },
+  {
+    "d": "www.ne.se",
+    "s": "Nationalencyklopedin",
+    "t": "nes",
+    "u": "http://www.ne.se/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.nestoria.de",
+    "s": "Nestoria Deutschland",
+    "t": "nestde",
+    "u": "http://www.nestoria.de/{{{s}}}"
+  },
+  {
+    "d": "www.nestoria.co.uk",
+    "s": "Nestoria UK",
+    "t": "nestuk",
+    "u": "http://www.nestoria.co.uk/{{{s}}} "
+  },
+  {
+    "d": "www.netacad.com",
+    "s": "Networking Academy",
+    "t": "netacad",
+    "u": "https://www.netacad.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": ".NET API Browser",
+    "t": "netapi",
+    "u": "https://docs.microsoft.com/dotnet/api/?term={{{s}}}"
+  },
+  {
+    "d": "man.netbsd.org",
+    "s": "NetBSD Manual Pages",
+    "t": "netbsdman",
+    "u": "http://man.netbsd.org/man/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "The NetBSD Project",
+    "t": "netbsd",
+    "u": "http://www.google.com/cse?cx=006277936787196004968:mbdhrauy1wm&q=guide&oq=guide&gs_l=partner.12...0.0.1.52071.0.0.0.0.0.0.0.0..0.0.gsnos%2Cn%3D13..0.0.0jj1..1ac.#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": ".NET API Browser - .NET Core 2.0",
+    "t": "netcore2api",
+    "u": "https://docs.microsoft.com/en-us/dotnet/api/?view=netcore-2.0&term={{{s}}}"
+  },
+  {
+    "d": "toolbar.netcraft.com",
+    "s": "Netcraft",
+    "t": "netcraft",
+    "u": "http://toolbar.netcraft.com/site_report?url={{{s}}}"
+  },
+  {
+    "d": "dvd.netflix.com",
+    "s": "Netflix DVD",
+    "t": "netflixdvd",
+    "u": "https://dvd.netflix.com/Search?v1={{{s}}}"
+  },
+  {
+    "d": "www.netflix.com",
+    "s": "Netflix",
+    "t": "netflix",
+    "u": "https://www.netflix.com/search?q={{{s}}}"
+  },
+  {
+    "d": "netgear.com",
+    "s": "Netgear",
+    "t": "netgear",
+    "u": "http://netgear.com/Search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "nethackwiki.com",
+    "s": "NetHack Wiki",
+    "t": "nethack",
+    "u": "http://nethackwiki.com/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.neti.ee",
+    "s": "NETI",
+    "t": "neti",
+    "u": "http://www.neti.ee/cgi-bin/otsing?src=web&query={{{s}}} "
+  },
+  {
+    "d": "www.netlingo.com",
+    "s": "NetLingo",
+    "t": "netlingo",
+    "u": "http://www.netlingo.com/search.php?searchtxt={{{s}}}"
+  },
+  {
+    "d": "www.netflix.com",
+    "s": "Netfilx",
+    "t": "net",
+    "u": "https://www.netflix.com/search?q={{{s}}}"
+  },
+  {
+    "d": "netolink.com",
+    "s": "Netolink",
+    "t": "netolink",
+    "u": "https://netolink.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.netonnet.no",
+    "s": "NetOnNet",
+    "t": "netonnet",
+    "u": "https://www.netonnet.no/Search?query={{{s}}}"
+  },
+  {
+    "d": "netrunnerdb.com",
+    "s": "NetrunnerDB",
+    "t": "netrunner",
+    "u": "http://netrunnerdb.com/find/?q={{{s}}}"
+  },
+  {
+    "d": "referencesource.microsoft.com",
+    "s": "DotNet Reference Sources",
+    "t": "netsrc",
+    "u": "http://referencesource.microsoft.com/#q={{{s}}}"
+  },
+  {
+    "d": "www.nettimarkkina.com",
+    "s": "NettiMarkkina",
+    "t": "nettimarkkina",
+    "u": "https://www.nettimarkkina.com/haku?tag_cld=Y&site=A&status_typeF=F&status_typeR=R&status_typeP=P&search_keyword[]={{{s}}}&"
+  },
+  {
+    "d": "code.tutsplus.com",
+    "s": "Nettuts+",
+    "t": "nettuts",
+    "u": "https://code.tutsplus.com/tutorials/search/{{{s}}}"
+  },
+  {
+    "d": "networkpeople.nl",
+    "s": "NetworkPeople",
+    "t": "netwerk",
+    "u": "http://networkpeople.nl/?s={{{s}}}"
+  },
+  {
+    "d": "networkpeople.nl",
+    "s": "NetworkPeople",
+    "t": "networkpeople",
+    "u": "http://networkpeople.nl/?s={{{s}}}"
+  },
+  {
+    "d": "networkx.lanl.gov",
+    "s": "networkx",
+    "t": "networkx",
+    "u": "http://networkx.lanl.gov/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "netzpolitik.org",
+    "s": "Netzpolitik.org",
+    "t": "netzpolitik",
+    "u": "https://netzpolitik.org/?s={{{s}}}"
+  },
+  {
+    "d": "nevakit.com",
+    "s": "Ne Vakit",
+    "t": "nevakit",
+    "u": "https://nevakit.com/ara/{{{s}}}"
+  },
+  {
+    "d": "www.newark.com",
+    "s": "Newark",
+    "t": "newark",
+    "u": "http://www.newark.com/jsp/search/browse.jsp;jsessionid=HLQ02PGLEB0YKCXDUZ1G4IQ?N=0&Ntk=gensearch_001&Ntt={{{s}}}&Ntx=mode+matchallpartial&suggestions=false&ref=globalsearch&_requestid=285160"
+  },
+  {
+    "d": "www.newegg.ca",
+    "s": "Newegg Canada",
+    "t": "neweggca",
+    "u": "https://www.newegg.ca/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description={{{s}}}&N=-1&isNodeId=1"
+  },
+  {
+    "d": "www.newegg.com",
+    "s": "Newegg",
+    "t": "newegg",
+    "u": "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description={{{s}}}"
+  },
+  {
+    "d": "newffr.com",
+    "s": "NewFFR",
+    "t": "newffr",
+    "u": "http://newffr.com/search.php?words={{{s}}}&mode=1&s_in_forum=1"
+  },
+  {
+    "d": "www.newgrounds.com",
+    "s": "Newgrounds",
+    "t": "newgrounds",
+    "u": "https://www.newgrounds.com/search/summary?suitabilities=etm&terms={{{s}}}"
+  },
+  {
+    "d": "www.newhome.se",
+    "s": "NewHome.se",
+    "t": "newhome",
+    "u": "http://www.newhome.se/index.php?route=product/search&filter_name={{{s}}}"
+  },
+  {
+    "d": "www.newhomesource.com",
+    "s": "New Home Source",
+    "t": "newhomes",
+    "u": "https://www.newhomesource.com/locationhandler?searchtext={{{s}}}"
+  },
+  {
+    "d": "www.newport.com",
+    "s": "Newport",
+    "t": "newport",
+    "u": "https://www.newport.com/search/?text={{{s}}}"
+  },
+  {
+    "d": "www.news24.com",
+    "s": "News 24",
+    "t": "news24",
+    "u": "https://www.news24.com/search?q={{{s}}}"
+  },
+  {
+    "d": "news365.club",
+    "s": "News365 Club",
+    "t": "news365club",
+    "u": "http://news365.club/arama?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google News Archive",
+    "t": "newsarchive",
+    "u": "http://www.google.com/#q={{{s}}}&hl=en&tbm=nws&prmd=imvnsfd&source=lnt&tbs=ar:1&sa=X&ei=UJrnT8LwO8Sf6QGHmIjhDg&ved=0CCcQpwUoBQ&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=3c6a142c5aa1edc2&biw=1366&bih=706"
+  },
+  {
+    "d": "search.news.com.au",
+    "s": "News.com.au",
+    "t": "newscomau",
+    "u": "http://search.news.com.au/search?us=ndmnews&as=NEWS&q={{{s}}}"
+  },
+  {
+    "d": "www.newsday.com",
+    "s": "NewsDay.com",
+    "t": "newsday",
+    "u": "http://www.newsday.com/7.25434?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo News Germany",
+    "t": "newsde",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=de-de"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo News",
+    "t": "news",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news"
+  },
+  {
+    "d": "newsela.com",
+    "s": "Newsela",
+    "t": "newsela",
+    "u": "https://newsela.com/search/#/?needle={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo News France",
+    "t": "newsfr",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=fr-fr"
+  },
+  {
+    "d": "us.newshub.org",
+    "s": "NewsHub",
+    "t": "newsh",
+    "u": "http://us.newshub.org/search/{{{s}}}/us/all/p1"
+  },
+  {
+    "d": "www.delawareonline.com",
+    "s": "The News Journal",
+    "t": "newsjournal",
+    "u": "https://www.delawareonline.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.google.com",
+    "s": "NewsMax.com",
+    "t": "newsmax",
+    "u": "http://www.google.com/custom?domains=NewsMax.com&client=pub-2932230807573228&forid=1&ie=UTF8&oe=UTF8&safe=active&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A70%3BLW%3A297%3BL%3Ahttp%3A%2F%2Fwww.newsmax.com%2Fimages%2Fhome%2Fa-logo.gif%3BS%3Ahttp%3A%2F%2Fwww.newsmax.com%2F%3BLP%3A1%3BFORID%3A1%3B&sitesearch=Newsmax.com&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo News Mexico",
+    "t": "newsmx",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&kl=mx-es&ia=news"
+  },
+  {
+    "d": "www.newsnow.co.uk",
+    "s": "NewsNow",
+    "t": "newsnow",
+    "u": "http://www.newsnow.co.uk/h/?search={{{s}}}"
+  },
+  {
+    "d": "newstapa.org",
+    "s": "Newstapa",
+    "t": "newstapa",
+    "u": "http://newstapa.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.newsweek.com",
+    "s": "Newsweek",
+    "t": "newsweek",
+    "u": "https://www.newsweek.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "hn.algolia.com",
+    "s": "Hacker News",
+    "t": "newsyc",
+    "u": "http://hn.algolia.com/#!/story/forever/0/{{{s}}}"
+  },
+  {
+    "d": "www.newyorker.com",
+    "s": "The New Yorker",
+    "t": "newyorker",
+    "u": "http://www.newyorker.com/search/q/{{{s}}}"
+  },
+  {
+    "d": "www.nexojornal.com.br",
+    "s": "Nexo Jornal",
+    "t": "nexo",
+    "u": "https://www.nexojornal.com.br/utility/search/?q={{{s}}}"
+  },
+  {
+    "d": "catalog.nexpresslibrary.org",
+    "s": "NExpress Catalog",
+    "t": "nexpress",
+    "u": "https://catalog.nexpresslibrary.org/cgi-bin/koha/opac-search.pl?q={{{s}}} "
+  },
+  {
+    "d": "apps.nextcloud.com",
+    "s": "Nextcloud App Store",
+    "t": "nextcloudapp",
+    "u": "https://apps.nextcloud.com/?search={{{s}}}"
+  },
+  {
+    "d": "next-episode.net",
+    "s": "Next-Episode.net",
+    "t": "next",
+    "u": "http://next-episode.net/site-search-{{{s}}}.html"
+  },
+  {
+    "d": "www.neyzen.com",
+    "s": "Neyzen.com",
+    "t": "neyzen",
+    "u": "http://www.neyzen.com/aramasonuc.html?q={{{s}}}"
+  },
+  {
+    "d": "www.nfb.ca",
+    "s": "National Film Board of Canada",
+    "t": "nfb",
+    "u": "https://www.nfb.ca/search/#?queryString={{{s}}}&index=0&language=en"
+  },
+  {
+    "d": "www.nfib.com",
+    "s": "National Federation of Independent Business",
+    "t": "nfib",
+    "u": "http://www.nfib.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "search.nfl.com",
+    "s": "NFL.com",
+    "t": "nfl",
+    "u": "http://search.nfl.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.nfl.com",
+    "s": "NFL Player Search",
+    "t": "nflps",
+    "u": "http://www.nfl.com/players/search?category=name&filter={{{s}}}"
+  },
+  {
+    "d": "www.netflix.com",
+    "s": "Netflix",
+    "t": "nf",
+    "u": "https://www.netflix.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.infowars.com",
+    "s": "Infowars",
+    "t": "nfowrs",
+    "u": "http://www.infowars.com/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Actualité",
+    "t": "nfr",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=fr-fr"
+  },
+  {
+    "d": "nfs.wikia.com",
+    "s": "Need for Speed Wiki",
+    "t": "nfsw",
+    "u": "http://nfs.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "v2.angular.io",
+    "s": "Angular.io v2",
+    "t": "ng2",
+    "u": "https://v2.angular.io/api?search={{{s}}}"
+  },
+  {
+    "d": "angular.io",
+    "s": "Angular 4 API",
+    "t": "ng4",
+    "u": "https://angular.io/api?query={{{s}}}"
+  },
+  {
+    "d": "v8.angular.io",
+    "s": "Angular.io v8",
+    "t": "ng8",
+    "u": "https://v8.angular.io/api?search={{{s}}}"
+  },
+  {
+    "d": "angular.io",
+    "s": "AngularJS",
+    "t": "ng",
+    "u": "https://angular.io/api?query={{{s}}}"
+  },
+  {
+    "d": "www.newgrounds.com",
+    "s": "Newgrounds Games",
+    "t": "ngg",
+    "u": "http://www.newgrounds.com/portal/search/games/{{{s}}}"
+  },
+  {
+    "d": "www.nginx.com",
+    "s": "Nginx wiki",
+    "t": "nginx",
+    "u": "https://www.nginx.com/resources/wiki/search/?q={{{s}}}"
+  },
+  {
+    "d": "wiki.nginx.org",
+    "s": "nginx wiki",
+    "t": "nginxwiki",
+    "u": "http://wiki.nginx.org/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "books.google.com",
+    "s": "Google Ngram Viewer",
+    "t": "ngram",
+    "u": "http://books.google.com/ngrams/graph?content={{{s}}}&year_start=1800&year_end=2000&corpus=15&smoothing=3"
+  },
+  {
+    "d": "books.google.com",
+    "s": "Google Ngram Viewer (German)",
+    "t": "ngramsde",
+    "u": "https://books.google.com/ngrams/graph?content={{{s}}}&year_start=1800&year_end=2000&corpus=20&smoothing=3"
+  },
+  {
+    "d": "books.google.com",
+    "s": "Google Ngram Viewer",
+    "t": "ngrams",
+    "u": "https://books.google.com/ngrams/graph?content={{{s}}}&year_start=1800&year_end=2000"
+  },
+  {
+    "d": "books.google.com",
+    "s": "Google ngrams",
+    "t": "ngr",
+    "u": "https://books.google.com/ngrams/graph?content={{{s}}}&year_start=1850&year_end=2009&corpus=15&smoothing=0"
+  },
+  {
+    "d": "tracking.newgistics.com",
+    "s": "Newgistics Tracking",
+    "t": "ngt",
+    "u": "http://tracking.newgistics.com/?trackingvalue={{{s}}}"
+  },
+  {
+    "d": "www.bibleserver.com",
+    "s": "NGÜ auf Bibleserver",
+    "t": "ngü",
+    "u": "http://www.bibleserver.com/search/NG%C3%9C/{{{s}}}"
+  },
+  {
+    "d": "nhd.heinle.com",
+    "s": "Heinle's Newbury House Dictionary of American English",
+    "t": "nhd",
+    "u": "http://nhd.heinle.com/Definition.aspx?word={{{s}}}"
+  },
+  {
+    "d": "cgi2.nhk.or.jp",
+    "s": "NHK News Web",
+    "t": "nhk",
+    "u": "http://cgi2.nhk.or.jp/news/nsearch/query.cgi?col=news&st=1&rf=1&charset=utf-8&qt={{{s}}}&search.x=-318&search.y=-183"
+  },
+  {
+    "d": "www.nhl.com",
+    "s": "NHL.com",
+    "t": "nhl",
+    "u": "http://www.nhl.com/ice/search.htm?tab=news&q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "nethackwiki.com",
+    "s": "NetHack Wiki",
+    "t": "nh",
+    "u": "https://nethackwiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.nhs.uk",
+    "s": "NHS Choices",
+    "t": "nhs",
+    "u": "http://www.nhs.uk/Search/?q={{{s}}}"
+  },
+  {
+    "d": "nethackwiki.com",
+    "s": "Nethack Wiki",
+    "t": "nhw",
+    "u": "https://nethackwiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "nicegear.co.nz",
+    "s": "nicegear",
+    "t": "nicegear",
+    "u": "http://nicegear.co.nz/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.nice.org.uk",
+    "s": "NICE - National Institute for Health and Care Excellence",
+    "t": "nice",
+    "u": "https://www.nice.org.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.niche.com",
+    "s": "Niche",
+    "t": "niche",
+    "u": "https://www.niche.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "dic.nicovideo.jp",
+    "s": "Nico Nico Pedia",
+    "t": "nicodic",
+    "u": "https://dic.nicovideo.jp/s/al/t/{{{s}}}/rev_created/desc/1-"
+  },
+  {
+    "d": "live.nicovideo.jp",
+    "s": "Nico Nico Live",
+    "t": "nicolive",
+    "u": "https://live.nicovideo.jp/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.nicovideo.jp",
+    "s": "Nico Nico Douga",
+    "t": "nico",
+    "u": "http://www.nicovideo.jp/search/{{{s}}}"
+  },
+  {
+    "d": "www.nicovideo.jp",
+    "s": "Niconico",
+    "t": "niconico",
+    "u": "http://www.nicovideo.jp/search/{{{s}}}"
+  },
+  {
+    "d": "niebezpiecznik.pl",
+    "s": "Niebezpiecznik",
+    "t": "niebezpiecznik",
+    "u": "https://niebezpiecznik.pl/?s={{{s}}}"
+  },
+  {
+    "d": "www.nielsen.com",
+    "s": "Nielsen",
+    "t": "nielsen",
+    "u": "https://www.nielsen.com/us/en/search.html?q={{{s}}}&sp_cs=UTF-8"
+  },
+  {
+    "d": "www.nieuwsblad.be",
+    "s": "Het Nieuwsblad",
+    "t": "nieuwsblad",
+    "u": "http://www.nieuwsblad.be/Search/Index.aspx?searchString={{{s}}}"
+  },
+  {
+    "d": "www.niferry.co.uk",
+    "s": "NI Ferry Site",
+    "t": "nifs",
+    "u": "https://www.niferry.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "search.nifty.com",
+    "s": "Nifty",
+    "t": "nifty",
+    "u": "https://search.nifty.com/websearch/search?cflg=%E6%A4%9C%E7%B4%A2&q={{{s}}}"
+  },
+  {
+    "d": "nightbot.tv",
+    "s": "Nightbot Commands",
+    "t": "nightbot",
+    "u": "https://nightbot.tv/t/{{{s}}}/commands"
+  },
+  {
+    "d": "search.nih.gov",
+    "s": "NIH",
+    "t": "nih",
+    "u": "https://search.nih.gov/search?utf8=%E2%9C%93&affiliate=nih&query={{{s}}}&commit=Search&btnG.x=0&btnG.y=0&btnG=search"
+  },
+  {
+    "d": "www.nihongodict.com",
+    "s": "NihongoDict",
+    "t": "nihongodict",
+    "u": "http://www.nihongodict.com/?s={{{s}}}"
+  },
+  {
+    "d": "niice.co",
+    "s": "niice.co",
+    "t": "niice",
+    "u": "http://niice.co/?search={{{s}}}"
+  },
+  {
+    "d": "www.niif.hu",
+    "s": "NIIF Institute",
+    "t": "niif",
+    "u": "http://www.niif.hu/search/node/{{{s}}}"
+  },
+  {
+    "d": "r.nikkei.com",
+    "s": "日経新聞",
+    "t": "nikkei",
+    "u": "https://r.nikkei.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.nikonusa.com",
+    "s": "Nikon USA",
+    "t": "nikon",
+    "u": "http://www.nikonusa.com/en/about-nikon/search.page?searchCollection=SEARCH_ALL&q={{{s}}}"
+  },
+  {
+    "d": "www.nikon.co.uk",
+    "s": "Nikon UK",
+    "t": "nikonuk",
+    "u": "https://www.nikon.co.uk/en_GB/search.page#keywords={{{s}}}"
+  },
+  {
+    "d": "kb.nimvelo.com",
+    "s": "Nimvelo",
+    "t": "nimvelo",
+    "u": "http://kb.nimvelo.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.nina.gov.pl",
+    "s": "Narodowy Instytut Audiowizualny (nina.gov.pl)",
+    "t": "nina",
+    "u": "http://www.nina.gov.pl/searchresult?query={{{s}}}"
+  },
+  {
+    "d": "search.ni.com",
+    "s": "National Instruments",
+    "t": "ni",
+    "u": "http://search.ni.com/nisearch/app/main/p/bot/no/ap/global/lang/en/pg/1/q/{{{s}}}/"
+  },
+  {
+    "d": "ninjawords.com",
+    "s": "Ninjawords",
+    "t": "ninja",
+    "u": "http://ninjawords.com/{{{s}}}"
+  },
+  {
+    "d": "www.nintendolife.com",
+    "s": "Nintendo Life",
+    "t": "ninlife",
+    "u": "http://www.nintendolife.com/search?q={{{s}}}&submit=Go"
+  },
+  {
+    "d": "www.ninwiki.com",
+    "s": "Nine Inch Nails Wiki",
+    "t": "nin",
+    "u": "http://www.ninwiki.com/index.php?title=Special:Search&redirs=0&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.nintendo.de",
+    "s": "Nintendo Deutschland",
+    "t": "nintendode",
+    "u": "https://www.nintendo.de/Suche-/Suche-299117.html?q={{{s}}}&f=147393"
+  },
+  {
+    "d": "www.nintendolife.com",
+    "s": "Nintendo Life",
+    "t": "nintendolife",
+    "u": "http://www.nintendolife.com/search?q={{{s}}}&submit=Go"
+  },
+  {
+    "d": "www.nintendo.com",
+    "s": "Nintendo",
+    "t": "nintendo",
+    "u": "https://www.nintendo.com/search/#category=all&page=1&query={{{s}}}"
+  },
+  {
+    "d": "nintendo.wikia.com",
+    "s": "Nintendo Wiki",
+    "t": "nintendowiki",
+    "u": "http://nintendo.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.nirsoft.net",
+    "s": "Nirsoft",
+    "t": "nirsoft",
+    "u": "http://www.nirsoft.net/search_freeware_result_new.html?cx=partner-pub-5286073190998405%3A5399172980&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=nirsoft.net%2F&ref=google.com%2F"
+  },
+  {
+    "d": "www.nisanyansozluk.com",
+    "s": "Nişanyan Etimolojik Sözlük",
+    "t": "nisanyan",
+    "u": "http://www.nisanyansozluk.com/?k={{{s}}}"
+  },
+  {
+    "d": "www.notesinspanish.com",
+    "s": "Notes in Spanish",
+    "t": "nis",
+    "u": "http://www.notesinspanish.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.nitrc.org",
+    "s": "NITRC",
+    "t": "nitrc",
+    "u": "http://www.nitrc.org/search/?type_of_search=group&term[]={{{s}}}"
+  },
+  {
+    "d": "www.nitrome.com",
+    "s": "Nitrome",
+    "t": "nitrome",
+    "u": "http://www.nitrome.com/search.php?id={{{s}}}&search_type=default"
+  },
+  {
+    "d": "www.biblestudytools.com",
+    "s": "BibleStudyTools.com",
+    "t": "niv",
+    "u": "http://www.biblestudytools.com/search/?q={{{s}}}&s=Bibles&t=niv"
+  },
+  {
+    "d": "images.nasa.gov",
+    "s": "NASA Image and Video Library",
+    "t": "nivl",
+    "u": "https://images.nasa.gov/search-results?searchInput={{{s}}}"
+  },
+  {
+    "d": "discourse.nixos.org",
+    "s": "Nix Discourse",
+    "t": "nixcourse",
+    "u": "https://discourse.nixos.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.cyberciti.biz",
+    "s": "Nix Craft",
+    "t": "nixcraft",
+    "u": "http://www.cyberciti.biz/faq/?s={{{s}}}"
+  },
+  {
+    "d": "nixos.wiki",
+    "s": "NixOs Wiki",
+    "t": "nix",
+    "u": "https://nixos.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "nixos.org",
+    "s": "NixOS options",
+    "t": "nixopt",
+    "u": "https://nixos.org/nixos/options.html#{{{s}}}"
+  },
+  {
+    "d": "nixos.wiki",
+    "s": "Nixos Wiki",
+    "t": "nixos",
+    "u": "https://nixos.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "nixos.wiki",
+    "s": "Nixos Wiki",
+    "t": "nixoswiki",
+    "u": "https://nixos.wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "nixos.org",
+    "s": "NixOS Packages",
+    "t": "nixpkg",
+    "u": "https://nixos.org/nixos/packages.html?query={{{s}}}"
+  },
+  {
+    "d": "nixos.org",
+    "s": "NixOS Packages",
+    "t": "nixpkgs",
+    "u": "https://nixos.org/nixos/packages.html?query={{{s}}}"
+  },
+  {
+    "d": "masto.nixnet.xyz",
+    "s": "Nixtodon",
+    "t": "nixtodon",
+    "u": "https://masto.nixnet.xyz/@{{{s}}}"
+  },
+  {
+    "d": "njal.la",
+    "s": "Njalla",
+    "t": "njalla",
+    "u": "https://njal.la/list/?search={{{s}}}"
+  },
+  {
+    "d": "www.njuskalo.hr",
+    "s": "Njuskalo.hr",
+    "t": "njuskalo",
+    "u": "https://www.njuskalo.hr/?ctl=search_ads&keywords={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "Bible Gateway: New King James Version (NKJV)",
+    "t": "nkj",
+    "u": "https://www.biblegateway.com/quicksearch/?quicksearch={{{s}}}&qs_version=NKJV"
+  },
+  {
+    "d": "norgeskart.no",
+    "s": "NorgesKart",
+    "t": "nk",
+    "u": "https://norgeskart.no/#!?project=seeiendom&layers=1002,1015&zoom=4&lat=7197864.00&lon=396722.00&sok={{{s}}}"
+  },
+  {
+    "d": "krdic.naver.com",
+    "s": "Naver Korean Dictionary",
+    "t": "nkr",
+    "u": "http://krdic.naver.com/search.nhn?query={{{s}}}&kind=all"
+  },
+  {
+    "d": "www.nordkurier.de",
+    "s": "Nordkurier",
+    "t": "nkurier",
+    "u": "http://www.nordkurier.de/suche?text={{{s}}}"
+  },
+  {
+    "d": "ncatlab.org",
+    "s": "nLab",
+    "t": "nlab",
+    "u": "https://ncatlab.org/nlab/search?query={{{s}}}"
+  },
+  {
+    "d": "catalogue.nla.gov.au",
+    "s": "National Library of Australia Catalogue",
+    "t": "nla",
+    "u": "http://catalogue.nla.gov.au/Search/Home?lookfor={{{s}}}"
+  },
+  {
+    "d": "www.bibleserver.com",
+    "s": "Bibleserver",
+    "t": "nlb",
+    "u": "https://www.bibleserver.com/text/NLB/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "nlde",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=nl&tl=de&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate",
+    "t": "nlen",
+    "u": "https://translate.google.com/#nl/en/{{{s}}}"
+  },
+  {
+    "d": "ncatlab.org",
+    "s": "http://ncatlab.org/nlab/show/HomePage",
+    "t": "nl",
+    "u": "http://ncatlab.org/nlab/search?query={{{s}}}"
+  },
+  {
+    "d": "www.nintendolife.com",
+    "s": "Nintendo Life",
+    "t": "nlife",
+    "u": "http://www.nintendolife.com/search?q={{{s}}}&submit=Go"
+  },
+  {
+    "d": "newleftreview.org",
+    "s": "New Left Review",
+    "t": "nlr",
+    "u": "https://newleftreview.org/search/hybrid?query={{{s}}}"
+  },
+  {
+    "d": "www.nltk.org",
+    "s": "Natural Language ToolKit",
+    "t": "nltk",
+    "u": "http://www.nltk.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.verbix.com",
+    "s": "Verbix (Dutch)",
+    "t": "nlverbix",
+    "u": "http://www.verbix.com/webverbix/go.php?D1=24&T1={{{s}}}"
+  },
+  {
+    "d": "nl.wikipedia.org",
+    "s": "Dutch Wikipedia",
+    "t": "nlwi",
+    "u": "https://nl.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "nl.wikipedia.org",
+    "s": "Dutch Wikipedia",
+    "t": "nlwiki",
+    "u": "https://nl.wikipedia.org/wiki/Speciaal:Zoeken/{{{s}}}"
+  },
+  {
+    "d": "nolife-wiki.fr",
+    "s": "Nolife-Wiki",
+    "t": "nlw",
+    "u": "http://nolife-wiki.fr/index.php?title=Spécial%3ARecherche&go=Lire&search={{{s}}}"
+  },
+  {
+    "d": "map.naver.com",
+    "s": "Naver Map",
+    "t": "nmap",
+    "u": "http://map.naver.com/?query={{{s}}}"
+  },
+  {
+    "d": "namemc.com",
+    "s": "NameMC",
+    "t": "nmc",
+    "u": "https://namemc.com/s?{{{s}}}"
+  },
+  {
+    "d": "nmlegis.gov",
+    "s": "New Mexico Legislature",
+    "t": "nmlegis",
+    "u": "https://nmlegis.gov/?q={{{s}}}"
+  },
+  {
+    "d": "www.nexusmods.com",
+    "s": "Nexus Mods",
+    "t": "nm",
+    "u": "https://www.nexusmods.com/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "d": "nomanssky.gamepedia.com",
+    "s": "No Man's Sky Wiki",
+    "t": "nms",
+    "u": "https://nomanssky.gamepedia.com/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "www.nmsu.edu",
+    "s": "New Mexico State University",
+    "t": "nmsu",
+    "u": "https://www.nmsu.edu/search_results.html?q={{{s}}}"
+  },
+  {
+    "d": "nutrimatic.org",
+    "s": "Nutrimatic",
+    "t": "nmt",
+    "u": "https://nutrimatic.org/?q={{{s}}}"
+  },
+  {
+    "d": "search.nndb.com",
+    "s": "NNDB",
+    "t": "nndb",
+    "u": "http://search.nndb.com/search/nndb.cgi?nndb=1&omenu=unspecified&query={{{s}}}"
+  },
+  {
+    "d": "ordbok.uib.no",
+    "s": "The Norwegian Nynorsk dictionary",
+    "t": "nnd",
+    "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&nynorsk=+&ordbok=nynorsk"
+  },
+  {
+    "d": "cowlevel.net",
+    "s": "cowlevel",
+    "t": "nng",
+    "u": "https://cowlevel.net/search?q={{{s}}}"
+  },
+  {
+    "d": "live.nicovideo.jp",
+    "s": "Nico Nico Live",
+    "t": "nnl",
+    "u": "https://live.nicovideo.jp/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.naturalnews.com",
+    "s": "Natural News",
+    "t": "nn",
+    "u": "https://www.naturalnews.com/SearchResults.asp?query={{{s}}}&pr=NN"
+  },
+  {
+    "d": "seiga.nicovideo.jp",
+    "s": "Nico Nico Seiga",
+    "t": "nns",
+    "u": "https://seiga.nicovideo.jp/search/{{{s}}}"
+  },
+  {
+    "d": "registry.faa.gov",
+    "s": "FAA Aircraft Registry",
+    "t": "nnumber",
+    "u": "http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt={{{s}}}"
+  },
+  {
+    "d": "forecast.weather.gov",
+    "s": "NOAA",
+    "t": "noaa",
+    "u": "http://forecast.weather.gov/zipcity.php?inputstring={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Node.js Documentation",
+    "t": "nodejs",
+    "u": "https://duckduckgo.com/?q=!node+{{{s}}}"
+  },
+  {
+    "d": "nodejs.org",
+    "s": "node.js docs",
+    "t": "node",
+    "u": "http://nodejs.org/api/{{{s}}}.html"
+  },
+  {
+    "d": "www.noelleeming.co.nz",
+    "s": "Noel Leeming",
+    "t": "noel",
+    "u": "https://www.noelleeming.co.nz/search.html?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate no-en",
+    "t": "noen",
+    "u": "https://translate.google.com/#no/en/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "NoFap",
+    "t": "nofap",
+    "u": "https://www.reddit.com/r/NoFap/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "translate.google.hu",
+    "s": "Google Translate no-hu",
+    "t": "nohu",
+    "u": "https://translate.google.hu/#view=home&op=translate&sl=no&tl=hu&text={{{s}}}"
+  },
+  {
+    "d": "www.noi.cn",
+    "s": "CCF NOI 官网",
+    "t": "noi",
+    "u": "http://www.noi.cn/search.html?q={{{s}}}"
+  },
+  {
+    "d": "pasokatu.com",
+    "s": "ノイズレスサーチ",
+    "t": "noiseless",
+    "u": "http://pasokatu.com/nsearch#gsc.q={{{s}}}"
+  },
+  {
+    "d": "noita.gamepedia.com",
+    "s": "Noita Wiki",
+    "t": "noita",
+    "u": "https://noita.gamepedia.com/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo (HTML)",
+    "t": "nojs",
+    "u": "https://duckduckgo.com/html/?q={{{s}}}"
+  },
+  {
+    "d": "www.nolo.com",
+    "s": "Nolo.com",
+    "t": "nolo",
+    "u": "https://www.nolo.com/search2?type=all&query={{{s}}}&location="
+  },
+  {
+    "d": "nomadlist.com",
+    "s": "Nomad List",
+    "t": "nomad",
+    "u": "https://nomadlist.com/?q={{{s}}}"
+  },
+  {
+    "d": "nominatim.openstreetmap.org",
+    "s": "OpenStreetMap Nominatim",
+    "t": "nominatim",
+    "u": "http://nominatim.openstreetmap.org/search?q={{{s}}}"
+  },
+  {
+    "d": "nomnompaleo.com",
+    "s": "Nom Nom Paleo",
+    "t": "nomnom",
+    "u": "https://nomnompaleo.com/?s={{{s}}}"
+  },
+  {
+    "d": "nonciclopedia.wikia.com",
+    "s": "Nonciclopedia",
+    "t": "nonciclopedia",
+    "u": "http://nonciclopedia.wikia.com/index.php?title=Speciale%3ARicerca&search={{{s}}}&go=Vai"
+  },
+  {
+    "d": "www.noodlechinese.com",
+    "s": "Noodle Chinese",
+    "t": "noodle",
+    "u": "https://www.noodlechinese.com/search?q={{{s}}} "
+  },
+  {
+    "d": "nookipedia.com",
+    "s": "Nookipedia",
+    "t": "nook",
+    "u": "http://nookipedia.com/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.nordicnames.de",
+    "s": "Nordic Names Wiki",
+    "t": "nordicnames",
+    "u": "https://www.nordicnames.de/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "shop.nordstrom.com",
+    "s": "Nordstrom",
+    "t": "nordstrom",
+    "u": "http://shop.nordstrom.com/sr?origin=keywordsearch&keyword={{{s}}}"
+  },
+  {
+    "d": "www.norid.no",
+    "s": "Norid",
+    "t": "norid",
+    "u": "http://www.norid.no/index.html?charset=UTF-8&page=index&sok=Søk&query={{{s}}}"
+  },
+  {
+    "d": "ordbok.uib.no",
+    "s": "Nynorskordboka og Bokmålsordboka",
+    "t": "norsk",
+    "u": "http://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge"
+  },
+  {
+    "d": "safeweb.norton.com",
+    "s": "Norton Safe Web",
+    "t": "nortonsafe",
+    "u": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "d": "safeweb.norton.com",
+    "s": "Norton Safe Web",
+    "t": "nortonsafeweb",
+    "u": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo (HTML)",
+    "t": "noscript",
+    "u": "https://duckduckgo.com/html/?q={{{s}}}"
+  },
+  {
+    "d": "www.nosdeputes.fr",
+    "s": "NosDéputés.Fr",
+    "t": "nosdeputes",
+    "u": "https://www.nosdeputes.fr/recherche/{{{s}}}"
+  },
+  {
+    "d": "noslivres.net",
+    "s": "NosLivres",
+    "t": "noslivres",
+    "u": "http://noslivres.net/?r={{{s}}}"
+  },
+  {
+    "d": "nos.nl",
+    "s": "NOS",
+    "t": "nos",
+    "u": "https://nos.nl/zoeken/?q={{{s}}}"
+  },
+  {
+    "d": "notalwaysright.com",
+    "s": "Not Always Right",
+    "t": "notalwaysright",
+    "u": "http://notalwaysright.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.notdoppler.com",
+    "s": "Not Doppler",
+    "t": "notdoppler",
+    "u": "http://www.notdoppler.com/search.php?cx=partner-pub-5587930311934766%3A9473942733&cof=FORID%3A9&ie=UTF-8&q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "www.noteflight.com",
+    "s": "Noteflight",
+    "t": "noteflight",
+    "u": "http://www.noteflight.com/public_scores#/search/{{{s}}}"
+  },
+  {
+    "d": "note.mu",
+    "s": "note",
+    "t": "note",
+    "u": "https://note.mu/search?context=note&mode=search&q={{{s}}}"
+  },
+  {
+    "d": "hss3uro2hsxfogfq.onion",
+    "s": "not Evil",
+    "t": "notevil",
+    "u": "http://hss3uro2hsxfogfq.onion/index.php?q={{{s}}}"
+  },
+  {
+    "d": "noticiados.net",
+    "s": "NoticiaDOS",
+    "t": "noticiados",
+    "u": "http://noticiados.net/blog/buscar/?query={{{s}}}"
+  },
+  {
+    "d": "thenounproject.com",
+    "s": "The Noun Project",
+    "t": "nounproject",
+    "u": "http://thenounproject.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "thenounproject.com",
+    "s": "The Noun Project",
+    "t": "noun",
+    "u": "https://thenounproject.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.novelupdates.com",
+    "s": "Novel updates",
+    "t": "novelupdates",
+    "u": "http://www.novelupdates.com/?s={{{s}}}&post_type=seriesplans"
+  },
+  {
+    "d": "www.verbix.com",
+    "s": "Verbix (Norwegian)",
+    "t": "noverbix",
+    "u": "http://www.verbix.com/webverbix/go.php?D1=25&T1={{{s}}}"
+  },
+  {
+    "d": "www.novinky.cz",
+    "s": "Novinky.cz",
+    "t": "novinky",
+    "u": "http://www.novinky.cz/hledej?w={{{s}}}"
+  },
+  {
+    "d": "www.noz.de",
+    "s": "Neue Osnabrücker Zeitung",
+    "t": "noz",
+    "u": "https://www.noz.de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.parcs.at",
+    "s": "Nationalparks Austria Datenzentrum ",
+    "t": "npat",
+    "u": "http://www.parcs.at/npa/mmd_data_by.php?q={{{s}}}&btnG=Suche+starten&searchval=30000"
+  },
+  {
+    "d": "dic.nicovideo.jp",
+    "s": "Niconico Pedia",
+    "t": "npedia",
+    "u": "http://dic.nicovideo.jp/a/{{{s}}}"
+  },
+  {
+    "d": "npmjs.com",
+    "s": "NPM Direct",
+    "t": "npmd",
+    "u": "https://npmjs.com/package/{{{s}}}"
+  },
+  {
+    "d": "www.npmjs.com",
+    "s": "npm",
+    "t": "npmjs",
+    "u": "https://www.npmjs.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.npmjs.com",
+    "s": "npm",
+    "t": "npm",
+    "u": "https://www.npmjs.com/search?q={{{s}}}"
+  },
+  {
+    "d": "npmsearch.com",
+    "s": "node.js Package Search Utility",
+    "t": "npmsearch",
+    "u": "https://npmsearch.com/?q={{{s}}}"
+  },
+  {
+    "d": "npms.io",
+    "s": "npms",
+    "t": "npmsio",
+    "u": "https://npms.io/search?q={{{s}}}"
+  },
+  {
+    "d": "npmsearch.com",
+    "s": "NPM Search",
+    "t": "npms",
+    "u": "http://npmsearch.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.npmtrends.com",
+    "s": "NPM Trends",
+    "t": "npmtrends",
+    "u": "https://www.npmtrends.com/{{{s}}}"
+  },
+  {
+    "d": "www.npo.nl",
+    "s": "NPO",
+    "t": "npo",
+    "u": "https://www.npo.nl/zoeken?term={{{s}}}"
+  },
+  {
+    "d": "openscience.si",
+    "s": "Nacionalni portal odprte znanosti",
+    "t": "npoz",
+    "u": "http://openscience.si/NaprednoIskanje.aspx?t=s&q=1:0:{{{s}}};"
+  },
+  {
+    "d": "www.npr.org",
+    "s": "NPR.org",
+    "t": "npr",
+    "u": "http://www.npr.org/search/index.php?query={{{s}}}"
+  },
+  {
+    "d": "www.nps.gov",
+    "s": "National Park Service (USA)",
+    "t": "nps",
+    "u": "http://www.nps.gov/search/?affiliate=nps&query={{{s}}}"
+  },
+  {
+    "d": "thenounproject.com",
+    "s": "The Noun Project",
+    "t": "np",
+    "u": "http://thenounproject.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.nrc.nl",
+    "s": "NRC",
+    "t": "nrc",
+    "u": "http://www.nrc.nl/php/zoeken.php?cx=000950122183490940160%3Afse5ljfbq2u&q={{{s}}}&ie=anci&sa=&cof=FORID%3A9#449"
+  },
+  {
+    "d": "netrunnerdb.com",
+    "s": "NetrunnerDB",
+    "t": "nrdb",
+    "u": "http://netrunnerdb.com/find/?q={{{s}}}"
+  },
+  {
+    "d": "www.nrk.no",
+    "s": "NRK",
+    "t": "nrk",
+    "u": "https://www.nrk.no/sok/?q={{{s}}}"
+  },
+  {
+    "d": "radio.nrk.no",
+    "s": "NRK Radio",
+    "t": "nrkr",
+    "u": "http://radio.nrk.no/sok?q={{{s}}}"
+  },
+  {
+    "d": "tv.nrk.no",
+    "s": "NRK TV",
+    "t": "nrktv",
+    "u": "http://tv.nrk.no/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.nrl.com",
+    "s": "National Rugby League",
+    "t": "nrl",
+    "u": "https://www.nrl.com/search/?keyword={{{s}}}&sort=Relevance"
+  },
+  {
+    "d": "github.com",
+    "s": "Nixpkgs Repository",
+    "t": "nr",
+    "u": "https://github.com/NixOS/nixpkgs/search?q={{{s}}}"
+  },
+  {
+    "d": "www.nasdaq.com",
+    "s": "NASDAQ Real Time Quotes",
+    "t": "nrtq",
+    "u": "http://www.nasdaq.com/symbol/{{{s}}}/real-time"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "ns",
+    "u": "http://duckduckgo.com/?q=!safeoff+{{{s}}}"
+  },
+  {
+    "d": "www.nseindia.com",
+    "s": "National Stock Exchange of India",
+    "t": "nse",
+    "u": "http://www.nseindia.com/gsa/search.jsp?q={{{s}}}"
+  },
+  {
+    "d": "safeweb.norton.com",
+    "s": "Norton Safe Web",
+    "t": "nsf",
+    "u": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Safe Off",
+    "t": "nsfw",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-2&ia=web"
+  },
+  {
+    "d": "nsindex.net",
+    "s": "NSIndex",
+    "t": "nsissues",
+    "u": "https://nsindex.net/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "nationstates.net",
+    "s": "NationStates",
+    "t": "nsn",
+    "u": "https://nationstates.net/nation={{{s}}}"
+  },
+  {
+    "d": "nationstates.net",
+    "s": "NationStates",
+    "t": "nsr",
+    "u": "https://nationstates.net/region={{{s}}}"
+  },
+  {
+    "d": "www.drworkout.fitness",
+    "s": "Dr Workout",
+    "t": "nsuns",
+    "u": "https://www.drworkout.fitness/?s={{{s}}}"
+  },
+  {
+    "d": "www.nsw.gov.au",
+    "s": "New South Wales Government",
+    "t": "nswgov",
+    "u": "https://www.nsw.gov.au/search-google/?Search={{{s}}}"
+  },
+  {
+    "d": "www.numeroinconnu.fr",
+    "s": "numeroinconnu",
+    "t": "ntel",
+    "u": "https://www.numeroinconnu.fr/numero/{{{s}}}"
+  },
+  {
+    "d": "history.newtheatre.org.uk",
+    "s": "New Theatre History Project",
+    "t": "nthp",
+    "u": "https://history.newtheatre.org.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "newstral.com",
+    "s": "Newstral",
+    "t": "nt",
+    "u": "https://newstral.com/search/articles?&q={{{s}}}"
+  },
+  {
+    "d": "www.ntnu.edu",
+    "s": "Norwegian University of Science and Technology",
+    "t": "ntnu",
+    "u": "http://www.ntnu.edu/sok?query={{{s}}}"
+  },
+  {
+    "d": "www.tritrans.net",
+    "s": "TriTrans",
+    "t": "ntrans",
+    "u": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Norsk&Fra={{{s}}}"
+  },
+  {
+    "d": "ntrs.nasa.gov",
+    "s": "Nasa technical reports server",
+    "t": "ntrs",
+    "u": "https://ntrs.nasa.gov/?Ntt={{{s}}}&Ntx=mode matchallpartial&Nm=123|Collection|NASA STI||17|Collection|NACA"
+  },
+  {
+    "d": "www.nts.live",
+    "s": "NTS",
+    "t": "nts",
+    "u": "https://www.nts.live/find?q={{{s}}}&type=all"
+  },
+  {
+    "d": "www.ntv.co.jp",
+    "s": "Nippon TV",
+    "t": "ntv",
+    "u": "https://www.ntv.co.jp/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.n-tv.de",
+    "s": "n-tv",
+    "t": "n-tv",
+    "u": "http://www.n-tv.de/suche/?a=search&at=all&q={{{s}}}&submit=Suche starten"
+  },
+  {
+    "d": "www.nutritionix.com",
+    "s": "Nutritionix",
+    "t": "ntx",
+    "u": "https://www.nutritionix.com/search?q={{{s}}}"
+  },
+  {
+    "d": "nuclear-throne.wikia.com",
+    "s": "Nuclear Throne Wiki",
+    "t": "nuclearthrone",
+    "u": "http://nuclear-throne.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "nuget.org",
+    "s": "nuget gallery",
+    "t": "nuget",
+    "u": "http://nuget.org/packages?q={{{s}}}&sortOrder=package-download-count"
+  },
+  {
+    "d": "docs.thefoundry.co.uk",
+    "s": "Nuke Dev Guide",
+    "t": "nukepy",
+    "u": "https://docs.thefoundry.co.uk/products/nuke/developers/80/pythondevguide/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "null-byte.wonderhowto.com",
+    "s": "Null Byte",
+    "t": "nullbyte",
+    "u": "https://null-byte.wonderhowto.com/search/{{{s}}} "
+  },
+  {
+    "d": "numbermatics.com",
+    "s": "Numbermatics, the number explorer",
+    "t": "number",
+    "u": "http://numbermatics.com/n/{{{s}}}/"
+  },
+  {
+    "d": "www.numerama.com",
+    "s": "Numerama",
+    "t": "numerama",
+    "u": "http://www.numerama.com/magazine/recherche/1/{{{s}}}/date"
+  },
+  {
+    "d": "en.numista.com",
+    "s": "Numista",
+    "t": "numista",
+    "u": "https://en.numista.com/catalogue/index.php?r={{{s}}}&mode=simplifie&p=1"
+  },
+  {
+    "d": "docs.scipy.org",
+    "s": "numpy",
+    "t": "numpy",
+    "u": "http://docs.scipy.org/doc/numpy/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.nu.nl",
+    "s": "Nu.nl",
+    "t": "nu",
+    "u": "http://www.nu.nl/zoeken/?q={{{s}}} "
+  },
+  {
+    "d": "nusagates.com",
+    "s": "Nusagates Institute",
+    "t": "nusagates",
+    "u": "https://nusagates.com/?s={{{s}}}"
+  },
+  {
+    "d": "nusearch.nottingham.ac.uk",
+    "s": "NUsearch",
+    "t": "nusearch",
+    "u": "http://nusearch.nottingham.ac.uk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28UNUK%29%2Cscope%3A%28unuk_pda_ebl%29&frbg=&tab=default_tab&dstmp=1430162925299&srt=rank&ct=search&mode=Basic&dum=true&indx=1&tb=t&vl(freeText0)={{{s}}}&fn=search&vid=UNUK"
+  },
+  {
+    "d": "nutritiondata.self.com",
+    "s": "nutritiondata",
+    "t": "nutridata",
+    "u": "http://nutritiondata.self.com/foods-{{{s}}}}000000000000000000000.html"
+  },
+  {
+    "d": "nutritiondata.self.com",
+    "s": "NutritionData",
+    "t": "nutritiondata",
+    "u": "http://nutritiondata.self.com/foods-{{{s}}}000000000000000000000.html"
+  },
+  {
+    "d": "nutritionfacts.org",
+    "s": "NutritionFacts.org",
+    "t": "nutritionfacts",
+    "u": "https://nutritionfacts.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.nuuvem.com",
+    "s": "Nuuvem",
+    "t": "nuuvem",
+    "u": "https://www.nuuvem.com/catalog/search/{{{s}}}"
+  },
+  {
+    "d": "dict.naver.com",
+    "s": "Naver german-korean dictionary",
+    "t": "nvde",
+    "u": "https://dict.naver.com/dekodict/#/search?query={{{s}}}"
+  },
+  {
+    "d": "nvd.nist.gov",
+    "s": "NIST Vulnerability Database",
+    "t": "nvd",
+    "u": "https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query={{{s}}}&search_type=all"
+  },
+  {
+    "d": "nvd.nist.gov",
+    "s": "NIST Vulnerability Database Statistical View",
+    "t": "nvds",
+    "u": "https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query={{{s}}}&search_type=all"
+  },
+  {
+    "d": "papago.naver.com",
+    "s": "Naver Papago",
+    "t": "nvenkr",
+    "u": "https://papago.naver.com/?sk=en&tk=ko&hn=0&st={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Nvidia",
+    "t": "nvidia",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Anvidia.com&ia=web"
+  },
+  {
+    "d": "search.naver.com",
+    "s": "Naver Images",
+    "t": "nvi",
+    "u": "https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query={{{s}}}"
+  },
+  {
+    "d": "papago.naver.com",
+    "s": "NAVER Translate from Korean to Japanese",
+    "t": "nvkrjp",
+    "u": "https://papago.naver.com/?sk=ko&tk=ja&st={{{s}}}"
+  },
+  {
+    "d": "m.search.naver.com",
+    "s": "Naver",
+    "t": "nv",
+    "u": "http://m.search.naver.com/search.naver?query={{{s}}}):"
+  },
+  {
+    "d": "www.novelupdates.com",
+    "s": "Novel Updates",
+    "t": "nvu",
+    "u": "http://www.novelupdates.com/?s={{{s}}}&post_type=seriesplans"
+  },
+  {
+    "d": "nightvale.wikia.com",
+    "s": "Welcome To Night Vale Wiki",
+    "t": "nvwiki",
+    "u": "http://nightvale.wikia.com/wiki/Special:Search?search= {{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "webbook.nist.gov",
+    "s": "NIST Chemistry Webbook",
+    "t": "nwb",
+    "u": "https://webbook.nist.gov/cgi/cbook.cgi?Name={{{s}}}&Units=SI"
+  },
+  {
+    "d": "ninjawords.com",
+    "s": "Ninja Words",
+    "t": "nw",
+    "u": "http://ninjawords.com/{{{s}}}"
+  },
+  {
+    "d": "nwn.wikia.com",
+    "s": "Neverwinter Nights Wiki",
+    "t": "nwn",
+    "u": "http://nwn.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "forecast.weather.gov",
+    "s": "National Weather Service",
+    "t": "nws",
+    "u": "http://forecast.weather.gov/zipcity.php?inputstring={{{s}}}"
+  },
+  {
+    "d": "neverwintervault.org",
+    "s": "Neverwinter Vault",
+    "t": "nwvault",
+    "u": "https://neverwintervault.org/search/node/{{{s}}}"
+  },
+  {
+    "d": "m.nextinpact.com",
+    "s": "Next Inpact Mobile",
+    "t": "nxim",
+    "u": "https://m.nextinpact.com/rechercher?term={{{s}}}"
+  },
+  {
+    "d": "www.nextinpact.com",
+    "s": "Next INpact",
+    "t": "nxi",
+    "u": "http://www.nextinpact.com/recherche?_search={{{s}}}"
+  },
+  {
+    "d": "networkx.lanl.gov",
+    "s": "networkx",
+    "t": "nx",
+    "u": "http://networkx.lanl.gov/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "nyheteridag.se",
+    "s": "Nyheter Idag",
+    "t": "nyheteridag",
+    "u": "https://nyheteridag.se/?s={{{s}}}"
+  },
+  {
+    "d": "browse.nypl.org",
+    "s": "New York Public Library",
+    "t": "nypl",
+    "u": "https://browse.nypl.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng"
+  },
+  {
+    "d": "nypost.com",
+    "s": "NYPost",
+    "t": "nypost",
+    "u": "https://nypost.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.nybooks.com",
+    "s": "New York Review of Books",
+    "t": "nyrb",
+    "u": "http://www.nybooks.com/search/?s={{{s}}}&option_match=&year_after=1963&year_before=2017&type=all&orderby=relevance"
+  },
+  {
+    "d": "www.nyse.com",
+    "s": "New York Stock Exchange",
+    "t": "nyse",
+    "u": "https://www.nyse.com/quote/XNYS:{{{s}}}"
+  },
+  {
+    "d": "cooking.nytimes.com",
+    "s": "New York Times Cooking",
+    "t": "nytc",
+    "u": "http://cooking.nytimes.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.nytimes.com",
+    "s": "The New York Times",
+    "t": "nytimes",
+    "u": "https://www.nytimes.com/search?query={{{s}}}"
+  },
+  {
+    "d": "query.nytimes.com",
+    "s": "New York Times",
+    "t": "nyt",
+    "u": "http://query.nytimes.com/search/sitesearch?query={{{s}}}&srchst=cse"
+  },
+  {
+    "d": "www.nytimes3xbfgragh.onion",
+    "s": "The New York Times Onion Service",
+    "t": "nyto",
+    "u": "https://www.nytimes3xbfgragh.onion/search?query={{{s}}}"
+  },
+  {
+    "d": "nzf.org.nz",
+    "s": "New Zealand Formulary",
+    "t": "nzf",
+    "u": "https://nzf.org.nz/Search/Results?term={{{s}}}"
+  },
+  {
+    "d": "tepuna.on.worldcat.org",
+    "s": "New Zealand Libraries' Catalogue",
+    "t": "nzlibraries",
+    "u": "https://tepuna.on.worldcat.org/external-search?queryString={{{s}}}"
+  },
+  {
+    "d": "search.nzqa.govt.nz",
+    "s": "New Zealand Qualifications Authority",
+    "t": "nzqa",
+    "u": "https://search.nzqa.govt.nz/apps/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.nzqa.govt.nz",
+    "s": "NZQA Standards",
+    "t": "nzqas",
+    "u": "https://www.nzqa.govt.nz/ncea/assessment/view-detailed.do?standardNumber={{{s}}}"
+  },
+  {
+    "d": "www.nzz.ch",
+    "s": "Neue Zürcher Zeitung",
+    "t": "nzz",
+    "u": "http://www.nzz.ch/suche?form%5Bq%5D={{{s}}}"
+  }
+]

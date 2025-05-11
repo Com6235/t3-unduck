@@ -1,0 +1,104 @@
+[
+  {
+    "d": "www.20minutes.fr",
+    "s": "20 Minutes",
+    "t": "20m",
+    "u": "http://www.20minutes.fr/search?q={{{s}}}"
+  },
+  {
+    "d": "krsk.au.ru",
+    "s": "24au.ru",
+    "t": "24au",
+    "u": "https://krsk.au.ru/nextauction/?search={{{s}}}"
+  },
+  {
+    "d": "www.24matins.fr",
+    "s": "24matins",
+    "t": "24matins",
+    "u": "http://www.24matins.fr/?s={{{s}}}"
+  },
+  {
+    "d": "24sessions.com",
+    "s": "24sessions",
+    "t": "24sessions",
+    "u": "http://24sessions.com/search/text:{{{s}}}"
+  },
+  {
+    "d": "27crags.com",
+    "s": "27crags",
+    "t": "27crags",
+    "u": "https://27crags.com/site/search?qs={{{s}}}"
+  },
+  {
+    "d": "2b2t.miraheze.org",
+    "s": "2b2t wiki",
+    "t": "2b2t",
+    "u": "https://2b2t.miraheze.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "find.5ch.net",
+    "s": "5channel",
+    "t": "2channel",
+    "u": "http://find.5ch.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.2dehands.be",
+    "s": "2dehands.be",
+    "t": "2dehands",
+    "u": "http://www.2dehands.be/markt?qq={{{s}}}"
+  },
+  {
+    "d": "www.2ememain.be",
+    "s": "2ememain",
+    "t": "2eme",
+    "u": "http://www.2ememain.be/marche/2/{{{s}}}/"
+  },
+  {
+    "d": "www.2ememain.be",
+    "s": "2ememain.be",
+    "t": "2ememain",
+    "u": "http://www.2ememain.be/marche/?qq={{{s}}}"
+  },
+  {
+    "d": "2gis.ru",
+    "s": "2gis.ru",
+    "t": "2gis",
+    "u": "http://2gis.ru/moscow/search/{{{s}}}"
+  },
+  {
+    "d": "2gis.ru",
+    "s": "2gis Санкт-Петербург",
+    "t": "2gissbp",
+    "u": "https://2gis.ru/spb/search/{{{s}}}"
+  },
+  {
+    "d": "2gis.ru",
+    "s": "2GIS Уфа",
+    "t": "2gisufa",
+    "u": "https://2gis.ru/ufa/search/{{{s}}}"
+  },
+  {
+    "d": "touhoudb.com",
+    "s": "TouhouDB",
+    "t": "2hu",
+    "u": "https://touhoudb.com/Search?filter={{{s}}}"
+  },
+  {
+    "d": "www.2nn.jp",
+    "s": "2NN",
+    "t": "2nn",
+    "u": "https://www.2nn.jp/word/{{{s}}}"
+  },
+  {
+    "d": "2player.com",
+    "s": "2player.com",
+    "t": "2pl",
+    "u": "http://2player.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "www.2xmoinscher.com",
+    "s": "2xmoinscher",
+    "t": "2xmc",
+    "u": "https://www.2xmoinscher.com/r?q={{{s}}}"
+  }
+]

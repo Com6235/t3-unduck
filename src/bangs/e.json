@@ -1,0 +1,3416 @@
+[
+  {
+    "d": "www.e1.ru",
+    "s": "e1",
+    "t": "e1",
+    "u": "https://www.e1.ru/news/search/?search={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate (English to Czech)",
+    "t": "e2c",
+    "u": "https://translate.google.com/#en/cs/{{{s}}}"
+  },
+  {
+    "d": "everything2.com",
+    "s": "Everything 2",
+    "t": "e2",
+    "u": "http://everything2.com/title/{{{s}}}?searchy=search"
+  },
+  {
+    "d": "e2u.org.ua",
+    "s": " Англійсько-українські словники",
+    "t": "e2u",
+    "u": "https://e2u.org.ua/s?w={{{s}}}&dicts=all&highlight=on"
+  },
+  {
+    "d": "www.everything5pounds.com",
+    "s": "Everything 5 Pounds",
+    "t": "e5p",
+    "u": "https://www.everything5pounds.com/en/search/?q=%3AbestSeller&text={{{s}}}"
+  },
+  {
+    "d": "e926.net",
+    "s": "e926",
+    "t": "e926",
+    "u": "http://e926.net/post/search?tags={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Effective Altruism Forum",
+    "t": "eaf",
+    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Feffective-altruism.com+{{{s}}}"
+  },
+  {
+    "d": "www.ean-search.org",
+    "s": "EAN Search",
+    "t": "ean",
+    "u": "http://www.ean-search.org/perl/ean-search.pl?q={{{s}}}"
+  },
+  {
+    "d": "www.earpod.co",
+    "s": "Earpod",
+    "t": "earpod",
+    "u": "https://www.earpod.co/search?q={{{s}}}"
+  },
+  {
+    "d": "search.earth911.com",
+    "s": "Earth911.com",
+    "t": "earth911",
+    "u": "http://search.earth911.com/?what={{{s}}}"
+  },
+  {
+    "d": "earthbound.wikia.com",
+    "s": "Earthbound Wiki",
+    "t": "earthbound",
+    "u": "http://earthbound.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.earthcam.com",
+    "s": "earthcam",
+    "t": "earthcam",
+    "u": "http://www.earthcam.com/?q={{{s}}} "
+  },
+  {
+    "d": "earth.google.com",
+    "s": "Google Earth",
+    "t": "earth",
+    "u": "https://earth.google.com/web/search/{{{s}}}"
+  },
+  {
+    "d": "www.eastbay.com",
+    "s": "Eastbay",
+    "t": "eastbay",
+    "u": "http://www.eastbay.com/_-_/keyword-{{{s}}}"
+  },
+  {
+    "d": "www.easybib.com",
+    "s": "Easybib",
+    "t": "easybib",
+    "u": "http://www.easybib.com/cite/eval?url={{{s}}}"
+  },
+  {
+    "d": "easy-bi.org",
+    "s": "Easy-BI",
+    "t": "easybi",
+    "u": "http://easy-bi.org/blog/?s={{{s}}}"
+  },
+  {
+    "d": "www.easymerchant.co.uk",
+    "s": "EasyMerchant",
+    "t": "easymerchant",
+    "u": "https://www.easymerchant.co.uk/?product_cat=&s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "eatbydate.com",
+    "s": "Eat By Date",
+    "t": "eatbydate",
+    "u": "http://eatbydate.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.ebay.at",
+    "s": "ebay.at",
+    "t": "eat",
+    "u": "https://www.ebay.at/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.at",
+    "s": "Ebay Austria",
+    "t": "e.at",
+    "u": "https://www.ebay.at/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "d": "london.eater.com",
+    "s": "Eater London",
+    "t": "eaterlon",
+    "u": "https://london.eater.com/search?q={{{s}}}"
+  },
+  {
+    "d": "eattender.com",
+    "s": "Eat Tender",
+    "t": "eattender",
+    "u": "http://eattender.com/recipes/search?q={{{s}}}"
+  },
+  {
+    "d": "www.eat-this.org",
+    "s": "eat-this.org",
+    "t": "eatthis",
+    "u": "https://www.eat-this.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com.au",
+    "s": "Ebay Australia",
+    "t": "e.au",
+    "u": "https://www.ebay.com.au/sch/?_nkw={{{s}}}&_sacat=0"
+  },
+  {
+    "d": "www.ebay.com.au",
+    "s": "ebay.com.au",
+    "t": "eau",
+    "u": "https://www.ebay.com.au/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.at",
+    "s": "ebay.at",
+    "t": "ebat",
+    "u": "http://www.ebay.at/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebates.ca",
+    "s": "Ebates Canda",
+    "t": "ebatesca",
+    "u": "https://www.ebates.ca/srch/all?query={{{s}}}"
+  },
+  {
+    "d": "www.ebates.com",
+    "s": "Ebates",
+    "t": "ebates",
+    "u": "http://www.ebates.com/search/all.htm?query={{{s}}}&position=submit&type=suggest&store_name={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com.au",
+    "s": "ebay.com.au",
+    "t": "ebau",
+    "u": "https://www.ebay.com.au/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.at",
+    "s": "ebay.at",
+    "t": "ebayat",
+    "u": "https://www.ebay.at/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com.au",
+    "s": "ebay.com.au",
+    "t": "ebayau",
+    "u": "https://www.ebay.com.au/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.befr.ebay.be",
+    "s": "ebay.be",
+    "t": "ebaybe",
+    "u": "https://www.befr.ebay.be/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.ca",
+    "s": "ebay.ca",
+    "t": "ebayca",
+    "u": "https://www.ebay.ca/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.ch",
+    "s": "ebay.ch",
+    "t": "ebaych",
+    "u": "https://www.ebay.ch/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.de",
+    "s": "ebay.de",
+    "t": "ebayde",
+    "u": "https://www.ebay.de/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com",
+    "s": "eBay",
+    "t": "ebay",
+    "u": "https://www.ebay.com/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.es",
+    "s": "ebay (ES)",
+    "t": "ebayes",
+    "u": "https://www.ebay.es/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.fr",
+    "s": "ebay.fr",
+    "t": "ebayfr",
+    "u": "https://www.ebay.fr/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "search.eim.ebay.gr",
+    "s": "ebay.gr",
+    "t": "ebaygr",
+    "u": "http://search.eim.ebay.gr/?kw={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.com.hk",
+    "s": "ebay.com.hk",
+    "t": "ebayhk",
+    "u": "http://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ebay.ie",
+    "s": "ebay.ie",
+    "t": "ebayie",
+    "u": "https://www.ebay.ie/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.in",
+    "s": "ebay.in",
+    "t": "ebayin",
+    "u": "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ebay.it",
+    "s": "ebay.it",
+    "t": "ebayit",
+    "u": "https://www.ebay.it/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "Ebay Kleinanzeigen",
+    "t": "ebaykleinanzeigen",
+    "u": "https://www.ebay-kleinanzeigen.de/s-{{{s}}}/k0"
+  },
+  {
+    "d": "shop.ebay.com.my",
+    "s": "ebay.com.my",
+    "t": "ebaymy",
+    "u": "http://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ebay.nl",
+    "s": "ebay.nl",
+    "t": "ebaynl",
+    "u": "https://www.ebay.nl/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.ph",
+    "s": "ebay.ph",
+    "t": "ebayph",
+    "u": "http://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "shop.ebay.pl",
+    "s": "ebay.pl",
+    "t": "ebaypl",
+    "u": "http://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "shop.ebay.com.sg",
+    "s": "ebay.com.sg",
+    "t": "ebaysg",
+    "u": "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ebay.co.uk",
+    "s": "ebay.co.uk",
+    "t": "ebayuk",
+    "u": "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.befr.ebay.be",
+    "s": "ebay.be",
+    "t": "ebbe",
+    "u": "https://www.befr.ebay.be/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.ca",
+    "s": "ebay.ca",
+    "t": "ebca",
+    "u": "https://www.ebay.ca/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.ca",
+    "s": "ebay (Canada)",
+    "t": "ebc",
+    "u": "https://www.ebay.ca/sch/{{{s}}}"
+  },
+  {
+    "d": "www.ebay.ch",
+    "s": "ebay.ch",
+    "t": "ebch",
+    "u": "https://www.ebay.ch/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.eatbydate.com",
+    "s": "Eat By Date",
+    "t": "ebd",
+    "u": "http://www.eatbydate.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.ebay.de",
+    "s": "ebay.de",
+    "t": "ebde",
+    "u": "https://www.ebay.de/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com",
+    "s": "eBay",
+    "t": "eb",
+    "u": "https://www.ebay.com/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.befr.ebay.be",
+    "s": "ebay.be",
+    "t": "ebe",
+    "u": "https://www.befr.ebay.be/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.rogerebert.com",
+    "s": "RogerEbert.com",
+    "t": "ebert",
+    "u": "https://www.rogerebert.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.ebay.es",
+    "s": "ebay (ES)",
+    "t": "ebes",
+    "u": "https://www.ebay.es/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.fr",
+    "s": "ebay.fr",
+    "t": "ebfr",
+    "u": "https://www.ebay.fr/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebgames.com.au",
+    "s": "EB Games Australia",
+    "t": "ebgamesaustralia",
+    "u": "https://www.ebgames.com.au/any/any?q={{{s}}}"
+  },
+  {
+    "d": "www.ebgames.ca",
+    "s": "EB Games Canada",
+    "t": "ebgamesca",
+    "u": "https://www.ebgames.ca/SearchResult/QuickSearch?q={{{s}}}"
+  },
+  {
+    "d": "ebgames.com.au",
+    "s": "EB Games",
+    "t": "ebg",
+    "u": "https://ebgames.com.au/any/any?q={{{s}}}"
+  },
+  {
+    "d": "search.eim.ebay.gr",
+    "s": "ebay.gr",
+    "t": "ebgr",
+    "u": "http://search.eim.ebay.gr/?kw={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.com.hk",
+    "s": "ebay.com.hk",
+    "t": "ebhk",
+    "u": "http://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ebay.ie",
+    "s": "ebay.ie",
+    "t": "ebie",
+    "u": "https://www.ebay.ie/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebi.ac.uk",
+    "s": "European Bioinformatics Institute",
+    "t": "ebi",
+    "u": "https://www.ebi.ac.uk/ebisearch/search.ebi?db=allebi&query={{{s}}}&requestFrom=duckduckgo"
+  },
+  {
+    "d": "shop.ebay.in",
+    "s": "ebay.in",
+    "t": "ebin",
+    "u": "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ebay.it",
+    "s": "ebay.it",
+    "t": "ebit",
+    "u": "https://www.ebay.it/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.com.my",
+    "s": "ebay.com.my",
+    "t": "ebmy",
+    "u": "http://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ebay.nl",
+    "s": "ebay.nl",
+    "t": "ebnl",
+    "u": "https://www.ebay.nl/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebook.de",
+    "s": "eBook.de",
+    "t": "ebookde",
+    "u": "https://www.ebook.de/de/quickSearch?searchString={{{s}}}"
+  },
+  {
+    "d": "ebooki.swiatczytnikow.pl",
+    "s": "ebooki.swiatczytnikow.pl",
+    "t": "ebooki",
+    "u": "https://ebooki.swiatczytnikow.pl/szukaj/{{{s}}}"
+  },
+  {
+    "d": "booko.com.au",
+    "s": "Booko (eBooks)",
+    "t": "ebooko",
+    "u": "https://booko.com.au/products/search?product_type=3&q={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.ph",
+    "s": "ebay.ph",
+    "t": "ebph",
+    "u": "http://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "shop.ebay.pl",
+    "s": "ebay.pl",
+    "t": "ebpl",
+    "u": "http://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "site.ebrary.com",
+    "s": "ebrary",
+    "t": "ebrary",
+    "u": "http://site.ebrary.com/lib/alltitles/search.action?p00={{{s}}} "
+  },
+  {
+    "d": "www.britannica.com",
+    "s": "Encyclopedia Britanica",
+    "t": "ebrit",
+    "u": "https://www.britannica.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com",
+    "s": "eBay",
+    "t": "ebseller",
+    "u": "http://www.ebay.com/sch/{{{s}}}/m.html"
+  },
+  {
+    "d": "shop.ebay.com.sg",
+    "s": "ebay.com.sg",
+    "t": "ebsg",
+    "u": "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "ebay.com",
+    "s": "eBay Sold",
+    "t": "ebsold",
+    "u": "https://ebay.com/sch/i.html?isRefine=true&_nkw={{{s}}}&LH_Sold=1"
+  },
+  {
+    "d": "www.ebth.com",
+    "s": "Everything But the House",
+    "t": "ebth",
+    "u": "https://www.ebth.com/search?q={{{s}}}"
+  },
+  {
+    "d": "gpo.zugaina.org",
+    "s": "Gentoo Packages",
+    "t": "ebuild",
+    "u": "http://gpo.zugaina.org/Search?search={{{s}}}"
+  },
+  {
+    "d": "gpo.zugaina.org",
+    "s": "Gentoo Packages",
+    "t": "ebuilds",
+    "u": "http://gpo.zugaina.org/Search?search={{{s}}}"
+  },
+  {
+    "d": "ebukaokorie.blogspot.com",
+    "s": "ebuka okories blog",
+    "t": "ebukaokoriesblog",
+    "u": "https://ebukaokorie.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ebay.co.uk",
+    "s": "ebay.co.uk",
+    "t": "ebuk",
+    "u": "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebuyer.com",
+    "s": "eBuyer",
+    "t": "ebuyer",
+    "u": "https://www.ebuyer.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com",
+    "s": "eBay Records",
+    "t": "ebyrec",
+    "u": "https://www.ebay.com/sch/176985/i.html?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.ca",
+    "s": "ebay.ca",
+    "t": "eca",
+    "u": "https://www.ebay.ca/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.encyclo.nl",
+    "s": "Encyclopedie",
+    "t": "eccpd",
+    "u": "http://www.encyclo.nl/zoek.php?woord={{{s}}}"
+  },
+  {
+    "d": "www.e-chords.com",
+    "s": "e-chords",
+    "t": "e-c",
+    "u": "https://www.e-chords.com/search-all/{{{s}}}"
+  },
+  {
+    "d": "www.ecosia.org",
+    "s": "Ecosia",
+    "t": "ec",
+    "u": "http://www.ecosia.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ebay.ch",
+    "s": "ebay.ch",
+    "t": "ech",
+    "u": "https://www.ebay.ch/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.eciaauthorized.com",
+    "s": "ECIA Authorized",
+    "t": "ecia",
+    "u": "http://www.eciaauthorized.com/search?pn={{{s}}}"
+  },
+  {
+    "d": "www.elcorteingles.es",
+    "s": "El Corte Ingles",
+    "t": "eci",
+    "u": "http://www.elcorteingles.es/search?s={{{s}}}"
+  },
+  {
+    "d": "www.ecosia.org",
+    "s": "Ecosia Image Search",
+    "t": "ecim",
+    "u": "https://www.ecosia.org/images?q={{{s}}}"
+  },
+  {
+    "d": "eclair.md",
+    "s": "Eclair.md",
+    "t": "eclair",
+    "u": "http://eclair.md/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "curia.europa.eu",
+    "s": "Curia",
+    "t": "ecli",
+    "u": "http://curia.europa.eu/juris/liste.jsf?critereEcli={{{s}}}"
+  },
+  {
+    "d": "wiki.eclipse.org",
+    "s": "Eclipse Wiki (Eclipsepedia)",
+    "t": "eclipsewiki",
+    "u": "https://wiki.eclipse.org/index.php?search={{{s}}}&fulltext=search"
+  },
+  {
+    "d": "www.ecobookstore.de",
+    "s": "ecobookstore.de/",
+    "t": "ecob",
+    "u": "https://www.ecobookstore.de/shop/quickSearch?searchString={{{s}}}"
+  },
+  {
+    "d": "www.e-codices.unifr.ch",
+    "s": "e-codices: Virtual Manuscript Library of Switzerland",
+    "t": "ecodices",
+    "u": "http://www.e-codices.unifr.ch/en/search/all?sQueryString={{{s}}}"
+  },
+  {
+    "d": "www.ecosia.org",
+    "s": "Ecosia",
+    "t": "eco",
+    "u": "https://www.ecosia.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ecolab.com",
+    "s": "Ecolab",
+    "t": "ecolab",
+    "u": "http://www.ecolab.com/search/#q={{{s}}}&sort=relevancy"
+  },
+  {
+    "d": "www.ecole-club.ch",
+    "s": "Ecole-club Migros",
+    "t": "ecole-club",
+    "u": "https://www.ecole-club.ch/Cours/recherche@{{{s}}}"
+  },
+  {
+    "d": "www.ecolo.be",
+    "s": "ECOLO",
+    "t": "ecolo",
+    "u": "http://www.ecolo.be/spip.php?recherche={{{s}}}&page=recherche"
+  },
+  {
+    "d": "ecomes.org",
+    "s": "ecomes.org",
+    "t": "ecomes",
+    "u": "https://ecomes.org/?s={{{s}}}"
+  },
+  {
+    "d": "community.e-spirit.com",
+    "s": "eSpirit Community",
+    "t": "ecom",
+    "u": "https://community.e-spirit.com/search.jspa?peopleEnabled=true&userID=&containerType=&container=&spotlight=true&q={{{s}}}"
+  },
+  {
+    "d": "www.econbiz.de",
+    "s": "Econbiz",
+    "t": "econbiz",
+    "u": "http://www.econbiz.de/Search/Results?lookfor={{{s}}}&type=AllFields&submit=Suchen"
+  },
+  {
+    "d": "econlib.org",
+    "s": "Library of Economics and Liberty",
+    "t": "econlib",
+    "u": "http://econlib.org/cgi-bin/fullsearch.pl?query={{{s}}}"
+  },
+  {
+    "d": "www.economist.com",
+    "s": "The Economist",
+    "t": "economist",
+    "u": "https://www.economist.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ecoshopper.de",
+    "s": "ecoshopper.de",
+    "t": "ecoshopper",
+    "u": "http://www.ecoshopper.de/ecoshopper2/faces/SuchErgebnis.jsp?query={{{s}}}&brancheDropDown=alle&preisspanneDropDown=0&_charset_=UTF-8&suchen=Suchen&searchrange=namen"
+  },
+  {
+    "d": "www.ecosia.org",
+    "s": "Ecosia",
+    "t": "ecosia",
+    "u": "https://www.ecosia.org/search?q={{{s}}}"
+  },
+  {
+    "d": "economictimes.indiatimes.com",
+    "s": "Economic Times",
+    "t": "ecotimesindia",
+    "u": "https://economictimes.indiatimes.com/topic/{{{s}}}"
+  },
+  {
+    "d": "eco.gamepedia.com",
+    "s": "Eco Wiki",
+    "t": "ecowiki",
+    "u": "https://eco.gamepedia.com/index.php?search={{{s}}}&title=Special:Search"
+  },
+  {
+    "d": "secure.ecs.soton.ac.uk",
+    "s": "Soton Electronics and Computer Science",
+    "t": "ecs",
+    "u": "https://secure.ecs.soton.ac.uk/kb/search/?q={{{s}}}&s=1"
+  },
+  {
+    "d": "www.ecuavisa.com",
+    "s": "Ecuavisa (Ecuador)",
+    "t": "ecuavisa",
+    "u": "https://www.ecuavisa.com/busqueda?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "www.exploit-db.com",
+    "s": "exploit-db.com",
+    "t": "edbc",
+    "u": "https://www.exploit-db.com/search/?action=search&text={{{s}}}"
+  },
+  {
+    "d": "www.exploit-db.com",
+    "s": "Exploits Database by Offensive Security (exploit-db.com)",
+    "t": "edb",
+    "u": "https://www.exploit-db.com/search/?action=search&description={{{s}}}"
+  },
+  {
+    "d": "www.edbpriser.dk",
+    "s": "EDBpriser.dk",
+    "t": "edbpriser",
+    "u": "http://www.edbpriser.dk/Search/General.aspx?q={{{s}}}}"
+  },
+  {
+    "d": "everydaycarry.com",
+    "s": "Everyday Carry",
+    "t": "edc",
+    "u": "http://everydaycarry.com/search{{{s}}}"
+  },
+  {
+    "d": "www.eddiebauer.com",
+    "s": "Eddie Bauer",
+    "t": "eddiebauer",
+    "u": "https://www.eddiebauer.com/search/a-search.jsp?sTerm={{{s}}}"
+  },
+  {
+    "d": "www.ebay.de",
+    "s": "ebay.de",
+    "t": "ede",
+    "u": "https://www.ebay.de/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.de",
+    "s": "Ebay Germany",
+    "t": "e.de",
+    "u": "http://www.ebay.de/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "d": "encyclopediadramatica.rs",
+    "s": "Encyclopedia Dramatica",
+    "t": "ed",
+    "u": "https://encyclopediadramatica.rs/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "forums.frontier.co.uk",
+    "s": "Elite Dangerous Forum",
+    "t": "edf",
+    "u": "https://forums.frontier.co.uk/search.php?do=process&query={{{s}}}"
+  },
+  {
+    "d": "everydayfeminism.com",
+    "s": "Everyday Feminism",
+    "t": "edfeminism",
+    "u": "http://everydayfeminism.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.sec.gov",
+    "s": "EDGAR",
+    "t": "edgar",
+    "u": "http://www.sec.gov/cgi-bin/browse-edgar?company={{{s}}}&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany"
+  },
+  {
+    "d": "www.sec.gov",
+    "s": "Edgar",
+    "t": "edgart",
+    "u": "http://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK={{{s}}}&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany"
+  },
+  {
+    "d": "www.elsalvador.com",
+    "s": "El Diario de Hoy",
+    "t": "edh",
+    "u": "https://www.elsalvador.com/search?s={{{s}}}"
+  },
+  {
+    "d": "edhrec.com",
+    "s": "EDHREC",
+    "t": "edhrec",
+    "u": "https://edhrec.com/cards/{{{s}}}"
+  },
+  {
+    "d": "www.edinburgh.gov.uk",
+    "s": "City of Edinburgh Council",
+    "t": "edinburgh",
+    "u": "http://www.edinburgh.gov.uk/site/scripts/google_results.php?q={{{s}}}"
+  },
+  {
+    "d": "www.editus.lu",
+    "s": "editus.lu",
+    "t": "editus",
+    "u": "http://www.editus.lu/ed/fr/recherche.html?q={{{s}}}"
+  },
+  {
+    "d": "edmofy.com",
+    "s": "edmofy.com",
+    "t": "edm",
+    "u": "http://edmofy.com/?s={{{s}}}"
+  },
+  {
+    "d": "spotlight.edmodo.com",
+    "s": "Edmodo Spotlight",
+    "t": "edmodo",
+    "u": "https://spotlight.edmodo.com/Browse?search=true&q={{{s}}}"
+  },
+  {
+    "d": "new.edmodo.com",
+    "s": "Edmodo",
+    "t": "edmo",
+    "u": "https://new.edmodo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.edmsauce.com",
+    "s": "EDM Sauce",
+    "t": "edmsauce",
+    "u": "https://www.edmsauce.com/?s={{{s}}}"
+  },
+  {
+    "d": "eldigitalpanama.com",
+    "s": "El Digital Panamá",
+    "t": "edpanama",
+    "u": "https://eldigitalpanama.com/?s={{{s}}}"
+  },
+  {
+    "d": "educalingo.com",
+    "s": "Educalingo Français",
+    "t": "educalingofr",
+    "u": "https://educalingo.com/fr/dic-fr/{{{s}}}"
+  },
+  {
+    "d": "edutalk.id",
+    "s": "edutalk.id",
+    "t": "edutalk",
+    "u": "https://edutalk.id/?s={{{s}}}"
+  },
+  {
+    "d": "edutin.com",
+    "s": "Edutin",
+    "t": "edut",
+    "u": "http://edutin.com/cursos/buscar/{{{s}}}"
+  },
+  {
+    "d": "www.eldestapeweb.com",
+    "s": "El Destape Web",
+    "t": "edweb",
+    "u": "http://www.eldestapeweb.com/{{{s}}}-s"
+  },
+  {
+    "d": "www.edweek.org",
+    "s": "Education Week",
+    "t": "edweek",
+    "u": "http://www.edweek.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "elite-dangerous.wikia.com",
+    "s": "Elite: Dangerous Wiki",
+    "t": "edw",
+    "u": "http://elite-dangerous.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.edx.org",
+    "s": "Edx",
+    "t": "edx",
+    "u": "https://www.edx.org/course?search_query={{{s}}}"
+  },
+  {
+    "d": "www.ebay.com",
+    "s": "eBay",
+    "t": "e",
+    "u": "https://www.ebay.com/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "docs.expressionengine.com",
+    "s": "ExpressionEngine User Guide",
+    "t": "eecms",
+    "u": "https://docs.expressionengine.com/search/latest/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "ellislab",
+    "t": "ee",
+    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fellislab.com%2Fforums%2F+{{{s}}}"
+  },
+  {
+    "d": "www.eeggs.com",
+    "s": "Easter Eggs",
+    "t": "eeggs",
+    "u": "http://www.eeggs.com/php/search.php?cx=partner-pub-3374430587172271%3Aqa6js0-hxxa&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&siteurl=www.eeggs.com/&ref="
+  },
+  {
+    "d": "www.ebay.es",
+    "s": "ebay (ES)",
+    "t": "ees",
+    "u": "https://www.ebay.es/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.eff.org",
+    "s": "Electronic Frontier Foundation",
+    "t": "eff",
+    "u": "https://www.eff.org/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.ebay.fr",
+    "s": "ebay.fr",
+    "t": "efr",
+    "u": "https://www.ebay.fr/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "escapefromtarkov.gamepedia.com",
+    "s": "Escape From Tarkov Gamepedia",
+    "t": "eft",
+    "u": "https://escapefromtarkov.gamepedia.com/{{{s}}}"
+  },
+  {
+    "d": "diglib.eg.org",
+    "s": "Eurographics Digital Library",
+    "t": "egdl",
+    "u": "http://diglib.eg.org/discover?query={{{s}}}&submit=Go"
+  },
+  {
+    "d": "e-gear.se",
+    "s": "e-Gear",
+    "t": "egear",
+    "u": "https://e-gear.se/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Epguides",
+    "t": "eg",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:epguides.com"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Eurogamer forums",
+    "t": "egforums",
+    "u": "http://duckduckgo.com/?q=site:eurogamer.net/forums+{{{s}}}"
+  },
+  {
+    "d": "mslworld.egged.co.il",
+    "s": "Egged",
+    "t": "egged",
+    "u": "http://mslworld.egged.co.il/?state=3&language=he&freelang={{{s}}}&width=1280#/search"
+  },
+  {
+    "d": "egghead.io",
+    "s": "Egghead",
+    "t": "egghead",
+    "u": "https://egghead.io/search?q={{{s}}}"
+  },
+  {
+    "d": "e.ggtimer.com",
+    "s": "Egg Timer",
+    "t": "eggtimer",
+    "u": "http://e.ggtimer.com/{{{s}}} "
+  },
+  {
+    "d": "extensions.gnome.org",
+    "s": "Gnome Extensions",
+    "t": "ego",
+    "u": "https://extensions.gnome.org/#search={{{s}}}"
+  },
+  {
+    "d": "search.eim.ebay.gr",
+    "s": "ebay.gr",
+    "t": "egr",
+    "u": "http://search.eim.ebay.gr/?kw={{{s}}}"
+  },
+  {
+    "d": "www.epicgames.com",
+    "s": "Epic Games Store",
+    "t": "egs",
+    "u": "https://www.epicgames.com/store/en-US/store-search?q={{{s}}}"
+  },
+  {
+    "d": "www.engadget.com",
+    "s": "Engadget",
+    "t": "egt",
+    "u": "http://www.engadget.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.eliteguias.com",
+    "s": "Elite Guias",
+    "t": "eguias",
+    "u": "https://www.eliteguias.com/buscar.php?q={{{s}}}"
+  },
+  {
+    "d": "www.english-heritage.org.uk",
+    "s": "English Heritage",
+    "t": "eh",
+    "u": "https://www.english-heritage.org.uk/search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.com.hk",
+    "s": "ebay.com.hk",
+    "t": "ehk",
+    "u": "http://shop.ebay.com.hk/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.ehow.com",
+    "s": "eHow",
+    "t": "ehow",
+    "u": "http://www.ehow.com/search.html?s={{{s}}}"
+  },
+  {
+    "d": "www.evonyhookups.info",
+    "s": "Evony Hookups",
+    "t": "ehu",
+    "u": "http://www.evonyhookups.info/?s={{{s}}}"
+  },
+  {
+    "d": "eic.rsc.org",
+    "s": "Education in Chemistry",
+    "t": "eic",
+    "u": "https://eic.rsc.org/searchresults?qkeyword={{{s}}}"
+  },
+  {
+    "d": "www.ecosia.org",
+    "s": "Ecosia Images",
+    "t": "ei",
+    "u": "https://www.ecosia.org/images?q={{{s}}}"
+  },
+  {
+    "d": "www.ebay.ie",
+    "s": "ebay.ie",
+    "t": "eie",
+    "u": "https://www.ebay.ie/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "eow.alc.co.jp",
+    "s": "英辞郎 on the WEB",
+    "t": "eijirou",
+    "u": "https://eow.alc.co.jp/search?q={{{s}}}"
+  },
+  {
+    "d": "shop.ebay.in",
+    "s": "ebay.in",
+    "t": "ein",
+    "u": "http://shop.ebay.in/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "github.com",
+    "s": "GitHub",
+    "t": "eips",
+    "u": "https://github.com/ethereum/EIPs/issues?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "www.iranicaonline.org",
+    "s": "Encyclopædia Iranica",
+    "t": "eir",
+    "u": "http://www.iranicaonline.org/articles/search/keywords:{{{s}}}"
+  },
+  {
+    "d": "www.ebay.it",
+    "s": "ebay.it",
+    "t": "eit",
+    "u": "https://www.ebay.it/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Economics Job Market Rumors",
+    "t": "ejmr",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aeconjobrumors.com"
+  },
+  {
+    "d": "ejoy-english.com",
+    "s": "Ejoy",
+    "t": "ejoy",
+    "u": "https://ejoy-english.com/go/wordhunt?word={{{s}}}"
+  },
+  {
+    "d": "www.tanoshiijapanese.com",
+    "s": "Tanoshii Japanese English > Japanese",
+    "t": "ej",
+    "u": "http://www.tanoshiijapanese.com/dictionary/index.cfm?j=&e={{{s}}}&search=Search+%3E"
+  },
+  {
+    "d": "www.e-jumbo.gr",
+    "s": "Jumbo",
+    "t": "ejumbo",
+    "u": "http://www.e-jumbo.gr/pages/searchProducts.aspx?lang=el&search-for={{{s}}}"
+  },
+  {
+    "d": "econjwatch.org",
+    "s": "Econ Journal Watch",
+    "t": "ejw",
+    "u": "https://econjwatch.org/search/?m=all&q={{{s}}}"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "ebay Kleinanzeigen Aachen",
+    "t": "ekac",
+    "u": "https://www.ebay-kleinanzeigen.de/s-aachen/{{{s}}}/k0l1921"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "Ebay Kleinanzeigen",
+    "t": "eka",
+    "u": "http://www.ebay-kleinanzeigen.de/s-{{{s}}}/k0"
+  },
+  {
+    "d": "kleinanzeigen.ebay.de",
+    "s": "eBay Kleinanzeigen Berlin",
+    "t": "ekb",
+    "u": "http://kleinanzeigen.ebay.de/anzeigen/s-berlin/{{{s}}}/k0l3331"
+  },
+  {
+    "d": "www.elektronik-kompendium.de",
+    "s": "Elektronik-Kompendium",
+    "t": "ek",
+    "u": "http://www.elektronik-kompendium.de/service/suchen/index.htm?domains=www.elektronik-kompendium.de&sitesearch=www.elektronik-kompendium.de&q={{{s}}}&sa=Suchen&client=pub-7453653573550802&forid=1&channel=3122011476&ie=ISO-8859-1&oe=ISO-8859-1&flav=0000&sig=XvZoofyEi29r3eL9&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=de"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "eBay Kleinanzeigen Hamburg",
+    "t": "ekh",
+    "u": "https://www.ebay-kleinanzeigen.de/s-hamburg/{{{s}}}/k0l9409"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "Kleinanzeigen Hannover",
+    "t": "ekhr",
+    "u": "https://www.ebay-kleinanzeigen.de/s-hannover/{{{s}}}/k0l3155"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "ebay Kleinanzeigen Köln",
+    "t": "ekk",
+    "u": "https://www.ebay-kleinanzeigen.de/s-koeln/{{{s}}}/k0l945"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "eBay Kleinanzeigen Leipzig",
+    "t": "ekl",
+    "u": "https://www.ebay-kleinanzeigen.de/s-leipzig/{{{s}}}/k0l4233"
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "eBay Kleinanzeigen München",
+    "t": "ekm",
+    "u": "https://www.ebay-kleinanzeigen.de/s-muenchen/{{{s}}}/k0l6411"
+  },
+  {
+    "d": "eksisozluk.com",
+    "s": "Ekşi Sözlük",
+    "t": "ekşi",
+    "u": "https://eksisozluk.com/?q={{{s}}}"
+  },
+  {
+    "d": "eksisozluk.com",
+    "s": "eksi sozluk",
+    "t": "eksi",
+    "u": "https://eksisozluk.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.eksisozluk.com",
+    "s": "Ekşi Sözlük",
+    "t": "eksisozluk",
+    "u": "http://www.eksisozluk.com/show.asp?t={{{s}}}"
+  },
+  {
+    "d": "ekspress.delfi.ee",
+    "s": "Eesti Ekspress",
+    "t": "ekspress",
+    "u": "http://ekspress.delfi.ee/otsing/?query={{{s}}}"
+  },
+  {
+    "d": "www.eki.ee",
+    "s": "Eesti keele seletav sõnaraamat",
+    "t": "ekss",
+    "u": "http://www.eki.ee/dict/ekss/index.cgi?Q={{{s}}}&F=M"
+  },
+  {
+    "d": "www.ekwb.com",
+    "s": "EK Water Blocks",
+    "t": "ekwb",
+    "u": "https://www.ekwb.com/shop/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.el19digital.com",
+    "s": "El 19 Digital",
+    "t": "el19",
+    "u": "https://www.el19digital.com/busqueda/articulos?q={{{s}}}"
+  },
+  {
+    "d": "www.elastic.co",
+    "s": "Elasticsearch Documentation",
+    "t": "elastic",
+    "u": "https://www.elastic.co/search?q={{{s}}}&section=Learn%2FDocs%2F"
+  },
+  {
+    "d": "elbauldelprogramador.com",
+    "s": "El Baul del Programador",
+    "t": "elbaul",
+    "u": "http://elbauldelprogramador.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.bibleserver.com",
+    "s": "Bibleserver",
+    "t": "elb",
+    "u": "http://www.bibleserver.com/text/ELB/{{{s}}}"
+  },
+  {
+    "d": "elcomercio.pe",
+    "s": "El Comercio Perú",
+    "t": "elcomercio",
+    "u": "https://elcomercio.pe/buscar/?query={{{s}}}"
+  },
+  {
+    "d": "elcomercio.pe",
+    "s": "El Comercio",
+    "t": "elcomerciope",
+    "u": "https://elcomercio.pe/buscar/?query={{{s}}}"
+  },
+  {
+    "d": "www.elconjugador.com",
+    "s": "El conjugador",
+    "t": "elconjugador",
+    "u": "http://www.elconjugador.com/conjugaison/verbe/espagnol/{{{s}}}.html"
+  },
+  {
+    "d": "elderscrolls.wikia.com",
+    "s": "Elder Scrolls Wiki (Page)",
+    "t": "elderwiki",
+    "u": "http://elderscrolls.wikia.com/wiki/index.php?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.greek-language.gr",
+    "s": "http://www.greek-language.gr",
+    "t": "eldict",
+    "u": "http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq=%22{{{s}}}%22"
+  },
+  {
+    "d": "electron.atom.io",
+    "s": "electron.atom.io",
+    "t": "electron",
+    "u": "https://electron.atom.io/apps/?q={{{s}}}"
+  },
+  {
+    "d": "electronjs.org",
+    "s": "Electron",
+    "t": "ele",
+    "u": "https://electronjs.org/search?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate el-en",
+    "t": "elen",
+    "u": "http://translate.google.com/#el/en/{{{s}}}"
+  },
+  {
+    "d": "eleven.rijitsu.com",
+    "s": "Rijitsu Eleven",
+    "t": "elevenr",
+    "u": "https://eleven.rijitsu.com/?s={{{s}}}"
+  },
+  {
+    "d": "eleymcqueen.blogspot.in",
+    "s": "www.eleymcqueen.blogspot.in",
+    "t": "eley",
+    "u": "http://eleymcqueen.blogspot.in/search?q={{{s}}}"
+  },
+  {
+    "d": "www.elfa.se",
+    "s": "Elfa Distrelec",
+    "t": "elfa",
+    "u": "https://www.elfa.se/elfa3~se_sv/elfa/init.do?sq={{{s}}}"
+  },
+  {
+    "d": "eshop.elfetex.cz",
+    "s": "Elfetex",
+    "t": "elf",
+    "u": "http://eshop.elfetex.cz/fulltext_search/1?query={{{s}}}"
+  },
+  {
+    "d": "www.elfster.com",
+    "s": "Elfster",
+    "t": "elfster",
+    "u": "https://www.elfster.com/shop/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.elgiganten.se",
+    "s": "Elgiganten",
+    "t": "elgiganten",
+    "u": "https://www.elgiganten.se/search?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "elgoog.im",
+    "s": "elgooG",
+    "t": "elgoog",
+    "u": "http://elgoog.im/search/?q={{{s}}}"
+  },
+  {
+    "d": "hiztegiak.elhuyar.eus",
+    "s": "Elhuyar Hiztegia EN-->EU",
+    "t": "elheneu",
+    "u": "http://hiztegiak.elhuyar.eus/en_eu/{{{s}}}"
+  },
+  {
+    "d": "hiztegiak.elhuyar.eus",
+    "s": "Elhuyar Hiztegia ES-->EU",
+    "t": "elheseu",
+    "u": "http://hiztegiak.elhuyar.eus/es_eu/{{{s}}}"
+  },
+  {
+    "d": "hiztegiak.elhuyar.eus",
+    "s": "Elhuyar Hiztegia EU-->EN",
+    "t": "elheuen",
+    "u": "http://hiztegiak.elhuyar.eus/eu_en/{{{s}}}"
+  },
+  {
+    "d": "hiztegiak.elhuyar.eus",
+    "s": "Elhuyar Hiztegia EU-->ES",
+    "t": "elheues",
+    "u": "http://hiztegiak.elhuyar.eus/eu_es/{{{s}}}"
+  },
+  {
+    "d": "hiztegiak.elhuyar.eus",
+    "s": "Elhuyar Hiztegia EU-->FR",
+    "t": "elheufr",
+    "u": "http://hiztegiak.elhuyar.eus/eu_fr/{{{s}}}"
+  },
+  {
+    "d": "hiztegiak.elhuyar.eus",
+    "s": "Elhuyar Hiztegia FR-->EU",
+    "t": "elhfreu",
+    "u": "http://hiztegiak.elhuyar.eus/fr_eu/{{{s}}}"
+  },
+  {
+    "d": "hiztegiak.elhuyar.org",
+    "s": "Elhuyar Hiztegiak",
+    "t": "elhuyar",
+    "u": "http://hiztegiak.elhuyar.org/es_eu/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit ELI5",
+    "t": "eli5",
+    "u": "https://www.reddit.com/r/explainlikeimfive/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "d": "elinux.org",
+    "s": "eLinux",
+    "t": "elinux",
+    "u": "http://elinux.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.eliteprospects.com",
+    "s": "EliteProspects",
+    "t": "elite",
+    "u": "https://www.eliteprospects.com/search/player?q={{{s}}}"
+  },
+  {
+    "d": "www.eliteprospects.com",
+    "s": "Elite Prospects",
+    "t": "elitepr",
+    "u": "https://www.eliteprospects.com/search/player?q={{{s}}}"
+  },
+  {
+    "d": "www.eliteprospects.com",
+    "s": "Elite Prospects",
+    "t": "eliteprospects",
+    "u": "https://www.eliteprospects.com/search/team?q={{{s}}}"
+  },
+  {
+    "d": "www.elix-lsf.fr",
+    "s": "Elix Dictionnaire LSF",
+    "t": "elix",
+    "u": "https://www.elix-lsf.fr/spip.php?page=recherche_definitions&recherche={{{s}}}&lang=fr"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Elixir Documentation",
+    "t": "elixir-docs",
+    "u": "https://duckduckgo.com/?q=site%3Aelixir-lang.org%2Fdocs+{{{s}}}"
+  },
+  {
+    "d": "hexdocs.pm",
+    "s": "Elixir Documentation",
+    "t": "elixir",
+    "u": "https://hexdocs.pm/elixir/search.html?q={{{s}}}"
+  },
+  {
+    "d": "elixirforum.com",
+    "s": "elixirforum.com",
+    "t": "elixirforum",
+    "u": "https://elixirforum.com/search?q={{{s}}}"
+  },
+  {
+    "d": "ell.stackexchange.com",
+    "s": "English Language Learners",
+    "t": "ell",
+    "u": "https://ell.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "elliottwaveideas.com",
+    "s": "Elliott Wave Ideas",
+    "t": "elliottwave",
+    "u": "https://elliottwaveideas.com/search.php?query={{{s}}}"
+  },
+  {
+    "d": "ello.co",
+    "s": "Ello",
+    "t": "ello",
+    "u": "https://ello.co/search?terms={{{s}}} "
+  },
+  {
+    "d": "www.ellos.se",
+    "s": "Ellos",
+    "t": "ellos",
+    "u": "https://www.ellos.se/search?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "klaftertief.github.io",
+    "s": "Elm Search",
+    "t": "elm",
+    "u": "http://klaftertief.github.io/elm-search/?q={{{s}}}"
+  },
+  {
+    "d": "ariadna.elmundo.es",
+    "s": "El Mundo",
+    "t": "elmundo",
+    "u": "http://ariadna.elmundo.es/buscador/archivo.html?q={{{s}}}&b_avanzada="
+  },
+  {
+    "d": "www.elobservador.com.uy",
+    "s": "El Observador",
+    "t": "elobs",
+    "u": "http://www.elobservador.com.uy/{{{s}}}-s"
+  },
+  {
+    "d": "www.eloquii.com",
+    "s": "Eloquii",
+    "t": "eloquii",
+    "u": "http://www.eloquii.com/on/demandware.store/Sites-eloquii-Site/default/Search-Show?q= {{{s}}}"
+  },
+  {
+    "d": "www.elotrolado.net",
+    "s": "ElOtroLado",
+    "t": "elotrolado",
+    "u": "http://www.elotrolado.net/search.php?keywords={{{s}}}&type=h"
+  },
+  {
+    "d": "elpais.com",
+    "s": "El Pais",
+    "t": "elpais",
+    "u": "http://elpais.com/buscador/?qt={{{s}}}"
+  },
+  {
+    "d": "search.theregister.co.uk",
+    "s": "The Register",
+    "t": "elreg",
+    "u": "http://search.theregister.co.uk/?q={{{s}}}"
+  },
+  {
+    "d": "www.eluniverso.com",
+    "s": "El Universo (Ecuador)",
+    "t": "eluniverso",
+    "u": "https://www.eluniverso.com/resultados?search={{{s}}}"
+  },
+  {
+    "d": "www.eluta.ca",
+    "s": "Eluta",
+    "t": "eluta",
+    "u": "http://www.eluta.ca/search?q={{{s}}}"
+  },
+  {
+    "d": "el.wikipedia.org",
+    "s": "Βικιπαίδεια",
+    "t": "elw",
+    "u": "https://el.wikipedia.org/w/index.php?search={{{s}}}&title=%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%3A%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&go=%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7"
+  },
+  {
+    "d": "evelexicon.com",
+    "s": "Eve Lexicon",
+    "t": "elx",
+    "u": "https://evelexicon.com/term/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "EmacsWiki",
+    "t": "emacs",
+    "u": "https://duckduckgo.com/?q=site:emacswiki.org+{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "EmacsWiki.org",
+    "t": "emacswiki",
+    "u": "https://duckduckgo.com/?q=site:emacswiki.org+{{{s}}}"
+  },
+  {
+    "d": "emaculation.com",
+    "s": "E-Maculation",
+    "t": "emacu",
+    "u": "https://emaculation.com/doku.php/mac_emulation?do=search&id=mac_emulation&q={{{s}}}"
+  },
+  {
+    "d": "www.ema.europa.eu",
+    "s": "European Medicines Agency",
+    "t": "ema",
+    "u": "http://www.ema.europa.eu/ema/index.jsp?curl=pages%2Fincludes%2Fmedicines%2Fmedicines_landing_page.jsp&searchkwByEnter=true&quickSearch={{{s}}}"
+  },
+  {
+    "d": "www.emag.bg",
+    "s": "emag.bg",
+    "t": "emagbg",
+    "u": "https://www.emag.bg/search/{{{s}}}?ref=effective_search"
+  },
+  {
+    "d": "www.emag.ro",
+    "s": "emag.ro",
+    "t": "emag",
+    "u": "https://www.emag.ro/search/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ember",
+    "t": "ember",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttps%3A%2F%2Fapi.emberjs.com"
+  },
+  {
+    "d": "www.medicines.org.uk",
+    "s": "Electronic Medicines Compendium",
+    "t": "emc",
+    "u": "https://www.medicines.org.uk/emc/search?q= {{{s}}}"
+  },
+  {
+    "d": "motors.shop.ebay.com",
+    "s": "eBay Motors",
+    "t": "em",
+    "u": "http://motors.shop.ebay.com/eBay-Motors-/6000/i.html?_nkw={{{s}}}&_trksid=p2050885.m570.l1313&_rdc=1"
+  },
+  {
+    "d": "search.medscape.com",
+    "s": "Medscape Reference",
+    "t": "emedicine",
+    "u": "http://search.medscape.com/reference-search?newSearchHeader=1&queryText={{{s}}}"
+  },
+  {
+    "d": "packages.gentoo.org",
+    "s": "Gentoo Packages",
+    "t": "emerge",
+    "u": "https://packages.gentoo.org/packages/search?q={{{s}}}"
+  },
+  {
+    "d": "www.emich.edu",
+    "s": "Eastern Michigan University",
+    "t": "emich",
+    "u": "https://www.emich.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.emotiyou.com",
+    "s": "Emotiyou",
+    "t": "emo",
+    "u": "http://www.emotiyou.com/search/{{{s}}}"
+  },
+  {
+    "d": "emojicons.com",
+    "s": "Emojicons",
+    "t": "emojicons",
+    "u": "http://emojicons.com/tag/{{{s}}}"
+  },
+  {
+    "d": "emojipedia.org",
+    "s": "emojipedia",
+    "t": "emoji",
+    "u": "https://emojipedia.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "emojipedia.org",
+    "s": "Emojipedia",
+    "t": "emojipedia",
+    "u": "http://emojipedia.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.emoney.ge",
+    "s": "emoney.ge",
+    "t": "emoneyge",
+    "u": "https://www.emoney.ge/index.php/main/services?search_query={{{s}}}"
+  },
+  {
+    "d": "www.emp.de",
+    "s": "EMP",
+    "t": "emp",
+    "u": "http://www.emp.de/search/{{{s}}}/"
+  },
+  {
+    "d": "www.empik.com",
+    "s": "Empik",
+    "t": "empik",
+    "u": "http://www.empik.com/szukaj/produkt?q={{{s}}}"
+  },
+  {
+    "d": "www.empireonline.com",
+    "s": "Empire",
+    "t": "empire",
+    "u": "http://www.empireonline.com/search/default.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.jobillico.com",
+    "s": "Jobillico",
+    "t": "emploi",
+    "u": "https://www.jobillico.com/recherche-emploi?skwd={{{s}}}"
+  },
+  {
+    "d": "www.jobillico.com",
+    "s": "Jobillico.com",
+    "t": "emplois",
+    "u": "https://www.jobillico.com/recherche-emploi/0?skwd={{{s}}}&scty=&icty=0&ipc=0&sil=&sjdpl=&sdl=&imc1=0&imc2=0&flat=0&flng=0&mfil=40&ipg=1&clr=1"
+  },
+  {
+    "d": "www.jobillico.com",
+    "s": "Jobillico Montréal",
+    "t": "emploismtl",
+    "u": "https://www.jobillico.com/recherche-emploi?skwd={{{s}}}&scty=Montr%C3%A9al%2C%20QC&icty=6185&ipc=0&sil=&sjdpl=&sdl=&imc1=0&imc2=0&flat=45.509828&flng=-73.6715&mfil=byCity&ipg=1&clr=1"
+  },
+  {
+    "d": "www.empregosaqui.com.br",
+    "s": "Empregos Aqui",
+    "t": "empregosaqui",
+    "u": "https://www.empregosaqui.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "emulation.gametechwiki.com",
+    "s": "Emulation General Wiki",
+    "t": "emu",
+    "u": "http://emulation.gametechwiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.emusic.com",
+    "s": "eMusic",
+    "t": "emusic",
+    "u": "https://www.emusic.com/search/{{{s}}}"
+  },
+  {
+    "d": "shop.ebay.com.my",
+    "s": "ebay.com.my",
+    "t": "emy",
+    "u": "http://shop.ebay.com.my/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "en2ar",
+    "u": "https://translate.google.com/#en/ar/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Translate English to Danish",
+    "t": "en2da",
+    "u": "https://translate.google.com/#en/da/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate - En to De",
+    "t": "en2de",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=en&tl=de&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.gr",
+    "s": "Google Translate",
+    "t": "en2el",
+    "u": "https://translate.google.gr/#en/el/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate En to Fa",
+    "t": "en2fa",
+    "u": "https://translate.google.com/#en/fa/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Traduction",
+    "t": "en2fr",
+    "u": "https://translate.google.com/#en/fr/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate English to Hindi",
+    "t": "en2hi",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=en&tl=hi&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate en-nl English Dutch",
+    "t": "en2nl",
+    "u": "https://translate.google.com/#en/nl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "translate.google.com",
+    "t": "en2ru",
+    "u": "https://translate.google.com/?#view=home&op=translate&sl=en&tl=ru&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate English to Tagalog",
+    "t": "en2tl",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=en&tl=tl&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "translate.google.com",
+    "t": "en2ua",
+    "u": "https://translate.google.com/?source=osdd#view=home&op=translate&sl=auto&tl=uk&text={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "en2zh",
+    "u": "https://translate.google.com/#en/zh-CN/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate Englsih to Arabic",
+    "t": "enar",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=en&tl=ar&text={{{s}}}"
+  },
+  {
+    "d": "www.english-bangla.com",
+    "s": "English to Bangali Dictionary",
+    "t": "enbn",
+    "u": "http://www.english-bangla.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translator",
+    "t": "enbr",
+    "u": "https://translate.google.com/#en/pt/{{{s}}}"
+  },
+  {
+    "d": "www.encyclo.nl",
+    "s": "encyclo",
+    "t": "enc",
+    "u": "http://www.encyclo.nl/begrip/{{{s}}}"
+  },
+  {
+    "d": "www.encodeproject.org",
+    "s": "ENCODE",
+    "t": "encode",
+    "u": "https://www.encodeproject.org/search/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.encyclopedia.com",
+    "s": "Encyclopedia.com",
+    "t": "encom",
+    "u": "http://www.encyclopedia.com/searchresults.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.searchencrypt.com",
+    "s": "Search Encrypt",
+    "t": "encrypt",
+    "u": "https://www.searchencrypt.com/search?eq={{{s}}}"
+  },
+  {
+    "d": "encyc.org",
+    "s": "encyc",
+    "t": "encyc",
+    "u": "http://encyc.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.encyclo.nl",
+    "s": "Encyclo",
+    "t": "encyclo",
+    "u": "http://www.encyclo.nl/begrip/{{{s}}}"
+  },
+  {
+    "d": "www.encyclopediaofmath.org",
+    "s": "Encyclopedia of Mathematics",
+    "t": "encyclopediaofmath",
+    "u": "http://www.encyclopediaofmath.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "encyclopedia",
+    "u": "http://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate - English to Welsh",
+    "t": "ency",
+    "u": "https://translate.google.com/#en/cy/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate en-da",
+    "t": "enda",
+    "u": "https://translate.google.com/#en/da/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "ende",
+    "u": "https://translate.google.com/#en/de/{{{s}}}"
+  },
+  {
+    "d": "endic.naver.com",
+    "s": "endic.naver.com",
+    "t": "endic",
+    "u": "http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query={{{s}}}"
+  },
+  {
+    "d": "endless-sphere.com",
+    "s": "endless-sphere",
+    "t": "endlessphere",
+    "u": "http://endless-sphere.com/forums/?q {{{s}}} "
+  },
+  {
+    "d": "www.endole.co.uk",
+    "s": "Endole",
+    "t": "endole",
+    "u": "http://www.endole.co.uk/search/?search={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate en-el",
+    "t": "enel",
+    "u": "http://translate.google.com/#en/el/{{{s}}}"
+  },
+  {
+    "d": "english.stackexchange.com",
+    "s": "English StackExchange",
+    "t": "en",
+    "u": "http://english.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "essearch.energystar.gov",
+    "s": "Energy Star",
+    "t": "energystar",
+    "u": "http://essearch.energystar.gov/search?query={{{s}}}&affiliate=www.energystar.gov"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate en-es",
+    "t": "enes",
+    "u": "http://translate.google.com/#en/es/{{{s}}}"
+  },
+  {
+    "d": "www.eternitynews.com.au",
+    "s": "Eternity News",
+    "t": "enews",
+    "u": "https://www.eternitynews.com.au/?s={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate to Finnish",
+    "t": "enfi",
+    "u": "http://translate.google.com/#en/fi/{{{s}}}"
+  },
+  {
+    "d": "www.focloir.ie",
+    "s": "Foclóir ",
+    "t": "enfoc",
+    "u": "http://www.focloir.ie/en/dictionary/ei/{{{s}}}?advSearch=1&q={{{s}}}&inlanguage=en"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate en-fr",
+    "t": "enfr",
+    "u": "http://translate.google.com/#en/fr/{{{s}}}"
+  },
+  {
+    "d": "www.engadget.com",
+    "s": "Engadget",
+    "t": "engadget",
+    "u": "https://www.engadget.com/search/?search-terms={{{s}}}"
+  },
+  {
+    "d": "www.engadin.stmoritz.ch",
+    "s": "Engadin St. Moritz",
+    "t": "engadin",
+    "u": "https://www.engadin.stmoritz.ch/suche/q.{{{s}}}/"
+  },
+  {
+    "d": "es.engadget.com",
+    "s": "Engadget en español",
+    "t": "enges",
+    "u": "http://es.engadget.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.englishforums.com",
+    "s": "English Forums",
+    "t": "engfor",
+    "u": "https://www.englishforums.com/search/{{{s}}}.htm"
+  },
+  {
+    "d": "www.englishgrammar.org",
+    "s": "English Grammar",
+    "t": "enggramm",
+    "u": "https://www.englishgrammar.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.globalspec.com",
+    "s": "IHS Engineering360",
+    "t": "engineering360",
+    "u": "http://www.globalspec.com/search/all?query={{{s}}}"
+  },
+  {
+    "d": "www.engrish.com",
+    "s": "Engrish",
+    "t": "engrish",
+    "u": "http://www.engrish.com/?s={{{s}}}"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "Engineering Toolbox",
+    "t": "engtb",
+    "u": "https://cse.google.com/cse?cx=partner-pub-3176996020956223:6582549258&q={{{s}}}&og=_l=partner-generic.3...19628.24-generic..0.0.0."
+  },
+  {
+    "d": "www.eng-tips.com",
+    "s": "Eng Tips",
+    "t": "engtips",
+    "u": "http://www.eng-tips.com/search.cfm?q={{{s}}}&action=search"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate",
+    "t": "enhe",
+    "u": "https://translate.google.com/#en/iw/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate en-hu",
+    "t": "enhu",
+    "u": "http://translate.google.com/#en/hu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "enid",
+    "u": "https://translate.google.com/translate#en/id/{{{s}}}"
+  },
+  {
+    "d": "enigma.huma-num.fr",
+    "s": "Enigma: Unpuzzling difficult Latin readings in medieval manuscripts",
+    "t": "enig",
+    "u": "http://enigma.huma-num.fr/index.php?q=1&w={{{s}}}"
+  },
+  {
+    "d": "enigma.huma-num.fr",
+    "s": "Enigma: Unpuzzling difficult Latin readings in medieval manuscripts",
+    "t": "enigma",
+    "u": "http://enigma.huma-num.fr/index.php?q=1&w={{{s}}}"
+  },
+  {
+    "d": "gulasidorna.eniro.se",
+    "s": "Eniro",
+    "t": "eniro",
+    "u": "http://gulasidorna.eniro.se/hitta:{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate en-it",
+    "t": "enit",
+    "u": "http://translate.google.com/#en/it/{{{s}}} "
+  },
+  {
+    "d": "en.kancollewiki.net",
+    "s": "Kancolle Wiki",
+    "t": "enkcwiki",
+    "u": "http://en.kancollewiki.net/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate English-Korean",
+    "t": "enkr",
+    "u": "https://translate.google.com/#en/ko/{{{s}}}"
+  },
+  {
+    "d": "latin-dictionary.net",
+    "s": "Latdict",
+    "t": "enlat",
+    "u": "http://latin-dictionary.net/search/english/{{{s}}}"
+  },
+  {
+    "d": "www.ebay.nl",
+    "s": "ebay.nl",
+    "t": "enl",
+    "u": "https://www.ebay.nl/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate English to Lithuanian",
+    "t": "enlt",
+    "u": "http://translate.google.com/#en/lt/{{{s}}}"
+  },
+  {
+    "d": "www.enmu.edu",
+    "s": "Eastern New Mexico University",
+    "t": "enmu",
+    "u": "http://www.enmu.edu/search?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate",
+    "t": "ennl",
+    "u": "https://translate.google.com/#en/nl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate en-no",
+    "t": "enno",
+    "u": "https://translate.google.com/#view=home&op=translate&sl=en&tl=no&text={{{s}}}"
+  },
+  {
+    "d": "ojibwe.lib.umn.edu",
+    "s": "https://ojibwe.lib.umn.edu",
+    "t": "enoj",
+    "u": "https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q={{{s}}}&commit=Search&type=english"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate (English to Polish)",
+    "t": "enpl",
+    "u": "https://translate.google.com/#en/pl/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "google translate en-pt",
+    "t": "enpt",
+    "u": "http://translate.google.com/#en/pt/{{{s}}} "
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "enru",
+    "u": "http://translate.google.com/#en/ru/{{{s}}}"
+  },
+  {
+    "d": "encore.sdcl.org",
+    "s": "San Diego County Library (EN)",
+    "t": "ensdcl",
+    "u": "http://encore.sdcl.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def"
+  },
+  {
+    "d": "www.ensembl.org",
+    "s": "Ensembl",
+    "t": "ensembl",
+    "u": "http://www.ensembl.org/Multi/Search/Results?q={{{s}}};site=ensembl"
+  },
+  {
+    "d": "www.ensembl.org",
+    "s": "Ensembl",
+    "t": "ens",
+    "u": "http://www.ensembl.org/Multi/psychic?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate en-sl",
+    "t": "ensl",
+    "u": "http://translate.google.com/#en/sl/{{{s}}}"
+  },
+  {
+    "d": "english.stackexchange.com",
+    "s": "English Language and Usage StackExchange",
+    "t": "enstex",
+    "u": "https://english.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "mw.lojban.org",
+    "s": "la sutsis",
+    "t": "en-sutsis",
+    "u": "http://mw.lojban.org/extensions/ilmentufa/i/en/#sisku/http://mw.lojban.org/extensions/ilmentufa/i/en/#sisku/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translator (English -> Swedish)",
+    "t": "ensv",
+    "u": "https://translate.google.com/#en/sv/{{{s}}}"
+  },
+  {
+    "d": "www.entertainmentearth.com",
+    "s": "Entertainment Earth",
+    "t": "entearth",
+    "u": "https://www.entertainmentearth.com/s/?query1={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate (EN-TH)",
+    "t": "enth",
+    "u": "https://translate.google.com/#en/th/{{{s}}}"
+  },
+  {
+    "d": "entireweb.com",
+    "s": "Entireweb",
+    "t": "entireweb",
+    "u": "http://entireweb.com/?q={{{s}}}"
+  },
+  {
+    "d": "entranceadda.in",
+    "s": "EntranceAdda - Best Exam Portal",
+    "t": "entrance",
+    "u": "https://entranceadda.in/?s={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "Entrez",
+    "t": "entrez",
+    "u": "http://www.ncbi.nlm.nih.gov/sites/gquery?term={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "entr",
+    "u": "https://translate.google.com/#en/tr/{{{s}}} "
+  },
+  {
+    "d": "enumquery.com",
+    "s": "enumquery.com",
+    "t": "enum",
+    "u": "http://enumquery.com/lookup?e164={{{s}}}"
+  },
+  {
+    "d": "themeforest.net",
+    "s": "Envato Marketplace",
+    "t": "envatomarkettheme",
+    "u": "https://themeforest.net/search?term={{{s}}}"
+  },
+  {
+    "d": "en.wikinews.org",
+    "s": "English WIkinews",
+    "t": "enwn",
+    "u": "https://en.wikinews.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "glosbe.com",
+    "s": "glosbe eo › en",
+    "t": "eo2en",
+    "u": "https://glosbe.com/eo/en/{{{s}}}"
+  },
+  {
+    "d": "www.eoearth.org",
+    "s": "Encyclopedia of Earth",
+    "t": "eoearth",
+    "u": "http://www.eoearth.org/results/all/?searchnext=true&q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate",
+    "t": "eoen",
+    "u": "https://translate.google.com/#eo/en/{{{s}}}"
+  },
+  {
+    "d": "eol.org",
+    "s": "Encyclopedia of Life",
+    "t": "eol",
+    "u": "http://eol.org/search?q={{{s}}}&search=Go"
+  },
+  {
+    "d": "www.encyclopediaofmath.org",
+    "s": "Encyclopedia of Mathematics",
+    "t": "eom",
+    "u": "http://www.encyclopediaofmath.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "www.etymonline.com",
+    "s": "Online Etymology Dictionary",
+    "t": "eo",
+    "u": "https://www.etymonline.com/search?q={{{s}}}"
+  },
+  {
+    "d": "eune.op.gg",
+    "s": "eune.OP.GG",
+    "t": "eop",
+    "u": "http://eune.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "de.finalfantasyxiv.com",
+    "s": "Eorzea-Datenbank",
+    "t": "eorde",
+    "u": "https://de.finalfantasyxiv.com/lodestone/playguide/db/search/?q={{{s}}}"
+  },
+  {
+    "d": "eu.finalfantasyxiv.com",
+    "s": "Eorzea Database",
+    "t": "eor",
+    "u": "https://eu.finalfantasyxiv.com/lodestone/playguide/db/search/?q={{{s}}}"
+  },
+  {
+    "d": "fr.finalfantasyxiv.com",
+    "s": "Base de données d'Éorzéa",
+    "t": "eorfr",
+    "u": "https://fr.finalfantasyxiv.com/lodestone/playguide/db/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.eosdigitaal.nl",
+    "s": "Eosdigitaal.nl",
+    "t": "eos",
+    "u": "https://www.eosdigitaal.nl/forum/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sf=all&sk=t&sd=d&sr=posts&st=0&ch=300&t=0&submit=Zoeken"
+  },
+  {
+    "d": "eowp.alc.co.jp",
+    "s": "英辞郎 on the WEB Pro",
+    "t": "eow",
+    "u": "http://eowp.alc.co.jp/search?q={{{s}}}"
+  },
+  {
+    "d": "nlquery.epa.gov",
+    "s": "US Environmental Protection Agency",
+    "t": "epa",
+    "u": "http://nlquery.epa.gov/epasearch/epasearch?querytext={{{s}}}&fld=&areaname=&typeofsearch=epa&areacontacts=http%3A%2F%2Fwww.epa.gov%2Fepahome%2Fcomments.htm&areasearchurl=&result_template=epafiles_default.xsl&filter=sample4filt.hts&x=0&y=0"
+  },
+  {
+    "d": "www.episodate.com",
+    "s": "EpisoDate",
+    "t": "epd",
+    "u": "https://www.episodate.com/search?q={{{s}}}"
+  },
+  {
+    "d": "everipedia.org",
+    "s": "Everipedia",
+    "t": "ep",
+    "u": "https://everipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "beast-epfl.hosted.exlibrisgroup.com",
+    "s": "https://beast-epfl.hosted.exlibrisgroup.com/primo-explore/search?sortby=rank&vid=EPFL&lang=en_US",
+    "t": "epflbib",
+    "u": "https://beast-epfl.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=EPFL&lang=en_US&offset=0"
+  },
+  {
+    "d": "beast-epfl.hosted.exlibrisgroup.com",
+    "s": "EPFL Library",
+    "t": "epflbook",
+    "u": "https://beast-epfl.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=EPFL&lang=fr_FR&offset=0&fn=search"
+  },
+  {
+    "d": "search.epfl.ch",
+    "s": "EPFL Directory",
+    "t": "epfldir",
+    "u": "https://search.epfl.ch/psearch.action?q={{{s}}}&f=directory&lang=en&pageSize=10&sort="
+  },
+  {
+    "d": "search.epfl.ch",
+    "s": "EPFL",
+    "t": "epfl",
+    "u": "http://search.epfl.ch/web.action?q={{{s}}}"
+  },
+  {
+    "d": "plan.epfl.ch",
+    "s": "EPFL Plan",
+    "t": "epflp",
+    "u": "http://plan.epfl.ch/?room={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "epguides.com",
+    "t": "epg",
+    "u": "https://duckduckgo.com/?q=site%3Aepguides.com+{{{s}}}"
+  },
+  {
+    "d": "shop.ebay.ph",
+    "s": "ebay.ph",
+    "t": "eph",
+    "u": "http://shop.ebay.ph/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "www.epicgames.com",
+    "s": "Epic Games",
+    "t": "epic",
+    "u": "https://www.epicgames.com/bing-search?keyword={{{s}}}"
+  },
+  {
+    "d": "galaxy.epic.com",
+    "s": "Epic UserWeb",
+    "t": "epicg",
+    "u": "https://galaxy.epic.com/?#Search/version=8200&searchWord={{{s}}}&lastUpdate="
+  },
+  {
+    "d": "wiki.epicmafia.com",
+    "s": "Epic Mafia Wiki",
+    "t": "epicmafia",
+    "u": "http://wiki.epicmafia.com/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.epicurious.com",
+    "s": "Epicurious",
+    "t": "epicurious",
+    "u": "http://www.epicurious.com/tools/searchresults?search={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "shop.ebay.pl",
+    "s": "ebay.pl",
+    "t": "epl",
+    "u": "http://shop.ebay.pl/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "ccs.polarislibrary.com",
+    "s": "Evanston Public Library",
+    "t": "eplibrary",
+    "u": "http://ccs.polarislibrary.com/polaris/search/searchresults.aspx?ctx=19.1033.0.0.2&type=Keyword&term={{{s}}}&by=KW&sort=PD&limit=TOM=*&query=&page=0&searchid=1"
+  },
+  {
+    "d": "europepmc.org",
+    "s": "European Pubmed Central",
+    "t": "epmc",
+    "u": "http://europepmc.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.unixtimeconverter.io",
+    "s": "Unix Time converter",
+    "t": "epoch",
+    "u": "https://www.unixtimeconverter.io//{{{s}}}"
+  },
+  {
+    "d": "register.epo.org",
+    "s": "European Patent Register",
+    "t": "eporeg",
+    "u": "https://register.epo.org/smartSearch?searchMode=smart&query={{{s}}}"
+  },
+  {
+    "d": "elpasopl.ent.sirsi.net",
+    "s": "El Paso Public Library",
+    "t": "eppl",
+    "u": "https://elpasopl.ent.sirsi.net/client/en_US/default/search/results?ln=en_US&q={{{s}}}"
+  },
+  {
+    "d": "www.eprice.it",
+    "s": "ePrice",
+    "t": "epriceit",
+    "u": "http://www.eprice.it/search/qs={{{s}}}&mets={{{s}}}"
+  },
+  {
+    "d": "spatialreference.org",
+    "s": "Spatial Reference",
+    "t": "epsg",
+    "u": "http://spatialreference.org/ref/?search=epsg:{{{s}}}"
+  },
+  {
+    "d": "www.episodeworld.com",
+    "s": "Episode World",
+    "t": "epw",
+    "u": "http://www.episodeworld.com/search/?searchitem={{{s}}}"
+  },
+  {
+    "d": "www.epw.in",
+    "s": "Economic Political Weekly",
+    "t": "epwin",
+    "u": "http://www.epw.in/search/site/{{{s}}}"
+  },
+  {
+    "d": "eq2.wikia.com",
+    "s": "EQ2i",
+    "t": "eq2",
+    "u": "http://eq2.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Equestria Daily",
+    "t": "eqd",
+    "u": "http://www.google.com/cse?cx=partner-pub-6285692791338183%3A7732117278&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "eqresource.com",
+    "s": "EQ Resource",
+    "t": "eqr",
+    "u": "http://eqresource.com/search.php?cx=partner-pub-8686271290388928%3Atjkxdymxk9a&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "equaldex.com",
+    "s": "Equaldex",
+    "t": "equaldex",
+    "u": "http://equaldex.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Equestria Daily",
+    "t": "equestriadaily",
+    "u": "http://duckduckgo.com/?q=site:equestriadaily.com+{{{s}}}"
+  },
+  {
+    "d": "equipboard.com",
+    "s": "Equipboard",
+    "t": "equipboard",
+    "u": "http://equipboard.com/search?search_term={{{s}}}"
+  },
+  {
+    "d": "packages.sabayon.org",
+    "s": "Sabayon Entropy Packages",
+    "t": "equo",
+    "u": "https://packages.sabayon.org/quicksearch?q={{{s}}}"
+  },
+  {
+    "d": "www.erowid.org",
+    "s": "Erowid",
+    "t": "er",
+    "u": "https://www.erowid.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.erf.de",
+    "s": "ERF",
+    "t": "erf",
+    "u": "http://www.erf.de/?node=1097&page=1&NAV_CatSelect=0&NAV_MetaSuchtext={{{s}}}"
+  },
+  {
+    "d": "eric.ed.gov",
+    "s": "Education Resources Information Center",
+    "t": "eric",
+    "u": "https://eric.ed.gov/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Erlang Docs",
+    "t": "erlang",
+    "u": "https://duckduckgo.com/?q=site%3Aerlang.org+{{{s}}}"
+  },
+  {
+    "d": "erlang.org",
+    "s": "Erlang Docs",
+    "t": "erl",
+    "u": "http://erlang.org/doc/search/?q={{{s}}}"
+  },
+  {
+    "d": "erlang.org",
+    "s": "Erlang Module Documentation",
+    "t": "erlm",
+    "u": "http://erlang.org/doc/man/{{{s}}}.html"
+  },
+  {
+    "d": "www.erowid.org",
+    "s": "Erowid Experience Reports",
+    "t": "eroexp",
+    "u": "https://www.erowid.org/experiences/exp.cgi?S1=0&S2=-1&C1=-1&Str={{{s}}}"
+  },
+  {
+    "d": "www.erowid.org",
+    "s": "Erowid",
+    "t": "erowid",
+    "u": "http://www.erowid.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.daserste.de",
+    "s": "Das Erste",
+    "t": "erste",
+    "u": "https://www.daserste.de/search/index.jsp?searchText={{{s}}}"
+  },
+  {
+    "d": "www.ethnicsmart.com",
+    "s": "Ethnic Smart Wholesale",
+    "t": "es1",
+    "u": "https://www.ethnicsmart.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "rsagames.com",
+    "s": "RSA Games",
+    "t": "escape",
+    "u": "http://rsagames.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference Definicion",
+    "t": "esdef",
+    "u": "http://www.wordreference.com/definicion/{{{s}}}"
+  },
+  {
+    "d": "translate.google.de",
+    "s": "Google Translate es - de",
+    "t": "esde",
+    "u": "https://translate.google.de/#view=home&op=translate&sl=es&tl=de&text={{{s}}}"
+  },
+  {
+    "d": "doc.esdoc.org",
+    "s": "ESDoc",
+    "t": "esdoc",
+    "u": "https://doc.esdoc.org/-/search.html?keyword={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "duckduckgo",
+    "t": "es",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about"
+  },
+  {
+    "d": "play.esea.net",
+    "s": "ESEA",
+    "t": "esea",
+    "u": "http://play.esea.net/index.php?s=search&query={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate es-en",
+    "t": "esen",
+    "u": "http://translate.google.com/#es/en/{{{s}}}"
+  },
+  {
+    "d": "support.eset.com",
+    "s": "ESET Knownledge Base",
+    "t": "eset",
+    "u": "http://support.eset.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate es-fr",
+    "t": "esfr",
+    "u": "http://translate.google.com/#es/fr/{{{s}}}"
+  },
+  {
+    "d": "shop.ebay.com.sg",
+    "s": "ebay.com.sg",
+    "t": "esg",
+    "u": "http://shop.ebay.com.sg/?_nkw={{{s}}}&_sacat=See-All-Categories"
+  },
+  {
+    "d": "explainshell.com",
+    "s": "explainshell",
+    "t": "eshell",
+    "u": "https://explainshell.com/explain?cmd={{{s}}}"
+  },
+  {
+    "d": "explainshell.com",
+    "s": "explainshell.com",
+    "t": "esh",
+    "u": "http://explainshell.com/explain?cmd={{{s}}}"
+  },
+  {
+    "d": "www.nintendo.co.uk",
+    "s": "Nintendo eShop UK",
+    "t": "eshopuk",
+    "u": "https://www.nintendo.co.uk/Search/Search-299117.html?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.hu",
+    "s": "Google Translate es-hu",
+    "t": "eshu",
+    "u": "https://translate.google.hu/#es/hu/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google translate es-it",
+    "t": "esit",
+    "u": "http://translate.google.com/#es/it/{{{s}}}"
+  },
+  {
+    "d": "www.electric-skateboard.builders",
+    "s": "Electric Skateboard Builders Forum",
+    "t": "esk8",
+    "u": "https://www.electric-skateboard.builders/search?q={{{s}}}"
+  },
+  {
+    "d": "lexicoon.org",
+    "s": "Lexicon (Es)",
+    "t": "eslexicon",
+    "u": "http://lexicoon.org/es/{{{s}}}"
+  },
+  {
+    "d": "eslint.org",
+    "s": "ESLint",
+    "t": "eslint",
+    "u": "http://eslint.org/docs/rules/{{{s}}}"
+  },
+  {
+    "d": "esolangs.org",
+    "s": "Esolangs",
+    "t": "eso",
+    "u": "http://esolangs.org/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "esolangs.org",
+    "s": "Esolang",
+    "t": "esolang",
+    "u": "http://esolangs.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "esotalk.net",
+    "s": "esoForum",
+    "t": "esotalk",
+    "u": "https://esotalk.net/#search:{{{s}}}"
+  },
+  {
+    "d": "worldwide.espacenet.com",
+    "s": "Espacenet",
+    "t": "espacenet",
+    "u": "https://worldwide.espacenet.com/searchResults?ST=singleline&query={{{s}}}&Submit=Search"
+  },
+  {
+    "d": "cod.esportspedia.com",
+    "s": "COD Esportspedia",
+    "t": "espcod",
+    "u": "http://cod.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "halo.esportspedia.com",
+    "s": "Halo Esportspedia",
+    "t": "esphalo",
+    "u": "http://halo.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "lol.esportspedia.com",
+    "s": "LoL Esportspedia",
+    "t": "esplol",
+    "u": "http://lol.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.espn.com",
+    "s": "ESPN.com",
+    "t": "espn",
+    "u": "http://www.espn.com/search/results?q={{{s}}}"
+  },
+  {
+    "d": "smite.esportspedia.com",
+    "s": "SMITE Esportspedia",
+    "t": "espsmite",
+    "u": "http://smite.esportspedia.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate Spanish-Portuguese",
+    "t": "espt",
+    "u": "https://translate.google.com/#es/pt/{{{s}}}"
+  },
+  {
+    "d": "www.esrb.org",
+    "s": "Entertainment Software Rating Board",
+    "t": "esrb",
+    "u": "http://www.esrb.org/ratings/search.jsp?titleOrPublisher={{{s}}}"
+  },
+  {
+    "d": "physics.stackexchange.com",
+    "s": "Earth Science Stack Exchange",
+    "t": "esse",
+    "u": "https://physics.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.essef.be",
+    "s": "ESSEF (fr)",
+    "t": "esseffr",
+    "u": "http://www.essef.be/fr/cataloog/index.search.asp?zoek={{{s}}} "
+  },
+  {
+    "d": "www.essef.be",
+    "s": "ESSEF (nl)",
+    "t": "essefn",
+    "u": "http://www.essef.be/ndl/cataloog/index.search.asp?zoek={{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Word Reference Sinonimos",
+    "t": "essin",
+    "u": "http://www.wordreference.com/sinonimos/{{{s}}}"
+  },
+  {
+    "d": "busca.estadao.com.br",
+    "s": "O Estado de S. Paulo",
+    "t": "estadao",
+    "u": "https://busca.estadao.com.br/?q={{{s}}}"
+  },
+  {
+    "d": "www.estantevirtual.com.br",
+    "s": "Estante Virtual",
+    "t": "estantevirtual",
+    "u": "https://www.estantevirtual.com.br/busca?utf8=✓&type=q&new=&q={{{s}}}"
+  },
+  {
+    "d": "emacs.stackexchange.com",
+    "s": "Emacs Stack Exchange",
+    "t": "est",
+    "u": "http://emacs.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "estraviz.org",
+    "s": "Estraviz",
+    "t": "estraviz",
+    "u": "https://estraviz.org/{{{s}}}"
+  },
+  {
+    "d": "www.esvbible.org",
+    "s": "ESV Bible",
+    "t": "esv",
+    "u": "http://www.esvbible.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.esvonline.org",
+    "s": "ESVonline",
+    "t": "esvonline",
+    "u": "http://www.esvonline.org/search/{{{s}}}/"
+  },
+  {
+    "d": "www.etbm.ro",
+    "s": "etbm.ro",
+    "t": "etbm.ro",
+    "u": "http://www.etbm.ro/search?Q={{{s}}} "
+  },
+  {
+    "d": "www.etcconnect.com",
+    "s": "Electronic Theatre Controls",
+    "t": "etc",
+    "u": "https://www.etcconnect.com/Search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "de.excel-translator.de",
+    "s": "Excel Translator [DE]",
+    "t": "etde",
+    "u": "https://de.excel-translator.de/{{{s}}}/"
+  },
+  {
+    "d": "www.eltiempo.es",
+    "s": "El Tiempo",
+    "t": "et",
+    "u": "http://www.eltiempo.es/buscar?q={{{s}}}"
+  },
+  {
+    "d": "en.excel-translator.de",
+    "s": "Excel Translator [EN]",
+    "t": "eten",
+    "u": "https://en.excel-translator.de/{{{s}}}/"
+  },
+  {
+    "d": "eternalwarcry.com",
+    "s": "Eternal Warcry",
+    "t": "eternalwarcry",
+    "u": "https://eternalwarcry.com/cards?Query={{{s}}}"
+  },
+  {
+    "d": "eternity.youfailit.net",
+    "s": "Eternity Engine Wiki",
+    "t": "eternity",
+    "u": "http://eternity.youfailit.net/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "etf2l.org",
+    "s": "ETF2L",
+    "t": "etf2l",
+    "u": "http://etf2l.org/search/{{{s}}}/"
+  },
+  {
+    "d": "enterthegungeon.gamepedia.com",
+    "s": "Enter the Gungeon Wiki",
+    "t": "etg",
+    "u": "http://enterthegungeon.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "etherscan.io",
+    "s": "etherscan",
+    "t": "etherscan",
+    "u": "https://etherscan.io/search?q={{{s}}}"
+  },
+  {
+    "d": "etherscan.io",
+    "s": "EtherScan",
+    "t": "eth",
+    "u": "http://etherscan.io/search?q={{{s}}}"
+  },
+  {
+    "d": "search.library.ethz.ch",
+    "s": "ETH Library",
+    "t": "ethl",
+    "u": "https://search.library.ethz.ch/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=DADS&lang=en_US&offset=0"
+  },
+  {
+    "d": "www.ethnologue.com",
+    "s": "Ethnologue",
+    "t": "ethnologue",
+    "u": "http://www.ethnologue.com/search?keys={{{s}}}"
+  },
+  {
+    "d": "ethicalrevolution.co.uk",
+    "s": "Ethical Revolution",
+    "t": "ethrev",
+    "u": "https://ethicalrevolution.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "www.ethz.ch",
+    "s": "Seminar for statistics",
+    "t": "ethz",
+    "u": "https://www.ethz.ch/en/utils/search.html?search={{{s}}}"
+  },
+  {
+    "d": "etimo.it",
+    "s": "Dizionario Etimologico",
+    "t": "etimo",
+    "u": "http://etimo.it/?term={{{s}}}"
+  },
+  {
+    "d": "etnet.com.hk",
+    "s": "ETNet 經濟通",
+    "t": "etnet",
+    "u": "http://etnet.com.hk/?q={{{s}}}"
+  },
+  {
+    "d": "www.etools.ch",
+    "s": "eTools",
+    "t": "etools",
+    "u": "https://www.etools.ch/searchSubmit.do?query={{{s}}}"
+  },
+  {
+    "d": "www.tritrans.net",
+    "s": "TriTrans",
+    "t": "etrans",
+    "u": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}"
+  },
+  {
+    "d": "archive.org",
+    "s": "Live Music Archive",
+    "t": "etree",
+    "u": "http://archive.org/search.php?query={{{s}}}%20AND%20collection%3Aetree"
+  },
+  {
+    "d": "www.etsy.com",
+    "s": "Etsy",
+    "t": "etsy",
+    "u": "https://www.etsy.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.eattheweeds.com",
+    "s": "Eat The Weeds",
+    "t": "etw",
+    "u": "http://www.eattheweeds.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.etymonline.com",
+    "s": "https://www.etymonline.com",
+    "t": "etym",
+    "u": "https://www.etymonline.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.etymonline.com",
+    "s": "EtymOnline.com",
+    "t": "etymology",
+    "u": "http://www.etymonline.com/index.php?search={{{s}}}&searchmode=none"
+  },
+  {
+    "d": "www.etymonline.com",
+    "s": "Etymonline",
+    "t": "etymonline",
+    "u": "http://www.etymonline.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.etymonline.com",
+    "s": "Online Etymology Dictionary",
+    "t": "etymo",
+    "u": "http://www.etymonline.com/index.php?term={{{s}}}"
+  },
+  {
+    "d": "etymologiebank.nl",
+    "s": "Etymologiebank",
+    "t": "etynl",
+    "u": "http://etymologiebank.nl/trefwoord/{{{s}}}"
+  },
+  {
+    "d": "www.etymonline.com",
+    "s": "Online Etymology Dictionary",
+    "t": "ety",
+    "u": "http://www.etymonline.com/index.php?allowed_in_frame=0&search={{{s}}}&searchmode=none"
+  },
+  {
+    "d": "www.eu3wiki.com",
+    "s": "Europa Universalis III Wiki",
+    "t": "eu3",
+    "u": "http://www.eu3wiki.com/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "eu4.paradoxwikis.com",
+    "s": "EU4 Wiki",
+    "t": "eu4",
+    "u": "https://eu4.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "eu4.paradoxwikis.com",
+    "s": "Europa Universalis IV Wiki",
+    "t": "eu4wiki",
+    "u": "https://eu4.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "europa.eu",
+    "s": "European Union",
+    "t": "eu",
+    "u": "https://europa.eu/search/?QueryText={{{s}}}"
+  },
+  {
+    "d": "www.ebay.co.uk",
+    "s": "ebay.co.uk",
+    "t": "euk",
+    "u": "https://www.ebay.co.uk/sch/items/?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.ebay.co.uk",
+    "s": "Ebay UK",
+    "t": "e.uk",
+    "u": "http://www.ebay.co.uk/sch/i.html?_nkw={{{s}}}"
+  },
+  {
+    "d": "www.eukeries.com",
+    "s": "eukeries",
+    "t": "eukeries",
+    "u": "https://www.eukeries.com/?s={{{s}}}"
+  },
+  {
+    "d": "edinboro.edu",
+    "s": "Edinboro University of Pennsylvania",
+    "t": "eup",
+    "u": "http://edinboro.edu/search/search.html?keyword={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "eur2brl",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=EUR&To=BRL"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE",
+    "t": "eur2cny",
+    "u": "https://www.xe.com/currencyconverter/convert/?From=EUR&To=CNY&Amount={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "Xe.com",
+    "t": "eur2usd",
+    "u": "http://www.xe.com/currencyconverter/convert/?From=EUR&To=USD&Amount={{{s}}}"
+  },
+  {
+    "d": "eur-lex.europa.eu",
+    "s": "EUR-Lex",
+    "t": "eurlex",
+    "u": "http://eur-lex.europa.eu/search.html?text={{{s}}}&scope=EURLEX&type=quick"
+  },
+  {
+    "d": "www.eurobuch.com",
+    "s": "Eurobuch",
+    "t": "eurobuch",
+    "u": "http://www.eurobuch.com/buch/isbn/3838758854.html?author=&coverState=&doAbeDe=1&doAchtungBuecher=1&doAko=1&doAlibris=1&doAmazon=1&doAmazonCa=1&doAmazonCom=1&doAmazonEs=1&doAmazonFr=1&doAmazonIt=1&doAmazonUk=1&doAudibile=1&doAudiobooks=1&doAum=1&doBUCH=1&doBUCHCH=1&doBbBuch=1&doBetterworld=1&doBiblio=1&doBlackwell=1&doBn=1&doBoeken=1&doBolCom=1&doBookdepository=1&doBooklooker=1&doBruna=1&doBuch24=1&doBuchfreund=1&doBuchmarie=1&doBuecherDe=1&doCasaDelLibro=1&doCiando=1&doEBS=1&doEBay=1&doEBooknl=1&doEbooks=1&doEbookscom=1&doEci=1&doElsevier=1&doFnac=1&doFoyles=1&doGoogle=1&doHive=1&doHoepli=1&doIbs=1&doImosver=1&doIndigo=1&doJokers=1&doKobo=1&doLaFeltrinelli=1&doLehmanns=1&doLibri=1&doLibriEB=1&doLibroco=1&doLuisterboeken=1&doMedimops=1&doMondadori=1&doMusicroom=1&doNotenbuch=1&doOnderwijsboek=1&doProlibri=1&doProxis=1&doRegalfrei=1&doRheinberg=1&doScholastic=1&doStudystore=1&doThaliaAt=1&doThaliaCh=1&doThaliaDe=1&doThriftbooks=1&doVoordeelboekenonline=1&doWaterstones=1&doWebster=1&doZVAB=1&fromDateDays=7&isbn=&land=&maxJahr=&maxPrice=&mediatype=0&minJahr=&minPrice=&noBids=0&noReprint=0&pageLen=20&proSearch=&professionalState=&publisher=&search={{{s}}}&search_submit=suchen&sisbn=&title=&updatePresets=1&updateProState=1&usedState="
+  },
+  {
+    "d": "www.eurogamer.net",
+    "s": "Eurogamer.net",
+    "t": "eurogamer",
+    "u": "http://www.eurogamer.net/search.php?q={{{s}}}"
+  },
+  {
+    "d": "euro-industry.com",
+    "s": "Euro Industry",
+    "t": "euro-industry",
+    "u": "https://euro-industry.com/main.php?index=search&search={{{s}}}"
+  },
+  {
+    "d": "www.euronews.com",
+    "s": "Euronews English",
+    "t": "euronewsen",
+    "u": "http://www.euronews.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.euronics.de",
+    "s": "Euronics",
+    "t": "euronics",
+    "u": "https://www.euronics.de/search/?sSearch={{{s}}}&log=search"
+  },
+  {
+    "d": "www.europarl.europa.eu",
+    "s": "European Parliament",
+    "t": "europarl",
+    "u": "http://www.europarl.europa.eu/portal/en/search?q={{{s}}}"
+  },
+  {
+    "d": "europeana.eu",
+    "s": "Europeana.eu",
+    "t": "europeana",
+    "u": "http://europeana.eu/portal/search.html?query={{{s}}}"
+  },
+  {
+    "d": "europepmc.org",
+    "s": "Europe PMC",
+    "t": "europepmc",
+    "u": "http://europepmc.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.essen-und-trinken.de",
+    "s": "Essen und Trinken",
+    "t": "eut",
+    "u": "https://www.essen-und-trinken.de/suche#site=eut&category=Rezept&query={{{s}}}&page=1&sorting=relevance"
+  },
+  {
+    "d": "euw.op.gg",
+    "s": "op.gg",
+    "t": "euw.op",
+    "u": "http://euw.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "eva.fing.edu.uy",
+    "s": "EVA Fing",
+    "t": "evafing",
+    "u": "https://eva.fing.edu.uy/course/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.evanscycles.com",
+    "s": "Evans Cycles",
+    "t": "evans",
+    "u": "http://www.evanscycles.com/search?query={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "wiki.evageeks.org",
+    "s": "evageeks wiki",
+    "t": "evawk",
+    "u": "https://wiki.evageeks.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "eve-central.com",
+    "s": "Eve-Central",
+    "t": "evecentral",
+    "u": "https://eve-central.com/home/typesearch.html?search={{{s}}}"
+  },
+  {
+    "d": "eve-central.com",
+    "s": "EVE-Central",
+    "t": "evec",
+    "u": "http://eve-central.com/home/typesearch.html?search={{{s}}}"
+  },
+  {
+    "d": "wiki.eveonline.com",
+    "s": "Eve Online",
+    "t": "eve",
+    "u": "http://wiki.eveonline.com/en/wiki/Special:Search/{{{s}}} "
+  },
+  {
+    "d": "cse.google.com",
+    "s": "Electrek",
+    "t": "ev",
+    "u": "https://cse.google.com/cse?cx=008464549922976904202:3wy4ipwvlno&q={{{s}}}&oq={{{s}}}&gs_l=partner-generic.3...27208.27522.3.27758.3.3.0.0.0.0.67.174.3.3.0.gsnos%2Cn%3D13...0.1844j1376214j6j1...1.34.partner-generic..3.2.102.qiNHoIwD47w"
+  },
+  {
+    "d": "eve-marketdata.com",
+    "s": "EVE Marketdata",
+    "t": "evemarket",
+    "u": "https://eve-marketdata.com/price_check.php?type_name_header={{{s}}}"
+  },
+  {
+    "d": "www.standard.co.uk",
+    "s": "London Evening Standard",
+    "t": "eveningstandard",
+    "u": "http://www.standard.co.uk/search/site/{{{s}}} "
+  },
+  {
+    "d": "eventful.com",
+    "s": "Eventful",
+    "t": "eventful",
+    "u": "http://eventful.com/events?ga_type=events&ga_search={{{s}}}&q={{{s}}}"
+  },
+  {
+    "d": "eventid.net",
+    "s": "EventID",
+    "t": "eventid",
+    "u": "http://eventid.net/display.asp?eventid={{{s}}}&source="
+  },
+  {
+    "d": "www.eventim.de",
+    "s": "Eventim",
+    "t": "eventim",
+    "u": "http://www.eventim.de/Tickets.html?affiliate=TUG&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff={{{s}}}&btn=true&x10=4"
+  },
+  {
+    "d": "everipedia.org",
+    "s": "Everipedia",
+    "t": "ever",
+    "u": "https://everipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "everipedia.org",
+    "s": "Everipedia",
+    "t": "everi",
+    "u": "https://everipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "everipedia.org",
+    "s": "Everipedia",
+    "t": "everipedia",
+    "u": "https://everipedia.org/wiki/{{{s}}}/"
+  },
+  {
+    "d": "www.evernote.com",
+    "s": "Evernote",
+    "t": "evernote",
+    "u": "https://www.evernote.com/Home.action#x={{{s}}}"
+  },
+  {
+    "d": "www.everyclick.com",
+    "s": "Every Click",
+    "t": "everyclick",
+    "u": "http://www.everyclick.com/search?keyword={{{s}}}&filterType=&sortType=&searchArea=web&sbtn="
+  },
+  {
+    "d": "www.everyeye.it",
+    "s": "Everyeye",
+    "t": "everyeye",
+    "u": "http://www.everyeye.it/ricerca/?q={{{s}}}"
+  },
+  {
+    "d": "www.everymac.com",
+    "s": "EveryMac.com",
+    "t": "everymac",
+    "u": "http://www.everymac.com/ultimate-mac-lookup/?search_keywords={{{s}}}"
+  },
+  {
+    "d": "eve-search.com",
+    "s": "EVE Search",
+    "t": "evesearch",
+    "u": "http://eve-search.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.evesta.jp",
+    "s": "EVESTA KASHI KENSAKU",
+    "t": "evesta",
+    "u": "http://www.evesta.jp/lyric/search2.php?ct=1&go=%E6%A4%9C%E7%B4%A2&a=&ca=0&l=&cl=0&k=&t={{{s}}} "
+  },
+  {
+    "d": "wiki.eveuniversity.org",
+    "s": "EVE University Wiki",
+    "t": "eveu",
+    "u": "http://wiki.eveuniversity.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "wiki.eveuniversity.org",
+    "s": "Eve University Wiki",
+    "t": "eveuni",
+    "u": "http://wiki.eveuniversity.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.e-ville.com",
+    "s": "e-ville.com",
+    "t": "evillecom",
+    "u": "http://www.e-ville.com/fi/q/{{{s}}}"
+  },
+  {
+    "d": "www.eviq.org.au",
+    "s": "eviQ",
+    "t": "eviq",
+    "u": "https://www.eviq.org.au/search?searchtext={{{s}}}"
+  },
+  {
+    "d": "www.estantevirtual.com.br",
+    "s": "Estante Virtual (by author and/or title)",
+    "t": "evirtat",
+    "u": "http://www.estantevirtual.com.br/q/{{{s}}}"
+  },
+  {
+    "d": "www.estantevirtual.com.br",
+    "s": "Estante Virtual (by author)",
+    "t": "evirtau",
+    "u": "http://www.estantevirtual.com.br/qau/{{{s}}}"
+  },
+  {
+    "d": "www.estantevirtual.com.br",
+    "s": "Estante Virtual (description)",
+    "t": "evirtdes",
+    "u": "http://www.estantevirtual.com.br/qdes/{{{s}}}"
+  },
+  {
+    "d": "www.estantevirtual.com.br",
+    "s": "Estante Virtual (by publisher)",
+    "t": "evirted",
+    "u": "http://www.estantevirtual.com.br/qed/{{{s}}}"
+  },
+  {
+    "d": "www.estantevirtual.com.br",
+    "s": "Estante Virtual (all)",
+    "t": "evirt",
+    "u": "http://www.estantevirtual.com.br/qt/{{{s}}}"
+  },
+  {
+    "d": "www.estantevirtual.com.br",
+    "s": "Estante Virtual (by title)",
+    "t": "evirttit",
+    "u": "http://www.estantevirtual.com.br/qtit/{{{s}}}"
+  },
+  {
+    "d": "www.eauxvives.org",
+    "s": "Eauxvives",
+    "t": "evo",
+    "u": "http://www.eauxvives.org/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.evrenbilim.com",
+    "s": "Evren Bilim",
+    "t": "evren",
+    "u": "https://www.evrenbilim.com/?s={{{s}}}"
+  },
+  {
+    "d": "evreward.com",
+    "s": "Evreward",
+    "t": "evreward",
+    "u": "http://evreward.com/store/find?store[name]={{{s}}}"
+  },
+  {
+    "d": "eki.ee",
+    "s": "Eesti-vene",
+    "t": "evs",
+    "u": "http://eki.ee/dict/evs/index.cgi?Q={{{s}}}"
+  },
+  {
+    "d": "eternalwarcry.com",
+    "s": "Eternal Warcry: Cards",
+    "t": "ewc",
+    "u": "https://eternalwarcry.com/cards?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Entertainment Weekly",
+    "t": "ew",
+    "u": "https://duckduckgo.com/?q=site%3Aew.com+{{{s}}}"
+  },
+  {
+    "d": "e-words.jp",
+    "s": "IT用語辞典 e-Words",
+    "t": "e-words",
+    "u": "http://e-words.jp/?cx=partner-pub-1175263777233757%3Axelkt7-c6j8&cof=FORID%3A10&ie=Shift_JIS&q={{{s}}}&sa=%88%EA%92v%82%B7%82%E9%97p%8C%EA%82%F0%95%5C%8E%A6&siteurl=e-words.jp%2F&ref=e-words.jp%2Fw%2FE382B9E3839AE383BCE382B9.html&ss=1193j290715j7"
+  },
+  {
+    "d": "www.exasoft.cz",
+    "s": "ExaSoft",
+    "t": "exa",
+    "u": "https://www.exasoft.cz/default.asp?cls=stoitems&stifulltext_search=and&fulltext={{{s}}}"
+  },
+  {
+    "d": "www.exalead.com",
+    "s": "Exalead",
+    "t": "exalead",
+    "u": "http://www.exalead.com/search/web/results/?q={{{s}}}"
+  },
+  {
+    "d": "www.3ds.com",
+    "s": "exaled",
+    "t": "exaled",
+    "u": "http://www.3ds.com/search/?q={{{s}}} "
+  },
+  {
+    "d": "examine.com",
+    "s": "Examine",
+    "t": "examine",
+    "u": "http://examine.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.ex-astris-scientia.org",
+    "s": "Ex Astris Scientia",
+    "t": "exastris",
+    "u": "http://www.ex-astris-scientia.org/search/search.cgi?Terms={{{s}}}:"
+  },
+  {
+    "d": "www.exclusiveclue.com",
+    "s": "Exclusiveclue",
+    "t": "exc",
+    "u": "http://www.exclusiveclue.com/?term={{{s}}}"
+  },
+  {
+    "d": "examine.com",
+    "s": "examine.com",
+    "t": "ex",
+    "u": "https://examine.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.experts-exchange.com",
+    "s": "Experts Exchange",
+    "t": "exex",
+    "u": "http://www.experts-exchange.com/searchResults.jsp?searchTerms={{{s}}}&searchType=10"
+  },
+  {
+    "d": "exist.ua",
+    "s": "Exist.ua",
+    "t": "existgo",
+    "u": "https://exist.ua/price.aspx?pcode={{{s}}}&sortType="
+  },
+  {
+    "d": "msxml.excite.com",
+    "s": "Excite",
+    "t": "exite",
+    "u": "http://msxml.excite.com/search/web?q={{{s}}} "
+  },
+  {
+    "d": "www.explainxkcd.com",
+    "s": "Explain xkcd",
+    "t": "exkcd",
+    "u": "http://www.explainxkcd.com/wiki/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "www.exlibris.ch",
+    "s": "exlibris.ch",
+    "t": "exlibris",
+    "u": "https://www.exlibris.ch/de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.expressmojo.com",
+    "s": "Expressmojo",
+    "t": "exmojo",
+    "u": "https://www.expressmojo.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "reports.exodus-privacy.eu.org",
+    "s": "εxodus Privacy",
+    "t": "exodus",
+    "u": "https://reports.exodus-privacy.eu.org/reports/search/{{{s}}}"
+  },
+  {
+    "d": "search.expedia.com",
+    "s": "Expedia",
+    "t": "expedia",
+    "u": "http://search.expedia.com/socialsearch/query?st=1&cn=expedia&cc=www&q={{{s}}}"
+  },
+  {
+    "d": "www.expert.nl",
+    "s": "Expert",
+    "t": "expert",
+    "u": "https://www.expert.nl/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.expireddomains.net",
+    "s": "Expired Domains",
+    "t": "expired",
+    "u": "https://www.expireddomains.net/domain-name-search/?searchinit=1&q={{{s}}} "
+  },
+  {
+    "d": "irfantoor.com",
+    "s": "IrfanTOOR Exploits",
+    "t": "exp",
+    "u": "http://irfantoor.com/exploits?s={{{s}}}"
+  },
+  {
+    "d": "explainshell.com",
+    "s": "ExplainShell",
+    "t": "explainshell",
+    "u": "http://explainshell.com/explain?cmd={{{s}}}"
+  },
+  {
+    "d": "www.explainxkcd.com",
+    "s": "explain xkcd",
+    "t": "explainxkcd",
+    "u": "http://www.explainxkcd.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.explara.com",
+    "s": "Explara",
+    "t": "explara",
+    "u": "https://www.explara.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.exploit-db.com",
+    "s": "exploit-db",
+    "t": "exploitdb",
+    "u": "https://www.exploit-db.com/search?q={{{s}}}"
+  },
+  {
+    "d": "explorecourses.stanford.edu",
+    "s": "Explore Courses",
+    "t": "explorecourses",
+    "u": "http://explorecourses.stanford.edu/search?q={{{s}}}"
+  },
+  {
+    "d": "docs.expo.io",
+    "s": "Expo Documentation",
+    "t": "expo",
+    "u": "https://docs.expo.io/versions/latest/sdk/{{{s}}}"
+  },
+  {
+    "d": "www.weltexporte.de",
+    "s": "Weltexporte",
+    "t": "export",
+    "u": "https://www.weltexporte.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.expressio.fr",
+    "s": "Expressio Français",
+    "t": "expressio",
+    "u": "http://www.expressio.fr/search.php?q={{{s}}}&lang="
+  },
+  {
+    "d": "www.explainxkcd.com",
+    "s": "Explain xkcd",
+    "t": "expxkcd",
+    "u": "http://www.explainxkcd.com/wiki/index.php?search={{{s}}}&go=Go&title=Special%3ASearch"
+  },
+  {
+    "d": "filext.com",
+    "s": "FILExt",
+    "t": "ext",
+    "u": "http://filext.com/file-extension/{{{s}}}"
+  },
+  {
+    "d": "www.extrastores.com",
+    "s": "Extra Saudi Arabia",
+    "t": "extra",
+    "u": "http://www.extrastores.com/en-sa/search?q={{{s}}}"
+  },
+  {
+    "d": "www.eatyourbooks.com",
+    "s": "Eat Your Books",
+    "t": "eyb",
+    "u": "https://www.eatyourbooks.com/bookshelf?q={{{s}}}"
+  },
+  {
+    "d": "www.eyeem.com",
+    "s": "EyeEm",
+    "t": "eyeem",
+    "u": "https://www.eyeem.com/search?q={{{s}}}&sort=relevance"
+  },
+  {
+    "d": "ezinearticles.com",
+    "s": "Ezinearticles.com",
+    "t": "ezine",
+    "u": "http://ezinearticles.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "docops.ca.com",
+    "s": "Easytrieve Document",
+    "t": "ezt",
+    "u": "https://docops.ca.com/ca-easytrieve/11-6/en/search?q={{{s}}}&max=10&key=CAET116"
+  },
+  {
+    "d": "www.ezydvd.com.au",
+    "s": "EzyDVD",
+    "t": "ezydvd",
+    "u": "http://www.ezydvd.com.au/search?q={{{s}}}&t=all"
+  }
+]

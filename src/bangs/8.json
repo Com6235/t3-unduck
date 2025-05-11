@@ -1,0 +1,50 @@
+[
+  {
+    "d": "800notes.com",
+    "s": "800notes.com",
+    "t": "800",
+    "u": "http://800notes.com/Phone.aspx/{{{s}}}"
+  },
+  {
+    "d": "8020.net",
+    "s": "80/20",
+    "t": "8020",
+    "u": "https://8020.net/freetextsearch/search/result/?keyword={{{s}}}"
+  },
+  {
+    "d": "80000hours.org",
+    "s": "80,000 hours",
+    "t": "80k",
+    "u": "https://80000hours.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.lightfm.com.au",
+    "s": "89.9 LightFM",
+    "t": "89.9",
+    "u": "https://www.lightfm.com.au/?s={{{s}}}"
+  },
+  {
+    "d": "www.8a.nu",
+    "s": "8a.nu",
+    "t": "8a",
+    "u": "https://www.8a.nu/scorecard/Search.aspx?Mode=SIMPLE&AscentType=0&CragName={{{s}}}"
+  },
+  {
+    "d": "8ch.net",
+    "s": "8chan Boards",
+    "t": "8chb",
+    "u": "http://8ch.net/boards.php?title={{{s}}}"
+  },
+  {
+    "d": "8ch.net",
+    "s": "8chan Board Catalogs",
+    "t": "8chc",
+    "u": "http://8ch.net/{{{s}}}/catalog.html"
+  },
+  {
+    "d": "8tracks.com",
+    "s": "8tracks",
+    "t": "8tracks",
+    "u": "http://8tracks.com/explore/all?q={{{s}}}"
+  }
+]

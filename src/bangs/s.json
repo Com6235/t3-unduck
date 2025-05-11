@@ -1,0 +1,6488 @@
+[
+  {
+    "d": "www.semanticscholar.org",
+    "s": "Semantic Scholar",
+    "t": "s2",
+    "u": "https://www.semanticscholar.org/search?q={{{s}}}"
+  },
+  {
+    "d": "slice42.com",
+    "s": "Slice42",
+    "t": "s42",
+    "u": "https://slice42.com/?s={{{s}}}"
+  },
+  {
+    "d": "society6.com",
+    "s": "Society6 (all content)",
+    "t": "s6all",
+    "u": "http://society6.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "society6.com",
+    "s": "Society6",
+    "t": "s6",
+    "u": "http://society6.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "sanctum9.wordpress.com",
+    "s": "Sanctum Nine",
+    "t": "s9",
+    "u": "https://sanctum9.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.saabforum.nl",
+    "s": "Saabforum.nl",
+    "t": "saabforum",
+    "u": "http://www.saabforum.nl/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.jiosaavn.com",
+    "s": "Saavn",
+    "t": "saavn",
+    "u": "https://www.jiosaavn.com/search/{{{s}}}"
+  },
+  {
+    "d": "sabahlatan.com",
+    "s": "Sabahlatan",
+    "t": "sabahlatan",
+    "u": "http://sabahlatan.com/?s={{{s}}}"
+  },
+  {
+    "d": "bugs.sabayon.org",
+    "s": "Sabayon Bugzilla",
+    "t": "sabayonbugs",
+    "u": "https://bugs.sabayon.org/buglist.cgi?bug_status=__all__&content={{{s}}}"
+  },
+  {
+    "d": "forum.sabayon.org",
+    "s": "Sabayon Forums",
+    "t": "sabayonforums",
+    "u": "https://forum.sabayon.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "sabhow.blogspot.com",
+    "s": "Sabhow",
+    "t": "sabhow",
+    "u": "https://sabhow.blogspot.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Skeptic's Annoated Bible",
+    "t": "sab",
+    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com+{{{s}}}&ia=web"
+  },
+  {
+    "d": "www.sackmuehle.de",
+    "s": "Sackmühle",
+    "t": "sack",
+    "u": "https://www.sackmuehle.de/?s=({{{s}}})"
+  },
+  {
+    "d": "www.countrylife.co.za",
+    "s": "SA Country Life",
+    "t": "sacl",
+    "u": "https://www.countrylife.co.za/?s={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.de",
+    "s": "Amazon Smiles (Germany)",
+    "t": "sade",
+    "u": "https://smile.amazon.de/s/?field-keywords={{{s}}}"
+  },
+  {
+    "d": "safari-extensions.apple.com",
+    "s": "Safari Extensions Gallery",
+    "t": "safariext",
+    "u": "https://safari-extensions.apple.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.safaribooksonline.com",
+    "s": "Safari Books Online",
+    "t": "safari",
+    "u": "https://www.safaribooksonline.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "safebooru.org",
+    "s": "Safebooru",
+    "t": "safebooru",
+    "u": "http://safebooru.org/index.php?page=post&s=list&tags={{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "DDG Safesearch On",
+    "t": "safe",
+    "u": "/?q={{{s}}}&kp=1"
+  },
+  {
+    "d": "",
+    "s": "Safe search off",
+    "t": "safeoff",
+    "u": "/?q={{{s}}}&kp=-2"
+  },
+  {
+    "d": "",
+    "s": "DDG Safesearch On",
+    "t": "safeon",
+    "u": "/?q={{{s}}}&kp=1"
+  },
+  {
+    "d": "safeweb.norton.com",
+    "s": "Norton Safe Web",
+    "t": "safeweb",
+    "u": "https://safeweb.norton.com/report/show?url={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "SageMath documentation",
+    "t": "sage",
+    "u": "https://duckduckgo.com/?q=site%3Adoc.sagemath.org+{{{s}}}"
+  },
+  {
+    "d": "www.sahibinden.com",
+    "s": "sahibinden.com",
+    "t": "sahibinden",
+    "u": "http://www.sahibinden.com/kelime-ile-arama?query_text={{{s}}}"
+  },
+  {
+    "d": "saidit.net",
+    "s": "SaidIt",
+    "t": "saidit",
+    "u": "https://saidit.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sailguide.com",
+    "s": "Sailguide",
+    "t": "sailguide",
+    "u": "http://www.sailguide.com/boats?boatname={{{s}}}"
+  },
+  {
+    "d": "www.sainsburys.co.uk",
+    "s": "Sainsbury's",
+    "t": "sainsburys",
+    "u": "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/SearchDisplayView?storeId=10151&searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.saiyasune.com",
+    "s": "最安値.com",
+    "t": "saiyasune",
+    "u": "https://www.saiyasune.com/I1W{{{s}}}.html"
+  },
+  {
+    "d": "www.suomisanakirja.fi",
+    "s": "Suomi Sanakirja",
+    "t": "saki",
+    "u": "http://www.suomisanakirja.fi/{{{s}}}"
+  },
+  {
+    "d": "sakugabooru.com",
+    "s": "Sakugabooru",
+    "t": "sakuga",
+    "u": "https://sakugabooru.com/post?tags={{{s}}}"
+  },
+  {
+    "d": "salamtm.blogspot.com",
+    "s": "Salam",
+    "t": "salam",
+    "u": "https://salamtm.blogspot.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "www.salixos.org",
+    "s": "SalixOS Forums",
+    "t": "salixforums",
+    "u": "http://www.salixos.org/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.salixos.org",
+    "s": "SalixOS",
+    "t": "salix",
+    "u": "http://www.salixos.org/wiki/index.php/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.salon.com",
+    "s": "Salon.com",
+    "t": "salon",
+    "u": "https://www.salon.com/search/{{{s}}}"
+  },
+  {
+    "d": "salsa.debian.org",
+    "s": "Debian Salsa",
+    "t": "salsa",
+    "u": "https://salsa.debian.org/search?search={{{s}}}"
+  },
+  {
+    "d": "www.salidzini.lv",
+    "s": "Salidzini.lv",
+    "t": "sal",
+    "u": "http://www.salidzini.lv/search.php?q={{{s}}}"
+  },
+  {
+    "d": "docs.saltstack.com",
+    "s": "SaltStack Execution Modules",
+    "t": "saltmod",
+    "u": "https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.{{{s}}}.html"
+  },
+  {
+    "d": "cse.google.com",
+    "s": "SaltStack",
+    "t": "salt",
+    "u": "https://cse.google.com/cse?cx=011515552685726825874:ht0p8miksrm&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "SaltStack Documentation",
+    "t": "saltstack",
+    "u": "https://duckduckgo.com/?q=site%3Adocs.saltstack.com+{{{s}}}"
+  },
+  {
+    "d": "docs.saltstack.com",
+    "s": "SaltStack State Modules",
+    "t": "saltstates",
+    "u": "https://docs.saltstack.com/en/latest/ref/states/all/salt.states.{{{s}}}.html"
+  },
+  {
+    "d": "www.saltystock.com",
+    "s": "saltystock",
+    "t": "saltystock",
+    "u": "http://www.saltystock.com/search.pp?keyword={{{s}}}"
+  },
+  {
+    "d": "www.samaritanspurse.org",
+    "s": "Samaritan's Purse",
+    "t": "samaritans",
+    "u": "http://www.samaritanspurse.org/?s={{{s}}}"
+  },
+  {
+    "d": "wiki.samba.org",
+    "s": "Samba Wiki",
+    "t": "samba",
+    "u": "https://wiki.samba.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "smile.amazon.de",
+    "s": "Amazon Smile",
+    "t": "samde",
+    "u": "https://smile.amazon.de/s/?url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.whosampled.com",
+    "s": "whosampled",
+    "t": "sampled",
+    "u": "http://www.whosampled.com/search/artists/?q={{{s}}}"
+  },
+  {
+    "d": "www.samsung.com",
+    "s": "Samsung",
+    "t": "sam",
+    "u": "http://www.samsung.com/au/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.samsclub.com",
+    "s": "Sam's Club",
+    "t": "samsclub",
+    "u": "https://www.samsclub.com/sams/search/searchResults.jsp?searchTerm={{{s}}}&searchCategoryId=all"
+  },
+  {
+    "d": "www.sanakirja.org",
+    "s": "Sanakirja.org",
+    "t": "sanakirja",
+    "u": "http://www.sanakirja.org/search.php?q={{{s}}} "
+  },
+  {
+    "d": "www.sanalpazar.com",
+    "s": "Sanal Pazar",
+    "t": "sanalpazar",
+    "u": "http://www.sanalpazar.com/urunara?criteria={{{s}}}"
+  },
+  {
+    "d": "www.sanakirja.org",
+    "s": "Sanakirja",
+    "t": "sana",
+    "u": "http://www.sanakirja.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "sandiamesa.com",
+    "s": "Sandia Mesa Animation Studios",
+    "t": "sandiamesa",
+    "u": "https://sandiamesa.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.sandiego.org",
+    "s": "San Diego - The Official Travel Resource for the San Diego Region",
+    "t": "sandiego",
+    "u": "https://www.sandiego.org/search/site.aspx?q={{{s}}}"
+  },
+  {
+    "d": "apps.sandstorm.io",
+    "s": "Sandstorm App Market",
+    "t": "sandstorm",
+    "u": "https://apps.sandstorm.io/search?term={{{s}}}"
+  },
+  {
+    "d": "spokensanskrit.de",
+    "s": "Spoken Sanskrit Dictionary",
+    "t": "sanskrit",
+    "u": "http://spokensanskrit.de/index.php?tinput={{{s}}}"
+  },
+  {
+    "d": "svenska.se",
+    "s": "Svenska Akademiens Ordböcker",
+    "t": "saob",
+    "u": "https://svenska.se/tre/?sok={{{s}}}&pz=1"
+  },
+  {
+    "d": "svenska.se",
+    "s": "Svenska akademieons ordlista",
+    "t": "saol",
+    "u": "https://svenska.se/tre/?sok={{{s}}}"
+  },
+  {
+    "d": "swordartonline.wikia.com",
+    "s": "Sword Art Online Wiki",
+    "t": "sao",
+    "u": "http://swordartonline.wikia.com/wiki/Special:Search?go&query={{{s}}}"
+  },
+  {
+    "d": "blogs.sap.com",
+    "s": "SAP Community Blogs",
+    "t": "sapblogs",
+    "u": "https://blogs.sap.com/?s={{{s}}}"
+  },
+  {
+    "d": "launchpad.support.sap.com",
+    "s": "SAP Downloads",
+    "t": "sapdl",
+    "u": "https://launchpad.support.sap.com/#/softwarecenter/search/{{{s}}}"
+  },
+  {
+    "d": "help.sap.com",
+    "s": "SAP Help Portal",
+    "t": "saphelp",
+    "u": "https://help.sap.com/viewer/search?q={{{s}}}"
+  },
+  {
+    "d": "sapnaonline.com",
+    "s": "SapnaOnline",
+    "t": "sapna",
+    "u": "https://sapnaonline.com/general-search?searchkey={{{s}}}"
+  },
+  {
+    "d": "launchpad.support.sap.com",
+    "s": "SAP notes",
+    "t": "sapnote",
+    "u": "https://launchpad.support.sap.com/#/notes/{{{s}}}/E"
+  },
+  {
+    "d": "launchpad.support.sap.com",
+    "s": "SAP Notes",
+    "t": "sapnotes",
+    "u": "https://launchpad.support.sap.com/#/solutions/notes/?q={{{s}}}"
+  },
+  {
+    "d": "saportareport.com",
+    "s": "SaportaReport",
+    "t": "saporta",
+    "u": "https://saportareport.com/?s={{{s}}}"
+  },
+  {
+    "d": "pesquisa.sapo.pt",
+    "s": "SAPO",
+    "t": "sapo",
+    "u": "http://pesquisa.sapo.pt/?barra=&q={{{s}}}"
+  },
+  {
+    "d": "forums.sapphirecommunity.com",
+    "s": "Sapphire",
+    "t": "sapphire",
+    "u": "http://forums.sapphirecommunity.com/search.php?keywords={{{s}}}&terms=all&author=&fid%5B%5D=4&fid%5B%5D=6&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=800&t=0&submit=Search"
+  },
+  {
+    "d": "launchpad.support.sap.com",
+    "s": "SAP Launchpad",
+    "t": "sap",
+    "u": "https://launchpad.support.sap.com/#/solutions/notesv2/?q={{{s}}}"
+  },
+  {
+    "d": "www.tcodesearch.com",
+    "s": "TCodeSearch Tables",
+    "t": "saptables",
+    "u": "http://www.tcodesearch.com/sap-tables/detail?id={{{s}}}"
+  },
+  {
+    "d": "www.tcodesearch.com",
+    "s": "Tcodesearch Tables",
+    "t": "saptable",
+    "u": "http://www.tcodesearch.com/sap-tables/detail?id={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Skeptic's Annotated Quran",
+    "t": "saq",
+    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+  },
+  {
+    "d": "busca.saraiva.com.br",
+    "s": "Saraiva",
+    "t": "saraiva",
+    "u": "https://busca.saraiva.com.br/?q={{{s}}}"
+  },
+  {
+    "d": "www.sarkariplace.com",
+    "s": "https://www.sarkariplace.com/",
+    "t": "sarkariplace",
+    "u": "https://www.sarkariplace.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sarna.net",
+    "s": "Sarna",
+    "t": "sarna",
+    "u": "http://www.sarna.net/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.scientificamerican.com",
+    "s": "Scientific American",
+    "t": "sa",
+    "u": "http://www.scientificamerican.com/search/?q={{{s}}}&x=-783&y=-180 "
+  },
+  {
+    "d": "www.search.ask.com",
+    "s": "Ask.com",
+    "t": "sask",
+    "u": "http://www.search.ask.com/web?q={{{s}}}"
+  },
+  {
+    "d": "support.sas.com",
+    "s": "SAS",
+    "t": "sas",
+    "u": "https://support.sas.com/en/search.html?q={{{s}}}&fq=siteArea%3A%22Documentation%22"
+  },
+  {
+    "d": "www.saturngames.co.uk",
+    "s": "Saturn Games",
+    "t": "saturngames",
+    "u": "http://www.saturngames.co.uk/?searchStr={{{s}}}&_a=viewCat&Submit=Go"
+  },
+  {
+    "d": "www.saturn.de",
+    "s": "Saturn",
+    "t": "saturn",
+    "u": "https://www.saturn.de/de/search.html?query={{{s}}}&searchProfile=onlineshop&channel=sedede"
+  },
+  {
+    "d": "saucenao.com",
+    "s": "SauceNAO",
+    "t": "saucenao",
+    "u": "http://saucenao.com/search.php?db=999&url={{{s}}}"
+  },
+  {
+    "d": "www.saugus.net",
+    "s": "Saugus.net: Resources for Saugus, Massachusetts",
+    "t": "saugus",
+    "u": "https://www.saugus.net/cgi-bin/htsearch?config=htdig&restrict=&exclude=&words={{{s}}}&method=and&format=long"
+  },
+  {
+    "d": "smile.amazon.co.uk",
+    "s": "AmazonSmile UK",
+    "t": "sauk",
+    "u": "https://smile.amazon.co.uk/s/?field-keywords={{{s}}}"
+  },
+  {
+    "d": "savannah.gnu.org",
+    "s": "Savannah",
+    "t": "savannah",
+    "u": "https://savannah.gnu.org/search/?type_of_search=soft&words={{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Internet Archive: Wayback Machine (save)",
+    "t": "saveback",
+    "u": "https://web.archive.org/save/{{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Internet Archive: Wayback Machine (save)",
+    "t": "save",
+    "u": "https://web.archive.org/save/{{{s}}}"
+  },
+  {
+    "d": "www.savido.cz",
+    "s": "Savido",
+    "t": "savido",
+    "u": "http://www.savido.cz/download.php?url={{{s}}}"
+  },
+  {
+    "d": "www.saxo.com",
+    "s": "SAXO.com",
+    "t": "saxo",
+    "u": "https://www.saxo.com/dk/products/search?query={{{s}}}"
+  },
+  {
+    "d": "www.sayba.com.br",
+    "s": "Sayba",
+    "t": "sayba",
+    "u": "http://www.sayba.com.br/pesquisar/?q={{{s}}}"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "Merriam-Webster Pronunciation",
+    "t": "say",
+    "u": "https://www.merriam-webster.com/dictionary/{{{s}}}?pronunciation"
+  },
+  {
+    "d": "scratch.mit.edu",
+    "s": "Scratch",
+    "t": "sb2",
+    "u": "https://scratch.mit.edu/search/projects?q={{{s}}}"
+  },
+  {
+    "d": "www.sba.gov",
+    "s": "SBA",
+    "t": "sba",
+    "u": "https://www.sba.gov/search/?q={{{s}}}"
+  },
+  {
+    "d": "dev.eoils.de",
+    "s": "SBB StationBoard",
+    "t": "sbbb",
+    "u": "https://dev.eoils.de/contents/b/index.php?station={{{s}}}"
+  },
+  {
+    "d": "www.sbb.ch",
+    "s": "SBB",
+    "t": "sbb",
+    "u": "https://www.sbb.ch/de/kaufen/pages/fahrplan/fahrplan.xhtml?nach={{{s}}}&suche=false"
+  },
+  {
+    "d": "bibleforums.org",
+    "s": "bibleforums",
+    "t": "sbg",
+    "u": "http://bibleforums.org/search.php?s={{{s}}} "
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Search by Image",
+    "t": "sbi",
+    "u": "https://www.google.com/searchbyimage?image_url={{{s}}}"
+  },
+  {
+    "d": "spendabit.co",
+    "s": "Spend a Bit",
+    "t": "sbit",
+    "u": "https://spendabit.co/go?q={{{s}}}"
+  },
+  {
+    "d": "www.sbmania.net",
+    "s": "SpongeBuddy Mania",
+    "t": "sbmania",
+    "u": "http://www.sbmania.net/advsearch.php?l=80&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Science-Based Medicine",
+    "t": "sbm",
+    "u": "https://duckduckgo.com/?q=site%3Asciencebasedmedicine.org+{{{s}}}"
+  },
+  {
+    "d": "opac.sbn.it",
+    "s": "OPAC SBN",
+    "t": "sbn",
+    "u": "http://opac.sbn.it/opacsbn/opac/iccu/free.jsp={{{s}}}"
+  },
+  {
+    "d": "slackbuilds.org",
+    "s": "SlackBuilds.org",
+    "t": "sbopkg",
+    "u": "https://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "d": "slackbuilds.org",
+    "s": "SlackBuilds.org",
+    "t": "sbo",
+    "u": "http://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "d": "www.slounik.org",
+    "s": "slounik.org: беларускія слоўнікі і энцыкляпэдыі",
+    "t": "sbrm",
+    "u": "http://www.slounik.org/search?dict=&search={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit",
+    "t": "sbr",
+    "u": "http://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "www.sbs.com.au",
+    "s": "SBS On Demand",
+    "t": "sbs",
+    "u": "https://www.sbs.com.au/ondemand/search/{{{s}}}"
+  },
+  {
+    "d": "www.swagbucks.com",
+    "s": "SwagBucks",
+    "t": "sb",
+    "u": "http://www.swagbucks.com/?t=w&p=1&b=0&f=0&sef=1&q={{{s}}}"
+  },
+  {
+    "d": "socialblade.com",
+    "s": "Socialblade twitter",
+    "t": "sbt",
+    "u": "https://socialblade.com/twitter/user/{{{s}}}"
+  },
+  {
+    "d": "spongebob.wikia.com",
+    "s": "SpongeBob SquarePants Wiki",
+    "t": "sbwiki",
+    "u": "http://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.stopbadware.org",
+    "s": "StopBadware",
+    "t": "sbw",
+    "u": "https://www.stopbadware.org/clearinghouse/search/?url={{{s}}}"
+  },
+  {
+    "d": "socialblade.com",
+    "s": "Socialblade Youtube",
+    "t": "sbyt",
+    "u": "http://socialblade.com/youtube/user/{{{s}}}"
+  },
+  {
+    "d": "www.scala-lang.org",
+    "s": "Scala Standard Library",
+    "t": "scalaapi",
+    "u": "http://www.scala-lang.org/api/current/index.html?search={{{s}}}"
+  },
+  {
+    "d": "index.scala-lang.org",
+    "s": "Scala Center",
+    "t": "scaladex",
+    "u": "https://index.scala-lang.org/search?q={{{s}}} "
+  },
+  {
+    "d": "www.scala-lang.org",
+    "s": "Scala doc",
+    "t": "scaladoc",
+    "u": "http://www.scala-lang.org/api/current/?search={{{s}}}"
+  },
+  {
+    "d": "index.scala-lang.org",
+    "s": "Scala Library Index",
+    "t": "scalai",
+    "u": "https://index.scala-lang.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.scala-lang.org",
+    "s": "Scala API",
+    "t": "scalalang",
+    "u": "http://www.scala-lang.org/api/current/?search={{{s}}}"
+  },
+  {
+    "d": "www.scala-lang.org",
+    "s": "scala-lang.org",
+    "t": "scala",
+    "u": "http://www.scala-lang.org/api/current/?search={{{s}}}"
+  },
+  {
+    "d": "www.scania.com",
+    "s": "Scania Commercial Vehicles",
+    "t": "scania",
+    "u": "https://www.scania.com/global/en/home/misc/searchresult.html?q={{{s}}}"
+  },
+  {
+    "d": "www.scan.co.uk",
+    "s": "Scan",
+    "t": "scan",
+    "u": "http://www.scan.co.uk/search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.scarecrow.com",
+    "s": "Scarecrow Video",
+    "t": "scarecrow",
+    "u": "https://www.scarecrow.com/45/search.html?keywords={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit Skincare Addiction",
+    "t": "sca",
+    "u": "https://www.reddit.com/r/skincareaddiction/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Scaruffi",
+    "t": "scaruffi",
+    "u": "https://duckduckgo.com/?q=site%3Ascaruffi.com+{{{s}}}"
+  },
+  {
+    "d": "www.sverigeisiffror.scb.se",
+    "s": "Statistics Sweden",
+    "t": "scben",
+    "u": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query={{{s}}}"
+  },
+  {
+    "d": "www.sverigeisiffror.scb.se",
+    "s": "Statistiska centralbyrån",
+    "t": "scb",
+    "u": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query={{{s}}}"
+  },
+  {
+    "d": "sccl.bibliocommons.com",
+    "s": "Sana Clara County Library District",
+    "t": "sccl",
+    "u": "https://sccl.bibliocommons.com/search/?t=smart&searchOpt=catalogue&q= {{{s}}}&search_category=keyword"
+  },
+  {
+    "d": "sccode.org",
+    "s": "sccode.org",
+    "t": "sccode",
+    "u": "http://sccode.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sciencedirect.com",
+    "s": "ScienceDirect",
+    "t": "scdirect",
+    "u": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "d": "scd.summon.serialssolutions.com",
+    "s": "SCD de l'Université de Poitiers (bibliothèques universitaires)",
+    "t": "scdpo",
+    "u": "http://scd.summon.serialssolutions.com/search?s.q={{{s}}}"
+  },
+  {
+    "d": "www.sciencedaily.com",
+    "s": "Science Daily",
+    "t": "scd",
+    "u": "https://www.sciencedaily.com/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "sceptr.net",
+    "s": "SCEPTR",
+    "t": "sceptr",
+    "u": "https://sceptr.net/?s={{{s}}}"
+  },
+  {
+    "d": "syncfile.co",
+    "s": "SyncFile",
+    "t": "scf",
+    "u": "http://syncfile.co/{{{s}}}"
+  },
+  {
+    "d": "sales.starcitygames.com",
+    "s": "StarCityGames",
+    "t": "scg",
+    "u": "http://sales.starcitygames.com/search.php?substring={{{s}}}"
+  },
+  {
+    "d": "www.scheidung.de",
+    "s": "Scheidung.de",
+    "t": "scheidung",
+    "u": "https://www.scheidung.de/suche.html?tx_kesearch_pi1%5Bsword%5D={{{s}}}"
+  },
+  {
+    "d": "schema.org",
+    "s": "schema.org",
+    "t": "schema",
+    "u": "https://schema.org/docs/search_results.html?q={{{s}}}"
+  },
+  {
+    "d": "www.schnittberichte.com",
+    "s": "Schnittberichte",
+    "t": "schnittberichte",
+    "u": "http://www.schnittberichte.com/svds.php?Page=Suche&String={{{s}}}"
+  },
+  {
+    "d": "scholar.google.com",
+    "s": "Google Scholar",
+    "t": "scholar",
+    "u": "http://scholar.google.com/scholar?q={{{s}}}&btnG=Search&as_sdt=800000000001&as_sdtp=on"
+  },
+  {
+    "d": "www.scholieren.com",
+    "s": "scholieren.com",
+    "t": "scholieren",
+    "u": "http://www.scholieren.com/zoek?q={{{s}}}"
+  },
+  {
+    "d": "www.schottenland.de",
+    "s": "Schottenland",
+    "t": "schottenland",
+    "u": "http://www.schottenland.de/suche/?searchstring={{{s}}}"
+  },
+  {
+    "d": "scholarpedia.org",
+    "s": "Scholarpedia",
+    "t": "schp",
+    "u": "http://scholarpedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage (Switzerland)",
+    "t": "sch",
+    "u": "https://startpage.com/do/search?cmd=process_search&query={{{s}}}&language=deutsch&with_region=countryCH"
+  },
+  {
+    "d": "www.schuh.co.uk",
+    "s": "Schuh",
+    "t": "schuh",
+    "u": "http://www.schuh.co.uk/results.aspx#st={{{s}}}"
+  },
+  {
+    "d": "www.sciencedirect.com",
+    "s": "http://www.sciencedirect.com",
+    "t": "scid",
+    "u": "http://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "d": "thesciencedictionary.org",
+    "s": "The Science Dictionary",
+    "t": "scidict",
+    "u": "http://thesciencedictionary.org/search2/?q={{{s}}}"
+  },
+  {
+    "d": "www.sciencedirect.com",
+    "s": "ScienceDirect",
+    "t": "scidirect",
+    "u": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "d": "www.sciencedirect.com",
+    "s": "ScienceDirect",
+    "t": "scidir",
+    "u": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "d": "search.scielo.org",
+    "s": "Scientific Electronic Library Online",
+    "t": "scielo",
+    "u": "http://search.scielo.org/?q={{{s}}}&where=ORG"
+  },
+  {
+    "d": "scienceblog.com",
+    "s": "ScienceBlog.com",
+    "t": "scienceblog",
+    "u": "https://scienceblog.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Science Blogs",
+    "t": "scienceblogs",
+    "u": "http://www.google.com/cse?cx=017254414699180528062%3Auyrcvn__yd0&q={{{s}}}"
+  },
+  {
+    "d": "www.sciencedaily.com",
+    "s": "Sciencedaily",
+    "t": "sciencedaily",
+    "u": "http://www.sciencedaily.com/search/?keyword={{{s}}} "
+  },
+  {
+    "d": "www.sciencedirect.com",
+    "s": "ScienceDirect",
+    "t": "sciencedirect",
+    "u": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "d": "www.lescienze.it",
+    "s": "Le Scienze",
+    "t": "scienze",
+    "u": "http://www.lescienze.it/?q={{{s}}}"
+  },
+  {
+    "d": "www.worldswithoutend.com",
+    "s": "Worlds Without End",
+    "t": "scifi",
+    "u": "http://www.worldswithoutend.com/searchwwe.asp?st={{{s}}} "
+  },
+  {
+    "d": "help.scilab.org",
+    "s": "Scilab Documentation",
+    "t": "scilab",
+    "u": "https://help.scilab.org/docs/6.0.0/en_US/search/{{{s}}}"
+  },
+  {
+    "d": "www.scilit.net",
+    "s": "Scilit",
+    "t": "scilit",
+    "u": "https://www.scilit.net/articles/10/0?Search={{{s}}}"
+  },
+  {
+    "d": "scimagojr.com",
+    "s": "SCImago Journal Rank",
+    "t": "scimago",
+    "u": "http://scimagojr.com/journalsearch.php?q={{{s}}}"
+  },
+  {
+    "d": "scinapse.io",
+    "s": "Scinapse",
+    "t": "scin",
+    "u": "https://scinapse.io/search?query={{{s}}}"
+  },
+  {
+    "d": "www.sciplus.com",
+    "s": "American Science and Surplus(SciPlus)",
+    "t": "sciplus",
+    "u": "https://www.sciplus.com/s/?q={{{s}}}"
+  },
+  {
+    "d": "docs.scipy.org",
+    "s": "SciPy",
+    "t": "scipy",
+    "u": "http://docs.scipy.org/doc/scipy/reference/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "api.sck.pm",
+    "s": "sck.pm",
+    "t": "sck",
+    "u": "https://api.sck.pm/shorten?{{{s}}}"
+  },
+  {
+    "d": "doc.sccode.org",
+    "s": "SuperCollider",
+    "t": "sclang",
+    "u": "http://doc.sccode.org/Search.html#{{{s}}}"
+  },
+  {
+    "d": "soundcloud.com",
+    "s": "SoundCloud",
+    "t": "scloud",
+    "u": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.scmp.com",
+    "s": "South China Morning Post",
+    "t": "scmp",
+    "u": "https://www.scmp.com/content/search/{{{s}}}"
+  },
+  {
+    "d": "www.smashcustommusic.com",
+    "s": "Smash Custom Music",
+    "t": "scm",
+    "u": "http://www.smashcustommusic.com/index.php?song={{{s}}}"
+  },
+  {
+    "d": "search.sap.com",
+    "s": "SAP Community Network",
+    "t": "scn",
+    "u": "http://search.sap.com/ui/scn#query={{{s}}}"
+  },
+  {
+    "d": "searchcode.com",
+    "s": "Searchcode",
+    "t": "scode",
+    "u": "https://searchcode.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.spanishdict.com",
+    "s": "SpanishDict verb conjugation",
+    "t": "sconj",
+    "u": "http://www.spanishdict.com/conjugate/{{{s}}}"
+  },
+  {
+    "d": "www.scoop.it",
+    "s": "Scoop.it",
+    "t": "scoop",
+    "u": "http://www.scoop.it/search?q={{{s}}}"
+  },
+  {
+    "d": "www.scope.dk",
+    "s": "scope.dk",
+    "t": "scope.dk",
+    "u": "http://www.scope.dk/sogning?sog={{{s}}} "
+  },
+  {
+    "d": "imslp.org",
+    "s": "IMSLP (Petrucci Music Library)",
+    "t": "score",
+    "u": "http://imslp.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.slant.co",
+    "s": "Slant.co",
+    "t": "sco",
+    "u": "https://www.slant.co/search?query={{{s}}}"
+  },
+  {
+    "d": "www.scotbycycles.co.uk",
+    "s": "Scotby Cycles",
+    "t": "scotby",
+    "u": "https://www.scotbycycles.co.uk/facetresults.aspx?Term={{{s}}}"
+  },
+  {
+    "d": "www.dsl.ac.uk",
+    "s": "scots dictionary",
+    "t": "scots",
+    "u": "http://www.dsl.ac.uk/results/{{{s}}}"
+  },
+  {
+    "d": "www.scottsradiosite.co.uk",
+    "s": "Scott's Radio Site",
+    "t": "scottsradiosite",
+    "u": "http://www.scottsradiosite.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "scottwyden.com",
+    "s": "Scott Wyden Imagery",
+    "t": "scottwyden",
+    "u": "https://scottwyden.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.scout.com",
+    "s": "scout.com",
+    "t": "scout",
+    "u": "http://www.scout.com/news?query={{{s}}}"
+  },
+  {
+    "d": "scouts.org.uk",
+    "s": "Scouts UK",
+    "t": "scouts",
+    "u": "https://scouts.org.uk/cse-search/?query={{{s}}}"
+  },
+  {
+    "d": "lafundacionscp.wikidot.com",
+    "s": "scp",
+    "t": "scp-es",
+    "u": "http://lafundacionscp.wikidot.com/search:site/a/pf/q/{{{s}}}"
+  },
+  {
+    "d": "scpfoundation.net",
+    "s": "SCP foundation --- Russian branch",
+    "t": "scpru",
+    "u": "http://scpfoundation.net/search:site/q/{{{s}}}"
+  },
+  {
+    "d": "www.scp-wiki.net",
+    "s": "SCP Foundation",
+    "t": "scp",
+    "u": "http://www.scp-wiki.net/search:site/a/p/q/{{{s}}} "
+  },
+  {
+    "d": "www.senscritique.com",
+    "s": "SensCritique",
+    "t": "scq",
+    "u": "https://www.senscritique.com/recherche?query={{{s}}}"
+  },
+  {
+    "d": "www.scrabblewordsolver.com",
+    "s": "http://www.scrabblewordsolver.com",
+    "t": "scrabble",
+    "u": "http://www.scrabblewordsolver.com/word-checker/{{{s}}}"
+  },
+  {
+    "d": "www.scrabblelookup.com",
+    "s": "scrabblelookup",
+    "t": "scrabblelookup",
+    "u": "http://www.scrabblelookup.com/word/portion/search/{{{s}}}"
+  },
+  {
+    "d": "doc.scrapy.org",
+    "s": "scrapy docs",
+    "t": "scrapy",
+    "u": "http://doc.scrapy.org/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "scratchforums.asun.co",
+    "s": "Scratch Forums Search",
+    "t": "scratchforums",
+    "u": "https://scratchforums.asun.co/search?q={{{s}}}"
+  },
+  {
+    "d": "scratch.mit.edu",
+    "s": "Scratch",
+    "t": "scratch",
+    "u": "https://scratch.mit.edu/search/projects?q={{{s}}}"
+  },
+  {
+    "d": "wiki.scratch.mit.edu",
+    "s": "Scratch Wiki",
+    "t": "scratchwiki",
+    "u": "http://wiki.scratch.mit.edu/w/index.php?search={{{s}}}&fulltext=Search&title=Special%3ASearch"
+  },
+  {
+    "d": "www.screwfix.com",
+    "s": "Screwfix",
+    "t": "screwfix",
+    "u": "https://www.screwfix.com/search?search={{{s}}}"
+  },
+  {
+    "d": "www.scribd.com",
+    "s": "Scribd",
+    "t": "scribd",
+    "u": "http://www.scribd.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.senscritique.com",
+    "s": "Sens Critique",
+    "t": "scri",
+    "u": "http://www.senscritique.com/recherche?query={{{s}}}"
+  },
+  {
+    "d": "www.senscritique.com",
+    "s": "SensCritique",
+    "t": "scritique",
+    "u": "http://www.senscritique.com/recherche/?gs_query={{{s}}}&submit2="
+  },
+  {
+    "d": "www.scrooge.co.uk",
+    "s": "Scrooge",
+    "t": "scrooge",
+    "u": "https://www.scrooge.co.uk/search?keyphrase={{{s}}}"
+  },
+  {
+    "d": "scryfall.com",
+    "s": "Scryfall",
+    "t": "scryfall",
+    "u": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "d": "scryfall.com",
+    "s": "Scryfall",
+    "t": "scry",
+    "u": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "d": "soundcloud.com",
+    "s": "SoundCloud",
+    "t": "sc",
+    "u": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.scuba.com",
+    "s": "Scuba.com",
+    "t": "scuba",
+    "u": "https://www.scuba.com/resources/search1.aspx?Action=Search&Search={{{s}}}"
+  },
+  {
+    "d": "slovnik-cizich-slov.abz.cz",
+    "s": "ABZ.cz: slovník cizích slov",
+    "t": "scz",
+    "u": "http://slovnik-cizich-slov.abz.cz/web.php/hledat?typ_hledani=prefix&cizi_slovo={{{s}}}"
+  },
+  {
+    "d": "syntaxdb.com",
+    "s": "syntaxdb.com",
+    "t": "sdb",
+    "u": "https://syntaxdb.com/reference/search?utf8=✓&search={{{s}}}"
+  },
+  {
+    "d": "encore.sdcl.org",
+    "s": "San Diego County Library (EN)",
+    "t": "sdcl",
+    "u": "http://encore.sdcl.org/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage (deutsch)",
+    "t": "sde",
+    "u": "https://startpage.com/do/search?cmd=process_search&query={{{s}}}&language=deutsch"
+  },
+  {
+    "d": "www.spanishdict.com",
+    "s": "SpanishDict",
+    "t": "sdict",
+    "u": "http://www.spanishdict.com/translate/{{{s}}}"
+  },
+  {
+    "d": "www.sciencedirect.com",
+    "s": "Science Direct",
+    "t": "sdirect",
+    "u": "https://www.sciencedirect.com/search?qs={{{s}}}"
+  },
+  {
+    "d": "wiki.libsdl.org",
+    "s": "SDL2 Wiki",
+    "t": "sdl2",
+    "u": "https://wiki.libsdl.org/FrontPage?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "d": "wiki.libsdl.org",
+    "s": "Wiki LibSDL2",
+    "t": "sdl",
+    "u": "https://wiki.libsdl.org/CategoryAPI?action=fullsearch&context=180&value={{{s}}}&titlesearch=Titles"
+  },
+  {
+    "d": "forums.studentdoctor.net",
+    "s": "Student Doctor Network forums",
+    "t": "sdnf",
+    "u": "https://forums.studentdoctor.net/search/86811885/?q={{{s}}}"
+  },
+  {
+    "d": "slickdeals.net",
+    "s": "SlickDeals",
+    "t": "sd",
+    "u": "https://slickdeals.net/newsearch.php?q={{{s}}}&searcharea=deals&searchin=first"
+  },
+  {
+    "d": "stardewvalleywiki.com",
+    "s": "Official Stardew Valley Wiki",
+    "t": "sdv",
+    "u": "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.se80.co.uk",
+    "s": "SAP Development Objects",
+    "t": "se80",
+    "u": "https://www.se80.co.uk/action/search_results.htm?q={{{s}}}"
+  },
+  {
+    "d": "www.seamless.com",
+    "s": "Seamless",
+    "t": "seamless",
+    "u": "https://www.seamless.com/search?queryText={{{s}}}"
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Seamonkey Add-on",
+    "t": "seamonkey",
+    "u": "https://addons.mozilla.org/en-US/seamonkey/search/?q={{{s}}}&cat=all&lver=any&pid=1&sort=&pp=20&lup=&advanced="
+  },
+  {
+    "d": "www.searchbug.com",
+    "s": "SearchBug",
+    "t": "searchbug",
+    "u": "http://www.searchbug.com/tools/reverse-phone-lookup.aspx?TYPE=phonerev&TAG=tools&FULLPHONE={{{s}}}"
+  },
+  {
+    "d": "www.search.ch",
+    "s": "search.ch",
+    "t": "searchch",
+    "u": "http://www.search.ch/?q={{{s}}}&search=Suchen"
+  },
+  {
+    "d": "searchco.de",
+    "s": "searchco.de",
+    "t": "searchcode",
+    "u": "http://searchco.de/?q={{{s}}}"
+  },
+  {
+    "d": "search.cpan.org",
+    "s": "CPAN",
+    "t": "searchcpan",
+    "u": "http://search.cpan.org/search?query={{{s}}}&mode=all"
+  },
+  {
+    "d": "searchenginewatch.com",
+    "s": "Search Engine Watch",
+    "t": "searchenginewatch",
+    "u": "https://searchenginewatch.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Reddit DDG Search",
+    "t": "searchr",
+    "u": "http://duckduckgo.com/?q=site:reddit.com+{{{s}}}"
+  },
+  {
+    "d": "www.search.com",
+    "s": "Search.com",
+    "t": "search",
+    "u": "http://www.search.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.searchtempest.com",
+    "s": "Search Tempest",
+    "t": "searchtempest",
+    "u": "http://www.searchtempest.com/search?location=12345&search_string={{{s}}}&cityselect=zip"
+  },
+  {
+    "d": "searchworks.stanford.edu",
+    "s": "SearchWorks (SULAIR)",
+    "t": "searchworks",
+    "u": "http://searchworks.stanford.edu/?q={{{s}}}&search_field=search"
+  },
+  {
+    "d": "hn.algolia.com",
+    "s": "Hacker News",
+    "t": "searchyc",
+    "u": "http://hn.algolia.com/#!/story/forever/0/{{{s}}}"
+  },
+  {
+    "d": "www.sears.ca",
+    "s": "Sears Canada",
+    "t": "searsca",
+    "u": "http://www.sears.ca/en/search?q={{{s}}}&lang=default"
+  },
+  {
+    "d": "www.searsoutlet.com",
+    "s": "Sears Outlet",
+    "t": "searsoutlet",
+    "u": "http://www.searsoutlet.com/d/products.jsp?md=srh_md&stxt={{{s}}}"
+  },
+  {
+    "d": "www.sears.com",
+    "s": "Sears",
+    "t": "sears",
+    "u": "http://www.sears.com/shc/s/search_10153_12605?keyword={{{s}}}"
+  },
+  {
+    "d": "searx.me",
+    "s": "searx.me",
+    "t": "searx.me",
+    "u": "http://searx.me/?q={{{s}}}&pageno=1&category_general"
+  },
+  {
+    "d": "searx.me",
+    "s": "searX",
+    "t": "searx",
+    "u": "https://searx.me/?q={{{s}}}"
+  },
+  {
+    "d": "searchcode.com",
+    "s": "searchcode.com",
+    "t": "sea",
+    "u": "https://searchcode.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.seatalk.info",
+    "s": "Nautical Dictionary",
+    "t": "seatalk",
+    "u": "http://www.seatalk.info/cgi-bin/nautical-marine-sailing-dictionary/db.cgi?db=db&view_records=1&uid=default&Term={{{s}}}"
+  },
+  {
+    "d": "seatgeek.com",
+    "s": "SeatGeek",
+    "t": "seatgeek",
+    "u": "http://seatgeek.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "sebsauvage.net",
+    "s": "Sebsauvage",
+    "t": "seb",
+    "u": "http://sebsauvage.net/rhaa/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.sec.gov",
+    "s": "SEC Edgar",
+    "t": "secedgar",
+    "u": "https://www.sec.gov/cgi-bin/browse-edgar?CIK={{{s}}}&owner=exclude&action=getcompany"
+  },
+  {
+    "d": "chat.stackexchange.com",
+    "s": "Stack Exchange Chat",
+    "t": "sechat",
+    "u": "https://chat.stackexchange.com/rooms/{{{s}}}"
+  },
+  {
+    "d": "www.sechenovclinic.ru",
+    "s": "www.sechenovclinic.ru",
+    "t": "sechenovclinic",
+    "u": "http://www.sechenovclinic.ru/search/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.search.ch",
+    "s": "Search.ch",
+    "t": "sech",
+    "u": "https://www.search.ch/?q={{{s}}}"
+  },
+  {
+    "d": "infosec-jobs.com",
+    "s": "infosec-jobs.com",
+    "t": "secjobs",
+    "u": "https://infosec-jobs.com/?search_keywords={{{s}}}"
+  },
+  {
+    "d": "insecure.org",
+    "s": "SecLists.org",
+    "t": "seclists",
+    "u": "http://insecure.org/search.html?cx=partner-pub-0078565546631069%3Abx60rb-fytx&cof=FORID%3A9&ie=ISO-8859-1&q={{{s}}}&sa=SecSearch"
+  },
+  {
+    "d": "www.secondbike.co.uk",
+    "s": "Secondbike",
+    "t": "secondbike",
+    "u": "https://www.secondbike.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "secsearch.sec.gov",
+    "s": "SEC.gov",
+    "t": "sec",
+    "u": "https://secsearch.sec.gov/search?utf8=%3F&affiliate=secsearch&query={{{s}}}"
+  },
+  {
+    "d": "securedrop.readthedocs.org",
+    "s": "SecureDrop Read the Docs",
+    "t": "securedrop",
+    "u": "https://securedrop.readthedocs.org/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "securityheaders.io",
+    "s": "securityheaders.io",
+    "t": "securityheaders",
+    "u": "https://securityheaders.io/?q={{{s}}}&followRedirects=on"
+  },
+  {
+    "d": "www.security.nl",
+    "s": "Security.nl",
+    "t": "securitynl",
+    "u": "https://www.security.nl/zoeken?search={{{s}}} "
+  },
+  {
+    "d": "securityshelf.com",
+    "s": "Security Shelf",
+    "t": "securityshelf",
+    "u": "https://securityshelf.com/index.php?s={{{s}}}"
+  },
+  {
+    "d": "www.snapeda.com",
+    "s": "SnapEDA",
+    "t": "seda",
+    "u": "https://www.snapeda.com/search/?q={{{s}}}&search-type=parts"
+  },
+  {
+    "d": "sedo.com",
+    "s": "Sedo",
+    "t": "sedo",
+    "u": "https://sedo.com/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.seefelder.net",
+    "s": "Seefelder",
+    "t": "seefelder",
+    "u": "https://www.seefelder.net/suche?id=&searchTerm={{{s}}}"
+  },
+  {
+    "d": "seekingalpha.com",
+    "s": "Seeking Alpha",
+    "t": "seekingalpha",
+    "u": "http://seekingalpha.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.seek.com.au",
+    "s": "Seek",
+    "t": "seek",
+    "u": "http://www.seek.com.au/JobSearch?SearchFrom=quick&Keywords={{{s}}}"
+  },
+  {
+    "d": "english.stackexchange.com",
+    "s": "English StackExchange",
+    "t": "seenglish",
+    "u": "http://english.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "seenthis.net",
+    "s": "SeenThis",
+    "t": "seen",
+    "u": "http://seenthis.net/spip.php?page=recherche&recherche={{{s}}}"
+  },
+  {
+    "d": "www.sefaria.org",
+    "s": "Sefaria",
+    "t": "sefaria",
+    "u": "http://www.sefaria.org/search?q={{{s}}}"
+  },
+  {
+    "d": "segaretro.org",
+    "s": "SegaRetro",
+    "t": "sega",
+    "u": "https://segaretro.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "library.seg.org",
+    "s": "SEG Digital Library",
+    "t": "segdl",
+    "u": "https://library.seg.org/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "d": "library.seg.org",
+    "s": "SEG Digital Library",
+    "t": "seg",
+    "u": "https://library.seg.org/action/doSearch?AllField={{{s}}}&publication="
+  },
+  {
+    "d": "search.searchengineland.com",
+    "s": "Search Engine Land",
+    "t": "seland",
+    "u": "http://search.searchengineland.com/search?w={{{s}}}"
+  },
+  {
+    "d": "selectome.unil.ch",
+    "s": "Selectome",
+    "t": "selectome",
+    "u": "https://selectome.unil.ch/cgi-bin/getResult.cgi?query={{{s}}}&res_type=auto"
+  },
+  {
+    "d": "selectfashion.pk",
+    "s": "Select Fashion",
+    "t": "select",
+    "u": "http://selectfashion.pk?term={{{s}}}"
+  },
+  {
+    "d": "de.selfhtml.org",
+    "s": "SELFHTML",
+    "t": "selfhtml",
+    "u": "http://de.selfhtml.org/navigation/suche/index.htm?Suchanfrage={{{s}}}"
+  },
+  {
+    "d": "wiki.selfhtml.org",
+    "s": "SELFHTML wiki",
+    "t": "selfhtmlwiki",
+    "u": "http://wiki.selfhtml.org/wiki/Spezial:Suche?search={{{s}}}"
+  },
+  {
+    "d": "search.selu.edu",
+    "s": "Southeastern Louisiana University",
+    "t": "selu",
+    "u": "http://search.selu.edu/search?q={{{s}}}"
+  },
+  {
+    "d": "www.semanticscholar.org",
+    "s": "Semantic Scholar",
+    "t": "semantic",
+    "u": "https://www.semanticscholar.org/search?q={{{s}}}&sort=relevance&ae=false"
+  },
+  {
+    "d": "math.stackexchange.com",
+    "s": "Mathematics StackExchange",
+    "t": "semath",
+    "u": "https://math.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "meta.stackexchange.com",
+    "s": "Meta Stack Exchange",
+    "t": "semeta",
+    "u": "https://meta.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.semrush.com",
+    "s": "SEM Rush",
+    "t": "semrush",
+    "u": "https://www.semrush.com/info/{{{s}}}+(full+search)"
+  },
+  {
+    "d": "senat.me",
+    "s": "Portal Senate",
+    "t": "senate",
+    "u": "http://senat.me/en/?s={{{s}}}"
+  },
+  {
+    "d": "www.searchencrypt.com",
+    "s": "searchencrypt",
+    "t": "senc",
+    "u": "https://www.searchencrypt.com/search?eq={{{s}}}"
+  },
+  {
+    "d": "www.senderbase.org",
+    "s": "SenderBase",
+    "t": "senderbase",
+    "u": "http://www.senderbase.org/senderbase_queries/detailhost?search_string={{{s}}}"
+  },
+  {
+    "d": "sentencedict.com",
+    "s": "SentenceDict",
+    "t": "sendict",
+    "u": "http://sentencedict.com/{{{s}}}.html"
+  },
+  {
+    "d": "www.senscritique.com",
+    "s": "Sens critique",
+    "t": "senscritique",
+    "u": "http://www.senscritique.com/recherche?query={{{s}}}"
+  },
+  {
+    "d": "senseis.xmp.net",
+    "s": "Sensei's Library",
+    "t": "sensei",
+    "u": "http://senseis.xmp.net/?search={{{s}}}&searchtype=title"
+  },
+  {
+    "d": "senseis.xmp.net",
+    "s": "Sensei's Library",
+    "t": "senseislibrary",
+    "u": "http://senseis.xmp.net/?searchstring={{{s}}}&fullsearch.x=0&fullsearch.y=0&searchtype=either"
+  },
+  {
+    "d": "senseis.xmp.net",
+    "s": "Sensei's Library",
+    "t": "senseis",
+    "u": "http://senseis.xmp.net/?searchstring={{{s}}}&fullsearch.x=0&fullsearch.y=0&searchtype=either "
+  },
+  {
+    "d": "store.sonyentertainmentnetwork.com",
+    "s": "Sony Entertainment Network",
+    "t": "sen",
+    "u": "https://store.sonyentertainmentnetwork.com/#!/en-us/search/q={{{s}}}"
+  },
+  {
+    "d": "sentireascoltare.com",
+    "s": "SENTIREASCOLTARE",
+    "t": "senta",
+    "u": "http://sentireascoltare.com/?s={{{s}}}"
+  },
+  {
+    "d": "sentence.yourdictionary.com",
+    "s": "Your Dictionary",
+    "t": "sentence",
+    "u": "http://sentence.yourdictionary.com/{{{s}}}"
+  },
+  {
+    "d": "sentireascoltare.com",
+    "s": "Sentire Ascoltare",
+    "t": "sentireascoltare",
+    "u": "http://sentireascoltare.com/?s={{{s}}}"
+  },
+  {
+    "d": "docs.sentry.io",
+    "s": "Sentry",
+    "t": "sentry",
+    "u": "https://docs.sentry.io/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.sephora.com.au",
+    "s": "Sephora Australia",
+    "t": "sephoraau",
+    "u": "https://www.sephora.com.au/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sephora.com",
+    "s": "Sephora",
+    "t": "sephora",
+    "u": "https://www.sephora.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "plato.stanford.edu",
+    "s": "Stanford Encyclopedia of Philosophy",
+    "t": "sep",
+    "u": "http://plato.stanford.edu/search/searcher.py?query={{{s}}}"
+  },
+  {
+    "d": "oeis.org",
+    "s": "The Online Encyclopedia Of Integer Sequences",
+    "t": "seq",
+    "u": "http://oeis.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.serebii.net",
+    "s": "Serebii",
+    "t": "serebii",
+    "u": "http://www.serebii.net/search.shtml?cx=018410473690156091934%3A6gahkiyodbi&cof=FORID%3A11&q={{{s}}}&sa=Search&siteurl=www.serebii.net%2Findex2.shtml"
+  },
+  {
+    "d": "serenesforest.net",
+    "s": "Serenes Forest",
+    "t": "serenes",
+    "u": "https://serenesforest.net/?s={{{s}}}"
+  },
+  {
+    "d": "serialvilla.com",
+    "s": "Serialvilla",
+    "t": "serialvilla.com",
+    "u": "http://serialvilla.com/search? keyword={{{s}}}"
+  },
+  {
+    "d": "www.seriebox.com",
+    "s": "Seriebox",
+    "t": "seriebox",
+    "u": "http://www.seriebox.com/search.php?txt={{{s}}} &submit=OK"
+  },
+  {
+    "d": "www.seriouseats.com",
+    "s": "Serious Eats",
+    "t": "seriouseats",
+    "u": "http://www.seriouseats.com/search?term={{{s}}}&site=all"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Serienjunkies.de",
+    "t": "serjunk",
+    "u": "https://duckduckgo.com/?q=site%3Awww.serienjunkies.de+{{{s}}}"
+  },
+  {
+    "d": "www.servershop24.de",
+    "s": "servershop24",
+    "t": "server24",
+    "u": "https://www.servershop24.de/?ActionCall=WebActionArticleSearch&BranchId=0&multishop_id=0&customer_class=9&lang=de&Params[SearchParam]={{{s}}}"
+  },
+  {
+    "d": "serverfault.com",
+    "s": "ServerFault",
+    "t": "serverfault",
+    "u": "http://serverfault.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.iana.org",
+    "s": "IANA Service Name and Transport Protocol Port Number Registry",
+    "t": "service",
+    "u": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search={{{s}}}"
+  },
+  {
+    "d": "www.service-public.fr",
+    "s": "service-public.fr",
+    "t": "servicepublic",
+    "u": "https://www.service-public.fr/particuliers/recherche?keyword={{{s}}}"
+  },
+  {
+    "d": "www.seslisozluk.net",
+    "s": "Sesli Sözlük",
+    "t": "sesli",
+    "u": "http://www.seslisozluk.net/?ssQBy=0&word={{{s}}}"
+  },
+  {
+    "d": "www.seslisozluk.com",
+    "s": "sesli sözlük",
+    "t": "seslisozluk",
+    "u": "http://www.seslisozluk.com/?word={{{s}}}"
+  },
+  {
+    "d": "thesession.org",
+    "s": "The Session",
+    "t": "session",
+    "u": "https://thesession.org/search?where=&q={{{s}}}"
+  },
+  {
+    "d": "www.suomienglantisanakirja.fi",
+    "s": "suomienglantisanakirja.fi",
+    "t": "ses",
+    "u": "https://www.suomienglantisanakirja.fi/{{{s}}}"
+  },
+  {
+    "d": "stackexchange.com",
+    "s": "StackExchange",
+    "t": "se",
+    "u": "http://stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.setlist.fm",
+    "s": "Setlist.fm",
+    "t": "setlist",
+    "u": "http://www.setlist.fm/search?query={{{s}}}"
+  },
+  {
+    "d": "www.seur.com",
+    "s": "Seur",
+    "t": "seur",
+    "u": "http://www.seur.com/seguimiento-online.do?segOnlineIdentificador={{{s}}}"
+  },
+  {
+    "d": "simple.wikipedia.org",
+    "s": "Simple English Wikipedia (short bang)",
+    "t": "se.w",
+    "u": "https://simple.wikipedia.org/wiki/{{{s}}}"
+  },
+  {
+    "d": "search.seznam.cz",
+    "s": "Seznam",
+    "t": "seznam",
+    "u": "http://search.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "d": "slovnik.seznam.cz",
+    "s": "Seznam.cz Slovník En-Cz",
+    "t": "sezs",
+    "u": "http://slovnik.seznam.cz/en-cz/word/?q={{{s}}}"
+  },
+  {
+    "d": "symfony.com",
+    "s": "Symfony Framework",
+    "t": "sf2",
+    "u": "http://symfony.com/search?q={{{s}}}"
+  },
+  {
+    "d": "scryfall.com",
+    "s": "Scryfall",
+    "t": "sfa",
+    "u": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sfbok.se",
+    "s": "Science Fiction Bokhandeln",
+    "t": "sfbok",
+    "u": "https://www.sfbok.se/search?keys={{{s}}}"
+  },
+  {
+    "d": "www.sparkfun.com",
+    "s": "Sparkfun Electronics",
+    "t": "sfe",
+    "u": "http://www.sparkfun.com/search/results?term={{{s}}}&what=products"
+  },
+  {
+    "d": "www.sfgate.com",
+    "s": "SFGate",
+    "t": "sfgate",
+    "u": "http://www.sfgate.com/search/?action=search&query={{{s}}}"
+  },
+  {
+    "d": "help.salesforce.com",
+    "s": "Salesforce Help",
+    "t": "sfhelp",
+    "u": "https://help.salesforce.com/search#q={{{s}}}"
+  },
+  {
+    "d": "scifiinterfaces.com",
+    "s": "Sci-Fi Interfaces",
+    "t": "sfi",
+    "u": "https://scifiinterfaces.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "scryfall.com",
+    "s": "Scryfall",
+    "t": "sfl",
+    "u": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sfmoma.org",
+    "s": "SFMOMA",
+    "t": "sfmoma",
+    "u": "https://www.sfmoma.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "na85.lightning.force.com",
+    "s": "Salesforce Lightning",
+    "t": "sforcel",
+    "u": "https://na85.lightning.force.com/one/one.app#ey{{{s}}}Jjb21wb25lbnREZWYiOiJmb3JjZVNlYXJjaDpzZWFyY2hQYWdlIiwiYXR0cmlidXRlcyI6eyJ0ZXJtIjoiQ3VydCIsInNjb3BlTWFwIjp7InR5cGUiOiJUT1BfUkVTVUxUUyJ9LCJjb250ZXh0Ijp7ImRpc2FibGVTcGVsbENvcnJlY3Rpb24iOmZhbHNlLCJkaXNhYmxlSW50ZW50UXVlcnkiOmZhbHNlLCJwZXJtc0FuZFByZWZzIjp7IlNlYXJjaFVpLnNlYXJjaFVJUGlsb3RGZWF0dXJlRW5hYmxlZCI6ZmFsc2UsIlNlYXJjaEV4cGVyaWVuY2UuTGVmdE5hdkVuaGFuY2VtZW50RW5hYmxlZCI6dHJ1ZSwiU2VhcmNoLmNyb3NzT2JqZWN0c0F1dG9TdWdnZXN0RW5hYmxlZCI6dHJ1ZSwiU2VhcmNoUmVzdWx0c0xWTS5sdm1FbmFibGVkRm9yU2VhcmNoUmVzdWx0c09uIjp0cnVlLCJNeVNlYXJjaC51c2VyQ2FuSGF2ZU15U2VhcmNoQmVzdFJlc3VsdCI6ZmFsc2UsIlNlYXJjaFJlc3VsdHNMVk0ubHZtRW5hYmxlZEZvclRvcFJlc3VsdHMiOmZhbHNlLCJPcmdQZXJtaXNzaW9ucy5VbmlvbkFwcE5hdlNtYXJ0U2NvcGUiOnRydWUsIlNlYXJjaFVpLmZlZWRiYWNrQ29tcG9uZW50RW5hYmxlZCI6ZmFsc2UsIlNlYXJjaEV4cGVyaWVuY2UuVG9wUmVzdWx0c1NpbmdsZVNPU0xFbmFibGVkIjpmYWxzZSwiT3JnUHJlZmVyZW5jZXMuQ2hhdHRlckVuYWJsZWQiOnRydWUsIlNlYXJjaC5tYXNrU2VhcmNoSW5mb0luTG9ncyI6ZmFsc2UsIlNlYXJjaFVpLm9yZ0hhc0FjY2Vzc1RvU2VhcmNoVGVybUhpc3RvcnkiOmZhbHNlLCJTZWFyY2hVaS5zZWFyY2hVSUludGVyYWN0aW9uTG9nZ2luZ0VuYWJsZWQiOmZhbHNlLCJNeVNlYXJjaC51c2VyQ2FuSGF2ZU15U2VhcmNoIjpmYWxzZX0sInNlYXJjaERpYWxvZ1Nlc3Npb25JZCI6IjM0NmY1YzI1LTIwNGEtYjMyMS1kYzM3LTM3Yzc5ZGQyNjA3ZCIsInNlYXJjaFNvdXJjZSI6IklOUFVUX0RFU0tUT1AifSwiZ3JvdXBJZCI6IkRFRkFVTFQifSwic3RhdGUiOnt9fQ%3D%3D"
+  },
+  {
+    "d": "login.salesforce.com",
+    "s": "Salesforce",
+    "t": "sforce",
+    "u": "https://login.salesforce.com/_ui/search/ui/UnifiedSearchResults?str={{{s}}}"
+  },
+  {
+    "d": "sfpl.bibliocommons.com",
+    "s": "San Francisco Public Library",
+    "t": "sfpl",
+    "u": "https://sfpl.bibliocommons.com/v2/search?searchType=smart&query={{{s}}}"
+  },
+  {
+    "d": "serverfault.com",
+    "s": "ServerFault",
+    "t": "sf",
+    "u": "http://serverfault.com/search?q={{{s}}}"
+  },
+  {
+    "d": "salesforce.stackexchange.com",
+    "s": "Salesforce Stack Exchange",
+    "t": "sfse",
+    "u": "http://salesforce.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.stopforumspam.com",
+    "s": "stopforumspam.com",
+    "t": "sfs",
+    "u": "http://www.stopforumspam.com/search?q={{{s}}}"
+  },
+  {
+    "d": "search.lib.sfu.ca",
+    "s": "Simon Fraser University Library",
+    "t": "sfulib",
+    "u": "http://search.lib.sfu.ca/?q={{{s}}}"
+  },
+  {
+    "d": "sfxperformance.com",
+    "s": "SFX performance",
+    "t": "sfxperformance",
+    "u": "https://sfxperformance.com/search/part-search.asp?search={{{s}}}"
+  },
+  {
+    "d": "soundeffectssearch.com",
+    "s": "Sound Effects Search",
+    "t": "sfxsearch",
+    "u": "http://soundeffectssearch.com/find-a-sound-library/?library={{{s}}}"
+  },
+  {
+    "d": "thejadednetwork.com",
+    "s": "SFX Translations @ The JADED Network",
+    "t": "sfx",
+    "u": "http://thejadednetwork.com/sfx/search/?keyword={{{s}}}&submitSearch="
+  },
+  {
+    "d": "apps.shopify.com",
+    "s": "Shopify App Store",
+    "t": "s.fyapp",
+    "u": "https://apps.shopify.com/search?q={{{s}}}&st_source="
+  },
+  {
+    "d": "www.yeastgenome.org",
+    "s": "Saccharomyces Genome Database",
+    "t": "sgd",
+    "u": "https://www.yeastgenome.org/search?q={{{s}}}&is_quick=true"
+  },
+  {
+    "d": "sourcegraph.com",
+    "s": "Sourcegraph",
+    "t": "sg",
+    "u": "https://sourcegraph.com/search?q={{{s}}}"
+  },
+  {
+    "d": "cryptography.cc",
+    "s": "Cryptography.cc",
+    "t": "sha256",
+    "u": "https://cryptography.cc/convert?text={{{s}}}&algorithm=sha256"
+  },
+  {
+    "d": "river.libox.fr",
+    "s": "Shaarli River",
+    "t": "shaarli",
+    "u": "https://river.libox.fr/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.hebcal.com",
+    "s": "https://www.hebcal.com/",
+    "t": "shabbat",
+    "u": "https://www.hebcal.com/shabbat/?cfg=json&m=50&b=18&zip={{{s}}}&a=on"
+  },
+  {
+    "d": "www.shadertoy.com",
+    "s": "shadertoy.com",
+    "t": "shadertoy",
+    "u": "https://www.shadertoy.com/results?query={{{s}}} "
+  },
+  {
+    "d": "crystalshards.org",
+    "s": "Crystal Shards",
+    "t": "shards",
+    "u": "https://crystalshards.org/?filter={{{s}}}"
+  },
+  {
+    "d": "sharepoint.stackexchange.com",
+    "s": "SharePoint Stack Exchange",
+    "t": "sharese",
+    "u": "https://sharepoint.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "share.servicenow.com",
+    "s": "ServiceNow",
+    "t": "sharesnc",
+    "u": "https://share.servicenow.com/app.do#/search-result?search_query={{{s}}}"
+  },
+  {
+    "d": "download.cnet.com",
+    "s": "Download.com",
+    "t": "shareware",
+    "u": "http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go%252521"
+  },
+  {
+    "d": "www.shaw.ca",
+    "s": "Shaw",
+    "t": "shaw",
+    "u": "https://www.shaw.ca/store/search/search.jsp?q={{{s}}}"
+  },
+  {
+    "d": "www.shayarimerepyarki.com",
+    "s": "Shayari mere pyar ki",
+    "t": "shayari",
+    "u": "https://www.shayarimerepyarki.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.shabdkosh.com",
+    "s": "Shabdkosh",
+    "t": "shbd",
+    "u": "http://www.shabdkosh.com/translate/{{{s}}}/"
+  },
+  {
+    "d": "shbf.se",
+    "s": "SHBF:s bryggarforum",
+    "t": "shbf",
+    "u": "http://shbf.se/bryggaren/search.php?keywords={{{s}}}&sid=7fb2bed909445b5497565d97ea00eb62"
+  },
+  {
+    "d": "www.sheetmusicdirect.com",
+    "s": "sheetmusicdirect.com",
+    "t": "sheetmusicdirect",
+    "u": "http://www.sheetmusicdirect.com/Search.aspx?query={{{s}}}"
+  },
+  {
+    "d": "www.sheetmusicplus.com",
+    "s": "Sheet Music Plus",
+    "t": "sheetmusicplus",
+    "u": "http://www.sheetmusicplus.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.sherdog.com",
+    "s": "Sherdog",
+    "t": "sherdog",
+    "u": "http://www.sherdog.com/stats/fightfinder?SearchTxt={{{s}}}"
+  },
+  {
+    "d": "www.sherwin-williams.com",
+    "s": "Sherwin-Williams",
+    "t": "sherwin",
+    "u": "https://www.sherwin-williams.com/SearchDisplay?categoryId=&storeId=10151&catalogId=11051&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=list&beginIndex=0&searchType=1000&pageSize=6&globalSearch=true&searchTerm={{{s}}}#facet:&productBeginIndex:0&contentBeginIndex:0&orderBy:&orderByContent:&pageView:list&minPrice:&maxPrice:&pageSize:&"
+  },
+  {
+    "d": "www.shiatsu-stijlen.nl",
+    "s": "Shiatsu Stijlen",
+    "t": "shiatsu",
+    "u": "http://www.shiatsu-stijlen.nl/zoeken.php?cx=partner-pub-1276597034470244%3Aslojxr-8otw&cof=FORID%3A11&ie=ISO-8859-1&q={{{s}}}&sa=Zoeken"
+  },
+  {
+    "d": "shikimori.org",
+    "s": "Shikimori",
+    "t": "shikimori",
+    "u": "https://shikimori.org/animes?search={{{s}}}"
+  },
+  {
+    "d": "shikimori.org",
+    "s": "Shikimori",
+    "t": "shiki",
+    "u": "https://shikimori.org/animes?search={{{s}}}"
+  },
+  {
+    "d": "shinden.pl",
+    "s": "Shinden",
+    "t": "shinden",
+    "u": "http://shinden.pl/search?q={{{s}}}"
+  },
+  {
+    "d": "shironet.mako.co.il",
+    "s": "Shironet",
+    "t": "shironet",
+    "u": "http://shironet.mako.co.il/search?q={{{s}}}"
+  },
+  {
+    "d": "shirtoid.com",
+    "s": "Shirtoid",
+    "t": "shirtoid",
+    "u": "https://shirtoid.com/search/{{{s}}}"
+  },
+  {
+    "d": "shitcore.org",
+    "s": "shitcore.org",
+    "t": "shitcore",
+    "u": "http://shitcore.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "help.strongholdkingdoms.com",
+    "s": "Stronghold Kingdoms Wiki",
+    "t": "shkwiki",
+    "u": "http://help.strongholdkingdoms.com/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "forum.shmakerspace.org",
+    "s": "SHM Forum",
+    "t": "shmf",
+    "u": "https://forum.shmakerspace.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.shmoop.com",
+    "s": "Shmoop",
+    "t": "shmoop",
+    "u": "http://www.shmoop.com/search?q={{{s}}} "
+  },
+  {
+    "d": "shikimori.org",
+    "s": "Shikimori",
+    "t": "shm",
+    "u": "https://shikimori.org/animes?search={{{s}}}"
+  },
+  {
+    "d": "www.shodan.io",
+    "s": "shodan",
+    "t": "shodan",
+    "u": "https://www.shodan.io/search?query={{{s}}}"
+  },
+  {
+    "d": "www.shoop.de",
+    "s": "Shoop.de",
+    "t": "shoopde",
+    "u": "https://www.shoop.de/suche?q={{{s}}}"
+  },
+  {
+    "d": "www.shopathome.com",
+    "s": "ShopAtHome.com",
+    "t": "shopathome",
+    "u": "https://www.shopathome.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.shopcade.com",
+    "s": "Shopcade",
+    "t": "shopcade",
+    "u": "https://www.shopcade.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.shop.ca",
+    "s": "shop.ca",
+    "t": "shopca",
+    "u": "https://www.shop.ca/webapp/wcs/stores/servlet/SearchDisplay?storeId=10201&catalogId=10301&langId=-1&pageSize=48&beginIndex=0&searchSource=Q&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=imageOnly&searchTermScope=-1&searchTerm={{{s}}}"
+  },
+  {
+    "d": "shopclues.com",
+    "s": "SHOPCLUES",
+    "t": "shopclues",
+    "u": "http://shopclues.com/?q={{{s}}}: "
+  },
+  {
+    "d": "www.shopdisciple.com",
+    "s": "Disciple Records Shop",
+    "t": "shopdisciple",
+    "u": "https://www.shopdisciple.com/search?q={{{s}}}"
+  },
+  {
+    "d": "shopee.ph",
+    "s": "Shopee",
+    "t": "shopeeph",
+    "u": "https://shopee.ph/search?keyword={{{s}}}"
+  },
+  {
+    "d": "shopee.tw",
+    "s": "shopee 蝦皮",
+    "t": "shopee",
+    "u": "https://shopee.tw/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "shophenco.com",
+    "s": "shophenco",
+    "t": "shophenco",
+    "u": "https://shophenco.com/?q={{{s}}}"
+  },
+  {
+    "d": "ecommerce.shopify.com",
+    "s": "Shopify",
+    "t": "shopifyforum",
+    "u": "https://ecommerce.shopify.com/ecommerce/{{{s}}}"
+  },
+  {
+    "d": "help.shopify.com",
+    "s": "Shopify",
+    "t": "shopify",
+    "u": "https://help.shopify.com/en/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.shopomo.com",
+    "s": "Shopomo",
+    "t": "shopomo",
+    "u": "http://www.shopomo.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Shopping",
+    "t": "shopping",
+    "u": "https://www.google.com/products?q={{{s}}}&sa=N&tab=pf"
+  },
+  {
+    "d": "www.shopto.net",
+    "s": "ShopTo.net",
+    "t": "shopto",
+    "u": "https://www.shopto.net/search/newSearchPage?Filter_department=&newsearch={{{s}}}"
+  },
+  {
+    "d": "shopping.yahoo.com",
+    "s": "Yahoo! Shopping",
+    "t": "shop",
+    "u": "http://shopping.yahoo.com/search?p={{{s}}}"
+  },
+  {
+    "d": "www.shopyourway.com",
+    "s": "Shop Your Way",
+    "t": "shopyourway",
+    "u": "http://www.shopyourway.com/search/products?q={{{s}}}"
+  },
+  {
+    "d": "www.shopzilla.com",
+    "s": "Shopzilla",
+    "t": "shopzilla",
+    "u": "http://www.shopzilla.com/{{{s}}}/search"
+  },
+  {
+    "d": "cortas.elpais.com",
+    "s": "Cortas - URL shortener",
+    "t": "shorten",
+    "u": "http://cortas.elpais.com/encode.pl?u=http://{{{s}}}"
+  },
+  {
+    "d": "symbolhound.com",
+    "s": "SymbolHound",
+    "t": "sho",
+    "u": "http://symbolhound.com/?q={{{s}}}"
+  },
+  {
+    "d": "directory.shoutcast.com",
+    "s": "Shoutcast Streaming Internet Radio",
+    "t": "shoutcast",
+    "u": "https://directory.shoutcast.com/Search?query={{{s}}}"
+  },
+  {
+    "d": "www.shoutmeloud.com",
+    "s": "ShoutMeLoud",
+    "t": "shout",
+    "u": "https://www.shoutmeloud.com/?s={{{s}}}"
+  },
+  {
+    "d": "dex.pokemonshowdown.com",
+    "s": "Pokémon Showdown",
+    "t": "showdown",
+    "u": "http://dex.pokemonshowdown.com/?q={{{s}}}"
+  },
+  {
+    "d": "en.shpock.com",
+    "s": "Shpock",
+    "t": "shpock",
+    "u": "https://en.shpock.com/q/{{{s}}}/"
+  },
+  {
+    "d": "www.shroomery.org",
+    "s": "Shroomery",
+    "t": "shroomery",
+    "u": "https://www.shroomery.org/search.php?terms={{{s}}}"
+  },
+  {
+    "d": "www.shodan.io",
+    "s": "Shodan",
+    "t": "sh",
+    "u": "https://www.shodan.io/search?query={{{s}}}"
+  },
+  {
+    "d": "stor.1conan.com",
+    "s": "TSS Saver",
+    "t": "shsh",
+    "u": "https://stor.1conan.com/tsssaver/shsh/{{{s}}}"
+  },
+  {
+    "d": "secondhandsongs.com",
+    "s": "SecondHandSongs",
+    "t": "shs",
+    "u": "https://secondhandsongs.com/search?search_text={{{s}}}"
+  },
+  {
+    "d": "www.shoptimate.com",
+    "s": "Shoptimate",
+    "t": "shtm",
+    "u": "http://www.shoptimate.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.scribblehub.com",
+    "s": "ScribbleHub",
+    "t": "shub",
+    "u": "https://www.scribblehub.com/?s={{{s}}}"
+  },
+  {
+    "d": "shura.shu.ac.uk",
+    "s": "Sheffield Hallam University Research Archive (SHURA)",
+    "t": "shura",
+    "u": "http://shura.shu.ac.uk/cgi/facet/simple2?q={{{s}}}"
+  },
+  {
+    "d": "www.shutterstock.com",
+    "s": "Shutterstock",
+    "t": "shutterstock",
+    "u": "http://www.shutterstock.com/cat.mhtml?searchterm={{{s}}}"
+  },
+  {
+    "d": "www.shazam.com",
+    "s": "Shazam",
+    "t": "shz",
+    "u": "http://www.shazam.com/de/search/{{{s}}}"
+  },
+  {
+    "d": "br.shouldianswer.net",
+    "s": "Devo Atender?",
+    "t": "siabr",
+    "u": "https://br.shouldianswer.net/numero-de-telefone/?q={{{s}}}"
+  },
+  {
+    "d": "www.staticice.com.au",
+    "s": "staticICE",
+    "t": "sice",
+    "u": "http://www.staticice.com.au/cgi-bin/search.cgi?q={{{s}}}"
+  },
+  {
+    "d": "sinonims.iec.cat",
+    "s": "Sinònims - Institut d'Estudis Catalans",
+    "t": "siec",
+    "u": "https://sinonims.iec.cat/sinonims_cerca_sin.asp?pclau2={{{s}}}&button=Cerca+arreu"
+  },
+  {
+    "d": "support.industry.siemens.com",
+    "s": "Siemens Industry Support",
+    "t": "siemenssupport",
+    "u": "https://support.industry.siemens.com/cs/search?search={{{s}}}"
+  },
+  {
+    "d": "partners.sigfox.com",
+    "s": "Sigfox Partner Network",
+    "t": "sigfox",
+    "u": "https://partners.sigfox.com/search/products?q={{{s}}}"
+  },
+  {
+    "d": "www.sigmaaldrich.com",
+    "s": "Sigma Aldritch Catalog",
+    "t": "sigma",
+    "u": "http://www.sigmaaldrich.com/catalog/search?interface=All&term={{{s}}}"
+  },
+  {
+    "d": "www.signingsavvy.com",
+    "s": "Signing Savvy",
+    "t": "signingsavvy",
+    "u": "https://www.signingsavvy.com/search/{{{s}}}"
+  },
+  {
+    "d": "doc.sikuli.org",
+    "s": "Sikuli",
+    "t": "sikuli",
+    "u": "http://doc.sikuli.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.silvergames.com",
+    "s": "https://www.silvergames.com",
+    "t": "silvergames",
+    "u": "https://www.silvergames.com/en/s?q={{{s}}}"
+  },
+  {
+    "d": "www.providentmetals.com",
+    "s": "providentmetals.com",
+    "t": "silver",
+    "u": "https://www.providentmetals.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage Picture Search",
+    "t": "simages",
+    "u": "https://startpage.com/do/metasearch.pl?cat=pics&query={{{s}}}"
+  },
+  {
+    "d": "simania.co.il",
+    "s": "Simania",
+    "t": "simania",
+    "u": "http://simania.co.il/searchBooks.php?searchType=tabAll&query={{{s}}}"
+  },
+  {
+    "d": "simbad.u-strasbg.fr",
+    "s": "SIMBAD Astronomical Database",
+    "t": "simbad",
+    "u": "http://simbad.u-strasbg.fr/simbad/sim-basic?Ident={{{s}}}"
+  },
+  {
+    "d": "www.similarsites.com",
+    "s": "SimilarSites",
+    "t": "similar",
+    "u": "http://www.similarsites.com/site/{{{s}}}"
+  },
+  {
+    "d": "www.similarweb.com",
+    "s": "SimilarWeb",
+    "t": "similarweb",
+    "u": "http://www.similarweb.com/website/{{{s}}}"
+  },
+  {
+    "d": "www.simplicite.io",
+    "s": "Simplicité.io",
+    "t": "simplicite",
+    "u": "https://www.simplicite.io/resources/search?q={{{s}}}"
+  },
+  {
+    "d": "www.simplyrecipes.com",
+    "s": "Simply Recipes",
+    "t": "simpl",
+    "u": "https://www.simplyrecipes.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.simplyhired.com",
+    "s": "SimplyHired",
+    "t": "simplyhired",
+    "u": "http://www.simplyhired.com/a/jobs/list/q-{{{s}}}"
+  },
+  {
+    "d": "www.simplyscuba.com",
+    "s": "Simply Scuba",
+    "t": "simplyscuba",
+    "u": "https://www.simplyscuba.com/pages/search-results-page?q={{{s}}}"
+  },
+  {
+    "d": "simpsons.wikia.com",
+    "s": "http://simpsons.wikia.com/wiki/",
+    "t": "simpsons",
+    "u": "http://simpsons.wikia.com/wiki/Special:Search?search= {{{s}}}"
+  },
+  {
+    "d": "www.sinonimos.com.br",
+    "s": "Dicionário de Sinônimos",
+    "t": "sin",
+    "u": "https://www.sinonimos.com.br/{{{s}}}"
+  },
+  {
+    "d": "search.sindonews.com",
+    "s": "SINDOnews",
+    "t": "sindonews",
+    "u": "https://search.sindonews.com/search?type=artikel&q={{{s}}}"
+  },
+  {
+    "d": "www.sinemalar.com",
+    "s": "Sinemalar",
+    "t": "sinemalar",
+    "u": "http://www.sinemalar.com/ara/?type=all&page=1&q={{{s}}}"
+  },
+  {
+    "d": "singa.com",
+    "s": "Singa",
+    "t": "singa",
+    "u": "https://singa.com/search/results/{{{s}}}"
+  },
+  {
+    "d": "singcat.net",
+    "s": "singcat.net",
+    "t": "singcat",
+    "u": "https://singcat.net/results/?q={{{s}}}"
+  },
+  {
+    "d": "luirig.altervista.org",
+    "s": "Sinonimi Master",
+    "t": "sinonimi",
+    "u": "http://luirig.altervista.org/sinonimi/hypertext/ricerca.php?title={{{s}}}"
+  },
+  {
+    "d": "sinonimi.it",
+    "s": "Sinonimi.it",
+    "t": "sinonimit",
+    "u": "http://sinonimi.it/{{{s}}}"
+  },
+  {
+    "d": "www.sinonimos.com.br",
+    "s": "Sinômimos.com.br",
+    "t": "sinonimos",
+    "u": "https://www.sinonimos.com.br/{{{s}}}"
+  },
+  {
+    "d": "www.wordreference.com",
+    "s": "Wordreference Sinonimos",
+    "t": "sinonimo",
+    "u": "http://www.wordreference.com/sinonimos/{{{s}}}"
+  },
+  {
+    "d": "sinopak.net",
+    "s": "sinopak",
+    "t": "sinopak",
+    "u": "http://sinopak.net/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Search"
+  },
+  {
+    "d": "sipreadrepeat.com",
+    "s": "Sip Read Repeat",
+    "t": "sip",
+    "u": "https://sipreadrepeat.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.shouldiremoveit.com",
+    "s": "Should I remove It?",
+    "t": "siri",
+    "u": "http://www.shouldiremoveit.com/programs.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.sirogohan.com",
+    "s": "白ごはん.com",
+    "t": "sirogohan",
+    "u": "https://www.sirogohan.com/recipe/index/keyword: {{{s}}}"
+  },
+  {
+    "d": "www.silberschmiede-online.de",
+    "s": "Silberschmiede Online",
+    "t": "sischmi",
+    "u": "https://www.silberschmiede-online.de/advanced_search_result.php?keywords={{{s}}}"
+  },
+  {
+    "d": "la-lojban.github.io",
+    "s": "la sutysisku",
+    "t": "sisku",
+    "u": "https://la-lojban.github.io/sutysisku/en/#sisku/{{{s}}}"
+  },
+  {
+    "d": "www.si.com",
+    "s": "Sports Illustrated",
+    "t": "si",
+    "u": "https://www.si.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sitag.ch",
+    "s": "SITAG - swiss style at work",
+    "t": "sitag",
+    "u": "http://www.sitag.ch/suchen/?tx_indexedsearch%5Bsword%5D={{{s}}}"
+  },
+  {
+    "d": "www.sitealytics.com",
+    "s": "sitealytics.com",
+    "t": "sitealytics",
+    "u": "http://www.sitealytics.com/{{{s}}}/"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo site: search operator shortcut",
+    "t": "site",
+    "u": "https://duckduckgo.com/?q=site%3A{{{s}}}"
+  },
+  {
+    "d": "www.sitepoint.com",
+    "s": "Sitepoint",
+    "t": "sitepoint",
+    "u": "https://www.sitepoint.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.siteslike.com",
+    "s": "siteslike",
+    "t": "siteslike",
+    "u": "http://www.siteslike.com/similar/{{{s}}} "
+  },
+  {
+    "d": "schoolido.lu",
+    "s": "schoolido.lu",
+    "t": "sit",
+    "u": "http://schoolido.lu/cards/?search={{{s}}}&name=&rarity=&attribute=&is_promo=&is_special=&is_event=&skill=&translated_collection=&collection=&main_unit=&sub_unit=&idol_school=&idol_year=&release_after=&release_before=&view=cards&albumbuilder_account=15585&account=&ordering=id&reverse_order=on"
+  },
+  {
+    "d": "situsali.com",
+    "s": "Situs Ali",
+    "t": "situsali",
+    "u": "https://situsali.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "simpsonswiki.com",
+    "s": "Wikisimpsons",
+    "t": "siw",
+    "u": "http://simpsonswiki.com/w/index.php?title=Special%3ASearch&search={{{s}}} "
+  },
+  {
+    "d": "sixdegreesofkanyewest.com",
+    "s": "Six Degrees of Kanye West",
+    "t": "sixdegrees",
+    "u": "https://sixdegreesofkanyewest.com/artist?q={{{s}}}"
+  },
+  {
+    "d": "stjos.sjcpl.lib.in.us",
+    "s": "St. Joeseph Co. Public Library",
+    "t": "sjcpl",
+    "u": "http://stjos.sjcpl.lib.in.us/search/?searchtype=X&SORT=D&searcharg={{{s}}} "
+  },
+  {
+    "d": "sjiauto.wordpress.com",
+    "s": "Science Jobs India",
+    "t": "sjiauto",
+    "u": "https://sjiauto.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Sociology Job Market Rumors",
+    "t": "sjmr",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:socjobrumors.com"
+  },
+  {
+    "d": "sjp.pwn.pl",
+    "s": "Słownik Języka Polskiego",
+    "t": "sjp",
+    "u": "http://sjp.pwn.pl/szukaj/{{{s}}}.html"
+  },
+  {
+    "d": "www.scimagojr.com",
+    "s": "Scimago Journal & Country Rank",
+    "t": "sjr",
+    "u": "http://www.scimagojr.com/journalsearch.php?q={{{s}}}"
+  },
+  {
+    "d": "www.sitejabber.com",
+    "s": "sitejabber",
+    "t": "sj",
+    "u": "https://www.sitejabber.com/search?q={{{s}}}"
+  },
+  {
+    "d": "sk1er.club",
+    "s": "Sk1er’s Stats",
+    "t": "sk1",
+    "u": "https://sk1er.club/stats/{{{s}}}"
+  },
+  {
+    "d": "www.sportkopf24.de",
+    "s": "sportkopf24",
+    "t": "sk24",
+    "u": "https://www.sportkopf24.de/?ActionCall=WebActionArticleSearch&Params%5BSearchParam%5D={{{s}}}"
+  },
+  {
+    "d": "sk8park.de",
+    "s": "sk8park.de",
+    "t": "sk8",
+    "u": "https://sk8park.de/?s={{{s}}}"
+  },
+  {
+    "d": "wiki.sk89q.com",
+    "s": "sk98q",
+    "t": "sk98q",
+    "u": "http://wiki.sk89q.com/w/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.skal-man.se",
+    "s": "Skalman",
+    "t": "skalman",
+    "u": "https://www.skal-man.se/sok/{{{s}}}"
+  },
+  {
+    "d": "www.skapiec.pl",
+    "s": "http://www.skapiec.pl/",
+    "t": "skapiec",
+    "u": "http://www.skapiec.pl/szukaj/w_calym_serwisie/{{{s}}}"
+  },
+  {
+    "d": "kb.workfusion.com",
+    "s": "kb.workfusion.com",
+    "t": "skb",
+    "u": "https://kb.workfusion.com/dosearchsite.action?cql=siteSearch+~+%22{{{s}}}%22&queryString={{{s}}}"
+  },
+  {
+    "d": "slovniky.korpus.sk",
+    "s": "Slovenské slovníky",
+    "t": "skd",
+    "u": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "d": "www.skelbimai.lt",
+    "s": "Skelbimai",
+    "t": "skelbimai",
+    "u": "https://www.skelbimai.lt/paieska?q={{{s}}}"
+  },
+  {
+    "d": "skelbiu.lt",
+    "s": "Skelbiu",
+    "t": "skelbiu",
+    "u": "http://skelbiu.lt/skelbimai/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.sanakirja.org",
+    "s": "Sanakirja.org en-fi",
+    "t": "skenfi",
+    "u": "http://www.sanakirja.org/search.php?l=3&l2=17&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "The Skeptic's Dictionary",
+    "t": "skepdic",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:skepdic.com"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Skeptic's Bible",
+    "t": "skepticsbible",
+    "u": "https://duckduckgo.com/?q=site:skepticsannotatedbible.com {{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Skeptic's Annotated Quran",
+    "t": "skepticskoran",
+    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&ia=web"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Skeptic's Annotated Quran",
+    "t": "skepticsquran",
+    "u": "https://duckduckgo.com/?q=site%3Askepticsannotatedbible.com%2Fquran%2F+{{{s}}}&t=ffsb&ia=web"
+  },
+  {
+    "d": "skeptoid.com",
+    "s": "Skeptoid",
+    "t": "skeptoid",
+    "u": "https://skeptoid.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "sketchfab.com",
+    "s": "Sketchfab",
+    "t": "sketchfab",
+    "u": "https://sketchfab.com/models?q={{{s}}}&sort_by=-likeCount"
+  },
+  {
+    "d": "www.sketchport.com",
+    "s": "SketchPort",
+    "t": "sketchport",
+    "u": "https://www.sketchport.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.skillshare.com",
+    "s": "Skillshare",
+    "t": "skillshare",
+    "u": "https://www.skillshare.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.skillshare.com",
+    "s": "Skillshare",
+    "t": "skill",
+    "u": "https://www.skillshare.com/search?query={{{s}}}"
+  },
+  {
+    "d": "scikit-image.org",
+    "s": "scikit-image",
+    "t": "skimage",
+    "u": "http://scikit-image.org/docs/dev/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.ewg.org",
+    "s": "Skin Deep Cosmetics Database",
+    "t": "skindeep",
+    "u": "http://www.ewg.org/skindeep/search.php?query={{{s}}}"
+  },
+  {
+    "d": "skinflint.co.uk",
+    "s": "Skinflint",
+    "t": "skinflint",
+    "u": "http://skinflint.co.uk/?fs={{{s}}}"
+  },
+  {
+    "d": "www.theskinnyconfidential.com",
+    "s": "The Skinny Confidential",
+    "t": "skinny",
+    "u": "https://www.theskinnyconfidential.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.skipthedrive.com",
+    "s": "SkipTheDrive",
+    "t": "skipthedrive",
+    "u": "http://www.skipthedrive.com/jobs/?search={{{s}}} "
+  },
+  {
+    "d": "shabdkosh.com",
+    "s": "Shabdkosh Kannada",
+    "t": "skk",
+    "u": "http://shabdkosh.com/kn/translate/{{{s}}}/"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "http://scikit-learn.org/",
+    "t": "sklearn",
+    "u": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fscikit-learn.org%2Fstable%2Fmodules%2Fgenerated%2F+{{{s}}}&ia=web"
+  },
+  {
+    "d": "www.skroutz.gr",
+    "s": "Skroutz",
+    "t": "skroutz",
+    "u": "https://www.skroutz.gr/search?keyphrase={{{s}}}"
+  },
+  {
+    "d": "www.songkick.com",
+    "s": "Songkick",
+    "t": "sk",
+    "u": "http://www.songkick.com/search?query={{{s}}}"
+  },
+  {
+    "d": "sks-keyservers.net",
+    "s": "SKS Keyservers",
+    "t": "sks",
+    "u": "https://sks-keyservers.net/pks/lookup?op=vindex&search={{{s}}}"
+  },
+  {
+    "d": "www.sketchappsources.com",
+    "s": "sketchappsources",
+    "t": "sktr",
+    "u": "https://www.sketchappsources.com/search_{{{s}}}.html"
+  },
+  {
+    "d": "docs.skunity.com",
+    "s": "skUnity",
+    "t": "sku",
+    "u": "https://docs.skunity.com/syntax/search/{{{s}}}"
+  },
+  {
+    "d": "community.skype.com",
+    "s": "Skype Community",
+    "t": "skypecommunity",
+    "u": "http://community.skype.com/t5/forums/searchpage/tab/message?filter=labels%2Clocation&location=category%3AEnglish&q={{{s}}} "
+  },
+  {
+    "d": "www.skyrock.com",
+    "s": "SkyRock",
+    "t": "skyrock",
+    "u": "http://www.skyrock.com/search/people/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Skyscanner",
+    "t": "skyscan",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:http://www.skyscanner.net"
+  },
+  {
+    "d": "www.skysports.com",
+    "s": "Skysports",
+    "t": "sky",
+    "u": "http://www.skysports.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.skystore.com",
+    "s": "Sky Store",
+    "t": "skystore",
+    "u": "https://www.skystore.com/search?q={{{s}}}"
+  },
+  {
+    "d": "skyvector.com",
+    "s": "SkyVector",
+    "t": "skyvector",
+    "u": "https://skyvector.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "slackbuilds.org",
+    "s": "Slackbuilds",
+    "t": "slackbuild",
+    "u": "http://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "d": "slackbuilds.org",
+    "s": "Slackbuilds",
+    "t": "slackbuilds",
+    "u": "http://slackbuilds.org/result/?search={{{s}}}"
+  },
+  {
+    "d": "docs.slackware.com",
+    "s": "Slackware Documentation Project",
+    "t": "slackdoc",
+    "u": "http://docs.slackware.com/start?do=search&id={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "packages.slackware.com",
+    "s": "Slackware Package Browser",
+    "t": "slackpkg",
+    "u": "http://packages.slackware.com/?search={{{s}}}"
+  },
+  {
+    "d": "www.slader.com",
+    "s": "Slader",
+    "t": "slader",
+    "u": "http://www.slader.com/search/?search_query={{{s}}}"
+  },
+  {
+    "d": "www.slang.gr",
+    "s": "SLANG.gr",
+    "t": "slanggr",
+    "u": "http://www.slang.gr/lemmas?q={{{s}}}"
+  },
+  {
+    "d": "onlineslangdictionary.com",
+    "s": "The Online Slang Dictionary",
+    "t": "slang",
+    "u": "http://onlineslangdictionary.com/definition+of/{{{s}}}"
+  },
+  {
+    "d": "www.slant.co",
+    "s": "Slant.co",
+    "t": "slant",
+    "u": "http://www.slant.co/topics/?search={{{s}}}"
+  },
+  {
+    "d": "slashdot.org",
+    "s": "Slashdot",
+    "t": "slashdot",
+    "u": "http://slashdot.org/index2.pl?fhfilter={{{s}}}"
+  },
+  {
+    "d": "www.slate.fr",
+    "s": "Slate.fr",
+    "t": "slatefr",
+    "u": "https://www.slate.fr/search?mot-cle={{{s}}}"
+  },
+  {
+    "d": "www.slate.com",
+    "s": "Slate",
+    "t": "slate",
+    "u": "http://www.slate.com/search.html#search={{{s}}}"
+  },
+  {
+    "d": "www.slaw.ca",
+    "s": "Slaw",
+    "t": "slaw",
+    "u": "http://www.slaw.ca/?s={{{s}}}"
+  },
+  {
+    "d": "www.slcl.org",
+    "s": "St. Louis County Library",
+    "t": "slcl",
+    "u": "https://www.slcl.org/bento/search/{{{s}}}"
+  },
+  {
+    "d": "catalog.slcpl.org",
+    "s": "Salt Lake City Public Library",
+    "t": "slcpl",
+    "u": "http://catalog.slcpl.org/search/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "d": "www.lightningdesignsystem.com",
+    "s": "Salesforce Lightning Design System",
+    "t": "slds",
+    "u": "https://www.lightningdesignsystem.com/components/{{{s}}}"
+  },
+  {
+    "d": "searchlibs.com",
+    "s": "SearchLibs",
+    "t": "slibs",
+    "u": "http://searchlibs.com/?q={{{s}}}"
+  },
+  {
+    "d": "slickdeals.net",
+    "s": "SlickDeals",
+    "t": "slickdeals",
+    "u": "http://slickdeals.net/sdsearch.php?forumchoice%5B%5D=9&search={{{s}}}&mode=forum&showposts=0&sdsearch_archive=0&firstpost=1"
+  },
+  {
+    "d": "www.slidescarnival.com",
+    "s": "Slides Canival",
+    "t": "slidescarnival",
+    "u": "https://www.slidescarnival.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.slideshare.net",
+    "s": "SlideShare",
+    "t": "slideshare",
+    "u": "http://www.slideshare.net/search/slideshow?q={{{s}}}&submit=post&commit=Search"
+  },
+  {
+    "d": "link.springer.com",
+    "s": "Springer Link",
+    "t": "slink",
+    "u": "http://link.springer.com/search?query={{{s}}}"
+  },
+  {
+    "d": "forum.slitaz.org",
+    "s": "SliTaz Forums",
+    "t": "slitazforums",
+    "u": "http://forum.slitaz.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.searchlock.com",
+    "s": "SearchLock",
+    "t": "slk",
+    "u": "https://www.searchlock.com/search?q={{{s}}}"
+  },
+  {
+    "d": "strategischlui.nl",
+    "s": "Strategisch Lui",
+    "t": "slnl",
+    "u": "https://strategischlui.nl/?s={{{s}}}"
+  },
+  {
+    "d": "www.searchlock.com",
+    "s": "Searchlock Images",
+    "t": "slocki",
+    "u": "https://www.searchlock.com/search?tbm=isch&q={{{s}}}"
+  },
+  {
+    "d": "www.searchlock.com",
+    "s": "Searchlock",
+    "t": "slock",
+    "u": "https://www.searchlock.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.searchlotto.co.uk",
+    "s": "Search Lotto",
+    "t": "slo",
+    "u": "https://www.searchlotto.co.uk/yhs_search.php?q={{{s}}}"
+  },
+  {
+    "d": "slo-tech.com",
+    "s": "Slo-Tech",
+    "t": "slotech",
+    "u": "https://slo-tech.com/forum/isci/?q={{{s}}}"
+  },
+  {
+    "d": "slote.me",
+    "s": "Slote Pimousse",
+    "t": "slote",
+    "u": "http://slote.me/?q={{{s}}}"
+  },
+  {
+    "d": "slovniky.korpus.sk",
+    "s": "Slovenské slovníky",
+    "t": "slovak",
+    "u": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "d": "slovnenya.com",
+    "s": "Slovnenya",
+    "t": "slovnenya",
+    "u": "http://slovnenya.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "slovnik.seznam.cz",
+    "s": "Seznam Slovník",
+    "t": "slovnik",
+    "u": "https://slovnik.seznam.cz/en/?q={{{s}}}"
+  },
+  {
+    "d": "slovniky.korpus.sk",
+    "s": "Slovenské slovníky",
+    "t": "slovniky",
+    "u": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "d": "slovari.yandex.ru",
+    "s": "Yandex.Slovari",
+    "t": "slov",
+    "u": "http://slovari.yandex.ru/search.xml?text={{{s}}}"
+  },
+  {
+    "d": "www.sololearn.com",
+    "s": "Sololearn Discuss",
+    "t": "slqa",
+    "u": "https://www.sololearn.com/Discuss?ordering=Trending&query={{{s}}}"
+  },
+  {
+    "d": "www.sololearn.com",
+    "s": "Sololearn",
+    "t": "slq",
+    "u": "https://www.sololearn.com/Discuss?ordering=Trending&query={{{s}}}"
+  },
+  {
+    "d": "www.setlist.fm",
+    "s": "Setlist.fm",
+    "t": "sl",
+    "u": "http://www.setlist.fm/search?query={{{s}}}"
+  },
+  {
+    "d": "katalogbeta.slub-dresden.de",
+    "s": "SLUB Katalog",
+    "t": "slub",
+    "u": "http://katalogbeta.slub-dresden.de/?tx_find_find[q][default]={{{s}}} "
+  },
+  {
+    "d": "sludgefeed.com",
+    "s": "SludgeFeed",
+    "t": "sludgefeed",
+    "u": "https://sludgefeed.com/?s={{{s}}}"
+  },
+  {
+    "d": "wiki.secondlife.com",
+    "s": "Second Life Wiki",
+    "t": "slwiki",
+    "u": "http://wiki.secondlife.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.songlyrics.com",
+    "s": "SONG LYRICS",
+    "t": "slyrics",
+    "u": "http://www.songlyrics.com/index.php?section=search&searchW={{{s}}}&submit=Search"
+  },
+  {
+    "d": "science.sciencemag.org",
+    "s": "sciencemag",
+    "t": "smag",
+    "u": "http://science.sciencemag.org/search/{{{s}}}"
+  },
+  {
+    "d": "smile.amazon.com",
+    "s": "Amazon Smile",
+    "t": "smam",
+    "u": "http://smile.amazon.com/s/?field-keywords={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.co.uk",
+    "s": "Amazon Smile (UK)",
+    "t": "smamuk",
+    "u": "https://smile.amazon.co.uk/s?field-keywords={{{s}}}"
+  },
+  {
+    "d": "streetmap.co.uk",
+    "s": "Streetmap",
+    "t": "smap",
+    "u": "http://streetmap.co.uk/postcode/{{{s}}}"
+  },
+  {
+    "d": "rug.on.worldcat.org",
+    "s": "Smartcat",
+    "t": "smartcat",
+    "u": "https://rug.on.worldcat.org/search?databaseList=&queryString={{{s}}}"
+  },
+  {
+    "d": "smartos.org",
+    "s": "SmartOS Man Pages",
+    "t": "smartos",
+    "u": "https://smartos.org/man/{{{s}}}"
+  },
+  {
+    "d": "smartsearch.altervista.org",
+    "s": "SmartSearch",
+    "t": "smartsearch",
+    "u": "http://smartsearch.altervista.org/?q={{{s}}} "
+  },
+  {
+    "d": "www.smarticular.net",
+    "s": "Smarticular",
+    "t": "smart",
+    "u": "https://www.smarticular.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.smarty.net",
+    "s": "Smarty",
+    "t": "smarty",
+    "u": "http://www.smarty.net/search?q={{{s}}}&show=manual-en&x=0&y=0"
+  },
+  {
+    "d": "smashbomb.com",
+    "s": "Smashbomb",
+    "t": "smashbomb",
+    "u": "https://smashbomb.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.smashingmagazine.com",
+    "s": "Smashing Magazine",
+    "t": "smashingmagazine",
+    "u": "http://www.smashingmagazine.com/search-results/?q={{{s}}}&cx=partner-pub-6779860845561969%3A5884617103&cof=FORID%3A10&ie=UTF-8"
+  },
+  {
+    "d": "www.smashwords.com",
+    "s": "Smashwords",
+    "t": "smashwords",
+    "u": "http://www.smashwords.com/books/search?query={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.com",
+    "s": "Smile.amazon.com",
+    "t": "sma",
+    "u": "https://smile.amazon.com/s/&field-keywords={{{s}}}"
+  },
+  {
+    "d": "smdb.kb.se",
+    "s": "Svensk Mediedatabas",
+    "t": "smdb",
+    "u": "http://smdb.kb.se/catalog/search?q={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.de",
+    "s": "Amazon Smile (De)",
+    "t": "smde",
+    "u": "http://smile.amazon.de/s?field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.sheetmusicdirect.com",
+    "s": "sheetmusicdirect.com",
+    "t": "smd",
+    "u": "http://www.sheetmusicdirect.com/Search.aspx?query={{{s}}}"
+  },
+  {
+    "d": "socialmention.com",
+    "s": "Social Mention",
+    "t": "smention",
+    "u": "http://socialmention.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Smogon Dex Sun and Moon",
+    "t": "smgsm",
+    "u": "http://www.smogon.com/dex/sm/pokemon/{{{s}}}"
+  },
+  {
+    "d": "www.smhi.se",
+    "s": "SMHI - Swedish Meteorological and Hydrological Institute",
+    "t": "smhi",
+    "u": "https://www.smhi.se/sok?query={{{s}}}"
+  },
+  {
+    "d": "www.smh.com.au",
+    "s": "The Sydney Morning Herald",
+    "t": "smh",
+    "u": "http://www.smh.com.au/search?text={{{s}}}"
+  },
+  {
+    "d": "st-sm.com",
+    "s": "https://st-sm.com/sante-et-minceur/",
+    "t": "s&m",
+    "u": "https://st-sm.com/sante-et-minceur/en/search?s={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.com",
+    "s": "Amazon Smile",
+    "t": "smile",
+    "u": "https://smile.amazon.com/s?field-keywords={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.co.uk",
+    "s": "Amazon Smile (UK)",
+    "t": "smileuk",
+    "u": "https://smile.amazon.co.uk/s?field-keywords={{{s}}}"
+  },
+  {
+    "d": "api.posteo.de",
+    "s": "Posteo S/MIME Certificate Search",
+    "t": "smime",
+    "u": "https://api.posteo.de/v1/public-keys/{{{s}}}?type=smime"
+  },
+  {
+    "d": "smite.gamepedia.com",
+    "s": "Smite Wiki",
+    "t": "smite",
+    "u": "http://smite.gamepedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "si.edu",
+    "s": "Smithsonian",
+    "t": "smithsonian",
+    "u": "https://si.edu/sisearch?edan_q={{{s}}}"
+  },
+  {
+    "d": "www.smithsfoodanddrug.com",
+    "s": "smithsfoodanddrug",
+    "t": "smiths",
+    "u": "https://www.smithsfoodanddrug.com/search?query={{{s}}}&searchType=natural"
+  },
+  {
+    "d": "smittenkitchen.com",
+    "s": "Smitten Kitchen",
+    "t": "smitten",
+    "u": "https://smittenkitchen.com/?s={{{s}}}"
+  },
+  {
+    "d": "songmeanings.com",
+    "s": "songmeanings",
+    "t": "smn",
+    "u": "http://songmeanings.com/query/?query={{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Strategy Pokedex Black and White Smogon",
+    "t": "smogonbw",
+    "u": "http://www.smogon.com/dex/bw/pokemon/{{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Strategy Pokedex Diamond Perl Smogon",
+    "t": "smogondp",
+    "u": "http://www.smogon.com/dex/dp/pokemon/{{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Strategy Pokedex Gold Silver Smogon",
+    "t": "smogongs",
+    "u": "http://www.smogon.com/dex/gs/pokemon/{{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Strategy Pokedex Re Blue Smogon",
+    "t": "smogonrb",
+    "u": "http://www.smogon.com/dex/rb/pokemon/{{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Smogon University",
+    "t": "smogon",
+    "u": "https://www.smogon.com/dex/sm/pokemon/{{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Smogon",
+    "t": "smogonsm",
+    "u": "http://www.smogon.com/dex/sm/pokemon/{{{s}}}/"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Smogon X/Y strategydex",
+    "t": "smogonxy",
+    "u": "http://www.smogon.com/dex/xy/pokemon/{{{s}}}"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Smogon R_S",
+    "t": "smogrs",
+    "u": "http://www.smogon.com/dex/rs/pokemon/{{{s}}}/"
+  },
+  {
+    "d": "www.smogon.com",
+    "s": "Smogon University",
+    "t": "smog",
+    "u": "http://www.smogon.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "smpl.bibliocommons.com",
+    "s": "Santa Monica Public Library",
+    "t": "smpl",
+    "u": "https://smpl.bibliocommons.com/search?t=smart&search_category=keyword&q={{{s}}}"
+  },
+  {
+    "d": "www.swissmilk.ch",
+    "s": "swissmilk - Rezepte",
+    "t": "smre",
+    "u": "https://www.swissmilk.ch/de/alle-rezepte/suche/?qt={{{s}}}&cat=Rezept+Suche&qd=1"
+  },
+  {
+    "d": "www.semanticscholar.org",
+    "s": "Semantic Scholar",
+    "t": "smsc",
+    "u": "https://www.semanticscholar.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.smashingmagazine.com",
+    "s": "Smashing Magazine",
+    "t": "sm",
+    "u": "http://www.smashingmagazine.com/search-results/?q={{{s}}}&cx=partner-pub-6779860845561969%3A5884617103&cof=FORID%3A10&ie=UTF-8"
+  },
+  {
+    "d": "songmeanings.com",
+    "s": "SongMeanings",
+    "t": "sms",
+    "u": "http://songmeanings.com/query/?query={{{s}}}"
+  },
+  {
+    "d": "www.smulweb.nl",
+    "s": "Smulweb",
+    "t": "smulweb",
+    "u": "http://www.smulweb.nl/recepten/{{{s}}}"
+  },
+  {
+    "d": "www.ohg-ka.de",
+    "s": "SMV des OHG in KA",
+    "t": "smv",
+    "u": "http://www.ohg-ka.de/smv/?s={{{s}}}"
+  },
+  {
+    "d": "www.mariowiki.com",
+    "s": "Super Mario Wiki",
+    "t": "smw",
+    "u": "http://www.mariowiki.com/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "search.smzdm.com",
+    "s": "什么值得买",
+    "t": "smzdm",
+    "u": "https://search.smzdm.com/?c=home&s={{{s}}}"
+  },
+  {
+    "d": "snapcraft.io",
+    "s": "Snapcraft",
+    "t": "snapcraft",
+    "u": "https://snapcraft.io/search?category=&q={{{s}}}"
+  },
+  {
+    "d": "www.snapdeal.com",
+    "s": "Snapdeal",
+    "t": "snapdeal",
+    "u": "http://www.snapdeal.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "snappygoat.com",
+    "s": "SnappyGoat",
+    "t": "snappygoat",
+    "u": "https://snappygoat.com/s/?q={{{s}}}"
+  },
+  {
+    "d": "snapcraft.io",
+    "s": "Snapcraft",
+    "t": "snappy",
+    "u": "https://snapcraft.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.snappywords.com",
+    "s": "Snappy Words",
+    "t": "snappywords",
+    "u": "http://www.snappywords.com/?lookup={{{s}}}"
+  },
+  {
+    "d": "snapzu.com",
+    "s": "Snapzu.com",
+    "t": "snap",
+    "u": "http://snapzu.com/find/{{{s}}}"
+  },
+  {
+    "d": "snapcraft.io",
+    "s": "snaps for Linux",
+    "t": "snaps",
+    "u": "https://snapcraft.io/search?q={{{s}}}"
+  },
+  {
+    "d": "snapcraft.io",
+    "s": "Snapcraft",
+    "t": "sncr",
+    "u": "https://snapcraft.io/search?q={{{s}}}"
+  },
+  {
+    "d": "developer.servicenow.com",
+    "s": "ServiceNow",
+    "t": "snc",
+    "u": "https://developer.servicenow.com/app.do#!/search?category=API&q={{{s}}}"
+  },
+  {
+    "d": "soundcloud.com",
+    "s": "SoundCloud",
+    "t": "sndcld",
+    "u": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "d": "docs.servicenow.com",
+    "s": "ServiceNow Product Docs",
+    "t": "sndocs",
+    "u": "https://docs.servicenow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.snapdeal.com",
+    "s": "SnapDeal",
+    "t": "snd",
+    "u": "http://www.snapdeal.com/search?noOfResults=20&keyword={{{s}}}"
+  },
+  {
+    "d": "www.snf.ch",
+    "s": "Swiss National Science Foundation",
+    "t": "snf",
+    "u": "http://www.snf.ch/en/Search/Pages/default.aspx?k={{{s}}}"
+  },
+  {
+    "d": "websniffer.cc",
+    "s": "Websniffer",
+    "t": "sniff",
+    "u": "https://websniffer.cc/?url={{{s}}}"
+  },
+  {
+    "d": "www.startpage.com",
+    "s": "StartPage Web Search(Japanese)",
+    "t": "snih",
+    "u": "https://www.startpage.com/do/search?q={{{s}}}&l=nihongo"
+  },
+  {
+    "d": "www.sinonimi-contrari.it",
+    "s": "Sinonimi - Contrari",
+    "t": "snit",
+    "u": "http://www.sinonimi-contrari.it/{{{s}}}/"
+  },
+  {
+    "d": "community.servicenow.com",
+    "s": "community.servicenow.com",
+    "t": "snk",
+    "u": "https://community.servicenow.com/community?id=community_search&q={{{s}}}"
+  },
+  {
+    "d": "snl.no",
+    "s": "Store Norske Leksikon",
+    "t": "snl",
+    "u": "http://snl.no/.search?e=snl&query={{{s}}}"
+  },
+  {
+    "d": "www.nexusmods.com",
+    "s": "Skyrim NexusMods",
+    "t": "snm",
+    "u": "https://www.nexusmods.com/skyrim/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "d": "sonic.wikia.com",
+    "s": "Sonic News Network",
+    "t": "snn",
+    "u": "http://sonic.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.snogard.de",
+    "s": "Snogard.de",
+    "t": "snogard",
+    "u": "https://www.snogard.de/suche.html?suchwort={{{s}}}"
+  },
+  {
+    "d": "www.snoopsnoo.com",
+    "s": "Snoopsnoo",
+    "t": "snoopsnoo",
+    "u": "https://www.snoopsnoo.com/u/{{{s}}}"
+  },
+  {
+    "d": "www.snopes.com",
+    "s": "Snopes",
+    "t": "snopes",
+    "u": "http://www.snopes.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.snort.org",
+    "s": "Snort",
+    "t": "snort",
+    "u": "https://www.snort.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.startpage.com",
+    "s": "StartPage.com (Norwegian)",
+    "t": "sno",
+    "u": "https://www.startpage.com/do/search?cmd=process_search&query={{{s}}}&with_region=countryNO"
+  },
+  {
+    "d": "www.snotr.com",
+    "s": "Snotr",
+    "t": "snotr",
+    "u": "https://www.snotr.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "www.snpedia.com",
+    "s": "SNPedia",
+    "t": "snpedia",
+    "u": "https://www.snpedia.com/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.snopes.com",
+    "s": "snopes.com",
+    "t": "snp",
+    "u": "http://www.snopes.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.snort.org",
+    "s": "snort.org",
+    "t": "snrt",
+    "u": "https://www.snort.org/search?query={{{s}}}&submit_search="
+  },
+  {
+    "d": "soylentnews.org",
+    "s": "SoylentNews",
+    "t": "sn",
+    "u": "http://soylentnews.org/search.pl?query={{{s}}}"
+  },
+  {
+    "d": "seaborn.pydata.org",
+    "s": "seaborn",
+    "t": "sns",
+    "u": "http://seaborn.pydata.org/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.snuson.com",
+    "s": "SnusOn",
+    "t": "snuson",
+    "u": "http://www.snuson.com/forum/shop/search/?q={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "d": "wiki.servicenow.com",
+    "s": "ServiceNow Wiki",
+    "t": "snw",
+    "u": "http://wiki.servicenow.com/search-results.php?cx=005409823165138974380%3Abltnnmgfoek&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=wiki.servicenow.com%2Fsearch-results.php&ref=&ss="
+  },
+  {
+    "d": "www.sp-bx.com",
+    "s": "Soapbox",
+    "t": "soapbox",
+    "u": "https://www.sp-bx.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.soapnote.org",
+    "s": "SOAPnote",
+    "t": "soapnote",
+    "u": "https://www.soapnote.org/?s={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow Bash Search",
+    "t": "sobash",
+    "u": "http://stackoverflow.com/search?q=[bash]+{{{s}}}"
+  },
+  {
+    "d": "www.sobeys.com",
+    "s": "Sobeys",
+    "t": "sobeys",
+    "u": "http://www.sobeys.com/en/search/?search={{{s}}}"
+  },
+  {
+    "d": "int.soccerway.com",
+    "s": "Soccerway",
+    "t": "soccerway",
+    "u": "http://int.soccerway.com/search/?q={{{s}}}&module=all"
+  },
+  {
+    "d": "soccerwiki.com",
+    "s": "Soccer Wiki",
+    "t": "soccerwiki",
+    "u": "http://soccerwiki.com/wiki.php?action=search&q={{{s}}}&searchType=players"
+  },
+  {
+    "d": "socialblade.com",
+    "s": "Socialblade",
+    "t": "socialblade",
+    "u": "https://socialblade.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.societe.com",
+    "s": "societe.com",
+    "t": "societe",
+    "u": "http://www.societe.com/cgi-bin/search?champs={{{s}}}"
+  },
+  {
+    "d": "www.socksandmore.dk",
+    "s": "Socks & More",
+    "t": "sockandmore",
+    "u": "http://www.socksandmore.dk/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "StackOverflow Companies",
+    "t": "socompanies",
+    "u": "https://stackoverflow.com/jobs/companies?q={{{s}}}"
+  },
+  {
+    "d": "careers.stackoverflow.com",
+    "s": "Stack Overflow Careers (Company Pages)",
+    "t": "socp",
+    "u": "http://careers.stackoverflow.com/companies?searchTerm={{{s}}}"
+  },
+  {
+    "d": "careers.stackoverflow.com",
+    "s": "Stack Overflow Careers",
+    "t": "soc",
+    "u": "http://careers.stackoverflow.com/jobs?searchTerm={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "stackoverflow.com",
+    "t": "socvi",
+    "u": "https://stackoverflow.com/search?q=[labwindows]+{{{s}}}"
+  },
+  {
+    "d": "www.socwall.com",
+    "s": "Socwall - Social Wallpapering",
+    "t": "socwall",
+    "u": "http://www.socwall.com/wallpapers/search:{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Stackoverflow with DuckDuckGo",
+    "t": "sod",
+    "u": "https://duckduckgo.com/?q=site:stackoverflow.com+{{{s}}}"
+  },
+  {
+    "d": "www.sofascore.com",
+    "s": "SofaScore",
+    "t": "sofasc",
+    "u": "https://www.sofascore.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo SafeOff",
+    "t": "soff",
+    "u": "https://duckduckgo.com/?kp=-2&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Safe Search Off",
+    "t": "s-off",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-2"
+  },
+  {
+    "d": "sofifa.com",
+    "s": "SOFIFA",
+    "t": "sofifa",
+    "u": "https://sofifa.com/players?keyword={{{s}}} "
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "StackOverflow",
+    "t": "sof",
+    "u": "https://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.soft32.com",
+    "s": "Soft32",
+    "t": "soft32",
+    "u": "http://www.soft32.com/search/?k={{{s}}}&submit="
+  },
+  {
+    "d": "www.billing.softicweb.com",
+    "s": "SofticWeb",
+    "t": "softicweb",
+    "u": "https://www.billing.softicweb.com/cart.php?a=add&domain=register&query={{{s}}}"
+  },
+  {
+    "d": "www.softpedia.com",
+    "s": "Softpedia",
+    "t": "softpedia",
+    "u": "http://www.softpedia.com/dyn-search.php?search_term={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "download.cnet.com",
+    "s": "Download.com",
+    "t": "software",
+    "u": "http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go%252521"
+  },
+  {
+    "d": "www.sofurry.com",
+    "s": "SoFurry",
+    "t": "sofurry",
+    "u": "https://www.sofurry.com/browse/search?search={{{s}}}"
+  },
+  {
+    "d": "www.sogou.com",
+    "s": "搜狗",
+    "t": "sogou",
+    "u": "https://www.sogou.com/web?query={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Stack Overflow via Google",
+    "t": "sog",
+    "u": "https://www.google.com/search?q=site%3Astackoverflow.com+{{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "StackOverflow Jobs",
+    "t": "sojob",
+    "u": "https://stackoverflow.com/jobs?q={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow JavaScript",
+    "t": "sojs",
+    "u": "https://stackoverflow.com/search?q=[javascript]+{{{s}}}"
+  },
+  {
+    "d": "sokr.ru",
+    "s": "Sokr.ru - словарь сокращений",
+    "t": "sokr",
+    "u": "http://sokr.ru/{{{s}}}/"
+  },
+  {
+    "d": "www.ricerca24.ilsole24ore.com",
+    "s": "Il Sole 24 Ore",
+    "t": "sole24",
+    "u": "https://www.ricerca24.ilsole24ore.com/fc?cmd=static&chId=30&path=%2Fsearch%2Fsearch_engine.jsp&field=Titolo%7CTesto&orderBy=score+desc&chId=30&keyWords={{{s}}}&button="
+  },
+  {
+    "d": "solidaris.be",
+    "s": "Solidaris",
+    "t": "solidaris",
+    "u": "http://solidaris.be/MonsWP/Pages/recherche.aspx?k={{{s}}} "
+  },
+  {
+    "d": "solo.bodleian.ox.ac.uk",
+    "s": "SOLO journals",
+    "t": "soloj",
+    "u": "http://solo.bodleian.ox.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=local&search_scope=LSCOP_ALL&vid=SOLO&facet=rtype,include,journals&lang=en_US&offset=0"
+  },
+  {
+    "d": "www.solomid.net",
+    "s": "Solomid",
+    "t": "solomid",
+    "u": "http://www.solomid.net/searchresults.php?q={{{s}}}"
+  },
+  {
+    "d": "www.solopress.com",
+    "s": "Solopress",
+    "t": "solopress",
+    "u": "https://www.solopress.com/search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "solo.bodleian.ox.ac.uk",
+    "s": "SOLO: Search Oxford Libraries Online",
+    "t": "solo",
+    "u": "http://solo.bodleian.ox.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=local&search_scope=LSCOP_ALL&vid=SOLO&lang=en_US&offset=0"
+  },
+  {
+    "d": "www.supersoluce.com",
+    "s": "SuperSoluce",
+    "t": "soluce",
+    "u": "http://www.supersoluce.com/search/supersoluce/{{{s}}}"
+  },
+  {
+    "d": "www.someecards.com",
+    "s": "someecards",
+    "t": "some",
+    "u": "http://www.someecards.com/search?q={{{s}}} "
+  },
+  {
+    "d": "www.spirit-of-metal.com",
+    "s": "Spirit of Metal",
+    "t": "som",
+    "u": "http://www.spirit-of-metal.com/find.php?nom={{{s}}}"
+  },
+  {
+    "d": "son2teuf.org",
+    "s": "Son2Teuf",
+    "t": "son2teuf",
+    "u": "http://son2teuf.org/search/category_sort/Page-1?searchphrase=any&searchword={{{s}}}&view=search"
+  },
+  {
+    "d": "sonarcloud.io",
+    "s": "SonarCloud",
+    "t": "sonarcloud",
+    "u": "https://sonarcloud.io/explore/projects?search={{{s}}}"
+  },
+  {
+    "d": "sonaveeb.ee",
+    "s": "Sõnaveeb",
+    "t": "sonaveeb",
+    "u": "https://sonaveeb.ee/search/est-est/detail/{{{s}}}/"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Safe Search: On",
+    "t": "s-on",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kp=1"
+  },
+  {
+    "d": "www.so-net.ne.jp",
+    "s": "So-net",
+    "t": "sonet",
+    "u": "https://www.so-net.ne.jp/search/web/?query={{{s}}}"
+  },
+  {
+    "d": "www.songfacts.com",
+    "s": "Songfacts",
+    "t": "songfacts",
+    "u": "http://www.songfacts.com/search-song-1.php?{{{s}}}"
+  },
+  {
+    "d": "www.songkick.com",
+    "s": "SongKick",
+    "t": "songkick",
+    "u": "https://www.songkick.com/search?query={{{s}}}"
+  },
+  {
+    "d": "odesli.co",
+    "s": "song.link",
+    "t": "songlink",
+    "u": "https://odesli.co/embed?url={{{s}}}"
+  },
+  {
+    "d": "www.songmeanings.net",
+    "s": "Songmeaning",
+    "t": "songmeaning",
+    "u": "http://www.songmeanings.net/query/?q={{{s}}}&type=artists&page=1&start=0&mm=1&pp=20&b=Go"
+  },
+  {
+    "d": "songmeanings.com",
+    "s": "SongMeanings",
+    "t": "songmeanings",
+    "u": "http://songmeanings.com/query/?query={{{s}}}"
+  },
+  {
+    "d": "www.songsterr.com",
+    "s": "Songsterr",
+    "t": "songsterr",
+    "u": "http://www.songsterr.com/a/wa/search?pattern={{{s}}}"
+  },
+  {
+    "d": "www.songtexte.com",
+    "s": "Songtexte.com",
+    "t": "songtext",
+    "u": "http://www.songtexte.com/search?q={{{s}}}&c=all"
+  },
+  {
+    "d": "info.sonicretro.org",
+    "s": "Sonic Retro / Sega Retro",
+    "t": "sonicretro",
+    "u": "http://info.sonicretro.org/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.sonnentor.com",
+    "s": "Sonnentor",
+    "t": "sonnentor",
+    "u": "https://www.sonnentor.com/de-at/find?q={{{s}}}&c=Alle"
+  },
+  {
+    "d": "www.sonofmarketing.it",
+    "s": "Son of Marketing",
+    "t": "sonofmarketing",
+    "u": "http://www.sonofmarketing.it/?q={{{s}}}"
+  },
+  {
+    "d": "soov-ee.postimees.ee",
+    "s": "Soov",
+    "t": "soov",
+    "u": "http://soov-ee.postimees.ee/keyword-{{{s}}}/listings.html"
+  },
+  {
+    "d": "community.sophos.com",
+    "s": "Sophos Community",
+    "t": "sophoscom",
+    "u": "https://community.sophos.com/search?q={{{s}}}"
+  },
+  {
+    "d": "community.sophos.com",
+    "s": "Sophos Community",
+    "t": "sophoskb",
+    "u": "https://community.sophos.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sophos.com",
+    "s": "Sophos",
+    "t": "soph",
+    "u": "https://www.sophos.com/en-us/search-results.aspx?search={{{s}}}"
+  },
+  {
+    "d": "pt.stackoverflow.com",
+    "s": "Stack Overflow em Português",
+    "t": "sopt",
+    "u": "https://pt.stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow Python",
+    "t": "sopy",
+    "u": "http://stackoverflow.com/search?q=[python]+{{{s}}}"
+  },
+  {
+    "d": "www.sorabel.com",
+    "s": "Sorabel",
+    "t": "sorabel",
+    "u": "https://www.sorabel.com/products/search?query={{{s}}}"
+  },
+  {
+    "d": "www.sorocaba.sp.gov.br",
+    "s": "Prefeitura de Sorocaba",
+    "t": "sorocaba",
+    "u": "http://www.sorocaba.sp.gov.br/pesquisar/?q={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow - R",
+    "t": "sor",
+    "u": "http://stackoverflow.com/search?q=[r]+{{{s}}}"
+  },
+  {
+    "d": "soruso.com",
+    "s": "Soruso",
+    "t": "soruso",
+    "u": "https://soruso.com/?s={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow",
+    "t": "soscrapy",
+    "u": "http://stackoverflow.com/search?q={{{s}}}[scrapy]"
+  },
+  {
+    "d": "www.soso.com",
+    "s": "Soso",
+    "t": "soso",
+    "u": "http://www.soso.com/q?pid=s.idx&w={{{s}}}"
+  },
+  {
+    "d": "software.opensuse.org",
+    "s": "Software OpenSuse",
+    "t": "sos",
+    "u": "http://software.opensuse.org/search?q={{{s}}}&search_devel=false&search_unsupported=false"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow",
+    "t": "so",
+    "u": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.stateofthedapps.com",
+    "s": "State of the DApps",
+    "t": "sotd",
+    "u": "https://www.stateofthedapps.com/dapps?text={{{s}}}"
+  },
+  {
+    "d": "www.sogou.com",
+    "s": "sougou",
+    "t": "sougou",
+    "u": "https://www.sogou.com/web?query={{{s}}}"
+  },
+  {
+    "d": "www.soul-flower.com",
+    "s": "Soul Flower",
+    "t": "soulflower",
+    "u": "http://www.soul-flower.com/mm5/merchant.mvc?Screen=search&onlyone=1&sort=id.desc&x=0&y=0&Search={{{s}}}"
+  },
+  {
+    "d": "soundcloud.com",
+    "s": "SoundCloud",
+    "t": "soundcloud",
+    "u": "http://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sounddogs.com",
+    "s": "Sounddogs",
+    "t": "sounddogs",
+    "u": "https://www.sounddogs.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.soundonsound.com",
+    "s": "soundonsound.com",
+    "t": "soundonsound",
+    "u": "https://www.soundonsound.com/search/all/{{{s}}} "
+  },
+  {
+    "d": "soundcloud.com",
+    "s": "Soundcloud",
+    "t": "sound",
+    "u": "https://soundcloud.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.soundtrackinfo.com",
+    "s": "Soundtrack info project",
+    "t": "soundtrackinfo",
+    "u": "http://www.soundtrackinfo.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.soundy.top",
+    "s": "Soundy",
+    "t": "soundy",
+    "u": "https://www.soundy.top/sounds?q={{{s}}}"
+  },
+  {
+    "d": "uae.souq.com",
+    "s": "Souq",
+    "t": "souq",
+    "u": "https://uae.souq.com/ae-en/{{{s}}}/s/?as=1"
+  },
+  {
+    "d": "sourceforge.net",
+    "s": "SourceForge",
+    "t": "sourceforge",
+    "u": "http://sourceforge.net/directory/?q={{{s}}}"
+  },
+  {
+    "d": "sourcegraph.com",
+    "s": "Sourcegraph",
+    "t": "sourcegraph",
+    "u": "https://sourcegraph.com/github.com/{{{s}}}"
+  },
+  {
+    "d": "www.sourcewatch.org",
+    "s": "SourceWatch",
+    "t": "sourcewatch",
+    "u": "http://www.sourcewatch.org/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "www.southparkstudios.com",
+    "s": "South Park Studios",
+    "t": "southpark",
+    "u": "http://www.southparkstudios.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow MS Excel Search",
+    "t": "soxl",
+    "u": "http://stackoverflow.com/search?q=[excel]+{{{s}}}"
+  },
+  {
+    "d": "soyluna.wikia.com",
+    "s": "Soy Luna Wiki",
+    "t": "soyluna",
+    "u": "http://soyluna.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.eksisozluk.com",
+    "s": "Eksi Sozluk",
+    "t": "sozluk",
+    "u": "http://www.eksisozluk.com/show.asp?t={{{s}}}"
+  },
+  {
+    "d": "spacedock.info",
+    "s": "SpaceDock",
+    "t": "spacedock",
+    "u": "http://spacedock.info/search?query={{{s}}}"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MXToolbox",
+    "t": "spamcheck",
+    "u": "http://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "d": "www.spanishdict.com",
+    "s": "SpanishDict",
+    "t": "spandict",
+    "u": "http://www.spanishdict.com/translate/{{{s}}}"
+  },
+  {
+    "d": "www.spanishdict.com",
+    "s": "SpanishDict",
+    "t": "spanishdict",
+    "u": "https://www.spanishdict.com/translate/{{{s}}}"
+  },
+  {
+    "d": "www.spanishdict.com",
+    "s": "SpanishDict",
+    "t": "spanishd",
+    "u": "http://www.spanishdict.com/translate/{{{s}}}"
+  },
+  {
+    "d": "www.spanishdict.com",
+    "s": "SpanishDict",
+    "t": "spanish",
+    "u": "https://www.spanishdict.com/translate/{{{s}}}"
+  },
+  {
+    "d": "www.speakinglatino.com",
+    "s": "Speaking Latino",
+    "t": "spanslang",
+    "u": "http://www.speakinglatino.com/?s={{{s}}}&advanced=0&search_type=&posts_country=&posts_category=&words_country=&words_category=&words_letter=CHOOSE+A+STARTING+LETTER&all_country=&all_letter=CHOOSE+A+STARTING+LETTER"
+  },
+  {
+    "d": "kfz-schlachter.de",
+    "s": "KFZ-Schlachter",
+    "t": "spare-part",
+    "u": "https://kfz-schlachter.de/Store?q={{{s}}}"
+  },
+  {
+    "d": "www.spareroom.co.uk",
+    "s": "SpareRoom",
+    "t": "spare",
+    "u": "https://www.spareroom.co.uk/flatshare/flatshare_detail.pl?flatshare_id={{{s}}}"
+  },
+  {
+    "d": "www.sparkfun.com",
+    "s": "SparkFun",
+    "t": "sparkfun",
+    "u": "https://www.sparkfun.com/search/results?term={{{s}}}"
+  },
+  {
+    "d": "www.sparknotes.com",
+    "s": "SparkNotes",
+    "t": "sparknotes",
+    "u": "http://www.sparknotes.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.spartan-donate.com",
+    "s": "Spartan Donate",
+    "t": "spartan",
+    "u": "https://www.spartan-donate.com/?s={{{s}}}"
+  },
+  {
+    "d": "subtlepatterns.com",
+    "s": "Subtle Patterns",
+    "t": "spattern",
+    "u": "http://subtlepatterns.com/?q={{{s}}}"
+  },
+  {
+    "d": "speiderbasen.no",
+    "s": "Speiderbasen",
+    "t": "spb",
+    "u": "https://speiderbasen.no/?searchWord={{{s}}}"
+  },
+  {
+    "d": "packages.speedeedelivery.com",
+    "s": "SpeeDee Delivery",
+    "t": "spd",
+    "u": "http://packages.speedeedelivery.com/packageDetail.php?barcode={{{s}}}"
+  },
+  {
+    "d": "www.speakersassociates.com",
+    "s": "Speakers Associates",
+    "t": "speakers",
+    "u": "https://www.speakersassociates.com/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "www.spectator.co.uk",
+    "s": "The Spectator",
+    "t": "speccie",
+    "u": "http://www.spectator.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "speedrun.com",
+    "s": "Speedrun.com",
+    "t": "speedrun",
+    "u": "http://speedrun.com/{{{s}}}"
+  },
+  {
+    "d": "www.speedsolving.com",
+    "s": "SpeedSolving Forum",
+    "t": "speedsolving",
+    "u": "https://www.speedsolving.com/forum/searchresults.php?q={{{s}}}"
+  },
+  {
+    "d": "www.speedsolving.com",
+    "s": "Speedsolving wiki",
+    "t": "speedsolvingwiki",
+    "u": "https://www.speedsolving.com/wiki/index.php?title=Special%3ASearch&search={{{s}}} &go=Go"
+  },
+  {
+    "d": "www.speedyhen.com",
+    "s": "SpeedyHen",
+    "t": "speedyhen",
+    "u": "https://www.speedyhen.com/Search/Keyword?keyword={{{s}}}"
+  },
+  {
+    "d": "www.spektrum.de",
+    "s": "Spektrum Akademischer Verlag - Lexikon der Biologie",
+    "t": "spekbio",
+    "u": "https://www.spektrum.de/lexikon/biologie/?q={{{s}}}"
+  },
+  {
+    "d": "www.spektrum.de",
+    "s": "Spektrum",
+    "t": "spekgeo",
+    "u": "https://www.spektrum.de/lexikon/geographie/?q={{{s}}}"
+  },
+  {
+    "d": "spele.nl",
+    "s": "spele.nl",
+    "t": "spele",
+    "u": "http://spele.nl/zoeken/?q={{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "StartPage (EN)",
+    "t": "spen",
+    "u": "https://startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=english"
+  },
+  {
+    "d": "startpage.com",
+    "s": "StartPage (ES)",
+    "t": "spes",
+    "u": "https://startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=espanol"
+  },
+  {
+    "d": "startpage.com",
+    "s": "StartPage (ES)",
+    "t": "spe",
+    "u": "https://startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=espanol"
+  },
+  {
+    "d": "www.speurders.nl",
+    "s": "Speurders",
+    "t": "speur",
+    "u": "http://www.speurders.nl/overzicht/?query={{{s}}}"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MXToolbox",
+    "t": "spf",
+    "u": "http://mxtoolbox.com/SuperTool.aspx?action=spf%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "d": "www.speedguide.net",
+    "s": "Speed Guide",
+    "t": "spg",
+    "u": "https://www.speedguide.net/search_rez.php?seek={{{s}}}&words=yes"
+  },
+  {
+    "d": "sphereon.com",
+    "s": "Sphereon",
+    "t": "sphereon",
+    "u": "https://sphereon.com/?s={{{s}}}"
+  },
+  {
+    "d": "community.spiceworks.com",
+    "s": "Spiceworks Community",
+    "t": "spice",
+    "u": "https://community.spiceworks.com/search?query={{{s}}}"
+  },
+  {
+    "d": "site.pictures",
+    "s": "Site Pictures",
+    "t": "spics",
+    "u": "https://site.pictures/search/images/?q={{{s}}}"
+  },
+  {
+    "d": "www.spiegel.de",
+    "s": "www.spiegel.de",
+    "t": "spiegel",
+    "u": "http://www.spiegel.de/suche/index.html?suchbegriff= {{{s}}}"
+  },
+  {
+    "d": "www.spieletipps.de",
+    "s": "Spieletipss",
+    "t": "spieletipps",
+    "u": "http://www.spieletipps.de/suche/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.spigotmc.org",
+    "s": "SpigotMC",
+    "t": "spigotmc",
+    "u": "https://www.spigotmc.org/search/14487199/?q={{{s}}}&o=relevance"
+  },
+  {
+    "d": "www.spigotmc.org",
+    "s": "SpigotMC",
+    "t": "spigot",
+    "u": "https://www.spigotmc.org/search/14203285/?q={{{s}}}&o=relevance"
+  },
+  {
+    "d": "www.spinoza.it",
+    "s": "Spinoza",
+    "t": "spinoza",
+    "u": "http://www.spinoza.it/?s={{{s}}}"
+  },
+  {
+    "d": "spinrilla.com",
+    "s": "Spinrilla",
+    "t": "spinrilla",
+    "u": "https://spinrilla.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.spin.de",
+    "s": "Spin.de",
+    "t": "spin",
+    "u": "https://www.spin.de/search?q={{{s}}}"
+  },
+  {
+    "d": "www.spi0n.com",
+    "s": "Spi0n",
+    "t": "spion",
+    "u": "http://www.spi0n.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "SPIP",
+    "t": "spip",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:spip.net"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage Images",
+    "t": "spi",
+    "u": "https://startpage.com/do/search?cat=pics&cmd=process_search&query={{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage (IT)",
+    "t": "spit",
+    "u": "https://startpage.com/do/search?cat=web&cmd=process_search&language=italiano&engine0=v1all&query={{{s}}}&abp=-1&prf=ab8a0a99ccae7d38fd1f9b31e845ce7e&SuggestOn=1"
+  },
+  {
+    "d": "unsplash.com",
+    "s": "Unsplash",
+    "t": "splash",
+    "u": "https://unsplash.com/search/photos/{{{s}}}"
+  },
+  {
+    "d": "splatoonwiki.org",
+    "s": "Inkpedia",
+    "t": "splatoon",
+    "u": "http://splatoonwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.splcenter.org",
+    "s": "The Southern Poverty Law Center",
+    "t": "splc",
+    "u": "https://www.splcenter.org/resources?keyword={{{s}}}"
+  },
+  {
+    "d": "splice.com",
+    "s": "Splice",
+    "t": "splice",
+    "u": "https://splice.com/sounds/search?q={{{s}}}"
+  },
+  {
+    "d": "seattle.bibliocommons.com",
+    "s": "The Seattle Public Library",
+    "t": "spl",
+    "u": "https://seattle.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&commit=Search&q={{{s}}}"
+  },
+  {
+    "d": "apps.splunk.com",
+    "s": "Splunkbase",
+    "t": "splunkbase",
+    "u": "https://apps.splunk.com/apps/#/search/{{{s}}}/page/1"
+  },
+  {
+    "d": "www.splunk.com",
+    "s": "splunk",
+    "t": "splunk",
+    "u": "https://www.splunk.com/en_us/search.html?query={{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage Mobile",
+    "t": "spm",
+    "u": "https://startpage.com/do/m/mobilesearch?&q={{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage NL",
+    "t": "spnl",
+    "u": "https://startpage.com/do/search?l=nederlands&q={{{s}}}"
+  },
+  {
+    "d": "spongebob.wikia.com",
+    "s": "SpongeBob Wikia",
+    "t": "spongebob",
+    "u": "http://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "spongebob.fandom.com",
+    "s": "Encyclopedia SpongeBobia",
+    "t": "sponge",
+    "u": "https://spongebob.fandom.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.spiegel.de",
+    "s": "Spiegel Online",
+    "t": "spon",
+    "u": "http://www.spiegel.de/suche/index.html?suchbegriff={{{s}}}"
+  },
+  {
+    "d": "spoonacular.com",
+    "s": "spoonacular",
+    "t": "spoonacular",
+    "u": "https://spoonacular.com/{{{s}}}"
+  },
+  {
+    "d": "www.sporcle.com",
+    "s": "Sporcle",
+    "t": "sporcle",
+    "u": "http://www.sporcle.com/games/tags/{{{s}}}"
+  },
+  {
+    "d": "www.sport1.de",
+    "s": "Sport1",
+    "t": "sport1",
+    "u": "http://www.sport1.de/suche#{{{s}}}"
+  },
+  {
+    "d": "forum.spore.com",
+    "s": "The Sporum",
+    "t": "sporum",
+    "u": "http://forum.spore.com/jforum/jforum.page?module=search&action=search&search_keywords={{{s}}}"
+  },
+  {
+    "d": "open.spotify.com",
+    "s": "Spotify",
+    "t": "spotifysearch",
+    "u": "https://open.spotify.com/search/results/{{{s}}}"
+  },
+  {
+    "d": "open.spotify.com",
+    "s": "Spotify",
+    "t": "spotify",
+    "u": "https://open.spotify.com/search/{{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage safeoff ita",
+    "t": "sppit",
+    "u": "https://startpage.com/do/search?prf=77fe802d54508e9ee48b88624be6da56&cat=web&query={{{s}}}"
+  },
+  {
+    "d": "www.startpage.com",
+    "s": "Startpage (PL)",
+    "t": "sppl",
+    "u": "https://www.startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch&language=polski"
+  },
+  {
+    "d": "startpage.com",
+    "s": "StartPage safeoff eng",
+    "t": "spp",
+    "u": "https://startpage.com/do/search?prf=2cc506ab255c98e10570b7d50ef6b1c8&cat=web&query={{{s}}}"
+  },
+  {
+    "d": "www.spreadshirt.com",
+    "s": "Spreadshirt",
+    "t": "sprd",
+    "u": "https://www.spreadshirt.com/{{{s}}}"
+  },
+  {
+    "d": "spreadshirt.com",
+    "s": "Spreadshirt",
+    "t": "spreadshirt",
+    "u": "http://spreadshirt.com/{{{s}}}"
+  },
+  {
+    "d": "link.springer.com",
+    "s": "Springer Link",
+    "t": "springerfree",
+    "u": "https://link.springer.com/search?showAll=false&query={{{s}}}"
+  },
+  {
+    "d": "link.springer.com",
+    "s": "Springer Link",
+    "t": "springerlink",
+    "u": "https://link.springer.com/search?query={{{s}}}"
+  },
+  {
+    "d": "link.springer.com",
+    "s": "Springer Link",
+    "t": "springer",
+    "u": "http://link.springer.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.springsource.org",
+    "s": "SpringSource",
+    "t": "springsource",
+    "u": "http://www.springsource.org/search/google?query={{{s}}}"
+  },
+  {
+    "d": "www.spriters-resource.com",
+    "s": "The Spriters Resource",
+    "t": "spritersresource",
+    "u": "https://www.spriters-resource.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.spriters-resource.com",
+    "s": "The Spriters Resource",
+    "t": "spriters",
+    "u": "https://www.spriters-resource.com/search/?q={{{s}}}}"
+  },
+  {
+    "d": "www.spreaker.com",
+    "s": "Spreaker",
+    "t": "sprkr",
+    "u": "https://www.spreaker.com/search?query={{{s}}}"
+  },
+  {
+    "d": "sproget.dk",
+    "s": "Sproget",
+    "t": "sproget",
+    "u": "https://sproget.dk/lookup?SearchableText={{{s}}}"
+  },
+  {
+    "d": "search.sitepoint.com",
+    "s": "SitePoint Reference",
+    "t": "spr",
+    "u": "http://search.sitepoint.com/?q={{{s}}}&refinements%5Breference%5D=1"
+  },
+  {
+    "d": "startpage.com",
+    "s": "StartPage",
+    "t": "sp",
+    "u": "https://startpage.com/do/metasearch.pl?query={{{s}}}"
+  },
+  {
+    "d": "search.privacytools.io",
+    "s": "search.privacytools.io",
+    "t": "sptio",
+    "u": "https://search.privacytools.io/?q={{{s}}}"
+  },
+  {
+    "d": "open.spotify.com",
+    "s": "Spotify",
+    "t": "spt",
+    "u": "https://open.spotify.com/search/results/{{{s}}}"
+  },
+  {
+    "d": "video.samaritanspurse.org",
+    "s": "Samaritan Purse TV",
+    "t": "sptv",
+    "u": "http://video.samaritanspurse.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.sputnikmusic.com",
+    "s": "Sputnik Music",
+    "t": "sputnikmusic",
+    "u": "https://www.sputnikmusic.com/search_results.php?search_in=Bands&search_text={{{s}}}"
+  },
+  {
+    "d": "www.sputnik.ru",
+    "s": "Sputnik",
+    "t": "sputnik",
+    "u": "http://www.sputnik.ru/search?q={{{s}}}"
+  },
+  {
+    "d": "www.startpage.com",
+    "s": "Startpage Videos",
+    "t": "spv",
+    "u": "https://www.startpage.com/do/search?cat=video&cmd=process_search&query={{{s}}}"
+  },
+  {
+    "d": "www.surplex.com",
+    "s": "Surplex",
+    "t": "spx",
+    "u": "https://www.surplex.com/de/maschinen.html?tx_surplex_pi1%5Bsword%5D={{{s}}}"
+  },
+  {
+    "d": "open.spotify.com",
+    "s": "Spotify",
+    "t": "spy",
+    "u": "https://open.spotify.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.sqa.org.uk",
+    "s": "SQA Past papers",
+    "t": "sqa",
+    "u": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm?subject={{{s}}}"
+  },
+  {
+    "d": "squarefaction.ru",
+    "s": "Square Faction",
+    "t": "sqfa",
+    "u": "http://squarefaction.ru/main/search/google?searchQuery={{{s}}}"
+  },
+  {
+    "d": "community.bistudio.com",
+    "s": "Bohemia Interactive Community Wiki",
+    "t": "sqf",
+    "u": "https://community.bistudio.com/wiki?search={{{s}}}"
+  },
+  {
+    "d": "www.sqlalchemy.org",
+    "s": "SQL Alchemy Docs",
+    "t": "sqlalchemy",
+    "u": "http://www.sqlalchemy.org/docs/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "www.sqlite.org",
+    "s": "SQLite",
+    "t": "sqlite",
+    "u": "https://www.sqlite.org/search?s=d&q={{{s}}}"
+  },
+  {
+    "d": "sql.sh",
+    "s": "SQL.sh",
+    "t": "sqlsh",
+    "u": "http://sql.sh/?s={{{s}}}&submit=Rechercher"
+  },
+  {
+    "d": "www.sqprofessional.com",
+    "s": "SQ Professional",
+    "t": "sqprofessional",
+    "u": "http://www.sqprofessional.com/?q={{{s}}}"
+  },
+  {
+    "d": "squidmag.ink",
+    "s": "Squid Mag",
+    "t": "squidmag",
+    "u": "https://squidmag.ink/?s={{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "SRA",
+    "t": "sra",
+    "u": "http://www.ncbi.nlm.nih.gov/sra/?term={{{s}}}"
+  },
+  {
+    "d": "sourceforge.net",
+    "s": "SourceForge",
+    "t": "srcforge",
+    "u": "http://sourceforge.net/directory/os:windows/freshness:recently-updated/?q={{{s}}}"
+  },
+  {
+    "d": "www.admin.ch",
+    "s": "admin.ch - Systematische Rechtssammlung",
+    "t": "srch",
+    "u": "http://www.admin.ch/opc/search/?lang=de&language[]=de&product[]=fg&product[]=oc&product[]=cc&product[]=ba&product[]=jcd&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&text={{{s}}}"
+  },
+  {
+    "d": "5e.d20srd.org",
+    "s": "Hypertext D20 SRD (5th Edition)",
+    "t": "srd5",
+    "u": "http://5e.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "d": "www.d20srd.org",
+    "s": "The Hypertext d20 SRD",
+    "t": "srd",
+    "u": "http://www.d20srd.org/search.htm?q={{{s}}}"
+  },
+  {
+    "d": "softwarerecs.stackexchange.com",
+    "s": "Software Recommendations",
+    "t": "srec",
+    "u": "http://softwarerecs.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "reddit.com",
+    "s": "Subreddit",
+    "t": "sreddit",
+    "u": "http://reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "info.sonicretro.org",
+    "s": "Sonic Retro",
+    "t": "sretro",
+    "u": "http://info.sonicretro.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "srfi.schemers.org",
+    "s": "Scheme Request for Implementation",
+    "t": "srfi",
+    "u": "http://srfi.schemers.org/srfi-{{{s}}}/srfi-{{{s}}}.html"
+  },
+  {
+    "d": "www.srf.ch",
+    "s": "Schweizer Radio und Fernsehen",
+    "t": "srf",
+    "u": "http://www.srf.ch/suche?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "srhu",
+    "u": "https://translate.google.com/#sr/hu/{{{s}}} "
+  },
+  {
+    "d": "steamrep.com",
+    "s": "SteamRep (by ID)",
+    "t": "sri",
+    "u": "http://steamrep.com/id/{{{s}}}"
+  },
+  {
+    "d": "shoryuken.com",
+    "s": "Shoryuken",
+    "t": "srk",
+    "u": "http://shoryuken.com/?s={{{s}}}"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "Old Reddit by Subreddit",
+    "t": "srold",
+    "u": "https://old.reddit.com/r/{{{s}}}/"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "Old Reddit by Subreddit",
+    "t": "sro",
+    "u": "https://old.reddit.com/r/{{{s}}}/"
+  },
+  {
+    "d": "reddit.com",
+    "s": "reddit",
+    "t": "sr",
+    "u": "http://reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Rocket League Reddit",
+    "t": "srrl",
+    "u": "https://www.reddit.com/r/RocketLeague/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit",
+    "t": "srs",
+    "u": "https://www.reddit.com/search?q=subreddit:{{{s}}}"
+  },
+  {
+    "d": "srthealing.com",
+    "s": "srthealing.com",
+    "t": "srtblog",
+    "u": "https://srthealing.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Subreddit sorted top/ all time",
+    "t": "srtop",
+    "u": "https://www.reddit.com/r/{{{s}}}/top/?sort=top&t=all"
+  },
+  {
+    "d": "stukroodvlees.nl",
+    "s": "Stuk Rood Vlees",
+    "t": "srv",
+    "u": "http://stukroodvlees.nl/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "SS64",
+    "t": "ss64",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:www.ss64.com"
+  },
+  {
+    "d": "ssaft.com",
+    "s": "Strange Stuff And Funky Things",
+    "t": "ssaft",
+    "u": "http://ssaft.com/Blog/dotclear/?q={{{s}}}"
+  },
+  {
+    "d": "www.ssb.no",
+    "s": "Statistisk Sentralby - Statistics Norway",
+    "t": "ssbno",
+    "u": "https://www.ssb.no/sok?sok= {{{s}}}"
+  },
+  {
+    "d": "www.ssbwiki.com",
+    "s": "SmashWiki",
+    "t": "ssb",
+    "u": "http://www.ssbwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.semanticscholar.org",
+    "s": "SemanticScholar",
+    "t": "ssch",
+    "u": "https://www.semanticscholar.org/search?q={{{s}}}&sort=relevance&ae=false"
+  },
+  {
+    "d": "security.stackexchange.com",
+    "s": "https://security.stackexchange.com/",
+    "t": "sse",
+    "u": "https://security.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "dictionnaire.sensagent.leparisien.fr",
+    "s": "Sensagent",
+    "t": "ssg",
+    "u": "http://dictionnaire.sensagent.leparisien.fr/{{{s}}}/fr-fr/"
+  },
+  {
+    "d": "ssjc.ujc.cas.cz",
+    "s": "Slovník spisovného jazyka českého",
+    "t": "ssjc",
+    "u": "http://ssjc.ujc.cas.cz/search.php?heslo={{{s}}}"
+  },
+  {
+    "d": "bos.zrc-sazu.si",
+    "s": "Bos.zrs-sazu.si",
+    "t": "sskj",
+    "u": "http://bos.zrc-sazu.si/cgi/a03.exe?name=sskj_testa&expression={{{s}}}&hs=1"
+  },
+  {
+    "d": "www.speakinglatino.com",
+    "s": "Speaking Latino",
+    "t": "sslang",
+    "u": "http://www.speakinglatino.com/?s={{{s}}}&advanced=0&search_type=&posts_country=&posts_category=&words_country=&words_category=&words_letter=CHOOSE+A+STARTING+LETTER&all_country=&all_letter=CHOOSE+A+STARTING+LETTER"
+  },
+  {
+    "d": "dev.ssllabs.com",
+    "s": "SSLLabs Dev",
+    "t": "ssllabsdev",
+    "u": "https://dev.ssllabs.com/ssltest/analyze.html?latest&d={{{s}}}"
+  },
+  {
+    "d": "www.ssllabs.com",
+    "s": "ssllabs",
+    "t": "ssllabs",
+    "u": "https://www.ssllabs.com/ssltest/analyze.html?d={{{s}}}"
+  },
+  {
+    "d": "www.ssllabs.com",
+    "s": "SSL Labs",
+    "t": "ssl",
+    "u": "https://www.ssllabs.com/ssltest/analyze.html?d={{{s}}}&latest=true"
+  },
+  {
+    "d": "www.soundsnap.com",
+    "s": "Soundsnap",
+    "t": "ssnap",
+    "u": "http://www.soundsnap.com/search/audio/{{{s}}}/score"
+  },
+  {
+    "d": "www.ssoar.info",
+    "s": "SSOAR",
+    "t": "ssoar",
+    "u": "http://www.ssoar.info/ssoar/discover?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Safe Search: Off",
+    "t": "ssoff",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-2"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Safe Search: On",
+    "t": "sson",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kp=1"
+  },
+  {
+    "d": "sspai.com",
+    "s": "少数派",
+    "t": "sspai",
+    "u": "https://sspai.com/search/article?q={{{s}}}"
+  },
+  {
+    "d": "www.silverstripe.org",
+    "s": "Silverstripe",
+    "t": "ssp",
+    "u": "http://www.silverstripe.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.ssptv.com",
+    "s": "SSPTV",
+    "t": "ssptv",
+    "u": "http://www.ssptv.com/?s={{{s}}}"
+  },
+  {
+    "d": "shopsmartreviews.in",
+    "s": "Shop Smart Reviews",
+    "t": "ssr",
+    "u": "https://shopsmartreviews.in/?s={{{s}}}"
+  },
+  {
+    "d": "www.similarsitesearch.com",
+    "s": "SimilarSiteSearch",
+    "t": "ssses",
+    "u": "http://www.similarsitesearch.com/es/sitio/{{{s}}}"
+  },
+  {
+    "d": "www.similarsitesearch.com",
+    "s": "SimilarSiteSearch",
+    "t": "sss",
+    "u": "https://www.similarsitesearch.com/alternatives-to/{{{s}}}"
+  },
+  {
+    "d": "surrey-primotc.hosted.exlibrisgroup.com",
+    "s": "SurreySearch",
+    "t": "ss",
+    "u": "https://surrey-primotc.hosted.exlibrisgroup.com/primo-explore/search?vl(freeText0)={{{s}}}&fn=search&vid=44SUR_VU1&tab=default_tab&query=any,contains,{{{s}}}&search_scope=default_scope"
+  },
+  {
+    "d": "startpage.com",
+    "s": "startpage.com",
+    "t": "s",
+    "u": "http://startpage.com/do/metasearch.pl?query={{{s}}}"
+  },
+  {
+    "d": "csgostash.com",
+    "s": "Steam Stash",
+    "t": "sst",
+    "u": "https://csgostash.com/google-search?q={{{s}}}"
+  },
+  {
+    "d": "www.shutterstock.com",
+    "s": "Shutterstock Vector",
+    "t": "ssv",
+    "u": "https://www.shutterstock.com/search?searchterm={{{s}}}&image_type=vector"
+  },
+  {
+    "d": "www.speedsolving.com",
+    "s": "Speedsolving.com Wiki",
+    "t": "sswiki",
+    "u": "https://www.speedsolving.com/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "bibliothek.hannover-stadt.de",
+    "s": "Stadtbibliothek Hannover OPAC",
+    "t": "stabihannover",
+    "u": "https://bibliothek.hannover-stadt.de/alswww3.dll/APS_ZONES?fn=SEARCH?q={{{s}}}"
+  },
+  {
+    "d": "www.songsterr.com",
+    "s": "Songsterr",
+    "t": "stabs",
+    "u": "http://www.songsterr.com/a/wa/search?pattern={{{s}}}"
+  },
+  {
+    "d": "www.stackage.org",
+    "s": "Hoogle at Stackage",
+    "t": "stackage",
+    "u": "http://www.stackage.org/lts/hoogle?q={{{s}}}"
+  },
+  {
+    "d": "stackexchange.com",
+    "s": "Stack Exchange",
+    "t": "stackexchange",
+    "u": "http://stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "StackOverflow",
+    "t": "stackoverflow",
+    "u": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "stackshare.io",
+    "s": "StackShare",
+    "t": "stackshare",
+    "u": "http://stackshare.io/search/q={{{s}}}"
+  },
+  {
+    "d": "stacksocial.com",
+    "s": "Stack Social",
+    "t": "stacksocial",
+    "u": "https://stacksocial.com/search?utf8=✓&query={{{s}}}"
+  },
+  {
+    "d": "stacks.math.columbia.edu",
+    "s": "The Stacks project",
+    "t": "stacksproj",
+    "u": "https://stacks.math.columbia.edu/search?query={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "Stack Overflow",
+    "t": "stack",
+    "u": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.stadium.se",
+    "s": "Stadium",
+    "t": "stadium",
+    "u": "https://www.stadium.se/search?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "stakingreturns.com",
+    "s": "StakingReturns",
+    "t": "stake",
+    "u": "https://stakingreturns.com/coins/{{{s}}}"
+  },
+  {
+    "d": "www.standaard.be",
+    "s": "De Standaard",
+    "t": "standaard",
+    "u": "http://www.standaard.be/zoeken?keyword={{{s}}}"
+  },
+  {
+    "d": "www.abbreviations.com",
+    "s": "Abbreviations",
+    "t": "standsfor",
+    "u": "http://www.abbreviations.com/{{{s}}}"
+  },
+  {
+    "d": "play.stan.com.au",
+    "s": "Stan",
+    "t": "stan",
+    "u": "https://play.stan.com.au/programs{{{s}}}"
+  },
+  {
+    "d": "www.staples.ca",
+    "s": "Staples Canada",
+    "t": "staplesca",
+    "u": "http://www.staples.ca/{{{s}}}/directory_{{{s}}}_20051_1_20001"
+  },
+  {
+    "d": "www.staples.com",
+    "s": "Staples.com",
+    "t": "staples",
+    "u": "http://www.staples.com/office/supplies/StaplesSearch?searchkey={{{s}}}&storeId=10001&catalogId=10051&langId=-1&fromUrl=home"
+  },
+  {
+    "d": "starbounder.org",
+    "s": "Starbound Wiki",
+    "t": "starbounder",
+    "u": "http://starbounder.org/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "starbounder.org",
+    "s": "Starbound Wiki",
+    "t": "starbound",
+    "u": "http://starbounder.org/mediawiki/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "stardewvalleywiki.com",
+    "s": "Stardew Wiki",
+    "t": "stardew",
+    "u": "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "stardewvalleywiki.com",
+    "s": "Stardew Valley Wiki",
+    "t": "stardewvalley",
+    "u": "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "stargate.wikia.com",
+    "s": "Stargate Wiki",
+    "t": "stargate",
+    "u": "http://stargate.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "starmadedock.net",
+    "s": "StarMade Dock",
+    "t": "starmadedock",
+    "u": "https://starmadedock.net/search/1/?q={{{s}}}"
+  },
+  {
+    "d": "starmadepedia.net",
+    "s": "Official StarMade Wiki",
+    "t": "starmade",
+    "u": "https://starmadepedia.net/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.starticket.ch",
+    "s": "Starticket",
+    "t": "starticket",
+    "u": "https://www.starticket.ch/de/suche?_csquery={{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage (images)",
+    "t": "startpageimages",
+    "u": "https://startpage.com/do/search?cat=pics&cmd=process_search&query={{{s}}}"
+  },
+  {
+    "d": "www.startpage.com",
+    "s": "Startpage",
+    "t": "startpage",
+    "u": "https://www.startpage.com/do/dsearch?query={{{s}}}&cat=web&pl=opensearch"
+  },
+  {
+    "d": "startpage.com",
+    "s": "StartPage (videos)",
+    "t": "startpagevideos",
+    "u": "https://startpage.com/do/search?cat=video&cmd=process_search&query={{{s}}}"
+  },
+  {
+    "d": "memory-alpha.wikia.com",
+    "s": "Memory Alpha",
+    "t": "startrek",
+    "u": "http://memory-alpha.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&resultsLang=en"
+  },
+  {
+    "d": "www.startpage.com",
+    "s": "startpage.com",
+    "t": "start",
+    "u": "https://www.startpage.com/do/dsearch?query={{{s}}}"
+  },
+  {
+    "d": "startup.jobs",
+    "s": "Startup Jobs",
+    "t": "startupjobs",
+    "u": "https://startup.jobs/?q={{{s}}}"
+  },
+  {
+    "d": "startupbuffer.com",
+    "s": "Startup Buffer",
+    "t": "startup",
+    "u": "https://startupbuffer.com/search?s={{{s}}}"
+  },
+  {
+    "d": "starwars.wikia.com",
+    "s": "Wookiepedia",
+    "t": "starwars",
+    "u": "http://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&go=&fulltext=Search "
+  },
+  {
+    "d": "www.statenvertaling.net",
+    "s": "Statenvertaling",
+    "t": "staten",
+    "u": "https://www.statenvertaling.net/zoek.php?q={{{s}}}"
+  },
+  {
+    "d": "staticice.com.au",
+    "s": "Static Ice",
+    "t": "staticice",
+    "u": "http://staticice.com.au/cgi-bin/search.cgi?q={{{s}}}"
+  },
+  {
+    "d": "www.stationsweb.nl",
+    "s": "Stationsweb",
+    "t": "stationsweb",
+    "u": "http://www.stationsweb.nl/stationlijst.asp?station={{{s}}} "
+  },
+  {
+    "d": "www.statista.com",
+    "s": "Statista",
+    "t": "statista",
+    "u": "https://www.statista.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.statsbiblioteket.dk",
+    "s": "Statsbiblioteket Aarhus",
+    "t": "statsbiblioteket",
+    "u": "https://www.statsbiblioteket.dk/au/?locale=en#/search?query={{{s}}}"
+  },
+  {
+    "d": "statisticsbyjim.com",
+    "s": "Statistics By Jim",
+    "t": "stats",
+    "u": "https://statisticsbyjim.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.staxtradecentres.co.uk",
+    "s": "Stax Trade Centers",
+    "t": "stax",
+    "u": "http://www.staxtradecentres.co.uk/search/?keys={{{s}}}"
+  },
+  {
+    "d": "staygb.com",
+    "s": "Stay GB",
+    "t": "staygb",
+    "u": "https://staygb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "steamcommunity.com",
+    "s": "Steam Community",
+    "t": "stcm",
+    "u": "https://steamcommunity.com/id/{{{s}}}"
+  },
+  {
+    "d": "standardebooks.org",
+    "s": "Standard Ebooks",
+    "t": "stdebook",
+    "u": "https://standardebooks.org/ebooks/?query={{{s}}}"
+  },
+  {
+    "d": "www.stata.com",
+    "s": "Stata 14 help",
+    "t": "stdoc",
+    "u": "http://www.stata.com/help.cgi?{{{s}}}"
+  },
+  {
+    "d": "stadtplan-ilmenau.de",
+    "s": "Stadtplan Ilmenau",
+    "t": "stdtplnlmn",
+    "u": "http://stadtplan-ilmenau.de/?query={{{s}}}"
+  },
+  {
+    "d": "www.stealengine.com",
+    "s": "StealEngine",
+    "t": "steal",
+    "u": "https://www.stealengine.com/?q={{{s}}}"
+  },
+  {
+    "d": "tab-bot.net",
+    "s": "twitch tab bot",
+    "t": "steam2twitch",
+    "u": "http://tab-bot.net/botcheck?twitchname_botcheck=&steam_botcheck={{{s}}}"
+  },
+  {
+    "d": "steamcharts.com",
+    "s": "Steam Charts",
+    "t": "steamcharts",
+    "u": "http://steamcharts.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "steamcommunity.com",
+    "s": "Steam Community",
+    "t": "steamcommunity",
+    "u": "http://steamcommunity.com/actions/Search?K={{{s}}}"
+  },
+  {
+    "d": "steamdb.info",
+    "s": "Steam Database",
+    "t": "steamdb",
+    "u": "http://steamdb.info/search/?a=app&q={{{s}}}"
+  },
+  {
+    "d": "www.steamgifts.com",
+    "s": "Steamgift",
+    "t": "steamgift",
+    "u": "https://www.steamgifts.com/giveaways/search?q={{{s}}}"
+  },
+  {
+    "d": "steamcommunity.com",
+    "s": "Steam Greenlight",
+    "t": "steamgl",
+    "u": "https://steamcommunity.com/workshop/browse/?appid=765&searchtext={{{s}}}"
+  },
+  {
+    "d": "store.steampowered.com",
+    "s": "Steam app ID",
+    "t": "steamid",
+    "u": "https://store.steampowered.com/app/{{{s}}}/"
+  },
+  {
+    "d": "steamid.io",
+    "s": "steamid.io",
+    "t": "steamio",
+    "u": "https://steamid.io/lookup/{{{s}}}"
+  },
+  {
+    "d": "store.steampowered.com",
+    "s": "Steam Key Redemption",
+    "t": "steamkey",
+    "u": "https://store.steampowered.com/account/registerkey?key={{{s}}}"
+  },
+  {
+    "d": "steamcommunity.com",
+    "s": "Steam Community Market",
+    "t": "steammarket",
+    "u": "http://steamcommunity.com/market/search?q={{{s}}}"
+  },
+  {
+    "d": "www.steamprices.com",
+    "s": "Steam Prices",
+    "t": "steamprices",
+    "u": "http://www.steamprices.com/us/search?{{{s}}}"
+  },
+  {
+    "d": "steamrep.com",
+    "s": "SteamRep",
+    "t": "steamrep",
+    "u": "http://steamrep.com/?q={{{s}}}"
+  },
+  {
+    "d": "steamcommunity.com",
+    "s": "Steam Community",
+    "t": "steamsc",
+    "u": "https://steamcommunity.com/search/users/#text={{{s}}}"
+  },
+  {
+    "d": "steamspy.com",
+    "s": "SteamSpy",
+    "t": "steamspy",
+    "u": "http://steamspy.com/search.php?s={{{s}}}"
+  },
+  {
+    "d": "store.steampowered.com",
+    "s": "Steam",
+    "t": "steam",
+    "u": "http://store.steampowered.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "www.steamtrades.com",
+    "s": "Steam Trades",
+    "t": "steamtrades",
+    "u": "http://www.steamtrades.com/forum/search/{{{s}}}"
+  },
+  {
+    "d": "www.steelcase.com",
+    "s": "Steelcase",
+    "t": "steelcase",
+    "u": "https://www.steelcase.com/?s={{{s}}}"
+  },
+  {
+    "d": "steemit.com",
+    "s": "Steemit",
+    "t": "steemit",
+    "u": "https://steemit.com/static/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.asksteem.com",
+    "s": "Steem",
+    "t": "steem",
+    "u": "https://www.asksteem.com/search?q={{{s}}}"
+  },
+  {
+    "d": "steigan.no",
+    "s": "Steigan.no",
+    "t": "steigan",
+    "u": "https://steigan.no/?s={{{s}}}"
+  },
+  {
+    "d": "www.steimatzky.co.il",
+    "s": "Steimatzky",
+    "t": "steimatzky",
+    "u": "http://www.steimatzky.co.il/Steimatzky/Pages/SearchResult.aspx?SearchType=Simple&SearchSimpleText={{{s}}}"
+  },
+  {
+    "d": "stellaris.paradoxwikis.com",
+    "s": "Stellaris Wiki",
+    "t": "stellaris",
+    "u": "https://stellaris.paradoxwikis.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "stellarfed.org",
+    "s": "StellarFed",
+    "t": "stellar",
+    "u": "https://stellarfed.org/search?q={{{s}}}"
+  },
+  {
+    "d": "store.steampowered.com",
+    "s": "Steam",
+    "t": "steme",
+    "u": "https://store.steampowered.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "www.stern.de",
+    "s": "Stern",
+    "t": "stern",
+    "u": "http://www.stern.de/action/3000116/search?query={{{s}}}"
+  },
+  {
+    "d": "store.steampowered.com",
+    "s": "Steam",
+    "t": "ste",
+    "u": "http://store.steampowered.com/search/?term={{{s}}}"
+  },
+  {
+    "d": "stackexchange.com",
+    "s": "Stack Exchange",
+    "t": "stex",
+    "u": "http://stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "portal.stf.jus.br",
+    "s": "Supremo Tribunal Federal",
+    "t": "stf",
+    "u": "http://portal.stf.jus.br/processos/listarProcessos.asp?classe=&numeroProcesso={{{s}}}"
+  },
+  {
+    "d": "biblioteket.stockholm.se",
+    "s": "Stockholms stadsbibliotek",
+    "t": "sthlmbibbla",
+    "u": "https://biblioteket.stockholm.se/sok?freetext={{{s}}}"
+  },
+  {
+    "d": "www.stib-mivb.be",
+    "s": "STIB MIVB",
+    "t": "stib",
+    "u": "http://www.stib-mivb.be/horaires-dienstregeling2.html?l=en&linecode={{{s}}}"
+  },
+  {
+    "d": "www.stickpng.com",
+    "s": "StickPNG",
+    "t": "stickpng",
+    "u": "http://www.stickpng.com/search?q={{{s}}}"
+  },
+  {
+    "d": "stilltasty.com",
+    "s": "StillTasty",
+    "t": "stilltasty",
+    "u": "https://stilltasty.com/Search?q={{{s}}}"
+  },
+  {
+    "d": "www.stixoi.info",
+    "s": "stixoi.info",
+    "t": "stixoi",
+    "u": "http://www.stixoi.info/stixoi.php?info=SS&keywords={{{s}}}&act=ss"
+  },
+  {
+    "d": "www.cplusplus.com",
+    "s": "cplusplus.com",
+    "t": "stl",
+    "u": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  },
+  {
+    "d": "www.stlfinder.com",
+    "s": "STLFinder",
+    "t": "stlf",
+    "u": "https://www.stlfinder.com/?search={{{s}}}"
+  },
+  {
+    "d": "www.engadin.stmoritz.ch",
+    "s": "Engadin St. Moritz",
+    "t": "stmoritz",
+    "u": "https://www.engadin.stmoritz.ch/suche/q.{{{s}}}/"
+  },
+  {
+    "d": "stmblog.com",
+    "s": "STM-Blog",
+    "t": "stm",
+    "u": "http://stmblog.com/?s={{{s}}}"
+  },
+  {
+    "d": "stockcharts.com",
+    "s": "StockCharts",
+    "t": "stockcharts",
+    "u": "http://stockcharts.com/h-sc/ui?s={{{s}}}&p=D&yr=0&mn=6&dy=0"
+  },
+  {
+    "d": "finance.google.com",
+    "s": "Google Finance",
+    "t": "stock",
+    "u": "https://finance.google.com/?q={{{s}}}&sa=N&tab=fe"
+  },
+  {
+    "d": "www.istockphoto.com",
+    "s": "iStockPhoto",
+    "t": "stockphotos",
+    "u": "http://www.istockphoto.com/file_search.php?action=file&text={{{s}}}"
+  },
+  {
+    "d": "www.stocksy.com",
+    "s": "Stocksy United",
+    "t": "stocksy",
+    "u": "https://www.stocksy.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.dissolve.com",
+    "s": "dissolve.com",
+    "t": "stockvideo",
+    "u": "http://www.dissolve.com/products?keywords={{{s}}}&media_type=video"
+  },
+  {
+    "d": "stockx.com",
+    "s": "StockX",
+    "t": "stockx",
+    "u": "https://stockx.com/search?s={{{s}}}"
+  },
+  {
+    "d": "isc.sans.edu",
+    "s": "Internet Storm Center",
+    "t": "storm",
+    "u": "https://isc.sans.edu/ipinfo.html?ip={{{s}}}"
+  },
+  {
+    "d": "sok.stortinget.no",
+    "s": "Stortinget",
+    "t": "stortinget",
+    "u": "https://sok.stortinget.no/?querytext={{{s}}}"
+  },
+  {
+    "d": "storybank.id",
+    "s": "storybank",
+    "t": "storybank",
+    "u": "https://storybank.id/?s={{{s}}}"
+  },
+  {
+    "d": "www.sierratradingpost.com",
+    "s": "Sierra Trading Post",
+    "t": "stp",
+    "u": "http://www.sierratradingpost.com/s~{{{s}}}"
+  },
+  {
+    "d": "www.straightdope.com",
+    "s": "Straight Dope",
+    "t": "straightdope",
+    "u": "http://www.straightdope.com/columns/search?query={{{s}}}&action=search"
+  },
+  {
+    "d": "www.wikileaf.com",
+    "s": "wikileaf",
+    "t": "strain",
+    "u": "https://www.wikileaf.com/strains/?search={{{s}}}"
+  },
+  {
+    "d": "www.straitstimes.com",
+    "s": "The Straits Times",
+    "t": "straitstimes",
+    "u": "https://www.straitstimes.com/search?searchkey={{{s}}}"
+  },
+  {
+    "d": "www.tritrans.net",
+    "s": "TriTrans",
+    "t": "strans",
+    "u": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Spansk&Fra={{{s}}}"
+  },
+  {
+    "d": "strategischlui.nl",
+    "s": "Strategisch Lui",
+    "t": "strategischlui",
+    "u": "https://strategischlui.nl/?s={{{s}}}"
+  },
+  {
+    "d": "strategywiki.org",
+    "s": "StrategyWiki",
+    "t": "strategywiki",
+    "u": "https://strategywiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.strava.com",
+    "s": "Strava",
+    "t": "strava",
+    "u": "https://www.strava.com/athletes/search?utf8=✓&text={{{s}}}&gsf=1"
+  },
+  {
+    "d": "www.stream.cz",
+    "s": "Internetová televize Stream",
+    "t": "stream",
+    "u": "https://www.stream.cz/vyhledavani?dotaz={{{s}}}"
+  },
+  {
+    "d": "streeteasy.com",
+    "s": "StreetEasy",
+    "t": "street",
+    "u": "http://streeteasy.com/search?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "d": "www.strefasluchu.pl",
+    "s": "Strefa Słuchu",
+    "t": "strefasluchu",
+    "u": "http://www.strefasluchu.pl/?s={{{s}}}"
+  },
+  {
+    "d": "store.steampowered.com",
+    "s": "Steam Activate Key",
+    "t": "streg",
+    "u": "https://store.steampowered.com/account/registerkey?key={{{s}}}"
+  },
+  {
+    "d": "www.startribune.com",
+    "s": "Star Tribune",
+    "t": "strib",
+    "u": "http://www.startribune.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "stream.org",
+    "s": "The Stream",
+    "t": "strm",
+    "u": "https://stream.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.biblestudytools.com",
+    "s": "Strong's Exhaustive Concordance",
+    "t": "strongs",
+    "u": "https://www.biblestudytools.com/search/?q={{{s}}}&t=kjv&s=Bibles"
+  },
+  {
+    "d": "www.strumentimusicali.net",
+    "s": "StrumentiMusicali.net",
+    "t": "strumenti",
+    "u": "https://www.strumentimusicali.net/advanced_search_result.php?manufacturers_id=&keywords={{{s}}}&inc_subcat=1"
+  },
+  {
+    "d": "www.spreadthesign.com",
+    "s": "Spreadthesign",
+    "t": "stsde",
+    "u": "https://www.spreadthesign.com/de.de/search/?q={{{s}}}"
+  },
+  {
+    "d": "st-takla.org",
+    "s": "st-takla.org",
+    "t": "sts",
+    "u": "http://st-takla.org/Coptic-Search-St-Takla.org/site_search.php?q={{{s}}}&op=and"
+  },
+  {
+    "d": "www.shutterstock.com",
+    "s": "Shutterstock",
+    "t": "ststock",
+    "u": "https://www.shutterstock.com/search/{{{s}}}"
+  },
+  {
+    "d": "stocktwits.com",
+    "s": "stocktwits",
+    "t": "st",
+    "u": "http://stocktwits.com/search?q={{{s}}}"
+  },
+  {
+    "d": "slay-the-spire.fandom.com",
+    "s": "Slay the spire Wiki | Fandom powered by Wikia",
+    "t": "stsw",
+    "u": "https://slay-the-spire.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.sacred-texts.com",
+    "s": "Sacred Texts",
+    "t": "sttexts",
+    "u": "http://www.sacred-texts.com/cat/srchtitl.htm?search_str={{{s}}}"
+  },
+  {
+    "d": "www.stubhub.com",
+    "s": "StubHub",
+    "t": "stubhub",
+    "u": "http://www.stubhub.com/search/doSearch?searchStr={{{s}}}&pageNumber=1&resultsPerPage=50&searchMode=event&start=0&rows=50"
+  },
+  {
+    "d": "www.studentdoctor.net",
+    "s": "Student Doctor Network",
+    "t": "studentdoctor",
+    "u": "http://www.studentdoctor.net/search-sdn/?cx={{{s}}}"
+  },
+  {
+    "d": "studiofutbol.com.ec",
+    "s": "StudioFutbol",
+    "t": "studiofutbol",
+    "u": "http://studiofutbol.com.ec/?submit=&s={{{s}}}"
+  },
+  {
+    "d": "studybible.info",
+    "s": "Study bible",
+    "t": "studybible",
+    "u": "http://studybible.info/YLT/{{{s}}}"
+  },
+  {
+    "d": "study.com",
+    "s": "Study.com",
+    "t": "study",
+    "u": "https://study.com/search/text/academy.html?q={{{s}}}"
+  },
+  {
+    "d": "www.stuff.co.nz",
+    "s": "stuff.co.nz",
+    "t": "stuffnz",
+    "u": "http://www.stuff.co.nz/searchresults?Search+Site=Search+Site&cof=FORID%3A9&cx=006730714154542492986%3Aoh6vl0ybuqy&ie=UTF-8&q={{{s}}}&siteurl=www.stuff.co.nz%2F&ref="
+  },
+  {
+    "d": "www.stupidedia.org",
+    "s": "Stupidedia",
+    "t": "stupi",
+    "u": "http://www.stupidedia.org/stupi?title=Spezial%3ASuche&search={{{s}}} "
+  },
+  {
+    "d": "singletrackworld.com",
+    "s": "https://singletrackworld.com/forum/",
+    "t": "stw",
+    "u": "https://singletrackworld.com/forum/search/{{{s}}}"
+  },
+  {
+    "d": "www.superteacherworksheets.com",
+    "s": "Super Teacher Worksheets",
+    "t": "stws",
+    "u": "https://www.superteacherworksheets.com/search-results.html?srch_words={{{s}}}"
+  },
+  {
+    "d": "userstyles.org",
+    "s": "Stylish",
+    "t": "stylish",
+    "u": "https://userstyles.org/styles/browse?search_terms={{{s}}}"
+  },
+  {
+    "d": "www.stuttgarter-zeitung.de",
+    "s": "Stuttgarter Zeitung",
+    "t": "stz",
+    "u": "http://www.stuttgarter-zeitung.de/suche?_charset_=UTF-8&searchText={{{s}}}"
+  },
+  {
+    "d": "subeen.com",
+    "s": "Subeen.com",
+    "t": "subeen",
+    "u": "http://subeen.com/?s={{{s}}}"
+  },
+  {
+    "d": "subeta.net",
+    "s": "Subeta",
+    "t": "subetashops",
+    "u": "https://subeta.net/user_shops.php/search/shops/{{{s}}}"
+  },
+  {
+    "d": "www.subito.it",
+    "s": "Subito.it",
+    "t": "subito",
+    "u": "http://www.subito.it/annunci-italia/vendita/usato/?q={{{s}}}"
+  },
+  {
+    "d": "docs.sublimetext.info",
+    "s": "Sublime Text Unofficial Documentation",
+    "t": "subldoc",
+    "u": "http://docs.sublimetext.info/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "sublevel.net",
+    "s": "Sublevel",
+    "t": "sublevel",
+    "u": "https://sublevel.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "forum.sublimetext.com",
+    "s": "Sublime Text Forum",
+    "t": "sublforum",
+    "u": "https://forum.sublimetext.com/search?q={{{s}}}"
+  },
+  {
+    "d": "sublime.wbond.net",
+    "s": "Sublime Package Control",
+    "t": "sublime",
+    "u": "https://sublime.wbond.net/search/{{{s}}}"
+  },
+  {
+    "d": "www.submarino.com.br",
+    "s": "Submarino",
+    "t": "submarino",
+    "u": "https://www.submarino.com.br/busca?conteudo={{{s}}}"
+  },
+  {
+    "d": "subnautica.wikia.com",
+    "s": "Subnautica Wiki",
+    "t": "subnautica",
+    "u": "http://subnautica.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.tunnelsup.com",
+    "s": "Subnet Calculator - TunnelsUp",
+    "t": "subnet",
+    "u": "http://www.tunnelsup.com/subnet-calculator?ip={{{s}}} "
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit Subreddits",
+    "t": "subreddit",
+    "u": "http://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Subreddit search",
+    "t": "subredditsearch",
+    "u": "http://www.reddit.com/search?q=subreddit:{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit",
+    "t": "subr",
+    "u": "http://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "subtlepatterns.com",
+    "s": "Subtle Patterns",
+    "t": "subtlepatterns",
+    "u": "http://subtlepatterns.com/?q={{{s}}}"
+  },
+  {
+    "d": "searchvoat.co",
+    "s": "Voat",
+    "t": "subverse",
+    "u": "https://searchvoat.co/subverses/?q={{{s}}}"
+  },
+  {
+    "d": "www.suconlavite.it",
+    "s": "Suconlavite.it",
+    "t": "suconlavite",
+    "u": "http://www.suconlavite.it/?s={{{s}}}"
+  },
+  {
+    "d": "sitecheck.sucuri.net",
+    "s": "Sucuri",
+    "t": "sucuri",
+    "u": "https://sitecheck.sucuri.net/results/{{{s}}}"
+  },
+  {
+    "d": "www.sudoc.abes.fr",
+    "s": "Sudoc",
+    "t": "sudoc",
+    "u": "http://www.sudoc.abes.fr//DB=2.1/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM={{{s}}}"
+  },
+  {
+    "d": "sudomod.com",
+    "s": "sudomod",
+    "t": "sudomod",
+    "u": "http://sudomod.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.sueddeutsche.de",
+    "s": "süddeutsche.de",
+    "t": "sued",
+    "u": "http://www.sueddeutsche.de/news?search={{{s}}}"
+  },
+  {
+    "d": "www.colissimo.fr",
+    "s": "Suivi Colissimo",
+    "t": "suivicolissimo",
+    "u": "http://www.colissimo.fr/portail_colissimo/suivre.do?language=fr_FR&parcelnumber={{{s}}}"
+  },
+  {
+    "d": "www.csuivi.courrier.laposte.fr",
+    "s": "La Poste",
+    "t": "suivicourrier",
+    "u": "http://www.csuivi.courrier.laposte.fr/suivi/index?id={{{s}}}#"
+  },
+  {
+    "d": "search.sulekha.com",
+    "s": "Sulekha",
+    "t": "sulekha",
+    "u": "http://search.sulekha.com/sulekhasearch.aspx?txtsearch={{{s}}}"
+  },
+  {
+    "d": "www.sulit.com.ph",
+    "s": "Sulit",
+    "t": "sulit",
+    "u": "http://www.sulit.com.ph/index.php/classifieds+directory/q/{{{s}}}"
+  },
+  {
+    "d": "learn.sharedusemobilitycenter.org",
+    "s": "Shared-Use Mobility Center (SUMC) Mobility on Demand Learning Center",
+    "t": "sumc",
+    "u": "https://learn.sharedusemobilitycenter.org/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "sum.in.ua",
+    "s": "Dictionary of Ukrainian Language (Словник української мови)",
+    "t": "sum",
+    "u": "http://sum.in.ua/?swrd={{{s}}} "
+  },
+  {
+    "d": "www.serialupdates.me",
+    "s": "Serial Updates",
+    "t": "su.me",
+    "u": "https://www.serialupdates.me/?s={{{s}}}"
+  },
+  {
+    "d": "www.summitpost.org",
+    "s": "SummitPost",
+    "t": "summitpost",
+    "u": "http://www.summitpost.org/object_list.php?object_type=0&object_name_0={{{s}}}&page=1"
+  },
+  {
+    "d": "www.swiftbysundell.com",
+    "s": "Swift by Sundell",
+    "t": "sundell",
+    "u": "https://www.swiftbysundell.com/search?query={{{s}}}"
+  },
+  {
+    "d": "sunnah.com",
+    "s": "Sunnah.com",
+    "t": "sunnah",
+    "u": "https://sunnah.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.sunnysports.com",
+    "s": "SunnySports",
+    "t": "sunnysports",
+    "u": "http://www.sunnysports.com/search?searchinfo={{{s}}}"
+  },
+  {
+    "d": "sunrise-sunset.org",
+    "s": "Sunrise Sunset",
+    "t": "sun",
+    "u": "https://sunrise-sunset.org/search?location={{{s}}}"
+  },
+  {
+    "d": "chicago.suntimes.com",
+    "s": "SunTimes",
+    "t": "suntimes",
+    "u": "https://chicago.suntimes.com/?s={{{s}}}"
+  },
+  {
+    "d": "supermarket.chef.io",
+    "s": "Chef Supermarket",
+    "t": "super",
+    "u": "https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "supercoachtalk.com",
+    "s": "SupercoachTalk",
+    "t": "supercoachtalk",
+    "u": "http://supercoachtalk.com/?s={{{s}}}"
+  },
+  {
+    "d": "busca.superdownloads.com.br",
+    "s": "SuperDownloads",
+    "t": "superdownloads",
+    "u": "http://busca.superdownloads.com.br/busca/{{{s}}}.s1.html"
+  },
+  {
+    "d": "busca.superdownloads.com.br",
+    "s": "SuperDownloads",
+    "t": "superd",
+    "u": "http://busca.superdownloads.com.br/busca/{{{s}}}.s1.html"
+  },
+  {
+    "d": "www.google.fr",
+    "s": "Superphysique",
+    "t": "superphysique",
+    "u": "https://www.google.fr/search?q=site:www.superphysique.org+{{{s}}}"
+  },
+  {
+    "d": "www.realcanadiansuperstore.ca",
+    "s": "Real Canadian Superstore",
+    "t": "superstore",
+    "u": "https://www.realcanadiansuperstore.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "d": "superstropdas.nl",
+    "s": "SuperStropdas",
+    "t": "superstropdas",
+    "u": "http://superstropdas.nl/?s={{{s}}}"
+  },
+  {
+    "d": "superuser.com",
+    "s": "SuperUser",
+    "t": "superuser",
+    "u": "http://superuser.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.surplustraders.net",
+    "s": "SurplusTraders",
+    "t": "surplus",
+    "u": "https://www.surplustraders.net/catalogsearch/advanced/result/?name={{{s}}}"
+  },
+  {
+    "d": "help.surveygizmo.com",
+    "s": "SurveyGizmo help",
+    "t": "surveygizmo",
+    "u": "https://help.surveygizmo.com/help/search/?phrase={{{s}}}"
+  },
+  {
+    "d": "www.surveymonkey.com",
+    "s": "SurveyMonkey",
+    "t": "survey",
+    "u": "https://www.surveymonkey.com/dashboard/?term{{{s}}}"
+  },
+  {
+    "d": "bugzilla.novell.com",
+    "s": "openSUSE Bugzilla",
+    "t": "susebug",
+    "u": "https://bugzilla.novell.com/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "software.opensuse.org",
+    "s": "OpenSUSE Software search",
+    "t": "susepkg",
+    "u": "https://software.opensuse.org/search?q={{{s}}}"
+  },
+  {
+    "d": "scratch.mit.edu",
+    "s": "Scratch",
+    "t": "s_user",
+    "u": "https://scratch.mit.edu/users/{{{s}}}"
+  },
+  {
+    "d": "susi.at",
+    "s": "Susi",
+    "t": "susi",
+    "u": "http://susi.at/suche/{{{s}}}/"
+  },
+  {
+    "d": "software.opensuse.org",
+    "s": "openSUSE",
+    "t": "sus",
+    "u": "http://software.opensuse.org/search?utf8=✓&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1"
+  },
+  {
+    "d": "superuser.com",
+    "s": "SuperUser",
+    "t": "su",
+    "u": "http://superuser.com/search?q={{{s}}}"
+  },
+  {
+    "d": "susydocs.oddbird.net",
+    "s": "Susy",
+    "t": "susy",
+    "u": "http://susydocs.oddbird.net/en/latest/?q={{{s}}}"
+  },
+  {
+    "d": "suttacentral.net",
+    "s": "www.suttacentral.net",
+    "t": "suttac",
+    "u": "https://suttacentral.net/search?query={{{s}}}"
+  },
+  {
+    "d": "mw.lojban.org",
+    "s": "la sutysisku",
+    "t": "sutysisku",
+    "u": "http://mw.lojban.org/extensions/ilmentufa/i/en/index.html#sisku/{{{s}}}"
+  },
+  {
+    "d": "suche.suub.uni-bremen.de",
+    "s": "Staats- und Universitätsbibliothek Bremen",
+    "t": "suub",
+    "u": "https://suche.suub.uni-bremen.de/cgi-bin/CiXbase/brewis/CiXbase_search?act=search&INDEXINFO=awCN&LAN=DE&ORDER=&IHITS=15&FHITS=15&PRECISION=220&RELEVANCE=40&NO_RBITS=&n_dtyp=1LZ&n_rtyp=ceEdX&index=L&XML_STYLE=%2Fstyles%2Fcns-DE.xml%3F20130610&dtyp=&mtyp=&section=&term={{{s}}}&CID=&x=0&y=0"
+  },
+  {
+    "d": "stanford.rimeto.io",
+    "s": "Stanford People Search (StanfordWho)",
+    "t": "suwho",
+    "u": "https://stanford.rimeto.io/search/{{{s}}}"
+  },
+  {
+    "d": "svenska.se",
+    "s": "Svenska Akademiens Ordböcker",
+    "t": "svao",
+    "u": "https://svenska.se/tre/?sok={{{s}}}"
+  },
+  {
+    "d": "www.svartling.net",
+    "s": "Svartling Network",
+    "t": "svartling",
+    "u": "http://www.svartling.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.svb.com",
+    "s": "Silicon Valley Bank",
+    "t": "svb",
+    "u": "http://www.svb.com/searchresults.aspx?term={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "svde",
+    "u": "https://translate.google.com/#sv/de/{{{s}}}"
+  },
+  {
+    "d": "www.svd.se",
+    "s": "Svenska Dagbladet",
+    "t": "svd",
+    "u": "http://www.svd.se/search.do?q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate (Swedish to English)",
+    "t": "sven",
+    "u": "https://translate.google.com/#sv/en/{{{s}}}"
+  },
+  {
+    "d": "svenska.se",
+    "s": "Svenska Akademiens Ordböcker",
+    "t": "svenska",
+    "u": "https://svenska.se/tre/?sok={{{s}}}&pz=1"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Network",
+    "t": "svg",
+    "u": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=svg"
+  },
+  {
+    "d": "www.svgrepo.com",
+    "s": "SVG Repo",
+    "t": "svgrepo",
+    "u": "https://www.svgrepo.com/vectors/{{{s}}}/"
+  },
+  {
+    "d": "help.sitevision.se",
+    "s": "SiteVision Developer",
+    "t": "svhelp",
+    "u": "https://help.sitevision.se/SiteVision_4_0/searchhelp.html?query={{{s}}}"
+  },
+  {
+    "d": "translate.google.se",
+    "s": "Google Translate - Swedish to Portoguese",
+    "t": "svpt",
+    "u": "https://translate.google.se/#sv/pt/{{{s}}}"
+  },
+  {
+    "d": "sverigesradio.se",
+    "s": "Sveriges Radio",
+    "t": "svr",
+    "u": "https://sverigesradio.se/sida/sok.aspx?q={{{s}}} "
+  },
+  {
+    "d": "www.synonymer.se",
+    "s": "Synonymer.se",
+    "t": "svs",
+    "u": "https://www.synonymer.se/sv-syn/{{{s}}}"
+  },
+  {
+    "d": "www.svt.se",
+    "s": "Svt Nyheter",
+    "t": "svtn",
+    "u": "http://www.svt.se/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.svtplay.se",
+    "s": "SVT Play",
+    "t": "svtp",
+    "u": "http://www.svtplay.se/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.svtplay.se",
+    "s": "SVT Play",
+    "t": "svt",
+    "u": "http://www.svtplay.se/sok?q={{{s}}}"
+  },
+  {
+    "d": "voat.co",
+    "s": "Voat",
+    "t": "sv",
+    "u": "https://voat.co/v/{{{s}}}"
+  },
+  {
+    "d": "es.stardewvalleywiki.com",
+    "s": "Stardew Valley Wiki Español",
+    "t": "svwe",
+    "u": "https://es.stardewvalleywiki.com/ {{{s}}}"
+  },
+  {
+    "d": "stardewvalleywiki.com",
+    "s": "Stardew Valley Wiki",
+    "t": "svw",
+    "u": "http://stardewvalleywiki.com/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "swagbucks.com",
+    "s": "Swagbucks",
+    "t": "swagbucks",
+    "u": "https://swagbucks.com/?q={{{s}}}"
+  },
+  {
+    "d": "forum.shopware.com",
+    "s": "Shopware Forum",
+    "t": "swag",
+    "u": "https://forum.shopware.com/search?Search={{{s}}}"
+  },
+  {
+    "d": "www.swalter.com",
+    "s": "S. Walter Packaging",
+    "t": "swalter",
+    "u": "http://www.swalter.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "swappa.com",
+    "s": "swappa.com",
+    "t": "swappa",
+    "u": "https://swappa.com/search?q={{{s}}}"
+  },
+  {
+    "d": "swappa.com",
+    "s": "Swappa",
+    "t": "swap",
+    "u": "https://swappa.com/search?q={{{s}}}"
+  },
+  {
+    "d": "swarajyamag.com",
+    "s": "Swarajya",
+    "t": "swarajya",
+    "u": "https://swarajyamag.com/search?q={{{s}}}"
+  },
+  {
+    "d": "summonerswar.wikia.com",
+    "s": "Summonerswar",
+    "t": "swars",
+    "u": "http://summonerswar.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.spaghetti-western.net",
+    "s": "The Spaghetti Western Database",
+    "t": "swdb",
+    "u": "http://www.spaghetti-western.net/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "sweetsearch.com",
+    "s": "SweetSearch4me",
+    "t": "sweetsearch",
+    "u": "http://sweetsearch.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.sweetwater.com",
+    "s": "Sweetwater",
+    "t": "sweetwater",
+    "u": "http://www.sweetwater.com/store/search.php?s={{{s}}}"
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "Swift Standard Library",
+    "t": "swift",
+    "u": "https://developer.apple.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.swi-prolog.org",
+    "s": "SWI-Prolog",
+    "t": "swipl",
+    "u": "http://www.swi-prolog.org/pldoc/search?for={{{s}}}&in=all&match=summary"
+  },
+  {
+    "d": "www.swissbib.ch",
+    "s": "swissbib",
+    "t": "swissbib",
+    "u": "https://www.swissbib.ch/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "d": "swisscows.com",
+    "s": "Swisscows",
+    "t": "swisscows",
+    "u": "https://swisscows.com/?query={{{s}}}"
+  },
+  {
+    "d": "www.post.ch",
+    "s": "Swiss Post",
+    "t": "swisspost",
+    "u": "https://www.post.ch/EasyTrack/submitParcelData.do?formattedParcelCodes={{{s}}}"
+  },
+  {
+    "d": "www.swi-prolog.org",
+    "s": "SWI-Prolog",
+    "t": "swi",
+    "u": "http://www.swi-prolog.org/search?for={{{s}}}"
+  },
+  {
+    "d": "www.swoop.ge",
+    "s": "Swoop.ge discounts in Georgia",
+    "t": "swoopge",
+    "u": "https://www.swoop.ge/search?query={{{s}}}"
+  },
+  {
+    "d": "www.swoop.ge",
+    "s": "Swoop",
+    "t": "swoop",
+    "u": "https://www.swoop.ge/search?query={{{s}}}"
+  },
+  {
+    "d": "searchworks.stanford.edu",
+    "s": "Stanford SearchWorks",
+    "t": "sworks",
+    "u": "http://searchworks.stanford.edu/?utf8=✓&search_field=search&q={{{s}}}"
+  },
+  {
+    "d": "simple.wikipedia.org",
+    "s": "Simple English Wikipedia",
+    "t": "sw",
+    "u": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "swtl.pt",
+    "s": "Switch Technology",
+    "t": "swtl",
+    "u": "http://swtl.pt/web/index.php?route=product/isearch&search={{{s}}}"
+  },
+  {
+    "d": "www.sweetwater.com",
+    "s": "Sweetwater",
+    "t": "swtr",
+    "u": "https://www.sweetwater.com/store/search.php?s={{{s}}}"
+  },
+  {
+    "d": "www.sweetsearch.com",
+    "s": "Sweet Search",
+    "t": "swtsearch",
+    "u": "http://www.sweetsearch.com/search?q={{{s}}}"
+  },
+  {
+    "d": "starwars.wikia.com",
+    "s": "Wookieepedia",
+    "t": "swwiki",
+    "u": "http://starwars.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "stackexchange.com",
+    "s": "Stack Exchange",
+    "t": "sx",
+    "u": "http://stackexchange.com/search?q={{{s}}} "
+  },
+  {
+    "d": "schedule.sxsw.com",
+    "s": "SXSW Schedule",
+    "t": "sxsw",
+    "u": "https://schedule.sxsw.com/2019/search?q={{{s}}}"
+  },
+  {
+    "d": "words.bighugelabs.com",
+    "s": "Big Huge  Thesaurus",
+    "t": "sy",
+    "u": "http://words.bighugelabs.com/{{{s}}}"
+  },
+  {
+    "d": "startpage.com",
+    "s": "Startpage",
+    "t": "syear",
+    "u": "https://startpage.com/do/metasearch.pl?query={{{s}}}&with_date=y"
+  },
+  {
+    "d": "www.synonymes.com",
+    "s": "Synonymes.com",
+    "t": "syfr",
+    "u": "http://www.synonymes.com/resultats.php?mot={{{s}}}"
+  },
+  {
+    "d": "www.symantec.com",
+    "s": "Symantec",
+    "t": "symantec",
+    "u": "https://www.symantec.com/search?hiddenq=Pedroerkul&q={{{s}}}&searchJson={%22filter%22:[],%22startPage%22:1,%22start%22:0,%22sort%22:%22score%22}"
+  },
+  {
+    "d": "www.symbolab.com",
+    "s": "Symbolab",
+    "t": "symbolab",
+    "u": "https://www.symbolab.com/solver/step-by-step/{{{s}}}"
+  },
+  {
+    "d": "symbolhound.com",
+    "s": "Symbol Hound",
+    "t": "symbolhound",
+    "u": "http://symbolhound.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.symbolab.com",
+    "s": "Symbolab",
+    "t": "symb",
+    "u": "https://www.symbolab.com/solver/step-by-step/{{{s}}}"
+  },
+  {
+    "d": "symfony.com",
+    "s": "Symfony Framework",
+    "t": "symfony",
+    "u": "http://symfony.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.symbolab.com",
+    "s": "Symbolab",
+    "t": "symolab",
+    "u": "http://www.symbolab.com/solver/step-by-step/{{{s}}}"
+  },
+  {
+    "d": "www.sympygamma.com",
+    "s": "SymPy Gamma",
+    "t": "sympy",
+    "u": "http://www.sympygamma.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "symbolhound.com",
+    "s": "Symbolhound",
+    "t": "sym",
+    "u": "http://symbolhound.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.synapse.org",
+    "s": "Sage Synapse",
+    "t": "synapse",
+    "u": "https://www.synapse.org/#!Search:{{{s}}} "
+  },
+  {
+    "d": "sync.me",
+    "s": "Sync.me",
+    "t": "syncme",
+    "u": "https://sync.me/search/?number={{{s}}}"
+  },
+  {
+    "d": "synonyme.de",
+    "s": "Synonyme.de",
+    "t": "synde",
+    "u": "http://synonyme.de/{{{s}}}/"
+  },
+  {
+    "d": "www.crisco.unicaen.fr",
+    "s": "CRISCO – Dictionnaire des synonymes",
+    "t": "synf",
+    "u": "http://www.crisco.unicaen.fr/des/synonymes/{{{s}}}"
+  },
+  {
+    "d": "synoniemen.net",
+    "s": "Synoniemen.net",
+    "t": "synoniemen",
+    "u": "http://synoniemen.net/index.php?zoekterm={{{s}}}"
+  },
+  {
+    "d": "synoniemen.net",
+    "s": "Synoniemen.net",
+    "t": "synoniem",
+    "u": "http://synoniemen.net/index.php?zoekterm={{{s}}}"
+  },
+  {
+    "d": "www.slovnik-synonym.cz",
+    "s": "ABZ slovník českých synonym",
+    "t": "synonyma",
+    "u": "http://www.slovnik-synonym.cz/web.php/hledat?typ_hledani=prefix&cizi_slovo={{{s}}}"
+  },
+  {
+    "d": "www.crisco.unicaen.fr",
+    "s": "CRISCO Dictionnaire Electronique des Synonymes",
+    "t": "synonyme",
+    "u": "http://www.crisco.unicaen.fr/des/synonymes/{{{s}}}"
+  },
+  {
+    "d": "www.synonymer.se",
+    "s": "Synonymer",
+    "t": "synonymer",
+    "u": "https://www.synonymer.se/sv-syn/{{{s}}}"
+  },
+  {
+    "d": "synonymes.com",
+    "s": "Synonymes",
+    "t": "synonymes",
+    "u": "http://synonymes.com/resultats.php?mot={{{s}}}"
+  },
+  {
+    "d": "thesaurus.com",
+    "s": "Thesaurus.com",
+    "t": "synonyms",
+    "u": "http://thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "d": "www.thesaurus.com",
+    "s": "Thesaurus.com",
+    "t": "synonym",
+    "u": "http://www.thesaurus.com/browse/{{{s}}} "
+  },
+  {
+    "d": "www.synonymo.fr",
+    "s": "Synonymo.fr",
+    "t": "syno",
+    "u": "http://www.synonymo.fr/syno/{{{s}}}"
+  },
+  {
+    "d": "www.synonimy.pl",
+    "s": "Synonimy.pl",
+    "t": "synpl",
+    "u": "https://www.synonimy.pl/synonim/{{{s}}}"
+  },
+  {
+    "d": "thesaurus.com",
+    "s": "thesaurus.com",
+    "t": "syn",
+    "u": "http://thesaurus.com/browse/{{{s}}}"
+  },
+  {
+    "d": "www.systranet.com",
+    "s": "Systranet English-French",
+    "t": "sysef",
+    "u": "http://www.systranet.com/fr/fr/dictionary/english-french/{{{s}}}?"
+  },
+  {
+    "d": "www.systranet.com",
+    "s": "Systranet English-Swedish",
+    "t": "sysensw",
+    "u": "http://www.systranet.com/fr/fr/dictionary/english-swedish/{{{s}}}?"
+  },
+  {
+    "d": "www.systranet.com",
+    "s": "Systranet French-English",
+    "t": "sysfe",
+    "u": "http://www.systranet.com/fr/fr/dictionary/french-english/{{{s}}}?"
+  },
+  {
+    "d": "www.stuffyoushouldknow.com",
+    "s": "Stuff You Should Know",
+    "t": "sysk",
+    "u": "https://www.stuffyoushouldknow.com/search.php?terms={{{s}}}"
+  },
+  {
+    "d": "www.eki.ee",
+    "s": "Sünonüümisõnastik",
+    "t": "sys",
+    "u": "http://www.eki.ee/dict/sys/index.cgi?Q={{{s}}}&F=M&C06=en"
+  },
+  {
+    "d": "www.systranet.com",
+    "s": "Systranet Swedish-English",
+    "t": "sysswen",
+    "u": "http://www.systranet.com/fr/fr/dictionary/swedish-english/{{{s}}}?"
+  },
+  {
+    "d": "www.systembolaget.se",
+    "s": "Systembolaget",
+    "t": "systembolaget",
+    "u": "http://www.systembolaget.se/?searchquery={{{s}}}"
+  },
+  {
+    "d": "www.systembolaget.se",
+    "s": "Systembolaget",
+    "t": "systemet",
+    "u": "https://www.systembolaget.se/Sok-dryck/?searchquery={{{s}}}"
+  },
+  {
+    "d": "www.systranet.com",
+    "s": "Systranet",
+    "t": "systranet",
+    "u": "http://www.systranet.com/translate?text={{{s}}}"
+  },
+  {
+    "d": "www.shopyourway.com",
+    "s": "Shop Your Way",
+    "t": "syw",
+    "u": "http://www.shopyourway.com/search/products?q={{{s}}}"
+  },
+  {
+    "d": "slovnik.seznam.cz",
+    "s": "slovnik.seznam.cz němčina",
+    "t": "sznsde",
+    "u": "http://slovnik.seznam.cz/de/?q={{{s}}}"
+  },
+  {
+    "d": "search.seznam.cz",
+    "s": "seznam.cz",
+    "t": "szn",
+    "u": "http://search.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "d": "slovnik.seznam.cz",
+    "s": "Seznam.cz slovník Fr-Cz",
+    "t": "sznsfr",
+    "u": "https://slovnik.seznam.cz/fr-cz/?q={{{s}}}"
+  },
+  {
+    "d": "slovnik.seznam.cz",
+    "s": "slovnik.seznam.cz",
+    "t": "szns",
+    "u": "http://slovnik.seznam.cz/?q={{{s}}}"
+  },
+  {
+    "d": "www.szotar.net",
+    "s": "Szótár.net",
+    "t": "szotar",
+    "u": "https://www.szotar.net/mind/{{{s}}}/"
+  },
+  {
+    "d": "www.seznam.cz",
+    "s": "Seznam Zprávy",
+    "t": "szpravy",
+    "u": "https://www.seznam.cz/zpravy/hledani?q={{{s}}}&search--active=1"
+  },
+  {
+    "d": "suche.sueddeutsche.de",
+    "s": "Süddeutsche Zeitung",
+    "t": "sz",
+    "u": "http://suche.sueddeutsche.de/news?search={{{s}}}"
+  },
+  {
+    "d": "szotar.sztaki.hu",
+    "s": "SZTAKI Szótár",
+    "t": "sztaki",
+    "u": "http://szotar.sztaki.hu/search?searchWord={{{s}}}"
+  }
+]

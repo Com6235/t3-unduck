@@ -1,0 +1,152 @@
+[
+  {
+    "d": "1001boom.com",
+    "s": "1001boom",
+    "t": "1001",
+    "u": "http://1001boom.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.1001fonts.com",
+    "s": "1001 Fonts",
+    "t": "1001fonts",
+    "u": "http://www.1001fonts.com/search.html?search={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.101domain.com",
+    "s": "101 Domain",
+    "t": "101",
+    "u": "http://www.101domain.com/domain-availability-search.htm?q={{{s}}}&sa.x=0&sa.y=0"
+  },
+  {
+    "d": "www.101domain.com",
+    "s": "101domain",
+    "t": "101domain",
+    "u": "https://www.101domain.com/domain-availability-search.htm?q={{{s}}}"
+  },
+  {
+    "d": "1122.com.uy",
+    "s": "1122",
+    "t": "1122",
+    "u": "https://1122.com.uy/buscar/{{{s}}}/todo-el-pais"
+  },
+  {
+    "d": "www.1177.se",
+    "s": "1177 Vårdguiden",
+    "t": "1177",
+    "u": "http://www.1177.se/Sok/?q={{{s}}}"
+  },
+  {
+    "d": "11870.com",
+    "s": "11870",
+    "t": "11870",
+    "u": "http://11870.com/konsulto?q={{{s}}}"
+  },
+  {
+    "d": "118.dk",
+    "s": "TDC 118",
+    "t": "118",
+    "u": "http://118.dk/search/go?what={{{s}}}"
+  },
+  {
+    "d": "www.11freunde.de",
+    "s": "11 Freunde",
+    "t": "11freunde",
+    "u": "http://www.11freunde.de/search/gss/{{{s}}}"
+  },
+  {
+    "d": "search.11st.co.kr",
+    "s": "11번가",
+    "t": "11st",
+    "u": "http://search.11st.co.kr/SearchPrdAction.tmall?method=getTotalSearchSeller&kwd={{{s}}}"
+  },
+  {
+    "d": "140journos.com",
+    "s": "140journos",
+    "t": "140",
+    "u": "https://140journos.com/search?q={{{s}}}"
+  },
+  {
+    "d": "14-tage-wettervorhersage.de",
+    "s": "14-tage-wettervorhersage.de",
+    "t": "14",
+    "u": "https://14-tage-wettervorhersage.de/suche/?q={{{s}}}&lg=de"
+  },
+  {
+    "d": "b144.co.il",
+    "s": "b144",
+    "t": "144",
+    "u": "http://b144.co.il/PrivateResults.aspx?&p_name={{{s}}}"
+  },
+  {
+    "d": "www.15min.lt",
+    "s": "15min naujienos",
+    "t": "15min",
+    "u": "https://www.15min.lt/paieska?q={{{s}}}"
+  },
+  {
+    "d": "15mpedia.org",
+    "s": "15Mpedia",
+    "t": "15mpedia",
+    "u": "https://15mpedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.17track.net",
+    "s": "17TRACK",
+    "t": "17t",
+    "u": "http://www.17track.net/en/track?nums={{{s}}}"
+  },
+  {
+    "d": "www.180.no",
+    "s": "180.no",
+    "t": "180",
+    "u": "https://www.180.no/Search/All?w={{{s}}}"
+  },
+  {
+    "d": "www.1881.no",
+    "s": "1881.no",
+    "t": "1881",
+    "u": "http://www.1881.no/?query={{{s}}}"
+  },
+  {
+    "d": "1cak.com",
+    "s": "1cak",
+    "t": "1c",
+    "u": "https://1cak.com/search-0-{{{s}}}"
+  },
+  {
+    "d": "1d4chan.org",
+    "s": "1d4chan",
+    "t": "1d4chan",
+    "u": "https://1d4chan.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "onedrive.live.com",
+    "s": "OneDrive",
+    "t": "1dr",
+    "u": "http://onedrive.live.com/?q={{{s}}}"
+  },
+  {
+    "d": "1gabba.net",
+    "s": "1gabba",
+    "t": "1gabba",
+    "u": "http://1gabba.net/frontpage?title={{{s}}}"
+  },
+  {
+    "d": "www.1mg.com",
+    "s": "1mg",
+    "t": "1mg",
+    "u": "https://www.1mg.com/search/all?name={{{s}}}"
+  },
+  {
+    "d": "onepeterfive.com",
+    "s": "OnePeterFive",
+    "t": "1p5",
+    "u": "https://onepeterfive.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.1und1.de",
+    "s": "1und1",
+    "t": "1und1",
+    "u": "https://www.1und1.de/suche?query={{{s}}}"
+  }
+]

@@ -1,4 +1,3 @@
-import { bangs } from "./bang";
 import "./global.css";
 import {customBangs} from "./custom-bangs.ts";
 import {Bang} from "./types.ts";
@@ -46,11 +45,29 @@ function noSearchDefaultPageRender() {
   });
 }
 
-const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "ya";
-const defaultBang = customBangs.find((b) => b.t === LS_DEFAULT_BANG)
-    ?? bangs.find((b) => b.t === LS_DEFAULT_BANG);
+async function getBang(bang: string | undefined): Promise<Bang | undefined> {
+  if (!bang) return undefined
+  let firstChar = bang.charAt(0)
+  if (firstChar.match(/[a-zA-Z0-9]/gm) == null) {
+    let bangs: Bang[] = (await import("./bangs/other.json")).default
+    return bangs.find(a => a.t == bang)
+  } else {
 
-function getBangredirectUrl() {
+    let bangs = (await import(`./bangs/${firstChar}.json`)).default as Bang[]
+    return bangs.find(a => a.t == bang)
+  }
+}
+
+const DEFAULT_BANG = "ya"
+const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? DEFAULT_BANG;
+
+async function getDefaultBang() {
+  return customBangs.find((b) => b.t === LS_DEFAULT_BANG)
+      ?? await getBang(LS_DEFAULT_BANG)
+      ?? ((await getBang(DEFAULT_BANG)) as Bang)
+}
+
+async function getBangredirectUrl() {
   const url = new URL(window.location.href);
   const query = url.searchParams.get("q")?.trim() ?? "";
   if (!query) {
@@ -61,8 +78,7 @@ function getBangredirectUrl() {
   const match = query.match(/!(\S+)/i);
 
   const bangCandidate = match?.[1]?.toLowerCase();
-  const predicate = (b: Bang) => b.t === bangCandidate
-  const selectedBang = customBangs.find(predicate) ?? bangs.find(predicate) ?? defaultBang;
+  const selectedBang = customBangs.find((b: Bang) => b.t === bangCandidate) ?? await getBang(bangCandidate) ?? await getDefaultBang();
 
   // Remove the first bang from the query
   const cleanQuery = query.replace(/!\S+\s*/i, "").trim();
@@ -73,18 +89,18 @@ function getBangredirectUrl() {
 
   // Format of the url is:
   // https://www.google.com/search?q={{{s}}}
-  const searchUrl = selectedBang?.u.replace(
-    "{{{s}}}",
-    // Replace %2F with / to fix formats like "!ghr+t3dotgg/unduck"
-    encodeURIComponent(cleanQuery).replace(/%2F/g, "/"),
+  const searchUrl = selectedBang.u.replace(
+      "{{{s}}}",
+      // Replace %2F with / to fix formats like "!ghr+t3dotgg/unduck"
+      encodeURIComponent(cleanQuery).replace(/%2F/g, "/"),
   );
   if (!searchUrl) return null;
 
   return searchUrl;
 }
 
-function doRedirect() {
-  const searchUrl = getBangredirectUrl();
+async function doRedirect() {
+  const searchUrl = await getBangredirectUrl();
   if (!searchUrl) return;
   window.location.replace(searchUrl);
 }

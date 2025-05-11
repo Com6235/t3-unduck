@@ -1,0 +1,3134 @@
+[
+  {
+    "d": "search.rakuten.co.jp",
+    "s": "Rakuten Ichiba",
+    "t": "r10",
+    "u": "https://search.rakuten.co.jp/search/mall/{{{s}}}/"
+  },
+  {
+    "d": "www.rome2rio.com",
+    "s": "Rome2rio",
+    "t": "r2r",
+    "u": "https://www.rome2rio.com/map/{{{s}}}"
+  },
+  {
+    "d": "www.r2u.org.ua",
+    "s": "Російсько-українські словники",
+    "t": "r2u",
+    "u": "http://www.r2u.org.ua/s?w={{{s}}}&scope=all&dicts=all&highlight=on"
+  },
+  {
+    "d": "www.rapid7.com",
+    "s": "http://www.rapid7.com",
+    "t": "r7",
+    "u": "http://www.rapid7.com/db/search?utf8=%E2%9C%93&q={{{s}}} &t=a"
+  },
+  {
+    "d": "www.koivuniemi.com",
+    "s": "Koivuniemen Raamattuhaku",
+    "t": "raamattu",
+    "u": "http://www.koivuniemi.com/raamattuhaku?tila=pikahaku&hakuehto={{{s}}}"
+  },
+  {
+    "d": "blog.yechiel.me",
+    "s": "Rabbi On Rails",
+    "t": "rabbionrails",
+    "u": "https://blog.yechiel.me/search?q={{{s}}}"
+  },
+  {
+    "d": "www.racing.com",
+    "s": "RACING.COM",
+    "t": "racing",
+    "u": "http://www.racing.com/search?q={{{s}}}"
+  },
+  {
+    "d": "docs.racket-lang.org",
+    "s": "Racket",
+    "t": "racket",
+    "u": "http://docs.racket-lang.org/search/index.html?q={{{s}}}"
+  },
+  {
+    "d": "www.racksforcars.com",
+    "s": "Racks For Cars",
+    "t": "racksforcars",
+    "u": "https://www.racksforcars.com/store/search.asp?keyword={{{s}}}"
+  },
+  {
+    "d": "www.racv.com.au",
+    "s": "RACV",
+    "t": "racv",
+    "u": "https://www.racv.com.au/search-results.html?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/ADHD",
+    "t": "radhd",
+    "u": "https://www.reddit.com/r/ADHD/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "www.radio24.ilsole24ore.com",
+    "s": "Radio24",
+    "t": "radio24",
+    "u": "https://www.radio24.ilsole24ore.com/ricerca/{{{s}}}"
+  },
+  {
+    "d": "radiopaedia.org",
+    "s": "https://radiopaedia.org/",
+    "t": "radio",
+    "u": "https://radiopaedia.org/search?utf8=%E2%9C%93&q={{{s}}}&scope=all"
+  },
+  {
+    "d": "www.radiojavan.com",
+    "s": "RadioJavan",
+    "t": "radiojavan",
+    "u": "https://www.radiojavan.com/search?query={{{s}}}"
+  },
+  {
+    "d": "radiopaedia.org",
+    "s": "Radiopaedia.org",
+    "t": "radiopaedia",
+    "u": "http://radiopaedia.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.radioshack.com",
+    "s": "RadioShack",
+    "t": "radioshack",
+    "u": "https://www.radioshack.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.radiotimes.com",
+    "s": "RadioTimes",
+    "t": "radiotimes",
+    "u": "http://www.radiotimes.com/search?q={{{s}}}"
+  },
+  {
+    "d": "radiopaedia.org",
+    "s": "Radiopaedia",
+    "t": "rad",
+    "u": "https://radiopaedia.org/search?utf8=✓&q={{{s}}}&scope=all"
+  },
+  {
+    "d": "dle.rae.es",
+    "s": "RAE",
+    "t": "rae",
+    "u": "https://dle.rae.es/?w={{{s}}}"
+  },
+  {
+    "d": "animorphsforum.com",
+    "s": "Richard's Animorphs Forum",
+    "t": "raf",
+    "u": "http://animorphsforum.com/index.php?action=search;advanced;search={{{s}}}"
+  },
+  {
+    "d": "academia.gal",
+    "s": "Real Academia Galega",
+    "t": "rag",
+    "u": "http://academia.gal/dicionario/-/termo/busca/{{{s}}}"
+  },
+  {
+    "d": "roosterteeth.com",
+    "s": "Acheivement hunter",
+    "t": "rah",
+    "u": "https://roosterteeth.com/channel/achievement-hunter#search?term={{{s}}}"
+  },
+  {
+    "d": "raider.io",
+    "s": "Raider.io",
+    "t": "raiderio",
+    "u": "https://raider.io/search?type=character&name[0][contains]={{{s}}}"
+  },
+  {
+    "d": "railscasts.com",
+    "s": "RailsCasts",
+    "t": "railscasts",
+    "u": "http://railscasts.com/?search={{{s}}}"
+  },
+  {
+    "d": "apidock.com",
+    "s": "Rails-Dock",
+    "t": "railsdock",
+    "u": "http://apidock.com/rails/search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Ruby on Rails Guides",
+    "t": "railsguides",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aguides.rubyonrails.org"
+  },
+  {
+    "d": "api.rubyonrails.org",
+    "s": "Rails API",
+    "t": "rails",
+    "u": "http://api.rubyonrails.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.raiplay.it",
+    "s": "RaiPlay",
+    "t": "rai",
+    "u": "https://www.raiplay.it/ricerca?q={{{s}}}"
+  },
+  {
+    "d": "www.rakuten.de",
+    "s": "Rakuten.de",
+    "t": "rakde",
+    "u": "https://www.rakuten.de/suchen/{{{s}}}?category=0"
+  },
+  {
+    "d": "global.rakuten.com",
+    "s": "Rakuten Global Market",
+    "t": "rakuteng",
+    "u": "https://global.rakuten.com/en/search/?k={{{s}}}"
+  },
+  {
+    "d": "search.rakuten.co.jp",
+    "s": "Rakuten",
+    "t": "rakuten",
+    "u": "http://search.rakuten.co.jp/search/mall/{{{s}}}/"
+  },
+  {
+    "d": "search.rockwellautomation.com",
+    "s": "Rockwell Automation Literature",
+    "t": "ralit",
+    "u": "http://search.rockwellautomation.com/search?q={{{s}}}&client=literature&filter=0&ie=UTF-8&oe=UTF-8&output=xml_no_dtd&proxystylesheet=literature&site=literature&getfields=*&lang=en&hl=en&num=20&requiredfields=xlanguage%3AMU%7Cxlanguage%3AEN"
+  },
+  {
+    "d": "www.rallypoint.com",
+    "s": "RallyPoint",
+    "t": "rallypoint",
+    "u": "https://www.rallypoint.com/answers?q={{{s}}}"
+  },
+  {
+    "d": "rgb.to",
+    "s": "rgb to",
+    "t": "ral",
+    "u": "http://rgb.to/ral/{{{s}}}"
+  },
+  {
+    "d": "ralvid.ml",
+    "s": "ralvid - YouTube Mirror",
+    "t": "ralvid",
+    "u": "http://ralvid.ml/search.php?q={{{s}}}"
+  },
+  {
+    "d": "ramdajs.com",
+    "s": "Ramda Javascript library",
+    "t": "ramda",
+    "u": "http://ramdajs.com/docs/#{{{s}}}"
+  },
+  {
+    "d": "www.random.org",
+    "s": "RANDOM.ORG",
+    "t": "random",
+    "u": "https://www.random.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.roadandtrack.com",
+    "s": "Road & Track",
+    "t": "randt",
+    "u": "https://www.roadandtrack.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.reliableaftermarketparts.com",
+    "s": "Reliable Aftermarket Parts, Inc®",
+    "t": "raparts",
+    "u": "https://www.reliableaftermarketparts.com/search?q={{{s}}}"
+  },
+  {
+    "d": "rapgenius.com",
+    "s": "Rap Genius",
+    "t": "rapgenius",
+    "u": "http://rapgenius.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rapidonline.com",
+    "s": "Rapid Online",
+    "t": "rapidonline",
+    "u": "https://www.rapidonline.com/Catalogue/Search?Query={{{s}}}"
+  },
+  {
+    "d": "genius.com",
+    "s": "rapgenius",
+    "t": "rap",
+    "u": "https://genius.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.residentadvisor.net",
+    "s": "Resident Advisor",
+    "t": "ra",
+    "u": "http://www.residentadvisor.net/search.aspx?searchstr={{{s}}}"
+  },
+  {
+    "d": "raru.co.za",
+    "s": "Raru",
+    "t": "raru",
+    "u": "https://raru.co.za/search/{{{s}}}"
+  },
+  {
+    "d": "www.raspberrypi.org",
+    "s": "Raspberry Pi",
+    "t": "raspberrypi",
+    "u": "http://www.raspberrypi.org/?s={{{s}}}"
+  },
+  {
+    "d": "ratamo.verkkokirjasto.fi",
+    "s": "Ratamo-verkkokirjasto",
+    "t": "ratamo",
+    "u": "https://ratamo.verkkokirjasto.fi/web/arena/search?p_p_id=searchResult_WAR_arenaportlets&p_r_p_687834046_search_query={{{s}}}"
+  },
+  {
+    "d": "www.ratebeer.com",
+    "s": "RateBeer",
+    "t": "ratebeer",
+    "u": "https://www.ratebeer.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ratemyprofessors.com",
+    "s": "Rate My Professor",
+    "t": "ratemyprofessor",
+    "u": "http://www.ratemyprofessors.com/search.jsp?query={{{s}}}"
+  },
+  {
+    "d": "www.ratemyprofessors.com",
+    "s": "Rate My Professors",
+    "t": "rate",
+    "u": "https://www.ratemyprofessors.com/search.jsp?query={{{s}}}"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "Rate Your Music (genre)",
+    "t": "rateyourgenre",
+    "u": "https://rateyourmusic.com/genre/{{{s}}}"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "Rate Your Music",
+    "t": "rateyourmusic",
+    "u": "http://rateyourmusic.com/search?searchterm={{{s}}}&searchtype=a"
+  },
+  {
+    "d": "www.topratgeber24.de",
+    "s": "TopRatgeber24",
+    "t": "ratgeber",
+    "u": "https://www.topratgeber24.de/suche?s={{{s}}}"
+  },
+  {
+    "d": "rationalwiki.org",
+    "s": "RationalWiki",
+    "t": "rationalwiki",
+    "u": "http://rationalwiki.org/w/index.php?search={{{s}}}&button=&title=Special:Search&go=Go"
+  },
+  {
+    "d": "www.ratkojat.fi",
+    "s": "Ratkojat",
+    "t": "ratko",
+    "u": "https://www.ratkojat.fi/hae?s={{{s}}}"
+  },
+  {
+    "d": "www.ratp.fr",
+    "s": "RATP",
+    "t": "ratp",
+    "u": "https://www.ratp.fr/itineraires?start={{{s}}}&lieu_depart=station&"
+  },
+  {
+    "d": "www.ravelry.com",
+    "s": "Ravelry",
+    "t": "ravelry",
+    "u": "http://www.ravelry.com/patterns/search#query={{{s}}}"
+  },
+  {
+    "d": "rawg.io",
+    "s": "RAWG",
+    "t": "rawg",
+    "u": "https://rawg.io/search?query={{{s}}}"
+  },
+  {
+    "d": "raymond-nh.com",
+    "s": "Raymond-nh",
+    "t": "raymond",
+    "u": "https://raymond-nh.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.raywenderlich.com",
+    "s": "Ray Wenderlich",
+    "t": "ray",
+    "u": "https://www.raywenderlich.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.razer.com",
+    "s": "Razer",
+    "t": "razer",
+    "u": "https://www.razer.com/search/?text={{{s}}}"
+  },
+  {
+    "d": "razzball.com",
+    "s": "Razzball",
+    "t": "razzball",
+    "u": "http://razzball.com/index.php?s={{{s}}}"
+  },
+  {
+    "d": "www.rbbg.it",
+    "s": "Rete Bibliotecaria Bergamasca",
+    "t": "rbbg",
+    "u": "https://www.rbbg.it/opac/search/lst?q={{{s}}}"
+  },
+  {
+    "d": "www.rbcroyalbank.com",
+    "s": "RBC Royal Bank",
+    "t": "rbc",
+    "u": "https://www.rbcroyalbank.com/search-public/index.html?question={{{s}}}"
+  },
+  {
+    "d": "rubydocs.org",
+    "s": "Current ruby docs",
+    "t": "rb",
+    "u": "https://rubydocs.org/d/ruby-latest/?q={{{s}}}"
+  },
+  {
+    "d": "www.dnswatch.info",
+    "s": "RBL Lookup",
+    "t": "rbl",
+    "u": "http://www.dnswatch.info/dns/rbl-lookup?host={{{s}}}&submit=RBL+Lookup"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox Users",
+    "t": "rblxg",
+    "u": "https://www.roblox.com/search/users?keyword={{{s}}}"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox",
+    "t": "rblx",
+    "u": "http://www.roblox.com/Catalog/Lists.aspx?m=TopFavorites&c=9&t=AllTime&d=All&q={{{s}}}"
+  },
+  {
+    "d": "www.reversebeacon.net",
+    "s": "Reverse Beacon Network - DX station",
+    "t": "rbndx",
+    "u": "http://www.reversebeacon.net/dxsd1/dxsd1.php?f=0&c={{{s}}}&t=dx"
+  },
+  {
+    "d": "rbnorway.org",
+    "s": "rbnorway",
+    "t": "rbn",
+    "u": "http://rbnorway.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.radio-browser.info",
+    "s": "radio-browser.info",
+    "t": "rbtag",
+    "u": "http://www.radio-browser.info/gui/#!/bytag/{{{s}}}"
+  },
+  {
+    "d": "www.ruby-toolbox.com",
+    "s": "The Ruby Toolbox",
+    "t": "rbtb",
+    "u": "https://www.ruby-toolbox.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.metric-conversions.org",
+    "s": "Convert BRL to BTC",
+    "t": "rbtc",
+    "u": "http://www.metric-conversions.org/pt/moeda/bitcoin-em-real.htm?val={{{s}}}"
+  },
+  {
+    "d": "rbt.asia",
+    "s": "rbt.asia - /g/",
+    "t": "rbtg",
+    "u": "https://rbt.asia/g/search/text/{{{s}}}"
+  },
+  {
+    "d": "rbt.asia",
+    "s": "rbtmu",
+    "t": "rbtmu",
+    "u": "https://rbt.asia/mu/search/text/{{{s}}}/"
+  },
+  {
+    "d": "rbt.asia",
+    "s": "RebeccaBlackTech",
+    "t": "rbt",
+    "u": "https://rbt.asia/_/search/text/{{{s}}}"
+  },
+  {
+    "d": "bugzilla.redhat.com",
+    "s": "Redhat Bugzilla",
+    "t": "rbugs",
+    "u": "https://bugzilla.redhat.com/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "devforum.roblox.com",
+    "s": "Roblox Developer Forum",
+    "t": "rbxdev",
+    "u": "https://devforum.roblox.com/search?q={{{s}}}"
+  },
+  {
+    "d": "wiki.roblox.com",
+    "s": "ROBLOX Wiki",
+    "t": "rbxw",
+    "u": "http://wiki.roblox.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "rcdb.com",
+    "s": "Roller Coaster Database",
+    "t": "rcdb",
+    "u": "http://rcdb.com/qs.htm?qs={{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context English to French",
+    "t": "rcef",
+    "u": "http://context.reverso.net/translation/english-french/{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context English-Polish",
+    "t": "rcenpl",
+    "u": "http://context.reverso.net/translation/english-polish/{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context English-Russian",
+    "t": "rcenru",
+    "u": "https://context.reverso.net/translation/english-russian/{{{s}}}"
+  },
+  {
+    "d": "doc.rust-lang.org",
+    "s": "Rust Compiler Error Index",
+    "t": "rce",
+    "u": "https://doc.rust-lang.org/error-index.html#E{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context French-English",
+    "t": "rcfe",
+    "u": "http://context.reverso.net/translation/french-english/{{{s}}}"
+  },
+  {
+    "d": "rcf.fr",
+    "s": "RCF, Radio Chrétienne Francophone",
+    "t": "rcf",
+    "u": "https://rcf.fr/rechercher/{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context French Dutch",
+    "t": "rcfrnl",
+    "u": "http://context.reverso.net/translation/french-dutch/{{{s}}}"
+  },
+  {
+    "d": "www.ricardocuisine.com",
+    "s": "Ricardo Cuisine",
+    "t": "rcfr",
+    "u": "https://www.ricardocuisine.com/recherche/mot-cle/{{{s}}}"
+  },
+  {
+    "d": "raleigh.craigslist.org",
+    "s": "Craigslist - Raleigh, NC",
+    "t": "rcl",
+    "u": "https://raleigh.craigslist.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "rust-lang.github.io",
+    "s": "Rust Clippy Lints",
+    "t": "rclippy",
+    "u": "https://rust-lang.github.io/rust-clippy/master/index.html#{{{s}}}"
+  },
+  {
+    "d": "www.recyclivre.com",
+    "s": "Recyclivre",
+    "t": "rclivre",
+    "u": "https://www.recyclivre.com/shop/recherche?orderby=price&orderway=asc&search_query={{{s}}}&submit_search=&s="
+  },
+  {
+    "d": "bab.la",
+    "s": "Bab.la Russian Verbs Conjugation",
+    "t": "rconj",
+    "u": "http://bab.la/conjugaison/russe/{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso dictionary Polish- German",
+    "t": "rcplde",
+    "u": "http://context.reverso.net/t%C5%82umaczenie/niemiecki-polski/{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context Polish-English",
+    "t": "rcplen",
+    "u": "http://context.reverso.net/translation/polish-english/{{{s}}}"
+  },
+  {
+    "d": "www.cplusplus.com",
+    "s": "http://www.cplusplus.com/",
+    "t": "rcpp",
+    "u": "http://www.cplusplus.com/search.do?q={{{s}}}"
+  },
+  {
+    "d": "www.realclearpolitics.com",
+    "s": "RealClear Politics",
+    "t": "rcp",
+    "u": "http://www.realclearpolitics.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.readerscave.com",
+    "s": "Reader's Cave",
+    "t": "rc",
+    "u": "https://www.readerscave.com/?s={{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context Russian-English",
+    "t": "rcruen",
+    "u": "https://context.reverso.net/translation/russian-english/{{{s}}}"
+  },
+  {
+    "d": "rcsb.org",
+    "s": "RCSB",
+    "t": "rcsb",
+    "u": "http://rcsb.org/pdb/explore/explore.do?structureId={{{s}}}"
+  },
+  {
+    "d": "www.realcanadiansuperstore.ca",
+    "s": "Real Canadian Superstore",
+    "t": "rcss",
+    "u": "https://www.realcanadiansuperstore.ca/search/?search-bar={{{s}}}"
+  },
+  {
+    "d": "apps.leg.wa.gov",
+    "s": "Washington State Legislature: Revised Code of Washington",
+    "t": "rcw",
+    "u": "http://apps.leg.wa.gov/RCW/default.aspx?cite={{{s}}}"
+  },
+  {
+    "d": "www.rueducommerce.fr",
+    "s": "Rue du commerce",
+    "t": "rdc",
+    "u": "https://www.rueducommerce.fr/recherche/{{{s}}}"
+  },
+  {
+    "d": "www.romajidesu.com",
+    "s": "Romajidesu Kanji",
+    "t": "rdkj",
+    "u": "http://www.romajidesu.com/kanji/{{{s}}}"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MXToolbox",
+    "t": "rdns",
+    "u": "http://mxtoolbox.com/SuperTool.aspx?action=ptr%3a{{{s}}}&run=toolpage"
+  },
+  {
+    "d": "rdoc.info",
+    "s": "RubyDoc.info",
+    "t": "rdoc",
+    "u": "http://rdoc.info/find/github?q={{{s}}}"
+  },
+  {
+    "d": "www.rdocumentation.org",
+    "s": "RDocumentation",
+    "t": "rdocs",
+    "u": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rdocumentation.org",
+    "s": "RDocumentation",
+    "t": "rdocu",
+    "u": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rdocumentation.org",
+    "s": "R Documentation",
+    "t": "rdo",
+    "u": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "d": "rdrr.io",
+    "s": "rdrr.io",
+    "t": "rdrr",
+    "u": "https://rdrr.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Subreddit on Reddit",
+    "t": "rds",
+    "u": "https://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "www.romajidesu.com",
+    "s": "Romajidesu Vocabulary",
+    "t": "rdvcb",
+    "u": "http://www.romajidesu.com/?m=dictionary&a=lookup&w={{{s}}}"
+  },
+  {
+    "d": "www.re3data.org",
+    "s": "Registry of Research Data Repositories",
+    "t": "re3",
+    "u": "https://www.re3data.org/search?query={{{s}}}"
+  },
+  {
+    "d": "reactome.org",
+    "s": "Reactome",
+    "t": "reactome",
+    "u": "http://reactome.org/content/query?q={{{s}}}"
+  },
+  {
+    "d": "react.parts",
+    "s": "React Parts Libraries",
+    "t": "reactparts",
+    "u": "https://react.parts/?search={{{s}}}"
+  },
+  {
+    "d": "www.readdc.com",
+    "s": "Digital Comics - DC Entertainment",
+    "t": "readdc",
+    "u": "https://www.readdc.com/search?search={{{s}}}&submit=SEARCH"
+  },
+  {
+    "d": "readthedocs.org",
+    "s": "Read The Docs",
+    "t": "readthedocs",
+    "u": "https://readthedocs.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "readwrite.com",
+    "s": "ReadWriteWeb",
+    "t": "readwriteweb",
+    "u": "http://readwrite.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "www.native-instruments.com",
+    "s": "Native Instruments User Library",
+    "t": "reaktor",
+    "u": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/?q={{{s}}}&t=userlib"
+  },
+  {
+    "d": "realo.com",
+    "s": "Realo",
+    "t": "realo",
+    "u": "https://realo.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.realtor.com",
+    "s": "Realtor.com",
+    "t": "realtor",
+    "u": "http://www.realtor.com/realestateandhomes-search/{{{s}}}"
+  },
+  {
+    "d": "tools.wmflabs.org",
+    "s": "Reasonator",
+    "t": "reasonator",
+    "u": "http://tools.wmflabs.org/reasonator/?find={{{s}}}"
+  },
+  {
+    "d": "reason.com",
+    "s": "Reason.com",
+    "t": "reason",
+    "u": "http://reason.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rebel.pl",
+    "s": "REBEL.pl",
+    "t": "rebel",
+    "u": "https://www.rebel.pl/e4u.php/1,ModProducts/Search?search[submit]=1&search[phrase]={{{s}}}"
+  },
+  {
+    "d": "bindingofisaacrebirth.gamepedia.com",
+    "s": "Binding of Isaac Rebirth Gamepedia",
+    "t": "rebirth",
+    "u": "http://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "rebiun.baratz.es",
+    "s": "Red de Bibliotecas REBIUN",
+    "t": "rebiun",
+    "u": "http://rebiun.baratz.es/rebiun/search?q={{{s}}}&start=0&rows=12&sort=score+desc&advanced_handler=advanced"
+  },
+  {
+    "d": "reborn.wikia.com",
+    "s": "Reborn Wiki",
+    "t": "reborn",
+    "u": "http://reborn.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.rebuy.de",
+    "s": "reBuy.de Kaufen",
+    "t": "rebuy",
+    "u": "https://www.rebuy.de/kaufen/suchen?q={{{s}}}"
+  },
+  {
+    "d": "archive.recapthelaw.org",
+    "s": "RECAP the law",
+    "t": "recap",
+    "u": "http://archive.recapthelaw.org/search/advanced/?q={{{s}}}&x=0&y=0&court=&docket_number=&case_name=&pacer_case_number=&date_filed=&date_filed_end=&date_terminated=&date_terminated_end=&date_last_filing=&date_last_filing_end="
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo Last Week",
+    "t": "recent",
+    "u": "http://duckduckgo.com/?q={{{s}}}&df=w"
+  },
+  {
+    "d": "www.guiarecetas.com",
+    "s": "Guia Recetas",
+    "t": "recetas",
+    "u": "https://www.guiarecetas.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.recettes.qc.ca",
+    "s": "Recettes du Québec",
+    "t": "recettesqc",
+    "u": "https://www.recettes.qc.ca/recettes/recherche?search[query]={{{s}}}&search[sort]="
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context",
+    "t": "recfren",
+    "u": "https://context.reverso.net/traduction/francais-anglais/{{{s}}}"
+  },
+  {
+    "d": "allrecipes.com",
+    "s": "Allrecipes",
+    "t": "recipe",
+    "u": "http://allrecipes.com/search/default.aspx?qt=k&wt={{{s}}}"
+  },
+  {
+    "d": "allrecipes.com",
+    "s": "Allrecipes",
+    "t": "recipes",
+    "u": "http://allrecipes.com/search/default.aspx?qt=k&rt=r&pqt=k&ms=0&fo=0&wt={{{s}}}"
+  },
+  {
+    "d": "www.reciva.com",
+    "s": "Reciva",
+    "t": "reciva",
+    "u": "https://www.reciva.com/stations/search?q={{{s}}}"
+  },
+  {
+    "d": "reck.dk",
+    "s": "http://reck.dk",
+    "t": "reck",
+    "u": "http://reck.dk/?s={{{s}}}"
+  },
+  {
+    "d": "www.reckless.com",
+    "s": "Reckless Records",
+    "t": "reckless",
+    "u": "http://www.reckless.com/index.php?keywords={{{s}}}&format=&cond=&store=&is_search=true&srch=Search"
+  },
+  {
+    "d": "www.reclameaqui.com.br",
+    "s": "Reclame Aqui",
+    "t": "reclame",
+    "u": "http://www.reclameaqui.com.br/busca/?q={{{s}}}"
+  },
+  {
+    "d": "www.recode.net",
+    "s": "Recode",
+    "t": "recode",
+    "u": "https://www.recode.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.watchrecon.com",
+    "s": "Watch Recon",
+    "t": "recon",
+    "u": "http://www.watchrecon.com/?query={{{s}}}"
+  },
+  {
+    "d": "recordclick.com",
+    "s": "RecordClick",
+    "t": "recordclick",
+    "u": "http://recordclick.com/?s={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "australia.recruit.net",
+    "s": "recruit.net",
+    "t": "recruit",
+    "u": "https://australia.recruit.net/search.html?query={{{s}}}&location=&s="
+  },
+  {
+    "d": "search.earth911.com",
+    "s": "Earth911.com",
+    "t": "recycle",
+    "u": "http://search.earth911.com/?what={{{s}}}"
+  },
+  {
+    "d": "www.redable.nl",
+    "s": "Redable",
+    "t": "redable",
+    "u": "https://www.redable.nl/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.redalyc.org",
+    "s": "REDALYC",
+    "t": "redalyc",
+    "u": "http://www.redalyc.org/busquedaArticuloFiltros.oa?q={{{s}}}"
+  },
+  {
+    "d": "redbot.org",
+    "s": "REDbot",
+    "t": "redbot",
+    "u": "http://redbot.org/?uri={{{s}}}"
+  },
+  {
+    "d": "www.redbox.com",
+    "s": "RedBox",
+    "t": "redbox",
+    "u": "http://www.redbox.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.redbubble.com",
+    "s": "RedBubble",
+    "t": "redbubble",
+    "u": "http://www.redbubble.com/shop/{{{s}}}"
+  },
+  {
+    "d": "www.redbull.com",
+    "s": "Red Bull",
+    "t": "redbull",
+    "u": "https://www.redbull.com/int-en/search/{{{s}}}"
+  },
+  {
+    "d": "www.recreationhobbiescenter.com",
+    "s": "Recreation Hobbies Center",
+    "t": "redcat",
+    "u": "https://www.recreationhobbiescenter.com/pages/search-results-page?q={{{s}}}"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "Reddit (old version)",
+    "t": "redditold",
+    "u": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit",
+    "t": "reddit",
+    "u": "https://www.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit subreddit",
+    "t": "reddits",
+    "u": "http://www.reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso German - English",
+    "t": "redeen",
+    "u": "https://dictionary.reverso.net/german-english/{{{s}}}"
+  },
+  {
+    "d": "www.redensarten-index.de",
+    "s": "Redensarten-Index",
+    "t": "redensarten",
+    "u": "http://www.redensarten-index.de/suche.php?suchbegriff={{{s}}}&bool=relevanz&gawoe=an&suchspalte[]=rart_ou&suchspalte[]=rart_varianten_ou"
+  },
+  {
+    "d": "www.redeye.com.au",
+    "s": "Red Eye Records",
+    "t": "redeye",
+    "u": "https://www.redeye.com.au/answer.asp?reion=USA&atype=both&artist={{{s}}}"
+  },
+  {
+    "d": "www.redfin.com",
+    "s": "RedFin",
+    "t": "redfin",
+    "u": "http://www.redfin.com/homes-for-sale#!search_location={{{s}}}"
+  },
+  {
+    "d": "www.redflagdeals.com",
+    "s": "Red Flag Deals",
+    "t": "redflagdeals",
+    "u": "http://www.redflagdeals.com/search/?={{{s}}}"
+  },
+  {
+    "d": "www.relcdetroit.org",
+    "s": "Redford Evangelical Lutheran Church",
+    "t": "redford",
+    "u": "http://www.relcdetroit.org/index.php?p_id=1{{{s}}}"
+  },
+  {
+    "d": "redis.io",
+    "s": "Redis Command Reference",
+    "t": "redis",
+    "u": "http://redis.io/commands/{{{s}}} "
+  },
+  {
+    "d": "www.redmine.org",
+    "s": "Redmine",
+    "t": "redmine",
+    "u": "https://www.redmine.org/search?q={{{s}}}"
+  },
+  {
+    "d": "redpandazine.com",
+    "s": "Red Pandazine",
+    "t": "redpanda",
+    "u": "https://redpandazine.com/?s={{{s}}}"
+  },
+  {
+    "d": "ru.redtram.com",
+    "s": "RedTram",
+    "t": "redtram",
+    "u": "https://ru.redtram.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.reed.co.uk",
+    "s": "reed.co.uk",
+    "t": "reed",
+    "u": "http://www.reed.co.uk/job/searchresults.aspx?k={{{s}}}"
+  },
+  {
+    "d": "reelgood.com",
+    "s": "Reelgood",
+    "t": "reelgood",
+    "u": "https://reelgood.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reelviews.net",
+    "s": "Reelviews",
+    "t": "reelviews",
+    "u": "http://www.reelviews.net/search/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso English - Spanish",
+    "t": "reenes",
+    "u": "http://dictionary.reverso.net/english-spanish/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso English - French",
+    "t": "reenfr",
+    "u": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso English - Definition",
+    "t": "reen",
+    "u": "http://dictionary.reverso.net/english-definition/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso Spanish - English",
+    "t": "reesen",
+    "u": "http://dictionary.reverso.net/spanish-english/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso Spanish - French",
+    "t": "reesfr",
+    "u": "http://dictionary.reverso.net/spanish-french/{{{s}}}"
+  },
+  {
+    "d": "woerterbuch.reverso.net",
+    "s": "Reverso Spanish - German",
+    "t": "reesge",
+    "u": "http://woerterbuch.reverso.net/spanisch-deutsch/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso",
+    "t": "reespt",
+    "u": "http://dictionary.reverso.net/spanish-portuguese/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso Spanish - Definition",
+    "t": "rees",
+    "u": "http://dictionary.reverso.net/spanish-definition/{{{s}}}"
+  },
+  {
+    "d": "reflets.info",
+    "s": "Reflets.info",
+    "t": "reflets",
+    "u": "http://reflets.info/?s={{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso French - English",
+    "t": "refreb",
+    "u": "http://dictionary.reverso.net/french-english/{{{s}}}"
+  },
+  {
+    "d": "www.reference.com",
+    "s": "Reference.com",
+    "t": "ref",
+    "u": "http://www.reference.com/web?q={{{s}}}"
+  },
+  {
+    "d": "www.refreshcartridges.co.uk",
+    "s": "Refresh Cartridges",
+    "t": "refresh",
+    "u": "http://www.refreshcartridges.co.uk/advanced_search_result.php?q={{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso French - Spanish",
+    "t": "refres",
+    "u": "http://dictionary.reverso.net/french-spanish/{{{s}}}"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso French - German",
+    "t": "refrge",
+    "u": "http://dictionnaire.reverso.net/francais-allemand/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso French - Definition",
+    "t": "refr",
+    "u": "http://dictionary.reverso.net/french-definition/{{{s}}}"
+  },
+  {
+    "d": "www.refseek.com",
+    "s": "RefSeek",
+    "t": "refseek",
+    "u": "https://www.refseek.com/search?q={{{s}}}"
+  },
+  {
+    "d": "woerterbuch.reverso.net",
+    "s": "Reverso German - Spanish",
+    "t": "regees",
+    "u": "http://woerterbuch.reverso.net/deutsch-spanisch/{{{s}}}"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso German - French",
+    "t": "regefr",
+    "u": "http://dictionnaire.reverso.net/allemand-francais/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso German - Definition",
+    "t": "rege",
+    "u": "http://dictionary.reverso.net/german-definition/{{{s}}}"
+  },
+  {
+    "d": "regexper.com",
+    "s": "Regexper ",
+    "t": "regexper",
+    "u": "https://regexper.com/#{{{s}}}"
+  },
+  {
+    "d": "www.regexlib.com",
+    "s": "Regular Expression Library",
+    "t": "regex",
+    "u": "http://www.regexlib.com/Search.aspx?k={{{s}}} "
+  },
+  {
+    "d": "search.theregister.co.uk",
+    "s": "The Register",
+    "t": "register",
+    "u": "http://search.theregister.co.uk/?q={{{s}}}&advanced=1&author=&date=the+dawn+of+time&site=all+The+Register+sites&results_per_page=100"
+  },
+  {
+    "d": "regravity.com",
+    "s": "Regravity",
+    "t": "regrav",
+    "u": "http://regravity.com/?s={{{s}}}"
+  },
+  {
+    "d": "secure.reichelt.de",
+    "s": "Reichelt",
+    "t": "reichelt",
+    "u": "https://secure.reichelt.de/?ACTION=446;SEARCH={{{s}}}"
+  },
+  {
+    "d": "www.rei.com",
+    "s": "REI",
+    "t": "rei",
+    "u": "https://www.rei.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reisartikelen.nl",
+    "s": "Reisartikelen.nl",
+    "t": "reisartikelen",
+    "u": "https://www.reisartikelen.nl/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.reittiopas.fi",
+    "s": "Reittiopas",
+    "t": "reittiopas",
+    "u": "http://www.reittiopas.fi/?showsearchformsaved=hide&from_in= {{{s}}}&from=&via_in=&via=&via_time=0&to_in= {{{s}}}&to=&hour=15&minute=39&timetype=departure&date_cb=on&day=7&month=7&year=2015&cmargin=3&wspeed=70&method=1&stz=0&mc1=0&mc2=0&mc3=0&mc4=0&mc5=0&mc6=0&mc0=1&nroutes=3&gotoHash="
+  },
+  {
+    "d": "www.releases.com",
+    "s": "Releases",
+    "t": "releases",
+    "u": "https://www.releases.com/search?q={{{s}}}"
+  },
+  {
+    "d": "bendixkingradios.com",
+    "s": "bendixkingradios.com",
+    "t": "relmbk",
+    "u": "https://bendixkingradios.com/catalogsearch/result/?q={{{s}}} "
+  },
+  {
+    "d": "relatedwords.org",
+    "s": "Related Words",
+    "t": "relword",
+    "u": "http://relatedwords.org/relatedto/{{{s}}}"
+  },
+  {
+    "d": "releasemonitor.de",
+    "s": "Release Monitor",
+    "t": "remo",
+    "u": "https://releasemonitor.de/s?q={{{s}}}"
+  },
+  {
+    "d": "remywiki.com",
+    "s": "https://remywiki.com",
+    "t": "remy",
+    "u": "https://remywiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "remywiki.com",
+    "s": "RemyWiki",
+    "t": "remywiki",
+    "u": "https://remywiki.com/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "context.reverso.net",
+    "t": "renpl",
+    "u": "https://context.reverso.net/tłumaczenie/angielski-polski/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso Dictionary",
+    "t": "ren",
+    "u": "http://dictionary.reverso.net/english-definition/{{{s}}}"
+  },
+  {
+    "d": "renso-ruigo.com",
+    "s": "連想類語辞典",
+    "t": "rensoruigo",
+    "u": "https://renso-ruigo.com/word/{{{s}}}"
+  },
+  {
+    "d": "www.repeaterbook.com",
+    "s": "Repeater Book",
+    "t": "repeater",
+    "u": "https://www.repeaterbook.com/repeaters/keyword.php?func=result&keyword={{{s}}}"
+  },
+  {
+    "d": "lamiradadelreplicante.com",
+    "s": "La mirada del replicante",
+    "t": "replicante",
+    "u": "http://lamiradadelreplicante.com/?s={{{s}}} "
+  },
+  {
+    "d": "repl.it",
+    "s": "repl.it",
+    "t": "repl",
+    "u": "https://repl.it/languages/{{{s}}}"
+  },
+  {
+    "d": "represent.com",
+    "s": "Represent",
+    "t": "repm",
+    "u": "https://represent.com/search?q={{{s}}}"
+  },
+  {
+    "d": "repology.org",
+    "s": "Repology",
+    "t": "repology",
+    "u": "https://repology.org/metapackages/?search={{{s}}}"
+  },
+  {
+    "d": "reprap.org",
+    "s": "RepRap Wiki",
+    "t": "reprap",
+    "u": "http://reprap.org/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.replacements.com",
+    "s": "Replacements.com",
+    "t": "rep",
+    "u": "http://www.replacements.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "ricerca.repubblica.it",
+    "s": "La Repubblica",
+    "t": "repubblica",
+    "u": "http://ricerca.repubblica.it/ricerca/repubblica?query={{{s}}}"
+  },
+  {
+    "d": "ricerca.repubblica.it",
+    "s": "La Repubblica",
+    "t": "repubblicavideo",
+    "u": "http://ricerca.repubblica.it/ricerca/repubblica-video?query={{{s}}}&view=repubblica-video"
+  },
+  {
+    "d": "repositorium.sdum.uminho.pt",
+    "s": "Repositorium University of Minho",
+    "t": "repum",
+    "u": "https://repositorium.sdum.uminho.pt/simple-search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "duckduckgo spain",
+    "t": "r-es",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=es-es"
+  },
+  {
+    "d": "www.researchgate.net",
+    "s": "ResearchGate",
+    "t": "researchgate",
+    "u": "https://www.researchgate.net/search/publications?q={{{s}}}"
+  },
+  {
+    "d": "journals.plos.org",
+    "s": "PLOS",
+    "t": "research",
+    "u": "http://journals.plos.org/plosone/search?unformattedQuery=everything:\"{{{s}}}\""
+  },
+  {
+    "d": "cekresi.com",
+    "s": "Cekresi",
+    "t": "resi",
+    "u": "http://cekresi.com/?noresi={{{s}}}"
+  },
+  {
+    "d": "www.residentadvisor.net",
+    "s": "Resident Advisor",
+    "t": "residentadvisor",
+    "u": "http://www.residentadvisor.net/search.aspx?searchstr={{{s}}}"
+  },
+  {
+    "d": "www.respawners.net",
+    "s": "Respawners",
+    "t": "respawners",
+    "u": "https://www.respawners.net/search?query={{{s}}}"
+  },
+  {
+    "d": "www.respaper.com",
+    "s": "Respaper",
+    "t": "resp",
+    "u": "http://www.respaper.com/s?q={{{s}}}"
+  },
+  {
+    "d": "en.resto.be",
+    "s": "RestoBE",
+    "t": "restobe",
+    "u": "http://en.resto.be/business/search?searchbox=true&businessTypeId=1&fullText={{{s}}}"
+  },
+  {
+    "d": "www.resto.fr",
+    "s": "RestoFR",
+    "t": "restofr",
+    "u": "http://www.resto.fr/business/search?searchbox=true&businessTypeId=1&fullText={{{s}}}"
+  },
+  {
+    "d": "www.resto.lu",
+    "s": "Resto.lu",
+    "t": "restolu",
+    "u": "http://www.resto.lu/fr/Luxembourg/guide.cfm?searchmode=classic&RESTOTYPE=isresto&nom={{{s}}}&idcuisine_type=&ville=&region=&idprix=ddg@pivert.org"
+  },
+  {
+    "d": "www.retailmenot.com",
+    "s": "RetailgMeNot",
+    "t": "retailmenot",
+    "u": "http://www.retailmenot.com/view/{{{s}}}"
+  },
+  {
+    "d": "www.reta-vortaro.de",
+    "s": "Reta Vortaro",
+    "t": "reta-vortaro",
+    "u": "http://www.reta-vortaro.de/cgi-bin/sercxu.pl?sercxata={{{s}}}&kadroj=1"
+  },
+  {
+    "d": "retropie.org.uk",
+    "s": "RetroPie",
+    "t": "retro",
+    "u": "https://retropie.org.uk/forum/search?term={{{s}}}&in=titlesposts&matchWords=all&sortBy=relevance&sortDirection=desc&showAs=posts"
+  },
+  {
+    "d": "dsn.dk",
+    "s": "Dansk Sprognævn",
+    "t": "retskriv",
+    "u": "https://dsn.dk/?retskriv={{{s}}}&ae=0"
+  },
+  {
+    "d": "retty.me",
+    "s": "Retty",
+    "t": "retty",
+    "u": "https://retty.me/restaurant-search/search-result/?free_word_category={{{s}}}"
+  },
+  {
+    "d": "www.reuters.com",
+    "s": "Reuters",
+    "t": "reuq",
+    "u": "http://www.reuters.com/search/news?blob={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit User",
+    "t": "reu",
+    "u": "https://www.reddit.com/user/{{{s}}}"
+  },
+  {
+    "d": "www.reuters.com",
+    "s": "Reuters",
+    "t": "reuters",
+    "u": "https://www.reuters.com/search/news?blob={{{s}}}"
+  },
+  {
+    "d": "www.revamed.com",
+    "s": "RevaMed B.V.",
+    "t": "revamed",
+    "u": "https://www.revamed.com/search?s={{{s}}} "
+  },
+  {
+    "d": "www.reverseaustralia.com",
+    "s": "Reverse Australia",
+    "t": "revau",
+    "u": "http://www.reverseaustralia.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.onelook.com",
+    "s": "Onelook Reverse Dictionary",
+    "t": "revd",
+    "u": "http://www.onelook.com/reverse-dictionary.shtml?s={{{s}}}"
+  },
+  {
+    "d": "revdroid.com",
+    "s": "Revdroid",
+    "t": "revdroid",
+    "u": "https://revdroid.com/?s={{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso English-French",
+    "t": "revef",
+    "u": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "d": "revengerists.wikia.com",
+    "s": "The Revengerists Consortium of Stuff",
+    "t": "revengerists",
+    "u": "http://revengerists.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context",
+    "t": "revenit",
+    "u": "http://context.reverso.net/translation/english-italian/{{{s}}}"
+  },
+  {
+    "d": "www.reverbnation.com",
+    "s": "Reverb Nation",
+    "t": "reverbnation",
+    "u": "https://www.reverbnation.com/main/search?q={{{s}}}"
+  },
+  {
+    "d": "reverb.com",
+    "s": "Reverb",
+    "t": "reverb",
+    "u": "https://reverb.com/marketplace?query={{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Dictionary Reverso",
+    "t": "reversoenfr",
+    "u": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "!reversofren",
+    "t": "reversofren",
+    "u": "http://dictionary.reverso.net/english-french/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso DIctionary",
+    "t": "reversoiten",
+    "u": "http://dictionary.reverso.net/italian-english/{{{s}}}"
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso",
+    "t": "reverso",
+    "u": "http://dictionary.reverso.net/german-english/{{{s}}} "
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso context",
+    "t": "revesen",
+    "u": "http://context.reverso.net/translation/spanish-english/{{{s}}} "
+  },
+  {
+    "d": "dictionary.reverso.net",
+    "s": "Reverso (German-French)",
+    "t": "revgf",
+    "u": "https://dictionary.reverso.net/german-french/{{{s}}}"
+  },
+  {
+    "d": "www.reviewgeek.com",
+    "s": "ReviewGeek",
+    "t": "reviewgeek",
+    "u": "https://www.reviewgeek.com/?s={{{s}}}"
+  },
+  {
+    "d": "reviewmeta.com",
+    "s": "ReviewMeta",
+    "t": "reviewmeta",
+    "u": "https://reviewmeta.com/search?q={{{s}}}"
+  },
+  {
+    "d": "reviewscon.com",
+    "s": "ReviewsCon",
+    "t": "reviews",
+    "u": "https://reviewscon.com/?s={{{s}}}&post_type=&catid="
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context",
+    "t": "reviten",
+    "u": "http://context.reverso.net/translation/italian-english/{{{s}}}"
+  },
+  {
+    "d": "www.revolico.com",
+    "s": "Revolico",
+    "t": "revolico",
+    "u": "https://www.revolico.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.revolve.com",
+    "s": "Revolve",
+    "t": "revolve",
+    "u": "https://www.revolve.com/r/Search.jsp?search={{{s}}}"
+  },
+  {
+    "d": "www.reta-vortaro.de",
+    "s": "Reta Vortaro",
+    "t": "revo",
+    "u": "http://www.reta-vortaro.de/cgi-bin/sercxu.pl?sercxata={{{s}}}&x=on&kadroj=1"
+  },
+  {
+    "d": "www.revzilla.com",
+    "s": "RevZilla",
+    "t": "revzilla",
+    "u": "http://www.revzilla.com/search?query={{{s}}}&commit=Search"
+  },
+  {
+    "d": "www.rewe.de",
+    "s": "REWE Lieferservice",
+    "t": "rewe",
+    "u": "https://www.rewe.de/suche/?search={{{s}}}"
+  },
+  {
+    "d": "www.rexel.de",
+    "s": "Rexel",
+    "t": "rexel",
+    "u": "https://www.rexel.de/search/?text={{{s}}}"
+  },
+  {
+    "d": "rex.kb.dk",
+    "s": "REX – The Royal Library and Copenhagen University Library Service",
+    "t": "rex",
+    "u": "http://rex.kb.dk/primo_library/libweb/action/search.do?fn=search&vl%28freeText0%29={{{s}}}"
+  },
+  {
+    "d": "tools.ietf.org",
+    "s": "IETF RFC",
+    "t": "rfc",
+    "u": "https://tools.ietf.org/html/rfc{{{s}}}"
+  },
+  {
+    "d": "www.rfc-editor.org",
+    "s": "IETF RFC Keyword Search",
+    "t": "rfck",
+    "u": "https://www.rfc-editor.org/search/rfc_search_detail.php?title={{{s}}}"
+  },
+  {
+    "d": "rfclipart.com",
+    "s": "RFclipart",
+    "t": "rfclipart",
+    "u": "http://rfclipart.com/search.html?text={{{s}}}"
+  },
+  {
+    "d": "www.rfcreader.com",
+    "s": "Online RFC Reader",
+    "t": "rfcr",
+    "u": "http://www.rfcreader.com/#rfc{{{s}}}"
+  },
+  {
+    "d": "refind.com",
+    "s": "Refind",
+    "t": "rfd",
+    "u": "https://refind.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.reasonablefaith.org",
+    "s": "Reasonable Faith",
+    "t": "rf",
+    "u": "http://www.reasonablefaith.org/search/results?q={{{s}}}"
+  },
+  {
+    "d": "dictionnaire.reverso.net",
+    "s": "Reverso French Definition",
+    "t": "rfr",
+    "u": "http://dictionnaire.reverso.net/francais-definition/{{{s}}}"
+  },
+  {
+    "d": "redfoxsanakirja.fi",
+    "s": "RedFox Sanakirja",
+    "t": "rfsanae",
+    "u": "https://redfoxsanakirja.fi/sanakirja/-/s/eng/fin/{{{s}}}"
+  },
+  {
+    "d": "redfoxsanakirja.fi",
+    "s": "RedFox Sanakirja",
+    "t": "rfsana",
+    "u": "https://redfoxsanakirja.fi/sanakirja/-/s/fin/eng/{{{s}}}"
+  },
+  {
+    "d": "www.radiofreesatan.com",
+    "s": "Radio Free Satan",
+    "t": "rfs",
+    "u": "http://www.radiofreesatan.com/?s={{{s}}}&submit=Submit"
+  },
+  {
+    "d": "www.researchgate.net",
+    "s": "ResearchGate",
+    "t": "rgate",
+    "u": "https://www.researchgate.net/search.Search.html?query={{{s}}}"
+  },
+  {
+    "d": "images.google.com",
+    "s": "Google Reverse Image Search",
+    "t": "rgi",
+    "u": "https://images.google.com/searchbyimage?image_url={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "reddit.com/r/GlobalOffensive",
+    "t": "rgo",
+    "u": "https://www.reddit.com/r/GlobalOffensive/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "rapgenius.com",
+    "s": "Rap Genius",
+    "t": "rg",
+    "u": "http://rapgenius.com/search?q={{{s}}}"
+  },
+  {
+    "d": "bugzilla.redhat.com",
+    "s": "Red Hat Bugzilla",
+    "t": "rhbz",
+    "u": "https://bugzilla.redhat.com/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "www.food4rhino.com",
+    "s": "Food4Rhino",
+    "t": "rhino",
+    "u": "http://www.food4rhino.com/browse?searchText={{{s}}}"
+  },
+  {
+    "d": "www.runehq.com",
+    "s": "RuneHQ",
+    "t": "rhq",
+    "u": "http://www.runehq.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "robinhood.com",
+    "s": "Robin Hood",
+    "t": "rh",
+    "u": "https://robinhood.com/stocks/{{{s}}}"
+  },
+  {
+    "d": "rhn.redhat.com",
+    "s": "Red Hat Security Advisory",
+    "t": "rhsa",
+    "u": "https://rhn.redhat.com/errata/RHSA-{{{s}}}.html"
+  },
+  {
+    "d": "access.redhat.com",
+    "s": "Red Hat Customer Portal",
+    "t": "rht",
+    "u": "https://access.redhat.com/search/#/?q={{{s}}}&p=1&srch=any&language=en&documentKind=Documentation"
+  },
+  {
+    "d": "www.stateofthedapps.com",
+    "s": "State of the DApps",
+    "t": "rhtt",
+    "u": "https://www.stateofthedapps.com/dapps?text={{{s}}}"
+  },
+  {
+    "d": "www.rhydolabz.com",
+    "s": "rhydoLABZ",
+    "t": "rhydo",
+    "u": "https://www.rhydolabz.com/advanced_search_result.html?keyword={{{s}}}"
+  },
+  {
+    "d": "rhymebrain.com",
+    "s": "RhymeBrain",
+    "t": "rhymebrain",
+    "u": "http://rhymebrain.com/en/What_rhymes_with_{{{s}}}.html"
+  },
+  {
+    "d": "www.rhymezone.com",
+    "s": "RhymeZone",
+    "t": "rhyme",
+    "u": "https://www.rhymezone.com/r/rhyme.cgi?Word={{{s}}}&typeofrhyme=perfect&org1=syl&org2=l&org3=y"
+  },
+  {
+    "d": "www.rhymer.com",
+    "s": "Rhymer",
+    "t": "rhymer",
+    "u": "http://www.rhymer.com/RhymingDictionary/{{{s}}}.html"
+  },
+  {
+    "d": "www.ricardo.ch",
+    "s": "Ricardo",
+    "t": "ricardo",
+    "u": "https://www.ricardo.ch/de/s/{{{s}}}"
+  },
+  {
+    "d": "riddler.io",
+    "s": "F-Secure Riddler",
+    "t": "riddler",
+    "u": "https://riddler.io/search?q={{{s}}}"
+  },
+  {
+    "d": "ridibooks.com",
+    "s": "Ridibooks",
+    "t": "ridi",
+    "u": "https://ridibooks.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.rightnowmedia.org",
+    "s": "Rightnow Media",
+    "t": "rightnow",
+    "u": "https://www.rightnowmedia.org/Search?q={{{s}}}"
+  },
+  {
+    "d": "www.rightrelevance.com",
+    "s": "rightrelevance",
+    "t": "right",
+    "u": "http://www.rightrelevance.com/search/articles?query={{{s}}}"
+  },
+  {
+    "d": "docs.rightscale.com",
+    "s": "RightScale Docs",
+    "t": "rightscale",
+    "u": "https://docs.rightscale.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.rightsidenews.com",
+    "s": "Right Side News",
+    "t": "rightsidenews",
+    "u": "https://www.rightsidenews.com/?s={{{s}}}"
+  },
+  {
+    "d": "rigvedawiki.net",
+    "s": "Rigveda Wiki",
+    "t": "rigveda",
+    "u": "https://rigvedawiki.net/r1/wiki.php/{{{s}}}"
+  },
+  {
+    "d": "rigvedawiki.net",
+    "s": "Rigveda Wiki",
+    "t": "rigvedawiki",
+    "u": "http://rigvedawiki.net/r1/wiki.php/{{{s}}}"
+  },
+  {
+    "d": "www.rijnmond.nl",
+    "s": "rijnmond.nl",
+    "t": "rijnmond",
+    "u": "http://www.rijnmond.nl/zoeken?query={{{s}}}"
+  },
+  {
+    "d": "www.riksdagen.se",
+    "s": "Riksdagen.se",
+    "t": "riksdagen",
+    "u": "https://www.riksdagen.se/sv/global/sok/?q={{{s}}}&st=1"
+  },
+  {
+    "d": "www.cercarime.it",
+    "s": "Cerca Rime",
+    "t": "rima",
+    "u": "https://www.cercarime.it/?rima={{{s}}}"
+  },
+  {
+    "d": "www.rimessolides.com",
+    "s": "Rimessolides.com",
+    "t": "rime",
+    "u": "http://www.rimessolides.com/rime.aspx?m={{{s}}}"
+  },
+  {
+    "d": "rimlexikon.com",
+    "s": "Rimlexikon.com",
+    "t": "rim",
+    "u": "http://rimlexikon.com/index.php?rim={{{s}}}"
+  },
+  {
+    "d": "rimworldwiki.com",
+    "s": "Rimworld Wiki ",
+    "t": "rimwiki",
+    "u": "http://rimworldwiki.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.rinf.com",
+    "s": "RINF Alternative news",
+    "t": "rinf",
+    "u": "http://www.rinf.com/?q={{{s}}} "
+  },
+  {
+    "d": "downloadringtones.mobi",
+    "s": "Downloadringtones.mobi",
+    "t": "ringtones",
+    "u": "https://downloadringtones.mobi/?s={{{s}}}"
+  },
+  {
+    "d": "opac.regesta-imperii.de",
+    "s": "Regesta Imperii OPAC",
+    "t": "riopac",
+    "u": "http://opac.regesta-imperii.de/lang_en/suche.php?qs={{{s}}}"
+  },
+  {
+    "d": "reverseip.domaintools.com",
+    "s": "Domaintools Reverse IP Lookup",
+    "t": "rip",
+    "u": "https://reverseip.domaintools.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "apps.db.ripe.net",
+    "s": "RIPE Database",
+    "t": "ripedb",
+    "u": "https://apps.db.ripe.net/search/query.html?searchtext={{{s}}}&search%3AdoSearch=Search#resultsAnchor"
+  },
+  {
+    "d": "stat.ripe.net",
+    "s": "RIPEstat - Internet Measurments and Analysis",
+    "t": "ripe",
+    "u": "https://stat.ripe.net/{{{s}}}"
+  },
+  {
+    "d": "stat.ripe.net",
+    "s": "RIPEstat",
+    "t": "ripestat",
+    "u": "http://stat.ripe.net/{{{s}}}"
+  },
+  {
+    "d": "www.ris.bka.gv.at",
+    "s": "RIS",
+    "t": "ris",
+    "u": "https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Gesamtabfrage&SearchInAsylGH=False&SearchInAvn=False&SearchInAvsv=False&SearchInBegut=False&SearchInBgblAlt=False&SearchInBgblAuth=False&SearchInBgblPdf=False&SearchInBks=False&SearchInBundesnormen=False&SearchInDok=False&SearchInDsk=False&SearchInErlaesse=False&SearchInGbk=False&SearchInGemeinderecht=False&SearchInJustiz=False&SearchInBvwg=False&SearchInLvwg=False&SearchInLgbl=False&SearchInLgblNO=False&SearchInLgblAuth=False&SearchInLrBgld=False&SearchInLrK=False&SearchInLrNO=False&SearchInLrOO=False&SearchInLrSbg=False&SearchInLrStmk=False&SearchInLrT=False&SearchInLrVbg=False&SearchInLrW=False&SearchInNormenliste=False&SearchInPvak=False&SearchInRegV=False&SearchInUbas=False&SearchInUmse=False&SearchInUvs=False&SearchInVerg=False&SearchInVfgh=False&SearchInVwgh=False&ImRisSeit=Undefined&ResultPageSize=100&Suchworte={{{s}}}&Position=1"
+  },
+  {
+    "d": "www.ritchiespecs.com",
+    "s": "RitchieSpecs",
+    "t": "ritchiespecs",
+    "u": "https://www.ritchiespecs.com/results/{{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso context",
+    "t": "riten",
+    "u": "http://context.reverso.net/translation/italian-english/{{{s}}}"
+  },
+  {
+    "d": "rit.summon.serialssolutions.com",
+    "s": "RIT Library",
+    "t": "ritlib",
+    "u": "https://rit.summon.serialssolutions.com/search?l=en&q={{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "Reverso Context",
+    "t": "ritru",
+    "u": "https://context.reverso.net/translation/italian-russian/{{{s}}}"
+  },
+  {
+    "d": "www.radiojavan.com",
+    "s": "RadioJavan",
+    "t": "rj",
+    "u": "https://www.radiojavan.com/search?query={{{s}}}"
+  },
+  {
+    "d": "rknastrovastu.com",
+    "s": "RKN Astrology vastu",
+    "t": "rknastro",
+    "u": "https://rknastrovastu.com/?s={{{s}}}"
+  },
+  {
+    "d": "reestr.rublacklist.net",
+    "s": "Роскомсвобода (rublacklist)",
+    "t": "rkn",
+    "u": "https://reestr.rublacklist.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.robokart.com",
+    "s": "robokart",
+    "t": "rk",
+    "u": "http://www.robokart.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "docs.racket-lang.org",
+    "s": "racket-lang.org",
+    "t": "rkt",
+    "u": "https://docs.racket-lang.org/search/index.html?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/leb",
+    "t": "r/leb",
+    "u": "https://www.reddit.com/r/lebanon/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rugbyleagueproject.org",
+    "s": "Rugby League Project",
+    "t": "rlp",
+    "u": "http://www.rugbyleagueproject.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Rocket League Reddit",
+    "t": "rlr",
+    "u": "https://www.reddit.com/r/RocketLeague/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "rocketleague.fandom.com",
+    "s": "Rocket League Wiki",
+    "t": "rlw",
+    "u": "https://rocketleague.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.royalmail.com",
+    "s": "Royal mail tracking ID",
+    "t": "rmail",
+    "u": "https://www.royalmail.com/track-your-item#/tracking-results/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/Melbourne",
+    "t": "rmelb",
+    "u": "https://www.reddit.com/r/melbourne/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "d": "www.gurusrom.net",
+    "s": "Gurusfirmware",
+    "t": "rm",
+    "u": "http://www.gurusrom.net/search/term={{{s}}}"
+  },
+  {
+    "d": "www.rmit.edu.au",
+    "s": "RMIT University",
+    "t": "rmit",
+    "u": "https://www.rmit.edu.au/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit's Mechanical Keyboards Subreddit",
+    "t": "rmk",
+    "u": "https://www.reddit.com/r/MechanicalKeyboards/search?q={{{s}}}&sort=relevance&t=all"
+  },
+  {
+    "d": "www.retailmenot.com",
+    "s": "RetailMeNot",
+    "t": "rmn",
+    "u": "http://www.retailmenot.com/s/{{{s}}}"
+  },
+  {
+    "d": "www.ratemyprofessors.com",
+    "s": "Rate My Professor",
+    "t": "rmp",
+    "u": "http://www.ratemyprofessors.com/search.jsp?query={{{s}}}"
+  },
+  {
+    "d": "rimworldwiki.com",
+    "s": "Rimworld Wiki",
+    "t": "rmw",
+    "u": "https://rimworldwiki.com/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "en.rocketnews24.com",
+    "s": "RocketNews24",
+    "t": "rn24",
+    "u": "http://en.rocketnews24.com/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "r-nl",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=nl-nl"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo NL region",
+    "t": "rnl",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=nl-nl"
+  },
+  {
+    "d": "india.recruit.net",
+    "s": "recruit.net",
+    "t": "rn",
+    "u": "http://india.recruit.net/search.html?query={{{s}}}&location=delhi"
+  },
+  {
+    "d": "www.radionz.co.nz",
+    "s": "Radio New Zealand",
+    "t": "rnz",
+    "u": "https://www.radionz.co.nz/search/results?utf8=%E2%9C%93&q={{{s}}}&commit=Search"
+  },
+  {
+    "d": "www.roadandtrack.com",
+    "s": "Road & Track",
+    "t": "roadandtrack",
+    "u": "https://www.roadandtrack.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.admin.ch",
+    "s": "admin.ch",
+    "t": "ro",
+    "u": "https://www.admin.ch/opc/search/?text={{{s}}}&lang=fr&language%5B%5D=fr&product%5B%5D=ClassifiedCompilation"
+  },
+  {
+    "d": "robertchristgau.com",
+    "s": "Robert Christgau CG",
+    "t": "robertchristgau",
+    "u": "https://robertchristgau.com/get_artist.php?name={{{s}}}"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox Games",
+    "t": "robloxg",
+    "u": "https://www.roblox.com/games/?Keyword={{{s}}}"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox Groups",
+    "t": "robloxgr",
+    "u": "http://www.roblox.com/Groups/search.aspx?val={{{s}}}"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox Library",
+    "t": "robloxl",
+    "u": "https://www.roblox.com/develop/library?CatalogContext=2&Keyword={{{s}}}&SortAggregation=5&LegendExpanded=true&Category=6"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox",
+    "t": "roblox",
+    "u": "https://www.roblox.com/games/?Keyword={{{s}}}"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox users",
+    "t": "robloxu",
+    "u": "https://www.roblox.com/search/users?keyword={{{s}}}"
+  },
+  {
+    "d": "robot-review.ru",
+    "s": "RobotReview",
+    "t": "robotreview",
+    "u": "https://robot-review.ru/search?q={{{s}}}"
+  },
+  {
+    "d": "www.robtex.com",
+    "s": "Robtex",
+    "t": "robtex",
+    "u": "https://www.robtex.com/dns-lookup/{{{s}}}"
+  },
+  {
+    "d": "www.rockauto.com",
+    "s": "RockAuto",
+    "t": "rockauto",
+    "u": "https://www.rockauto.com/en/partsearch/?partnum={{{s}}}"
+  },
+  {
+    "d": "www.rocketbeans.tv",
+    "s": "Rocket Beans TV",
+    "t": "rocketbeans",
+    "u": "https://www.rocketbeans.tv/?s={{{s}}}"
+  },
+  {
+    "d": "rockethub.com",
+    "s": "RocketHub",
+    "t": "rockethub",
+    "u": "http://rockethub.com/projects?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.rocketindustrial.com",
+    "s": "Rocket Industrial",
+    "t": "rocket",
+    "u": "http://www.rocketindustrial.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.rockit.it",
+    "s": "Rockit",
+    "t": "rockit",
+    "u": "https://www.rockit.it/web/cerca.php?k={{{s}}}"
+  },
+  {
+    "d": "luarocks.org",
+    "s": "LuaRocks",
+    "t": "rock",
+    "u": "https://luarocks.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rockol.it",
+    "s": "Rockol",
+    "t": "rockol",
+    "u": "http://www.rockol.it/search.php?s={{{s}}}"
+  },
+  {
+    "d": "www.rockpapershotgun.com",
+    "s": "Rock Paper Shotgun",
+    "t": "rockpapershotgun",
+    "u": "http://www.rockpapershotgun.com/?s={{{s}}}"
+  },
+  {
+    "d": "rocwiki.org",
+    "s": "Rochester Wiki",
+    "t": "rocwiki",
+    "u": "http://rocwiki.org/?action=search&string={{{s}}}"
+  },
+  {
+    "d": "developer.roblox.com",
+    "s": "ROBLOX Developer",
+    "t": "rodev",
+    "u": "https://developer.roblox.com/search#stq={{{s}}}"
+  },
+  {
+    "d": "gdpr.pl",
+    "s": "GDPR PL",
+    "t": "rodo",
+    "u": "https://gdpr.pl/?s={{{s}}}"
+  },
+  {
+    "d": "www.roetgen.de",
+    "s": "Gemeinde Roetgen",
+    "t": "roetgen",
+    "u": "https://www.roetgen.de/?s={{{s}}}"
+  },
+  {
+    "d": "www.dictionar-finlandez.net",
+    "s": "Dictionar roman-finlandez-roman",
+    "t": "rofi",
+    "u": "http://www.dictionar-finlandez.net/online/?word={{{s}}}"
+  },
+  {
+    "d": "www.rogerebert.com",
+    "s": "Roger Ebert",
+    "t": "rogerebert",
+    "u": "http://www.rogerebert.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.rogers.com",
+    "s": "Rogers",
+    "t": "rogers",
+    "u": "https://www.rogers.com/customer/search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.roget.org",
+    "s": "Roget's Hyperlinked Thesaurus",
+    "t": "roget",
+    "u": "http://www.roget.org/scripts/qq.php?seekword={{{s}}}"
+  },
+  {
+    "d": "roguebasin.roguelikedevelopment.org",
+    "s": "RogueBasin",
+    "t": "roguebasin",
+    "u": "http://roguebasin.roguelikedevelopment.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "rokomari.com",
+    "s": "rokomari.com",
+    "t": "rokomari",
+    "u": "http://rokomari.com/search?term={{{s}}}"
+  },
+  {
+    "d": "www.returnofkings.com",
+    "s": "Return Of Kings",
+    "t": "rok",
+    "u": "http://www.returnofkings.com/?s={{{s}}}"
+  },
+  {
+    "d": "owner.roku.com",
+    "s": "Roku",
+    "t": "roku",
+    "u": "https://owner.roku.com/Add/{{{s}}}"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "old reddit design",
+    "t": "rold",
+    "u": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "roll20.net",
+    "s": "Roll20 DnD 5e Compendium",
+    "t": "roll205e",
+    "u": "https://roll20.net/compendium/dnd5e/searchbook/?terms={{{s}}}"
+  },
+  {
+    "d": "www.rollingstone.it",
+    "s": "Rolling Stone Italia",
+    "t": "rollingstoneit",
+    "u": "http://www.rollingstone.it/?s={{{s}}}"
+  },
+  {
+    "d": "www.rollingstone.com",
+    "s": "Rolling Stone",
+    "t": "rollingstone",
+    "u": "http://www.rollingstone.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.romajidesu.com",
+    "s": "Romajidesu Kanji Search",
+    "t": "romajidesukanji",
+    "u": "http://www.romajidesu.com/kanji/{{{s}}} "
+  },
+  {
+    "d": "www.romajidesu.com",
+    "s": "Romajidesu Vocabulary Search",
+    "t": "romajidesuvcb",
+    "u": "http://www.romajidesu.com/?m=dictionary&a=lookup&w={{{s}}}"
+  },
+  {
+    "d": "www.roothax.com",
+    "s": "Root Hax",
+    "t": "rooth",
+    "u": "https://www.roothax.com/?s={{{s}}}"
+  },
+  {
+    "d": "root.cern.ch",
+    "s": "ROOT",
+    "t": "root",
+    "u": "http://root.cern.ch/drupal/search/node/{{{s}}}"
+  },
+  {
+    "d": "riskofrain2.fandom.com",
+    "s": "Risk of Rain 2 Wiki",
+    "t": "ror2",
+    "u": "https://riskofrain2.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "rosettacode.org",
+    "s": "RosettaCode.org",
+    "t": "rosettacode",
+    "u": "https://rosettacode.org/w/index.php?search={{{s}}}&title=Special%3ASearch&wprov=acrw1"
+  },
+  {
+    "d": "www.ros.org",
+    "s": "RobotOS",
+    "t": "ros",
+    "u": "http://www.ros.org/search/index.html?cx=018259903093183594226%3Atxvzw9fat6w&cof=FORID%3A11%3BNB%3A1&ie=UTF-8&filter=0&num=10&input={{{s}}}&q={{{s}}}&sa=Submit"
+  },
+  {
+    "d": "www.rossmann.de",
+    "s": "Rossmann(DE)",
+    "t": "rossde",
+    "u": "https://www.rossmann.de/verbraucherportal/toolbox/suche.html?query={{{s}}}"
+  },
+  {
+    "d": "rostr.disney.com",
+    "s": "Disney Rostr",
+    "t": "rostr",
+    "u": "https://rostr.disney.com/search_results?query={{{s}}}"
+  },
+  {
+    "d": "wiki.ros.org",
+    "s": "ROS Wiki",
+    "t": "rosw",
+    "u": "https://wiki.ros.org/{{{s}}}"
+  },
+  {
+    "d": "decode.org",
+    "s": "Decode",
+    "t": "rot13",
+    "u": "http://decode.org/?q={{{s}}}"
+  },
+  {
+    "d": "redpandazine.at",
+    "s": "Red Pandazine",
+    "t": "roterpanda",
+    "u": "https://redpandazine.at/?s={{{s}}}"
+  },
+  {
+    "d": "www.rotoworld.com",
+    "s": "Rotoworld",
+    "t": "roto",
+    "u": "https://www.rotoworld.com/search#query={{{s}}}"
+  },
+  {
+    "d": "www.rottentomatoes.com",
+    "s": "Rotten Tomatoes",
+    "t": "rottentomatoes",
+    "u": "http://www.rottentomatoes.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "www.rottentomatoes.com",
+    "s": "Rotten Tomato",
+    "t": "rottentomato",
+    "u": "http://www.rottentomatoes.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "www.routard.com",
+    "s": "Le Guide Du Routard",
+    "t": "routard",
+    "u": "http://www.routard.com/recherche.asp?q={{{s}}}&edt_cleRech={{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google Maps Route",
+    "t": "route",
+    "u": "https://www.google.de/maps/dir/{{{s}}}"
+  },
+  {
+    "d": "www.router24.info",
+    "s": "Router24",
+    "t": "router",
+    "u": "https://www.router24.info/uebersicht?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Rouxbe",
+    "t": "rouxbe",
+    "u": "https://duckduckgo.com/?q=site%3Arouxbe.com+{{{s}}}"
+  },
+  {
+    "d": "developer.roblox.com",
+    "s": "ROBLOX Wiki",
+    "t": "rowiki",
+    "u": "https://developer.roblox.com/search#stq={{{s}}}"
+  },
+  {
+    "d": "royalroadl.com",
+    "s": "Royal Road",
+    "t": "royalroadl",
+    "u": "https://royalroadl.com/fictions/search?keyword={{{s}}}"
+  },
+  {
+    "d": "rozetka.com.ua",
+    "s": "Rozetka",
+    "t": "rozetka",
+    "u": "http://rozetka.com.ua/search/?section_id=&section=&text={{{s}}}&rz-search-button="
+  },
+  {
+    "d": "rozethaber.com",
+    "s": "Rozet Haber",
+    "t": "rozet",
+    "u": "http://rozethaber.com/search/{{{s}}}"
+  },
+  {
+    "d": "pad.riseup.net",
+    "s": "riseUp networks Etherpad",
+    "t": "rpad",
+    "u": "https://pad.riseup.net/p/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit PublicFreakout",
+    "t": "rpf",
+    "u": "https://www.reddit.com/r/PublicFreakout/search/?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "rpggeek.com",
+    "s": "RPGGeek",
+    "t": "rpggeek",
+    "u": "http://rpggeek.com/geeksearch.php?action=search&objecttype=rpgunified&q={{{s}}}&B1=Go"
+  },
+  {
+    "d": "rpg.stackexchange.com",
+    "s": "StackExchange RPG",
+    "t": "rpg",
+    "u": "http://rpg.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "rpg.stackexchange.com",
+    "s": "RPG Stack Exchange",
+    "t": "rpgsx",
+    "u": "http://rpg.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.radicalphilosophy.com",
+    "s": "Radical Philosophy",
+    "t": "rphilos",
+    "u": "http://www.radicalphilosophy.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.whitepages.com",
+    "s": "Whitepages",
+    "t": "rphone",
+    "u": "http://www.whitepages.com/phone/{{{s}}}"
+  },
+  {
+    "d": "www.raspberrypi.org",
+    "s": "Raspberry Pi",
+    "t": "rpi",
+    "u": "https://www.raspberrypi.org/search/{{{s}}}"
+  },
+  {
+    "d": "raspberrypi.stackexchange.com",
+    "s": "Raspberry pi Stackexchange",
+    "t": "rpi-so",
+    "u": "http://raspberrypi.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "context.reverso.net",
+    "s": "context.reverso.net",
+    "t": "rplen",
+    "u": "https://context.reverso.net/tłumaczenie/polski-angielski/{{{s}}}"
+  },
+  {
+    "d": "rpmfind.net",
+    "s": "RPMfind.net",
+    "t": "rpmfind",
+    "u": "http://rpmfind.net/linux/rpm2html/search.php?query={{{s}}}&submit=Search+..."
+  },
+  {
+    "d": "admin.rpmfusion.org",
+    "s": "RPMFusion Packages",
+    "t": "rpmfusion",
+    "u": "https://admin.rpmfusion.org/pkgdb/packages/{{{s}}}/"
+  },
+  {
+    "d": "rpmfind.net",
+    "s": "RPMfind.net",
+    "t": "rpm",
+    "u": "http://rpmfind.net/linux/rpm2html/search.php?query={{{s}}}&submit=Search+..."
+  },
+  {
+    "d": "src.fedoraproject.org",
+    "s": "Fedora Package Sources",
+    "t": "rpms",
+    "u": "https://src.fedoraproject.org/rpms/{{{s}}}"
+  },
+  {
+    "d": "www.raspberrypi.org",
+    "s": "Raspberry Pi",
+    "t": "rp",
+    "u": "http://www.raspberrypi.org/phpBB3/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Subreddit r/privacy",
+    "t": "rprivacy",
+    "u": "https://www.reddit.com/r/privacy/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "www.rockpapershotgun.com",
+    "s": "Rock, Paper, Shotgun",
+    "t": "rps",
+    "u": "http://www.rockpapershotgun.com/?s={{{s}}} "
+  },
+  {
+    "d": "realpython.com",
+    "s": "https://www.realpython.com",
+    "t": "rpy",
+    "u": "https://realpython.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rainbowresource.com",
+    "s": "Rainbow Resource Catalog",
+    "t": "rrc",
+    "u": "http://www.rainbowresource.com/searchspring.php?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit",
+    "t": "r",
+    "u": "https://www.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "reprap.org",
+    "s": "RepRap",
+    "t": "rr",
+    "u": "http://reprap.org/mediawiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "riordan.fandom.com",
+    "s": "Rick Riordan Wiki",
+    "t": "rrw",
+    "u": "https://riordan.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "oldschool.runescape.wiki",
+    "s": "Old School RuneScape Wiki",
+    "t": "rs07",
+    "u": "https://oldschool.runescape.wiki/w/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "rs.4chan.org",
+    "s": "rs.4chan.org",
+    "t": "rs4",
+    "u": "http://rs.4chan.org/?s={{{s}}}&from=ALL"
+  },
+  {
+    "d": "www.rollingstone.com.ar",
+    "s": "Rolling Stone Argentina",
+    "t": "rsar",
+    "u": "http://www.rollingstone.com.ar/buscador-r30-{{{s}}}"
+  },
+  {
+    "d": "runescape.wiki",
+    "s": "RuneScape Wiki",
+    "t": "rscape",
+    "u": "https://runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "d": "www.admin.ch",
+    "s": "admin.ch -  Recueil systématique ",
+    "t": "rsch",
+    "u": "https://www.admin.ch/opc/search/?text={{{s}}}&lang=fr&product[]=cc&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&thesaurus=1"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit Ask Science",
+    "t": "rsci",
+    "u": "https://www.reddit.com/r/askscience/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "uk.rs-online.com",
+    "s": "RS Components",
+    "t": "rsc",
+    "u": "http://uk.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "de.rs-online.com",
+    "s": "RS Components (DE)",
+    "t": "rsde",
+    "u": "http://de.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "docs.rs",
+    "s": "docs.rs (rust crate documentation)",
+    "t": "rs-docs",
+    "u": "https://docs.rs/{{{s}}}"
+  },
+  {
+    "d": "www.rseek.org",
+    "s": "RSeek",
+    "t": "rseek",
+    "u": "http://www.rseek.org/?cx=010923144343702598753:boaz1reyxd4&newwindow=1&q={{{s}}}&sa=Search+functions,+lists,+and+more&cof=FORID:11&siteurl=www.rseek.org/"
+  },
+  {
+    "d": "es.rs-online.com",
+    "s": "https://es.rs-online.com/web/home.html",
+    "t": "rses",
+    "u": "https://es.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}"
+  },
+  {
+    "d": "radiospares-fr.rs-online.com",
+    "s": "RS Component (FR)",
+    "t": "rsfr",
+    "u": "http://radiospares-fr.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "services.runescape.com",
+    "s": "The RuneScape Grand Exchange",
+    "t": "rsge",
+    "u": "http://services.runescape.com/m=itemdb_rs/results?query={{{s}}}"
+  },
+  {
+    "d": "www.rockstargames.com",
+    "s": "Rockstar Games",
+    "t": "rsg",
+    "u": "https://www.rockstargames.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "risibank.fr",
+    "s": "Risibank",
+    "t": "rsibank",
+    "u": "https://risibank.fr/#{{{s}}}"
+  },
+  {
+    "d": "it.rs-online.com",
+    "s": "RS Components Italy",
+    "t": "rsit",
+    "u": "http://it.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.refseek.com",
+    "s": "refseek",
+    "t": "rsk",
+    "u": "https://www.refseek.com/search?q={{{s}}}"
+  },
+  {
+    "d": "nl.rs-online.com",
+    "s": "RS Components (NL)",
+    "t": "rsnl",
+    "u": "http://nl.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit ",
+    "t": "rsn",
+    "u": "https://www.reddit.com/r/{{{s}}}/new/"
+  },
+  {
+    "d": "nz.rs-online.com",
+    "s": "RS Components NZ",
+    "t": "rsnz",
+    "u": "https://nz.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "R questions on Stack Overflow",
+    "t": "rso",
+    "u": "http://stackoverflow.com/search?q=[r]+{{{s}}}"
+  },
+  {
+    "d": "www.rspb.org.uk",
+    "s": "RSPB",
+    "t": "rspb",
+    "u": "https://www.rspb.org.uk/search/?q={{{s}}}"
+  },
+  {
+    "d": "ph.rs-online.com",
+    "s": "RS Components Philippines",
+    "t": "rsph",
+    "u": "http://ph.rs-online.com/web/c/?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.roblox.com",
+    "s": "Roblox Super Power Training Simulator",
+    "t": "rspt",
+    "u": "https://www.roblox.com/games/?Keyword={{{s}}}"
+  },
+  {
+    "d": "www.rsssearchhub.com",
+    "s": "RSSsearchhub",
+    "t": "rsssh",
+    "u": "http://www.rsssearchhub.com/feeds/?search={{{s}}}"
+  },
+  {
+    "d": "doc.rust-lang.org",
+    "s": "std library docs for rust",
+    "t": "rs-std",
+    "u": "https://doc.rust-lang.org/std/index.html?search={{{s}}}"
+  },
+  {
+    "d": "www.rdocumentation.org",
+    "s": "R Documentation",
+    "t": "rstats",
+    "u": "https://www.rdocumentation.org/search?q={{{s}}}"
+  },
+  {
+    "d": "rosettacode.org",
+    "s": "Rosetta Code",
+    "t": "rstc",
+    "u": "https://rosettacode.org/w/index.php?search={{{s}}}&title=Special%3ASearch&wprov=acrw1"
+  },
+  {
+    "d": "runescape.wiki",
+    "s": "The RuneScape Wiki",
+    "t": "rs",
+    "u": "https://runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "d": "reddit.com",
+    "s": "Reddit Subreddit",
+    "t": "rsub",
+    "u": "https://reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "uk.rs-online.com",
+    "s": "RadioSpare UK",
+    "t": "rsuk",
+    "u": "http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}"
+  },
+  {
+    "d": "runsignup.com",
+    "s": "RunSignUp",
+    "t": "rsu",
+    "u": "https://runsignup.com/Races?name={{{s}}}"
+  },
+  {
+    "d": "www.biblegateway.com",
+    "s": "BibleGateway: Revised Standard Version Catholic Edition",
+    "t": "rsvce",
+    "u": "https://www.biblegateway.com/passage/?search={{{s}}}&version=RSVCE"
+  },
+  {
+    "d": "runescape.wiki",
+    "s": "Runescape Wiki (new)",
+    "t": "rswikin",
+    "u": "https://runescape.wiki/?search=test&title=Special%3ASearch&fulltext={{{s}}}"
+  },
+  {
+    "d": "runescape.wiki",
+    "s": "Runescape Wiki",
+    "t": "rswiki",
+    "u": "https://runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "d": "runescape.wiki",
+    "s": "RuneScape Wiki",
+    "t": "rsw",
+    "u": "https://runescape.wiki/?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "d": "za.rs-online.com",
+    "s": "RS Components South Africa",
+    "t": "rsza",
+    "u": "https://za.rs-online.com/web/c/?sra=oss&r=t&searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.rtbf.be",
+    "s": "RTBF Info",
+    "t": "rtbf",
+    "u": "https://www.rtbf.be/info/recherche?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Binding of Isaac subreddit",
+    "t": "rtboi",
+    "u": "https://www.reddit.com/r/bindingofisaac/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "kernel.readthedocs.io",
+    "s": "https://kernel.readthedocs.io/en/sphinx-samples/",
+    "t": "rtdlinux",
+    "u": "https://kernel.readthedocs.io/en/sphinx-samples/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "readthedocs.org",
+    "s": "Read the Docs",
+    "t": "rtd",
+    "u": "https://readthedocs.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.rte.ie",
+    "s": "Raidió Teilifís Éireann",
+    "t": "rte",
+    "u": "http://www.rte.ie/search/?query={{{s}}}"
+  },
+  {
+    "d": "actualidad.rt.com",
+    "s": "RT en Español",
+    "t": "rtes",
+    "u": "https://actualidad.rt.com/search?q={{{s}}}"
+  },
+  {
+    "d": "{{{s}}}.rtfd.io",
+    "s": "Read the Docs",
+    "t": "rtfd",
+    "u": "http://{{{s}}}.rtfd.io"
+  },
+  {
+    "d": "fr.shopping.rakuten.com",
+    "s": "Rakuten France",
+    "t": "rtfr",
+    "u": "https://fr.shopping.rakuten.com/s/{{{s}}}"
+  },
+  {
+    "d": "roosterteeth.com",
+    "s": "Rooster Teeth",
+    "t": "rth",
+    "u": "https://roosterteeth.com/#search?term={{{s}}}"
+  },
+  {
+    "d": "community.rti.com",
+    "s": "RTI DDS 5.1 C++ API Search",
+    "t": "rti51cpp",
+    "u": "https://community.rti.com/rti-doc/510/ndds.5.1.0/doc/html/api_cpp/search.php?query={{{s}}}"
+  },
+  {
+    "d": "community.rti.com",
+    "s": "RTI DDS 5.1 Java API Search",
+    "t": "rti51java",
+    "u": "https://community.rti.com/rti-doc/510/ndds.5.1.0/doc/html/api_java/search.php?query={{{s}}}"
+  },
+  {
+    "d": "community.rti.com",
+    "s": "RTI Connext-DDS 5.2.3 User Manual",
+    "t": "rti523um",
+    "u": "https://community.rti.com/static/documentation/connext-dds/5.2.3/doc/manuals/connext_dds/html_files/RTI_ConnextDDS_CoreLibraries_UsersManual/index.htm#search-{{{s}}}"
+  },
+  {
+    "d": "community.rti.com",
+    "s": "RTI Knowledge Base",
+    "t": "rtikb",
+    "u": "https://community.rti.com/search/kb/{{{s}}}"
+  },
+  {
+    "d": "www.rtings.com",
+    "s": "Rtings.com",
+    "t": "rtings",
+    "u": "https://www.rtings.com/search?cx=partner-pub-9742413462301870%3A7201788216&cof=FORID%3A10&ie=UTF-8&silo=&q={{{s}}}"
+  },
+  {
+    "d": "www.rememberthemilk.com",
+    "s": "Remember the Milk",
+    "t": "rtm",
+    "u": "https://www.rememberthemilk.com/app/#search/{{{s}}}"
+  },
+  {
+    "d": "rt.com",
+    "s": "RT",
+    "t": "rtnews",
+    "u": "http://rt.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.rt.com",
+    "s": "RT - Russial Today",
+    "t": "rtoday",
+    "u": "https://www.rt.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.rottentomatoes.com",
+    "s": "Rotten Tomatoes",
+    "t": "rt",
+    "u": "https://www.rottentomatoes.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "www.rts.ch",
+    "s": "Radio télévision suisse",
+    "t": "rts",
+    "u": "http://www.rts.ch/services/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "www.realtimetrains.co.uk",
+    "s": "Real Time Trains",
+    "t": "rtt",
+    "u": "http://www.realtimetrains.co.uk/search/handler?type=basic&qs=true&search={{{s}}}"
+  },
+  {
+    "d": "www.rtve.es",
+    "s": "Corporación de Radio y Televisión Española",
+    "t": "rtve",
+    "u": "http://www.rtve.es/buscador/?q={{{s}}}"
+  },
+  {
+    "d": "www.rtvnh.nl",
+    "s": "RTVNH",
+    "t": "rtvnh",
+    "u": "http://www.rtvnh.nl/zoeken/1/{{{s}}}"
+  },
+  {
+    "d": "rubocop.readthedocs.io",
+    "s": "RuboCop",
+    "t": "rubocop",
+    "u": "https://rubocop.readthedocs.io/en/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.ruby-doc.org",
+    "s": "Ruby-Doc.org",
+    "t": "rubydoc",
+    "u": "http://www.ruby-doc.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "rubydocs.org",
+    "s": "RubyDocs",
+    "t": "rubydocs",
+    "u": "https://rubydocs.org/d/ruby-latest/?q={{{s}}}"
+  },
+  {
+    "d": "rubygems.org",
+    "s": "RubyGems",
+    "t": "rubygems",
+    "u": "http://rubygems.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.rubylane.com",
+    "s": "Ruby Lane",
+    "t": "rubylane",
+    "u": "http://www.rubylane.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Ruby-lang.org",
+    "t": "ruby",
+    "u": "http://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8&sa=Search"
+  },
+  {
+    "d": "www.ruby-toolbox.com",
+    "s": "Ruby Toolbox",
+    "t": "rubytoolbox",
+    "u": "https://www.ruby-toolbox.com/search?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "ruen",
+    "u": "http://translate.google.com/#ru/en/{{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate RU-FR",
+    "t": "rufr",
+    "u": "https://translate.google.com/#ru/fr/{{{s}}}"
+  },
+  {
+    "d": "www.retrovideogamestore.com",
+    "s": "R. U. Game?",
+    "t": "rugame",
+    "u": "https://www.retrovideogamestore.com/index.php?option=com_mijoshop&route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.rug.nl",
+    "s": "University of Groningen",
+    "t": "rug",
+    "u": "http://www.rug.nl/search/?searchtext={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo UK",
+    "t": "r-uk",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=uk-en"
+  },
+  {
+    "d": "ruk.ca",
+    "s": "ruk.ca",
+    "t": "ruk",
+    "u": "http://ruk.ca/search/site/{{{s}}}"
+  },
+  {
+    "d": "rumble.com",
+    "s": "Rumble",
+    "t": "rumble",
+    "u": "https://rumble.com/all/q/{{{s}}}/?type=videos"
+  },
+  {
+    "d": "runescape.wiki",
+    "s": "Runescape Wiki",
+    "t": "runescape",
+    "u": "https://runescape.wiki/w/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "runsignup.com",
+    "s": "RunSignUp",
+    "t": "runsignup",
+    "u": "https://runsignup.com/Races?s=&cloudSearch=T&name={{{s}}}"
+  },
+  {
+    "d": "www.redusers.com",
+    "s": "RedUSERS",
+    "t": "ru",
+    "u": "http://www.redusers.com/noticias/?s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo US",
+    "t": "r-us",
+    "u": "https://duckduckgo.com/?q={{{s}}}&kl=us-en"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit Users",
+    "t": "rusr",
+    "u": "https://www.reddit.com/user/{{{s}}}/"
+  },
+  {
+    "d": "www.rusta.com",
+    "s": "Rusta",
+    "t": "rusta",
+    "u": "http://www.rusta.com/se/Sok/{{{s}}}/"
+  },
+  {
+    "d": "doc.rust-lang.org",
+    "s": "RustDocs",
+    "t": "rustdoc",
+    "u": "https://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "d": "doc.rust-lang.org",
+    "s": "The Rust Standard Library Documentation",
+    "t": "rustd",
+    "u": "https://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "d": "rustlabs.com",
+    "s": "Rustlabs",
+    "t": "rustlabs",
+    "u": "https://rustlabs.com/search={{{s}}}"
+  },
+  {
+    "d": "doc.rust-lang.org",
+    "s": "Rust Nightly Standard Library Documentation",
+    "t": "rustn",
+    "u": "https://doc.rust-lang.org/nightly/std/?search={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "Rust RFC GitHub.com",
+    "t": "rustrfc",
+    "u": "https://github.com/rust-lang/rfcs/issues?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "doc.rust-lang.org",
+    "s": "Rust stdlib docs",
+    "t": "rust",
+    "u": "https://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "d": "doc.rust-lang.org",
+    "s": "Rust standard library API reference",
+    "t": "ruststd",
+    "u": "http://doc.rust-lang.org/std/?search={{{s}}}"
+  },
+  {
+    "d": "find.ruten.com.tw",
+    "s": "ruten",
+    "t": "ruten",
+    "u": "http://find.ruten.com.tw/search/s000.php?enc=u&searchfrom=searchf&k={{{s}}}&t=0"
+  },
+  {
+    "d": "www.billygrahambookstore.org",
+    "s": "Ruth's Attic",
+    "t": "ruth",
+    "u": "https://www.billygrahambookstore.org/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.rutronik24.com",
+    "s": "Rutronik",
+    "t": "rutronik",
+    "u": "https://www.rutronik24.com/search-result/qs:{{{s}}}"
+  },
+  {
+    "d": "rutube.ru",
+    "s": "RuTube",
+    "t": "rutube",
+    "u": "http://rutube.ru/search.html?page=index&search={{{s}}}&search_type=track"
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "Russian Wikipedia (Википедия)",
+    "t": "ruwiki",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "ru.wikipedia.org",
+    "s": "ru.WikiPedia.org",
+    "t": "ruwk",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "rvb.wikia.com",
+    "s": "Red vs. Blue Wiki",
+    "t": "rvb",
+    "u": "http://rvb.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "raritanval.edu",
+    "s": "Raritan Valley Community College",
+    "t": "rvcc",
+    "u": "http://raritanval.edu/rvcc/search.aspx?searchtext={{{s}}}"
+  },
+  {
+    "d": "reviewmeta.com",
+    "s": "ReviewMeta",
+    "t": "rvm",
+    "u": "https://reviewmeta.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.real.video",
+    "s": "Real.Video",
+    "t": "rv",
+    "u": "https://www.real.video/search?query={{{s}}}"
+  },
+  {
+    "d": "www.elmonterv.com",
+    "s": "El Monte RV Rentals",
+    "t": "rvrental",
+    "u": "https://www.elmonterv.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "thereaderwiki.com",
+    "s": "The Reader Wiki",
+    "t": "rwiki",
+    "u": "https://thereaderwiki.com/en/{{{s}}}"
+  },
+  {
+    "d": "rationalwiki.org",
+    "s": "RationalWiki",
+    "t": "rw",
+    "u": "http://rationalwiki.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.rwth-aachen.de",
+    "s": "RWTH Aachen University",
+    "t": "rwth",
+    "u": "http://www.rwth-aachen.de/ca/be/hx/?lidx=&institution=RWTH+Aachen+University&search={{{s}}}"
+  },
+  {
+    "d": "ruxpert.ru",
+    "s": "Ruxpert",
+    "t": "rxp",
+    "u": "http://ruxpert.ru/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ryanscomputers.com",
+    "s": "Ryans Computers",
+    "t": "ryans",
+    "u": "https://ryanscomputers.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit (past year (and more))",
+    "t": "ryear",
+    "u": "http://www.reddit.com/search?q={{{s}}}&t=year"
+  },
+  {
+    "d": "ryfma.com",
+    "s": "Ryfma",
+    "t": "ryfma",
+    "u": "https://ryfma.com/search/{{{s}}}"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "RateYourMusic Genre",
+    "t": "ryg",
+    "u": "https://rateyourmusic.com/genre/{{{s}}}"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "Rate Your Music",
+    "t": "rymf",
+    "u": "https://rateyourmusic.com/search?searchtype=F&searchterm={{{s}}}"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "Rate Your Music genre search",
+    "t": "rymgenre",
+    "u": "https://rateyourmusic.com/search?searchtype=g&searchterm={{{s}}}"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "Rate Your Music",
+    "t": "rym",
+    "u": "https://rateyourmusic.com/search?searchterm={{{s}}}"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "rateyourmusic.com",
+    "t": "rymrelease",
+    "u": "https://rateyourmusic.com/search?searchterm={{{s}}}&type=l"
+  },
+  {
+    "d": "rateyourmusic.com",
+    "s": "Rate Your Music (All releases)",
+    "t": "rymr",
+    "u": "https://rateyourmusic.com/search?searchtype=l&searchterm={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "https://www.reddit.com/r/zelda",
+    "t": "rzelda",
+    "u": "https://www.reddit.com/r/zelda/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.rhymezone.com",
+    "s": "RhymeZone",
+    "t": "rz",
+    "u": "http://www.rhymezone.com/r/rhyme.cgi?Word={{{s}}}&typeofrhyme=perfect&org1=syl&org2=l&org3=y"
+  },
+  {
+    "d": "www.razer.com",
+    "s": "Razer",
+    "t": "rzr",
+    "u": "https://www.razer.com/search?text={{{s}}}"
+  },
+  {
+    "d": "rozetka.com.ua",
+    "s": "Rozetka.com.ua",
+    "t": "rztk",
+    "u": "https://rozetka.com.ua/ua/search/?text={{{s}}}"
+  }
+]

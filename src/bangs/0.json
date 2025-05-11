@@ -1,0 +1,26 @@
+[
+  {
+    "d": "www.01net.com",
+    "s": "01net",
+    "t": "01net",
+    "u": "http://www.01net.com/recherche/recherche.php?searchstring={{{s}}}&chaine=home"
+  },
+  {
+    "d": "www.bmw2002faq.com",
+    "s": "BMW 2002 FAQ",
+    "t": "02faq",
+    "u": "https://www.bmw2002faq.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "boxofficemojo.com",
+    "s": "Box Office Mojo",
+    "t": "0bo",
+    "u": "http://boxofficemojo.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "0to255.com",
+    "s": "0to255",
+    "t": "0to255",
+    "u": "http://0to255.com/{{{s}}}"
+  }
+]

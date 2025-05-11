@@ -8,8 +8,6 @@ jobs:
     runs-on: ubuntu-24.04
     permissions:
       contents: read
-      pages: write
-      id-token: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,9 +23,16 @@ jobs:
         uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: dist/
-          name: unduck
+          name: pages
+  deploy:
+    runs-on: ubuntu-24.04
+    permissions: 
+      pages: write
+      id-token: write
+    needs: build
+    steps:
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4.0.5
         with:
-          artifact_name: unduck
+          artifact_name: pages 

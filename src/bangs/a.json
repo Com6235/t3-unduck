@@ -1,0 +1,5060 @@
+[
+  {
+    "d": "alternativeto.net",
+    "s": "AlternativeTo.net",
+    "t": "a2",
+    "u": "http://alternativeto.net/browse/search/?q={{{s}}}&ignoreExactMatch=true"
+  },
+  {
+    "d": "v5.angular.io",
+    "s": "Angular.io v5",
+    "t": "a5",
+    "u": "https://v5.angular.io/api?query={{{s}}}"
+  },
+  {
+    "d": "v6.angular.io",
+    "s": "Angular.io v6",
+    "t": "a6",
+    "u": "https://v6.angular.io/api?query={{{s}}}"
+  },
+  {
+    "d": "v7.angular.io",
+    "s": "Angular.io v7",
+    "t": "a7",
+    "u": "https://v7.angular.io/api?query={{{s}}}"
+  },
+  {
+    "d": "careers-calstate.aaa.com",
+    "s": "AAA",
+    "t": "aaa",
+    "u": "https://careers-calstate.aaa.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "aktueladam.com",
+    "s": "Aktüel Adam",
+    "t": "a.a",
+    "u": "https://aktueladam.com/?s={{{s}}} "
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Automotive",
+    "t": "aa",
+    "u": "http://www.amazon.com/s/&url=search-alias%3Dautomotive&field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.aadl.org",
+    "s": "Ann Arbor District Library",
+    "t": "aadl",
+    "u": "http://www.aadl.org/catalog/search/keyword/{{{s}}}"
+  },
+  {
+    "d": "www.albumartexchange.com",
+    "s": "Album Art Exchange",
+    "t": "aae",
+    "u": "http://www.albumartexchange.com/covers.php?q={{{s}}}"
+  },
+  {
+    "d": "www.allaboutjazz.com",
+    "s": "All About Jazz",
+    "t": "aaj",
+    "u": "https://www.allaboutjazz.com/php/article_center.php?in_artist={{{s}}}&in_album=&in_label=&in_author=&in_type=0&orderby=dt_pub"
+  },
+  {
+    "d": "www.aakb.dk",
+    "s": "Aarhus Bibliotekerne",
+    "t": "aakb",
+    "u": "https://www.aakb.dk/search/ting/{{{s}}}?"
+  },
+  {
+    "d": "careers.aam.com",
+    "s": "AAM",
+    "t": "aam",
+    "u": "https://careers.aam.com/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "a",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Aamulehti",
+    "t": "aamulehti",
+    "u": "https://duckduckgo.com/?sites=www.aamulehti.fi&kh=1&q={{{s}}}&ia=web"
+  },
+  {
+    "d": "www.aptoide.com",
+    "s": "Aptoide",
+    "t": "aapt",
+    "u": "http://www.aptoide.com/search/view?search_top= {{{s}}} &x=0&y=0"
+  },
+  {
+    "d": "www.aardwolf.com",
+    "s": "AardWiki",
+    "t": "aard",
+    "u": "http://www.aardwolf.com/wiki/index.php/Site/Search?q={{{s}}}"
+  },
+  {
+    "d": "aare.edu.ee",
+    "s": "Estonian - English - Estonian Dictionary",
+    "t": "aare",
+    "u": "https://aare.edu.ee/dictionary.html?query={{{s}}}&lang=ee"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon Austria",
+    "t": "a.at",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.getty.edu",
+    "s": "Art & Architecture Thesaurus® Online",
+    "t": "aat",
+    "u": "http://www.getty.edu/vow/AATServlet?english=N&find={{{s}}}&logic=AND&page=1&note="
+  },
+  {
+    "d": "www.amazon.com.au",
+    "s": "Amazon Australia",
+    "t": "aau",
+    "u": "https://www.amazon.com.au/s?k={{{s}}}"
+  },
+  {
+    "d": "aceattorney.wikia.com",
+    "s": "Ace Attorney Wiki",
+    "t": "aaw",
+    "u": "http://aceattorney.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "d": "www.albumartexchange.com",
+    "s": "Album Art Exchange",
+    "t": "aax",
+    "u": "http://www.albumartexchange.com/covers.php?q={{{s}}}"
+  },
+  {
+    "d": "dictionary.abadis.ir",
+    "s": "Abadis English to Persian dictionary",
+    "t": "abadise",
+    "u": "https://dictionary.abadis.ir/?LnType=entofa&Word={{{s}}}"
+  },
+  {
+    "d": "dictionary.abadis.ir",
+    "s": "Abadis Persian to English dictionary ",
+    "t": "abadisf",
+    "u": "https://dictionary.abadis.ir/?lntype=fatoen&word={{{s}}}"
+  },
+  {
+    "d": "airbitz.co",
+    "s": "Airbitz",
+    "t": "ab",
+    "u": "http://airbitz.co/search?term={{{s}}}"
+  },
+  {
+    "d": "www.abandonia.com",
+    "s": "Abandonia",
+    "t": "abandonia",
+    "u": "http://www.abandonia.com/en/search_abandonia/{{{s}}}"
+  },
+  {
+    "d": "new.abb.com",
+    "s": "ABB",
+    "t": "abb",
+    "u": "https://new.abb.com/search/results#query={{{s}}}"
+  },
+  {
+    "d": "www.jobs.abbott",
+    "s": "Abbott",
+    "t": "abbott",
+    "u": "https://www.jobs.abbott/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "www.abbreviations.com",
+    "s": "Abbreviations.com",
+    "t": "abbr",
+    "u": "http://www.abbreviations.com/{{{s}}}"
+  },
+  {
+    "d": "www.abbuc.de",
+    "s": "Abbuc e.V.",
+    "t": "abbuc",
+    "u": "http://www.abbuc.de/component/search/?searchword={{{s}}}"
+  },
+  {
+    "d": "abcnotation.com",
+    "s": "abcnotation",
+    "t": "abc",
+    "u": "http://abcnotation.com/searchTunes?q={{{s}}}"
+  },
+  {
+    "d": "www.abcam.com",
+    "s": "Abcam",
+    "t": "abcam",
+    "u": "https://www.abcam.com/products?keywords={{{s}}}"
+  },
+  {
+    "d": "search.abc.net.au",
+    "s": "ABC Australia",
+    "t": "abcau",
+    "u": "http://search.abc.net.au/s/search.html?query={{{s}}}&collection=abcall_meta&form=simple"
+  },
+  {
+    "d": "www.abcgames.cz",
+    "s": "ABCgames.cz",
+    "t": "abcgames",
+    "u": "http://www.abcgames.cz/?p=sekcia_hladaj&key={{{s}}}"
+  },
+  {
+    "d": "abcnews.go.com",
+    "s": "ABCNews",
+    "t": "abcnews",
+    "u": "http://abcnews.go.com/search?searchtext={{{s}}}"
+  },
+  {
+    "d": "abcnotation.com",
+    "s": "abcnotation.com",
+    "t": "abcnotation",
+    "u": "http://abcnotation.com/searchTunes?q={{{s}}}&f=c&o=a&s=0"
+  },
+  {
+    "d": "www.abcya.com",
+    "s": "abcya",
+    "t": "abcya",
+    "u": "https://www.abcya.com/search/?term={{{s}}}&type={{{s}}}"
+  },
+  {
+    "d": "www.abesmarket.com",
+    "s": "Abe's Market",
+    "t": "abe",
+    "u": "http://www.abesmarket.com/catalogsearch/result/?cat=5&order=relevance&dir=desc&q={{{s}}}"
+  },
+  {
+    "d": "www.abebooks.com",
+    "s": "abebooks",
+    "t": "abebooks",
+    "u": "http://www.abebooks.com/servlet/SearchResults?kn={{{s}}}"
+  },
+  {
+    "d": "www.abebooks.de",
+    "s": "AbeBooks.de",
+    "t": "abebooksde",
+    "u": "http://www.abebooks.de/servlet/SearchResults?kn={{{s}}}&sts=t&x=0&y=0"
+  },
+  {
+    "d": "www.lingvo-online.ru",
+    "s": "Abbyy Dictionary En-Ru",
+    "t": "ab-er",
+    "u": "http://www.lingvo-online.ru/en/Translate/en-ru/{{{s}}}"
+  },
+  {
+    "d": "www.abebooks.co.uk",
+    "s": "abebooks uk",
+    "t": "abeuk",
+    "u": "http://www.abebooks.co.uk/servlet/SearchResults?kn={{{s}}}"
+  },
+  {
+    "d": "mobile.bahn.de",
+    "s": "Abfahrtsplan Deutsche Bahn",
+    "t": "abfahrt",
+    "u": "https://mobile.bahn.de/bin/mobil/bhftafel.exe/dox?input={{{s}}}&productsFilter=1111111111000000&time=actual&maxJourneys=40&start=Suchen&boardType=Abfahrt&rt=1"
+  },
+  {
+    "d": "www.abiunity.de",
+    "s": "abiunity",
+    "t": "abiunity",
+    "u": "https://www.abiunity.de/datenbank.php?boardid=48#!v=searchdb&search={{{s}}}&boardid=48"
+  },
+  {
+    "d": "abr.business.gov.au",
+    "s": "ABN Lookup",
+    "t": "abn",
+    "u": "http://abr.business.gov.au/Search.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "www.airbnb.com",
+    "s": "Airbnb",
+    "t": "abnb",
+    "u": "https://www.airbnb.com/s/{{{s}}}/all"
+  },
+  {
+    "d": "abo.finna.fi",
+    "s": "https://abo.finna.fi/",
+    "t": "abol",
+    "u": "https://abo.finna.fi/Search/Results?lookfor={{{s}}}&type=AllFields"
+  },
+  {
+    "d": "search.about.com",
+    "s": "About.com",
+    "t": "about",
+    "u": "http://search.about.com/fullsearch.htm?terms={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com.br",
+    "s": "Amazon Brazil",
+    "t": "abr",
+    "u": "https://www.amazon.com.br/s?k={{{s}}} "
+  },
+  {
+    "d": "www.abretelibro.com",
+    "s": "Ábretelibro",
+    "t": "abretelibro",
+    "u": "http://www.abretelibro.com/foro/search.php?keywords={{{s}}}&sf=titleonly"
+  },
+  {
+    "d": "www.allbookstores.com",
+    "s": "AllBookstores",
+    "t": "abs",
+    "u": "http://www.allbookstores.com/search?q={{{s}}}"
+  },
+  {
+    "d": "aberdeenshire.gov.uk",
+    "s": "Aberdeenshire council",
+    "t": "abshire",
+    "u": "http://aberdeenshire.gov.uk/search?search={{{s}}}"
+  },
+  {
+    "d": "miabuelavende.com",
+    "s": "Mi abuela vende",
+    "t": "abuela",
+    "u": "http://miabuelavende.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "www.abuseipdb.com",
+    "s": "AbuseIPDB",
+    "t": "abuseip",
+    "u": "https://www.abuseipdb.com/check/{{{s}}}"
+  },
+  {
+    "d": "wall.alphacoders.com",
+    "s": "Wallpaper Abyss",
+    "t": "abyss",
+    "u": "http://wall.alphacoders.com/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.amazon.ca",
+    "s": "Amazon.ca",
+    "t": "aca",
+    "u": "https://www.amazon.ca/s?k={{{s}}}"
+  },
+  {
+    "d": "www.academia.edu",
+    "s": "academia.edu",
+    "t": "academia",
+    "u": "http://www.academia.edu/people/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "academicearth.org",
+    "s": "Academic Earth",
+    "t": "academicearth",
+    "u": "https://academicearth.org/?s={{{s}}}"
+  },
+  {
+    "d": "dic.academic.ru",
+    "s": "http://dic.academic.ru/",
+    "t": "acad",
+    "u": "http://dic.academic.ru/searchall.php?SWord={{{s}}}"
+  },
+  {
+    "d": "www.allocine.fr",
+    "s": "Allociné",
+    "t": "ac",
+    "u": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "americancustomboxes.com",
+    "s": "American Custom Boxes",
+    "t": "acb",
+    "u": "https://americancustomboxes.com/?s={{{s}}}"
+  },
+  {
+    "d": "aleth.io",
+    "s": "aleth.io account address",
+    "t": "acc",
+    "u": "https://aleth.io/account/{{{s}}}"
+  },
+  {
+    "d": "www.accc.gov.au",
+    "s": "Australian Competition and Consumer Commission",
+    "t": "accc",
+    "u": "https://www.accc.gov.au/site-search/{{{s}}}"
+  },
+  {
+    "d": "www.accountcia.com",
+    "s": "Accountcia",
+    "t": "accountcia",
+    "u": "https://www.accountcia.com/?geodir_search=1&stype=gd_place&sgd_placecategory%5B%5D=&s={{{s}}}"
+  },
+  {
+    "d": "www.accountkiller.com",
+    "s": "Account Killer",
+    "t": "accountkiller",
+    "u": "http://www.accountkiller.com/en/delete-{{{s}}}-account"
+  },
+  {
+    "d": "www.accuweather.com",
+    "s": "AccuWeather",
+    "t": "accuweather",
+    "u": "http://www.accuweather.com/us-city-list.asp?zipcode={{{s}}}"
+  },
+  {
+    "d": "www.acehardware.com",
+    "s": "Ace Hardware",
+    "t": "ace",
+    "u": "http://www.acehardware.com/search/index.jsp?kwCatId=&kw={{{s}}}&origkw={{{s}}}&f=Taxonomy/ACE/19541496&sr=1"
+  },
+  {
+    "d": "forum.acelaboratory.com",
+    "s": "AceLab official forum",
+    "t": "aceforum",
+    "u": "http://forum.acelaboratory.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "us.acer.com",
+    "s": "Acer",
+    "t": "acer",
+    "u": "http://us.acer.com/ac/en/US/search?q={{{s}}}"
+  },
+  {
+    "d": "www.acfun.cn",
+    "s": "AcFun",
+    "t": "acfun",
+    "u": "http://www.acfun.cn/search/?#query={{{s}}} "
+  },
+  {
+    "d": "www.archchinese.com",
+    "s": "Arch Chinese",
+    "t": "ach",
+    "u": "http://www.archchinese.com/chinese_english_dictionary.html?find={{{s}}}"
+  },
+  {
+    "d": "www.amarchitrakatha.com",
+    "s": "Amar Chitra Katha Complete Collection",
+    "t": "ackuc",
+    "u": "https://www.amarchitrakatha.com/us/catalogsearch/result/?cat=0&q={{{s}}}"
+  },
+  {
+    "d": "www.aclweb.org",
+    "s": "ACL Anthology",
+    "t": "acl",
+    "u": "https://www.aclweb.org/anthology/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.aclu.org",
+    "s": "American Civil Liberties Union",
+    "t": "aclu",
+    "u": "https://www.aclu.org/search/{{{s}}}?show_aff=1"
+  },
+  {
+    "d": "dl.acm.org",
+    "s": "ACM Guide",
+    "t": "acm",
+    "u": "http://dl.acm.org/results.cfm?dlr=GUIDE&query={{{s}}}"
+  },
+  {
+    "d": "dl.acm.org",
+    "s": "ACM Digital Library",
+    "t": "acmdl",
+    "u": "https://dl.acm.org/results.cfm?query={{{s}}}"
+  },
+  {
+    "d": "www.amazon.cn",
+    "s": "Amazon.cn",
+    "t": "acn",
+    "u": "https://www.amazon.cn/s?k={{{s}}}"
+  },
+  {
+    "d": "www.acne.org",
+    "s": "Acne.org",
+    "t": "acne",
+    "u": "https://www.acne.org/search.php?i=&q={{{s}}}"
+  },
+  {
+    "d": "applecoach.nl",
+    "s": "Apple Coach",
+    "t": "acnl",
+    "u": "https://applecoach.nl/?s={{{s}}}"
+  },
+  {
+    "d": "cortas.elpais.com",
+    "s": "Cortas",
+    "t": "acortar",
+    "u": "http://cortas.elpais.com/encode.pl?u=http://{{{s}}}"
+  },
+  {
+    "d": "plugins.cordova.io",
+    "s": "Apache Cordova Plugins Registry",
+    "t": "acp",
+    "u": "http://plugins.cordova.io/#/search?search={{{s}}}"
+  },
+  {
+    "d": "acquiredby.co",
+    "s": "AcquiredBy",
+    "t": "acquiredby",
+    "u": "https://acquiredby.co/?s={{{s}}}"
+  },
+  {
+    "d": "www.acronymfinder.com",
+    "s": "Acronym Finder",
+    "t": "acr",
+    "u": "http://www.acronymfinder.com/{{{s}}}.html"
+  },
+  {
+    "d": "www.acronymfinder.com",
+    "s": "Acronyms",
+    "t": "acro",
+    "u": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+  },
+  {
+    "d": "www.acronymfinder.com",
+    "s": "Acronyms",
+    "t": "acronym",
+    "u": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+  },
+  {
+    "d": "www.acronymfinder.com",
+    "s": "Acronyms",
+    "t": "acronyms",
+    "u": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+  },
+  {
+    "d": "pubs.acs.org",
+    "s": "http://pubs.acs.org/",
+    "t": "acs",
+    "u": "http://pubs.acs.org/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "d": "www.activestate.com",
+    "s": "ActiveState.com",
+    "t": "activestate",
+    "u": "http://www.activestate.com/search/index.html?cx=005567415255730122040%3Aiof7ftsiexy&cof=FORID%3A11&sa.x=0&sa.y=0&q={{{s}}}#1013"
+  },
+  {
+    "d": "www.actuly.fr",
+    "s": "actuly",
+    "t": "actuly",
+    "u": "https://www.actuly.fr/?s={{{s}}}"
+  },
+  {
+    "d": "acurazine.com",
+    "s": "AcuraZine",
+    "t": "acurazine",
+    "u": "http://acurazine.com/forums/search.php?do=showgcs&query={{{s}}}"
+  },
+  {
+    "d": "animalcrossing.wikia.com",
+    "s": "Animal Crossing Wikia ",
+    "t": "acw",
+    "u": "http://animalcrossing.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "assassinscreed.fandom.com",
+    "s": "Assassin's Creed Wiki",
+    "t": "acwiki",
+    "u": "https://assassinscreed.fandom.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.ada-auth.org",
+    "s": "Ada 2005 Manual",
+    "t": "ada",
+    "u": "http://www.ada-auth.org/search-rm05.cgi?SearchA={{{s}}}&SearchO=&SearchN="
+  },
+  {
+    "d": "blog.adafruit.com",
+    "s": "Adafruit",
+    "t": "adablog",
+    "u": "https://blog.adafruit.com/?s={{{s}}}"
+  },
+  {
+    "d": "adaderana.lk",
+    "s": "AdaDerana",
+    "t": "adaderana",
+    "u": "http://adaderana.lk/search_results.php?mode=1&show=1&query={{{s}}}"
+  },
+  {
+    "d": "www.adafruit.com",
+    "s": "Adafruit",
+    "t": "adafruit",
+    "u": "https://www.adafruit.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.adagio.com",
+    "s": "Adagio Teas",
+    "t": "adagio",
+    "u": "http://www.adagio.com/search/index.html?query={{{s}}}"
+  },
+  {
+    "d": "apple.stackexchange.com",
+    "s": "Ask Different",
+    "t": "ad",
+    "u": "http://apple.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "arquivodabola.com.br",
+    "s": "Arquivo da Bola",
+    "t": "adb",
+    "u": "http://arquivodabola.com.br/busca.html?termo={{{s}}}"
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "Apple Developer Center",
+    "t": "adc",
+    "u": "https://developer.apple.com/search/index.php?q={{{s}}}"
+  },
+  {
+    "d": "www.addgene.org",
+    "s": "Addgene",
+    "t": "addgene",
+    "u": "https://www.addgene.org/search/advanced/?q={{{s}}}"
+  },
+  {
+    "d": "www.addictinggames.com",
+    "s": "Addicting Games",
+    "t": "addicting",
+    "u": "http://www.addictinggames.com/search/games.jsp?gameKeyword={{{s}}}"
+  },
+  {
+    "d": "www.addictinggames.com",
+    "s": "Addicting Games",
+    "t": "addicting-games",
+    "u": "http://www.addictinggames.com/search/games.jsp?gameKeyword={{{s}}}"
+  },
+  {
+    "d": "addons.prestashop.com",
+    "s": "PrestaShop Addons",
+    "t": "addons",
+    "u": "http://addons.prestashop.com/fr/recherche?search_query={{{s}}}"
+  },
+  {
+    "d": "getpocket.com",
+    "s": "Add to Pocket",
+    "t": "addtopocket",
+    "u": "https://getpocket.com/edit?url={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de",
+    "t": "a.de",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de",
+    "t": "ade",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de Fremdsprachige Bücher",
+    "t": "adefb",
+    "u": "https://www.amazon.de/s?k={{{s}}}&i=english-books"
+  },
+  {
+    "d": "woerterbuchnetz.de",
+    "s": "Adelung: Grammatisch-Kritisches Wörterbuch der Hochdeutschen Mundart",
+    "t": "adelung",
+    "u": "http://woerterbuchnetz.de/Adelung/?lemma={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.de",
+    "s": "Amazon.de Smile",
+    "t": "ades",
+    "u": "https://smile.amazon.de/s/ref=nb_sb_noss?field-keywords={{{s}}}"
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "Apple Developer",
+    "t": "adev",
+    "u": "https://developer.apple.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "forums.developer.apple.com",
+    "s": "Apple dev form",
+    "t": "adf",
+    "u": "https://forums.developer.apple.com/search.jspa?q={{{s}}}"
+  },
+  {
+    "d": "www.adiglobaldistribution.us",
+    "s": "ADI",
+    "t": "adi",
+    "u": "https://www.adiglobaldistribution.us/search?criteria={{{s}}}"
+  },
+  {
+    "d": "www.adidas.fr",
+    "s": "adidas",
+    "t": "adidas",
+    "u": "http://www.adidas.fr/search?q={{{s}}}"
+  },
+  {
+    "d": "adjective1.com",
+    "s": "Adjective1",
+    "t": "adjective",
+    "u": "http://adjective1.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.adlibris.com",
+    "s": "Adlibris",
+    "t": "adlibris",
+    "u": "https://www.adlibris.com/se/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.adlibris.com",
+    "s": "AdLibris DK",
+    "t": "adlibrisdk",
+    "u": "http://www.adlibris.com/dk/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+  },
+  {
+    "d": "www.adlibris.com",
+    "s": "AdLibris FI",
+    "t": "adlibrisfi",
+    "u": "http://www.adlibris.com/fi/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+  },
+  {
+    "d": "www.adlibris.com",
+    "s": "AdLibris NO",
+    "t": "adlibrisno",
+    "u": "http://www.adlibris.com/no/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+  },
+  {
+    "d": "www.adlibris.com",
+    "s": "AdLibris SE",
+    "t": "adlibrisse",
+    "u": "http://www.adlibris.com/se/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+  },
+  {
+    "d": "www.adme.ru",
+    "s": "Adme.ru",
+    "t": "adme",
+    "u": "https://www.adme.ru/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.adminwiki.fr",
+    "s": "AdminWiki",
+    "t": "adminwiki",
+    "u": "https://www.adminwiki.fr/start?do=search&id={{{s}}}"
+  },
+  {
+    "d": "animedigitalnetwork.fr",
+    "s": "AnimeDigitalNetwork",
+    "t": "adn",
+    "u": "http://animedigitalnetwork.fr/video#search={{{s}}}"
+  },
+  {
+    "d": "www.adobe.com",
+    "s": "Adobe",
+    "t": "adobe",
+    "u": "http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term={{{s}}}"
+  },
+  {
+    "d": "docs.ansible.com",
+    "s": "Ansible Docs",
+    "t": "adoc",
+    "u": "https://docs.ansible.com/ansible/latest/search.html?q={{{s}}}"
+  },
+  {
+    "d": "ancardia.wikia.com",
+    "s": "ADOM Wiki",
+    "t": "adom",
+    "u": "http://ancardia.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.adorama.com",
+    "s": "Adorama",
+    "t": "ador",
+    "u": "https://www.adorama.com/l/?searchinfo={{{s}}}"
+  },
+  {
+    "d": "adrenaline.uol.com.br",
+    "s": "Adrenaline",
+    "t": "adr",
+    "u": "https://adrenaline.uol.com.br/site/pesquisa/{{{s}}}"
+  },
+  {
+    "d": "adsabs.harvard.edu",
+    "s": "SAO/NASA Astrophysics Data System",
+    "t": "adsabs",
+    "u": "http://adsabs.harvard.edu//cgi-bin/basic_connect?qsearch={{{s}}}"
+  },
+  {
+    "d": "ui.adsabs.harvard.edu",
+    "s": "ADS bumblebee",
+    "t": "ads",
+    "u": "https://ui.adsabs.harvard.edu/#search/q={{{s}}}"
+  },
+  {
+    "d": "ui.adsabs.harvard.edu",
+    "s": "Nasa ADS Beta",
+    "t": "adsbeta",
+    "u": "https://ui.adsabs.harvard.edu/#search/q={{{s}}}"
+  },
+  {
+    "d": "forums.autodesk.com",
+    "s": "Autodesk Community",
+    "t": "adsk",
+    "u": "http://forums.autodesk.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "d": "labs.adsabs.harvard.edu",
+    "s": "NASA ADS Labs",
+    "t": "adslabs",
+    "u": "http://labs.adsabs.harvard.edu/ui/cgi-bin/topicSearch?q={{{s}}}"
+  },
+  {
+    "d": "www.adsrsounds.com",
+    "s": "ADSR Sounds",
+    "t": "adsr",
+    "u": "https://www.adsrsounds.com/?src={{{s}}}"
+  },
+  {
+    "d": "adsabs.harvard.edu",
+    "s": "NASA ADS Bibliographical reference search",
+    "t": "adsref",
+    "u": "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=ALL&bibcode={{{s}}} "
+  },
+  {
+    "d": "careers.adtalem.com",
+    "s": "Adtalem Careers",
+    "t": "adtalem",
+    "u": "https://careers.adtalem.com/us/en/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Adventure Rider",
+    "t": "adv",
+    "u": "https://duckduckgo.com/?q=site%3Aadvrider.com+{{{s}}}"
+  },
+  {
+    "d": "www.adverts.ie",
+    "s": "Adverts.ie",
+    "t": "adverts",
+    "u": "http://www.adverts.ie/for-sale/q_{{{s}}}/"
+  },
+  {
+    "d": "uk.advfn.com",
+    "s": "ADVFN UK",
+    "t": "advfn",
+    "u": "http://uk.advfn.com/p.php?pid=qkquote&symbol={{{s}}} "
+  },
+  {
+    "d": "advancedgta.com",
+    "s": "Advanced GTA",
+    "t": "advgta",
+    "u": "https://advancedgta.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.audeze.com",
+    "s": "Audeze",
+    "t": "adz",
+    "u": "https://www.audeze.com/search?q={{{s}}}*"
+  },
+  {
+    "d": "www.adzuna.co.uk",
+    "s": "Adzuna",
+    "t": "adzuna",
+    "u": "https://www.adzuna.co.uk/jobs/search?q={{{s}}} "
+  },
+  {
+    "d": "www.aliexpress.com",
+    "s": "aliexpress.com",
+    "t": "ae",
+    "u": "https://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+  },
+  {
+    "d": "austria-forum.org",
+    "s": "Austria Forum",
+    "t": "aeiou",
+    "u": "https://austria-forum.org/Search.jsp?category=Austria-Forum&sname=name%2Csuchbegriff&query={{{s}}}+&searchType=default&useShortcuts=y&useSynonyms=n&doFuzzy=y&minResults=15"
+  },
+  {
+    "d": "www.aemet.es",
+    "s": "AEMET",
+    "t": "aemet",
+    "u": "http://www.aemet.es/es/buscador?modo=and&orden=n&tipo=sta&str={{{s}}}"
+  },
+  {
+    "d": "www.ae.com",
+    "s": "American Eagle Outfitters",
+    "t": "aeo",
+    "u": "https://www.ae.com/search/{{{s}}}"
+  },
+  {
+    "d": "ae7q.com",
+    "s": "AE7Q Amateur Extra Query Tools",
+    "t": "aeq",
+    "u": "http://ae7q.com/query/data/CallHistory.php?CALL={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "aeris - imirhil.fr",
+    "t": "aeris",
+    "u": "https://duckduckgo.com/?q=site%3Aimirhil.fr+{{{s}}}"
+  },
+  {
+    "d": "www.aerobis.com",
+    "s": "aerobis fitness",
+    "t": "aerobis",
+    "u": "https://www.aerobis.com/en/?s={{{s}}}"
+  },
+  {
+    "d": "www.amazon.es",
+    "s": "Amazon ES",
+    "t": "a.es",
+    "u": "https://www.amazon.es/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.es",
+    "s": "Amazon.es",
+    "t": "aes",
+    "u": "https://www.amazon.es/s?k={{{s}}}"
+  },
+  {
+    "d": "www.acronymfinder.com",
+    "s": "Acronym Finder",
+    "t": "af",
+    "u": "http://www.acronymfinder.com/{{{s}}}.html"
+  },
+  {
+    "d": "www.arsenal.com",
+    "s": "Arsenal",
+    "t": "afc",
+    "u": "https://www.arsenal.com/search?search={{{s}}}"
+  },
+  {
+    "d": "www.afcindustries.com",
+    "s": "AFC Industries",
+    "t": "afcind",
+    "u": "https://www.afcindustries.com/products/search.aspx?search={{{s}}}"
+  },
+  {
+    "d": "androidfilehost.com",
+    "s": "Android File Host",
+    "t": "afh",
+    "u": "https://androidfilehost.com/?w=search&s={{{s}}}"
+  },
+  {
+    "d": "aalto.finna.fi",
+    "s": "aalto.finna.fi",
+    "t": "afinna",
+    "u": "https://aalto.finna.fi/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "d": "learn.adafruit.com",
+    "s": "Adafruit Learn",
+    "t": "afl",
+    "u": "https://learn.adafruit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.afpforum.com",
+    "s": "AFP",
+    "t": "afp",
+    "u": "http://www.afpforum.com/AFPForum/Search/Results.aspx?pn=1&smd=8&fst={{{s}}}&fto=7&mui=3&t=2"
+  },
+  {
+    "d": "www.afpforum.com",
+    "s": "AFP",
+    "t": "afpf",
+    "u": "http://www.afpforum.com/AFPForum/Search/Results.aspx?pn=1&smd=8&fst={{{s}}}&fto=7&mui=3&t=2"
+  },
+  {
+    "d": "afpl.ent.sirsi.net",
+    "s": "Atlanta-Fulton Public Library System",
+    "t": "afpls",
+    "u": "http://afpl.ent.sirsi.net/client/default/search/results?qu={{{s}}}&te=ILS"
+  },
+  {
+    "d": "www.e-publishing.af.mil",
+    "s": "U.S. Air Force Forms and Publications",
+    "t": "afpubs",
+    "u": "http://www.e-publishing.af.mil/index.asp?txtSearchWord={{{s}}}&rdoFormPub=rdoPub"
+  },
+  {
+    "d": "www.amazon.fr",
+    "s": "Amazon.fr",
+    "t": "afr",
+    "u": "https://www.amazon.fr/s?k={{{s}}}"
+  },
+  {
+    "d": "www.adafruit.com",
+    "s": "Adafruit",
+    "t": "aft",
+    "u": "https://www.adafruit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "track.aftership.com",
+    "s": "Aftership",
+    "t": "aftership",
+    "u": "https://track.aftership.com/{{{s}}}"
+  },
+  {
+    "d": "aftvhacks.de",
+    "s": "aftvhacks",
+    "t": "aftvhacks",
+    "u": "https://aftvhacks.de/?s={{{s}}}"
+  },
+  {
+    "d": "af.wikipedia.org",
+    "s": "Afrikaans Wikipedia",
+    "t": "afwiki",
+    "u": "https://af.wikipedia.org/w/index.php?search={{{s}}}&title=Spesiaal%3ASoek&go=Wys"
+  },
+  {
+    "d": "www.agame.com",
+    "s": "Agame",
+    "t": "agame",
+    "u": "http://www.agame.com/search?searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.anaitgames.com",
+    "s": "AnaitGames",
+    "t": "agames",
+    "u": "https://www.anaitgames.com/buscador.php?search={{{s}}}"
+  },
+  {
+    "d": "www.android.gs",
+    "s": "Android Geeks",
+    "t": "ag",
+    "u": "http://www.android.gs/?s=&q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "The Annotated Grateful Dead Lyrics",
+    "t": "agdl",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/+!"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon Germany",
+    "t": "age",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon Germany",
+    "t": "ager",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "android-review.googlesource.com",
+    "s": "Android Code Review (Gerrit)",
+    "t": "agerrit",
+    "u": "https://android-review.googlesource.com/q/{{{s}}}"
+  },
+  {
+    "d": "www.arturogoga.com",
+    "s": "arturogoga",
+    "t": "agoga",
+    "u": "https://www.arturogoga.com/?s={{{s}}}"
+  },
+  {
+    "d": "agora.gg",
+    "s": "http://agora.gg",
+    "t": "agora",
+    "u": "http://agora.gg/search/{{{s}}}"
+  },
+  {
+    "d": "agora.co.il",
+    "s": "Agora.co.il",
+    "t": "agorail",
+    "u": "https://agora.co.il/toGet.asp?iseek={{{s}}}"
+  },
+  {
+    "d": "www.agrireseau.net",
+    "s": "Agri-Réseau",
+    "t": "agri",
+    "u": "https://www.agrireseau.net/documents?r={{{s}}}"
+  },
+  {
+    "d": "agricola.nal.usda.gov",
+    "s": "AGRICOLA",
+    "t": "agricola",
+    "u": "https://agricola.nal.usda.gov/vwebv/search?searchArg={{{s}}}&searchCode=GKEY%5E&setLimit=1&recCount=10&searchType=1&page.search.search.button=Search"
+  },
+  {
+    "d": "adventuregamers.com",
+    "s": "Adventure Gamers",
+    "t": "ags",
+    "u": "https://adventuregamers.com/games/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.ah.nl",
+    "s": "Albert Heijn",
+    "t": "ah",
+    "u": "https://www.ah.nl/zoeken?rq={{{s}}}"
+  },
+  {
+    "d": "ahdictionary.com",
+    "s": "american heritage dictionary",
+    "t": "ahd",
+    "u": "https://ahdictionary.com/word/search.html?q={{{s}}}&submit.x=0&submit.y=0"
+  },
+  {
+    "d": "arkhamdb.com",
+    "s": "ArkhamDB",
+    "t": "ahdb",
+    "u": "https://arkhamdb.com/find?q={{{s}}}"
+  },
+  {
+    "d": "www.autohotkey.com",
+    "s": "AutoHotkey",
+    "t": "ahk",
+    "u": "http://www.autohotkey.com/search/search.php?site=4&refine=0&template_demo=phpdig.html&result_page=search.php&search=Go+...&limite=100&option=start&path=docs/&query_string={{{s}}}"
+  },
+  {
+    "d": "ahmetcadirci.com.tr",
+    "s": "Ahmet Çadırcı",
+    "t": "ahmetcadirci",
+    "u": "https://ahmetcadirci.com.tr/search/?q={{{s}}}"
+  },
+  {
+    "d": "ahmia.fi",
+    "s": "Ahmia.fi",
+    "t": "ahmia",
+    "u": "https://ahmia.fi/search/?q={{{s}}}"
+  },
+  {
+    "d": "ahrefs.com",
+    "s": "ahrefs",
+    "t": "ahrefs",
+    "u": "https://ahrefs.com/site-explorer/overview/v2/subdomains/recent?target={{{s}}}"
+  },
+  {
+    "d": "www.arkhamhorrorwiki.com",
+    "s": "Arkham Horror Wiki",
+    "t": "ahw",
+    "u": "http://www.arkhamhorrorwiki.com/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.duckduckgo.com",
+    "s": "Duck.ai",
+    "t": "aichat",
+    "u": "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true "
+  },
+  {
+    "d": "www.aidaily.co.uk",
+    "s": "AIDaily",
+    "t": "aidaily",
+    "u": "https://www.aidaily.co.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "aidenpromotions.com",
+    "s": "Aiden Promtions",
+    "t": "aiden",
+    "u": "https://aidenpromotions.com/blog/?s=phones {{{s}}}"
+  },
+  {
+    "d": "www.aifittings.com",
+    "s": "Arlington Industries",
+    "t": "aifit",
+    "u": "http://www.aifittings.com/searchResults?q={{{s}}}"
+  },
+  {
+    "d": "aikatsu-friends.wikia.com",
+    "s": "Aikatsu Friends Wikia",
+    "t": "aifriends",
+    "u": "http://aikatsu-friends.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.aihitdata.com",
+    "s": "aihit",
+    "t": "aihit",
+    "u": "https://www.aihitdata.com/search/companies?i={{{s}}}"
+  },
+  {
+    "d": "ai-jobs.net",
+    "s": "ai-jobs.net",
+    "t": "aijobs",
+    "u": "https://ai-jobs.net/?search_keywords={{{s}}}"
+  },
+  {
+    "d": "aikatsu.wikia.com",
+    "s": "Aikatsu Wikia",
+    "t": "aikatsu",
+    "u": "http://aikatsu.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.amazon.in",
+    "s": "Amazon India",
+    "t": "a.in",
+    "u": "https://www.amazon.in/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.in",
+    "s": "Amazon India",
+    "t": "ain",
+    "u": "https://www.amazon.in/s?k={{{s}}}"
+  },
+  {
+    "d": "aion.wikia.com",
+    "s": "Aion Wiki",
+    "t": "aion",
+    "u": "http://aion.wikia.com/wiki/index.php?search={{{s}}}&fulltext=0"
+  },
+  {
+    "d": "scitation.aip.org",
+    "s": "aip.org",
+    "t": "aip",
+    "u": "http://scitation.aip.org/search?value1={{{s}}}&option1=fulltext"
+  },
+  {
+    "d": "www.air1.com",
+    "s": "Air1",
+    "t": "air1",
+    "u": "http://www.air1.com/search.aspx?searchterm={{{s}}}"
+  },
+  {
+    "d": "www.airbnb.com",
+    "s": "airbnb",
+    "t": "airbnb",
+    "u": "https://www.airbnb.com/s/{{{s}}}"
+  },
+  {
+    "d": "airforums.com",
+    "s": "Airforums",
+    "t": "airforums",
+    "u": "http://airforums.com/?={{{s}}}:"
+  },
+  {
+    "d": "www.airframes.org",
+    "s": "Aircraft Registration Database Lookup",
+    "t": "airframes",
+    "u": "http://www.airframes.org/reg/{{{s}}}"
+  },
+  {
+    "d": "www.airlinehyd.com",
+    "s": "Airline Hydraulics",
+    "t": "airlinehyd",
+    "u": "https://www.airlinehyd.com/Results.aspx?srh={{{s}}}"
+  },
+  {
+    "d": "www.airliners.net",
+    "s": "Airliners.net",
+    "t": "airliners",
+    "u": "http://www.airliners.net/search?keywords={{{s}}}"
+  },
+  {
+    "d": "air.mozilla.org",
+    "s": "Air Mozilla",
+    "t": "airmo",
+    "u": "https://air.mozilla.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "airnav.com",
+    "s": "AirNav",
+    "t": "airn",
+    "u": "https://airnav.com/airport/{{{s}}}"
+  },
+  {
+    "d": "airnav.com",
+    "s": "Airnav",
+    "t": "airnav",
+    "u": "http://airnav.com/airport/{{{s}}}"
+  },
+  {
+    "d": "www.goodtobreathein.com",
+    "s": "Good To Breathe In",
+    "t": "airquality",
+    "u": "https://www.goodtobreathein.com/?zipcode={{{s}}}"
+  },
+  {
+    "d": "www.airsoftdb.com",
+    "s": "Airsoftdb",
+    "t": "airsoftdb",
+    "u": "https://www.airsoftdb.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "archive.is",
+    "s": "archive.is",
+    "t": "ais",
+    "u": "http://archive.is/{{{s}}}"
+  },
+  {
+    "d": "www.aish.com",
+    "s": "Aish",
+    "t": "aish",
+    "u": "http://www.aish.com/search/?keywords={{{s}}}"
+  },
+  {
+    "d": "aikatsustars.wikia.com",
+    "s": "Aikatsu Stars Wikia",
+    "t": "aistars",
+    "u": "http://aikatsustars.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.amazon.it",
+    "s": "Amazon.it",
+    "t": "ait",
+    "u": "https://www.amazon.it/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.it",
+    "s": "Amazon IT",
+    "t": "a.it",
+    "u": "https://www.amazon.it/s?k={{{s}}}"
+  },
+  {
+    "d": "aitopics.org",
+    "s": "AITopics",
+    "t": "aitopics",
+    "u": "https://aitopics.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.duckduckgo.com",
+    "s": "Duck.ai",
+    "t": "ai",
+    "u": "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true "
+  },
+  {
+    "d": "america.aljazeera.com",
+    "s": "Al Jazeera America",
+    "t": "aja",
+    "u": "http://america.aljazeera.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.alljapaneseallthetime.com",
+    "s": "All Japanese All the Time",
+    "t": "ajatt",
+    "u": "http://www.alljapaneseallthetime.com/blog/?s={{{s}}}"
+  },
+  {
+    "d": "www.achajogobarato.com.br",
+    "s": "Acha Jogo Barato",
+    "t": "ajb",
+    "u": "http://www.achajogobarato.com.br/search.html?query={{{s}}}"
+  },
+  {
+    "d": "www.aljazeera.com",
+    "s": "Al Jazeera (English)",
+    "t": "aje",
+    "u": "http://www.aljazeera.com/Search/?q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.jp",
+    "s": "http://amazon.co.jp",
+    "t": "aj",
+    "u": "https://www.amazon.co.jp/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.jp",
+    "s": "Amazon.co.jp",
+    "t": "ajl",
+    "u": "https://www.amazon.co.jp/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.jp",
+    "s": "Amazon.co.jp",
+    "t": "ajp",
+    "u": "https://www.amazon.co.jp/s?k={{{s}}}"
+  },
+  {
+    "d": "www.accountkiller.com",
+    "s": "Account Killer",
+    "t": "ak",
+    "u": "https://www.accountkiller.com/en/delete-{{{s}}}-account"
+  },
+  {
+    "d": "www.akakce.com",
+    "s": "Akakçe",
+    "t": "akakce",
+    "u": "http://www.akakce.com/arama/?q={{{s}}}"
+  },
+  {
+    "d": "www.akc.org",
+    "s": "American Kennel Club",
+    "t": "akc",
+    "u": "https://www.akc.org/?s={{{s}}}"
+  },
+  {
+    "d": "akizukidenshi.com",
+    "s": "akizukidenshi",
+    "t": "akiduki",
+    "u": "http://akizukidenshi.com/catalog/goods/search.aspx?keyword= {{{s}}}&goods=&number=&name=&min_price=&max_price=&search.x=0&search.y=0"
+  },
+  {
+    "d": "www.allkeyshop.com",
+    "s": "AllKeyShop",
+    "t": "aks",
+    "u": "http://www.allkeyshop.com/blog/catalogue/search-{{{s}}}/"
+  },
+  {
+    "d": "www.aktuality.sk",
+    "s": "Aktuality",
+    "t": "aktuality",
+    "u": "https://www.aktuality.sk/vyhladavanie/?q={{{s}}}"
+  },
+  {
+    "d": "www.aktualne.cz",
+    "s": "Aktuálně.cz",
+    "t": "aktualne",
+    "u": "https://www.aktualne.cz/hledani/?query={{{s}}}"
+  },
+  {
+    "d": "www.alamaula.com",
+    "s": "alaMaula",
+    "t": "ala",
+    "u": "http://www.alamaula.com/q/{{{s}}}/S0"
+  },
+  {
+    "d": "aladi.diba.cat",
+    "s": "Catàleg de la Xarxa de Biblioteques Municipals de la Diputació de Barcelona",
+    "t": "aladi",
+    "u": "https://aladi.diba.cat/search*cat/-{{{s}}}"
+  },
+  {
+    "d": "www.aladin.co.kr",
+    "s": "aladin",
+    "t": "aladin",
+    "u": "http://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord={{{s}}}"
+  },
+  {
+    "d": "anilist.co",
+    "s": "AniList",
+    "t": "al",
+    "u": "https://anilist.co/search/anime?search={{{s}}}"
+  },
+  {
+    "d": "archlinuxarm.org",
+    "s": "Arch Linux ARM Packages",
+    "t": "alarmpkg",
+    "u": "https://archlinuxarm.org/packages/?q={{{s}}}"
+  },
+  {
+    "d": "alatest.de",
+    "s": "alaTest",
+    "t": "alatest",
+    "u": "http://alatest.de/searchaction.html?keyword1={{{s}}}"
+  },
+  {
+    "d": "bie.ala.org.au",
+    "s": "Atlas of Living Australia",
+    "t": "alaus",
+    "u": "https://bie.ala.org.au/search?q={{{s}}}"
+  },
+  {
+    "d": "www.alibaba.com",
+    "s": "alibaba",
+    "t": "alb",
+    "u": "https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText={{{s}}}"
+  },
+  {
+    "d": "www.alberta.ca",
+    "s": "Government of Alberta",
+    "t": "alberta",
+    "u": "https://www.alberta.ca/search-results.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.ah.nl",
+    "s": "Albert Hein",
+    "t": "alberthein",
+    "u": "http://www.ah.nl/zoeken?rq={{{s}}}"
+  },
+  {
+    "d": "www.albumartexchange.com",
+    "s": "Album Art Exchange",
+    "t": "albex",
+    "u": "http://www.albumartexchange.com/covers.php?q={{{s}}} "
+  },
+  {
+    "d": "www.allmusic.com",
+    "s": "AllMusic Albums",
+    "t": "album",
+    "u": "http://www.allmusic.com/search/albums/{{{s}}}"
+  },
+  {
+    "d": "www.albumart.org",
+    "s": "Albumart (Music)",
+    "t": "albumartcd",
+    "u": "http://www.albumart.org/index.php?skey={{{s}}}&itempage=1&newsearch=1&searchindex=Music"
+  },
+  {
+    "d": "www.albumart.org",
+    "s": "Albumart (DVD)",
+    "t": "albumartdvd",
+    "u": "http://www.albumart.org/index.php?skey={{{s}}}&itempage=1&newsearch=1&searchindex=DVD"
+  },
+  {
+    "d": "bendodson.com",
+    "s": "iTunes Album Artwork Finder",
+    "t": "albumart",
+    "u": "https://bendodson.com/projects/itunes-artwork-finder/index.html?entity=album&country=us&query={{{s}}}"
+  },
+  {
+    "d": "www.allmusic.com",
+    "s": "AllMusic Albums",
+    "t": "albums",
+    "u": "http://www.allmusic.com/search/albums/{{{s}}}"
+  },
+  {
+    "d": "eow.alc.co.jp",
+    "s": "Alc Japanese English Dictionary",
+    "t": "alc",
+    "u": "http://eow.alc.co.jp/search?q={{{s}}}"
+  },
+  {
+    "d": "biznesalert.pl",
+    "s": "BiznesAlert",
+    "t": "alert",
+    "u": "http://biznesalert.pl/?s={{{s}}}"
+  },
+  {
+    "d": "www.alesund.kommune.no",
+    "s": "alesund kommune",
+    "t": "alesund",
+    "u": "http://www.alesund.kommune.no/component/finder/search?q={{{s}}}&Itemid=406"
+  },
+  {
+    "d": "alexa.com",
+    "s": "Alexa",
+    "t": "alexa",
+    "u": "http://alexa.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.alexalt.es",
+    "s": "Alexalt",
+    "t": "alexalt",
+    "u": "https://www.alexalt.es/?s={{{s}}}"
+  },
+  {
+    "d": "www.alexa.com",
+    "s": "alexa",
+    "t": "alexasi",
+    "u": "http://www.alexa.com/siteinfo/{{{s}}}"
+  },
+  {
+    "d": "alexion.nl",
+    "s": "Alexion CRM software",
+    "t": "alexion",
+    "u": "http://alexion.nl/?s={{{s}}}&post_type=faq"
+  },
+  {
+    "d": "www.alexshoes.com.br",
+    "s": "AlexShoes Calçados",
+    "t": "alexshoes",
+    "u": "http://www.alexshoes.com.br/buscacomfab.asp?chaves={{{s}}}"
+  },
+  {
+    "d": "www.alfinsight.com",
+    "s": "ALF Insight",
+    "t": "alf",
+    "u": "https://www.alfinsight.com/app/SearchResults?quickSearch={{{s}}} "
+  },
+  {
+    "d": "www.alfredapp.com",
+    "s": "Alfred",
+    "t": "alfred",
+    "u": "https://www.alfredapp.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.algomation.com",
+    "s": "Algomation",
+    "t": "alg",
+    "u": "http://www.algomation.com/search?q={{{s}}}"
+  },
+  {
+    "d": "algorithmia.com",
+    "s": "Algorithmia",
+    "t": "algo",
+    "u": "https://algorithmia.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.aliexpress.com",
+    "s": "Aliexpress",
+    "t": "ali",
+    "u": "https://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+  },
+  {
+    "d": "www.alibaba.com",
+    "s": "Alibaba",
+    "t": "alibaba",
+    "u": "http://www.alibaba.com/trade/search?SearchText={{{s}}}"
+  },
+  {
+    "d": "discover.elgar.govt.nz",
+    "s": "Auckland Libraries",
+    "t": "alib",
+    "u": "https://discover.elgar.govt.nz/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def"
+  },
+  {
+    "d": "www.alibris.com",
+    "s": "alibris",
+    "t": "alibris",
+    "u": "http://www.alibris.com/booksearch?keyword={{{s}}}"
+  },
+  {
+    "d": "www.abretelibro.com",
+    "s": "Ábrete libro",
+    "t": "alibro",
+    "u": "http://www.abretelibro.com/foro/search.php?keywords={{{s}}}&sf=titleonly"
+  },
+  {
+    "d": "www.abretelibro.com",
+    "s": "Ábrete libro",
+    "t": "alibros",
+    "u": "http://www.abretelibro.com/foro/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "mail.alice.it",
+    "s": "Alice Mail",
+    "t": "alicemail",
+    "u": "https://mail.alice.it/?q={{{s}}}"
+  },
+  {
+    "d": "www.aliexpress.com",
+    "s": "Aliexpress",
+    "t": "aliexp",
+    "u": "http://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+  },
+  {
+    "d": "www.aliexpress.com",
+    "s": "Aliexpress",
+    "t": "aliexpress",
+    "u": "http://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+  },
+  {
+    "d": "careers.alight.com",
+    "s": "Alight",
+    "t": "alight",
+    "u": "https://careers.alight.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "m.aliexpress.com",
+    "s": "AliExpress Mobile",
+    "t": "alim",
+    "u": "https://m.aliexpress.com/search.htm?keywords={{{s}}}"
+  },
+  {
+    "d": "alipaczka.pl",
+    "s": "AliPaczka",
+    "t": "alipaczka",
+    "u": "https://alipaczka.pl/?track={{{s}}}"
+  },
+  {
+    "d": "aliseeks.com",
+    "s": "Aliseeks",
+    "t": "aliseeks",
+    "u": "http://aliseeks.com/search?SearchText={{{s}}}"
+  },
+  {
+    "d": "english.aljazeera.net",
+    "s": "Aljazeera English",
+    "t": "aljazeera",
+    "u": "http://english.aljazeera.net/Services/Search/?q={{{s}}}"
+  },
+  {
+    "d": "www.alko.fi",
+    "s": "Alko",
+    "t": "alko",
+    "u": "https://www.alko.fi/INTERSHOP/web/WFS/Alko-OnlineShop-Site/fi_FI/-/EUR/ViewParametricSearchBySearchIndex-SimpleGenericSearch?SearchTerm={{{s}}}"
+  },
+  {
+    "d": "www.allabolag.se",
+    "s": "Alla Bolag",
+    "t": "allabolag",
+    "u": "https://www.allabolag.se/what/{{{s}}}"
+  },
+  {
+    "d": "www.allaboutcircuits.com",
+    "s": "allaboutcircuits",
+    "t": "allaboutcircuits",
+    "u": "http://www.allaboutcircuits.com/scripts/search.html?cx=006978388026519765659%3Ahg719j5vhl8&cof=FORID%3A9&q={{{s}}}&sa=Find"
+  },
+  {
+    "d": "www.allacronyms.com",
+    "s": "All Acronyms",
+    "t": "allacronyms",
+    "u": "https://www.allacronyms.com/{{{s}}}"
+  },
+  {
+    "d": "all-io.net",
+    "s": "All in One",
+    "t": "all",
+    "u": "http://all-io.net/?q={{{s}}}"
+  },
+  {
+    "d": "biblez.com",
+    "s": "Online Parallel Bible",
+    "t": "allbibles",
+    "u": "http://biblez.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.all.biz",
+    "s": "AllBiz",
+    "t": "allbiz",
+    "u": "http://www.all.biz/search/goods/?q={{{s}}}"
+  },
+  {
+    "d": "allegro.pl",
+    "s": "Allegro",
+    "t": "allegro",
+    "u": "https://allegro.pl/listing?string={{{s}}}"
+  },
+  {
+    "d": "www.allelectronics.com",
+    "s": "All Electronics",
+    "t": "allelec",
+    "u": "http://www.allelectronics.com/index.php?page=seek&id%5Bm%5D=pattern&id%5Bq%5D={{{s}}}"
+  },
+  {
+    "d": "www.ah.nl",
+    "s": "Allerhande",
+    "t": "allerhande",
+    "u": "https://www.ah.nl/allerhande/recepten-zoeken?Ntt={{{s}}}"
+  },
+  {
+    "d": "www.allerstorfer.at",
+    "s": "Allerstorfer.at",
+    "t": "allerstorfer",
+    "u": "https://www.allerstorfer.at/?s={{{s}}}"
+  },
+  {
+    "d": "en.allexperts.com",
+    "s": "All Experts",
+    "t": "allexperts",
+    "u": "http://en.allexperts.com/sitesearch.htm?terms={{{s}}}"
+  },
+  {
+    "d": "alliancechampions.com",
+    "s": "Alliance Champions Training Center",
+    "t": "alliance",
+    "u": "https://alliancechampions.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.alliedelec.com",
+    "s": "Allied Electronics",
+    "t": "alliedelec",
+    "u": "http://www.alliedelec.com/search/results.aspx?term={{{s}}}"
+  },
+  {
+    "d": "allmovie.com",
+    "s": "AllMovie",
+    "t": "allmovie",
+    "u": "http://allmovie.com/search/all/{{{s}}}"
+  },
+  {
+    "d": "www.allmusic.com",
+    "s": "All Music",
+    "t": "allmus",
+    "u": "https://www.allmusic.com/search/all/{{{s}}}"
+  },
+  {
+    "d": "www.allmusic.com",
+    "s": "AllMusic",
+    "t": "allmusic",
+    "u": "http://www.allmusic.com/search/all/{{{s}}}"
+  },
+  {
+    "d": "www.allocine.fr",
+    "s": "Allociné",
+    "t": "allo",
+    "u": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "www.allocine.fr",
+    "s": "Allocine.com",
+    "t": "allocine",
+    "u": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "www.allocine.fr",
+    "s": "Allociné",
+    "t": "allociné",
+    "u": "http://www.allocine.fr/recherche/?q={{{s}}}"
+  },
+  {
+    "d": "www.allposters.com",
+    "s": "All Posters",
+    "t": "allposters",
+    "u": "http://www.allposters.com/gallery.asp?txtSearch={{{s}}}"
+  },
+  {
+    "d": "allrecipes.com",
+    "s": "Allrecipes",
+    "t": "allrecipes",
+    "u": "http://allrecipes.com/search/results/?wt={{{s}}}"
+  },
+  {
+    "d": "www.allsides.com",
+    "s": "AllSides",
+    "t": "allsides",
+    "u": "https://www.allsides.com/allsides-search-results?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "allsongs.tv",
+    "s": "AllSongs",
+    "t": "allsongs",
+    "u": "http://allsongs.tv/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.almaany.com",
+    "s": "almaany",
+    "t": "almaanyar",
+    "u": "http://www.almaany.com/ar/dict/ar-ar/{{{s}}}"
+  },
+  {
+    "d": "www.almaany.com",
+    "s": "Almaany",
+    "t": "almaanyen",
+    "u": "http://www.almaany.com/ar/dict/ar-en/{{{s}}}/"
+  },
+  {
+    "d": "www.almaany.com",
+    "s": "Almaany persian",
+    "t": "almaanyfa",
+    "u": "https://www.almaany.com/ar/dict/ar-fa/{{{s}}}/"
+  },
+  {
+    "d": "www.almanac.com",
+    "s": "The Old Farmer's Almanac",
+    "t": "almanac",
+    "u": "http://www.almanac.com/store/product-search?keys={{{s}}}"
+  },
+  {
+    "d": "www.almedina.net",
+    "s": "Livraria Almedina",
+    "t": "almedina",
+    "u": "https://www.almedina.net/search.php?query={{{s}}}"
+  },
+  {
+    "d": "www.alnatura.de",
+    "s": "Alnatura(DE)",
+    "t": "alnaturade",
+    "u": "http://www.alnatura.de/de-de/suche?q={{{s}}}"
+  },
+  {
+    "d": "www.alo.bg",
+    "s": "alo.bg",
+    "t": "alobg",
+    "u": "https://www.alo.bg/searchq/?q={{{s}}}"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "Arch Linux Packages",
+    "t": "alp",
+    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}"
+  },
+  {
+    "d": "www.wolframalpha.com",
+    "s": "Wolfram|Alpha",
+    "t": "alpha",
+    "u": "http://www.wolframalpha.com/input/?i={{{s}}}"
+  },
+  {
+    "d": "pkgs.alpinelinux.org",
+    "s": "Alpine packages",
+    "t": "alpine",
+    "u": "http://pkgs.alpinelinux.org/packages?name={{{s}}}"
+  },
+  {
+    "d": "alternativeto.net",
+    "s": "alternativeTo",
+    "t": "alt",
+    "u": "http://alternativeto.net/SearchResult.aspx?search={{{s}}}"
+  },
+  {
+    "d": "www.alternate.be",
+    "s": "Alternate België",
+    "t": "altbe",
+    "u": "https://www.alternate.be/html/search.html?query={{{s}}}"
+  },
+  {
+    "d": "www.alternate.de",
+    "s": "Alternate",
+    "t": "alternate",
+    "u": "http://www.alternate.de/html/search.html?searchCriteria={{{s}}}"
+  },
+  {
+    "d": "www.alternate.nl",
+    "s": "Alternate Nederland",
+    "t": "alternatenl",
+    "u": "https://www.alternate.nl/html/search.html?query={{{s}}}"
+  },
+  {
+    "d": "alternativeto.net",
+    "s": "AlternativeTo.net",
+    "t": "alternative",
+    "u": "http://alternativeto.net/searchresult.aspx?search={{{s}}}"
+  },
+  {
+    "d": "alternativeto.net",
+    "s": "alternativeto.net",
+    "t": "alternativeto",
+    "u": "http://alternativeto.net/browse/search?q={{{s}}}"
+  },
+  {
+    "d": "www.alternet.org",
+    "s": "Alternet",
+    "t": "alternet",
+    "u": "https://www.alternet.org/search/site/{{{s}}}"
+  },
+  {
+    "d": "altex.ro",
+    "s": "Altex",
+    "t": "altex",
+    "u": "https://altex.ro/cauta/?q={{{s}}}"
+  },
+  {
+    "d": "techdocs.altium.com",
+    "s": "Altium",
+    "t": "altium",
+    "u": "http://techdocs.altium.com/search/wikinode/{{{s}}}"
+  },
+  {
+    "d": "alternativeto.net",
+    "s": "Alternative To",
+    "t": "alto",
+    "u": "http://alternativeto.net/browse/search?q={{{s}}} "
+  },
+  {
+    "d": "www.altroconsumo.it",
+    "s": "Altroconsumo",
+    "t": "altro",
+    "u": "http://www.altroconsumo.it/Serp/ShowResults?keyword={{{s}}}"
+  },
+  {
+    "d": "altru.greatjob.net",
+    "s": "Altru Careers",
+    "t": "altru",
+    "u": "https://altru.greatjob.net/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "alternativeto.net",
+    "s": "alternativeTo",
+    "t": "altto",
+    "u": "http://alternativeto.net/browse/search?q={{{s}}}"
+  },
+  {
+    "d": "alugha.com",
+    "s": "alugha",
+    "t": "alugha",
+    "u": "https://alugha.com/search?q={{{s}}}"
+  },
+  {
+    "d": "alvanista.com",
+    "s": "Alvanista",
+    "t": "alvanista",
+    "u": "http://alvanista.com/search?s={{{s}}}"
+  },
+  {
+    "d": "wiki.alpinelinux.org",
+    "s": "alpine linux wiki",
+    "t": "alw",
+    "u": "https://wiki.alpinelinux.org/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.alza.cz",
+    "s": "Alza.cz",
+    "t": "alza",
+    "u": "https://www.alza.cz/search.htm?exps={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon Deutschland",
+    "t": "ama",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de",
+    "t": "amademp3",
+    "u": "https://www.amazon.de/s?k={{{s}}}&i=digital-music"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Alexa Skills Search Page",
+    "t": "amalexa",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=alexa-skills"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "am",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "amanz.my",
+    "s": "Amanz",
+    "t": "amanz",
+    "u": "https://amanz.my/?s={{{s}}}"
+  },
+  {
+    "d": "maps.apple.com",
+    "s": "Apple Maps",
+    "t": "amaps",
+    "u": "http://maps.apple.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.amara.org",
+    "s": "Amara",
+    "t": "amara",
+    "u": "http://www.amara.org/search/#/?q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com.au",
+    "s": "amazon.com.au",
+    "t": "amau",
+    "u": "https://www.amazon.com.au/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "amazon",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com.au",
+    "s": "Amazon.com.au",
+    "t": "amazonau",
+    "u": "https://www.amazon.com.au/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.ca",
+    "s": "Amazon.ca",
+    "t": "amazonca",
+    "u": "https://www.amazon.ca/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.cn",
+    "s": "Amazon.cn",
+    "t": "amazoncn",
+    "u": "https://www.amazon.cn/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de",
+    "t": "amazon_de",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de",
+    "t": "amazonde",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.es",
+    "s": "Amazon.es",
+    "t": "amazones",
+    "u": "https://www.amazon.es/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.fr",
+    "s": "Amazon.fr",
+    "t": "amazonfr",
+    "u": "https://www.amazon.fr/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.in",
+    "s": "Amazon India",
+    "t": "amazonin",
+    "u": "https://www.amazon.in/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.in",
+    "s": "Amazon India",
+    "t": "amazon.in",
+    "u": "http://www.amazon.in/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.it",
+    "s": "Amazon.it",
+    "t": "amazon.it",
+    "u": "https://www.amazon.it/s/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.it",
+    "s": "Amazon.it",
+    "t": "amazonit",
+    "u": "https://www.amazon.it/s/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.jp",
+    "s": "Amazon.co.jp",
+    "t": "amazonjp",
+    "u": "https://www.amazon.co.jp/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon MP3 Store",
+    "t": "amazonmp3",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=digital-music"
+  },
+  {
+    "d": "www.amazon.com.mx",
+    "s": "Amazon México",
+    "t": "amazonmx",
+    "u": "https://www.amazon.com.mx/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.nl",
+    "s": "Amazon Nederland",
+    "t": "amazonnl",
+    "u": "https://www.amazon.nl/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com order history",
+    "t": "amazonorders",
+    "u": "https://www.amazon.com/gp/your-account/order-history/ref=oh_aui_search?opt=ab&search={{{s}}} "
+  },
+  {
+    "d": "www.amazon.com.tr",
+    "s": "Amazon.com.tr",
+    "t": "amazontr",
+    "u": "https://www.amazon.com.tr/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.uk",
+    "s": "Amazon.co.uk",
+    "t": "amazonuk",
+    "u": "https://www.amazon.co.uk/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.ca",
+    "s": "Amazon.ca",
+    "t": "amca",
+    "u": "https://www.amazon.ca/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.ca",
+    "s": "Amazon.ca",
+    "t": "am.ca",
+    "u": "https://www.amazon.ca/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amctv.com",
+    "s": "AMC TV",
+    "t": "amc",
+    "u": "http://www.amctv.com/search#q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Cloud",
+    "t": "amcloud",
+    "u": "https://www.amazon.com/clouddrive/#G=0&path={{{s}}}"
+  },
+  {
+    "d": "www.amazon.cn",
+    "s": "Amazon.cn",
+    "t": "amcn",
+    "u": "https://www.amazon.cn/s?k={{{s}}}"
+  },
+  {
+    "d": "search.amd.com",
+    "s": "AMD",
+    "t": "amd",
+    "u": "http://search.amd.com/en-us/Pages/results-all.aspx?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de",
+    "t": "amde",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "search.ameba.jp",
+    "s": "Ameblo",
+    "t": "ameblo",
+    "u": "http://search.ameba.jp/search.html?q={{{s}}}"
+  },
+  {
+    "d": "careers.amegybank.com",
+    "s": "Amegy Bank Careers",
+    "t": "amegy",
+    "u": "https://careers.amegybank.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "agentcareers.americannational.com",
+    "s": "American National Careers",
+    "t": "american",
+    "u": "https://agentcareers.americannational.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "americastestkitchen.com",
+    "s": "AmericasTestKitchen",
+    "t": "americastestkitchen",
+    "u": "http://americastestkitchen.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.es",
+    "s": "Amazon.es",
+    "t": "ames",
+    "u": "https://www.amazon.es/s?k={{{s}}}"
+  },
+  {
+    "d": "journals.ametsoc.org",
+    "s": "American Meteorology Society ",
+    "t": "ametsoc",
+    "u": "https://journals.ametsoc.org/action/doSearch?AllField={{{s}}}"
+  },
+  {
+    "d": "ask.metafilter.com",
+    "s": "Ask Metafilter",
+    "t": "amf",
+    "u": "http://ask.metafilter.com/search.mefi?q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.fr",
+    "s": "Amazon.fr",
+    "t": "amfr",
+    "u": "https://www.amazon.fr/s?k={{{s}}}"
+  },
+  {
+    "d": "www.allmusic.com",
+    "s": "Allmusic",
+    "t": "amg",
+    "u": "http://www.allmusic.com/search/all/{{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon (GLOBAL)",
+    "t": "amglobal",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=us-worldwide-shipping-aps"
+  },
+  {
+    "d": "www.angrymetalguy.com",
+    "s": "Angry Metal Guy",
+    "t": "amguy",
+    "u": "https://www.angrymetalguy.com/?s={{{s}}}"
+  },
+  {
+    "d": "slist.amiami.com",
+    "s": "Amiami",
+    "t": "amiami",
+    "u": "http://slist.amiami.com/top/search/list?s_keywords={{{s}}}"
+  },
+  {
+    "d": "www.amazon.in",
+    "s": "Amazon India",
+    "t": "amin",
+    "u": "https://www.amazon.in/s?k={{{s}}}"
+  },
+  {
+    "d": "aminet.net",
+    "s": "Aminet",
+    "t": "aminet",
+    "u": "http://aminet.net/search?query={{{s}}}"
+  },
+  {
+    "d": "haveibeenpwned.com",
+    "s": "Have I Been Pwned?",
+    "t": "amipwned",
+    "u": "https://haveibeenpwned.com/account/{{{s}}}"
+  },
+  {
+    "d": "www.amazon.it",
+    "s": "Amazon.it",
+    "t": "amit",
+    "u": "https://www.amazon.it/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.jp",
+    "s": "Amazon.co.jp",
+    "t": "amjp",
+    "u": "https://www.amazon.co.jp/s?k={{{s}}}"
+  },
+  {
+    "d": "marketplace.atlassian.com",
+    "s": "Atlassian Marketplace",
+    "t": "amkt",
+    "u": "https://marketplace.atlassian.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ammodepottx.com",
+    "s": "Ammo Depot",
+    "t": "ammo",
+    "u": "http://www.ammodepottx.com/#sthash.Bx8Cvh8l.dpbs={{{s}}}:"
+  },
+  {
+    "d": "jobs.amncareers.com",
+    "s": "AMN Careers",
+    "t": "amn",
+    "u": "https://jobs.amncareers.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "www.amnesty.org",
+    "s": "Amnesty International",
+    "t": "amnesty",
+    "u": "https://www.amnesty.org/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.amoeba.com",
+    "s": "Ameoba music",
+    "t": "amoeba",
+    "u": "https://www.amoeba.com/search/all/?s={{{s}}}"
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Firefox Add-ons",
+    "t": "amo",
+    "u": "https://addons.mozilla.org/firefox/search/?q={{{s}}}&cat=all"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon MP3 Store",
+    "t": "amp3",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=digital-music"
+  },
+  {
+    "d": "careers.amplifysnacks.com",
+    "s": "Amplify snacks careers",
+    "t": "amplify",
+    "u": "https://careers.amplifysnacks.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "www.auto-medienportal.net",
+    "s": "Auto-Medienportal.Net",
+    "t": "ampnet",
+    "u": "http://www.auto-medienportal.net/artikel/quicksearch/?searchterm={{{s}}}"
+  },
+  {
+    "d": "www.ampparit.com",
+    "s": "Ampparit.com",
+    "t": "ampparit",
+    "u": "http://www.ampparit.com/haku?q={{{s}}}"
+  },
+  {
+    "d": "www.amp-what.com",
+    "s": "Amp What",
+    "t": "amp-what",
+    "u": "http://www.amp-what.com/unicode/search/{{{s}}}"
+  },
+  {
+    "d": "www.amp-what.com",
+    "s": "&what;",
+    "t": "ampwhat",
+    "u": "http://www.amp-what.com/unicode/search/{{{s}}}"
+  },
+  {
+    "d": "smile.amazon.com",
+    "s": "Amazon Smile",
+    "t": "ams",
+    "u": "http://smile.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.co.uk",
+    "s": "Amazon Smile (UK)",
+    "t": "amsuk",
+    "u": "https://smile.amazon.co.uk/s?field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.uk",
+    "s": "Amazon.co.uk",
+    "t": "amuk",
+    "u": "https://www.amazon.co.uk/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.uk",
+    "s": "Amazon.co.uk MP3",
+    "t": "amukmp3",
+    "u": "https://www.amazon.co.uk/s?k={{{s}}}&i=digital-music"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "amus",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "music.amazon.com",
+    "s": "Amazon Music",
+    "t": "amusic",
+    "u": "https://music.amazon.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Amusing Planet",
+    "t": "amusing",
+    "u": "https://www.google.com/cse?cx=partner-pub-4049870445958322%3Apxmbpw-atgu&ie=ISO-8859-1&q={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Instant Video",
+    "t": "amvid",
+    "u": "https://www.amazon.com/s/url=search-alias%3Dinstant-video&field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de Instant Video",
+    "t": "amvidde",
+    "u": "http://www.amazon.de/s/url=search-alias%3Dinstant-video&field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.amway.com",
+    "s": "Amway.com",
+    "t": "amway",
+    "u": "https://www.amway.com/Shop/Search/SearchResults.aspx?searchkeyword={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com.mx",
+    "s": "Amazon México",
+    "t": "amx",
+    "u": "https://www.amazon.com.mx/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon",
+    "t": "amz",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Books",
+    "t": "amzbks",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=stripbooks"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon.de",
+    "t": "amznde",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.in",
+    "s": "Amazon India",
+    "t": "amznin",
+    "u": "https://www.amazon.in/s?k={{{s}}}"
+  },
+  {
+    "d": "anarchy101.org",
+    "s": "Anarchy101",
+    "t": "an101",
+    "u": "http://anarchy101.org/search?q={{{s}}}"
+  },
+  {
+    "d": "anaconda.org",
+    "s": "Anaconda Cloud",
+    "t": "anaconda",
+    "u": "https://anaconda.org/search?q={{{s}}}"
+  },
+  {
+    "d": "new.wordsmith.org",
+    "s": "Internet Anagram Server",
+    "t": "anag",
+    "u": "https://new.wordsmith.org/anagram/anagram.cgi?anagram={{{s}}}&t=500&a=n"
+  },
+  {
+    "d": "www.oneacross.com",
+    "s": "One Across",
+    "t": "anagram",
+    "u": "http://www.oneacross.com/cgi-bin/search_anagram.cgi?p0={{{s}}}&c0=&s=+Go+"
+  },
+  {
+    "d": "careers.analog.com",
+    "s": "Analog Devices Careers",
+    "t": "analog",
+    "u": "https://careers.analog.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "analyse-R",
+    "t": "analyser",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Flarmarange.github.io%2Fanalyse-R"
+  },
+  {
+    "d": "anandtech.com",
+    "s": "Anandtech",
+    "t": "anandtech",
+    "u": "http://anandtech.com/SearchResults?q={{{s}}}"
+  },
+  {
+    "d": "anilist.co",
+    "s": "AniList",
+    "t": "an",
+    "u": "http://anilist.co/search?q={{{s}}}"
+  },
+  {
+    "d": "en.anarchopedia.org",
+    "s": "Anarchopedia",
+    "t": "anaped",
+    "u": "http://en.anarchopedia.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "theanarchistlibrary.org",
+    "s": "The Anarchist Library",
+    "t": "anarchistlib",
+    "u": "http://theanarchistlibrary.org/search?query={{{s}}}"
+  },
+  {
+    "d": "anarchopedia.org",
+    "s": "Anarchopedia",
+    "t": "anarchopedia",
+    "u": "http://anarchopedia.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.androidauthority.com",
+    "s": "Android Authority",
+    "t": "anau",
+    "u": "http://www.androidauthority.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.ancestry.com",
+    "s": "Ancestry",
+    "t": "ancestry",
+    "u": "https://www.ancestry.com/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "android-arsenal.com",
+    "s": "Android Arsenal",
+    "t": "andar",
+    "u": "https://android-arsenal.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.androidcentral.com",
+    "s": "Android Central",
+    "t": "andce",
+    "u": "https://www.androidcentral.com/search/{{{s}}}"
+  },
+  {
+    "d": "developer.android.com",
+    "s": "Android Developers",
+    "t": "andev",
+    "u": "https://developer.android.com/s/results/?q={{{s}}}"
+  },
+  {
+    "d": "www.androidpolice.com",
+    "s": "Android Police",
+    "t": "andpol",
+    "u": "http://www.androidpolice.com/?s={{{s}}}"
+  },
+  {
+    "d": "developer.android.com",
+    "s": "Android Developers",
+    "t": "android",
+    "u": "https://developer.android.com/s/results/?q={{{s}}}"
+  },
+  {
+    "d": "www.androidpit.com",
+    "s": "AndroidPit",
+    "t": "androidpit",
+    "u": "http://www.androidpit.com/en/android/search?st={{{s}}}"
+  },
+  {
+    "d": "www.androidpit.fr",
+    "s": "AndroidPit (Fr)",
+    "t": "androidpitfr",
+    "u": "http://www.androidpit.fr/search?st={{{s}}}"
+  },
+  {
+    "d": "www.anevry.com",
+    "s": "Anevry",
+    "t": "anevry",
+    "u": "http://www.anevry.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.abercrombie.com",
+    "s": "Abercrombie & Fitch",
+    "t": "anf",
+    "u": "https://www.abercrombie.com/webapp/wcs/stores/servlet/Search?storeId=10051&catalogId=10901&langId=-1&departmentCategoryId=10000&search-field={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Angular",
+    "t": "ang",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aangular.io"
+  },
+  {
+    "d": "www.angelajey.com",
+    "s": "Angela Jey",
+    "t": "angelajey",
+    "u": "https://www.angelajey.com/index.php?route=product/search&search={{{s}}}"
+  },
+  {
+    "d": "www.rigvedawiki.net",
+    "s": "Angelhalo Wiki",
+    "t": "angelhalowiki",
+    "u": "http://www.rigvedawiki.net/r1/wiki.php/{{{s}}}"
+  },
+  {
+    "d": "angel.co",
+    "s": "AngelList",
+    "t": "angellist",
+    "u": "https://angel.co/search?q={{{s}}}"
+  },
+  {
+    "d": "www.anghami.com",
+    "s": "anghami",
+    "t": "anghami",
+    "u": "https://www.anghami.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.anglenews.com",
+    "s": "Angle News",
+    "t": "anglenews",
+    "u": "https://www.anglenews.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.angrymetalguy.com",
+    "s": "Angry Metal Guy",
+    "t": "angry",
+    "u": "https://www.angrymetalguy.com/?s={{{s}}}"
+  },
+  {
+    "d": "angular.io",
+    "s": "Angular.io",
+    "t": "angular",
+    "u": "https://angular.io/api?query={{{s}}}"
+  },
+  {
+    "d": "docs.angularjs.org",
+    "s": "Angular JS (1.0) documentation",
+    "t": "angularjs",
+    "u": "https://docs.angularjs.org/?as_q={{{s}}}"
+  },
+  {
+    "d": "library.angus.gov.uk",
+    "s": "Angus Libraries Catalogue",
+    "t": "anguscatalogue",
+    "u": "http://library.angus.gov.uk/ipac20/ipac.jsp?session=138BN7L458484.310312&menu=search&aspect=subtab184&npp=10&ipp=20&spp=20&profile=ang--7&ri=&term={{{s}}}&index=.AW&x=-354&y=-218&aspect=subtab184&term=&index=.TW&term=&index=.SE&term=&index=.SW&term=&index=BSTLLR&sort="
+  },
+  {
+    "d": "anilist.co",
+    "s": "Anilist",
+    "t": "ani",
+    "u": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search={{{s}}}"
+  },
+  {
+    "d": "anime.akihabara.cz",
+    "s": "Anime Akihabara",
+    "t": "anibara",
+    "u": "http://anime.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "d": "anibin.blogspot.com",
+    "s": "anibin",
+    "t": "anibin",
+    "u": "https://anibin.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "anidb.net",
+    "s": "AniDB",
+    "t": "anidb",
+    "u": "https://anidb.net/perl-bin/animedb.pl?adb.search={{{s}}}&show=animelist&do.search=search"
+  },
+  {
+    "d": "katzothek.provital.com",
+    "s": "Die Katzothek | Gesundes und artgerechtes Katzenfutter von Anifit",
+    "t": "anifit",
+    "u": "https://katzothek.provital.com/content/partners/katzothek/futtershop/de/article_search?article_name={{{s}}}"
+  },
+  {
+    "d": "anilist.co",
+    "s": "anilist.co",
+    "t": "anilist",
+    "u": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search={{{s}}}"
+  },
+  {
+    "d": "anilyrics.com",
+    "s": "AniLyrics",
+    "t": "anilyrics",
+    "u": "https://anilyrics.com/?s={{{s}}}"
+  },
+  {
+    "d": "anidb.net",
+    "s": "AniDB",
+    "t": "anime",
+    "u": "https://anidb.net/perl-bin/animedb.pl?show=animelist&adb.search={{{s}}}"
+  },
+  {
+    "d": "www.animefillerlist.com",
+    "s": "Anime Filler List",
+    "t": "animefiller",
+    "u": "http://www.animefillerlist.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "animeka.com",
+    "s": "Animeka",
+    "t": "animeka",
+    "u": "http://animeka.com/search/index.html?req={{{s}}}"
+  },
+  {
+    "d": "www.animelyrics.com",
+    "s": "AnimeLyrics",
+    "t": "animelyrics",
+    "u": "http://www.animelyrics.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.animenewsnetwork.com",
+    "s": "Anime News Network",
+    "t": "animenewsnetwork",
+    "u": "http://www.animenewsnetwork.com/search?cx=016604166282602569737:znd1ysjewre&cof=FORID:11&q={{{s}}}"
+  },
+  {
+    "d": "www.anime-planet.com",
+    "s": "Anime Planet",
+    "t": "anime-planet",
+    "u": "http://www.anime-planet.com/anime/all?name={{{s}}}"
+  },
+  {
+    "d": "www.anime-planet.com",
+    "s": "Anime-Planet",
+    "t": "animeplanet",
+    "u": "http://www.anime-planet.com/anime/all?name={{{s}}}"
+  },
+  {
+    "d": "kitsu.io",
+    "s": "Kitsu Anime",
+    "t": "animes",
+    "u": "https://kitsu.io/anime?text={{{s}}}"
+  },
+  {
+    "d": "animesimple.com",
+    "s": "Anime Simple",
+    "t": "animsi",
+    "u": "https://animesimple.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.anisearch.com",
+    "s": "aniSearch",
+    "t": "anisearch",
+    "u": "https://www.anisearch.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.actionnewsjax.com",
+    "s": "Action News Jax",
+    "t": "anj",
+    "u": "http://www.actionnewsjax.com/?q={{{s}}}"
+  },
+  {
+    "d": "ankiweb.net",
+    "s": "Ankiweb",
+    "t": "anki",
+    "u": "https://ankiweb.net/shared/decks/{{{s}}}"
+  },
+  {
+    "d": "www.apertium.org",
+    "s": "https://www.apertium.org",
+    "t": "anlaf",
+    "u": "https://www.apertium.org/index.eng.html?dir=nld-afr&q={{{s}}}"
+  },
+  {
+    "d": "nedir-sozluk.com",
+    "s": "Nedir Sözlük",
+    "t": "anlamı",
+    "u": "http://nedir-sozluk.com/ara/{{{s}}}"
+  },
+  {
+    "d": "www.anmat.gov.ar",
+    "s": "ANMAT",
+    "t": "anmat",
+    "u": "http://www.anmat.gov.ar/resultados.asp?cx=018082787451070703178%3Arx-vbt5pdfu&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "www.animenewsnetwork.com",
+    "s": "Anime News Network",
+    "t": "ann",
+    "u": "http://www.animenewsnetwork.com/search?cx=016604166282602569737:znd1ysjewre&cof=FORID:11&q={{{s}}}"
+  },
+  {
+    "d": "www.animenewsnetwork.com",
+    "s": "AnimeNewsNetwork Encyclopedia",
+    "t": "anne",
+    "u": "http://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q={{{s}}}"
+  },
+  {
+    "d": "annex.931women.com",
+    "s": "なんぽるとこわ別館",
+    "t": "annex.931women",
+    "u": "https://annex.931women.com/?s={{{s}}}: "
+  },
+  {
+    "d": "www.appannie.com",
+    "s": "App Annie",
+    "t": "annie",
+    "u": "http://www.appannie.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.anobii.com",
+    "s": "anobii",
+    "t": "anobii",
+    "u": "http://www.anobii.com/search?s=1&keyword={{{s}}}"
+  },
+  {
+    "d": "anoik.is",
+    "s": "Anoik.is",
+    "t": "anoikis",
+    "u": "http://anoik.is/systems/{{{s}}}"
+  },
+  {
+    "d": "anotchortwo.com",
+    "s": "a notch or two",
+    "t": "anotchortwo",
+    "u": "http://anotchortwo.com/?s={{{s}}}"
+  },
+  {
+    "d": "primenow.amazon.com",
+    "s": "Amazon Prime Now",
+    "t": "aNOW",
+    "u": "https://primenow.amazon.com/search?k={{{s}}} "
+  },
+  {
+    "d": "www.ansa.it",
+    "s": "Ansa",
+    "t": "ansa",
+    "u": "http://www.ansa.it/ricerca/index.jsp?si=1&ns=10&sb=date&lang=it&home=%2Fweb&search=1&c=webarchive&qt={{{s}}}&radio-search=ansa&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23009C41%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A10578b%3BLC%3A10578b%3BT%3A000000%3BGFNT%3A10578b%3BGIMP%3A10578b%3BFORID%3A11&hl=it&client=pub-2538762546398839"
+  },
+  {
+    "d": "docs.ansible.com",
+    "s": "docs.ansible.com",
+    "t": "ansible",
+    "u": "https://docs.ansible.com/ansible/latest/#stq={{{s}}}&stp=1"
+  },
+  {
+    "d": "galaxy.ansible.com",
+    "s": "Ansible Galaxy",
+    "t": "ansible-galaxy",
+    "u": "https://galaxy.ansible.com/list#/roles?page=1&page_size=10&autocomplete={{{s}}}"
+  },
+  {
+    "d": "docs.ansible.com",
+    "s": "Ansible Module Documentation",
+    "t": "ansiblemod",
+    "u": "http://docs.ansible.com/ansible/{{{s}}}_module.html"
+  },
+  {
+    "d": "answers.splunk.com",
+    "s": "Splunk Answers",
+    "t": "ans.splunk",
+    "u": "https://answers.splunk.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.answers.com",
+    "s": "Answers.com",
+    "t": "answers",
+    "u": "http://www.answers.com/{{{s}}}"
+  },
+  {
+    "d": "answersingenesis.org",
+    "s": "Answers in Genesis",
+    "t": "answersingenesis",
+    "u": "https://answersingenesis.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "answers.splunk.com",
+    "s": "answers.splunk.com",
+    "t": "answers.splunk",
+    "u": "http://answers.splunk.com/search/?q={{{s}}}&Submit=Search"
+  },
+  {
+    "d": "answers.yahoo.com",
+    "s": "Yahoo! Answers",
+    "t": "answer",
+    "u": "http://answers.yahoo.com/search/search_result;_ylt=AmLr_DtDPVmDQzOuA2T6sxAjzKIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers"
+  },
+  {
+    "d": "news.antiwar.com",
+    "s": "Antiwar.com",
+    "t": "antiwar",
+    "u": "http://news.antiwar.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.antonimos.net",
+    "s": "Antonimos",
+    "t": "antonimo",
+    "u": "http://www.antonimos.net/?termino={{{s}}}&btnG=Ant%F3nimos"
+  },
+  {
+    "d": "www.antonimos.com.br",
+    "s": "Antônimos.com.br",
+    "t": "antonimos",
+    "u": "https://www.antonimos.com.br/busca.php?q={{{s}}}"
+  },
+  {
+    "d": "www.synonyms.net",
+    "s": "Synonyms.net",
+    "t": "antonym",
+    "u": "http://www.synonyms.net/antonyms/{{{s}}}"
+  },
+  {
+    "d": "antyweb.pl",
+    "s": "Antyweb",
+    "t": "antyweb",
+    "u": "http://antyweb.pl/?s={{{s}}}"
+  },
+  {
+    "d": "anu.summon.serialssolutions.com",
+    "s": "The Australian National University Library",
+    "t": "anulib",
+    "u": "http://anu.summon.serialssolutions.com/search?q={{{s}}}"
+  },
+  {
+    "d": "find.anu.edu.au",
+    "s": "The Australian National University",
+    "t": "anu",
+    "u": "http://find.anu.edu.au/search?filter=0&client=anu_frontend&proxystylesheet=anu_frontend&site=default_collection&btnG=Search&q={{{s}}}&search1=Go"
+  },
+  {
+    "d": "anw.inl.nl",
+    "s": "Algemeen Nederlands Woordenboek",
+    "t": "anw",
+    "u": "http://anw.inl.nl/search?type=simple&q={{{s}}}"
+  },
+  {
+    "d": "archiveofourown.org",
+    "s": "Archive of our Own",
+    "t": "ao3",
+    "u": "https://archiveofourown.org/works/search?utf8=%E2%9C%93&work_search%5Bquery%5D={{{s}}}"
+  },
+  {
+    "d": "archiveofourown.org",
+    "s": "Archive of Our Own (Tag Search)",
+    "t": "ao3tags",
+    "u": "https://archiveofourown.org/tags/search?query[name]={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Orders",
+    "t": "ao",
+    "u": "https://www.amazon.com/gp/your-account/order-history/ref=oh_aui_search?opt=ab&search={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "AOE 2 Reddit Page",
+    "t": "aoe2r",
+    "u": "https://www.reddit.com/r/aoe2/search?q={{{s}}}&restrict_sr=1"
+  },
+  {
+    "d": "ageofempires.wikia.com",
+    "s": "Age of Empires Wiki",
+    "t": "aoe",
+    "u": "http://ageofempires.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "search.aol.com",
+    "s": "AOL",
+    "t": "aol",
+    "u": "http://search.aol.com/aol/search?enabled_terms=&s_it=comsearch&q={{{s}}}"
+  },
+  {
+    "d": "www.artofmanliness.com",
+    "s": "Art of Manliness",
+    "t": "aom",
+    "u": "http://www.artofmanliness.com/?s={{{s}}}"
+  },
+  {
+    "d": "artofproblemsolving.com",
+    "s": "Art of Problem Solving [Wiki]",
+    "t": "aops",
+    "u": "http://artofproblemsolving.com/wiki/index.php?title=Special%3ASearch&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "d": "artofproblemsolving.com",
+    "s": "Art Of Problem Solving Community",
+    "t": "aopscomm",
+    "u": "https://artofproblemsolving.com/community/search/{{{s}}}"
+  },
+  {
+    "d": "www.albumoftheyear.org",
+    "s": "Album of The Year",
+    "t": "aoty",
+    "u": "https://www.albumoftheyear.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "db.vanillagaming.org",
+    "s": "AoWoW VanillaGaming",
+    "t": "aowow",
+    "u": "http://db.vanillagaming.org/?search={{{s}}}"
+  },
+  {
+    "d": "apastyle.org",
+    "s": "APA Style",
+    "t": "apa",
+    "u": "http://apastyle.org/search.aspx?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Apache Docs",
+    "t": "apache",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttps%3A%2F%2Fhttpd.apache.org%2Fdocs%2Fcurrent%2F"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "ArchLinux Packages",
+    "t": "apackages",
+    "u": "http://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&last_update=&flagged=&limit=50"
+  },
+  {
+    "d": "ap.org",
+    "s": "AP",
+    "t": "ap",
+    "u": "http://ap.org/Search/SearchResults?searchkeywords={{{s}}}"
+  },
+  {
+    "d": "www.aparat.com",
+    "s": "Aparat",
+    "t": "aparat",
+    "u": "http://www.aparat.com/result/{{{s}}}"
+  },
+  {
+    "d": "auspost.com.au",
+    "s": "Australia Post Postcode Lookup",
+    "t": "apc",
+    "u": "https://auspost.com.au/search?q={{{s}}}"
+  },
+  {
+    "d": "apstudent.collegeboard.org",
+    "s": "AP Central College Board",
+    "t": "apcentral",
+    "u": "https://apstudent.collegeboard.org/search?searchq={{{s}}}&searchType=aps_site&tp=aps_site"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "Archlinux packages",
+    "t": "apck",
+    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&last_update=&flagged=&limit=50"
+  },
+  {
+    "d": "www.apertium.org",
+    "s": "Apertium",
+    "t": "apert-en-es",
+    "u": "https://www.apertium.org/index.spa.html?dir=eng-spa&q={{{s}}}#translation"
+  },
+  {
+    "d": "wiki.apertium.org",
+    "s": "Appertium",
+    "t": "apertium",
+    "u": "http://wiki.apertium.org/w/index.php?title=Special:Search&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "ArcadePrehacks.com",
+    "s": "Arcade PreHacks",
+    "t": "aph",
+    "u": "http://ArcadePrehacks.com/{{{s}}}"
+  },
+  {
+    "d": "apidock.com",
+    "s": "APIDock - Rails",
+    "t": "apidockrails",
+    "u": "http://apidock.com/rails/search/quick?query={{{s}}}"
+  },
+  {
+    "d": "apidock.com",
+    "s": "APIdock",
+    "t": "apidockruby",
+    "u": "http://apidock.com/ruby/search/quick?query={{{s}}} "
+  },
+  {
+    "d": "api.duckduckgo.com",
+    "s": "DuckDuckGo API",
+    "t": "api",
+    "u": "https://api.duckduckgo.com/?q={{{s}}}&o=json&pretty=1&no_html=1&no_redirect=1"
+  },
+  {
+    "d": "apility.io",
+    "s": "Apility.io",
+    "t": "apility",
+    "u": "https://apility.io/search/{{{s}}}"
+  },
+  {
+    "d": "academicprogress.in",
+    "s": "Academic Progress India",
+    "t": "apin",
+    "u": "https://academicprogress.in/library/search/?q={{{s}}}"
+  },
+  {
+    "d": "careers.activision.com",
+    "s": "Activision Careers",
+    "t": "apinc",
+    "u": "https://careers.activision.com/search-results?keywords={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "API Platform",
+    "t": "apiplatform",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aapi-platform.com&t=canonical&ia=web"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Prime Instant Video",
+    "t": "apiv",
+    "u": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dprime-instant-video&field-keywords={{{s}}}"
+  },
+  {
+    "d": "apps.evozi.com",
+    "s": "APK Downloader",
+    "t": "apk",
+    "u": "http://apps.evozi.com/apk-downloader/?id={{{s}}}"
+  },
+  {
+    "d": "apkpure.com",
+    "s": "ApkPure",
+    "t": "apkd",
+    "u": "https://apkpure.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "Arch Package Search",
+    "t": "apkg",
+    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged="
+  },
+  {
+    "d": "www.apkmirror.com",
+    "s": "APKMirror",
+    "t": "apkm",
+    "u": "https://www.apkmirror.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.apkmirror.com",
+    "s": "APK Mirror",
+    "t": "apkmirror",
+    "u": "http://www.apkmirror.com/?s={{{s}}}"
+  },
+  {
+    "d": "apkpure.com",
+    "s": "APKPure",
+    "t": "apkpure",
+    "u": "https://apkpure.com/search?q={{{s}}}"
+  },
+  {
+    "d": "scitation.aip.org",
+    "s": "Applied Physics Letters",
+    "t": "apl",
+    "u": "http://scitation.aip.org/search?value1={{{s}}}&option1=all"
+  },
+  {
+    "d": "aplcart.info",
+    "s": "APLcart",
+    "t": "aplcart",
+    "u": "https://aplcart.info/?q={{{s}}}"
+  },
+  {
+    "d": "austin.bibliocommons.com",
+    "s": "Austin Public Library",
+    "t": "aplib",
+    "u": "https://austin.bibliocommons.com/v2/search?query={{{s}}}&searchType=smart"
+  },
+  {
+    "d": "www.anime-planet.com",
+    "s": "Animeplanet",
+    "t": "apln",
+    "u": "https://www.anime-planet.com/anime/all?name={{{s}}}"
+  },
+  {
+    "d": "atom.io",
+    "s": "Atom Packages",
+    "t": "apm",
+    "u": "https://atom.io/packages/search?q={{{s}}}"
+  },
+  {
+    "d": "www.apmex.com",
+    "s": "APMEX",
+    "t": "apmex",
+    "u": "http://www.apmex.com/search?q={{{s}}}"
+  },
+  {
+    "d": "wq.apnic.net",
+    "s": "APNIC Whois",
+    "t": "apnic",
+    "u": "https://wq.apnic.net/static/search.html?query={{{s}}}"
+  },
+  {
+    "d": "apod.nasa.gov",
+    "s": "NASA - Astronomy Picture of the Day",
+    "t": "apod",
+    "u": "https://apod.nasa.gov/apod/ap{{{s}}}.html"
+  },
+  {
+    "d": "www.apolloduck.com",
+    "s": "Apollo Duck",
+    "t": "apolloduck",
+    "u": "http://www.apolloduck.com/search.phtml?search={{{s}}}&exact=1&sr=1&q=1"
+  },
+  {
+    "d": "addons.palemoon.org",
+    "s": "Pale Moon Add-ons",
+    "t": "apo",
+    "u": "https://addons.palemoon.org/search/?terms={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Prime Pantry",
+    "t": "app",
+    "u": "https://www.amazon.com/s/search-alias%3Dpantry&field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.appbrain.com",
+    "s": "AppBrain",
+    "t": "appbrain",
+    "u": "http://www.appbrain.com/search?q={{{s}}}"
+  },
+  {
+    "d": "developer.appcelerator.com",
+    "s": "Appcelerator API Docs",
+    "t": "appcel",
+    "u": "http://developer.appcelerator.com/apidoc/search/mobile/latest?q={{{s}}}"
+  },
+  {
+    "d": "www.winehq.org",
+    "s": "WineHQ AppDB",
+    "t": "appdb",
+    "u": "http://www.winehq.org/search?cx=partner-pub-0971840239976722%3Aw9sqbcsxtyf&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&siteurl=appdb.winehq.org%2F&ref=www.winehq.org%2Fsearch%2F%3Fcx%3Dpartner-pub-0971840239976722%253Aw9sqbcsxtyf%26cof%3DFORID%253A10%26ie%3DUTF-8%26q%3Dsomething&ss=674j114846j5"
+  },
+  {
+    "d": "appear.in",
+    "s": "Appear.in chat",
+    "t": "appear",
+    "u": "https://appear.in/{{{s}}}"
+  },
+  {
+    "d": "code.google.com",
+    "s": "App Engine Docs",
+    "t": "appengine",
+    "u": "http://code.google.com/query/#p=appengine&q={{{s}}}"
+  },
+  {
+    "d": "appexchange.salesforce.com",
+    "s": "Salesforce.com AppExchange",
+    "t": "appex",
+    "u": "https://appexchange.salesforce.com/results?keywords={{{s}}}"
+  },
+  {
+    "d": "www.ah.nl",
+    "s": "Albert Heijn",
+    "t": "appie",
+    "u": "https://www.ah.nl/zoeken?rq={{{s}}}"
+  },
+  {
+    "d": "search.appinn.com",
+    "s": "小众软件",
+    "t": "appinn",
+    "u": "https://search.appinn.com/cse/search?q={{{s}}}&s=5999676002387380177&source=www.appinn.com"
+  },
+  {
+    "d": "www.apple.com",
+    "s": "Apple",
+    "t": "apple",
+    "u": "http://www.apple.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "applebase.net",
+    "s": "AppleBase",
+    "t": "applebase",
+    "u": "https://applebase.net/Search.html?term={{{s}}}&cat=1"
+  },
+  {
+    "d": "www.apple.com",
+    "s": "Apple (Brasil)",
+    "t": "applebr",
+    "u": "https://www.apple.com/br/search/{{{s}}}"
+  },
+  {
+    "d": "hk.appledaily.com",
+    "s": "Apple Daily (Hong Kong)",
+    "t": "appledaily",
+    "u": "https://hk.appledaily.com/search/{{{s}}}?q={{{s}}}"
+  },
+  {
+    "d": "tw.appledaily.com",
+    "s": "Apple Daily (Taiwan)",
+    "t": "appledailytw",
+    "u": "https://tw.appledaily.com/search/result?querystrS={{{s}}}"
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "Apple Developer",
+    "t": "appledev",
+    "u": "https://developer.apple.com/search/index.php?q={{{s}}} "
+  },
+  {
+    "d": "discussions.apple.com",
+    "s": "Apple Discussions",
+    "t": "applediscuss",
+    "u": "https://discussions.apple.com/search.jspa?peopleEnabled=true&userID=&containerType=&container=&spotlight=true&q={{{s}}}"
+  },
+  {
+    "d": "www.applefritter.com",
+    "s": "Applefritter",
+    "t": "applefritter",
+    "u": "https://www.applefritter.com/search/node/{{{s}}}"
+  },
+  {
+    "d": "appleinsider.com",
+    "s": "AppleInsider",
+    "t": "appleinsider",
+    "u": "http://appleinsider.com/search/{{{s}}}"
+  },
+  {
+    "d": "maps.apple.com",
+    "s": "Apple Maps",
+    "t": "applemaps",
+    "u": "http://maps.apple.com/?q={{{s}}}"
+  },
+  {
+    "d": "itunes.apple.com",
+    "s": "Apple Music",
+    "t": "applemusic",
+    "u": "https://itunes.apple.com/search?term={{{s}}}&entity=musicTrack"
+  },
+  {
+    "d": "applesold.com",
+    "s": "Apple Realty",
+    "t": "applerealty",
+    "u": "http://applesold.com/search?q={{{s}}}"
+  },
+  {
+    "d": "apple.stackexchange.com",
+    "s": "Ask Different",
+    "t": "applese",
+    "u": "http://apple.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "support.apple.com",
+    "s": "Apple",
+    "t": "applesoftware",
+    "u": "https://support.apple.com/en_US/downloads/{{{s}}}"
+  },
+  {
+    "d": "support.apple.com",
+    "s": "Apple Support",
+    "t": "applesupport",
+    "u": "http://support.apple.com/kb/index?page=search&product=&q={{{s}}}&src=support_site.kbase.search.searchresults"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Apple Trailers",
+    "t": "appletrailer",
+    "u": "http://duckduckgo.com/?q=site:trailers.apple.com%20{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Apple TV",
+    "t": "appletv",
+    "u": "https://duckduckgo.com/?q={{{s}}}%20site%3Atv.apple.com"
+  },
+  {
+    "d": "appnr.com",
+    "s": "appnr",
+    "t": "appnr",
+    "u": "http://appnr.com/search/{{{s}}}"
+  },
+  {
+    "d": "programs.wikia.com",
+    "s": "AppPedia",
+    "t": "apppedia",
+    "u": "http://programs.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "appshopper.com",
+    "s": "Appshopper",
+    "t": "appshopper",
+    "u": "http://appshopper.com/search/?search={{{s}}}"
+  },
+  {
+    "d": "appsliced.co",
+    "s": "App Sliced",
+    "t": "appsliced",
+    "u": "http://appsliced.co/apps?search={{{s}}}"
+  },
+  {
+    "d": "apps.splunk.com",
+    "s": "apps.splunk.com",
+    "t": "apps.splunk",
+    "u": "http://apps.splunk.com/apps/#/search/{{{s}}}"
+  },
+  {
+    "d": "",
+    "s": "App Store on iTunes",
+    "t": "appstore",
+    "u": "/?q=site%3Aitunes.apple.com%2Fus%2Fapp%2F+{{{s}}}"
+  },
+  {
+    "d": "www.appvv.com",
+    "s": "AppVV",
+    "t": "appvv",
+    "u": "http://www.appvv.com/search.htm?search={{{s}}}&device=1"
+  },
+  {
+    "d": "www.april.org",
+    "s": "April",
+    "t": "april",
+    "u": "https://www.april.org/search/node/{{{s}}}"
+  },
+  {
+    "d": "aprohirdetesingyen.hu",
+    "s": "aprohirdetesingyen.hu",
+    "t": "apro",
+    "u": "https://aprohirdetesingyen.hu/osszes-hirdetes/kereses--{{{s}}}"
+  },
+  {
+    "d": "aprs.fi",
+    "s": "aprs.fi",
+    "t": "aprsfi",
+    "u": "http://aprs.fi/#!mt=roadmap&z=11&call=a%2F{{{s}}}&timerange=3600&tail=3600"
+  },
+  {
+    "d": "journals.aps.org",
+    "s": "APS Journals",
+    "t": "aps",
+    "u": "http://journals.aps.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.apt-browse.org",
+    "s": "Apt-Browse",
+    "t": "aptbrowse",
+    "u": "https://www.apt-browse.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "en.aptoide.com",
+    "s": "Aptoide.com",
+    "t": "aptoide",
+    "u": "https://en.aptoide.com/search?query={{{s}}}"
+  },
+  {
+    "d": "packages.ubuntu.com",
+    "s": "Ubuntu Packages Search",
+    "t": "apt",
+    "u": "https://packages.ubuntu.com/search?keywords={{{s}}}&searchon=all&suite=all&section=all"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon Prime Video Germany",
+    "t": "apvde",
+    "u": "https://www.amazon.de/s?k={{{s}}}&i=instant-video"
+  },
+  {
+    "d": "www.aqasha.de",
+    "s": "aqasha",
+    "t": "aqasha",
+    "u": "https://www.aqasha.de/search/result?term={{{s}}}"
+  },
+  {
+    "d": "aqicn.org",
+    "s": "Real-time Air Quality Index (AQI) ",
+    "t": "aqicn",
+    "u": "http://aqicn.org/city/{{{s}}}"
+  },
+  {
+    "d": "veriforcetactical.com",
+    "s": "Veriforce Tactical",
+    "t": "ar-15",
+    "u": "https://veriforcetactical.com/?s={{{s}}}"
+  },
+  {
+    "d": "translate.google.com",
+    "s": "Google Translate",
+    "t": "ar2en",
+    "u": "https://translate.google.com/#ar/en/{{{s}}}"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Arabic dictionary",
+    "t": "arabic",
+    "u": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=ar"
+  },
+  {
+    "d": "www.arabnews.com",
+    "s": "Arab News",
+    "t": "arabnews",
+    "u": "http://www.arabnews.com/search/google/{{{s}}}"
+  },
+  {
+    "d": "www.ara.cat",
+    "s": "Diari Ara",
+    "t": "ara",
+    "u": "http://www.ara.cat/cercador/?text={{{s}}}"
+  },
+  {
+    "d": "www.arageek.com",
+    "s": "Arageek",
+    "t": "arageek",
+    "u": "http://www.arageek.com/?s={{{s}}}"
+  },
+  {
+    "d": "allrecipes.com",
+    "s": "all recipes",
+    "t": "ar",
+    "u": "http://allrecipes.com/search/default.aspx?qt=k&wt={{{s}}}&rt=r&origin=Recipe%20Search%20Results"
+  },
+  {
+    "d": "www.aramex.com",
+    "s": "Aramex Tracking",
+    "t": "aramex",
+    "u": "https://www.aramex.com/track-results-multiple.aspx?ShipmentNumber={{{s}}}"
+  },
+  {
+    "d": "www.almaany.com",
+    "s": "almaany.com",
+    "t": "ar-ar",
+    "u": "http://www.almaany.com/ar/dict/ar-ar/{{{s}}}"
+  },
+  {
+    "d": "ruby.libhunt.com",
+    "s": "Awesome Ruby (LibHun)",
+    "t": "arb",
+    "u": "https://ruby.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "d": "con.arbeitsagentur.de",
+    "s": "Agentur für Arbeit",
+    "t": "arbeitsagentur",
+    "u": "https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/?VOLLTEXT={{{s}}}&FCT.ANGEBOTSART=ARBEIT&FCT.AKTUALITAET=100&FCT.BEHINDERUNG=AUS&page=1&size=10&sort=Relevanz&s=5"
+  },
+  {
+    "d": "wiki.arcadeotaku.com",
+    "s": "Arcade Otaku Wiki",
+    "t": "arcadeotaku",
+    "u": "https://wiki.arcadeotaku.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.esri.com",
+    "s": "ArcGIS Blogs",
+    "t": "arcblog",
+    "u": "https://www.esri.com/en-us/search/?q={{{s}}}"
+  },
+  {
+    "d": "developers.arcgis.com",
+    "s": "Arcgis Developers",
+    "t": "arcdev",
+    "u": "https://developers.arcgis.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "doc.arcgis.com",
+    "s": "ArcGIS Documentation",
+    "t": "arcdoc",
+    "u": "https://doc.arcgis.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.arcgames.com",
+    "s": "ArcGames",
+    "t": "arcgames",
+    "u": "http://www.arcgames.com/en/games/all-games/query/{{{s}}}"
+  },
+  {
+    "d": "www.arcgis.com",
+    "s": "ArcGIS Online",
+    "t": "arcgis",
+    "u": "http://www.arcgis.com/home/search.html?q={{{s}}}"
+  },
+  {
+    "d": "resources.arcgis.com",
+    "s": "ArcGIS Resource Center",
+    "t": "arcgisres",
+    "u": "http://resources.arcgis.com/content/search-result?searchKeyWord={{{s}}}"
+  },
+  {
+    "d": "heavenlyarchangels.wordpress.com",
+    "s": "Heavenly Archangels",
+    "t": "archangels",
+    "u": "https://heavenlyarchangels.wordpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "wiki.archlinux.org",
+    "s": "ArchLinux Wiki",
+    "t": "arch",
+    "u": "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "aur.archlinux.org",
+    "s": "ArchLinux User Repository",
+    "t": "archaur",
+    "u": "https://aur.archlinux.org/packages.php?O=0&K={{{s}}}&do_Search=Go"
+  },
+  {
+    "d": "bugs.archlinux.org",
+    "s": "ArchLinux Bugtracker",
+    "t": "archbugs",
+    "u": "https://bugs.archlinux.org/index.php?string={{{s}}}&project=0"
+  },
+  {
+    "d": "www.archchinese.com",
+    "s": "Arch Chinese",
+    "t": "archch",
+    "u": "http://www.archchinese.com/chinese_english_dictionary.html?find={{{s}}}"
+  },
+  {
+    "d": "www.archchinese.com",
+    "s": "Arch Chinese",
+    "t": "archchine",
+    "u": "http://www.archchinese.com/chinese_english_dictionary.html?find={{{s}}} "
+  },
+  {
+    "d": "www.archdaily.com",
+    "s": "ArchDaily",
+    "t": "archdaily",
+    "u": "https://www.archdaily.com/search/all?q={{{s}}}"
+  },
+  {
+    "d": "wiki.archlinux.de",
+    "s": "wiki.archlinux.de",
+    "t": "archde",
+    "u": "https://wiki.archlinux.de/index.php?search={{{s}}}"
+  },
+  {
+    "d": "bbs.archlinux.org",
+    "s": "Arch Linux Forums",
+    "t": "archforums",
+    "u": "https://bbs.archlinux.org/search.php?action=search&keywords={{{s}}}&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit"
+  },
+  {
+    "d": "wiki.archlinux.fr",
+    "s": "archlinux.fr",
+    "t": "archfr",
+    "u": "http://wiki.archlinux.fr/index.php?title=Sp%C3%A9cial%3ARecherche&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "catalogue.biu-toulouse.fr",
+    "s": "Archipel",
+    "t": "archi",
+    "u": "http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?profile=?q={{{s}}}:"
+  },
+  {
+    "d": "catalogue.biu-toulouse.fr",
+    "s": "Archipel",
+    "t": "archipel",
+    "u": "http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?menu=search&aspect=subtab26&npp=10&ipp=20&spp=20&profile=sicd&ri=&index=.GK&term={{{s}}}"
+  },
+  {
+    "d": "univtoulouse.summon.serialssolutions.com",
+    "s": "Archipel plus",
+    "t": "archiplus",
+    "u": "http://univtoulouse.summon.serialssolutions.com/search?s.q={{{s}}}"
+  },
+  {
+    "d": "archived.moe",
+    "s": "Archived.Moe",
+    "t": "archivedmoe",
+    "u": "https://archived.moe/_/search/text/{{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Wayback Machine",
+    "t": "archived",
+    "u": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "d": "archive.org",
+    "s": "Internet ",
+    "t": "archive",
+    "u": "https://archive.org/search.php?query={{{s}}}"
+  },
+  {
+    "d": "archive.is",
+    "s": "Archive.is",
+    "t": "archiveis",
+    "u": "http://archive.is/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.archiveteam.org",
+    "s": "Archive Team Wiki",
+    "t": "archiveteam",
+    "u": "http://www.archiveteam.org/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "archive.org",
+    "s": "Internet Archive TV News",
+    "t": "archivetv",
+    "u": "https://archive.org/details/tv?q={{{s}}}"
+  },
+  {
+    "d": "web.archive.org",
+    "s": "Archive.org",
+    "t": "archiveweb",
+    "u": "https://web.archive.org/web/*/{{{s}}}"
+  },
+  {
+    "d": "wiki.archlinux.jp",
+    "s": "ArchWikiJP",
+    "t": "archjp",
+    "u": "https://wiki.archlinux.jp/index.php?search={{{s}}}"
+  },
+  {
+    "d": "bbs.archlinux.org",
+    "s": "Archlinux Forums",
+    "t": "archlinux",
+    "u": "https://bbs.archlinux.org/search.php?action=search&keywords={{{s}}}&author=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics&search=Submit"
+  },
+  {
+    "d": "wiki.archlinux.fr",
+    "s": "Wiki Français Archlinux",
+    "t": "archlinuxfr",
+    "u": "https://wiki.archlinux.fr/index.php?title=Spécial%3ARecherche&profile=default&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "d": "wiki.archlinux.org",
+    "s": "Arch Linux",
+    "t": "archlinuxit",
+    "u": "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "man.archlinux.org",
+    "s": "Arch manual pages",
+    "t": "archman",
+    "u": "https://man.archlinux.org/search?q={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "ArchLinux Package Search",
+    "t": "archpackages",
+    "u": "https://www.archlinux.org/packages/?q={{{s}}}"
+  },
+  {
+    "d": "www.archlinux.org",
+    "s": "Arch Linux Packages",
+    "t": "archpkg",
+    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged="
+  },
+  {
+    "d": "wiki.archlinux.org",
+    "s": "archlinux wiki pl",
+    "t": "archpl",
+    "u": "https://wiki.archlinux.org/index.php/{{{s}}} _(Polski)"
+  },
+  {
+    "d": "wiki.archlinux.org",
+    "s": "Arch Linux Wiki",
+    "t": "archwiki",
+    "u": "https://wiki.archlinux.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "www.ardmediathek.de",
+    "s": "ARD Mediathek",
+    "t": "ard",
+    "u": "https://www.ardmediathek.de/ard/search/{{{s}}}"
+  },
+  {
+    "d": "www.glyphweb.com",
+    "s": "The Encyclopedia of ARDA",
+    "t": "arda",
+    "u": "http://www.glyphweb.com/arda/search.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.ardmoor.co.uk",
+    "s": "ArdMoor",
+    "t": "ardmoor",
+    "u": "https://www.ardmoor.co.uk/search/{{{s}}}"
+  },
+  {
+    "d": "arduino.stackexchange.com",
+    "s": "Arduino Stack Exchange",
+    "t": "arduino",
+    "u": "http://arduino.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Arduino Reference",
+    "t": "arduinoreference",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aarduino.cc&ia=web"
+  },
+  {
+    "d": "discuss.area51.stackexchange.com",
+    "s": "Area51",
+    "t": "area51",
+    "u": "http://discuss.area51.stackexchange.com/search?q= {{{s}}}"
+  },
+  {
+    "d": "haku.yle.fi",
+    "s": "YLE Areena",
+    "t": "areena",
+    "u": "http://haku.yle.fi/?q={{{s}}}&category=Areena"
+  },
+  {
+    "d": "www.are.na",
+    "s": "Are.na",
+    "t": "arena",
+    "u": "https://www.are.na/search/{{{s}}}"
+  },
+  {
+    "d": "www.almaany.com",
+    "s": "Almaany English-Arabic",
+    "t": "ar-en",
+    "u": "https://www.almaany.com/ar/dict/ar-en/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "ar15.com",
+    "t": "arf",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aar15.com&ia=web"
+  },
+  {
+    "d": "www.argep.hu",
+    "s": "ÁrGép",
+    "t": "argep",
+    "u": "http://www.argep.hu/main.aspx?suche={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.argos.co.uk",
+    "s": "http://www.argos.co.uk",
+    "t": "argos",
+    "u": "http://www.argos.co.uk/search/{{{s}}}"
+  },
+  {
+    "d": "www.argos.ie",
+    "s": "Argos Ireland",
+    "t": "argosie",
+    "u": "http://www.argos.ie/webapp/wcs/stores/servlet/Search?storeId=10152&catalogId=14551&langId=111&searchTerms={{{s}}}"
+  },
+  {
+    "d": "www.speakinglatino.com",
+    "s": "Speaking Latino",
+    "t": "argot",
+    "u": "http://www.speakinglatino.com/?s={{{s}}}&advanced=0&search_type=&posts_country=&posts_category=&words_country=&words_category=&words_letter=CHOOSE+A+STARTING+LETTER&all_country=&all_letter=CHOOSE+A+STARTING+LETTER"
+  },
+  {
+    "d": "www.aria.co.uk",
+    "s": "Aria",
+    "t": "aria",
+    "u": "http://www.aria.co.uk/Products?search={{{s}}}"
+  },
+  {
+    "d": "whois.arin.net",
+    "s": "ARIN Whois",
+    "t": "arin",
+    "u": "http://whois.arin.net/rest/nets;q={{{s}}}?showDetails=true&showARIN=false&ext=netref2"
+  },
+  {
+    "d": "ark.intel.com",
+    "s": "Intel Processor Specification",
+    "t": "ark",
+    "u": "https://ark.intel.com/search?q={{{s}}}"
+  },
+  {
+    "d": "ark.gamepedia.com",
+    "s": "Ark Gamepedia",
+    "t": "arkpedia",
+    "u": "http://ark.gamepedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "ark.gamepedia.com",
+    "s": "Ark official Wiki",
+    "t": "arkwiki",
+    "u": "http://ark.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "aynrandlexicon.com",
+    "s": "The Ayn Rand Lexicon",
+    "t": "arl",
+    "u": "http://aynrandlexicon.com/searchresults/index.html?cx=013104633629966810561%3Ag5jt9ka8qre&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "d": "www.armadeus.com",
+    "s": "Armadeus Project",
+    "t": "armadeus",
+    "u": "http://www.armadeus.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "armorgames.com",
+    "s": "armorgames",
+    "t": "armorgames",
+    "u": "http://armorgames.com/search/games?type=games&q={{{s}}}"
+  },
+  {
+    "d": "armswiki.org",
+    "s": "ARMS Institute",
+    "t": "arms",
+    "u": "https://armswiki.org/wiki/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "www.armslist.com",
+    "s": "ARMSLIST",
+    "t": "armslist",
+    "u": "https://www.armslist.com/classifieds/search?search={{{s}}}&location=usa&category=all&posttype=7&ships="
+  },
+  {
+    "d": "azure.microsoft.com",
+    "s": "Azure Quickstart Templates",
+    "t": "armtemp",
+    "u": "https://azure.microsoft.com/de-de/resources/templates/?term={{{s}}}"
+  },
+  {
+    "d": "www.arnoldbusck.dk",
+    "s": "Arnold Busck",
+    "t": "arnoldbusck",
+    "u": "https://www.arnoldbusck.dk/soeg?s={{{s}}}&cid=alle"
+  },
+  {
+    "d": "secure.arnzenarms.com",
+    "s": "Arnzen Arms",
+    "t": "arnzenarms",
+    "u": "https://secure.arnzenarms.com/catalog-search?fulltext={{{s}}}"
+  },
+  {
+    "d": "ffxiv.gamerescape.com",
+    "s": "GamerEscape",
+    "t": "arr",
+    "u": "http://ffxiv.gamerescape.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.arrow.com",
+    "s": "Arrow Electronics",
+    "t": "arrow",
+    "u": "https://www.arrow.com/en/products/search?q={{{s}}}"
+  },
+  {
+    "d": "arrow.wikia.com",
+    "s": "Arrowverse Wikia",
+    "t": "arrow-wikia",
+    "u": "http://arrow.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "arstechnica.com",
+    "s": "Ars Technica",
+    "t": "ars",
+    "u": "https://arstechnica.com/search/?ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "arstechnica.com",
+    "s": "Ars Technica",
+    "t": "arstechnica",
+    "u": "https://arstechnica.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "arstechnica.co.uk",
+    "s": "Ars Technica UK",
+    "t": "arstechnicauk",
+    "u": "http://arstechnica.co.uk/search/?query={{{s}}}"
+  },
+  {
+    "d": "arstechnica.co.uk",
+    "s": "Ars Technica UK",
+    "t": "arsuk",
+    "u": "http://arstechnica.co.uk/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.artdiscount.co.uk",
+    "s": "ArtDiscount",
+    "t": "artd",
+    "u": "https://www.artdiscount.co.uk/catalogsearch/result/?cat=0&q={{{s}}} "
+  },
+  {
+    "d": "www.artdiscount.co.uk",
+    "s": "ArtDiscount",
+    "t": "artdiscount",
+    "u": "https://www.artdiscount.co.uk/catalogsearch/result/?cat=0&q={{{s}}}"
+  },
+  {
+    "d": "www.arte.tv",
+    "s": "Arte TV",
+    "t": "arte",
+    "u": "https://www.arte.tv/fr/search/?q={{{s}}}&page=1"
+  },
+  {
+    "d": "www.artfire.com",
+    "s": "ArtFire",
+    "t": "artfire",
+    "u": "http://www.artfire.com/browse/?term={{{s}}}"
+  },
+  {
+    "d": "www.aparatorul.md",
+    "s": "https://www.aparatorul.md",
+    "t": "art",
+    "u": "https://www.aparatorul.md/?s={{{s}}}"
+  },
+  {
+    "d": "artifact.gamepedia.com",
+    "s": "Artifact Wiki",
+    "t": "artifact",
+    "u": "https://artifact.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.artcyclopedia.com",
+    "s": "artcyclopedia.com",
+    "t": "artist",
+    "u": "http://www.artcyclopedia.com/scripts/tsearch.pl?type=1&t={{{s}}}"
+  },
+  {
+    "d": "collections.artsmia.org",
+    "s": "The Collection at the Minneapois Insitute of Arts",
+    "t": "artsmia",
+    "u": "https://collections.artsmia.org/index.php?page=search#query={{{s}}}"
+  },
+  {
+    "d": "www.artstation.com",
+    "s": "Artstation",
+    "t": "artstation",
+    "u": "https://www.artstation.com/search?q={{{s}}}&sorting=recent"
+  },
+  {
+    "d": "library.artstor.org",
+    "s": "ArtStor",
+    "t": "artstor",
+    "u": "https://library.artstor.org/#/search/{{{s}}};page=1;size=48"
+  },
+  {
+    "d": "www.arturogoga.com",
+    "s": "arturogoga.com",
+    "t": "arturogoga",
+    "u": "https://www.arturogoga.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.artcyclopedia.com",
+    "s": "artcyclopedia.com",
+    "t": "artwork",
+    "u": "http://www.artcyclopedia.com/scripts/tsearch.pl?t={{{s}}}&type=2"
+  },
+  {
+    "d": "www.arukereso.hu",
+    "s": "Árukereső",
+    "t": "aru",
+    "u": "https://www.arukereso.hu/CategorySearch.php?st={{{s}}}"
+  },
+  {
+    "d": "community.arubanetworks.com",
+    "s": "Aruba Airheads Community",
+    "t": "aruba",
+    "u": "https://community.arubanetworks.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+  },
+  {
+    "d": "www.arukereso.hu",
+    "s": "Arukereso",
+    "t": "arukereso",
+    "u": "https://www.arukereso.hu/CategorySearch.php?st={{{s}}}"
+  },
+  {
+    "d": "arxiv.org",
+    "s": "arXiv.org",
+    "t": "arx",
+    "u": "http://arxiv.org/search?query={{{s}}}&searchtype=all"
+  },
+  {
+    "d": "arxiv.org",
+    "s": "arXiv",
+    "t": "arxiv",
+    "u": "http://arxiv.org/search?query={{{s}}}&searchtype=all"
+  },
+  {
+    "d": "sysadmin.libhunt.com",
+    "s": "Awesome SysAdmin (LibHunt)",
+    "t": "asa",
+    "u": "https://sysadmin.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "d": "sitesearch.asahi.com",
+    "s": "朝日新聞",
+    "t": "asahi",
+    "u": "http://sitesearch.asahi.com/.cgi/sitesearch/sitesearch.pl?Keywords={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.com",
+    "s": "Amazon Smile",
+    "t": "as",
+    "u": "http://smile.amazon.com/s?url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "d": "app.asana.com",
+    "s": "Asana",
+    "t": "asana",
+    "u": "https://app.asana.com/0/search/{{{s}}}"
+  },
+  {
+    "d": "www.asap-supplies.com",
+    "s": "A.S.A.P. Supplies",
+    "t": "asapsupplies",
+    "u": "https://www.asap-supplies.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "astrobites.org",
+    "s": "astrobites",
+    "t": "asb",
+    "u": "https://astrobites.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.ascent.co.nz",
+    "s": "Ascent",
+    "t": "ascent",
+    "u": "https://www.ascent.co.nz/search.aspx?query={{{s}}}&sortBy=products"
+  },
+  {
+    "d": "ascl.net",
+    "s": " ASCL.net - Astrophysics Source Code Library",
+    "t": "ascl",
+    "u": "http://ascl.net/code/search/{{{s}}}"
+  },
+  {
+    "d": "groceries.asda.com",
+    "s": "Asda Groceries",
+    "t": "asda",
+    "u": "https://groceries.asda.com/asda-webstore/landing/home.shtml#/search/{{{s}}}"
+  },
+  {
+    "d": "smile.amazon.de",
+    "s": "Amazon Smile Deutschland",
+    "t": "asd",
+    "u": "https://smile.amazon.de/s?url=search-alias%3Daps&field-keywords={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.de",
+    "s": "AmazonSmile Deutschland",
+    "t": "asde",
+    "u": "https://smile.amazon.de/s/field-keywords={{{s}}}"
+  },
+  {
+    "d": "asearchoficeandfire.com",
+    "s": "A Search of Ice and Fire",
+    "t": "asearchoficeandfire",
+    "u": "https://asearchoficeandfire.com/?q={{{s}}}"
+  },
+  {
+    "d": "peer.asee.org",
+    "s": "Papers on Engineering Education Repository (ASEE PEER)",
+    "t": "asee",
+    "u": "https://peer.asee.org/?q={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.de",
+    "s": "Amazon Smile (Germany)",
+    "t": "asg",
+    "u": "https://smile.amazon.de/s/?field-keywords={{{s}}}"
+  },
+  {
+    "d": "ashadidi.com",
+    "s": "https://ashadidi.com",
+    "t": "asha",
+    "u": "https://ashadidi.com/search/{{{s}}}"
+  },
+  {
+    "d": "selfhosted.libhunt.com",
+    "s": "Awesome Selfhosted",
+    "t": "ash",
+    "u": "https://selfhosted.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "d": "asianwiki.com",
+    "s": "AsianWiki",
+    "t": "asianwiki",
+    "u": "http://asianwiki.com/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.asihablamos.com",
+    "s": "AsíHablamos",
+    "t": "asi",
+    "u": "http://www.asihablamos.com/www/significado/palabra/{{{s}}}"
+  },
+  {
+    "d": "asiavape.co",
+    "s": "AsiaVape.co",
+    "t": "asiavape",
+    "u": "https://asiavape.co/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "www.asics.com",
+    "s": "asics",
+    "t": "asics",
+    "u": "http://www.asics.com/us/en-us/search?text={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon (ASIN)",
+    "t": "asin",
+    "u": "https://www.amazon.com/dp/{{{s}}}"
+  },
+  {
+    "d": "www.askapatient.com",
+    "s": "AskaPatient.com",
+    "t": "askapatient",
+    "u": "http://www.askapatient.com/searchresults.asp?searchField={{{s}}} "
+  },
+  {
+    "d": "www.ask.com",
+    "s": "Ask.com",
+    "t": "ask",
+    "u": "http://www.ask.com/web?q={{{s}}}"
+  },
+  {
+    "d": "apple.stackexchange.com",
+    "s": "Ask Different",
+    "t": "askd",
+    "u": "http://apple.stackexchange.com/search?{{{s}}}"
+  },
+  {
+    "d": "support.f5.com",
+    "s": "AskF5 (support.f5.com)",
+    "t": "askf5",
+    "u": "https://support.f5.com/kb/en-us/search.res.html?productList=big-ip%2Cbc%2Cfp%2C3-dns%2Clc%2Cts%2Cwj%2Cwa_5_x%2Csam%2Clinerate-eol&versionList=all%2C&searchType=basic&isFromGSASearch=false&query={{{s}}}&site=support_external&client=support-f5-com&q={{{s}}}&prodName=ALL&prodVersText=&docTypeName=ALL&includeArchived=false&submit_form=&product=all&eolProducts=all&documentType=all"
+  },
+  {
+    "d": "ask.fedoraproject.org",
+    "s": "Ask Fedora",
+    "t": "askfedora",
+    "u": "https://ask.fedoraproject.org/en/questions/scope:all/sort:activity-desc/page:1/query:{{{s}}}/"
+  },
+  {
+    "d": "askimam.org",
+    "s": "ASK IMAM",
+    "t": "askimam",
+    "u": "http://askimam.org/public/processsearch/Question.keywords:{{{s}}}/Question.type:1"
+  },
+  {
+    "d": "ca.askmen.com",
+    "s": "AskMen",
+    "t": "askmen",
+    "u": "http://ca.askmen.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "/r/AskReddit",
+    "t": "askreddit",
+    "u": "https://www.reddit.com/r/AskReddit/search?q={{{s}}}&restrict_sr=on&sort=relevance&t=all"
+  },
+  {
+    "d": "www.asksteem.com",
+    "s": "AskSteem",
+    "t": "asksteem",
+    "u": "https://www.asksteem.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.asksutra.com",
+    "s": "Ask Sutra",
+    "t": "asksutra",
+    "u": "http://www.asksutra.com/en/serp.php?cx=006191677038902776655%3Akobzooodbpy&cof=FORID%3A11&q={{{s}}}"
+  },
+  {
+    "d": "askubuntu.com",
+    "s": "Ask Ubuntu",
+    "t": "asku",
+    "u": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "askubuntu.com",
+    "s": "Ask Ubuntu",
+    "t": "askubnt",
+    "u": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "askubuntu.com",
+    "s": "Ask Ubuntu",
+    "t": "askubuntu",
+    "u": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.askvg.com",
+    "s": "AskVG",
+    "t": "askvg",
+    "u": "http://www.askvg.com/?s={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.com",
+    "s": "Amazon Smile",
+    "t": "asm",
+    "u": "http://smile.amazon.com/s/?field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.asthamobileshop.ml",
+    "s": "Astha Mobile Shop",
+    "t": "asmmrg",
+    "u": "https://www.asthamobileshop.ml/_/search?query={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.co.uk",
+    "s": "Amazon Smile (UK)",
+    "t": "asmuk",
+    "u": "https://smile.amazon.co.uk/s?field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.ultratools.com",
+    "s": "Ultratools",
+    "t": "asnumber",
+    "u": "https://www.ultratools.com/tools/asnInfoResult?domainName={{{s}}}"
+  },
+  {
+    "d": "awoiaf.westeros.org",
+    "s": "A Wiki of Ice and Fire",
+    "t": "asoiaf",
+    "u": "http://awoiaf.westeros.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.asos.com",
+    "s": "Asos.com",
+    "t": "asos",
+    "u": "http://www.asos.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "smile.amazon.com",
+    "s": "Amazon Subscribe & Save",
+    "t": "ass",
+    "u": "https://smile.amazon.com/s?url=srs%3D5856181011&field-keywords={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Asterisk Wiki",
+    "t": "asterisk",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Awiki.asterisk.org&ia=web"
+  },
+  {
+    "d": "stock.adobe.com",
+    "s": "Adobe Stock",
+    "t": "astk",
+    "u": "https://stock.adobe.com/search?k={{{s}}}"
+  },
+  {
+    "d": "stock.adobe.com",
+    "s": "Adobe Stock",
+    "t": "astock",
+    "u": "https://stock.adobe.com/fr/search?k={{{s}}}"
+  },
+  {
+    "d": "www.astray.com",
+    "s": "Astray Recipes",
+    "t": "astray",
+    "u": "http://www.astray.com/recipes/?search={{{s}}}"
+  },
+  {
+    "d": "www.astrobin.com",
+    "s": "AstroBin",
+    "t": "astrobin",
+    "u": "http://www.astrobin.com/search/?q={{{s}}}&search_type=1&solar_system_main_subject=&telescope_type=any&camera_type=any&aperture_min=&aperture_max=&pixel_size_min=&pixel_size_max=&start_date=&end_date=&integration_min=&integration_max=&moon_phase_min=&moon_phase_max="
+  },
+  {
+    "d": "smile.amazon.co.uk",
+    "s": "Amazon Smile (UK)",
+    "t": "asuk",
+    "u": "https://smile.amazon.co.uk/s?field-keywords={{{s}}}"
+  },
+  {
+    "d": "www.asus.com",
+    "s": "Asus",
+    "t": "asus",
+    "u": "http://www.asus.com/us/Search/?SearchKey={{{s}}}"
+  },
+  {
+    "d": "search.asx.com.au",
+    "s": "Australian Securities Exchange",
+    "t": "asx",
+    "u": "https://search.asx.com.au/s/search.html?query={{{s}}}&collection=asx-meta&profile=web"
+  },
+  {
+    "d": "www.at40.com",
+    "s": "American Top 40",
+    "t": "at40",
+    "u": "http://www.at40.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.addictivetips.com",
+    "s": "Addictive Tips",
+    "t": "at",
+    "u": "http://www.addictivetips.com/archives/search/?cx=015974260755795457590%3Akigcmyffu6y&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&s=Search"
+  },
+  {
+    "d": "arcade.tokyo",
+    "s": "Arcade Tokyo",
+    "t": "a.t",
+    "u": "https://arcade.tokyo/?s={{{s}}}"
+  },
+  {
+    "d": "www.atcmarket.cz",
+    "s": "AT Computers",
+    "t": "atcomp",
+    "u": "https://www.atcmarket.cz/zbozi?hledani=true&zb={{{s}}}"
+  },
+  {
+    "d": "allthingsd.com",
+    "s": "allthingsd",
+    "t": "atd",
+    "u": "http://allthingsd.com/?s={{{s}}}:"
+  },
+  {
+    "d": "www.athletic.net",
+    "s": "Athletic.net",
+    "t": "ath",
+    "u": "https://www.athletic.net/Search.aspx#?q={{{s}}}"
+  },
+  {
+    "d": "www.accesstoinsight.org",
+    "s": "Access to Insight",
+    "t": "ati",
+    "u": "http://www.accesstoinsight.org/search_results.html?cx=015061908441090246348%3Adj4lxnh4dda&cof=FORID%3A9%3BNB%3A1&ie=UTF-8&q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "academie.atilf.fr",
+    "s": "Académie Française",
+    "t": "atilf",
+    "u": "https://academie.atilf.fr/9/consulter/{{{s}}}?page=1"
+  },
+  {
+    "d": "atmospherejs.com",
+    "s": "atmosphereJS",
+    "t": "atjs",
+    "u": "https://atmospherejs.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.americastestkitchen.com",
+    "s": "America's Test Kitchen",
+    "t": "atk",
+    "u": "https://www.americastestkitchen.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.atlantistime.com",
+    "s": "Atlantis Time-Line",
+    "t": "atlantis",
+    "u": "https://www.atlantistime.com/?s={{{s}}}"
+  },
+  {
+    "d": "atlas.torproject.org",
+    "s": "Atlas",
+    "t": "atlas",
+    "u": "https://atlas.torproject.org/#search/{{{s}}}"
+  },
+  {
+    "d": "www.atlasobscura.com",
+    "s": "Atlas Obscura",
+    "t": "atlaso",
+    "u": "https://www.atlasobscura.com/search?q={{{s}}}&kind=keyword"
+  },
+  {
+    "d": "www.atlaspiv.cz",
+    "s": "Atlas piv",
+    "t": "atlaspiv",
+    "u": "http://www.atlaspiv.cz/?beername={{{s}}} "
+  },
+  {
+    "d": "atlwiki.net",
+    "s": "ATL Wiki",
+    "t": "atl",
+    "u": "http://atlwiki.net/Special:Search/{{{s}}}"
+  },
+  {
+    "d": "atlona.com",
+    "s": "Atlona",
+    "t": "atlona",
+    "u": "http://atlona.com/?s={{{s}}}"
+  },
+  {
+    "d": "forum.a-tm.co.jp",
+    "s": "Ateam Forum",
+    "t": "a-tm",
+    "u": "http://forum.a-tm.co.jp/search?q=hello&searchJSON={%22keywords%22%3A%22{{{s}}}%22}"
+  },
+  {
+    "d": "www.atmatix.pl",
+    "s": "ATmatix",
+    "t": "atmatix",
+    "u": "https://www.atmatix.pl/patterns/all?q={{{s}}}"
+  },
+  {
+    "d": "atmospherejs.com",
+    "s": "AtmosphereJS",
+    "t": "atmospherejs",
+    "u": "https://atmospherejs.com/?q={{{s}}}"
+  },
+  {
+    "d": "alternativeto.net",
+    "s": "AlternativeTo",
+    "t": "ato",
+    "u": "https://alternativeto.net/browse/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.atomtickets.com",
+    "s": "Atom Tickets",
+    "t": "atom",
+    "u": "https://www.atomtickets.com/search?query={{{s}}}"
+  },
+  {
+    "d": "atom.io",
+    "s": "atom.io",
+    "t": "atomio",
+    "u": "https://atom.io/packages/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "atom.io",
+    "s": "Atom packages",
+    "t": "atompackages",
+    "u": "https://atom.io/packages/search?q={{{s}}}"
+  },
+  {
+    "d": "atom.io",
+    "s": "Atom themes",
+    "t": "atomthemes",
+    "u": "https://atom.io/themes/search?q={{{s}}}"
+  },
+  {
+    "d": "www.atpworldtour.com",
+    "s": "ATP World Tour",
+    "t": "atp",
+    "u": "http://www.atpworldtour.com/Search/Site.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.abovetopsecret.com",
+    "s": "Above Top Secret",
+    "t": "ats",
+    "u": "http://www.abovetopsecret.com/forum/index.php {{{s}}}"
+  },
+  {
+    "d": "www.advancedtautactica.com",
+    "s": "Advanced Tau Tactica",
+    "t": "att",
+    "u": "http://www.advancedtautactica.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "atomix.vg",
+    "s": "Atomix.vg",
+    "t": "atx",
+    "u": "http://atomix.vg/?s={{{s}}}"
+  },
+  {
+    "d": "www.autoitscript.com",
+    "s": "AutoIt Forums",
+    "t": "au3",
+    "u": "https://www.autoitscript.com/forum/search/?q={{{s}}}"
+  },
+  {
+    "d": "aur.archlinux.org",
+    "s": "Arch Linux User Repository",
+    "t": "au",
+    "u": "https://aur.archlinux.org/packages/?K={{{s}}}"
+  },
+  {
+    "d": "primo.aub.aau.dk",
+    "s": "Aalborg Universitetsbibliotek",
+    "t": "aub",
+    "u": "http://primo.aub.aau.dk/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=desktop&frbg=&vl%28freeText0%29={{{s}}}&scp.scps=scope%3A%28AUB_PROJEKT_DC%29%2Cscope%3A%28AUB_SFX%29%2Cscope%3A%28AUB_AAL%29%2Cscope%3A%28AUB_ESB%29%2Cscope%3A%28AUB_KBH%29%2Cscope%3A%28AUB_VBN%29%2Cprimo_central_multiple_fe&vl%2857399062UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2857399064UI0%29=any&vl%2857399064UI0%29=title&vl%2857399064UI0%29=any"
+  },
+  {
+    "d": "askubuntu.com",
+    "s": "AskUbuntu",
+    "t": "aubuntu",
+    "u": "http://askubuntu.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE (AUD2EUR)",
+    "t": "AUD2EUR",
+    "u": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=EUR"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE (AUD2GBP)",
+    "t": "AUD2GDP",
+    "u": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=GBP"
+  },
+  {
+    "d": "www.xe.com",
+    "s": "XE (AUD2USD)",
+    "t": "aud2usd",
+    "u": "http://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=USD"
+  },
+  {
+    "d": "forum.audacityteam.org",
+    "s": "Audacity Forum",
+    "t": "audf",
+    "u": "https://forum.audacityteam.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.audi.de",
+    "s": "Audi",
+    "t": "audi",
+    "u": "http://www.audi.de/de/brand/de/tools/search.html#search={{{s}}}"
+  },
+  {
+    "d": "www.audible.com",
+    "s": "Audible.com",
+    "t": "audible",
+    "u": "http://www.audible.com/search?advsearchKeywords={{{s}}}"
+  },
+  {
+    "d": "www.audible.com",
+    "s": "Audible.com",
+    "t": "audible.com",
+    "u": "http://www.audible.com/search?advsearchKeywords={{{s}}}"
+  },
+  {
+    "d": "www.audible.de",
+    "s": "Audible.de",
+    "t": "audible.de",
+    "u": "http://www.audible.de/search?advsearchKeywords={{{s}}}"
+  },
+  {
+    "d": "www.audible.de",
+    "s": "Audible.de",
+    "t": "audiblede",
+    "u": "http://www.audible.de/search?advsearchKeywords={{{s}}}"
+  },
+  {
+    "d": "www.audible.co.uk",
+    "s": "Audible UK",
+    "t": "audibleuk",
+    "u": "http://www.audible.co.uk/search/?advsearchKeywords={{{s}}}&filterby=field-keywords&x=0&y=0"
+  },
+  {
+    "d": "audiobook.jp",
+    "s": "audiobookjp",
+    "t": "audiobookjp",
+    "u": "https://audiobook.jp/search?q={{{s}}}"
+  },
+  {
+    "d": "fr.audiofanzine.com",
+    "s": "Audiofanzine",
+    "t": "audiofanzine",
+    "u": "http://fr.audiofanzine.com/recherche/{{{s}}}.html"
+  },
+  {
+    "d": "app.audiogon.com",
+    "s": "Audiogon",
+    "t": "audiogon",
+    "u": "https://app.audiogon.com/listings?&global_search_text={{{s}}}"
+  },
+  {
+    "d": "audiojungle.net",
+    "s": "AudioJungle",
+    "t": "audiojungle",
+    "u": "http://audiojungle.net/search?utf8=%E2%9C%93&term={{{s}}}"
+  },
+  {
+    "d": "www.audionetwork.com",
+    "s": "Audio Network",
+    "t": "audionetwork",
+    "u": "http://www.audionetwork.com/show-production-results.aspx?stype=4&keywords={{{s}}}"
+  },
+  {
+    "d": "birds.audubon.org",
+    "s": "National Audubon Society (birds)",
+    "t": "audubonb",
+    "u": "http://birds.audubon.org/search/node?keys={{{s}}}"
+  },
+  {
+    "d": "www.audubonmagazine.org",
+    "s": "Audubon Magazine",
+    "t": "audubonmag",
+    "u": "http://www.audubonmagazine.org/search/node?keys={{{s}}}"
+  },
+  {
+    "d": "www.audubon.org",
+    "s": "National Audubon Society",
+    "t": "audubon",
+    "u": "http://www.audubon.org/search/node?keys={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.uk",
+    "s": "Amazon.co.uk",
+    "t": "a.uk",
+    "u": "https://www.amazon.co.uk/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.uk",
+    "s": "Amazon.co.uk",
+    "t": "auk",
+    "u": "https://www.amazon.co.uk/s?k={{{s}}}"
+  },
+  {
+    "d": "aukro.cz",
+    "s": "Aukro",
+    "t": "aukro",
+    "u": "http://aukro.cz/listing.php/search?string={{{s}}}"
+  },
+  {
+    "d": "www.aulete.com.br",
+    "s": "iDicionário Aulete",
+    "t": "aulete",
+    "u": "http://www.aulete.com.br/{{{s}}}"
+  },
+  {
+    "d": "search.auone.jp",
+    "s": "au one Web Portal",
+    "t": "auone",
+    "u": "http://search.auone.jp/?q={{{s}}}"
+  },
+  {
+    "d": "aur4.archlinux.org",
+    "s": "Arch User Repository v4",
+    "t": "aur4",
+    "u": "https://aur4.archlinux.org/packages/?K={{{s}}}"
+  },
+  {
+    "d": "aur.archlinux.org",
+    "s": "Arch User Repository",
+    "t": "aur",
+    "u": "https://aur.archlinux.org/packages/?K={{{s}}}"
+  },
+  {
+    "d": "aur.archlinux.org",
+    "s": "Arch User Repository Package",
+    "t": "aurp",
+    "u": "https://aur.archlinux.org/packages/{{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "aus",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "australia.gov.au",
+    "s": "australia.gov.au",
+    "t": "ausgov",
+    "u": "http://australia.gov.au/search?collection=gov_all&coverage=all&num_ranks=3&extra_all_num_ranks=3&form=simple&query={{{s}}}"
+  },
+  {
+    "d": "www.ausmed.com.au",
+    "s": "Ausmed Education",
+    "t": "ausmed",
+    "u": "http://www.ausmed.com.au/sitesearch?q={{{s}}}"
+  },
+  {
+    "d": "ausopen.com",
+    "s": "Australian Open",
+    "t": "ausopen",
+    "u": "https://ausopen.com/search?search={{{s}}}"
+  },
+  {
+    "d": "auspost.com.au",
+    "s": "Australia Post",
+    "t": "auspost",
+    "u": "http://auspost.com.au/track/track.html?id={{{s}}}"
+  },
+  {
+    "d": "www.austlii.edu.au",
+    "s": "AustLII (Australasian Legal Information Institute)",
+    "t": "austlii",
+    "u": "http://www.austlii.edu.au/cgi-bin/sinosrch.cgi?query={{{s}}}&results=50&submit=Search&mask_world=&mask_path=&callback=on&method=auto&meta=%2Fau"
+  },
+  {
+    "d": "www.theaustralian.com.au",
+    "s": "The Australian",
+    "t": "australian",
+    "u": "https://www.theaustralian.com.au/search-results?q={{{s}}}"
+  },
+  {
+    "d": "www.autoanything.com",
+    "s": "AutoAnything",
+    "t": "autoanything",
+    "u": "http://www.autoanything.com/shop/{{{s}}}"
+  },
+  {
+    "d": "www.autoblip.com",
+    "s": "Autoblip",
+    "t": "autoblip",
+    "u": "http://www.autoblip.com/used/{{{s}}} "
+  },
+  {
+    "d": "seznam-autobusu.cz",
+    "s": "seznam-autobusu.cz",
+    "t": "autobus",
+    "u": "http://seznam-autobusu.cz/seznam?numberPlateOrNumber={{{s}}}"
+  },
+  {
+    "d": "www.autocar.co.uk",
+    "s": "Autocar.co.uk",
+    "t": "autocar",
+    "u": "http://www.autocar.co.uk/SearchResults.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.autosar.org",
+    "s": "Autosar",
+    "t": "autosar",
+    "u": "https://www.autosar.org/nc/document-search/?tx_sysgsearch_pi1%5Bquery%5D={{{s}}}"
+  },
+  {
+    "d": "www.autocosmos.com.mx",
+    "s": "Autocosmos",
+    "t": "autos",
+    "u": "http://www.autocosmos.com.mx/search?q={{{s}}}"
+  },
+  {
+    "d": "www.autozone.com",
+    "s": "AutoZone",
+    "t": "autozone",
+    "u": "http://www.autozone.com/searchresult?searchText={{{s}}}"
+  },
+  {
+    "d": "www.alpenvereinaktiv.com",
+    "s": "alpenvereinaktiv",
+    "t": "avaktiv",
+    "u": "https://www.alpenvereinaktiv.com/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.avanza.se",
+    "s": "Avanza",
+    "t": "avanza",
+    "u": "https://www.avanza.se/sok.html?query={{{s}}}"
+  },
+  {
+    "d": "avatar.wikia.com",
+    "s": "Avatar Wiki",
+    "t": "avatar",
+    "u": "http://avatar.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "www.avatarpress.com",
+    "s": "Avatar Press",
+    "t": "avatarpress",
+    "u": "http://www.avatarpress.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.avclub.com",
+    "s": "A.V. Club",
+    "t": "av",
+    "u": "https://www.avclub.com/search?q={{{s}}}"
+  },
+  {
+    "d": "avxsearch.se",
+    "s": "avax",
+    "t": "avax",
+    "u": "http://avxsearch.se/search?q={{{s}}}:"
+  },
+  {
+    "d": "avaxsearch.net",
+    "s": "AvaxHome",
+    "t": "avaxh",
+    "u": "http://avaxsearch.net/avaxhome_search?q={{{s}}} &a=&commit=Search&c=&l=&sort_by="
+  },
+  {
+    "d": "www.avclub.com",
+    "s": "The A.V. Club",
+    "t": "avclub",
+    "u": "https://www.avclub.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.avclub.com",
+    "s": "The A.V. Club",
+    "t": "avc",
+    "u": "http://www.avclub.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "avechi.com",
+    "s": "Avechi",
+    "t": "avechi",
+    "u": "https://avechi.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.aventrix.com",
+    "s": "Aventrix",
+    "t": "aventrix",
+    "u": "https://www.aventrix.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.asexuality.org",
+    "s": "AVENwiki",
+    "t": "avenwiki",
+    "u": "http://www.asexuality.org/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "search.avg.com",
+    "s": "AVG Secure Search",
+    "t": "avg",
+    "u": "http://search.avg.com/search?q={{{s}}}"
+  },
+  {
+    "d": "kb.avg.com",
+    "s": "AVG Knowledge Base",
+    "t": "avgkb",
+    "u": "http://kb.avg.com/pkb_Home?q={{{s}}}"
+  },
+  {
+    "d": "avicultura.com",
+    "s": "Avicultura",
+    "t": "avi",
+    "u": "https://avicultura.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.applevis.com",
+    "s": "applevis.com",
+    "t": "avis",
+    "u": "https://www.applevis.com/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "www.avito.ru",
+    "s": "Avito",
+    "t": "avito",
+    "u": "https://www.avito.ru/rossiya?q={{{s}}}"
+  },
+  {
+    "d": "avpodcast.net",
+    "s": "AVpodcast",
+    "t": "avpod",
+    "u": "https://avpodcast.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.adamvstheman.com",
+    "s": "Adam Vs The Man",
+    "t": "avtm",
+    "u": "http://www.adamvstheman.com/?s={{{s}}} "
+  },
+  {
+    "d": "avtoprom.org",
+    "s": "avtoprom.org",
+    "t": "avtoprom",
+    "u": "https://avtoprom.org/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.avvo.com",
+    "s": "avvo.com",
+    "t": "avvo",
+    "u": "https://www.avvo.com/search?query={{{s}}}&commit=Search"
+  },
+  {
+    "d": "anevandos.wikia.com",
+    "s": "Anevandos Wiki",
+    "t": "avw",
+    "u": "http://anevandos.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "wordsmith.org",
+    "s": "A.Word.A.Day",
+    "t": "awad",
+    "u": "http://wordsmith.org/awad/search.html?cx=partner-pub-0068747404870456%3A118gxl-7atb&cof=FORID%3A11&q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "wiki.archlinux.org",
+    "s": "Arch Linux Wiki",
+    "t": "aw",
+    "u": "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "flightaware.com",
+    "s": "flightaware",
+    "t": "aware",
+    "u": "http://flightaware.com/live/airport/{{{s}}}"
+  },
+  {
+    "d": "www.getawaygear.com",
+    "s": "Get Away Gear",
+    "t": "away",
+    "u": "https://www.getawaygear.com/index.php?page=search&sPattern={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Warehouse Deals",
+    "t": "awd",
+    "u": "https://www.amazon.com/s/url=search-alias%3Dwarehouse-deals&field-keywords={{{s}}}"
+  },
+  {
+    "d": "wiki.archlinux.de",
+    "s": "wiki.archlinux.de",
+    "t": "awde",
+    "u": "https://wiki.archlinux.de/index.php?title=Spezial%3ASuche&search={{{s}}}"
+  },
+  {
+    "d": "ruby.libhunt.com",
+    "s": "Awesome Ruby",
+    "t": "awerb",
+    "u": "https://ruby.libhunt.com/search?query={{{s}}}"
+  },
+  {
+    "d": "awesomecow.com",
+    "s": "Awesome Cow",
+    "t": "awesomecow",
+    "u": "http://awesomecow.com/index.php?ieska={{{s}}}"
+  },
+  {
+    "d": "awesomenauts.gamepedia.com",
+    "s": "Awesomenauts Wiki",
+    "t": "awesomenauts",
+    "u": "http://awesomenauts.gamepedia.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.augsburgwiki.de",
+    "s": "Augsburgwiki",
+    "t": "awiki",
+    "u": "https://www.augsburgwiki.de/index.php/AugsburgWiki/Suchergebnisse?q={{{s}}}"
+  },
+  {
+    "d": "images.search.yahoo.com",
+    "s": "Yahoo Images",
+    "t": "awimg",
+    "u": "http://images.search.yahoo.com/search/images;_ylt=A0PDoS1.milPyVkAh7OJzbkF?p={{{s}}}&fr=alltheweb&ei=utf-8&n=30&x=wrt&y=Search"
+  },
+  {
+    "d": "www.ancientwisdom.biz",
+    "s": "Ancient Wisdom",
+    "t": "awisdom",
+    "u": "https://www.ancientwisdom.biz/search.php?q={{{s}}}"
+  },
+  {
+    "d": "awoiaf.westeros.org",
+    "s": "A Wiki of Ice and Fire",
+    "t": "awoiaf",
+    "u": "http://awoiaf.westeros.org/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "docs.aws.amazon.com",
+    "s": "Amazon Web Services",
+    "t": "aws",
+    "u": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation&searchQuery={{{s}}} "
+  },
+  {
+    "d": "androidxref.com",
+    "s": "androidxref",
+    "t": "ax",
+    "u": "http://androidxref.com/5.1.0_r1/search?&project=abi&project=art&project=bionic&project=bootable&project=build&project=cts&project=dalvik&project=developers&project=development&project=device&project=docs&project=external&project=frameworks&project=hardware&project=libcore&project=libnativehelper&project=ndk&project=packages&project=pdk&project=prebuilts&project=sdk&project=system&project=tools&q={{{s}}}"
+  },
+  {
+    "d": "www.aboutyou.de",
+    "s": "AboutYou",
+    "t": "ay",
+    "u": "https://www.aboutyou.de/suche?term={{{s}}}&search_source=ddgo"
+  },
+  {
+    "d": "ayrne.io",
+    "s": "Ayrne",
+    "t": "ayrne",
+    "u": "https://ayrne.io/?s={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon.com",
+    "t": "az",
+    "u": "https://www.amazon.com/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Amazon Deutschland",
+    "t": "azd",
+    "u": "https://www.amazon.de/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.es",
+    "s": "Amazon Spain",
+    "t": "aze",
+    "u": "https://www.amazon.es/s?k={{{s}}}"
+  },
+  {
+    "d": "www.amazon.fr",
+    "s": "Amazon fr",
+    "t": "azf",
+    "u": "https://www.amazon.fr/s?k={{{s}}}"
+  },
+  {
+    "d": "www.azfonts.net",
+    "s": "AZFonts",
+    "t": "azfonts",
+    "u": "https://www.azfonts.net/search.html?query={{{s}}}"
+  },
+  {
+    "d": "azurlane.koumakan.jp",
+    "s": "Azur Lane Wiki",
+    "t": "azlane",
+    "u": "https://azurlane.koumakan.jp/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "search.azlyrics.com",
+    "s": "Az Lyrics",
+    "t": "azl",
+    "u": "http://search.azlyrics.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "search.azlyrics.com",
+    "s": "AZLyrics",
+    "t": "azlyrics",
+    "u": "http://search.azlyrics.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.azom.com",
+    "s": "AZoM",
+    "t": "azm",
+    "u": "https://www.azom.com/search.aspx?q={{{s}}}&site=all&fsb=1"
+  },
+  {
+    "d": "azol.de",
+    "s": "Augsburger Allgemeine",
+    "t": "azol",
+    "u": "http://azol.de/suche/?q={{{s}}}"
+  },
+  {
+    "d": "www.azom.com",
+    "s": "Azom",
+    "t": "azom",
+    "u": "https://www.azom.com/search.aspx?q={{{s}}}&site=all&fsb=1"
+  },
+  {
+    "d": "azspot.net",
+    "s": "AZspot",
+    "t": "azs",
+    "u": "https://azspot.net/search/{{{s}}}"
+  },
+  {
+    "d": "www.amazon.co.uk",
+    "s": "Amazon UK",
+    "t": "azuk",
+    "u": "https://www.amazon.co.uk/s?k={{{s}}}"
+  },
+  {
+    "d": "azure.microsoft.com",
+    "s": "Azure Documentation",
+    "t": "azure",
+    "u": "https://azure.microsoft.com/en-us/search/?q={{{s}}}"
+  }
+]

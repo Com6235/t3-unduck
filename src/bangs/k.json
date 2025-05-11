@@ -1,0 +1,1622 @@
+[
+  {
+    "d": "kubernetes.io",
+    "s": "Kubernetes",
+    "t": "k8s",
+    "u": "https://kubernetes.io/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.kaartje2go.nl",
+    "s": "Kaartje2go",
+    "t": "kaartje",
+    "u": "https://www.kaartje2go.nl/zoeken?q={{{s}}}"
+  },
+  {
+    "d": "www.kabum.com.br",
+    "s": "KaBuM",
+    "t": "kabum",
+    "u": "https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string={{{s}}}&btnG="
+  },
+  {
+    "d": "kaffee.citadella.de",
+    "s": "Citadella Online Kaffee Shop",
+    "t": "kaffee",
+    "u": "https://kaffee.citadella.de/de/suche?controller=search&s={{{s}}}"
+  },
+  {
+    "d": "www.kafto.gr",
+    "s": "Kafto",
+    "t": "kafto",
+    "u": "https://www.kafto.gr/?s={{{s}}}"
+  },
+  {
+    "d": "create.kahoot.it",
+    "s": "Kahoot",
+    "t": "kahoot",
+    "u": "https://create.kahoot.it/search?filter=1&query=science&tags={{{s}}}"
+  },
+  {
+    "d": "www.kahtahaber.com",
+    "s": "Kahta Haber",
+    "t": "kahta",
+    "u": "https://www.kahtahaber.com/search?q={{{s}}}"
+  },
+  {
+    "d": "kakaku.com",
+    "s": "kakaku.com",
+    "t": "kakaku",
+    "u": "http://kakaku.com/search_results/{{{s}}}"
+  },
+  {
+    "d": "www.khanacademy.org",
+    "s": "Khan Academy",
+    "t": "ka",
+    "u": "https://www.khanacademy.org/search?page_search_query={{{s}}}"
+  },
+  {
+    "d": "kakijun.jp",
+    "s": "Kakijun.jp",
+    "t": "kakijun",
+    "u": "http://kakijun.jp/main/u_kensaku.php?KANJI={{{s}}}"
+  },
+  {
+    "d": "kakosepise.com",
+    "s": "Како се пише",
+    "t": "kakosepise",
+    "u": "http://kakosepise.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.kaleva.fi",
+    "s": "Kaleva.fi",
+    "t": "kaleva",
+    "u": "https://www.kaleva.fi/haku/?search={{{s}}}"
+  },
+  {
+    "d": "www.kali.org",
+    "s": "kali linux",
+    "t": "kali",
+    "u": "https://www.kali.org/?s={{{s}}}"
+  },
+  {
+    "d": "kalimah.top",
+    "s": "Kalimah.top",
+    "t": "kalimah",
+    "u": "https://kalimah.top/results/?q={{{s}}}"
+  },
+  {
+    "d": "www.kamailio.org",
+    "s": "Kamailio",
+    "t": "kamailio",
+    "u": "https://www.kamailio.org/w/?s={{{s}}}"
+  },
+  {
+    "d": "kamelopedia.mormo.org",
+    "s": "Kamelopedia",
+    "t": "kamelopedia",
+    "u": "http://kamelopedia.mormo.org/index.php?title=Spezial%3ASuche&search={{{s}}}&button=Senden"
+  },
+  {
+    "d": "prpm.dbp.gov.my",
+    "s": "Pusat Rujukan Persuratan Melayu",
+    "t": "kamus",
+    "u": "http://prpm.dbp.gov.my/Search.aspx?k={{{s}}}"
+  },
+  {
+    "d": "kamusiturki.com",
+    "s": "www.kamusiturki.com",
+    "t": "kam",
+    "u": "http://kamusiturki.com/{{{s}}}"
+  },
+  {
+    "d": "kancolle.wikia.com",
+    "s": "Kantai Collection Wiki",
+    "t": "kancolle",
+    "u": "http://kancolle.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "kangarookarry.com",
+    "s": "Kangaroo Karry",
+    "t": "kangaroo",
+    "u": "https://kangarookarry.com/search?type=product&q={{{s}}}"
+  },
+  {
+    "d": "app.kanjialive.com",
+    "s": "Kanji Alive",
+    "t": "kanji",
+    "u": "https://app.kanjialive.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.kanopy.com",
+    "s": "Kanopy",
+    "t": "kanopy",
+    "u": "https://www.kanopy.com/s?query={{{s}}}"
+  },
+  {
+    "d": "forum.kaosx.us",
+    "s": "KaOS website search",
+    "t": "kaos",
+    "u": "https://forum.kaosx.us/?q={{{s}}}"
+  },
+  {
+    "d": "kaosx.tk",
+    "s": "KaOS packages",
+    "t": "kaospkg",
+    "u": "http://kaosx.tk/packages/?act=search&subdir=&sortby=date&order=descending&searchpattern={{{s}}} "
+  },
+  {
+    "d": "api.kde.org",
+    "s": "KDE API Reference",
+    "t": "kapi",
+    "u": "http://api.kde.org/mapsearcher.php?class={{{s}}}&module=ALL&version=ALL&go=Go"
+  },
+  {
+    "d": "www.khanacademy.org",
+    "s": "Khan Academy (Profile Page)",
+    "t": "kaprof",
+    "u": "https://www.khanacademy.org/profile/{{{s}}}/"
+  },
+  {
+    "d": "judgmenthck.kar.nic.in",
+    "s": "Karnataka High Court",
+    "t": "karhcj",
+    "u": "http://judgmenthck.kar.nic.in/judgments/simple-search?query={{{s}}}"
+  },
+  {
+    "d": "dikarier.com",
+    "s": "Dikarier.com",
+    "t": "karir",
+    "u": "https://dikarier.com/layanan/?keywords={{{s}}}"
+  },
+  {
+    "d": "karmadecay.com",
+    "s": "Karma Decay",
+    "t": "karmadecay",
+    "u": "http://karmadecay.com/{{{s}}}"
+  },
+  {
+    "d": "www.karmaplace.com",
+    "s": "KarmaPlace",
+    "t": "KarmaPlace",
+    "u": "http://www.karmaplace.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "kart.finn.no",
+    "s": "FINN kart",
+    "t": "kart",
+    "u": "https://kart.finn.no/?q={{{s}}}"
+  },
+  {
+    "d": "www.kashipara.com",
+    "s": "https://www.kashipara.com/",
+    "t": "kashipara",
+    "u": "https://www.kashipara.com/search/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.kaskus.co.id",
+    "s": "Kaskus",
+    "t": "kas",
+    "u": "http://www.kaskus.co.id/search?q={{{s}}}"
+  },
+  {
+    "d": "www.kaskus.co.id",
+    "s": "Kaskus - The Largest Indonesian Community",
+    "t": "kaskus",
+    "u": "https://www.kaskus.co.id/search?q={{{s}}}"
+  },
+  {
+    "d": "support.kaspersky.com",
+    "s": "Kaspersky Lab Technical Support",
+    "t": "kaspersky",
+    "u": "http://support.kaspersky.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.securelist.com",
+    "s": "Securelist Malware info",
+    "t": "kasperskymal",
+    "u": "https://www.securelist.com/en/descriptions?words={{{s}}}&behavior=&Search=Search&search_type=1"
+  },
+  {
+    "d": "katacoda.com",
+    "s": "katacoda",
+    "t": "katacoda",
+    "u": "https://katacoda.com/search?q={{{s}}}"
+  },
+  {
+    "d": "kateglo.com",
+    "s": "Kateglo",
+    "t": "kateglo",
+    "u": "http://kateglo.com/?phrase={{{s}}}&mod=dictionary"
+  },
+  {
+    "d": "www.kayak.com",
+    "s": "KAYAK",
+    "t": "kayak",
+    "u": "https://www.kayak.com/sherlock/opensearch/search?q={{{s}}}"
+  },
+  {
+    "d": "fegszerviz.hu",
+    "s": "kazan",
+    "t": "kazan",
+    "u": "http://fegszerviz.hu/?s={{{s}}}"
+  },
+  {
+    "d": "kbbi.kemdikbud.go.id",
+    "s": "Kamus Besar Bahasa Indonesia",
+    "t": "kbbi",
+    "u": "https://kbbi.kemdikbud.go.id/entri/{{{s}}}"
+  },
+  {
+    "d": "www.kbb.com",
+    "s": "Kelly Blue Book",
+    "t": "kbb",
+    "u": "https://www.kbb.com/search/?source=homepage&query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Keybase.io",
+    "t": "kb",
+    "u": "http://duckduckgo.com/?q=site%3Akeybase.io+{{{s}}}"
+  },
+  {
+    "d": "korben.info",
+    "s": "Korben",
+    "t": "kbn",
+    "u": "https://korben.info/?s={{{s}}}"
+  },
+  {
+    "d": "kuldnebors.ee",
+    "s": "Kuldne Börs",
+    "t": "kbors",
+    "u": "http://kuldnebors.ee/search/search.mec?search_evt=onsearch&pob_action=search&search_O_string={{{s}}}"
+  },
+  {
+    "d": "kabutan.jp",
+    "s": "Kabutan",
+    "t": "kbt",
+    "u": "https://kabutan.jp/stock/?code={{{s}}}"
+  },
+  {
+    "d": "bugs.kde.org",
+    "s": "KDE Bugs",
+    "t": "kbugs",
+    "u": "https://bugs.kde.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "konachan.net",
+    "s": "konachan.net",
+    "t": "kchannet",
+    "u": "http://konachan.net/post?tags={{{s}}}"
+  },
+  {
+    "d": "www.kcl.ac.uk",
+    "s": "King's College London",
+    "t": "kcl",
+    "u": "https://www.kcl.ac.uk/search/search.aspx#/all?term={{{s}}}"
+  },
+  {
+    "d": "kcls.bibliocommons.com",
+    "s": "King County Library System",
+    "t": "kcls",
+    "u": "http://kcls.bibliocommons.com/search?t=smart&search_category=keyword&q={{{s}}}&commit=Search"
+  },
+  {
+    "d": "kc-mm.com",
+    "s": "KittyCorp: MeowMix",
+    "t": "kcmm",
+    "u": "http://kc-mm.com/?s={{{s}}}"
+  },
+  {
+    "d": "community.kde.org",
+    "s": "KDE Community Wiki",
+    "t": "kcommunity",
+    "u": "http://community.kde.org/index.php?title=Special:Search&search={{{s}}}"
+  },
+  {
+    "d": "github.com",
+    "s": "KaOS",
+    "t": "kcp",
+    "u": "https://github.com/KaOS-Community-Packages?query={{{s}}}"
+  },
+  {
+    "d": "catalog.kentonlibrary.org",
+    "s": "Kenton County Public Library",
+    "t": "kcpl",
+    "u": "http://catalog.kentonlibrary.org/eg/opac/results?query={{{s}}}"
+  },
+  {
+    "d": "code.kx.com",
+    "s": "kx",
+    "t": "kdb",
+    "u": "https://code.kx.com/q/search?query={{{s}}}"
+  },
+  {
+    "d": "www.kdeblog.com",
+    "s": "http://www.kdeblog.com",
+    "t": "kdeblog",
+    "u": "http://www.kdeblog.com/?s={{{s}}}"
+  },
+  {
+    "d": "kanjidamage.com",
+    "s": "Kanji Damage",
+    "t": "kd",
+    "u": "http://kanjidamage.com/kanji/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.kdnuggets.com",
+    "s": "KDnuggets",
+    "t": "kdnuggets",
+    "u": "https://www.kdnuggets.com/?s={{{s}}}"
+  },
+  {
+    "d": "kn.eki.ee",
+    "s": "e-keelenõu",
+    "t": "keel",
+    "u": "http://kn.eki.ee/?Q={{{s}}}"
+  },
+  {
+    "d": "keepa.com",
+    "s": "Keepa",
+    "t": "keepa",
+    "u": "http://keepa.com/#search/x-{{{s}}}"
+  },
+  {
+    "d": "keep.google.com",
+    "s": "Google Keep",
+    "t": "keep",
+    "u": "https://keep.google.com/#search/text={{{s}}}"
+  },
+  {
+    "d": "www.keh.com",
+    "s": "KEH Camera",
+    "t": "keh",
+    "u": "https://www.keh.com/shop/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "keithspecialty.com",
+    "s": "Keith Specialty",
+    "t": "keithspecialty",
+    "u": "http://keithspecialty.com/cgi-keithspecialty/sb/productsearch.cgi?storeid=*0ee0f14a0870280c8d&search_field= {{{s}}} "
+  },
+  {
+    "d": "kekanto.com.br",
+    "s": "Kekanto",
+    "t": "kekanto",
+    "u": "https://kekanto.com.br/newsearch?search={{{s}}}"
+  },
+  {
+    "d": "leit.keldan.is",
+    "s": "Keldan",
+    "t": "keldan",
+    "u": "https://leit.keldan.is/Home/Search?term={{{s}}}"
+  },
+  {
+    "d": "shopping.kelkoo.co.uk",
+    "s": "Kelkoo UK",
+    "t": "kelkoo",
+    "u": "http://shopping.kelkoo.co.uk/ss-{{{s}}}.html"
+  },
+  {
+    "d": "shopping.kelkoo.se",
+    "s": "Kelkoo Sweden",
+    "t": "kelkoose",
+    "u": "http://shopping.kelkoo.se/ss-{{{s}}}.html"
+  },
+  {
+    "d": "japari-library.com",
+    "s": "Japari Library",
+    "t": "kemono",
+    "u": "https://japari-library.com/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ovi.rdw.nl",
+    "s": "RDW (Dutch governmental traffic agency)",
+    "t": "kenteken",
+    "u": "https://ovi.rdw.nl/default.aspx?kenteken={{{s}}}"
+  },
+  {
+    "d": "keras.io",
+    "s": "Keras Documentation",
+    "t": "keras",
+    "u": "https://keras.io/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.gyakorikerdesek.hu",
+    "s": "Gyakorikérdések",
+    "t": "kerdes",
+    "u": "https://www.gyakorikerdesek.hu/kereses.php?keres={{{s}}}"
+  },
+  {
+    "d": "kerjasama.bandung.go.id",
+    "s": "Bagian Kerjasama Kota Bandung",
+    "t": "kerjasama",
+    "u": "http://kerjasama.bandung.go.id/?s={{{s}}}"
+  },
+  {
+    "d": "www.kerosenokomputing.com",
+    "s": "Keroseno Komputing",
+    "t": "kero",
+    "u": "http://www.kerosenokomputing.com/search?q={{{s}}} "
+  },
+  {
+    "d": "git.kernel.org",
+    "s": "The Linux Kernel Archives",
+    "t": "ker",
+    "u": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/log/?h=v5.0.1&qt=grep&q={{{s}}}"
+  },
+  {
+    "d": "ketab.io",
+    "s": "Ketab",
+    "t": "ketab",
+    "u": "https://ketab.io/search?submit=جستجو&q={{{s}}}"
+  },
+  {
+    "d": "keybase.io",
+    "s": "Keybase",
+    "t": "key",
+    "u": "https://keybase.io/{{{s}}}"
+  },
+  {
+    "d": "kasperfred.com",
+    "s": "Kasperfred",
+    "t": "kf",
+    "u": "https://kasperfred.com/posts/?q={{{s}}}"
+  },
+  {
+    "d": "www.keyforsteam.de",
+    "s": "Keyforsteam",
+    "t": "kfs",
+    "u": "http://www.keyforsteam.de/catalogue/search-{{{s}}}/"
+  },
+  {
+    "d": "www.kfz-info.net",
+    "s": "Kfz-Kennzeichen",
+    "t": "kfz",
+    "u": "http://www.kfz-info.net/{{{s}}}-kfz-kennzeichen/"
+  },
+  {
+    "d": "forum.kvinneguiden.no",
+    "s": "Kvinneguiden forum",
+    "t": "kgforum",
+    "u": "http://forum.kvinneguiden.no/?q={{{s}}}"
+  },
+  {
+    "d": "invent.kde.org",
+    "s": "KDE GitLab",
+    "t": "kgitlab",
+    "u": "https://invent.kde.org/search?utf8=✓&snippets=&scope=&search={{{s}}}"
+  },
+  {
+    "d": "kg-portal.ru",
+    "s": "KG-Portal",
+    "t": "kg",
+    "u": "http://kg-portal.ru/?search&s_str= {{{s}}}"
+  },
+  {
+    "d": "keygenmusic.net",
+    "s": "KEYGENMUSiC",
+    "t": "kgm",
+    "u": "http://keygenmusic.net/?page=search&query={{{s}}}"
+  },
+  {
+    "d": "khamsat.com",
+    "s": "Khamsat | خمسات",
+    "t": "khamsat",
+    "u": "https://khamsat.com/search?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "www.khanacademy.org",
+    "s": "Khan academy",
+    "t": "khanacademy",
+    "u": "http://www.khanacademy.org/search?page_search_query={{{s}}}"
+  },
+  {
+    "d": "www.khanacademy.org",
+    "s": "Khan Academy",
+    "t": "khan",
+    "u": "https://www.khanacademy.org/search?page_search_query={{{s}}}"
+  },
+  {
+    "d": "www.khinsider.com",
+    "s": "Kingdom Hearts Insider",
+    "t": "khinsider",
+    "u": "http://www.khinsider.com/search?search={{{s}}}"
+  },
+  {
+    "d": "hub.kubeapps.com",
+    "s": "Kubeapps Hub",
+    "t": "kh",
+    "u": "https://hub.kubeapps.com/charts?q={{{s}}}"
+  },
+  {
+    "d": "www.khronos.org",
+    "s": "Khronos",
+    "t": "khronos",
+    "u": "http://www.khronos.org/search/?cx=017055583490642512057:_ak1bpok_no&cof=FORID:9&q={{{s}}}&sa=Search&siteurl=www.khronos.org/"
+  },
+  {
+    "d": "www.khwiki.com",
+    "s": "Kingdom Hearts Wiki",
+    "t": "khwiki",
+    "u": "https://www.khwiki.com/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.kicker.de",
+    "s": "kicker online",
+    "t": "kicker",
+    "u": "http://www.kicker.de/home/suchergebnisse.html?suchbegriff={{{s}}}"
+  },
+  {
+    "d": "www.kicknews.net",
+    "s": "KickNews",
+    "t": "kicknews",
+    "u": "http://www.kicknews.net/news/search?q={{{s}}} "
+  },
+  {
+    "d": "www.kickstarter.com",
+    "s": "Kickstarter",
+    "t": "kickstarter",
+    "u": "https://www.kickstarter.com/projects/search?utf8=✓&term={{{s}}}"
+  },
+  {
+    "d": "www.kicktraq.com",
+    "s": "Kicktraq",
+    "t": "kicktraq",
+    "u": "http://www.kicktraq.com/search/?find={{{s}}}"
+  },
+  {
+    "d": "www.kiddle.co",
+    "s": "Kiddle",
+    "t": "kid",
+    "u": "https://www.kiddle.co/s.php?q={{{s}}}"
+  },
+  {
+    "d": "www.kidrex.org",
+    "s": "Kidrex",
+    "t": "kidrex",
+    "u": "http://www.kidrex.org/results/?q={{{s}}}"
+  },
+  {
+    "d": "www.kids-in-mind.com",
+    "s": "http://www.kids-in-mind.com",
+    "t": "kidsinmind",
+    "u": "http://www.kids-in-mind.com/cgi-bin/search/search.pl?q={{{s}}} "
+  },
+  {
+    "d": "www.kieskeurig.nl",
+    "s": "KIESKEURIG",
+    "t": "kieskeurig",
+    "u": "http://www.kieskeurig.nl/zoeken/index.html?q={{{s}}}"
+  },
+  {
+    "d": "www.kijiji.ca",
+    "s": "Kijiji Great Montreal",
+    "t": "kijijigm",
+    "u": "http://www.kijiji.ca/b-grand-montreal/{{{s}}}/k0l80002"
+  },
+  {
+    "d": "www.kijiji.it",
+    "s": "kijiji.it",
+    "t": "kijijiit",
+    "u": "http://www.kijiji.it/{{{s}}}/"
+  },
+  {
+    "d": "www.kijiji.ca",
+    "s": "Kijiji",
+    "t": "kijiji",
+    "u": "https://www.kijiji.ca/b-search.html?formSubmit=true&pageNumber=1&searchView=LIST&sortByName=dateDesc&urgentOnly=false&keywords={{{s}}}&SearchCategory=0"
+  },
+  {
+    "d": "www.kijiji.ca",
+    "s": "Kijiji Ottawa/Gatineau",
+    "t": "kijijiog",
+    "u": "https://www.kijiji.ca/b-ottawa-gatineau-area/{{{s}}}/k0l1700184?dc=true"
+  },
+  {
+    "d": "www.kijiji.ca",
+    "s": "Kijiji Calgary",
+    "t": "kijijiyyc",
+    "u": "https://www.kijiji.ca/b-calgary/{{{s}}}/k0l1700199?dc=true"
+  },
+  {
+    "d": "www.kika.de",
+    "s": "KiKa von ARD und ZDF",
+    "t": "kika",
+    "u": "https://www.kika.de/suche/suche104.html?q={{{s}}}"
+  },
+  {
+    "d": "www.kilimall.co.ke",
+    "s": "Kilimall",
+    "t": "kilimall",
+    "u": "https://www.kilimall.co.ke/?act=search&keyword={{{s}}}"
+  },
+  {
+    "d": "www.killerstartups.com",
+    "s": "Killer Startups",
+    "t": "killerstartups",
+    "u": "http://www.killerstartups.com/?s={{{s}}} "
+  },
+  {
+    "d": "kimdeyir.com",
+    "s": "Kimdeyir",
+    "t": "kimdeyir",
+    "u": "https://kimdeyir.com/?s={{{s}}}"
+  },
+  {
+    "d": "kids-in-mind.com",
+    "s": "Kids In Mind",
+    "t": "kim",
+    "u": "https://kids-in-mind.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.kimovil.com",
+    "s": "Kimovil",
+    "t": "kimovil",
+    "u": "http://www.kimovil.com/en/compare-smartphones/name.{{{s}}}"
+  },
+  {
+    "d": "www.kinderfilmliste.de",
+    "s": "KinderFilmListe.de",
+    "t": "kinderfilmliste",
+    "u": "http://www.kinderfilmliste.de/?suche={{{s}}}"
+  },
+  {
+    "d": "www.amazon.com",
+    "s": "Amazon Kindle",
+    "t": "kindle",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=digital-text"
+  },
+  {
+    "d": "www.amazon.cn",
+    "s": "Amazon Kindle (China)",
+    "t": "kindlecn",
+    "u": "https://www.amazon.cn/s?k={{{s}}}&i=digital-text"
+  },
+  {
+    "d": "www.amazon.de",
+    "s": "Kindle Shop (German)",
+    "t": "kindlede",
+    "u": "https://www.amazon.de/s?k={{{s}}}&i=digital-text"
+  },
+  {
+    "d": "www.amazon.es",
+    "s": "Kindle Spain",
+    "t": "kindlees",
+    "u": "https://www.amazon.es/s?k={{{s}}}&i=digital-text"
+  },
+  {
+    "d": "www.amazon.co.jp",
+    "s": "Amazon Kindle (Japan)",
+    "t": "kindlejp",
+    "u": "https://www.amazon.co.jp/s?k={{{s}}}&i=digital-text"
+  },
+  {
+    "d": "www.amazon.co.uk",
+    "s": "Amazon UK Kindle",
+    "t": "kindleuk",
+    "u": "https://www.amazon.co.uk/s?k={{{s}}}&i=digital-text"
+  },
+  {
+    "d": "www.kinguin.net",
+    "s": "Kinguin",
+    "t": "kinguin",
+    "u": "http://www.kinguin.net/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "kinige.com",
+    "s": "Kinige",
+    "t": "kinige",
+    "u": "http://kinige.com/ksearch.php?searchfor={{{s}}}"
+  },
+  {
+    "d": "www.kinopoisk.ru",
+    "s": "Kinopoisk",
+    "t": "kino",
+    "u": "http://www.kinopoisk.ru/index.php?first=no&what=&kp_query={{{s}}}"
+  },
+  {
+    "d": "www.kinokuniya.co.jp",
+    "s": "Kinokuniya",
+    "t": "kinokuniya",
+    "u": "https://www.kinokuniya.co.jp/disp/CSfDispListPage_001.jsp?qsd=true&ptk=01&q={{{s}}}&SEARCH.x=0&SEARCH.y=0"
+  },
+  {
+    "d": "getkirby.com",
+    "s": "Kirby",
+    "t": "kirby",
+    "u": "https://getkirby.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.kirkusreviews.com",
+    "s": "Kirkus Reviews",
+    "t": "kirkus",
+    "u": "https://www.kirkusreviews.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "kirp.pl",
+    "s": "Krajowa Izba Radców Prawnych",
+    "t": "kirp",
+    "u": "http://kirp.pl/?s={{{s}}}"
+  },
+  {
+    "d": "www.kisskissbankbank.com",
+    "s": "KissKissBankBank",
+    "t": "kissbb",
+    "u": "http://www.kisskissbankbank.com/fr/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.kitapyurdu.com",
+    "s": "http://kitapyurdu.com/",
+    "t": "kitapyurdu",
+    "u": "https://www.kitapyurdu.com/index.php?route=product/search&filter_name={{{s}}}"
+  },
+  {
+    "d": "kitchenstories.io",
+    "s": "Kitchen Stories",
+    "t": "kitchenstories",
+    "u": "https://kitchenstories.io/en/search?search={{{s}}}"
+  },
+  {
+    "d": "kithara.to",
+    "s": "kithara.to",
+    "t": "kithara",
+    "u": "https://kithara.to/index.php?cmd=fi&query={{{s}}}"
+  },
+  {
+    "d": "primo.bibliothek.kit.edu",
+    "s": "KIT-Bibliothek",
+    "t": "kit",
+    "u": "http://primo.bibliothek.kit.edu/primo_library/libweb/action/search.do?mode=Basic&vid=KIT&vl%28freeText0%29={{{s}}}&vl%28freeText0%29=test&fn=search&tab=kit&srt=date"
+  },
+  {
+    "d": "kitkraft.com",
+    "s": "Kit Kraft",
+    "t": "kitkraft",
+    "u": "http://kitkraft.com/search_a.php?q={{{s}}}"
+  },
+  {
+    "d": "kitsu.io",
+    "s": "Kitsu",
+    "t": "kitsu",
+    "u": "https://kitsu.io/anime?text={{{s}}}"
+  },
+  {
+    "d": "kivy.org",
+    "s": "Kivy API docs",
+    "t": "kivyapi",
+    "u": "http://kivy.org/docs/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "d": "kivy.org",
+    "s": "Kivy API Reference",
+    "t": "kivy",
+    "u": "http://kivy.org/docs/search.html?check_keywords=yes&area=default&q={{{s}}}"
+  },
+  {
+    "d": "www.kjell.com",
+    "s": "Kjell & Company",
+    "t": "kjell",
+    "u": "http://www.kjell.com/Sok?query={{{s}}}"
+  },
+  {
+    "d": "www.kjell.com",
+    "s": "Kjell & Company Norge",
+    "t": "kjellno",
+    "u": "https://www.kjell.com/no/sok?query={{{s}}}"
+  },
+  {
+    "d": "kanji.jitenon.jp",
+    "s": "漢字辞典オンライン (Online kanji dictionary)",
+    "t": "kji",
+    "u": "http://kanji.jitenon.jp/cat/search.php?getdata={{{s}}}"
+  },
+  {
+    "d": "www.biblestudytools.com",
+    "s": "King James Bible Study",
+    "t": "kj",
+    "u": "http://www.biblestudytools.com/search/?q={{{s}}}&s=Bibles&t=kjv"
+  },
+  {
+    "d": "www.kingjamesbibleonline.org",
+    "s": "King James Bible Online",
+    "t": "kjv",
+    "u": "http://www.kingjamesbibleonline.org/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.kisskissbankbank.com",
+    "s": "KissKissBankBank",
+    "t": "kkbb",
+    "u": "http://www.kisskissbankbank.com/search?q={{{s}}}"
+  },
+  {
+    "d": "bibliotek.kk.dk",
+    "s": "Københavns Biblioteker ( Copenhagen Libraries)",
+    "t": "kkbib",
+    "u": "https://bibliotek.kk.dk/search/ting/{{{s}}}"
+  },
+  {
+    "d": "www.kkbox.com",
+    "s": "KKBOX",
+    "t": "kkbox",
+    "u": "https://www.kkbox.com/search.php?search=mix&word={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "KingKong Bruce記事",
+    "t": "kkbruce",
+    "u": "http://www.google.com/cse?cx=002209521788924011185:wzz9w-qvlhi&q={{{s}}}"
+  },
+  {
+    "d": "kingkiller.wiki",
+    "s": "Kingkiller Wiki",
+    "t": "kkc",
+    "u": "https://kingkiller.wiki/w/index.php?search={{{s}}}"
+  },
+  {
+    "d": "kubekings.com",
+    "s": "KubeKings",
+    "t": "kk",
+    "u": "https://kubekings.com/buscar?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+  },
+  {
+    "d": "www.konsolentreff.de",
+    "s": "Konsolentreff.de",
+    "t": "k",
+    "u": "https://www.konsolentreff.de/search/1/?q={{{s}}}"
+  },
+  {
+    "d": "kktix.com",
+    "s": "KKTIX",
+    "t": "kktix",
+    "u": "https://kktix.com/events?search={{{s}}}"
+  },
+  {
+    "d": "www.kuantokusta.pt",
+    "s": "http://www.kuantokusta.pt/",
+    "t": "kkusta",
+    "u": "http://www.kuantokusta.pt/search?q= {{{s}}} "
+  },
+  {
+    "d": "www.ebay-kleinanzeigen.de",
+    "s": "eBay Kleinanzeigen",
+    "t": "klein",
+    "u": "https://www.ebay-kleinanzeigen.de/{{{s}}}/k0"
+  },
+  {
+    "d": "www.kleinezeitung.at",
+    "s": "Kleine Zeitung",
+    "t": "kleinezeitung",
+    "u": "http://www.kleinezeitung.at/user/search.do?searchText={{{s}}}&action=1&resetForm=1&resultsPage=0"
+  },
+  {
+    "d": "kabarlinux.id",
+    "s": "KabarLinux",
+    "t": "kl",
+    "u": "https://kabarlinux.id/?s={{{s}}}"
+  },
+  {
+    "d": "klnavarro.free.fr",
+    "s": "MicKey's Land",
+    "t": "kln",
+    "u": "http://klnavarro.free.fr/spip/spip.php?page=recherche&recherche={{{s}}}"
+  },
+  {
+    "d": "klocksnack.se",
+    "s": "Klocksnack",
+    "t": "klocks",
+    "u": "https://klocksnack.se/search/6404040/?q={{{s}}}&o=date"
+  },
+  {
+    "d": "www.klubschule.ch",
+    "s": "Klubschule Migros",
+    "t": "klubschule",
+    "u": "https://www.klubschule.ch/Kurse/suche@{{{s}}}"
+  },
+  {
+    "d": "www.kmart.com.au",
+    "s": "Kmart Australia",
+    "t": "kmartau",
+    "u": "https://www.kmart.com.au/webapp/wcs/stores/servlet/SearchDisplay?searchTerm={{{s}}}&categoryId=&storeId=10701&catalogId=10102&langId=-1&pageSize=30&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView="
+  },
+  {
+    "d": "www.kmart.com",
+    "s": "Kmart",
+    "t": "kmart",
+    "u": "http://www.kmart.com/shc/s/search_10151_10104?keyword={{{s}}}"
+  },
+  {
+    "d": "knowledge.kaltura.com",
+    "s": "Kaltura",
+    "t": "kmc",
+    "u": "https://knowledge.kaltura.com/search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "forum.keyboardmaestro.com",
+    "s": "forum.keyboardmaestro.com",
+    "t": "kmf",
+    "u": "https://forum.keyboardmaestro.com/search?q={{{s}}}"
+  },
+  {
+    "d": "kaomojiya.jp",
+    "s": "Kaomojiya",
+    "t": "kmjy",
+    "u": "http://kaomojiya.jp/keyword/{{{s}}}/?search_flg=1"
+  },
+  {
+    "d": "kara.moe",
+    "s": "Karaoke Mugen",
+    "t": "km",
+    "u": "https://kara.moe/base/karas?filter={{{s}}}"
+  },
+  {
+    "d": "www.knf.gov.pl",
+    "s": "Komisja Nadzoru Finansowego PL",
+    "t": "knf",
+    "u": "https://www.knf.gov.pl/wyniki_wyszukiwania?searchText={{{s}}}&publicationId=18&sortType=accuracy"
+  },
+  {
+    "d": "knoema.com",
+    "s": "Knoema",
+    "t": "kn",
+    "u": "https://knoema.com/search?query={{{s}}}"
+  },
+  {
+    "d": "knmi.nl",
+    "s": "Koninklijk Nederlands Meterologisch Instituut",
+    "t": "knmi",
+    "u": "https://knmi.nl/zoeken?q={{{s}}}"
+  },
+  {
+    "d": "knowyourmeme.com",
+    "s": "Know Your Meme",
+    "t": "knowyourmeme",
+    "u": "http://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.kobo.com",
+    "s": "Kobo (Canada)",
+    "t": "koboca",
+    "u": "https://www.kobo.com/ca/en/search?Query={{{s}}}"
+  },
+  {
+    "d": "www.kobo.com",
+    "s": "Kobo",
+    "t": "kobo",
+    "u": "https://www.kobo.com/us/en/search?Query={{{s}}}"
+  },
+  {
+    "d": "www.kobo.com",
+    "s": "Kobo NZ",
+    "t": "kobonz",
+    "u": "https://www.kobo.com/nz/en/search?Query={{{s}}}"
+  },
+  {
+    "d": "portal.kobv.de",
+    "s": "http://www.kobv.de/",
+    "t": "kobv",
+    "u": "http://portal.kobv.de/simpleSearch.do?query= {{{s}}}"
+  },
+  {
+    "d": "www.kochwiki.org",
+    "s": "Koch-Wiki",
+    "t": "kochwiki",
+    "u": "https://www.kochwiki.org/w/index.php?search={{{s}}}&go=Seite"
+  },
+  {
+    "d": "ko.dict.naver.com",
+    "s": "Naver Korean Dictionary",
+    "t": "kodict",
+    "u": "https://ko.dict.naver.com/#/search?query={{{s}}}"
+  },
+  {
+    "d": "kodi.wiki",
+    "s": "Kodi Wiki",
+    "t": "kodi",
+    "u": "http://kodi.wiki/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "koei.wikia.com",
+    "s": "KOEI Wiki",
+    "t": "koei",
+    "u": "http://koei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.kogan.com",
+    "s": "Kogan.com",
+    "t": "kogan",
+    "u": "https://www.kogan.com/au/shop/?q={{{s}}}"
+  },
+  {
+    "d": "bugs.koha-community.org",
+    "s": "Koha Bugzilla",
+    "t": "koha",
+    "u": "https://bugs.koha-community.org/bugzilla3/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "www.koreaherald.com",
+    "s": "The Korea Herald",
+    "t": "koherald",
+    "u": "http://www.koreaherald.com/search/index.php?q={{{s}}}&kr=0"
+  },
+  {
+    "d": "www.kohls.com",
+    "s": "Kohl's",
+    "t": "kohls",
+    "u": "http://www.kohls.com/search.jsp?search={{{s}}}"
+  },
+  {
+    "d": "koji.fedoraproject.org",
+    "s": "Fedora Koji",
+    "t": "kojipkg",
+    "u": "http://koji.fedoraproject.org/koji/search?match=glob&type=package&terms={{{s}}}"
+  },
+  {
+    "d": "www.koket.se",
+    "s": "Köket",
+    "t": "köket",
+    "u": "https://www.koket.se/search?searchtext={{{s}}}"
+  },
+  {
+    "d": "www.kokothemes.com",
+    "s": "KOKOThemes",
+    "t": "kokothemes",
+    "u": "https://www.kokothemes.com/?s={{{s}}}"
+  },
+  {
+    "d": "kollekt.fm",
+    "s": "Kollekt.FM",
+    "t": "kollekt",
+    "u": "https://kollekt.fm/search/?q={{{s}}}&type=all"
+  },
+  {
+    "d": "www.postnord.se",
+    "s": "Posten AB",
+    "t": "kolli",
+    "u": "https://www.postnord.se/sv/verktyg/sok/Sidor/spara-brev-paket-och-pall.aspx?view=item&itemid={{{s}}}"
+  },
+  {
+    "d": "kol.coldfront.net",
+    "s": "The KoLwiki",
+    "t": "kol",
+    "u": "http://kol.coldfront.net/thekolwiki/index.php/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "kol.coldfront.net",
+    "s": "The KoL Wiki",
+    "t": "kolwiki",
+    "u": "http://kol.coldfront.net/thekolwiki/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "kol.coldfront.net",
+    "s": "Kingdom of Loathing Wiki",
+    "t": "kolw",
+    "u": "http://kol.coldfront.net/thekolwiki/index.php/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "search.kompas.com",
+    "s": "Kompas",
+    "t": "kompas",
+    "u": "https://search.kompas.com/search/?q={{{s}}}&submit=Submit+Query"
+  },
+  {
+    "d": "www.komplett.no",
+    "s": "Komplett",
+    "t": "komplett",
+    "u": "https://www.komplett.no/search?q={{{s}}}"
+  },
+  {
+    "d": "www.komputeko.net",
+    "s": "Komputeko",
+    "t": "komputeko",
+    "u": "http://www.komputeko.net/index_eo.php?vorto={{{s}}}"
+  },
+  {
+    "d": "www.konga.com",
+    "s": "Konga",
+    "t": "konga",
+    "u": "http://www.konga.com/catalogsearch/result/?cat=0&q={{{s}}} "
+  },
+  {
+    "d": "www.kongregate.com",
+    "s": "Kongregate",
+    "t": "kong",
+    "u": "http://www.kongregate.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.kongregate.com",
+    "s": "Kongregate",
+    "t": "kongregate",
+    "u": "http://www.kongregate.com/search?q={{{s}}}"
+  },
+  {
+    "d": "de.bab.la",
+    "s": "Reverso Konjugator",
+    "t": "konj",
+    "u": "http://de.bab.la/konjugieren/deutsch/{{{s}}}"
+  },
+  {
+    "d": "k-on.wikia.com",
+    "s": "K-ON! Wiki",
+    "t": "k-on",
+    "u": "http://k-on.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "koodous.com",
+    "s": "Koodous",
+    "t": "koodous",
+    "u": "https://koodous.com/apks?search={{{s}}}"
+  },
+  {
+    "d": "kanji.koohii.com",
+    "s": "Koohii",
+    "t": "koohii",
+    "u": "https://kanji.koohii.com/study/kanji/{{{s}}}"
+  },
+  {
+    "d": "www.koopjedeal.nl",
+    "s": "koopjedeal",
+    "t": "koopjedeal",
+    "u": "https://www.koopjedeal.nl/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.kooponline.com",
+    "s": "Koop Online",
+    "t": "kooponline",
+    "u": "https://www.kooponline.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.koorong.com",
+    "s": "Koorong",
+    "t": "koorong",
+    "u": "https://www.koorong.com/search/results.jhtml?w={{{s}}}"
+  },
+  {
+    "d": "www.koreus.com",
+    "s": "Koreus",
+    "t": "koreus",
+    "u": "https://www.koreus.com/search.php?q={{{s}}}&sa=Rechercher"
+  },
+  {
+    "d": "slovniky.korpus.sk",
+    "s": "Slovenské slovníky",
+    "t": "korpus",
+    "u": "http://slovniky.korpus.sk/?w={{{s}}}"
+  },
+  {
+    "d": "www.korrekturen.de",
+    "s": "korrekturen.de",
+    "t": "korrekturen",
+    "u": "https://www.korrekturen.de/suche/searcher.php?q={{{s}}}"
+  },
+  {
+    "d": "en.kingofsat.net",
+    "s": "KingOfSat",
+    "t": "kos",
+    "u": "http://en.kingofsat.net/find.php?question={{{s}}}&Submit=Zap"
+  },
+  {
+    "d": "www.kosmas.cz",
+    "s": "Kosmas",
+    "t": "kosmas",
+    "u": "http://www.kosmas.cz/hledani/?query={{{s}}}"
+  },
+  {
+    "d": "www.kotaku.com.au",
+    "s": "KotakuAus",
+    "t": "kotakuau",
+    "u": "http://www.kotaku.com.au/?s={{{s}}}"
+  },
+  {
+    "d": "kotaku.com",
+    "s": "Kotaku",
+    "t": "kotaku",
+    "u": "http://kotaku.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.kotikokki.net",
+    "s": "Kotikokki",
+    "t": "kotikokki",
+    "u": "https://www.kotikokki.net/reseptit/?freeText={{{s}}}"
+  },
+  {
+    "d": "kotlinlang.org",
+    "s": "kotlinlang.org",
+    "t": "kotlin",
+    "u": "https://kotlinlang.org/?q={{{s}}}"
+  },
+  {
+    "d": "kotlin.link",
+    "s": "Kotlin Links",
+    "t": "kotlinlinks",
+    "u": "https://kotlin.link/?q={{{s}}}"
+  },
+  {
+    "d": "kotobank.jp",
+    "s": "コトバンク",
+    "t": "kotoba",
+    "u": "http://kotobank.jp/word/{{{s}}}"
+  },
+  {
+    "d": "kotobank.jp",
+    "s": "コトバンク用語検索",
+    "t": "kotobank",
+    "u": "http://kotobank.jp/word/{{{s}}} "
+  },
+  {
+    "d": "www.kielitoimistonsanakirja.fi",
+    "s": "Kielitoimiston sanakirja",
+    "t": "kotus",
+    "u": "http://www.kielitoimistonsanakirja.fi/netmot.exe?page=results&UI=fi80&Opt=8&dic=1&SearchWord={{{s}}}&SearchMode=1"
+  },
+  {
+    "d": "www.kpedia.jp",
+    "s": "Kpedia",
+    "t": "kped",
+    "u": "https://www.kpedia.jp/w/{{{s}}}"
+  },
+  {
+    "d": "kalliope.staatsbibliothek-berlin.de",
+    "s": "Kalliope Verbundkatalog",
+    "t": "kpe",
+    "u": "http://kalliope.staatsbibliothek-berlin.de/de/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.kupujemprodajem.com",
+    "s": "Kupujemprodajem",
+    "t": "kp",
+    "u": "https://www.kupujemprodajem.com/search.php?action=list&data%5Bad_kind%5D=&data%5Bad_type%5D=&data%5Bfollow%5D=&data%5Bad_kind_type%5D=&data%5Btip_oglasa%5D=&data%5Bcategory_id%5D=&data%5Bgroup_id%5D=&data%5Blocation_id%5D=&data%5Blocation_radius%5D=&data%5Bhas_photo%5D=&data%5Bcondition%5D=&data%5Bperiod%5D=&data%5Border%5D=&data%5Bcar_model%5D=&data%5Bvehicle_power_min%5D=&data%5Bvehicle_power_max%5D=&data%5Bvehicle_cc_min%5D=&data%5Bvehicle_cc_max%5D=&data%5Bvehicle_km_min%5D=&data%5Bvehicle_km_max%5D=&data%5Bvehicle_make_year_min%5D=&data%5Bvehicle_make_year_max%5D=&data%5Bcar_body_type%5D=&data%5Bcar_fuel_type%5D=&data%5Bcar_doors%5D=&data%5Bcar_gearbox%5D=&data%5Bvehicle_aircondition%5D=&data%5Bvehicle_drive%5D=&data%5Bprice_from%5D=&data%5Bprice_to%5D=&dummy=name&data%5Bkeywords%5D={{{s}}} &=&=&=&=&=&=&return_url=aW5kZXgucGhw"
+  },
+  {
+    "d": "www.kinopoisk.ru",
+    "s": "Kinopoisk",
+    "t": "kpoisk",
+    "u": "http://www.kinopoisk.ru/index.php?first=no&what=&kp_query={{{s}}}"
+  },
+  {
+    "d": "www.allkpop.com",
+    "s": "allkpop",
+    "t": "kpop",
+    "u": "https://www.allkpop.com/search/articles/{{{s}}}"
+  },
+  {
+    "d": "projects.kde.org",
+    "s": "KDE Git Projects",
+    "t": "kprojects",
+    "u": "https://projects.kde.org/search?q={{{s}}}&all_words=1&projects=1&submit=Submit"
+  },
+  {
+    "d": "kraftly.com",
+    "s": "Kraftly",
+    "t": "kraftly",
+    "u": "https://kraftly.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.krak.dk",
+    "s": "Krak",
+    "t": "krak",
+    "u": "https://www.krak.dk/search?searchQuery={{{s}}}"
+  },
+  {
+    "d": "krdic.naver.com",
+    "s": "Naver Korean Dictionary",
+    "t": "krdic",
+    "u": "http://krdic.naver.com/search.nhn?query={{{s}}}"
+  },
+  {
+    "d": "www.kreativfont.com",
+    "s": "Kreativ Font",
+    "t": "kreativfont",
+    "u": "https://www.kreativfont.com/?s={{{s}}}"
+  },
+  {
+    "d": "krebsonsecurity.com",
+    "s": "Krebs On Security",
+    "t": "krebs",
+    "u": "https://krebsonsecurity.com/?s={{{s}}}"
+  },
+  {
+    "d": "krebsonsecurity.com",
+    "s": "Krebs on Security",
+    "t": "krebsonsec",
+    "u": "https://krebsonsecurity.com/?s={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.kreedo.de",
+    "s": "Kreedo GbR",
+    "t": "kreedo",
+    "u": "https://www.kreedo.de/index.php?cl=search&searchparam={{{s}}} "
+  },
+  {
+    "d": "docs.krita.org",
+    "s": "Krita Docs",
+    "t": "krita",
+    "u": "https://docs.krita.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "kritiker.se",
+    "s": "Kritiker.se",
+    "t": "kritiker",
+    "u": "https://kritiker.se/sok/?q={{{s}}}"
+  },
+  {
+    "d": "www.kroger.com",
+    "s": "Kroger",
+    "t": "kr",
+    "u": "https://www.kroger.com/search?query={{{s}}}"
+  },
+  {
+    "d": "catalog.krl.org",
+    "s": "Kitsap Regional Library",
+    "t": "krl",
+    "u": "http://catalog.krl.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.9&type=Keyword&term={{{s}}}&by=KW&sort=RELEVANCE&limit=TOM%3D*&query=&page=0&searchid=1"
+  },
+  {
+    "d": "www.kroger.com",
+    "s": "Kroger",
+    "t": "kroger",
+    "u": "https://www.kroger.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.kickstarter.com",
+    "s": "Kickstarter",
+    "t": "ks",
+    "u": "http://www.kickstarter.com/projects/search?utf8=✓&term={{{s}}}+"
+  },
+  {
+    "d": "www.ksl.com",
+    "s": "ksl.com Classifieds",
+    "t": "kslc",
+    "u": "https://www.ksl.com/classifieds/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "classifieds.ksl.com",
+    "s": "KSL Classifieds",
+    "t": "ksl",
+    "u": "https://classifieds.ksl.com/search?keyword={{{s}}}"
+  },
+  {
+    "d": "forum.kerbalspaceprogram.com",
+    "s": "Ksp forums",
+    "t": "kspf",
+    "u": "http://forum.kerbalspaceprogram.com/search.php?s={{{s}}}"
+  },
+  {
+    "d": "wiki.kerbalspaceprogram.com",
+    "s": "Kerbal Space Program Wiki",
+    "t": "ksp",
+    "u": "http://wiki.kerbalspaceprogram.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "ksp.co.il",
+    "s": "KSP",
+    "t": "ksppc",
+    "u": "https://ksp.co.il/index.php?txt_search={{{s}}}"
+  },
+  {
+    "d": "wiki.kerbalspaceprogram.com",
+    "s": "Kerbal Space Program Wiki",
+    "t": "kspwiki",
+    "u": "http://wiki.kerbalspaceprogram.com/w/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "www.kickstarter.com",
+    "s": "Kickstarter",
+    "t": "kst",
+    "u": "https://www.kickstarter.com/{{{s}}} "
+  },
+  {
+    "d": "kitsu.io",
+    "s": "kitsu.io",
+    "t": "ksu",
+    "u": "https://kitsu.io/anime?text={{{s}}}"
+  },
+  {
+    "d": "techbase.kde.org",
+    "s": "KDE TechBase",
+    "t": "ktb",
+    "u": "http://techbase.kde.org/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.karaoketexty.cz",
+    "s": "KaraokeTexty.cz",
+    "t": "ktcz",
+    "u": "http://www.karaoketexty.cz/search?q={{{s}}}"
+  },
+  {
+    "d": "techbase.kde.org",
+    "s": "KDE TechBase",
+    "t": "ktechbase",
+    "u": "http://techbase.kde.org/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "kth-primo.hosted.exlibrisgroup.com",
+    "s": "KTH Library",
+    "t": "kthb",
+    "u": "https://kth-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&vid=46KTH_VU1_L&search_scope=default_scope&sortby=rank&tab=default_tab&lang=en_US&mode=simple&fromRedirectFilter=true"
+  },
+  {
+    "d": "www.kth.se",
+    "s": "KTH",
+    "t": "kth",
+    "u": "https://www.kth.se/search/search?q={{{s}}}"
+  },
+  {
+    "d": "www.kth.se",
+    "s": "https://www.kth.se/places/",
+    "t": "kthplaces",
+    "u": "https://www.kth.se/places/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.kicktraq.com",
+    "s": "Kicktraq",
+    "t": "kt",
+    "u": "http://www.kicktraq.com/search/?find={{{s}}}"
+  },
+  {
+    "d": "kotaku.com",
+    "s": "Kotaku",
+    "t": "ktk",
+    "u": "http://kotaku.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.kielitoimistonsanakirja.fi",
+    "s": "https://www.kielitoimistonsanakirja.fi",
+    "t": "kts",
+    "u": "https://www.kielitoimistonsanakirja.fi/{{{s}}}"
+  },
+  {
+    "d": "www.kuantokusta.pt",
+    "s": "KuantoKusta",
+    "t": "kuantokusta",
+    "u": "http://www.kuantokusta.pt/search?q={{{s}}} "
+  },
+  {
+    "d": "kubadownload.com",
+    "s": "KubaDownload",
+    "t": "kubadownload",
+    "u": "https://kubadownload.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.kuba-pichci.pl",
+    "s": "Kuba Pichci",
+    "t": "kubapichci",
+    "u": "http://www.kuba-pichci.pl/?s={{{s}}}"
+  },
+  {
+    "d": "kubernetes.io",
+    "s": "https://kubernetes.io/docs",
+    "t": "kubernetes",
+    "u": "https://kubernetes.io/docs/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.kuketz-blog.de",
+    "s": "Kuketz-Blog",
+    "t": "kuketz",
+    "u": "https://www.kuketz-blog.de/?s={{{s}}}"
+  },
+  {
+    "d": "catalog.lib.ku.edu",
+    "s": "University of Kansas Library Catalog",
+    "t": "kulib",
+    "u": "https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?Search_Arg={{{s}}}&SL=None&Search_Code=FT*&PID=vT8gNN42qqUs0JjgNd8tssHev&SEQ=20180430021422&CNT=25&HIST=1&kujSubmitButtonName=Search"
+  },
+  {
+    "d": "www.kulinarian.com",
+    "s": "kulinarian",
+    "t": "kulinarian",
+    "u": "https://www.kulinarian.com/recipe/search?q={{{s}}}"
+  },
+  {
+    "d": "kultofathena.com",
+    "s": "Kult of Athena",
+    "t": "kultofathena",
+    "u": "http://kultofathena.com/s_results.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.kununu.com",
+    "s": "kununu.com",
+    "t": "kunu",
+    "u": "https://www.kununu.com/de/search#/?q={{{s}}}&country=COUNTRY_DE"
+  },
+  {
+    "d": "www.kununu.com",
+    "s": "kununu",
+    "t": "kununu",
+    "u": "https://www.kununu.com/de/search#/?q={{{s}}}&country=COUNTRY_DE"
+  },
+  {
+    "d": "kuopassa.net",
+    "s": "Kuopassa.net",
+    "t": "kuopassa",
+    "u": "http://kuopassa.net/haku/?q={{{s}}}"
+  },
+  {
+    "d": "kuranara.com",
+    "s": "Kuran Ara",
+    "t": "kuran",
+    "u": "https://kuranara.com/ara?q={{{s}}}"
+  },
+  {
+    "d": "kuribo64.net",
+    "s": "Kuribo64",
+    "t": "kuribo64",
+    "u": "http://kuribo64.net/board/search.php?q={{{s}}}&inposts=0"
+  },
+  {
+    "d": "www.kurpirkt.lv",
+    "s": "kurpirkt.lv",
+    "t": "kur",
+    "u": "https://www.kurpirkt.lv/cena.php?q={{{s}}}"
+  },
+  {
+    "d": "userbase.kde.org",
+    "s": "KDE Userbase",
+    "t": "kuserbase",
+    "u": "https://userbase.kde.org/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "www.kvasir.no",
+    "s": "kvasir",
+    "t": "kvasir",
+    "u": "http://www.kvasir.no/alle?q={{{s}}}"
+  },
+  {
+    "d": "kvk.bibliothek.kit.edu",
+    "s": "Karlsruher Virtueller Katalog (DE, Titel)",
+    "t": "kvkde",
+    "u": "http://kvk.bibliothek.kit.edu/hylib-bin/kvk/nph-kvk2.cgi?maske=kvk-redesign&lang=de&title=KIT-Bibliothek%3A+Karlsruher+Virtueller+Katalog+KVK+%3A+Ergebnisanzeige&head=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fhead.html&header=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fheader.html&spacer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Fspacer.html&footer=%2F%2Fkvk.bibliothek.kit.edu%2Fasset%2Fhtml%2Ffooter.html&css=none&input-charset=utf-8&ALL=&TI={{{s}}}&AU=&CI=&ST=&PY=&SB=&SS=&PU=&kataloge=SWB&kataloge=BVB&kataloge=NRW&kataloge=HEBIS&kataloge=HEBIS_RETRO&kataloge=KOBV_SOLR&kataloge=GBV&kataloge=DDB&kataloge=STABI_BERLIN&kataloge=TIB&kataloge=OEVK_GBV&kataloge=VD16&kataloge=VD17&kataloge=VD18&kataloge=VOE&kataloge=ZDB&ref=direct&client-js=yes"
+  },
+  {
+    "d": "www.kvk.nl",
+    "s": "Kamer van Koophandel",
+    "t": "kvk",
+    "u": "http://www.kvk.nl/orderstraat/bedrijf-kiezen/?q={{{s}}}"
+  },
+  {
+    "d": "www.kvraudio.com",
+    "s": "KVR",
+    "t": "kvraudio",
+    "u": "http://www.kvraudio.com/q.php?search=1&q={{{s}}}"
+  },
+  {
+    "d": "www.kvraudio.com",
+    "s": "KVR Audio",
+    "t": "kvr",
+    "u": "http://www.kvraudio.com/q.php?search=1&q={{{s}}}"
+  },
+  {
+    "d": "kwzf.net",
+    "s": "묻지마 검색",
+    "t": "kwzf",
+    "u": "http://kwzf.net/#search={{{s}}}&page=1"
+  },
+  {
+    "d": "kodexploit.com",
+    "s": "http://kodexploit.com/",
+    "t": "kx",
+    "u": "http://kodexploit.com/blog/search?search={{{s}}}"
+  },
+  {
+    "d": "code.kx.com",
+    "s": "kx Reference",
+    "t": "kxref",
+    "u": "https://code.kx.com/q/search?query={{{s}}}"
+  },
+  {
+    "d": "knowyourmeme.com",
+    "s": "Know Your Meme",
+    "t": "kym",
+    "u": "http://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "search.kyobobook.co.kr",
+    "s": "Kyobo Book Centre",
+    "t": "kyobo",
+    "u": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord={{{s}}}"
+  },
+  {
+    "d": "www.kidzsearch.com",
+    "s": "KidzSearch",
+    "t": "kzs",
+    "u": "http://www.kidzsearch.com/kzsearch.php?q={{{s}}}"
+  }
+]

@@ -1,0 +1,5036 @@
+[
+  {
+    "d": "music.163.com",
+    "s": "网易云音乐",
+    "t": "m163",
+    "u": "http://music.163.com/#/search/m/?s={{{s}}}"
+  },
+  {
+    "d": "www.motor1.com",
+    "s": "Motor1",
+    "t": "m1",
+    "u": "https://www.motor1.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.mp3skulls.icu",
+    "s": "MPSkull",
+    "t": "m3s",
+    "u": "https://www.mp3skulls.icu/mp3/{{{s}}}.html"
+  },
+  {
+    "d": "maxforlive.com",
+    "s": "maxforlive.com",
+    "t": "m4l",
+    "u": "http://maxforlive.com/library/index.php?by=any&q={{{s}}}"
+  },
+  {
+    "d": "www.maajim.com",
+    "s": "معاجم",
+    "t": "maajim",
+    "u": "https://www.maajim.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "www.maakjetaart.nl",
+    "s": "Maak Je Taart",
+    "t": "maakjetaart",
+    "u": "http://www.maakjetaart.nl/advanced_search_result.php?search_in_description=0&keywords={{{s}}}"
+  },
+  {
+    "d": "www.metal-archives.com",
+    "s": "Metal Archives",
+    "t": "maalbum",
+    "u": "http://www.metal-archives.com/search?searchString={{{s}}}&type=album_title"
+  },
+  {
+    "d": "www.maa.org",
+    "s": "Mathematical Association of America",
+    "t": "maa",
+    "u": "http://www.maa.org/search/node?keys={{{s}}}"
+  },
+  {
+    "d": "www.almaany.com",
+    "s": "Almaany",
+    "t": "maany",
+    "u": "http://www.almaany.com/ar/dict/ar-en/{{{s}}}/"
+  },
+  {
+    "d": "www.metal-archives.com",
+    "s": "Metal Archives",
+    "t": "maband",
+    "u": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "d": "www.metal-archives.com",
+    "s": "Encyclopaedia metallum",
+    "t": "mab",
+    "u": "http://www.metal-archives.com/search?type=band_name&searchString={{{s}}}"
+  },
+  {
+    "d": "wiki.mabinogiworld.com",
+    "s": "Mabinogi World Wiki",
+    "t": "mabiwiki",
+    "u": "http://wiki.mabinogiworld.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.macmillandictionary.com",
+    "s": "Macmillan Dictionary",
+    "t": "macbrit",
+    "u": "http://www.macmillandictionary.com/dictionary/british/{{{s}}}"
+  },
+  {
+    "d": "www.macmillandictionary.com",
+    "s": "Macmillan Dictionary",
+    "t": "macdic",
+    "u": "http://www.macmillandictionary.com/dictionary/american/{{{s}}}"
+  },
+  {
+    "d": "library.macewan.ca",
+    "s": "Macewan Library",
+    "t": "macewan",
+    "u": "https://library.macewan.ca/library-search?query={{{s}}}"
+  },
+  {
+    "d": "www.macg.co",
+    "s": "MacGeneration",
+    "t": "macg",
+    "u": "http://www.macg.co/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.everymac.com",
+    "s": "EveryMac",
+    "t": "macid",
+    "u": "http://www.everymac.com/ultimate-mac-lookup/?search_keywords={{{s}}}"
+  },
+  {
+    "d": "www.macvendorlookup.com",
+    "s": "MAC address lookup",
+    "t": "mac",
+    "u": "http://www.macvendorlookup.com/search/{{{s}}}"
+  },
+  {
+    "d": "macmagazine.uol.com.br",
+    "s": "MacMagazine",
+    "t": "macmag",
+    "u": "https://macmagazine.uol.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "www.macmillandictionary.com",
+    "s": "MacMillan Dictionary",
+    "t": "macmillan",
+    "u": "http://www.macmillandictionary.com/dictionary/american/{{{s}}}"
+  },
+  {
+    "d": "www.macobserver.com",
+    "s": "The Mac Observer",
+    "t": "macobserver",
+    "u": "https://www.macobserver.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.macports.org",
+    "s": "MacPorts",
+    "t": "macports",
+    "u": "https://www.macports.org/ports.php?by=name&substr={{{s}}}"
+  },
+  {
+    "d": "www.macquariedictionary.com.au",
+    "s": "Macquarie Dictionary",
+    "t": "macq",
+    "u": "https://www.macquariedictionary.com.au/features/word/search/?word={{{s}}}&search_word_type=Dictionary"
+  },
+  {
+    "d": "www.macrumors.com",
+    "s": "MacRumors",
+    "t": "macrumors",
+    "u": "http://www.macrumors.com/search/?s={{{s}}}"
+  },
+  {
+    "d": "eshop.macsales.com",
+    "s": "Other World Computing (MacSales)",
+    "t": "macsales",
+    "u": "https://eshop.macsales.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.macstories.net",
+    "s": "MacStories",
+    "t": "macstories",
+    "u": "http://www.macstories.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.macupdate.com",
+    "s": "MacUpdate",
+    "t": "macupdate",
+    "u": "http://www.macupdate.com/find/mac/{{{s}}}"
+  },
+  {
+    "d": "www.macvendorlookup.com",
+    "s": "macvendorlookup",
+    "t": "macvendor",
+    "u": "http://www.macvendorlookup.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.macwelt.de",
+    "s": "Macwelt",
+    "t": "macwelt",
+    "u": "http://www.macwelt.de/suche?searchStr={{{s}}}"
+  },
+  {
+    "d": "www.macworld.com",
+    "s": "Macworld",
+    "t": "macworld",
+    "u": "http://www.macworld.com/search?query={{{s}}} &submit=search"
+  },
+  {
+    "d": "www.macys.com",
+    "s": "Macy's",
+    "t": "macys",
+    "u": "https://www.macys.com/shop/featured/{{{s}}}"
+  },
+  {
+    "d": "www.made.com",
+    "s": "Made.com",
+    "t": "made",
+    "u": "http://www.made.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "host.madison.com",
+    "s": "Madison.com",
+    "t": "madison",
+    "u": "http://host.madison.com/search/?l=25&sd=desc&s=start_time&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&q={{{s}}}&nsa=eedition"
+  },
+  {
+    "d": "madoncollections.com",
+    "s": "MAD On Collections",
+    "t": "madonc",
+    "u": "https://madoncollections.com/collectables/?q={{{s}}}"
+  },
+  {
+    "d": "maduraonline.com",
+    "s": "Madura English-Sinhala Dictionary",
+    "t": "madura",
+    "u": "https://maduraonline.com/?find={{{s}}}"
+  },
+  {
+    "d": "www.maedler.de",
+    "s": "https://www.maedler.de/",
+    "t": "maedler",
+    "u": "https://www.maedler.de/ShopSearch?query={{{s}}}"
+  },
+  {
+    "d": "www.maerklin.de",
+    "s": "Maerklin.de",
+    "t": "maerklinde",
+    "u": "http://www.maerklin.de/index.php?id=247&q={{{s}}}"
+  },
+  {
+    "d": "www2.informatik.uni-hamburg.de",
+    "s": "Mafiasi Wiki",
+    "t": "mafia",
+    "u": "https://www2.informatik.uni-hamburg.de/fachschaft/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www2.informatik.uni-hamburg.de",
+    "s": "Mafiasi Wiki",
+    "t": "mafiasi",
+    "u": "https://www2.informatik.uni-hamburg.de/fachschaft/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.magazineluiza.com.br",
+    "s": "Magazine Luiza",
+    "t": "magalu",
+    "u": "https://www.magazineluiza.com.br/busca/{{{s}}}"
+  },
+  {
+    "d": "magento.com",
+    "s": "Magento",
+    "t": "magento",
+    "u": "https://magento.com/search/gss/{{{s}}}"
+  },
+  {
+    "d": "magiccards.info",
+    "s": "magiccards.info",
+    "t": "magiccard",
+    "u": "http://magiccards.info/query?q={{{s}}}&v=card&s=cname"
+  },
+  {
+    "d": "www.cardmarket.com",
+    "s": "Magic Card Market",
+    "t": "magiccardmarket",
+    "u": "https://www.cardmarket.com/en/Magic/MainPage/showSearchResult?searchFor={{{s}}}"
+  },
+  {
+    "d": "magiccards.info",
+    "s": "Magiccards.info",
+    "t": "magiccards",
+    "u": "http://magiccards.info/query?q={{{s}}}&v=card&s=cname"
+  },
+  {
+    "d": "gatherer.wizards.com",
+    "s": "Magic: The Gathering",
+    "t": "magic",
+    "u": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[{{{s}}}]"
+  },
+  {
+    "d": "github.com",
+    "s": "Magisk modules repo",
+    "t": "magiskmod",
+    "u": "https://github.com/Magisk-Modules-Repo?&q={{{s}}}"
+  },
+  {
+    "d": "magma.maths.usyd.edu.au",
+    "s": "Magma",
+    "t": "magma",
+    "u": "http://magma.maths.usyd.edu.au/magma/handbook/search?query={{{s}}}&intrinsics=1"
+  },
+  {
+    "d": "store.musicmagpie.co.uk",
+    "s": "MusicMagPie",
+    "t": "magpie",
+    "u": "http://store.musicmagpie.co.uk/category/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.raspberrypi.org",
+    "s": "MagPi",
+    "t": "magpi",
+    "u": "https://www.raspberrypi.org/magpi/?s={{{s}}}"
+  },
+  {
+    "d": "magento.stackexchange.com",
+    "s": "http://magento.stackexchange.com/",
+    "t": "magsx",
+    "u": "http://magento.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "mailcatch.com",
+    "s": "mailcatch.com",
+    "t": "mailcatch",
+    "u": "http://mailcatch.com/en/temporary-inbox?box={{{s}}}"
+  },
+  {
+    "d": "mailchimp.com",
+    "s": "MailChimp",
+    "t": "mailchimp",
+    "u": "https://mailchimp.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "mail.google.com",
+    "s": "Google Mail",
+    "t": "mail",
+    "u": "https://mail.google.com/mail/u/0/#inbox{{{s}}}:"
+  },
+  {
+    "d": "www.mailinator.com",
+    "s": "Mailinator",
+    "t": "mailinator",
+    "u": "https://www.mailinator.com/v3/index.jsp?zone=public&query={{{s}}}"
+  },
+  {
+    "d": "go.mail.ru",
+    "s": "go.mail.ru",
+    "t": "mailru",
+    "u": "https://go.mail.ru/search?fm=1&q={{{s}}}"
+  },
+  {
+    "d": "www.majorsbooks.com",
+    "s": "Majors Books",
+    "t": "majorsbooks",
+    "u": "http://www.majorsbooks.com/search/?searchQuery={{{s}}}"
+  },
+  {
+    "d": "makemac.com",
+    "s": "MakeMac",
+    "t": "makemac",
+    "u": "http://makemac.com/?s={{{s}}}"
+  },
+  {
+    "d": "makezine.com",
+    "s": "Make",
+    "t": "make",
+    "u": "https://makezine.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.makeupalley.com",
+    "s": "MakeupAlley",
+    "t": "makeupalley",
+    "u": "https://www.makeupalley.com/search.asp?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.makeuseof.com",
+    "s": "MakeUseOf",
+    "t": "makeuseof",
+    "u": "https://www.makeuseof.com/?s={{{s}}}"
+  },
+  {
+    "d": "makezine.com",
+    "s": "Make:",
+    "t": "makezine",
+    "u": "http://makezine.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.makro.cz",
+    "s": "Makro.cz",
+    "t": "makro",
+    "u": "https://www.makro.cz/vyhledavani?q={{{s}}}"
+  },
+  {
+    "d": "www.maku.fi",
+    "s": "Maku.fi",
+    "t": "maku",
+    "u": "http://www.maku.fi/haku/recipe?q={{{s}}}"
+  },
+  {
+    "d": "myanimelist.net",
+    "s": "MyAnimeList Search All",
+    "t": "malall",
+    "u": "https://myanimelist.net/search/all?q={{{s}}}"
+  },
+  {
+    "d": "malid.is",
+    "s": "Málið",
+    "t": "malid",
+    "u": "http://malid.is/leit/{{{s}}}"
+  },
+  {
+    "d": "myanimelist.net",
+    "s": "MyAnimeList",
+    "t": "malist",
+    "u": "http://myanimelist.net/anime.php?q={{{s}}}"
+  },
+  {
+    "d": "www.mall.cz",
+    "s": "Mall.cz",
+    "t": "mall",
+    "u": "https://www.mall.cz/hledej?s={{{s}}}"
+  },
+  {
+    "d": "myanimelist.net",
+    "s": "My Anime List",
+    "t": "mal",
+    "u": "https://myanimelist.net/anime.php?q={{{s}}}"
+  },
+  {
+    "d": "memory-alpha.org",
+    "s": "Memory Alpha",
+    "t": "malpha",
+    "u": "http://memory-alpha.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.maltapark.com",
+    "s": "Maltapark",
+    "t": "maltapark",
+    "u": "https://www.maltapark.com/search?c=s1&search={{{s}}}"
+  },
+  {
+    "d": "en.memory-alpha.org",
+    "s": "Memory Alpha",
+    "t": "ma",
+    "u": "http://en.memory-alpha.org/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "www.mamma.com",
+    "s": "Mamma",
+    "t": "mamma",
+    "u": "http://www.mamma.com/result.php?q={{{s}}}&type=web"
+  },
+  {
+    "d": "linux.die.net",
+    "s": "Linux Die.net Manual Page 1",
+    "t": "man1",
+    "u": "https://linux.die.net/man/1/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "The Linux man-pages project",
+    "t": "man7",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aman7.org%2Flinux%2Fman-pages"
+  },
+  {
+    "d": "manga.akihabara.cz",
+    "s": "Manga Akihabara",
+    "t": "manbara",
+    "u": "http://manga.akihabara.cz/vyhledavani/{{{s}}}"
+  },
+  {
+    "d": "ekizo.mandarake.co.jp",
+    "s": "Mandarake",
+    "t": "mandarake",
+    "u": "http://ekizo.mandarake.co.jp/shop/en/search.do?action=keyword&doujin=all&searchStrategy=keyword&keyword={{{s}}}"
+  },
+  {
+    "d": "www.marksandspencer.com",
+    "s": "Marks & Spencer",
+    "t": "mands",
+    "u": "http://www.marksandspencer.com/gp/search?field-keywords={{{s}}}"
+  },
+  {
+    "d": "mangadex.org",
+    "s": "https://mangadex.org/",
+    "t": "mangadex",
+    "u": "https://mangadex.org/search?tag_mode_exc=any&tag_mode_inc=all&title={{{s}}}"
+  },
+  {
+    "d": "www.mangahigh.com",
+    "s": "Mangahigh",
+    "t": "mangahigh",
+    "u": "https://www.mangahigh.com/browse/?q={{{s}}}"
+  },
+  {
+    "d": "myanimelist.net",
+    "s": "MyAnimeList Manga",
+    "t": "manga",
+    "u": "http://myanimelist.net/manga.php?q={{{s}}}"
+  },
+  {
+    "d": "mangarock.com",
+    "s": "mangarock",
+    "t": "mangarock",
+    "u": "https://mangarock.com/search?q={{{s}}}"
+  },
+  {
+    "d": "kitsu.io",
+    "s": "Kitsu Manga",
+    "t": "mangas",
+    "u": "https://kitsu.io/manga?text={{{s}}}"
+  },
+  {
+    "d": "mangotv.co",
+    "s": "Mango TV",
+    "t": "mangotv",
+    "u": "http://mangotv.co/?s={{{s}}}"
+  },
+  {
+    "d": "wiki.manjaro.org",
+    "s": "Manjaro Wiki",
+    "t": "manjaro",
+    "u": "https://wiki.manjaro.org/index.php?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "forum.manjaro.org",
+    "s": "Manjaro Forum",
+    "t": "manjf",
+    "u": "https://forum.manjaro.org/search?expanded=true&q={{{s}}}"
+  },
+  {
+    "d": "wiki.manjaro.org",
+    "s": "Manjaro Wiki",
+    "t": "manjw",
+    "u": "https://wiki.manjaro.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.mankier.com",
+    "s": "Mankier",
+    "t": "mankier",
+    "u": "http://www.mankier.com/?q={{{s}}}"
+  },
+  {
+    "d": "man-k.org",
+    "s": "man-k.org",
+    "t": "man-k",
+    "u": "http://man-k.org/search?q={{{s}}}&dist=NetBSD-current"
+  },
+  {
+    "d": "manpage.me",
+    "s": "Man Page",
+    "t": "man",
+    "u": "http://manpage.me/?q={{{s}}}"
+  },
+  {
+    "d": "manned.org",
+    "s": "Manned",
+    "t": "manned",
+    "u": "https://manned.org/browse/search?q={{{s}}}"
+  },
+  {
+    "d": "www.manoramaonline.com",
+    "s": "Manoramaonline",
+    "t": "manorama",
+    "u": "https://www.manoramaonline.com/search-results.html?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Mac OSX Manual PAge",
+    "t": "manosx",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site%3Adeveloper.apple.com"
+  },
+  {
+    "d": "manpage.me",
+    "s": "manpage",
+    "t": "manpage",
+    "u": "https://manpage.me/?q={{{s}}}"
+  },
+  {
+    "d": "www.manta.com",
+    "s": "Manta",
+    "t": "manta",
+    "u": "http://www.manta.com/mb?search={{{s}}}"
+  },
+  {
+    "d": "www.manualslib.com",
+    "s": "ManualsLib",
+    "t": "manualslib",
+    "u": "http://www.manualslib.com/a/{{{s}}}.html"
+  },
+  {
+    "d": "maoridictionary.co.nz",
+    "s": "Māori Dictionary",
+    "t": "maoridictionary",
+    "u": "http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords={{{s}}}"
+  },
+  {
+    "d": "maoridictionary.co.nz",
+    "s": "Māori Dictionary",
+    "t": "maori",
+    "u": "http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords={{{s}}}"
+  },
+  {
+    "d": "maoridictionary.co.nz",
+    "s": "Māori Dictionary",
+    "t": "māori",
+    "u": "http://maoridictionary.co.nz/search?keywords={{{s}}}"
+  },
+  {
+    "d": "mapfan.com",
+    "s": "MapFan",
+    "t": "mapfan",
+    "u": "https://mapfan.com/map/words/{{{s}}}/spots"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Maps",
+    "t": "map",
+    "u": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "d": "www.mapion.co.jp",
+    "s": "Mapion",
+    "t": "mapion",
+    "u": "https://www.mapion.co.jp/s/q={{{s}}}/t=spot/"
+  },
+  {
+    "d": "mapper.acme.com",
+    "s": "ACME Mapper 2.0",
+    "t": "mapp",
+    "u": "http://mapper.acme.com/?q={{{s}}} "
+  },
+  {
+    "d": "fr.mappy.com",
+    "s": "Mappy FR",
+    "t": "mappy",
+    "u": "http://fr.mappy.com/#/TSearch/S{{{s}}}"
+  },
+  {
+    "d": "www.mapquest.com",
+    "s": "Mapquest",
+    "t": "mapquest",
+    "u": "http://www.mapquest.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Google Maps DE",
+    "t": "mapsde",
+    "u": "https://www.google.de/maps/place/{{{s}}}"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Maps FR",
+    "t": "mapsfr",
+    "u": "https://maps.google.com/maps?hl=fr&q={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Maps",
+    "t": "maps",
+    "u": "https://google.com/maps?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Google Maps Directions",
+    "t": "mapsr",
+    "u": "https://www.google.com/maps/dir/{{{s}}}"
+  },
+  {
+    "d": "maps.google.co.uk",
+    "s": "Google Maps UK",
+    "t": "mapsuk",
+    "u": "https://maps.google.co.uk/maps?q={{{s}}}"
+  },
+  {
+    "d": "mapy.cz",
+    "s": "Mapy.cz",
+    "t": "mapy",
+    "u": "https://mapy.cz/zakladni?q={{{s}}}"
+  },
+  {
+    "d": "cgi.marca.com",
+    "s": "Marca",
+    "t": "marca",
+    "u": "http://cgi.marca.com/buscador/archivo_marca.html?q={{{s}}}"
+  },
+  {
+    "d": "www.metal-archives.com",
+    "s": "Metal Archives",
+    "t": "march",
+    "u": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "d": "marginalrevolution.com",
+    "s": "Marginal Revolution",
+    "t": "marginalrevolution",
+    "u": "http://marginalrevolution.com/?s={{{s}}}"
+  },
+  {
+    "d": "mariadb.com",
+    "s": "Mariadb",
+    "t": "mariadb",
+    "u": "https://mariadb.com/kb/en/+search/?q={{{s}}}"
+  },
+  {
+    "d": "www.marinetraffic.com",
+    "s": "MarineTraffic",
+    "t": "marine",
+    "u": "http://www.marinetraffic.com/en/ais/index/search/all/keyword:{{{s}}}"
+  },
+  {
+    "d": "www.marinepartssource.com",
+    "s": "MarinePartsSource",
+    "t": "marineparts",
+    "u": "https://www.marinepartssource.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.marinetraffic.com",
+    "s": "Marine Traffic",
+    "t": "marinetraffic",
+    "u": "https://www.marinetraffic.com/en/ais/index/search/all?keyword={{{s}}}"
+  },
+  {
+    "d": "www.mariowiki.com",
+    "s": "Super Mario Wiki",
+    "t": "mario",
+    "u": "https://www.mariowiki.com/{{{s}}}"
+  },
+  {
+    "d": "www.mariowiki.com",
+    "s": "Super Mario Wiki",
+    "t": "mariowiki",
+    "u": "http://www.mariowiki.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "mariselaveludo.fashion",
+    "s": "Marisela Veludo",
+    "t": "marisela",
+    "u": "https://mariselaveludo.fashion/?s={{{s}}}"
+  },
+  {
+    "d": "putusan.mahkamahagung.go.id",
+    "s": "Supreme Court of Indonesia",
+    "t": "mari",
+    "u": "http://putusan.mahkamahagung.go.id/main/pencarian/?q={{{s}}}"
+  },
+  {
+    "d": "www.markandgraham.com",
+    "s": "Mark and Graham",
+    "t": "markandgraham",
+    "u": "http://www.markandgraham.com/search/results.html?words={{{s}}}"
+  },
+  {
+    "d": "market.android.com",
+    "s": "Android Market",
+    "t": "market",
+    "u": "https://market.android.com/search?q={{{s}}}&c=apps"
+  },
+  {
+    "d": "marketplace.tf",
+    "s": "Scrap.TF",
+    "t": "marketplacetf",
+    "u": "https://marketplace.tf/search?q={{{s}}}&?r=76561198039950396"
+  },
+  {
+    "d": "markmail.org",
+    "s": "MarkMail",
+    "t": "markmail",
+    "u": "http://markmail.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "markosweb",
+    "t": "markos",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Amarkosweb.com "
+  },
+  {
+    "d": "www.markt.de",
+    "s": "Markt.de",
+    "t": "markt",
+    "u": "http://www.markt.de/muenchen/keywords,{{{s}}}/suche.htm"
+  },
+  {
+    "d": "www.marktplaats.nl",
+    "s": "Marktplaats",
+    "t": "marktplaats",
+    "u": "https://www.marktplaats.nl/z.html?query={{{s}}}"
+  },
+  {
+    "d": "www.marmarisreservation.com",
+    "s": "marmaris tekne turları",
+    "t": "marmaris",
+    "u": "https://www.marmarisreservation.com/?s={{{s}}}"
+  },
+  {
+    "d": "marktplaats.nl",
+    "s": "marktplaats.nl",
+    "t": "mar",
+    "u": "http://marktplaats.nl/z.html?query={{{s}}}"
+  },
+  {
+    "d": "www.marmiton.org",
+    "s": "Marmiton",
+    "t": "marmit",
+    "u": "http://www.marmiton.org/recettes/recherche.aspx?s={{{s}}} "
+  },
+  {
+    "d": "www.marmiton.org",
+    "s": "Marmiton",
+    "t": "marmiton",
+    "u": "http://www.marmiton.org/recettes/recherche.aspx?aqt={{{s}}}"
+  },
+  {
+    "d": "www.martinka.com",
+    "s": "martinka",
+    "t": "martinka",
+    "u": "http://www.martinka.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.martinus.sk",
+    "s": "Martinus",
+    "t": "martinus",
+    "u": "http://www.martinus.sk/?uMod=list&uTyp=search&uQ={{{s}}}"
+  },
+  {
+    "d": "marvel.com",
+    "s": "Comics in marvel.com",
+    "t": "marvelc",
+    "u": "http://marvel.com/search/?q={{{s}}}&category=comics"
+  },
+  {
+    "d": "www.marvel.com",
+    "s": "Marvel.com",
+    "t": "marvel",
+    "u": "https://www.marvel.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "marvel.wikia.com",
+    "s": "Marvel Comics Database",
+    "t": "marvelwiki",
+    "u": "http://marvel.wikia.com/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "mashable.com",
+    "s": "Mashable",
+    "t": "mashable",
+    "u": "http://mashable.com/follow/search?q={{{s}}}"
+  },
+  {
+    "d": "mashable.com",
+    "s": "mashable",
+    "t": "mash",
+    "u": "http://mashable.com/follow/search/?q={{{s}}} "
+  },
+  {
+    "d": "www.UnmaskParasites.com",
+    "s": "Unmask Parasites",
+    "t": "mask",
+    "u": "http://www.UnmaskParasites.com/security-report/?page={{{s}}}"
+  },
+  {
+    "d": "drop.com",
+    "s": "Massdrop",
+    "t": "massdrop",
+    "u": "https://drop.com/search/{{{s}}}/drops"
+  },
+  {
+    "d": "www.masterseek.com",
+    "s": "Masterseek",
+    "t": "masterseek",
+    "u": "http://www.masterseek.com/lead_generation_final.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.materiel.net",
+    "s": "materiel.net",
+    "t": "materiel",
+    "u": "http://www.materiel.net/achat/{{{s}}}/"
+  },
+  {
+    "d": "reference.wolfram.com",
+    "s": "Mathematica",
+    "t": "mathematica",
+    "u": "http://reference.wolfram.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.mathem.se",
+    "s": "Mathem",
+    "t": "mathem",
+    "u": "https://www.mathem.se/sok?q={{{s}}}"
+  },
+  {
+    "d": "www.mathsisfun.com",
+    "s": "Math is fun",
+    "t": "mathisfun",
+    "u": "http://www.mathsisfun.com/sphider/search.php?query={{{s}}}&submit=&search=1"
+  },
+  {
+    "d": "docs.mathjax.org",
+    "s": "MathJax",
+    "t": "mathjax",
+    "u": "http://docs.mathjax.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default"
+  },
+  {
+    "d": "mathworld.wolfram.com",
+    "s": "mathworld",
+    "t": "math",
+    "u": "http://mathworld.wolfram.com/search/?query={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "mathoverflow.net",
+    "s": "MathOverflow",
+    "t": "mathoverflow",
+    "u": "http://mathoverflow.net/search?q={{{s}}}"
+  },
+  {
+    "d": "math.stackexchange.com",
+    "s": "Mathematics - Stack Exchange",
+    "t": "mathse",
+    "u": "http://math.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Matlab File Exchange",
+    "t": "mathworks",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:mathworks.com"
+  },
+  {
+    "d": "mathworld.wolfram.com",
+    "s": "Wolfram MathWorld",
+    "t": "mathworld",
+    "u": "http://mathworld.wolfram.com/search/?query={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "es.mathworks.com",
+    "s": "MATLAB Answers",
+    "t": "matlabans",
+    "u": "https://es.mathworks.com/matlabcentral/answers/?term={{{s}}}"
+  },
+  {
+    "d": "www.mathworks.com",
+    "s": "Matlab File Exchange",
+    "t": "matlabfx",
+    "u": "http://www.mathworks.com/matlabcentral/fileexchange/?term={{{s}}}"
+  },
+  {
+    "d": "uk.mathworks.com",
+    "s": "Matlab",
+    "t": "matlab",
+    "u": "http://uk.mathworks.com/help/search.html?qdoc={{{s}}}&submitsearch=Search"
+  },
+  {
+    "d": "www.matweb.com",
+    "s": "MatWeb",
+    "t": "matl",
+    "u": "http://www.matweb.com/search/QuickText.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "www.matematyka.pl",
+    "s": "Forum Matematyka.pl",
+    "t": "matpl",
+    "u": "http://www.matematyka.pl/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "matplotlib.sourceforge.net",
+    "s": "matplotlib",
+    "t": "matplotlib",
+    "u": "http://matplotlib.sourceforge.net/search.html?q={{{s}}} "
+  },
+  {
+    "d": "www.matweb.com",
+    "s": "MatWeb",
+    "t": "matweb",
+    "u": "http://www.matweb.com/search/QuickText.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "www.matweb.com",
+    "s": "MatWeb",
+    "t": "matw",
+    "u": "http://www.matweb.com/search/QuickText.aspx?SearchText={{{s}}}"
+  },
+  {
+    "d": "search.maven.org",
+    "s": "Maven Central Repository",
+    "t": "maven",
+    "u": "http://search.maven.org/#search|ga|1|{{{s}}}"
+  },
+  {
+    "d": "mavin.io",
+    "s": "Mavin Price Guide",
+    "t": "mavin",
+    "u": "https://mavin.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.maxspar.de",
+    "s": "MaxSpar",
+    "t": "maxspar",
+    "u": "https://www.maxspar.de/s/{{{s}}}"
+  },
+  {
+    "d": "extension.maxthon.com",
+    "s": "Maxthon 3 Extension",
+    "t": "maxthon",
+    "u": "http://extension.maxthon.com/all/index.php?keyword={{{s}}}"
+  },
+  {
+    "d": "www.mayoclinic.org",
+    "s": "Mayo Clinic",
+    "t": "mayo",
+    "u": "https://www.mayoclinic.org/search/search-results?q={{{s}}}"
+  },
+  {
+    "d": "blog.malwarebytes.org",
+    "s": "Malwarebytes Unpacked",
+    "t": "mbamblog",
+    "u": "https://blog.malwarebytes.org/?s={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Annotations",
+    "t": "mbannotation",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=annotation"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Areas",
+    "t": "mbarea",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=area"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Artists",
+    "t": "mbartist",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=artist"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz CD Stubs",
+    "t": "mbcdstub",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=cdstub"
+  },
+  {
+    "d": "www.mybeercellar.com",
+    "s": "mybeercellar",
+    "t": "mbc",
+    "u": "https://www.mybeercellar.com/?search={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz documentation",
+    "t": "mbdoc",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=doc"
+  },
+  {
+    "d": "mbeans.com",
+    "s": "Magic Beans",
+    "t": "mbeans",
+    "u": "https://mbeans.com/search.html?search={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Editors",
+    "t": "mbeditor",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=editor"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz events",
+    "t": "mbe",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=event&method=indexed"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz events",
+    "t": "mbevent",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=event"
+  },
+  {
+    "d": "mediabiasfactcheck.com",
+    "s": "Media Bias Fact Check",
+    "t": "mbfc",
+    "u": "https://mediabiasfactcheck.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.mbglick.com",
+    "s": "Moses B. Glick",
+    "t": "mbglick",
+    "u": "http://www.mbglick.com/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz instruments",
+    "t": "mbinstrument",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=instrument"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Labels",
+    "t": "mblabel",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=label"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz labels",
+    "t": "mbl",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=label&method=indexed"
+  },
+  {
+    "d": "www.meteoblue.com",
+    "s": "meteoblue",
+    "t": "mblue",
+    "u": "https://www.meteoblue.com/?q={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz",
+    "t": "mb",
+    "u": "http://musicbrainz.org/search/textsearch.html?type=artist&query={{{s}}}&handlearguments=1"
+  },
+  {
+    "d": "mb.com.ph",
+    "s": "Manila Bulletin",
+    "t": "mbph",
+    "u": "https://mb.com.ph/?s={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Places",
+    "t": "mbplace",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=place"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz places",
+    "t": "mbp",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=place&method=indexed"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Recordings",
+    "t": "mbrc",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=recording"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz",
+    "t": "mbrec",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=recording&method=indexed"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Recordings",
+    "t": "mbrecording",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=recording"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Release Groups",
+    "t": "mbreleasegroup",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=release_group"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Releases",
+    "t": "mbrelease",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=release"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Release Group",
+    "t": "mbrg",
+    "u": "http://musicbrainz.org/search?query={{{s}}}&type=release_group&method=indexed"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Releases",
+    "t": "mbr",
+    "u": "http://musicbrainz.org/search?type=release&query={{{s}}}&handlearguments=1"
+  },
+  {
+    "d": "www.mirbsd.org",
+    "s": "MirBSD Manpages",
+    "t": "mbsdman",
+    "u": "https://www.mirbsd.org/man.cgi?q={{{s}}} "
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz series",
+    "t": "mbseries",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=series"
+  },
+  {
+    "d": "mapa.buenosaires.gov.ar",
+    "s": "Mapa Interactivo de Buenos Aires",
+    "t": "mbs",
+    "u": "http://mapa.buenosaires.gov.ar/buscador/?dir= {{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz tags",
+    "t": "mbtag",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=tag"
+  },
+  {
+    "d": "bugzilla.mozilla.org",
+    "s": "Mozilla Bugzilla",
+    "t": "mbug",
+    "u": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch={{{s}}}"
+  },
+  {
+    "d": "wiki.musicbrainz.org",
+    "s": "MusicBrainz Wiki",
+    "t": "mbwiki",
+    "u": "https://wiki.musicbrainz.org/index.php?title=Special%3ASearch&go=Go&search={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz work",
+    "t": "mbw",
+    "u": "http://musicbrainz.org/search?query={{{s}}}&type=work&method=indexed"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz Works",
+    "t": "mbwork",
+    "u": "https://musicbrainz.org/search?query={{{s}}}&type=work"
+  },
+  {
+    "d": "www.monstercat.com",
+    "s": "Monstercat",
+    "t": "mcat",
+    "u": "https://www.monstercat.com/search?term={{{s}}}"
+  },
+  {
+    "d": "monstercat.wikia.com",
+    "s": "Monstercat Wiki",
+    "t": "mcatwiki",
+    "u": "http://monstercat.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "mycallbot.com",
+    "s": "MyCallBot",
+    "t": "mcb",
+    "u": "http://mycallbot.com/numbers/{{{s}}}"
+  },
+  {
+    "d": "media.ccc.de",
+    "s": "media.ccc.de",
+    "t": "mccc",
+    "u": "https://media.ccc.de/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.monroecc.edu",
+    "s": "MCC",
+    "t": "mcc",
+    "u": "https://www.monroecc.edu/search/#gsc.q={{{s}}}"
+  },
+  {
+    "d": "minecraft-de.gamepedia.com",
+    "s": "Minecraft Wiki (deutsch)",
+    "t": "mcde",
+    "u": "https://minecraft-de.gamepedia.com/{{{s}}}"
+  },
+  {
+    "d": "www.minecraftforum.net",
+    "s": "Minecraft Forum",
+    "t": "mcf",
+    "u": "http://www.minecraftforum.net/search?search={{{s}}}"
+  },
+  {
+    "d": "minecraft.fr",
+    "s": "Minecraft.fr",
+    "t": "mcfr",
+    "u": "https://minecraft.fr/?s={{{s}}}"
+  },
+  {
+    "d": "mcgill.worldcat.org",
+    "s": "McGill University Library",
+    "t": "mcgilllib",
+    "u": "http://mcgill.worldcat.org/search?q={{{s}}}&qt=owc_search&scope=2"
+  },
+  {
+    "d": "www.mcgill.ca",
+    "s": "McGill University",
+    "t": "mcgill",
+    "u": "http://www.mcgill.ca/search/?query={{{s}}}&find=Search"
+  },
+  {
+    "d": "map.geo.admin.ch",
+    "s": "Karten der Schweiz",
+    "t": "mch",
+    "u": "http://map.geo.admin.ch/?swisssearch={{{s}}}"
+  },
+  {
+    "d": "magiccards.info",
+    "s": "Magiccards",
+    "t": "mc.info",
+    "u": "http://magiccards.info/query?q={{{s}}}&v=card&s=cname"
+  },
+  {
+    "d": "mms.mckesson.com",
+    "s": "McKesson",
+    "t": "mck",
+    "u": "https://mms.mckesson.com/catalog?query={{{s}}}"
+  },
+  {
+    "d": "www.mcmaster.com",
+    "s": "McMaster-Carr",
+    "t": "mcmaster",
+    "u": "http://www.mcmaster.com/#{{{s}}}"
+  },
+  {
+    "d": "www.metacritic.com",
+    "s": "Metacritic",
+    "t": "mc",
+    "u": "http://www.metacritic.com/search/all/{{{s}}}/results"
+  },
+  {
+    "d": "www.cardmarket.com",
+    "s": "Magic Card Market",
+    "t": "mcm",
+    "u": "https://www.cardmarket.com/en/Magic/Products/Search?searchString={{{s}}}"
+  },
+  {
+    "d": "www.curseforge.com",
+    "s": "Curseforge",
+    "t": "mcmodpacks",
+    "u": "https://www.curseforge.com/minecraft/modpacks/search?search={{{s}}}"
+  },
+  {
+    "d": "www.curseforge.com",
+    "s": "Curseforge",
+    "t": "mcmods",
+    "u": "https://www.curseforge.com/minecraft/mc-mods/search?search={{{s}}}"
+  },
+  {
+    "d": "namemc.com",
+    "s": "Minecraft Name History",
+    "t": "mcname",
+    "u": "https://namemc.com/s?{{{s}}}"
+  },
+  {
+    "d": "metacpan.org",
+    "s": "MetaCPAN",
+    "t": "mcpan",
+    "u": "http://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "d": "minecraft-computer.wikia.com",
+    "s": "Minecraft PC Wiki",
+    "t": "mcpc",
+    "u": "http://minecraft-computer.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "mcpedl.com",
+    "s": "mcpedl.com",
+    "t": "mcpedl",
+    "u": "http://mcpedl.com/?s={{{s}}}"
+  },
+  {
+    "d": "minecraftpocketedition.wikia.com",
+    "s": "Minecraft Pocket Edition Wiki",
+    "t": "mcpew",
+    "u": "http://minecraftpocketedition.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "mdpl.ent.sirsi.net",
+    "s": "Montgomery County Public Libraries (Maryland)",
+    "t": "mcplmd",
+    "u": "https://mdpl.ent.sirsi.net/client/en_US/catalog/search/results?qu={{{s}}}"
+  },
+  {
+    "d": "mcpac.mcpl.lib.ny.us",
+    "s": "Middle Country Public Library ",
+    "t": "mcpl",
+    "u": "https://mcpac.mcpl.lib.ny.us/search/t?{{{s}}}"
+  },
+  {
+    "d": "minecraft-pl.gamepedia.com",
+    "s": "Minecraft wiki poland",
+    "t": "mc-pl",
+    "u": "https://minecraft-pl.gamepedia.com/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejd%C5%BA"
+  },
+  {
+    "d": "www.metacrawler.com",
+    "s": "Meta Crawler",
+    "t": "mcr",
+    "u": "http://www.metacrawler.com/search/web?fcoid=417&fcop=topnav&fpid=2&om_nextpage=True&q={{{s}}}"
+  },
+  {
+    "d": "www.mcskinsearch.com",
+    "s": "Minecraft Skin Search",
+    "t": "mcskin",
+    "u": "http://www.mcskinsearch.com/skin/{{{s}}}"
+  },
+  {
+    "d": "www.movie-censorship.com",
+    "s": "Movie-Censorship.com",
+    "t": "mcs",
+    "u": "http://www.movie-censorship.com/list.php?s={{{s}}}"
+  },
+  {
+    "d": "minecraft-statistic.net",
+    "s": "Minecraft Statistics ",
+    "t": "mcstats",
+    "u": "https://minecraft-statistic.net/en/search/?q={{{s}}}"
+  },
+  {
+    "d": "marvelcinematicuniverse.wikia.com",
+    "s": "Marvel Cinematic Universe wiki",
+    "t": "mcu",
+    "u": "http://marvelcinematicuniverse.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "moviecovers.com",
+    "s": "MovieCovers",
+    "t": "mcv",
+    "u": "http://moviecovers.com/multicrit.html?titre={{{s}}}"
+  },
+  {
+    "d": "minecraft-de.gamepedia.com",
+    "s": "Minecraft Wiki Deutsch",
+    "t": "mcwd",
+    "u": "http://minecraft-de.gamepedia.com/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "de.minecraftwiki.net",
+    "s": "German Minecraft Wiki",
+    "t": "mcwikide",
+    "u": "http://de.minecraftwiki.net/index.php?title=Spezial%3ASuche&search={{{s}}}"
+  },
+  {
+    "d": "minecraft-fr.gamepedia.com",
+    "s": "Minecraft Wiki FR",
+    "t": "mcwikifr",
+    "u": "http://minecraft-fr.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "minecraft.gamepedia.com",
+    "s": "Official Minecraft Wiki",
+    "t": "mcwiki",
+    "u": "https://minecraft.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "minecraft-zh.gamepedia.com",
+    "s": "Minecraft Wiki (Chinese)",
+    "t": "mcwikizh",
+    "u": "https://minecraft-zh.gamepedia.com/{{{s}}}"
+  },
+  {
+    "d": "www.minecraftworldmap.com",
+    "s": "Minecraft World Map",
+    "t": "mcwm",
+    "u": "https://www.minecraftworldmap.com/search?ss={{{s}}}"
+  },
+  {
+    "d": "minecraft.gamepedia.com",
+    "s": "The Official Minecraft Wiki",
+    "t": "mcw",
+    "u": "http://minecraft.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "mapy.cz",
+    "s": "Mapy.cz",
+    "t": "mcz",
+    "u": "https://mapy.cz/?q={{{s}}}"
+  },
+  {
+    "d": "md5.gromweb.com",
+    "s": "MD5 reverse lookup",
+    "t": "md5",
+    "u": "http://md5.gromweb.com/?md5={{{s}}}"
+  },
+  {
+    "d": "www.marksdailyapple.com",
+    "s": "Mark's Daily Apple",
+    "t": "mda",
+    "u": "http://www.marksdailyapple.com/search-results/?cx=004987908667488763946%3Akd-fp2c7jek&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&siteurl=www.marksdailyapple.com%2F&ref=&ss=1623j619159j7"
+  },
+  {
+    "d": "mmlafleur.com",
+    "s": "The M Dash",
+    "t": "mdash",
+    "u": "https://mmlafleur.com/mdash/search/{{{s}}}"
+  },
+  {
+    "d": "www.mdbg.net",
+    "s": "MDBG Dictionary",
+    "t": "mdbg",
+    "u": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb={{{s}}}"
+  },
+  {
+    "d": "www.mdbg.net",
+    "s": "MDBG",
+    "t": "mdbgt",
+    "u": "http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=1&wdqb={{{s}}}"
+  },
+  {
+    "d": "moridb.com",
+    "s": "MoriDB",
+    "t": "mdb",
+    "u": "http://moridb.com/items/search?q={{{s}}}"
+  },
+  {
+    "d": "mapa.buenosaires.gov.ar",
+    "s": "Mapa Interactivo de Buenos Aires",
+    "t": "mdbs",
+    "u": "http://mapa.buenosaires.gov.ar/buscador/?dir= {{{s}}}"
+  },
+  {
+    "d": "m.dict.cc",
+    "s": "Dict.cc",
+    "t": "mdcc",
+    "u": "https://m.dict.cc/?s={{{s}}}"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Center",
+    "t": "mdc",
+    "u": "https://developer.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "d": "mdcomputers.in",
+    "s": "MD Computers",
+    "t": "mdcomp",
+    "u": "https://mdcomputers.in/index.php?route=product/search&search={{{s}}}&description=true"
+  },
+  {
+    "d": "mixing.dj",
+    "s": "Mixing.DJ",
+    "t": "mdj",
+    "u": "http://mixing.dj/?s={{{s}}}"
+  },
+  {
+    "d": "mydramalist.com",
+    "s": "MyDramaList",
+    "t": "mdl",
+    "u": "http://mydramalist.com/browse/all?sort[]=relevance&q={{{s}}}"
+  },
+  {
+    "d": "learn.microsoft.com",
+    "s": "Microsoft Docs",
+    "t": "md",
+    "u": "https://learn.microsoft.com/en-us/search/?terms={{{s}}}"
+  },
+  {
+    "d": "www.madmoizelle.com",
+    "s": "Madmoizelle",
+    "t": "mdmz",
+    "u": "http://www.madmoizelle.com/recherche.php?q={{{s}}}&sitesearch=madmoizelle.com&cx=014204933963475694561%3Aq69po45gmum&cof=FORID%3A11&client=pub-9887088429202220&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=fr&sa=Recherche"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "MDN API",
+    "t": "mdnapi",
+    "u": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=api"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Network CSS",
+    "t": "mdncss",
+    "u": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=css"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Network",
+    "t": "mdnhtml",
+    "u": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=html"
+  },
+  {
+    "d": "mdn.io",
+    "s": "mdn.io",
+    "t": "mdnio",
+    "u": "https://mdn.io/{{{s}}}"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Network",
+    "t": "mdnjs",
+    "u": "https://developer.mozilla.org/en-US/search?q={{{s}}}&topic=js"
+  },
+  {
+    "d": "developer.mozilla.org",
+    "s": "Mozilla Developer Network",
+    "t": "mdn",
+    "u": "https://developer.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Mozilla Developer Network",
+    "t": "mdn.s",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Adeveloper.mozilla.org"
+  },
+  {
+    "d": "tienda.mercadona.es",
+    "s": "Mercadona",
+    "t": "mdona",
+    "u": "https://tienda.mercadona.es/search-results?query={{{s}}}"
+  },
+  {
+    "d": "www.mediapart.fr",
+    "s": "https://www.mediapart.fr/",
+    "t": "mdp",
+    "u": "https://www.mediapart.fr/search?search_word={{{s}}}&op=ok"
+  },
+  {
+    "d": "www.mdt.co.uk",
+    "s": "MDT",
+    "t": "mdt",
+    "u": "http://www.mdt.co.uk/catalogsearch/result/?q={{{s}}}&t=general&order=most_viewed"
+  },
+  {
+    "d": "www.mediatize.info",
+    "s": "Mediatize",
+    "t": "mdtz",
+    "u": "https://www.mediatize.info/search?q={{{s}}}"
+  },
+  {
+    "d": "manualdousuario.net",
+    "s": "Manual do Usuário",
+    "t": "mdu",
+    "u": "https://manualdousuario.net/?s={{{s}}}"
+  },
+  {
+    "d": "mangadex.org",
+    "s": "Mangadex",
+    "t": "mdx",
+    "u": "https://mangadex.org/search?title={{{s}}}"
+  },
+  {
+    "d": "mecabricks.com",
+    "s": "Mecabricks.com",
+    "t": "mecabricks",
+    "u": "http://mecabricks.com/en/library/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mec.ca",
+    "s": "Mountain Equipment Co-op",
+    "t": "mec",
+    "u": "https://www.mec.ca/en/search?text={{{s}}} "
+  },
+  {
+    "d": "www.metalochimice.ro",
+    "s": "MetaloChimice Online",
+    "t": "meco",
+    "u": "https://www.metalochimice.ro/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "www.medbullets.com",
+    "s": "Medbullets",
+    "t": "medb",
+    "u": "http://www.medbullets.com/search?cx=011011587714199370644:0fb95tj2wze&cof=FORID:9&ie=UTF-8&sa.x=10&sa.y=12&sa=Search&q={{{s}}}"
+  },
+  {
+    "d": "mechanicalsite.com",
+    "s": "Mechanical Engineering » Discussion Forum » Questions & Answers",
+    "t": "medf",
+    "u": "https://mechanicalsite.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.medgadget.com",
+    "s": "Medgadget",
+    "t": "medgadget",
+    "u": "http://www.medgadget.com/?s={{{s}}}"
+  },
+  {
+    "d": "mediabiasfactcheck.com",
+    "s": "Media Bias/Fact Check",
+    "t": "mediabias",
+    "u": "https://mediabiasfactcheck.com/?s={{{s}}}"
+  },
+  {
+    "d": "media.ccc.de",
+    "s": "Media.ccc.de",
+    "t": "mediaccc",
+    "u": "https://media.ccc.de/search/?q= {{{s}}}"
+  },
+  {
+    "d": "mediadico.com",
+    "s": "Mediadico",
+    "t": "mediadico",
+    "u": "http://mediadico.com/dictionnaire/definition/{{{s}}}"
+  },
+  {
+    "d": "media.info",
+    "s": "media.info",
+    "t": "mediainfo",
+    "u": "http://media.info/search?s={{{s}}}"
+  },
+  {
+    "d": "www.mediamarkt.be",
+    "s": "MediaMarkt FR",
+    "t": "mediamarktfr",
+    "u": "http://www.mediamarkt.be/fr/search.html?query={{{s}}}"
+  },
+  {
+    "d": "www.mediamarkt.nl",
+    "s": "MediaMarkt",
+    "t": "mediamarkt",
+    "u": "http://www.mediamarkt.nl/nl/search.html?storeId=10259&langId=-11&searchProfile=onlineshop&channel=mmnlnl&searchParams=&path=&query={{{s}}}"
+  },
+  {
+    "d": "www.mediamarkt.nl",
+    "s": "MediaMarkt Nederland",
+    "t": "mediamarktnl",
+    "u": "http://www.mediamarkt.nl/nl/search.html?query={{{s}}}&searchProfile=onlineshop&channel=mmnlnl"
+  },
+  {
+    "d": "www.mediapart.fr",
+    "s": "Mediapart",
+    "t": "mediapart",
+    "u": "https://www.mediapart.fr/search?search_word={{{s}}}"
+  },
+  {
+    "d": "mediatum.ub.tum.de",
+    "s": "mediaTUM",
+    "t": "mediatum",
+    "u": "https://mediatum.ub.tum.de/?query={{{s}}}"
+  },
+  {
+    "d": "www.mediawiki.org",
+    "s": "MediaWiki",
+    "t": "mediawiki",
+    "u": "https://www.mediawiki.org/w/index.php?search={{{s}}} "
+  },
+  {
+    "d": "medical-dictionary.thefreedictionary.com",
+    "s": "The Free Dictionary (Medical)",
+    "t": "medical",
+    "u": "http://medical-dictionary.thefreedictionary.com/{{{s}}}"
+  },
+  {
+    "d": "www.medimax.de",
+    "s": "MediMax",
+    "t": "medimax",
+    "u": "https://www.medimax.de/search?search={{{s}}}"
+  },
+  {
+    "d": "www.translatetheweb.com",
+    "s": "Medibus.info Katalogsuche",
+    "t": "medi",
+    "u": "http://www.translatetheweb.com/?item1={{{s}}}&field=all&maxKurztitel=25&sachgruppen=0&sachgruppenSchulfaecher=0&media=all&local=0&produzent=0&article_id=23&submitEinfacheSuche=Find+Titles&from=&to=en&a=http%3A%2F%2Fmedibus.info%2Findex.php%3Farticle_id%3D23%23einfSucheInfo&f=1"
+  },
+  {
+    "d": "www.medimops.de",
+    "s": "Medimops",
+    "t": "medimops",
+    "u": "http://www.medimops.de/produkte-C0/?fcIsSearch=1&searchparam={{{s}}}"
+  },
+  {
+    "d": "medium.com",
+    "s": "Medium",
+    "t": "medium",
+    "u": "https://medium.com/search?q={{{s}}}"
+  },
+  {
+    "d": "vsearch.nlm.nih.gov",
+    "s": "MedlinePlus",
+    "t": "medlineplus",
+    "u": "http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query={{{s}}}"
+  },
+  {
+    "d": "medium.com",
+    "s": "medium.com",
+    "t": "med",
+    "u": "https://medium.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mednar.com",
+    "s": "Mednar",
+    "t": "mednar",
+    "u": "http://www.mednar.com/mednar/result-list/fullRecord:{{{s}}}"
+  },
+  {
+    "d": "medical-phd.blogspot.com",
+    "s": "Medical Phd",
+    "t": "medphd",
+    "u": "https://medical-phd.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "search.medscape.com",
+    "s": "Medscape",
+    "t": "medscape",
+    "u": "http://search.medscape.com/reference-search?newSearchHeader=1&queryText={{{s}}}"
+  },
+  {
+    "d": "www.meetup.com",
+    "s": "Meetup",
+    "t": "meetup",
+    "u": "http://www.meetup.com/find/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.metafilter.com",
+    "s": "MetaFilter",
+    "t": "mefi",
+    "u": "http://www.metafilter.com/contribute/search.mefi?site=mefi&q={{{s}}}"
+  },
+  {
+    "d": "megalodon.jp",
+    "s": "megalodon jp",
+    "t": "megalodon",
+    "u": "http://megalodon.jp/?url={{{s}}}"
+  },
+  {
+    "d": "megalyrics.ru",
+    "s": "http://megalyrics.ru/",
+    "t": "megalyr",
+    "u": "http://megalyrics.ru/search?utf8=%E2%9C%93&search={{{s}}}"
+  },
+  {
+    "d": "megaman.wikia.com",
+    "s": "Mega Man Knowledge Base",
+    "t": "megaman",
+    "u": "http://megaman.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "megamitensei.wikia.com",
+    "s": "Megami Tensei Wikia",
+    "t": "megamitensei",
+    "u": "http://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "megamitensei.wikia.com",
+    "s": "Megami Tensei Wiki",
+    "t": "megatenw",
+    "u": "http://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.meijer.com",
+    "s": "Meijer",
+    "t": "meijer",
+    "u": "http://www.meijer.com/catalog/search_command.cmd?keyword={{{s}}}&tierId="
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "/r/me_irl",
+    "t": "me_irl",
+    "u": "https://www.reddit.com/r/me_irl/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "www.meligrana.com",
+    "s": "meligrana.com",
+    "t": "meligrana",
+    "u": "https://www.meligrana.com/es/alojamiento-turismo/buscar-alojamiento.asp?q={{{s}}} "
+  },
+  {
+    "d": "mellowviews.com",
+    "s": "Mellowviews",
+    "t": "mellowviews",
+    "u": "https://mellowviews.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.melopero.com",
+    "s": "Melopero",
+    "t": "melopero",
+    "u": "https://www.melopero.com/?s={{{s}}}&post_type=product"
+  },
+  {
+    "d": "www.melorra.com",
+    "s": "Melorra",
+    "t": "melorra",
+    "u": "https://www.melorra.com/jewellery/search/?q={{{s}}}:"
+  },
+  {
+    "d": "melpa.milkbox.net",
+    "s": "MELPA",
+    "t": "melpa",
+    "u": "http://melpa.milkbox.net/#/?q={{{s}}}"
+  },
+  {
+    "d": "melvyl.worldcat.org",
+    "s": "Melvyl Catalog (University of California Libraries)",
+    "t": "melvyl",
+    "u": "http://melvyl.worldcat.org/search?q={{{s}}}"
+  },
+  {
+    "d": "de.memory-alpha.wikia.com",
+    "s": "MemoryAlpha Deutsch",
+    "t": "memalphade",
+    "u": "http://de.memory-alpha.wikia.com/wiki/Spezial:Suche?query={{{s}}}"
+  },
+  {
+    "d": "en.memory-alpha.org",
+    "s": "Memory Alpha",
+    "t": "mema",
+    "u": "http://en.memory-alpha.org/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns4=1#"
+  },
+  {
+    "d": "masseffect.wikia.com",
+    "s": "Mass Effect Wiki",
+    "t": "me",
+    "u": "http://masseffect.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "memegenerator.net",
+    "s": "Meme Generator",
+    "t": "memegen",
+    "u": "http://memegenerator.net/memes/search?q={{{s}}}"
+  },
+  {
+    "d": "knowyourmeme.com",
+    "s": "Know Your Meme",
+    "t": "meme",
+    "u": "http://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "timetravel.mementoweb.org",
+    "s": "Memento Project",
+    "t": "memento",
+    "u": "http://timetravel.mementoweb.org/list/2013/{{{s}}}"
+  },
+  {
+    "d": "www.memidex.com",
+    "s": "Memidex",
+    "t": "memidex",
+    "u": "http://www.memidex.com/{{{s}}}"
+  },
+  {
+    "d": "en.memory-alpha.org",
+    "s": "Memory Alpha",
+    "t": "memoryalpha",
+    "u": "http://en.memory-alpha.org/wiki/Special:Search?search={{{s}}}&fulltext=Search&resultsLang=en"
+  },
+  {
+    "d": "memory-beta.wikia.com",
+    "s": "Memory Beta",
+    "t": "memorybeta",
+    "u": "http://memory-beta.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.memoryexpress.com",
+    "s": "Memory Express",
+    "t": "memoryexpress",
+    "u": "http://www.memoryexpress.com/Search/Products?Search={{{s}}}"
+  },
+  {
+    "d": "www.memrise.com",
+    "s": "Memrise",
+    "t": "memrise",
+    "u": "http://www.memrise.com/courses/english/?q={{{s}}}"
+  },
+  {
+    "d": "www.memoryexpress.com",
+    "s": "Memory Express",
+    "t": "memx",
+    "u": "http://www.memoryexpress.com/Search/Products?Search={{{s}}}"
+  },
+  {
+    "d": "menadoc.bibliothek.uni-halle.de",
+    "s": "MENAdoc",
+    "t": "menadoc",
+    "u": "https://menadoc.bibliothek.uni-halle.de/search/quick?query={{{s}}}"
+  },
+  {
+    "d": "www.menards.com",
+    "s": "Menards",
+    "t": "menards",
+    "u": "https://www.menards.com/main/search.html?search={{{s}}}"
+  },
+  {
+    "d": "www.mendeley.com",
+    "s": "Mendeley",
+    "t": "mendeley",
+    "u": "http://www.mendeley.com/research-papers/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.mediamarkt.de",
+    "s": "MediaMarkt DE",
+    "t": "mendesah",
+    "u": "https://www.mediamarkt.de/de/search.html?query={{{s}}}"
+  },
+  {
+    "d": "www.meneame.net",
+    "s": "Menéame",
+    "t": "meneame",
+    "u": "https://www.meneame.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mennlex.de",
+    "s": "Mennonitisches Lexikon",
+    "t": "mennlex",
+    "u": "http://www.mennlex.de/doku.php?do=search&id={{{s}}}"
+  },
+  {
+    "d": "www.menupages.com",
+    "s": "MenuPages",
+    "t": "menupages",
+    "u": "http://www.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "listado.mercadolibre.com.ar",
+    "s": "MercadoLibre",
+    "t": "mercadolibrear",
+    "u": "http://listado.mercadolibre.com.ar/{{{s}}}#D[A:{{{s}}}]"
+  },
+  {
+    "d": "listado.mercadolibre.cl",
+    "s": "Mercadolibre.cl",
+    "t": "mercadolibrecl",
+    "u": "http://listado.mercadolibre.cl/{{{s}}}#D[A:{{{s}}}]"
+  },
+  {
+    "d": "mercadolibre.com",
+    "s": "MercadoLibre",
+    "t": "mercadolibre",
+    "u": "http://mercadolibre.com/?q= {{{s}}}"
+  },
+  {
+    "d": "listado.mercadolibre.com.mx",
+    "s": "Mercadolibre México",
+    "t": "mercadolibremx",
+    "u": "https://listado.mercadolibre.com.mx/{{{s}}}"
+  },
+  {
+    "d": "lista.mercadolivre.com.br",
+    "s": "Mercado Livre",
+    "t": "mercadolivre",
+    "u": "http://lista.mercadolivre.com.br/{{{s}}}"
+  },
+  {
+    "d": "www.mercari.com",
+    "s": "mercari JP",
+    "t": "mercarijp",
+    "u": "https://www.mercari.com/jp/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "www.mercari.com",
+    "s": "mercari US",
+    "t": "mercari",
+    "u": "https://www.mercari.com/search/?keyword={{{s}}}"
+  },
+  {
+    "d": "search.mercola.com",
+    "s": "Mercola",
+    "t": "mercola",
+    "u": "https://search.mercola.com/results.aspx?q={{{s}}} "
+  },
+  {
+    "d": "www.mercurynews.com",
+    "s": "Mercury News",
+    "t": "mercurynews",
+    "u": "http://www.mercurynews.com/circare/html/sca_template.jsp?runSearch=true&query={{{s}}}&searchButton.x=0&searchButton.y=0&searchButton=Search&view=entiresitesppublished"
+  },
+  {
+    "d": "meritbadge.org",
+    "s": "MeritBadgeDotOrg",
+    "t": "meritbadge",
+    "u": "http://meritbadge.org/wiki/index.php/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "meritbadge.org",
+    "s": "MeritBadgeDotOrg",
+    "t": "merit",
+    "u": "http://meritbadge.org/wiki/index.php/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "merlin.pl",
+    "s": "Merlin.pl",
+    "t": "merlin",
+    "u": "http://merlin.pl/browse/search.html?offer=O&phrase={{{s}}}"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "Merriam-Webster",
+    "t": "merriamwebster",
+    "u": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "www.ncbi.nlm.nih.gov",
+    "s": "https://www.ncbi.nlm.nih.gov/mesh",
+    "t": "mesh",
+    "u": "https://www.ncbi.nlm.nih.gov/mesh/?term={{{s}}}"
+  },
+  {
+    "d": "www.messicks.com",
+    "s": "Messicks",
+    "t": "mes",
+    "u": "https://www.messicks.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ilmessaggero.it",
+    "s": "Il Messaggero",
+    "t": "messaggero",
+    "u": "http://www.ilmessaggero.it/?p=search&q={{{s}}}"
+  },
+  {
+    "d": "egliseinfo.catholique.fr",
+    "s": "Eglise info",
+    "t": "messeinfo",
+    "u": "http://egliseinfo.catholique.fr/horaires/{{{s}}}"
+  },
+  {
+    "d": "shop.messerle.at",
+    "s": "Messerle GmbH",
+    "t": "messerle",
+    "u": "https://shop.messerle.at/dataTransfer/custom/suche.php?keyword={{{s}}}"
+  },
+  {
+    "d": "www.metacafe.com",
+    "s": "Metacafe",
+    "t": "metacafe",
+    "u": "http://www.metacafe.com/videos_about/{{{s}}}/"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Subreddit r/metacanada",
+    "t": "metacanada",
+    "u": "https://www.reddit.com/r/metacanada/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "metacpan.org",
+    "s": "MetaCPAN",
+    "t": "metacpan",
+    "u": "https://metacpan.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.metacrawler.com",
+    "s": "MetaCrawler",
+    "t": "metacrawler",
+    "u": "http://www.metacrawler.com/search/web?q={{{s}}}"
+  },
+  {
+    "d": "www.metacritic.com",
+    "s": "Metacritic",
+    "t": "metacritic",
+    "u": "http://www.metacritic.com/search/all/{{{s}}}/results"
+  },
+  {
+    "d": "www.metaculus.com",
+    "s": "Metaculus",
+    "t": "metaculus",
+    "u": "https://www.metaculus.com/questions/?search={{{s}}}"
+  },
+  {
+    "d": "de.metapedia.org",
+    "s": "de.Metapedia.org",
+    "t": "metade",
+    "u": "https://de.metapedia.org/m/index.php?search={{{s}}}&title=Spezial%3ASuche"
+  },
+  {
+    "d": "www.metafilter.com",
+    "s": "MetaFilter",
+    "t": "metafilter",
+    "u": "http://www.metafilter.com/contribute/search.mefi?site=mefi&q={{{s}}}"
+  },
+  {
+    "d": "metager.de",
+    "s": "MetaGer English",
+    "t": "metageren",
+    "u": "https://metager.de/meta/cgi-bin/meta.ger1?ui=en&lang=en&wikiboost=on&QuickTips=off&langfilter=yes&eingabe={{{s}}}&mm=and&time=1&exalead=on&fastbot=on&yacy=on&nebel=on&atsearch=on&acoon=on&overture=on&base=on&yandex=on&onenewspage=on&dmozint=on"
+  },
+  {
+    "d": "www.metager.de",
+    "s": "Metager",
+    "t": "metager",
+    "u": "https://www.metager.de/meta/meta.ger3?eingabe={{{s}}}"
+  },
+  {
+    "d": "b7cxf4dkdsko6ah2.onion",
+    "s": "MetaGer Tor (English)",
+    "t": "metagertoren",
+    "u": "http://b7cxf4dkdsko6ah2.onion/en/meta/meta.ger3?focus=web&encoding=utf8&lang=en&eingabe={{{s}}}"
+  },
+  {
+    "d": "b7cxf4dkdsko6ah2.onion",
+    "s": "Metager Tor",
+    "t": "metagertor",
+    "u": "http://b7cxf4dkdsko6ah2.onion/meta/meta.ger3?focus=web&encoding=utf8&lang=all&eingabe={{{s}}}"
+  },
+  {
+    "d": "metalab.at",
+    "s": "Metalab Mediawiki",
+    "t": "metalab",
+    "u": "https://metalab.at/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.metal-archives.com",
+    "s": "Metal Archives",
+    "t": "metalarch",
+    "u": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "d": "www.metal-archives.com",
+    "s": "Encyclopedia Metallum (The Metal Archives)",
+    "t": "metal",
+    "u": "http://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "d": "metalitalia.com",
+    "s": "Metalitalia.com",
+    "t": "metalit",
+    "u": "https://metalitalia.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.metal-archives.com",
+    "s": "Encyclopaedia Metallum",
+    "t": "metallum",
+    "u": "https://www.metal-archives.com/search?searchString={{{s}}}&type=band_name"
+  },
+  {
+    "d": "romaandmacmetalscrap.com",
+    "s": "Roma and Mac Metal Scrap Corporation",
+    "t": "metalscrap",
+    "u": "https://romaandmacmetalscrap.com/?product_cat=0&s={{{s}}}"
+  },
+  {
+    "d": "www.metalstorm.net",
+    "s": "Metal Storm",
+    "t": "metalstorm",
+    "u": "http://www.metalstorm.net/home/search.php?search_where=band&search_what={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "codegolf.meta.stackexchange.com",
+    "s": "Meta Programming Problems & Code Golf",
+    "t": "metappcg",
+    "u": "https://codegolf.meta.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "av-wx.com",
+    "s": "AV-WX (Aviation Weather)",
+    "t": "metar",
+    "u": "http://av-wx.com/?search={{{s}}}&mode=metar"
+  },
+  {
+    "d": "meta.stackoverflow.com",
+    "s": "Meta Stack Overflow",
+    "t": "metaso",
+    "u": "http://meta.stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "meta.stackexchange.com",
+    "s": "Meta Stack Exchange",
+    "t": "metasx",
+    "u": "http://meta.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.meteli.net",
+    "s": "Meteli",
+    "t": "meteli",
+    "u": "http://www.meteli.net/tapahtumahaku?q={{{s}}}"
+  },
+  {
+    "d": "www.meteoblue.com",
+    "s": "meteoblue",
+    "t": "meteoblue",
+    "u": "https://www.meteoblue.com/en/weather/forecast/14-days/{{{s}}}"
+  },
+  {
+    "d": "www.meteociel.fr",
+    "s": "Meteociel",
+    "t": "meteociel",
+    "u": "http://www.meteociel.fr/prevville.php?action=getville&ville={{{s}}}"
+  },
+  {
+    "d": "www.meteofrance.com",
+    "s": "Météo-France",
+    "t": "meteofr",
+    "u": "http://www.meteofrance.com/recherche/resultats?facet=previsions&lieuId=&lieuType=&search-type=previsions&query={{{s}}}"
+  },
+  {
+    "d": "www.meteomedia.com",
+    "s": "MeteoMedia",
+    "t": "meteomedia",
+    "u": "https://www.meteomedia.com/ca/search?q={{{s}}}"
+  },
+  {
+    "d": "docs.meteor.com",
+    "s": "Meteor Docs",
+    "t": "meteorjs",
+    "u": "http://docs.meteor.com/#/full/{{{s}}}"
+  },
+  {
+    "d": "meteox.de",
+    "s": "Meteox",
+    "t": "met",
+    "u": "http://meteox.de/search.aspx?s={{{s}}}"
+  },
+  {
+    "d": "www.metoffice.gov.uk",
+    "s": "Met Office",
+    "t": "metoffice",
+    "u": "http://www.metoffice.gov.uk/public/weather/location-search/sitename?searchLocation={{{s}}}"
+  },
+  {
+    "d": "www.metoffice.gov.uk",
+    "s": "Met Office",
+    "t": "metoff",
+    "u": "http://www.metoffice.gov.uk/public/weather/location-search/sitename?searchLocation={{{s}}}"
+  },
+  {
+    "d": "www.metroidwiki.org",
+    "s": "Metroid Wiki",
+    "t": "metroidwiki",
+    "u": "http://www.metroidwiki.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.metro.ca",
+    "s": "Metro Grocery Store",
+    "t": "metro",
+    "u": "https://www.metro.ca/en/search?free-text={{{s}}}"
+  },
+  {
+    "d": "meucrespo.com.br",
+    "s": "MeuCrespo",
+    "t": "meucrespo",
+    "u": "http://meucrespo.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "mewe.com",
+    "s": "Mewe",
+    "t": "mewe",
+    "u": "https://mewe.com/profile/{{{s}}}"
+  },
+  {
+    "d": "woerterbuchnetz.de",
+    "s": "Meyers Großes Konversationslexikon",
+    "t": "meyers",
+    "u": "http://woerterbuchnetz.de/Meyers/?lemme={{{s}}}"
+  },
+  {
+    "d": "www.mindfactory.de",
+    "s": "Mindfactory",
+    "t": "mfac",
+    "u": "https://www.mindfactory.de/search_result.php?select_search=0&search_query={{{s}}}"
+  },
+  {
+    "d": "myfigurecollection.net",
+    "s": "MyFigureCollection",
+    "t": "mfc",
+    "u": "http://myfigurecollection.net/browse.v4.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.mindfactory.de",
+    "s": "Mindfactory",
+    "t": "mfde",
+    "u": "http://www.mindfactory.de/search_result.php?search_query={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.mobafire.com",
+    "s": "Mobafire",
+    "t": "mfg",
+    "u": "http://www.mobafire.com/league-of-legends/{{{s}}}-guide"
+  },
+  {
+    "d": "www.muscleforlife.com",
+    "s": "http://www.muscleforlife.com/",
+    "t": "mfl",
+    "u": "http://www.muscleforlife.com/?s={{{s}}} "
+  },
+  {
+    "d": "mfm.wikia.com",
+    "s": "Mount Fight Mountain Wikia",
+    "t": "mfm",
+    "u": "http://mfm.wikia.com/wiki/Special:Search?query={{{s}}}"
+  },
+  {
+    "d": "morguefile.com",
+    "s": "Morguefile",
+    "t": "mf",
+    "u": "https://morguefile.com/search/morguefile/1/{{{s}}}/pop"
+  },
+  {
+    "d": "www.myfitnesspal.com",
+    "s": "My Fitness Pal",
+    "t": "mfp",
+    "u": "http://www.myfitnesspal.com/food/search?search={{{s}}}"
+  },
+  {
+    "d": "www.morfix.co.il",
+    "s": "Morfix",
+    "t": "mfx",
+    "u": "http://www.morfix.co.il/{{{s}}}"
+  },
+  {
+    "d": "www.dmgh.de",
+    "s": "Monumenta Germaniae Historica",
+    "t": "mgh",
+    "u": "https://www.dmgh.de/de/fs1/search/query.html?fulltext={{{s}}}"
+  },
+  {
+    "d": "www.mgm.gov.tr",
+    "s": "Türkiye Cumhuriyeti Orman ve Su İşleri Bakanlığı Meteoroloji Genel Müdürlüğü",
+    "t": "mgm",
+    "u": "https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il={{{s}}}"
+  },
+  {
+    "d": "maps.google.com",
+    "s": "Google Maps",
+    "t": "m",
+    "u": "http://maps.google.com/maps?q={{{s}}}"
+  },
+  {
+    "d": "www.managementboek.nl",
+    "s": "Managementboek.nl",
+    "t": "mgtbk",
+    "u": "https://www.managementboek.nl/zoeken?c=&q={{{s}}}"
+  },
+  {
+    "d": "metalgear.wikia.com",
+    "s": "Metal Gear Wiki",
+    "t": "mgw",
+    "u": "http://metalgear.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.mentalhealthlaw.co.uk",
+    "s": "Mental Health Law Online",
+    "t": "mhlo",
+    "u": "http://www.mentalhealthlaw.co.uk/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Monster Hunter Subreddit",
+    "t": "mhr",
+    "u": "https://www.reddit.com/r/MonsterHunter/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "monsterhunter.wikia.com",
+    "s": "The Monster Hunter Wiki",
+    "t": "mh",
+    "u": "http://monsterhunter.wikia.com/wiki/index.php?search={{{s}}}"
+  },
+  {
+    "d": "monsterhunter.wikia.com",
+    "s": "The Monster Hunter Wiki",
+    "t": "mhwiki",
+    "u": "http://monsterhunter.wikia.com/wiki/index.php?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "search.mibbit.com",
+    "s": "Mibbit",
+    "t": "mib",
+    "u": "http://search.mibbit.com/search/{{{s}}}"
+  },
+  {
+    "d": "michaelis.uol.com.br",
+    "s": "Michaelis - Português - Inglês",
+    "t": "michaelis",
+    "u": "http://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra={{{s}}}"
+  },
+  {
+    "d": "michaelis.uol.com.br",
+    "s": "Michaelis English - Portuguese",
+    "t": "michaelispt",
+    "u": "http://michaelis.uol.com.br/busca?r=1&f=1&t=0&palavra={{{s}}}"
+  },
+  {
+    "d": "www.michaels.com",
+    "s": "Michaels Stores",
+    "t": "michaels",
+    "u": "http://www.michaels.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.microcenter.com",
+    "s": "Micro Center",
+    "t": "microcenter",
+    "u": "http://www.microcenter.com/search/search_results.phtml?Ntt={{{s}}}"
+  },
+  {
+    "d": "search.microsoft.com",
+    "s": "Microsoft",
+    "t": "microsoft",
+    "u": "http://search.microsoft.com/results.aspx?mkt=en-US&form=MSHOME&setlang=en-US&q={{{s}}}"
+  },
+  {
+    "d": "www.middaysomewhere.com",
+    "s": "Midday Somewhere",
+    "t": "midday",
+    "u": "https://www.middaysomewhere.com/prices/search?q={{{s}}}"
+  },
+  {
+    "d": "freemidi.org",
+    "s": "freemidi.org",
+    "t": "midi",
+    "u": "https://freemidi.org/search?q={{{s}}}"
+  },
+  {
+    "d": "midori-browser.org",
+    "s": "Midori Browser",
+    "t": "midori",
+    "u": "https://midori-browser.org?term={{{s}}}"
+  },
+  {
+    "d": "www.mightyape.co.nz",
+    "s": "Mighty Ape",
+    "t": "mightyape",
+    "u": "http://www.mightyape.co.nz/search/?i=All&prev=&s={{{s}}}&SearchButton=Search"
+  },
+  {
+    "d": "search.migros.ch",
+    "s": "Migros (DE)",
+    "t": "migros_de",
+    "u": "https://search.migros.ch/de/q:{{{s}}}"
+  },
+  {
+    "d": "search.migros.ch",
+    "s": "Migros (FR)",
+    "t": "migros_fr",
+    "u": "https://search.migros.ch/de/q:{{{s}}}"
+  },
+  {
+    "d": "search.migros.ch",
+    "s": "Migros (IT)",
+    "t": "migros_it",
+    "u": "https://search.migros.ch/de/q:{{{s}}}"
+  },
+  {
+    "d": "miitopia.wikia.com",
+    "s": "Miitopia WIki",
+    "t": "miitopia",
+    "u": "http://miitopia.wikia.com/wiki/{{{s}}}"
+  },
+  {
+    "d": "mijisou.com",
+    "s": "Miji Search",
+    "t": "mijisou",
+    "u": "https://mijisou.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.mijnserie.nl",
+    "s": "MijnSerie",
+    "t": "mijnserie",
+    "u": "https://www.mijnserie.nl/zoeken/?search={{{s}}}"
+  },
+  {
+    "d": "wiki.mikrotik.com",
+    "s": "Mikrotik Wiki",
+    "t": "mik",
+    "u": "https://wiki.mikrotik.com/index.php?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "d": "www.military-stuff.org",
+    "s": "https://www.military-stuff.org",
+    "t": "military",
+    "u": "https://www.military-stuff.org/?s={{{s}}}"
+  },
+  {
+    "d": "blackstarsurplus.com",
+    "s": "Black Star Surplus",
+    "t": "militarysurplus",
+    "u": "http://blackstarsurplus.com/{{{s}}}"
+  },
+  {
+    "d": "www.millersville.edu",
+    "s": "Millersville University",
+    "t": "millersv",
+    "u": "https://www.millersville.edu/search-results.php?query={{{s}}}"
+  },
+  {
+    "d": "millionshort.com",
+    "s": "Million short",
+    "t": "millionshort",
+    "u": "http://millionshort.com/search.php?q={{{s}}}&remove=1000k"
+  },
+  {
+    "d": "millionshort.com",
+    "s": "Million Short",
+    "t": "mill",
+    "u": "https://millionshort.com/search?keywords={{{s}}}&remove=1000000"
+  },
+  {
+    "d": "milog.co.il",
+    "s": "Milog",
+    "t": "milog",
+    "u": "http://milog.co.il/{{{s}}}"
+  },
+  {
+    "d": "mimeapplication.net",
+    "s": "Mime Types Database",
+    "t": "mime",
+    "u": "http://mimeapplication.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mimovrste.com",
+    "s": "Mimovrste",
+    "t": "mimovrste",
+    "u": "https://www.mimovrste.com/iskanje?s={{{s}}}"
+  },
+  {
+    "d": "www.myinstants.com",
+    "s": "myinstants",
+    "t": "mi",
+    "u": "http://www.myinstants.com/search/?name={{{s}}}"
+  },
+  {
+    "d": "www.mindat.org",
+    "s": "Mindat",
+    "t": "mindat",
+    "u": "http://www.mindat.org/search.php?search={{{s}}}"
+  },
+  {
+    "d": "www.mindfactory.de",
+    "s": "Mindfactory.de",
+    "t": "mindfactory",
+    "u": "https://www.mindfactory.de/search_result.php?select_search=0&search_query={{{s}}}"
+  },
+  {
+    "d": "www.mindfactory.de",
+    "s": "Mindfactory",
+    "t": "mindf",
+    "u": "https://www.mindfactory.de/search_result.php?select_search=0&search_query={{{s}}}"
+  },
+  {
+    "d": "www.minds.com",
+    "s": "Minds.com",
+    "t": "minds",
+    "u": "https://www.minds.com/search;q={{{s}}}"
+  },
+  {
+    "d": "minecraft-de.gamepedia.com",
+    "s": "Minecraft Wiki (DE)",
+    "t": "minecraft-de",
+    "u": "http://minecraft-de.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "minecraft-de.gamepedia.com",
+    "s": "Minecraft Wiki (deutsch)",
+    "t": "minecraftde",
+    "u": "http://minecraft-de.gamepedia.com/index.php?search={{{s}}}&title=Spezial%3ASuche&go=Seite"
+  },
+  {
+    "d": "minecraft.wiki",
+    "s": "Official Minecraft Wiki",
+    "t": "minecraft",
+    "u": "http://minecraft.wiki?search={{{s}}}"
+  },
+  {
+    "d": "minecraft-ru.gamepedia.com",
+    "s": "minecraft-ru.gamepedia.com",
+    "t": "minecraft-ru",
+    "u": "https://minecraft-ru.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "minecraft-seeds.net",
+    "s": "Minecraft Seeds",
+    "t": "minecraftseeds",
+    "u": "http://minecraft-seeds.net/seeds/search/?q={{{s}}}"
+  },
+  {
+    "d": "minecraft.wiki",
+    "s": "Minecraft Wiki",
+    "t": "minecraftwiki",
+    "u": "http://minecraft.wiki?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "minecraft.wiki",
+    "s": "Minecraft Wiki",
+    "t": "minecratwiki",
+    "u": "http://minecraft.wiki?search={{{s}}}"
+  },
+  {
+    "d": "www.minecraftforum.net",
+    "s": "Minecraft Forums",
+    "t": "mineforum",
+    "u": "https://www.minecraftforum.net/search?search={{{s}}}"
+  },
+  {
+    "d": "news.mingpao.com",
+    "s": "Ming Pao",
+    "t": "mingpao",
+    "u": "https://news.mingpao.com/cfm/search2.cfm?keywords={{{s}}}"
+  },
+  {
+    "d": "www.miniclip.com",
+    "s": "Miniclip",
+    "t": "miniclip",
+    "u": "http://www.miniclip.com/games/en/search.php?query={{{s}}}"
+  },
+  {
+    "d": "www.miniclip.com",
+    "s": "Miniclip",
+    "t": "minigame",
+    "u": "http://www.miniclip.com/games/search/en/?query={{{s}}}#t-sd"
+  },
+  {
+    "d": "www.miniinthebox.com",
+    "s": "MiniInTeBox",
+    "t": "miniinthebox",
+    "u": "http://www.miniinthebox.com/index.php?main_page=advanced_search_result&inc_subcat=1&search_in_description=0&keyword={{{s}}}"
+  },
+  {
+    "d": "www.minimins.com",
+    "s": "MiniMins",
+    "t": "minimins",
+    "u": "https://www.minimins.com/index.php?search/search&keywords={{{s}}}:"
+  },
+  {
+    "d": "miniology.com",
+    "s": "Miniology",
+    "t": "miniology",
+    "u": "http://miniology.com/?s={{{s}}}&submit=Search"
+  },
+  {
+    "d": "cerca.ministerosalute.it",
+    "s": "Ministero della Salute",
+    "t": "minsal",
+    "u": "http://cerca.ministerosalute.it/search?q={{{s}}}&client=defaultPORT_front-end&proxystylesheet=defaultPORT_front-end&site=default_collection&output=xml_no_dtd&filter=p"
+  },
+  {
+    "d": "minimalsearch.com",
+    "s": "minimalsearch",
+    "t": "minsearch",
+    "u": "https://minimalsearch.com/search?q={{{s}}}"
+  },
+  {
+    "d": "linuxmint.com",
+    "s": "LinuxMint",
+    "t": "mint",
+    "u": "http://linuxmint.com/search.php?query={{{s}}}&search=1"
+  },
+  {
+    "d": "www.mirabileweb.it",
+    "s": "Mirabile: Digital Archives for Medieval Culture",
+    "t": "mirabile",
+    "u": "http://www.mirabileweb.it/ricerca_semplice.aspx?tsearch={{{s}}}"
+  },
+  {
+    "d": "www.mironet.cz",
+    "s": "Mironet.cz",
+    "t": "mironet",
+    "u": "https://www.mironet.cz/Productlist/showSearch?EXPS={{{s}}}"
+  },
+  {
+    "d": "mises.org",
+    "s": "Mises Institute",
+    "t": "mises",
+    "u": "https://mises.org/search/site/{{{s}}}"
+  },
+  {
+    "d": "mistborn.wikia.com",
+    "s": "Mistborn Wiki",
+    "t": "mistborn",
+    "u": "http://mistborn.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "us.misumi-ec.com",
+    "s": "Misumi USA",
+    "t": "misumi",
+    "u": "https://us.misumi-ec.com/vona2/result/?Keyword={{{s}}}"
+  },
+  {
+    "d": "lib.mit.edu",
+    "s": "MIT Libraries",
+    "t": "mitlib",
+    "u": "https://lib.mit.edu/search/bento?q={{{s}}}"
+  },
+  {
+    "d": "student.mit.edu",
+    "s": "MIT Subject Listing & Schedule",
+    "t": "mit",
+    "u": "http://student.mit.edu/catalog/search.cgi?search={{{s}}}"
+  },
+  {
+    "d": "search.mit.edu",
+    "s": "MIT OpenCourseWare",
+    "t": "mitocw",
+    "u": "http://search.mit.edu/search?site=ocw&client=mit&output=xml_no_dtd&proxystylesheet=http://ocw.mit.edu/search/google-ocw.xsl&proxyreload=1&q={{{s}}}"
+  },
+  {
+    "d": "video.mit.edu",
+    "s": "MIT Video",
+    "t": "mitvid",
+    "u": "http://video.mit.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.cogimix.com",
+    "s": "Cogimix",
+    "t": "mix",
+    "u": "https://www.cogimix.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.drinksmixer.com",
+    "s": "DrinksMixer",
+    "t": "mixer",
+    "u": "http://www.drinksmixer.com/search/?q={{{s}}}&d=1&p=1"
+  },
+  {
+    "d": "mixergy.com",
+    "s": "Mixergy",
+    "t": "mixergy",
+    "u": "http://mixergy.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.mixesdb.com",
+    "s": "MixesDB",
+    "t": "mixesdb",
+    "u": "http://www.mixesdb.com/db/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.miningjobsearch.com",
+    "s": "Mining Job Search",
+    "t": "mjs",
+    "u": "https://www.miningjobsearch.com/Mining-Jobs/Search/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Michael Tsai - Blog",
+    "t": "mjtsai",
+    "u": "https://duckduckgo.com/?q={{{s}}}&sites=mjtsai.com&ia=web"
+  },
+  {
+    "d": "sammlungonline.mkg-hamburg.de",
+    "s": "MKG Sammlung Online",
+    "t": "mkg",
+    "u": "https://sammlungonline.mkg-hamburg.de/de/search?s={{{s}}}"
+  },
+  {
+    "d": "mechanicalkeyboards.com",
+    "s": "Mechanical Keyboards",
+    "t": "mk",
+    "u": "http://mechanicalkeyboards.com/search.php?switch_id=ALL&size=ALL&keyword={{{s}}} "
+  },
+  {
+    "d": "www.cardmarket.com",
+    "s": "Magic Card Market",
+    "t": "mkm",
+    "u": "https://www.cardmarket.com/en/Magic/Products/Search?searchString={{{s}}}"
+  },
+  {
+    "d": "search.mlp.cz",
+    "s": "Městská knihovna v Praze",
+    "t": "mkp",
+    "u": "https://search.mlp.cz/cz/?query={{{s}}}&kde=all#/c_s_ol=query-eq:{{{s}}}"
+  },
+  {
+    "d": "mariokart.wikia.com",
+    "s": "Mario Kart Racing Wiki",
+    "t": "mkrw",
+    "u": "http://mariokart.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.marketwatch.com",
+    "s": "MarketWatch",
+    "t": "mktw",
+    "u": "http://www.marketwatch.com/investing/stock/{{{s}}}"
+  },
+  {
+    "d": "listado.mercadolibre.com.ar",
+    "s": "Mercado Libre Argentina",
+    "t": "mlar",
+    "u": "http://listado.mercadolibre.com.ar/{{{s}}}"
+  },
+  {
+    "d": "www.mlat.uzh.ch",
+    "s": "Corpus Corporum: repositorium operum latinorum apud universitatem Turicensem",
+    "t": "mlat",
+    "u": "http://www.mlat.uzh.ch/MLS/advsuchergebnis.php?suchbegriff={{{s}}}&mode=SPH_MATCH_EXTENDED2&corpus=all"
+  },
+  {
+    "d": "mlb.mlb.com",
+    "s": "MLB.com",
+    "t": "mlb",
+    "u": "http://mlb.mlb.com/searchGlobalSearchServlet?club=mlb&search_mode=1&searchtypeid=-1&page_number=1&query_text1={{{s}}}"
+  },
+  {
+    "d": "espn.go.com",
+    "s": "MLB Player Search",
+    "t": "mlbp",
+    "u": "http://espn.go.com/mlb/players?=1&search={{{s}}} "
+  },
+  {
+    "d": "lista.mercadolivre.com.br",
+    "s": "Mercado Livre Brasil",
+    "t": "mlbr",
+    "u": "http://lista.mercadolivre.com.br/{{{s}}} "
+  },
+  {
+    "d": "listado.mercadolibre.cl",
+    "s": "Mercado Libre Chile",
+    "t": "mlcl",
+    "u": "http://listado.mercadolibre.cl/{{{s}}} "
+  },
+  {
+    "d": "listado.mercadolibre.com.co",
+    "s": "Mercado Libre Colombia",
+    "t": "mlco",
+    "u": "http://listado.mercadolibre.com.co/{{{s}}} "
+  },
+  {
+    "d": "listado.mercadolibre.co.cr",
+    "s": "Mercado Libre Costa Rica",
+    "t": "mlcr",
+    "u": "http://listado.mercadolibre.co.cr/{{{s}}} "
+  },
+  {
+    "d": "www.mldb.org",
+    "s": "The Music Lyrics Database",
+    "t": "mldb",
+    "u": "http://www.mldb.org/search?mq={{{s}}}"
+  },
+  {
+    "d": "www.learnersdictionary.com",
+    "s": "Learner's Dictionary",
+    "t": "mld",
+    "u": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "d": "listado.mercadolibre.com.do",
+    "s": "Mercado Libre Dominicana",
+    "t": "mldo",
+    "u": "http://listado.mercadolibre.com.do/{{{s}}} "
+  },
+  {
+    "d": "listado.mercadolibre.com.ec",
+    "s": "Mercado Libre Ecuador",
+    "t": "mlec",
+    "u": "http://listado.mercadolibre.com.ec/{{{s}}} "
+  },
+  {
+    "d": "forum.manjaro.org",
+    "s": "Manjaro Linux Forums",
+    "t": "mlf",
+    "u": "https://forum.manjaro.org/search?q={{{s}}}"
+  },
+  {
+    "d": "mlgb3.bodleian.ox.ac.uk",
+    "s": "Medieval Libraries of Great Britain",
+    "t": "mlgb",
+    "u": "http://mlgb3.bodleian.ox.ac.uk/mlgb/?search_term={{{s}}}"
+  },
+  {
+    "d": "mylaptopguide.com",
+    "s": "My Laptop Guide",
+    "t": "mlg",
+    "u": "https://mylaptopguide.com/?s={{{s}}}"
+  },
+  {
+    "d": "google.com",
+    "s": "Google Maps Lite",
+    "t": "ml",
+    "u": "https://google.com/maps/search/{{{s}}}?force=canvas"
+  },
+  {
+    "d": "listado.mercadolibre.com.co",
+    "s": "MercadoLibre Colombia",
+    "t": "mlibreco",
+    "u": "https://listado.mercadolibre.com.co/{{{s}}}"
+  },
+  {
+    "d": "lista.mercadolivre.com.br",
+    "s": "Mercado Livre",
+    "t": "mlivre",
+    "u": "http://lista.mercadolivre.com.br/{{{s}}}#D[A:{{{s}}}]"
+  },
+  {
+    "d": "www.liquormarts.ca",
+    "s": "Manitoba Liquor Marts",
+    "t": "mll",
+    "u": "https://www.liquormarts.ca/search-products/%25/{{{s}}}"
+  },
+  {
+    "d": "listado.mercadolibre.com.mx",
+    "s": "Mercado Libre Mexico",
+    "t": "mlmx",
+    "u": "https://listado.mercadolibre.com.mx/{{{s}}}"
+  },
+  {
+    "d": "find.minlib.net",
+    "s": "Minuteman Library Network",
+    "t": "mln",
+    "u": "https://find.minlib.net/iii/encore/search/C__S{{{s}}}"
+  },
+  {
+    "d": "www.mageialinux-online.org",
+    "s": "Mageia linux Online ",
+    "t": "mlo",
+    "u": "http://www.mageialinux-online.org/search/search.php#results?q={{{s}}}&search_submit=Recherche"
+  },
+  {
+    "d": "listado.mercadolibre.com.pa",
+    "s": "Mercado Libre Panama",
+    "t": "mlpa",
+    "u": "http://listado.mercadolibre.com.pa/{{{s}}} "
+  },
+  {
+    "d": "listado.mercadolibre.com.pe",
+    "s": "Mercado Libre Peru",
+    "t": "mlpe",
+    "u": "http://listado.mercadolibre.com.pe/{{{s}}} "
+  },
+  {
+    "d": "vsearch.nlm.nih.gov",
+    "s": "Medline plus in spanish",
+    "t": "mlpes",
+    "u": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus-spanish&v%3Asources=medlineplus-spanish-bundle&query={{{s}}}"
+  },
+  {
+    "d": "mlpforums.com",
+    "s": "My Little Pony Forums",
+    "t": "mlpf",
+    "u": "https://mlpforums.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "multiplayer.it",
+    "s": "https://multiplayer.it/",
+    "t": "mlpit",
+    "u": "https://multiplayer.it/ricerca/?q={{{s}}}"
+  },
+  {
+    "d": "mlp.wikia.com",
+    "s": "My Little Pony: Friendship is Magic Wiki",
+    "t": "mlp",
+    "u": "http://mlp.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.mlssoccer.com",
+    "s": "MLS Soccer",
+    "t": "mls",
+    "u": "http://www.mlssoccer.com/search/{{{s}}}"
+  },
+  {
+    "d": "listado.mercadolibre.com.uy",
+    "s": "Mercado Libre",
+    "t": "mluy",
+    "u": "http://listado.mercadolibre.com.uy/{{{s}}}"
+  },
+  {
+    "d": "listado.mercadolibre.com.ve",
+    "s": "Mercado Libre Venezuela",
+    "t": "mlve",
+    "u": "http://listado.mercadolibre.com.ve/{{{s}}} "
+  },
+  {
+    "d": "muslimmanga.org",
+    "s": "Muslim Manga",
+    "t": "mmanga",
+    "u": "http://muslimmanga.org/?lang=en&s={{{s}}}"
+  },
+  {
+    "d": "www.musixmatch.com",
+    "s": "Musixmatch",
+    "t": "mmatch",
+    "u": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.mcmaster.com",
+    "s": "McMaster-Carr",
+    "t": "mmc",
+    "u": "http://www.mcmaster.com/#{{{s}}} "
+  },
+  {
+    "d": "metromatinee.com",
+    "s": "MetroMatinee",
+    "t": "mme",
+    "u": "https://metromatinee.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.myminifactory.com",
+    "s": "My Mini Factory",
+    "t": "mmf",
+    "u": "https://www.myminifactory.com/search/?query={{{s}}}&searchType=1"
+  },
+  {
+    "d": "www.mymovies.it",
+    "s": "My Movies Italia",
+    "t": "mmi",
+    "u": "http://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca "
+  },
+  {
+    "d": "www.miniaturemarket.com",
+    "s": "Miniatur Market",
+    "t": "mmk",
+    "u": "https://www.miniaturemarket.com/searchresults?q={{{s}}}"
+  },
+  {
+    "d": "mmlafleur.com",
+    "s": "MM.LaFleur",
+    "t": "mmlafleur",
+    "u": "https://mmlafleur.com/shop/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "myanimelist.net",
+    "s": "http://myanimelist.net/",
+    "t": "mml",
+    "u": "http://myanimelist.net/manga.php?q={{{s}}}"
+  },
+  {
+    "d": "find.minlib.net",
+    "s": "Minuteman Library Network",
+    "t": "mmls",
+    "u": "http://find.minlib.net/iii/encore/search?formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&target={{{s}}}"
+  },
+  {
+    "d": "www.macmillandictionary.com",
+    "s": "Macmillan Dictionary",
+    "t": "mm",
+    "u": "http://www.macmillandictionary.com/us/search/british/direct/?q={{{s}}}"
+  },
+  {
+    "d": "www.mrmoneymustache.com",
+    "s": "Mr. Money Mustache",
+    "t": "mmm",
+    "u": "https://www.mrmoneymustache.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.moviemeter.nl",
+    "s": "moviemeter.nl",
+    "t": "mmnl",
+    "u": "https://www.moviemeter.nl/site/search?q={{{s}}}"
+  },
+  {
+    "d": "mmo13.com",
+    "s": "https://mmo13.com",
+    "t": "mmo13",
+    "u": "https://mmo13.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.mmoga.de",
+    "s": "MMOGA",
+    "t": "mmoga",
+    "u": "https://www.mmoga.de/advanced_search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "medieval.bodleian.ox.ac.uk",
+    "s": "Medieval Manuscripts in Oxford Libraries",
+    "t": "mmol",
+    "u": "https://medieval.bodleian.ox.ac.uk/?q={{{s}}}"
+  },
+  {
+    "d": "musicmoz.org",
+    "s": "MusicMoz",
+    "t": "mmoz",
+    "u": "https://musicmoz.org/search/search.cgi?search={{{s}}}"
+  },
+  {
+    "d": "na.whatismymmr.com",
+    "s": "What is My MMR",
+    "t": "mmr",
+    "u": "https://na.whatismymmr.com/{{{s}}}"
+  },
+  {
+    "d": "www.cardmarket.com",
+    "s": "Cardmarket Manamaze",
+    "t": "mmz",
+    "u": "https://www.cardmarket.com/en/Magic/MainPage/browseUserProducts?idCategory=1&idUser=25674&resultsPage=0&cardName={{{s}}}"
+  },
+  {
+    "d": "mnacritique.mergersindia.com",
+    "s": "M&A Critique",
+    "t": "mna",
+    "u": "https://mnacritique.mergersindia.com/?s="
+  },
+  {
+    "d": "m.search.naver.com",
+    "s": "Mobile Naver",
+    "t": "mnaver",
+    "u": "https://m.search.naver.com/search.naver?query={{{s}}}"
+  },
+  {
+    "d": "minimalistbaker.com",
+    "s": "Minimalist Baker",
+    "t": "mnb",
+    "u": "https://minimalistbaker.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.makenewfriendspodcast.com",
+    "s": "Make New Friends Podcast",
+    "t": "mnf",
+    "u": "https://www.makenewfriendspodcast.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.medicinanet.com.br",
+    "s": "medicinanet",
+    "t": "mn",
+    "u": "http://www.medicinanet.com.br/pesquisas/{{{s}}}.htm"
+  },
+  {
+    "d": "www.nexusmods.com",
+    "s": "Morrowind NexusMods",
+    "t": "mnm",
+    "u": "https://www.nexusmods.com/morrowind/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "d": "mnnthbx.com",
+    "s": "MNNTHBX",
+    "t": "mnnthbx",
+    "u": "https://mnnthbx.com/?post_type=product&s={{{s}}}"
+  },
+  {
+    "d": "manpages.org",
+    "s": "manpages.org",
+    "t": "mnp",
+    "u": "http://manpages.org/{{{s}}}"
+  },
+  {
+    "d": "www.medicalnewstoday.com",
+    "s": "Medical News Today",
+    "t": "mnt",
+    "u": "http://www.medicalnewstoday.com/search?q={{{s}}} "
+  },
+  {
+    "d": "masterof13fps.de",
+    "s": "MasterOf13FPS",
+    "t": "mo13fps",
+    "u": "https://masterof13fps.de/forums/search/46335/?q={{{s}}}"
+  },
+  {
+    "d": "www.mobafire.com",
+    "s": "Mobafire Builds",
+    "t": "mobafirebuilds",
+    "u": "http://www.mobafire.com/league-of-legends/browse/?q={{{s}}}: "
+  },
+  {
+    "d": "www.mobafire.com",
+    "s": "MobaFire LOL Strategy",
+    "t": "mobafire",
+    "u": "http://www.mobafire.com//?q={{{s}}}:"
+  },
+  {
+    "d": "mobilecentre.am",
+    "s": "Mobile Centre",
+    "t": "mobce",
+    "u": "https://mobilecentre.am/search/?searchData={{{s}}}"
+  },
+  {
+    "d": "mobcup.net",
+    "s": "MobCup",
+    "t": "mobcup",
+    "u": "https://mobcup.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mobileday.in",
+    "s": "Mobile Dat",
+    "t": "mobileday",
+    "u": "https://www.mobileday.in/search/label/{{{s}}}"
+  },
+  {
+    "d": "search.google.com",
+    "s": "Mobile-Friendly Test - Google",
+    "t": "mobilefriendly",
+    "u": "https://search.google.com/test/mobile-friendly?url={{{s}}}"
+  },
+  {
+    "d": "www.mobilegeeks.com",
+    "s": "Mobile Geeks",
+    "t": "mobilegeeks",
+    "u": "http://www.mobilegeeks.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.mobileread.com",
+    "s": "MobileRead",
+    "t": "mobileread",
+    "u": "https://www.mobileread.com/forums/gcs.php?cx=011403329271260343335%3Amzng3fi-cti&q={{{s}}}&sa=Search&siteurl=www.mobileread.com%2F"
+  },
+  {
+    "d": "mobirumdiscovery.com",
+    "s": "MobirumDiscovery",
+    "t": "mobirum",
+    "u": "https://mobirumdiscovery.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mobygames.com",
+    "s": "Moby Games",
+    "t": "mobygames",
+    "u": "http://www.mobygames.com/search/quick?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.mobygames.com",
+    "s": "MobyGames",
+    "t": "moby",
+    "u": "http://www.mobygames.com/search/quick?q={{{s}}}"
+  },
+  {
+    "d": "www.moby-thesaurus.org",
+    "s": "Moby Thesaurus",
+    "t": "mobythes",
+    "u": "http://www.moby-thesaurus.org/search?q={{{s}}}"
+  },
+  {
+    "d": "modarchive.org",
+    "s": "The Mod Archive",
+    "t": "modarchive",
+    "u": "https://modarchive.org/index.php?request=search&query={{{s}}}&submit=Find&search_type=filename_or_songtitle"
+  },
+  {
+    "d": "www.modcloth.com",
+    "s": "ModCloth",
+    "t": "modcloth",
+    "u": "http://www.modcloth.com/shop/search?keyword={{{s}}} "
+  },
+  {
+    "d": "moddb.com",
+    "s": "ModDB",
+    "t": "moddb",
+    "u": "http://moddb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "moddota.com",
+    "s": "ModDota",
+    "t": "moddota",
+    "u": "https://moddota.com/forums/search?Search={{{s}}}"
+  },
+  {
+    "d": "www.modes4u.com",
+    "s": "modeS4u [IT]",
+    "t": "modes4u_it",
+    "u": "https://www.modes4u.com/carino/{{{s}}}"
+  },
+  {
+    "d": "www.modes4u.com",
+    "s": "modeS4u",
+    "t": "modes4u",
+    "u": "https://www.modes4u.com/japanese/{{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Reddit Modhelp",
+    "t": "modhelp",
+    "u": "http://www.reddit.com/r/modhelp/search?q={{{s}}}"
+  },
+  {
+    "d": "modarchive.org",
+    "s": "Modarchive",
+    "t": "mod",
+    "u": "http://modarchive.org/index.php?request=search&query={{{s}}}&submit=Find&search_type=filename_or_songtitle"
+  },
+  {
+    "d": "www.modulargrid.net",
+    "s": "ModularGrid",
+    "t": "modulargrid",
+    "u": "https://www.modulargrid.net/e/modules/browser?SearchName={{{s}}}"
+  },
+  {
+    "d": "en.wikipedia.org",
+    "s": "Wikipedia",
+    "t": "module",
+    "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}"
+  },
+  {
+    "d": "docs.modx.org",
+    "s": "MODX",
+    "t": "modx",
+    "u": "https://docs.modx.org/current/en/search?q={{{s}}}"
+  },
+  {
+    "d": "www.moedict.tw",
+    "s": "Moedict",
+    "t": "moedict",
+    "u": "https://www.moedict.tw/{{{s}}}"
+  },
+  {
+    "d": "zh.moegirl.org",
+    "s": "Moe Girl Pedia",
+    "t": "moegirl",
+    "u": "https://zh.moegirl.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.moex.com",
+    "s": "Moscow Exchange",
+    "t": "moex",
+    "u": "https://www.moex.com/en/issue.aspx?code={{{s}}}"
+  },
+  {
+    "d": "www.mofakult.ch",
+    "s": "Mofakult",
+    "t": "mofakult",
+    "u": "https://www.mofakult.ch/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "www.moglix.com",
+    "s": "Moglix",
+    "t": "moglix",
+    "u": "https://www.moglix.com/search?controller=search&orderby=position&orderway=desc&search_query= {{{s}}}&submit_search=Search"
+  },
+  {
+    "d": "bugs.mojang.com",
+    "s": "Mojang Bug Tracker",
+    "t": "mojangbug",
+    "u": "https://bugs.mojang.com/issues/?jql=text ~ '{{{s}}}'"
+  },
+  {
+    "d": "www.mojeek.com",
+    "s": "mojeek",
+    "t": "mojeek",
+    "u": "https://www.mojeek.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.madeofjeans.com",
+    "s": "Made of Jeans",
+    "t": "moj",
+    "u": "https://www.madeofjeans.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "boxofficemojo.com",
+    "s": "Box Office Mojo",
+    "t": "mojo",
+    "u": "http://boxofficemojo.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.moj-posao.net",
+    "s": "MojPosao",
+    "t": "mojposao",
+    "u": "https://www.moj-posao.net/Pretraga-Poslova/?keyword={{{s}}}&area=&category="
+  },
+  {
+    "d": "www.mollat.com",
+    "s": "Mollat",
+    "t": "mollat",
+    "u": "https://www.mollat.com/recherche?requete={{{s}}}"
+  },
+  {
+    "d": "paikat.te-palvelut.fi",
+    "s": "TE-palvelut",
+    "t": "mol",
+    "u": "https://paikat.te-palvelut.fi/tpt/?searchPhrase={{{s}}}"
+  },
+  {
+    "d": "www.webqc.org",
+    "s": "WebQC.org",
+    "t": "molw",
+    "u": "http://www.webqc.org/mmcalc.php?compound={{{s}}}"
+  },
+  {
+    "d": "moly.hu",
+    "s": "Moly.hu",
+    "t": "moly",
+    "u": "http://moly.hu/kereses?q={{{s}}}"
+  },
+  {
+    "d": "mathoverflow.net",
+    "s": "MathOverflow",
+    "t": "mo",
+    "u": "http://mathoverflow.net/search?q={{{s}}}"
+  },
+  {
+    "d": "www.monash.edu",
+    "s": "Monash University",
+    "t": "monash",
+    "u": "https://www.monash.edu/search?query={{{s}}}"
+  },
+  {
+    "d": "moncul.org",
+    "s": "Et mon cul c'est du tofu ?",
+    "t": "moncul",
+    "u": "http://moncul.org/?s={{{s}}}"
+  },
+  {
+    "d": "www.mondadoristore.it",
+    "s": "Mondadori Store",
+    "t": "mondadoristore",
+    "u": "http://www.mondadoristore.it/search/?tpr=10&g={{{s}}}&swe=N&search-input=active"
+  },
+  {
+    "d": "www.lemonde.fr",
+    "s": "le monde",
+    "t": "mondefr",
+    "u": "https://www.lemonde.fr/recherche/?keywords={{{s}}}"
+  },
+  {
+    "d": "www.lemonde.fr",
+    "s": "Le Monde",
+    "t": "monde",
+    "u": "https://www.lemonde.fr/recherche/?search_keywords={{{s}}}"
+  },
+  {
+    "d": "www.mondofox.it",
+    "s": "MondoFox",
+    "t": "mondofox",
+    "u": "https://www.mondofox.it/?q={{{s}}}"
+  },
+  {
+    "d": "www.mondou.com",
+    "s": "Mondou Pet Store",
+    "t": "mondou",
+    "u": "https://www.mondou.com/en-CA/Search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.moneycontrol.com",
+    "s": "MoneyControl",
+    "t": "moneycontrol",
+    "u": "http://www.moneycontrol.com/stocks/cptmarket/compsearchnew.php?search_data=&cid=&mbsearch_str=&topsearch_type=1&search_str={{{s}}}"
+  },
+  {
+    "d": "www.moneyland.ch",
+    "s": "moneyland.ch",
+    "t": "moneyland",
+    "u": "https://www.moneyland.ch/search?q={{{s}}}"
+  },
+  {
+    "d": "moneybadger.stocktwits.com",
+    "s": "Money Badger by StockTwits",
+    "t": "money",
+    "u": "http://moneybadger.stocktwits.com/?s={{{s}}}"
+  },
+  {
+    "d": "docs.mongodb.org",
+    "s": "MongoDB",
+    "t": "mongodb",
+    "u": "http://docs.mongodb.org/manual/search/?query={{{s}}}"
+  },
+  {
+    "d": "docs.mongodb.org",
+    "s": "MongoDB",
+    "t": "mongo",
+    "u": "http://docs.mongodb.org/manual/search/?query={{{s}}}"
+  },
+  {
+    "d": "blog.monolecte.fr",
+    "s": "Le Monolecte",
+    "t": "monolecte",
+    "u": "http://blog.monolecte.fr/?s={{{s}}} "
+  },
+  {
+    "d": "www.monoprice.com",
+    "s": "Monoprice",
+    "t": "monoprice",
+    "u": "http://www.monoprice.com/products/search.asp?keyword={{{s}}}"
+  },
+  {
+    "d": "www.monstercat.com",
+    "s": "Monstercat",
+    "t": "monstercat",
+    "u": "https://www.monstercat.com/search?term={{{s}}}"
+  },
+  {
+    "d": "monster-coupons.com",
+    "s": "Monster-Coupons",
+    "t": "monstercoupons",
+    "u": "https://monster-coupons.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "jobsearch.monster.com",
+    "s": "Monster.com",
+    "t": "monster",
+    "u": "http://jobsearch.monster.com/Search.aspx?re=130&cy=us&brd=1&JSNONREG=1&q={{{s}}}&rad=20&rad_units=miles"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "DuckDuckGo",
+    "t": "month",
+    "u": "https://duckduckgo.com/?q={{{s}}}&df=m"
+  },
+  {
+    "d": "www.class-central.com",
+    "s": "Class Central",
+    "t": "mooc",
+    "u": "https://www.class-central.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.class-central.com",
+    "s": "Class-Central",
+    "t": "moocs",
+    "u": "https://www.class-central.com/search?q={{{s}}}"
+  },
+  {
+    "d": "mooji.tv",
+    "s": "Mooji TV",
+    "t": "mooji",
+    "u": "http://mooji.tv/freemedia/?_fm_s={{{s}}}"
+  },
+  {
+    "d": "www.moo.com",
+    "s": "MOO",
+    "t": "moo",
+    "u": "https://www.moo.com/search?query={{{s}}}"
+  },
+  {
+    "d": "moonmonday.space",
+    "s": "Moon Monday",
+    "t": "moon",
+    "u": "https://moonmonday.space/?s={{{s}}}"
+  },
+  {
+    "d": "www.moonpig.com",
+    "s": "MoonPig",
+    "t": "moonpig",
+    "u": "https://www.moonpig.com/uk/testpages/search/ab277/?q={{{s}}}"
+  },
+  {
+    "d": "www.moviepilot.de",
+    "s": "moviepilot",
+    "t": "mopi",
+    "u": "https://www.moviepilot.de/suche?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.moraneducation.com",
+    "s": "Moran Education",
+    "t": "moraneducation",
+    "u": "http://www.moraneducation.com/index.php?route=product/search&search={{{s}}} "
+  },
+  {
+    "d": "morbotron.com",
+    "s": "Morbotron",
+    "t": "morbo",
+    "u": "https://morbotron.com/?q={{{s}}}"
+  },
+  {
+    "d": "morbotron.com",
+    "s": "Morbotron",
+    "t": "morbotron",
+    "u": "https://morbotron.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.morchstore.com",
+    "s": "MorchStore",
+    "t": "morchstore",
+    "u": "https://www.morchstore.com/?post_type=product&s={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "MobileRead",
+    "t": "more",
+    "u": "https://duckduckgo.com/?q=site:https://www.mobileread.com%20{{{s}}}"
+  },
+  {
+    "d": "www.morfix.co.il",
+    "s": "Morfix",
+    "t": "morfix",
+    "u": "http://www.morfix.co.il/{{{s}}}"
+  },
+  {
+    "d": "www.mormon.org",
+    "s": "mormon.org",
+    "t": "mormon",
+    "u": "https://www.mormon.org/searchresults#?query={{{s}}}"
+  },
+  {
+    "d": "www.morningstar.com",
+    "s": "Morningstar Search",
+    "t": "morningstar",
+    "u": "https://www.morningstar.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "mosaicmarble.com",
+    "s": "Mosaic Marble",
+    "t": "mosaicmarble",
+    "u": "https://mosaicmarble.com/products/search?query={{{s}}}"
+  },
+  {
+    "d": "ingressmosaik.com",
+    "s": "IngressMosail",
+    "t": "mosaik",
+    "u": "https://ingressmosaik.com/search?f={{{s}}}"
+  },
+  {
+    "d": "www.moshville.co.uk",
+    "s": "The Moshville Times",
+    "t": "moshville",
+    "u": "http://www.moshville.co.uk//?s={{{s}}}"
+  },
+  {
+    "d": "mostaql.com",
+    "s": "Mostaql | مستقل",
+    "t": "mostaql",
+    "u": "https://mostaql.com/freelancers?keyword={{{s}}}"
+  },
+  {
+    "d": "www.motonet.fi",
+    "s": "Motonet Finland",
+    "t": "motonet",
+    "u": "http://www.motonet.fi/fi/haku?q={{{s}}}"
+  },
+  {
+    "d": "www.motorsport.com",
+    "s": "Motorsport.com",
+    "t": "motorsport",
+    "u": "http://www.motorsport.com/all/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.mountainwarehouse.com",
+    "s": "Mountain Warehouse",
+    "t": "mountainwarehouse",
+    "u": "https://www.mountainwarehouse.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.mouser.com",
+    "s": "Mouser Electronics",
+    "t": "mouser",
+    "u": "http://www.mouser.com/Search/Refine.aspx?Keyword={{{s}}}"
+  },
+  {
+    "d": "moviechat.org",
+    "s": "MovieChat",
+    "t": "moviechat",
+    "u": "https://moviechat.org/search?name={{{s}}}"
+  },
+  {
+    "d": "www.moviefone.com",
+    "s": "Moviefone",
+    "t": "moviefone",
+    "u": "https://www.moviefone.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.movieguide.org",
+    "s": "MovieGuide",
+    "t": "movieguide",
+    "u": "http://www.movieguide.org/?s={{{s}}}&submit.x=0&submit.y=0&submit=Search&key=hs"
+  },
+  {
+    "d": "www.moviemeter.nl",
+    "s": "Movie Meter",
+    "t": "moviemeter",
+    "u": "https://www.moviemeter.nl/site/search?q={{{s}}}"
+  },
+  {
+    "d": "m.moviepilot.de",
+    "s": "Moviepilot Mobile",
+    "t": "moviepilotm",
+    "u": "http://m.moviepilot.de/suche?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "www.moviepilot.de",
+    "s": "Moviepilot",
+    "t": "moviepilot",
+    "u": "http://www.moviepilot.de/suche?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "www.atomtickets.com",
+    "s": "Atom Tickets",
+    "t": "movies",
+    "u": "https://www.atomtickets.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.movieweb.com",
+    "s": "Movie Web",
+    "t": "movieweb",
+    "u": "http://www.movieweb.com/search?search={{{s}}}"
+  },
+  {
+    "d": "movielens.org",
+    "s": "MovieLens",
+    "t": "movl",
+    "u": "https://movielens.org/explore?q={{{s}}}"
+  },
+  {
+    "d": "www.moxo.ir",
+    "s": "موکسو",
+    "t": "moxo.ir",
+    "u": "http://www.moxo.ir/?s={{{s}}} "
+  },
+  {
+    "d": "addons.mozilla.org",
+    "s": "Mozilla Addons",
+    "t": "mozaddon",
+    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.mozbrowser.nl",
+    "s": "MozBrowser.nl",
+    "t": "mozbrowser",
+    "u": "http://www.mozbrowser.nl/forum/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "dxr.mozilla.org",
+    "s": "Mozilla DXR",
+    "t": "mozdxr",
+    "u": "https://dxr.mozilla.org/mozilla-central/search?q={{{s}}}"
+  },
+  {
+    "d": "support.mozilla.org",
+    "s": "Mozilla Support",
+    "t": "mozillasupport",
+    "u": "https://support.mozilla.org/search?q={{{s}}}"
+  },
+  {
+    "d": "mozillians.org",
+    "s": "Mozillians",
+    "t": "mozillians",
+    "u": "https://mozillians.org/en-US/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.google.com",
+    "s": "Mozilla",
+    "t": "moz",
+    "u": "https://www.google.com/cse?cx=002443141534113389537%3Aysdmevkkknw&cof=FORID%3A0&q={{{s}}}"
+  },
+  {
+    "d": "phonebook.mozilla.org",
+    "s": "Mozilla Phonebook",
+    "t": "mozpb",
+    "u": "https://phonebook.mozilla.org/?search/{{{s}}}"
+  },
+  {
+    "d": "searchfox.org",
+    "s": "Mozilla Searchfox",
+    "t": "mozsf",
+    "u": "http://searchfox.org/mozilla-central/search?q={{{s}}}"
+  },
+  {
+    "d": "observatory.mozilla.org",
+    "s": "Mozilla Observatory Test",
+    "t": "moztest",
+    "u": "https://observatory.mozilla.org/analyze/{{{s}}}"
+  },
+  {
+    "d": "wiki.mozilla.org",
+    "s": "Mozilla Wiki",
+    "t": "mozwiki",
+    "u": "https://wiki.mozilla.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "boston.menupages.com",
+    "s": "MenuPages",
+    "t": "mpbo",
+    "u": "http://boston.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "chicago.menupages.com",
+    "s": "MenuPages",
+    "t": "mpch",
+    "u": "http://chicago.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "washingtondc.menupages.com",
+    "s": "MenuPages",
+    "t": "mpdc",
+    "u": "http://washingtondc.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "southflorida.menupages.com",
+    "s": "MenuPages",
+    "t": "mpfl",
+    "u": "http://southflorida.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "www.mpg.de",
+    "s": "Max Planck Gesellschaft",
+    "t": "mpgde",
+    "u": "http://www.mpg.de/en/search?utf8=%E2%9C%93&searchfield={{{s}}}"
+  },
+  {
+    "d": "www.mpg.de",
+    "s": "Max Planck Gesellschaft",
+    "t": "mpg",
+    "u": "http://www.mpg.de/en/search?utf8=%E2%9C%93&searchfield={{{s}}}"
+  },
+  {
+    "d": "pubman.mpdl.mpg.de",
+    "s": "Max Planck Publication Repository",
+    "t": "mpgpure",
+    "u": "http://pubman.mpdl.mpg.de/pubman/faces/SearchResultListPage.jsp?cql=escidoc.objecttype%3D%22item%22+AND+escidoc.content-model.objid%3D%22escidoc%3Apersistent4%22+AND+%28%28escidoc.metadata%3D%22{{{s}}}%22%29+OR+%28%28escidoc.any-identifier%3D%22{{{s}}}%22+OR+escidoc.property.latest-release.objid%3D%22{{{s}}}%22%29%29+%29"
+  },
+  {
+    "d": "rena.mpdl.mpg.de",
+    "s": "MPG.ReNa - Max Planck Reseource Navigator",
+    "t": "mpgrena",
+    "u": "http://rena.mpdl.mpg.de/rena/Search/Results?lookfor={{{s}}}"
+  },
+  {
+    "d": "losangeles.menupages.com",
+    "s": "MenuPages",
+    "t": "mpla",
+    "u": "http://losangeles.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "matplotlib.org",
+    "s": "matplotlib",
+    "t": "mpl",
+    "u": "https://matplotlib.org/search.html?q={{{s}}} "
+  },
+  {
+    "d": "www.menupages.com",
+    "s": "MenuPages",
+    "t": "mp",
+    "u": "http://www.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "www.menupages.com",
+    "s": "MenuPages",
+    "t": "mpny",
+    "u": "http://www.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "mpora.com",
+    "s": "MPORA",
+    "t": "mpora",
+    "u": "http://mpora.com/search/videos?q={{{s}}}"
+  },
+  {
+    "d": "www.medienpaedagogik-praxis.de",
+    "s": "Medienpädagogik Praxis-Blog",
+    "t": "mppb",
+    "u": "https://www.medienpaedagogik-praxis.de/?s={{{s}}}"
+  },
+  {
+    "d": "philadelphia.menupages.com",
+    "s": "MenuPages",
+    "t": "mpph",
+    "u": "http://philadelphia.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "www.mountainproject.com",
+    "s": "Mountain Project",
+    "t": "mproj",
+    "u": "https://www.mountainproject.com/search?q={{{s}}}"
+  },
+  {
+    "d": "sanfrancisco.menupages.com",
+    "s": "MenuPages",
+    "t": "mpsf",
+    "u": "http://sanfrancisco.menupages.com/restaurants/text/{{{s}}}/all-areas/all-neighborhoods/all-cuisines/"
+  },
+  {
+    "d": "www.mapquest.com",
+    "s": "MapQuest",
+    "t": "mq",
+    "u": "http://www.mapquest.com/?q={{{s}}}"
+  },
+  {
+    "d": "mathscinet.ams.org",
+    "s": "ams mathscinet mref",
+    "t": "mref",
+    "u": "https://mathscinet.ams.org/mathscinet-mref?ref={{{s}}}"
+  },
+  {
+    "d": "m.reddit.com",
+    "s": "Reddit Mobile",
+    "t": "mre",
+    "u": "https://m.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "go.mail.ru",
+    "s": "Mail.ru",
+    "t": "mrg",
+    "u": "https://go.mail.ru/msearch?q={{{s}}}"
+  },
+  {
+    "d": "mri.iop.kcl.ac.uk",
+    "s": "MRI Wiki",
+    "t": "mri",
+    "u": "https://mri.iop.kcl.ac.uk/mediawiki/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+  },
+  {
+    "d": "www.macrumors.com",
+    "s": "Mac Rumors",
+    "t": "mr",
+    "u": "http://www.macrumors.com/search?s={{{s}}}"
+  },
+  {
+    "d": "www.mrmoneymustache.com",
+    "s": "Mr. Money Moustache",
+    "t": "mrmoney",
+    "u": "http://www.mrmoneymustache.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.themrphone.com",
+    "s": "Mr Phone",
+    "t": "mrphone",
+    "u": "https://www.themrphone.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.mrporter.com",
+    "s": "Mr. Porter",
+    "t": "mrporter",
+    "u": "https://www.mrporter.com/mens/search?keywords={{{s}}}"
+  },
+  {
+    "d": "www.mrqe.com",
+    "s": "the Movie Review Query Engine",
+    "t": "mrqe",
+    "u": "http://www.mrqe.com/search?utf8=%E2%9C%93&q={{{s}}} "
+  },
+  {
+    "d": "www.mrw.es",
+    "s": "MRW España",
+    "t": "mrw",
+    "u": "https://www.mrw.es/seguimiento_envios/MRW_resultados_consultas.asp?modo=nacional&envio={{{s}}}"
+  },
+  {
+    "d": "forums.maplestory2.nexon.net",
+    "s": "Maplestory 2 Forums",
+    "t": "ms2",
+    "u": "http://forums.maplestory2.nexon.net/search?Search={{{s}}}"
+  },
+  {
+    "d": "academic.research.microsoft.com",
+    "s": "Microsoft Academic Search",
+    "t": "msacademic",
+    "u": "http://academic.research.microsoft.com/Search?query={{{s}}}&s=0"
+  },
+  {
+    "d": "academic.microsoft.com",
+    "s": "Microsoft Academic",
+    "t": "msac",
+    "u": "https://academic.microsoft.com/search?q={{{s}}}&f=&orderBy=0&forceFallback=true"
+  },
+  {
+    "d": "academic.microsoft.com",
+    "s": "Microsoft Academic",
+    "t": "msa",
+    "u": "https://academic.microsoft.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.musik-sammler.de",
+    "s": "Musik-Sammler",
+    "t": "msammler",
+    "u": "https://www.musik-sammler.de/search/{{{s}}}/"
+  },
+  {
+    "d": "www.manga-sanctuary.com",
+    "s": "Manga Sanctuary",
+    "t": "msanctuary",
+    "u": "http://www.manga-sanctuary.com/recherche.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.ams.org",
+    "s": "AMS MathScinet",
+    "t": "msc",
+    "u": "http://www.ams.org/mathscinet/search/publications.html?pg4=ALLF&s4={{{s}}}"
+  },
+  {
+    "d": "www.mscdirect.com",
+    "s": "MSC Direct",
+    "t": "mscdirect",
+    "u": "https://www.mscdirect.com/browse/?searchterm={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "MuseScore (DuckDuckGo search)",
+    "t": "mscore",
+    "u": "https://duckduckgo.com/?q=site%3Amusescore.org+{{{s}}}&ia=web"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": "Microsoft Docs C++",
+    "t": "mscpp",
+    "u": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}&scope=C%2B%2B"
+  },
+  {
+    "d": "www.msdmanuals.com",
+    "s": "MSD Manual Japanese",
+    "t": "msdjp",
+    "u": "https://www.msdmanuals.com/ja-jp/ホーム/SearchResults?query={{{s}}}"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": "Microsoft Docs",
+    "t": "msd",
+    "u": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}"
+  },
+  {
+    "d": "social.msdn.microsoft.com",
+    "s": "MSDN",
+    "t": "msdn",
+    "u": "http://social.msdn.microsoft.com/Search/en-US?query={{{s}}}&ac=8"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": "Microsoft Docs",
+    "t": "msdocs",
+    "u": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": "Microsoft Docs",
+    "t": "msdotnet",
+    "u": "https://docs.microsoft.com/en-us/search/index?search={{{s}}}&scope=.NET"
+  },
+  {
+    "d": "www.sciencelab.com",
+    "s": "ScienceLab MSDS Database",
+    "t": "msds",
+    "u": "http://www.sciencelab.com/search.php?q={{{s}}}"
+  },
+  {
+    "d": "magento.stackexchange.com",
+    "s": "Magento StackExchange",
+    "t": "mse",
+    "u": "https://magento.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "etfs.morningstar.com",
+    "s": "Morningstar (ETF quote)",
+    "t": "mseq",
+    "u": "http://etfs.morningstar.com/quote?t={{{s}}}"
+  },
+  {
+    "d": "www.morningstar.com",
+    "s": "Morningstar",
+    "t": "msfq",
+    "u": "http://www.morningstar.com/funds/xnas/{{{s}}}/quote.html"
+  },
+  {
+    "d": "www.messenger.com",
+    "s": "messenger.com",
+    "t": "msg",
+    "u": "https://www.messenger.com/t/{{{s}}}"
+  },
+  {
+    "d": "mashable.com",
+    "s": "Mashable",
+    "t": "msh",
+    "u": "http://mashable.com/follow/search/?q={{{s}}}&commit=Search"
+  },
+  {
+    "d": "us.msi.com",
+    "s": "MSI USA",
+    "t": "msi",
+    "u": "https://us.msi.com/search/{{{s}}}"
+  },
+  {
+    "d": "support.microsoft.com",
+    "s": "Microsoft Knowledge Base",
+    "t": "mskb",
+    "u": "https://support.microsoft.com/en-us/search?query={{{s}}}"
+  },
+  {
+    "d": "www.microsoft.com",
+    "s": "MS Malware Encyclopedia",
+    "t": "msmalware",
+    "u": "http://www.microsoft.com/security/portal/Threat/Encyclopedia/Search.aspx?query={{{s}}}"
+  },
+  {
+    "d": "search.microsoft.com",
+    "s": "Microsoft",
+    "t": "ms",
+    "u": "http://search.microsoft.com/results.aspx?mkt=en-US&form=MSHOME&setlang=en-US&q={{{s}}}"
+  },
+  {
+    "d": "msmvps.com",
+    "s": "MSMVPs.com",
+    "t": "msmvps",
+    "u": "http://msmvps.com/search/SearchResults.aspx?q={{{s}}}&o=Relevance"
+  },
+  {
+    "d": "www.msnbc.com",
+    "s": "MSNBC",
+    "t": "msnbc",
+    "u": "http://www.msnbc.com/search/{{{s}}}"
+  },
+  {
+    "d": "docs.microsoft.com",
+    "s": "Microsoft .Net API",
+    "t": "ms.net",
+    "u": "https://docs.microsoft.com/en-us/dotnet/api/?view=netframework-4.7&term={{{s}}}"
+  },
+  {
+    "d": "investing.money.msn.com",
+    "s": "MSN Money",
+    "t": "msnm",
+    "u": "http://investing.money.msn.com/investments/stock-price?Symbol={{{s}}} "
+  },
+  {
+    "d": "www.msn.al",
+    "s": "MSN",
+    "t": "msn",
+    "u": "https://www.msn.al/?s={{{s}}}"
+  },
+  {
+    "d": "mastodon.social",
+    "s": "Mastodon Social",
+    "t": "msocial",
+    "u": "https://mastodon.social/tags/{{{s}}}"
+  },
+  {
+    "d": "meta.stackoverflow.com",
+    "s": "Meta Stack Overflow",
+    "t": "mso",
+    "u": "https://meta.stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "mspaintadventures.wikia.com",
+    "s": "MS Paint Adventures Wiki",
+    "t": "mspa",
+    "u": "http://mspaintadventures.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "mspaintadventures.wikia.com",
+    "s": "MS Paint Adventures Wiki",
+    "t": "mspawiki",
+    "u": "http://mspaintadventures.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "mspoweruser.com",
+    "s": "MS Power User",
+    "t": "mspu",
+    "u": "http://mspoweruser.com/?s={{{s}}}"
+  },
+  {
+    "d": "quote.morningstar.com",
+    "s": "Morningstar Quote",
+    "t": "msq",
+    "u": "http://quote.morningstar.com/stock/s.aspx?t={{{s}}}"
+  },
+  {
+    "d": "www.musicradar.com",
+    "s": "MusicRadar",
+    "t": "msrd",
+    "u": "http://www.musicradar.com/search?searchTerm={{{s}}}:"
+  },
+  {
+    "d": "social.technet.microsoft.com",
+    "s": "Microsoft TechNet SQL Server",
+    "t": "mssql",
+    "u": "https://social.technet.microsoft.com/Search/en-US/sqlserver?query={{{s}}}&Refinement=30&ac=4"
+  },
+  {
+    "d": "math.stackexchange.com",
+    "s": "Math Stack",
+    "t": "mstack",
+    "u": "https://math.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.microsofttranslator.com",
+    "s": "Microsoft/Bing Translator URL",
+    "t": "mst",
+    "u": "http://www.microsofttranslator.com/bv.aspx?a={{{s}}}"
+  },
+  {
+    "d": "www.microsoft.com",
+    "s": "Microsoft Store",
+    "t": "mstore",
+    "u": "https://www.microsoft.com/en-us/search?q={{{s}}}"
+  },
+  {
+    "d": "www.meteoswiss.admin.ch",
+    "s": "Meteo Suisse / Schweiz",
+    "t": "msui",
+    "u": "https://www.meteoswiss.admin.ch/home/search.html?query={{{s}}} "
+  },
+  {
+    "d": "lib.msu.edu",
+    "s": "Michigan State University Library",
+    "t": "msulibrary",
+    "u": "https://lib.msu.edu/searchresults/?Ntt={{{s}}}"
+  },
+  {
+    "d": "www.catalog.update.microsoft.com",
+    "s": "Microsoft Update Catalog",
+    "t": "msupdate",
+    "u": "https://www.catalog.update.microsoft.com/Search.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.msy.com.au",
+    "s": "MSY (SA)",
+    "t": "msy",
+    "u": "http://www.msy.com.au/saonline/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Go"
+  },
+  {
+    "d": "wiki.multitheftauto.com",
+    "s": "Multi Theft Auto Wiki",
+    "t": "mtawiki",
+    "u": "https://wiki.multitheftauto.com/index.php?title=Special%3ASearch&profile=default&fulltext=Search&search={{{s}}}"
+  },
+  {
+    "d": "www.mtbproject.com",
+    "s": "mtbproject",
+    "t": "mtb",
+    "u": "https://www.mtbproject.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mandarintools.com",
+    "s": "Mandarin Tools Chinese-English Dictionary (Chinese/Pinyin)",
+    "t": "mtcn",
+    "u": "http://www.mandarintools.com/cgi-bin/wordlook.pl?word={{{s}}}&where=whole"
+  },
+  {
+    "d": "mt-content-search-engine.000webhostapp.com",
+    "s": "mt-content-search-engine.000webhostapp.com",
+    "t": "mtcontent",
+    "u": "https://mt-content-search-engine.000webhostapp.com/?search={{{s}}}&do_search="
+  },
+  {
+    "d": "www.mandarintools.com",
+    "s": "Mandarin Tools Chinese-English Dictionary (English)",
+    "t": "mten",
+    "u": "http://www.mandarintools.com/cgi-bin/wordlook.pl?word={{{s}}}&searchtype=english&where=whole"
+  },
+  {
+    "d": "www.moestuinforum.nl",
+    "s": "Moestuinforum",
+    "t": "mtf",
+    "u": "https://www.moestuinforum.nl/search/gsearch_body.html?q={{{s}}}"
+  },
+  {
+    "d": "forum.minetest.net",
+    "s": "Minetest Forums",
+    "t": "mtforums",
+    "u": "https://forum.minetest.net/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.cardmarket.com",
+    "s": "MagicCardMarket",
+    "t": "mtgcm",
+    "u": "https://www.cardmarket.com/en/Magic/Products/Search?searchString={{{s}}}"
+  },
+  {
+    "d": "www.mtggoldfish.com",
+    "s": "mtgGoldfish",
+    "t": "mtggf",
+    "u": "http://www.mtggoldfish.com/q?query_string={{{s}}}"
+  },
+  {
+    "d": "gatherer.wizards.com",
+    "s": "MTG Gatherer",
+    "t": "mtgg",
+    "u": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[{{{s}}}]"
+  },
+  {
+    "d": "mtg-hunter.com",
+    "s": "MTG-Hunter",
+    "t": "mtgh",
+    "u": "http://mtg-hunter.com/?q={{{s}}}"
+  },
+  {
+    "d": "scryfall.com",
+    "s": "magiccards.info",
+    "t": "mtg",
+    "u": "https://scryfall.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.mtgotraders.com",
+    "s": "MTGO Traders",
+    "t": "mtgotraders",
+    "u": "http://www.mtgotraders.com/store/search.php?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "mtgsalvation.gamepedia.com",
+    "s": "MTG Salvation Wiki",
+    "t": "mtgs",
+    "u": "http://mtgsalvation.gamepedia.com/?search={{{s}}}"
+  },
+  {
+    "d": "mtgsalvation.gamepedia.com",
+    "s": "MTG Salvation",
+    "t": "mtgwiki",
+    "u": "http://mtgsalvation.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "mtg.wtf",
+    "s": "MTG WTF",
+    "t": "mtgw",
+    "u": "https://mtg.wtf/card?q={{{s}}}"
+  },
+  {
+    "d": "mtg.wtf",
+    "s": "mtg.wtf",
+    "t": "mtgwtf",
+    "u": "https://mtg.wtf/card?q={{{s}}}"
+  },
+  {
+    "d": "www.mturk.com",
+    "s": "mturk.com",
+    "t": "mtk",
+    "u": "https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&searchWords={{{s}}}"
+  },
+  {
+    "d": "content.minetest.net",
+    "s": "Minetest ContentDB",
+    "t": "mtmod",
+    "u": "https://content.minetest.net/packages/?q={{{s}}}"
+  },
+  {
+    "d": "www.multitran.com",
+    "s": "Multitran",
+    "t": "mt",
+    "u": "https://www.multitran.com/m.exe?s={{{s}}}"
+  },
+  {
+    "d": "www.mountainproject.com",
+    "s": "Mountain Project",
+    "t": "mtn",
+    "u": "https://www.mountainproject.com/search?q={{{s}}}"
+  },
+  {
+    "d": "mwsgsa01.mtr.com.hk",
+    "s": "Hong Kong MTR",
+    "t": "mtr",
+    "u": "http://mwsgsa01.mtr.com.hk/search?site=default_collection&output=xml_no_dtd&client=mtr_eng&proxystylesheet=mtr_eng&proxyreload=1&ie=big5&oe=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "material.io",
+    "s": "Material.io",
+    "t": "mtrl",
+    "u": "https://material.io/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.modthesims.info",
+    "s": "Mod the Sims",
+    "t": "mts",
+    "u": "http://www.modthesims.info/browse.php?tag={{{s}}}"
+  },
+  {
+    "d": "www.multitracks.com",
+    "s": "Multitracks",
+    "t": "mtt",
+    "u": "http://www.multitracks.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.mtu.edu",
+    "s": "Michigan Technological University",
+    "t": "mtu",
+    "u": "https://www.mtu.edu/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.mtv.com",
+    "s": "MTV",
+    "t": "mtv",
+    "u": "http://www.mtv.com/search/?searchterm={{{s}}}"
+  },
+  {
+    "d": "wiki.minetest.net",
+    "s": "Minetest Wiki",
+    "t": "mtw",
+    "u": "http://wiki.minetest.net/index.php?search={{{s}}}"
+  },
+  {
+    "d": "makeupalley.com",
+    "s": "Makeup Alley",
+    "t": "mua",
+    "u": "http://makeupalley.com/search.asp?q={{{s}}}"
+  },
+  {
+    "d": "mubi.com",
+    "s": "Mubi",
+    "t": "mubi",
+    "u": "http://mubi.com/search/results?cx=016360985607050269103%3Acmmod4epzpo&cof=FORID%3A10&ie=UTF-8&q={{{s}}}"
+  },
+  {
+    "d": "m.mudah.my",
+    "s": "Mudah.my",
+    "t": "mudah",
+    "u": "https://m.mudah.my/list?q={{{s}}}&ca=9_3_s&sa=&cg=&catname=All+Categories&o=1&f=p&srch=1&so=1"
+  },
+  {
+    "d": "www.muffwiggler.com",
+    "s": "Muff Wiggler Forum",
+    "t": "muff",
+    "u": "https://www.muffwiggler.com/forum/search.php?search_keywords={{{s}}}&search_terms=extended&search_author=&search_forum=-1&search_time=0&search_fields=all&sort_by=0&sort_dir=desc&show_results=topics&return_chars=200"
+  },
+  {
+    "d": "mugshots.com",
+    "s": "Mugshots.com",
+    "t": "mugshots",
+    "u": "http://mugshots.com/search.html?q={{{s}}}"
+  },
+  {
+    "d": "material-ui.com",
+    "s": "Material UI",
+    "t": "mui",
+    "u": "https://material-ui.com/api/{{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google Maps UK (English)",
+    "t": "muke",
+    "u": "https://www.google.co.uk/maps/?hl=en&q={{{s}}}"
+  },
+  {
+    "d": "www.google.co.uk",
+    "s": "Google Maps UK (en_US)",
+    "t": "muk",
+    "u": "https://www.google.co.uk/maps/?hl=en&q={{{s}}}"
+  },
+  {
+    "d": "multcolib.org",
+    "s": "Multnomah County Library",
+    "t": "multcolib",
+    "u": "https://multcolib.org/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.multitran.ru",
+    "s": "Multitran",
+    "t": "multitran",
+    "u": "http://www.multitran.ru/c/m.exe?CL=1&s={{{s}}}&l1=1"
+  },
+  {
+    "d": "www.multitronic.fi",
+    "s": "multitronic",
+    "t": "multitron",
+    "u": "https://www.multitronic.fi/en/search/results#lang=en&c=search&keywords={{{s}}}"
+  },
+  {
+    "d": "macupdate.com",
+    "s": "MacUpdate",
+    "t": "mu",
+    "u": "http://macupdate.com/find/mac/{{{s}}}"
+  },
+  {
+    "d": "mungfali.com",
+    "s": "Mungfali",
+    "t": "mungfali",
+    "u": "http://mungfali.com/explore.php?q={{{s}}}"
+  },
+  {
+    "d": "www.makeuseof.com",
+    "s": "Makeuseof",
+    "t": "muo",
+    "u": "https://www.makeuseof.com/?s={{{s}}}"
+  },
+  {
+    "d": "muppet.wikia.com",
+    "s": "Muppet Wiki",
+    "t": "muppet",
+    "u": "http://muppet.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "muragon.com",
+    "s": "Muragon",
+    "t": "muragon",
+    "u": "https://muragon.com/search/?ie=UTF-8&q={{{s}}}&sa=検索"
+  },
+  {
+    "d": "muralpsicologia.com.br",
+    "s": "Mural psicologia",
+    "t": "muralpsi",
+    "u": "http://muralpsicologia.com.br/eventos/pesquisa?s={{{s}}}"
+  },
+  {
+    "d": "www.murfie.com",
+    "s": "Murfie",
+    "t": "murfie",
+    "u": "https://www.murfie.com/search?search={{{s}}}"
+  },
+  {
+    "d": "murlengine.com",
+    "s": "murlengine",
+    "t": "murl",
+    "u": "https://murlengine.com/api/en/search.php?q={{{s}}}"
+  },
+  {
+    "d": "forums.musculardevelopment.com",
+    "s": "Muscular Development Forums",
+    "t": "muscdevforum",
+    "u": "http://forums.musculardevelopment.com?q={{{s}}}: "
+  },
+  {
+    "d": "musescore.com",
+    "s": "MuseScore.com",
+    "t": "musescore",
+    "u": "http://musescore.com/sheetmusic?text={{{s}}}"
+  },
+  {
+    "d": "www.musicaneto.com",
+    "s": "Musicaneto",
+    "t": "musicaneto",
+    "u": "http://www.musicaneto.com/?s={{{s}}}"
+  },
+  {
+    "d": "musicbrainz.org",
+    "s": "MusicBrainz",
+    "t": "musicbrainz",
+    "u": "http://musicbrainz.org/search/textsearch.html?type=artist&query={{{s}}}&handlearguments=1"
+  },
+  {
+    "d": "www.musiciansfriend.com",
+    "s": "Musician's Friend",
+    "t": "musiciansfriend",
+    "u": "http://www.musiciansfriend.com/search/search.jsp?sB=r&question={{{s}}}"
+  },
+  {
+    "d": "www.music-map.com",
+    "s": "music-map",
+    "t": "musicmap",
+    "u": "http://www.music-map.com/{{{s}}}"
+  },
+  {
+    "d": "www.musicme.com",
+    "s": "MusicMe",
+    "t": "musicme",
+    "u": "http://www.musicme.com/page.php?q={{{s}}}"
+  },
+  {
+    "d": "musicmoz.org",
+    "s": "MusicMoz",
+    "t": "musicmoz",
+    "u": "http://musicmoz.org/search/search.cgi?search={{{s}}}"
+  },
+  {
+    "d": "www.musicradar.com",
+    "s": "Music Radar",
+    "t": "musicr",
+    "u": "http://www.musicradar.com/search?searchTerm={{{s}}} "
+  },
+  {
+    "d": "www.musicstack.com",
+    "s": "MusicStack",
+    "t": "musicstack",
+    "u": "http://www.musicstack.com/show.cgi?find={{{s}}}"
+  },
+  {
+    "d": "www.musixmatch.com",
+    "s": "Musixmatch",
+    "t": "musicxm",
+    "u": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "d": "eu.musikazblai.com",
+    "s": "Musikazblai Euskaraz",
+    "t": "musikazblai",
+    "u": "http://eu.musikazblai.com/foro/search.php?q={{{s}}}"
+  },
+  {
+    "d": "www.google.de",
+    "s": "Musiker Board",
+    "t": "musiker-board",
+    "u": "https://www.google.de/search?q={{{s}}}+site%3Awww.musiker-board.de&oq=Schaffer+site%3Awww.musiker-board.de"
+  },
+  {
+    "d": "www.musik-meisinger.de",
+    "s": "Musik Meisinger Burghausen",
+    "t": "musikm",
+    "u": "http://www.musik-meisinger.de/1/advanced_search_result.php?keywords={{{s}}} "
+  },
+  {
+    "d": "www.musimundo.com",
+    "s": "Musimundo",
+    "t": "musimundo",
+    "u": "http://www.musimundo.com/Busqueda?cbrand=0&title=0&artist=0&categories=&search={{{s}}}&typeGrid=grid"
+  },
+  {
+    "d": "www.musipedia.org",
+    "s": "Musipedia",
+    "t": "musipedia",
+    "u": "http://www.musipedia.org/result.html?tx_mpsearch_pi1[pc]={{{s}}}&tx_mpsearch_pi1[submit_button]=Search"
+  },
+  {
+    "d": "www.musixmatch.com",
+    "s": "Musixmatch DE",
+    "t": "musixmatchde",
+    "u": "https://www.musixmatch.com/de/search/{{{s}}}"
+  },
+  {
+    "d": "www.musixmatch.com",
+    "s": "Musixmatch",
+    "t": "musixmatch",
+    "u": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "d": "muslimmanga.org",
+    "s": "Muslim Manga",
+    "t": "muslimmanga",
+    "u": "http://muslimmanga.org/?lang=en&s={{{s}}}"
+  },
+  {
+    "d": "musopen.org",
+    "s": "Musopen",
+    "t": "musopen",
+    "u": "http://musopen.org/search?q={{{s}}}"
+  },
+  {
+    "d": "muusikoiden.net",
+    "s": "Muusikoiden.net",
+    "t": "muusikoiden",
+    "u": "https://muusikoiden.net/tori/haku.php?keyword={{{s}}}&title_only=0&location=all&province=&city=&type=all&price_min=&price_max=&category=all&with_image=0"
+  },
+  {
+    "d": "www.muycomputer.com",
+    "s": "MuyComputer",
+    "t": "muycomputer",
+    "u": "https://www.muycomputer.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.muylinux.com",
+    "s": "MuyLinux",
+    "t": "muylinux",
+    "u": "https://www.muylinux.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.muziker.sk",
+    "s": "Muziker.sk",
+    "t": "muzikersk",
+    "u": "https://www.muziker.sk/search?q={{{s}}}"
+  },
+  {
+    "d": "search.muz.li",
+    "s": "Muzli Search",
+    "t": "muzli",
+    "u": "https://search.muz.li/search/{{{s}}}"
+  },
+  {
+    "d": "muzofon.com",
+    "s": "Muzofon",
+    "t": "muzofon",
+    "u": "http://muzofon.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.mvdbase.com",
+    "s": "mvdbase",
+    "t": "mvdb",
+    "u": "http://www.mvdbase.com/index.php?term={{{s}}}&field=vid&page=results"
+  },
+  {
+    "d": "www.myvideo.de",
+    "s": "Myvideo",
+    "t": "mv",
+    "u": "http://www.myvideo.de/Videos_A-Z?searchWord={{{s}}}"
+  },
+  {
+    "d": "mvnrepository.com",
+    "s": "MVNRepository",
+    "t": "mvnrepository",
+    "u": "http://mvnrepository.com/search.html?query={{{s}}}"
+  },
+  {
+    "d": "mvnrepository.com",
+    "s": "The Maven Repository",
+    "t": "mvnrep",
+    "u": "http://mvnrepository.com/search.html?query={{{s}}}:"
+  },
+  {
+    "d": "mvnrepository.com",
+    "s": "The Maven Repository",
+    "t": "mvn",
+    "u": "https://mvnrepository.com/search?q={{{s}}}"
+  },
+  {
+    "d": "efa.mvv-muenchen.de",
+    "s": "Münchner Verkehrs- und Tarifbund (MVV)",
+    "t": "mvv",
+    "u": "http://efa.mvv-muenchen.de/index.html?name_destination={{{s}}}"
+  },
+  {
+    "d": "www.mwave.com.au",
+    "s": "MWAVE",
+    "t": "mwave",
+    "u": "https://www.mwave.com.au/searchresult?w={{{s}}}"
+  },
+  {
+    "d": "www.mijnwoordenboek.nl",
+    "s": "Mijnwoordenboek",
+    "t": "mwb",
+    "u": "http://www.mijnwoordenboek.nl/vertaal/NL/EN/{{{s}}}"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "Merriam-Webster Dictionary",
+    "t": "mwd",
+    "u": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "Merriam-Webster",
+    "t": "mweb",
+    "u": "https://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "MusicWeb International",
+    "t": "mwi",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Amusicweb-international.com"
+  },
+  {
+    "d": "www.learnersdictionary.com",
+    "s": "Merriam-Webster's Learner's Dictionary",
+    "t": "mwld",
+    "u": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "d": "www.learnersdictionary.com",
+    "s": "Merriam-Webster's Learner's Dictionary",
+    "t": "mwl",
+    "u": "http://www.learnersdictionary.com/definition/{{{s}}}"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "Merriam-Webster Dictionary",
+    "t": "mw",
+    "u": "http://www.merriam-webster.com/dictionary/{{{s}}}"
+  },
+  {
+    "d": "meta.wikimedia.org",
+    "s": "Wikimedia Meta",
+    "t": "mwm",
+    "u": "https://meta.wikimedia.org/w/index.php?&title=Special%3ASearch&go=Go&search={{{s}}}"
+  },
+  {
+    "d": "www.merriam-webster.com",
+    "s": "Thesaurus by Merriam-Webster ",
+    "t": "mwt",
+    "u": "http://www.merriam-webster.com/thesaurus/{{{s}}}"
+  },
+  {
+    "d": "mobile.wunderground.com",
+    "s": "Mobile Weather Underground",
+    "t": "mwu",
+    "u": "http://mobile.wunderground.com/q/{{{s}}}"
+  },
+  {
+    "d": "unabridged.merriam-webster.com",
+    "s": "Merriam-Webster Unabridged",
+    "t": "mwunabridged",
+    "u": "http://unabridged.merriam-webster.com/unabridged/{{{s}}}"
+  },
+  {
+    "d": "www.mixcloud.com",
+    "s": "MIxcloud",
+    "t": "mxc",
+    "u": "https://www.mixcloud.com/{{{s}}}"
+  },
+  {
+    "d": "www.musixmatch.com",
+    "s": "musixmatch",
+    "t": "mxm",
+    "u": "https://www.musixmatch.com/search/{{{s}}}"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MxToolbox",
+    "t": "mx",
+    "u": "http://mxtoolbox.com/SuperTool.aspx?action=mx%3a{{{s}}}&run=networktools"
+  },
+  {
+    "d": "www.mixer.com",
+    "s": "Mixer",
+    "t": "mxr",
+    "u": "https://www.mixer.com/{{{s}}}"
+  },
+  {
+    "d": "forum.mxsimulator.com",
+    "s": "MX Simulator",
+    "t": "mxs",
+    "u": "http://forum.mxsimulator.com/search.php?keywords={{{s}}}"
+  },
+  {
+    "d": "mxtoolbox.com",
+    "s": "MxToolBox",
+    "t": "mxtool",
+    "u": "https://mxtoolbox.com/SuperTool.aspx?action={{{s}}}"
+  },
+  {
+    "d": "myactivity.google.com",
+    "s": "https://myactivity.google.com/myactivity",
+    "t": "myactivity",
+    "u": "https://myactivity.google.com/myactivity?q={{{s}}}"
+  },
+  {
+    "d": "www.myallsearch.com",
+    "s": "MyAllSearch",
+    "t": "myallsearch",
+    "u": "http://www.myallsearch.com/Web/{{{s}}}.html"
+  },
+  {
+    "d": "market.yandex.ru",
+    "s": "market.yandex.ru",
+    "t": "mya",
+    "u": "https://market.yandex.ru/search?text={{{s}}}"
+  },
+  {
+    "d": "myanimelist.net",
+    "s": "MyAnimeList",
+    "t": "myanimelist",
+    "u": "http://myanimelist.net/anime.php?q={{{s}}}"
+  },
+  {
+    "d": "mybroadband.co.za",
+    "s": "MyBroadband",
+    "t": "mybb",
+    "u": "https://mybroadband.co.za/news/?s={{{s}}}"
+  },
+  {
+    "d": "www.mybestbrands.de",
+    "s": "MYBESTBRANDS",
+    "t": "mybestbrands",
+    "u": "http://www.mybestbrands.de/search/?q={{{s}}}"
+  },
+  {
+    "d": "mywellbrain.com",
+    "s": "mywellbrain",
+    "t": "mybrain",
+    "u": "https://mywellbrain.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.mycomicshop.com",
+    "s": "mycomicshop",
+    "t": "myc",
+    "u": "https://www.mycomicshop.com/search?q={{{s}}}"
+  },
+  {
+    "d": "mycom.nl",
+    "s": "MyCom",
+    "t": "mycom",
+    "u": "https://mycom.nl/search/{{{s}}}"
+  },
+  {
+    "d": "mycroftproject.com",
+    "s": "Mycroft Project",
+    "t": "mycroft",
+    "u": "http://mycroftproject.com/search-engines.html?name={{{s}}}&opensearch=yes"
+  },
+  {
+    "d": "www.mydealz.de",
+    "s": "MyDealz",
+    "t": "mydealz",
+    "u": "https://www.mydealz.de/search?q={{{s}}}"
+  },
+  {
+    "d": "mypdns.org",
+    "s": "My Privat DNS",
+    "t": "mydns",
+    "u": "https://mypdns.org/trac/search?q={{{s}}}"
+  },
+  {
+    "d": "mydramalist.com",
+    "s": "MyDramaList",
+    "t": "mydrama",
+    "u": "https://mydramalist.com/search?q={{{s}}}"
+  },
+  {
+    "d": "my.ecp.fr",
+    "s": "MyECP",
+    "t": "myecp",
+    "u": "https://my.ecp.fr/search?query={{{s}}}"
+  },
+  {
+    "d": "www.myer.com.au",
+    "s": "Myer",
+    "t": "myer",
+    "u": "https://www.myer.com.au/search?query={{{s}}}"
+  },
+  {
+    "d": "www.myflorida.com",
+    "s": "MyFlorida.com",
+    "t": "myfl",
+    "u": "http://www.myflorida.com/search_results.html?q={{{s}}}#gsc.tab=0&gsc.q=dmv&gsc.page=1"
+  },
+  {
+    "d": "new.myfonts.com",
+    "s": "Myfonts",
+    "t": "myfonts",
+    "u": "http://new.myfonts.com/search/{{{s}}}/"
+  },
+  {
+    "d": "www.mygofer.com",
+    "s": "MyGofer",
+    "t": "mygofer",
+    "u": "http://www.mygofer.com/search={{{s}}}"
+  },
+  {
+    "d": "www.mygov.scot",
+    "s": "mygov.scot",
+    "t": "mygovscot",
+    "u": "https://www.mygov.scot/search?q={{{s}}}&cat=sitesearch"
+  },
+  {
+    "d": "www.myinstants.com",
+    "s": "My Instants",
+    "t": "myinstants",
+    "u": "https://www.myinstants.com/search/?name={{{s}}}"
+  },
+  {
+    "d": "www.myknobs.com",
+    "s": "MyKnobs.com",
+    "t": "myk",
+    "u": "https://www.myknobs.com/page/search?Ntt={{{s}}}"
+  },
+  {
+    "d": "www.mymovies.it",
+    "s": "MYmovies",
+    "t": "mym",
+    "u": "http://www.mymovies.it/database/ricerca/?q={{{s}}}"
+  },
+  {
+    "d": "www.mymovies.it",
+    "s": "MYmovies",
+    "t": "mymovies",
+    "u": "http://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca"
+  },
+  {
+    "d": "www.mymovingreviews.com",
+    "s": "MyMovingReviews.com",
+    "t": "mymovingreviews",
+    "u": "http://www.mymovingreviews.com/search.php?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.myntra.com",
+    "s": "Myntra",
+    "t": "myn",
+    "u": "http://www.myntra.com/{{{s}}}"
+  },
+  {
+    "d": "www.myntra.com",
+    "s": "Myntra",
+    "t": "myntra",
+    "u": "http://www.myntra.com/{{{s}}} "
+  },
+  {
+    "d": "www.plazademayo.com",
+    "s": "Medios y Opinión",
+    "t": "myo",
+    "u": "http://www.plazademayo.com/mediosyopinion/?s={{{s}}}"
+  },
+  {
+    "d": "www.mypdns.org",
+    "s": "My Private DNS",
+    "t": "mypdns",
+    "u": "http://www.mypdns.org/trac/search?q={{{s}}}"
+  },
+  {
+    "d": "pt.myprotein.com",
+    "s": "My protein",
+    "t": "myp",
+    "u": "https://pt.myprotein.com/elysium.search?search={{{s}}}"
+  },
+  {
+    "d": "www.myrecipes.com",
+    "s": "http://www.myrecipes.com",
+    "t": "myrec",
+    "u": "http://www.myrecipes.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "myshows.me",
+    "s": "myshows.ru",
+    "t": "myshows",
+    "u": "http://myshows.me/search/?q={{{s}}}"
+  },
+  {
+    "d": "mysku.ru",
+    "s": "Mysku.ru",
+    "t": "mysku",
+    "u": "http://mysku.ru/search/topics/?q={{{s}}}"
+  },
+  {
+    "d": "www.mysupermarket.co.uk",
+    "s": "mysupermarket.co.uk",
+    "t": "mys",
+    "u": "http://www.mysupermarket.co.uk/Shopping/FindProducts.aspx?Query={{{s}}}"
+  },
+  {
+    "d": "www.mysongbook.com",
+    "s": "mySongBook",
+    "t": "mysongbook",
+    "u": "http://www.mysongbook.com/search?utf8=%E2%9C%93&search%5Btype_item%5D=4&search%5Bname%5D={{{s}}}"
+  },
+  {
+    "d": "searchservice.myspace.com",
+    "s": "MySpace",
+    "t": "myspace",
+    "u": "http://searchservice.myspace.com/index.cfm?fuseaction=sitesearch.results&orig=search_Header&origpfc=Splash&type=People&qry={{{s}}}&submit=Search"
+  },
+  {
+    "d": "",
+    "s": "MySQL.com",
+    "t": "mysql",
+    "u": "/?q={{{s}}}+site:dev.mysql.com"
+  },
+  {
+    "d": "www.mytip.co",
+    "s": "MyTip",
+    "t": "mytip",
+    "u": "https://www.mytip.co/explore?search={{{s}}}"
+  },
+  {
+    "d": "music.youtube.com",
+    "s": "YouTube Music",
+    "t": "myt",
+    "u": "https://music.youtube.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.myvidster.com",
+    "s": "MyVidster",
+    "t": "myvidster",
+    "u": "https://www.myvidster.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.mywot.com",
+    "s": "Web of Trust",
+    "t": "mywot",
+    "u": "https://www.mywot.com/en/scorecard/{{{s}}}"
+  },
+  {
+    "d": "www.mittelbayerische.de",
+    "s": "Mittelbayerische Zeitung",
+    "t": "mz",
+    "u": "https://www.mittelbayerische.de/suche/?scope=20000&type=articles%2Cgalleries%2Cvideos&interval=month&searchterm={{{s}}}"
+  }
+]

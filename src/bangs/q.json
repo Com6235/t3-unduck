@@ -1,0 +1,410 @@
+[
+  {
+    "d": "quinapalus.com",
+    "s": "Quinapalus",
+    "t": "qat",
+    "u": "http://quinapalus.com/cgi-bin/qat?pat={{{s}}}"
+  },
+  {
+    "d": "qaz.wtf",
+    "s": "Unicode Text Converter",
+    "t": "qaz",
+    "u": "http://qaz.wtf/u/convert.cgi?text={{{s}}}"
+  },
+  {
+    "d": "www.quimbee.com",
+    "s": "Quimbee",
+    "t": "qb",
+    "u": "https://www.quimbee.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.qconcursos.com",
+    "s": "https://www.qconcursos.com",
+    "t": "qc",
+    "u": "https://www.qconcursos.com/busca?q={{{s}}}"
+  },
+  {
+    "d": "www.qcunbon.be",
+    "s": "Qui connaît un bon : Bruxelles",
+    "t": "qcubbrux",
+    "u": "http://www.qcunbon.be/bruxelles?q={{{s}}}"
+  },
+  {
+    "d": "www.bash.org",
+    "s": "Bash.org",
+    "t": "qdb",
+    "u": "http://www.bash.org/?search={{{s}}}"
+  },
+  {
+    "d": "es.quora.com",
+    "s": "Quora Español",
+    "t": "qes",
+    "u": "https://es.quora.com/search?q={{{s}}}"
+  },
+  {
+    "d": "qiita.com",
+    "s": "Qiita",
+    "t": "qiita",
+    "u": "http://qiita.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.qim.com",
+    "s": "Québec Info Musique",
+    "t": "qimalbum",
+    "u": "http://www.qim.com/albums/albums.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.qim.com",
+    "s": "Québec Info Musique",
+    "t": "qima",
+    "u": "http://www.qim.com/albums/albums.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.qim.com",
+    "s": "Québec Info Musique",
+    "t": "qimartiste",
+    "u": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.qim.com",
+    "s": "Québec Info Musique",
+    "t": "qim",
+    "u": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}"
+  },
+  {
+    "d": "qlcrew.com",
+    "s": "QL Crew",
+    "t": "qlcrew",
+    "u": "https://qlcrew.com/?q={{{s}}}"
+  },
+  {
+    "d": "beta.cliqz.com",
+    "s": "Cliqz",
+    "t": "qli",
+    "u": "https://beta.cliqz.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant Maps",
+    "t": "qmaps",
+    "u": "https://www.qwant.com/maps/?q={{{s}}}"
+  },
+  {
+    "d": "m.quickmeme.com",
+    "s": "quickmeme",
+    "t": "qme",
+    "u": "http://m.quickmeme.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant music search",
+    "t": "qm",
+    "u": "https://www.qwant.com/music/search?q={{{s}}}"
+  },
+  {
+    "d": "www.qobuz.com",
+    "s": "Qobuz",
+    "t": "qobuz",
+    "u": "http://www.qobuz.com/recherche?q={{{s}}}"
+  },
+  {
+    "d": "questso.blogspot.com",
+    "s": "Quest-O-Quora",
+    "t": "qoq",
+    "u": "https://questso.blogspot.com/search?q={{{s}}}"
+  },
+  {
+    "d": "qpongo.com",
+    "s": "Qpongo",
+    "t": "qpon",
+    "u": "http://qpongo.com/ddgsearch.aspx?q={{{s}}}"
+  },
+  {
+    "d": "www.quip.com",
+    "s": "Quip",
+    "t": "qp",
+    "u": "https://www.quip.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.quora.com",
+    "s": "Quora",
+    "t": "q",
+    "u": "https://www.quora.com/search?q={{{s}}}"
+  },
+  {
+    "d": "zxing.org",
+    "s": "ZXing QR decode",
+    "t": "qrdecode",
+    "u": "http://zxing.org/w/decode?u={{{s}}}"
+  },
+  {
+    "d": "api.qrserver.com",
+    "s": "QR Code Search",
+    "t": "qr",
+    "u": "https://api.qrserver.com/v1/create-qr-code/?qzone=1&data={{{s}}}"
+  },
+  {
+    "d": "www.qrz.com",
+    "s": "QRZ.com",
+    "t": "qrz",
+    "u": "http://www.qrz.com/db/?callsign={{{s}}}&cmd=Search"
+  },
+  {
+    "d": "quant.stackexchange.com",
+    "s": "Stack Overflow Quantitative Finance",
+    "t": "qso",
+    "u": "https://quant.stackexchange.com/search?q={{{s}}}"
+  },
+  {
+    "d": "help.qlik.com",
+    "s": "Qlik Sense Help",
+    "t": "qs",
+    "u": "https://help.qlik.com/en-US/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.qsrmagazine.com",
+    "s": "Quick Service Restaurant Magazine",
+    "t": "qsr",
+    "u": "https://www.qsrmagazine.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.ssllabs.com",
+    "s": "Qualys SSL Labs",
+    "t": "qssl",
+    "u": "https://www.ssllabs.com/ssldb/analyze.html?d={{{s}}}&hideResults=on"
+  },
+  {
+    "d": "www.topuniversities.com",
+    "s": "QS Top Universities",
+    "t": "qstu",
+    "u": "https://www.topuniversities.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "forum.quartertothree.com",
+    "s": "Quarter To Three Forums",
+    "t": "qt3",
+    "u": "https://forum.quartertothree.com/search?expanded=true&q={{{s}}}"
+  },
+  {
+    "d": "doc.qt.io",
+    "s": "Qt Documentation",
+    "t": "qt4",
+    "u": "https://doc.qt.io/qt-4.8/search-results.html?q={{{s}}}"
+  },
+  {
+    "d": "doc.qt.io",
+    "s": "Qt 5 Documentation",
+    "t": "qt5",
+    "u": "http://doc.qt.io/qt-5/search-results.html?q={{{s}}}"
+  },
+  {
+    "d": "doc.qt.io",
+    "s": "Qt Documentation",
+    "t": "qt",
+    "u": "https://doc.qt.io/qt-5/search-results.html?q={{{s}}}"
+  },
+  {
+    "d": "www.qualebs.com",
+    "s": "Techbay",
+    "t": "qualebs",
+    "u": "https://www.qualebs.com/techbay/search?query={{{s}}}"
+  },
+  {
+    "d": "www.qualtrics.com",
+    "s": "Qualtrics Support",
+    "t": "qual",
+    "u": "https://www.qualtrics.com/support/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.quandl.com",
+    "s": "Quandl",
+    "t": "quandl",
+    "u": "https://www.quandl.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.quantcast.com",
+    "s": "Quantcast",
+    "t": "quantcast",
+    "u": "https://www.quantcast.com/home/site/search/{{{s}}}"
+  },
+  {
+    "d": "qz.com",
+    "s": "Quartz",
+    "t": "quartz",
+    "u": "http://qz.com/search/{{{s}}}"
+  },
+  {
+    "d": "quay.io",
+    "s": "Quay",
+    "t": "quay",
+    "u": "https://quay.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.qim.com",
+    "s": "Québec Info Musique",
+    "t": "quebecinfomusique",
+    "u": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}"
+  },
+  {
+    "d": "www.queenslibrary.org",
+    "s": "QueensLibrary",
+    "t": "queenslibrary",
+    "u": "http://www.queenslibrary.org/search/apachesolr_search/{{{s}}}"
+  },
+  {
+    "d": "queryposts.com",
+    "s": "QueryPosts",
+    "t": "queryposts",
+    "u": "http://queryposts.com/?s={{{s}}}"
+  },
+  {
+    "d": "quickdocs.org",
+    "s": "Quickdocs",
+    "t": "quickdocs",
+    "u": "http://quickdocs.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.quirky.com",
+    "s": "Quirky",
+    "t": "quirky",
+    "u": "https://www.quirky.com/search?query={{{s}}}"
+  },
+  {
+    "d": "quizlet.com",
+    "s": "Quizlet",
+    "t": "quizlet",
+    "u": "http://quizlet.com/subject/{{{s}}}/"
+  },
+  {
+    "d": "www.qumran2.net",
+    "s": "Qumran",
+    "t": "qum",
+    "u": "http://www.qumran2.net/indice.php?parole={{{s}}}"
+  },
+  {
+    "d": "qunwang6.github.io",
+    "s": "群点科技",
+    "t": "qun",
+    "u": "https://qunwang6.github.io/?q={{{s}}}"
+  },
+  {
+    "d": "www.quora.com",
+    "s": "Quora",
+    "t": "quora",
+    "u": "http://www.quora.com/search?q={{{s}}}&context_type=&context_id="
+  },
+  {
+    "d": "quoteinvestigator.com",
+    "s": "Quote Investigator",
+    "t": "quoteinvestigator",
+    "u": "https://quoteinvestigator.com/?s={{{s}}}"
+  },
+  {
+    "d": "en.wikiquote.org",
+    "s": "WikiQuote",
+    "t": "quotes",
+    "u": "http://en.wikiquote.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.quotev.com",
+    "s": "Quotev",
+    "t": "quotev",
+    "u": "https://www.quotev.com/search/{{{s}}}"
+  },
+  {
+    "d": "quran.com",
+    "s": "The Noble Qur'an",
+    "t": "quran",
+    "u": "http://quran.com/search?q={{{s}}}"
+  },
+  {
+    "d": "quran.com",
+    "s": "The Noble Qur'an",
+    "t": "qur",
+    "u": "http://quran.com/search?q={{{s}}}"
+  },
+  {
+    "d": "quttera.com",
+    "s": "Quttera",
+    "t": "quttera",
+    "u": "https://quttera.com/sitescan/{{{s}}}"
+  },
+  {
+    "d": "www.qvc.com",
+    "s": "QVC",
+    "t": "qvc",
+    "u": "http://www.qvc.com/catalog/search.html?langId=-1&storeId=10251&catalogId=10151&keyword={{{s}}}"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant",
+    "t": "qwant",
+    "u": "https://www.qwant.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.qwantjunior.com",
+    "s": "Qwant Junior Education",
+    "t": "qwe",
+    "u": "https://www.qwantjunior.com/?q={{{s}}}&t=education"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant Images",
+    "t": "qwi",
+    "u": "https://www.qwant.com/?q={{{s}}}&t=images"
+  },
+  {
+    "d": "lite.qwant.com",
+    "s": "Qwant lite",
+    "t": "qwl",
+    "u": "https://lite.qwant.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant Music",
+    "t": "qwm",
+    "u": "https://www.qwant.com/music/search?q={{{s}}}"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant News",
+    "t": "qwn",
+    "u": "https://www.qwant.com/?q={{{s}}}&t=news"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant",
+    "t": "qw",
+    "u": "http://www.qwant.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant Social",
+    "t": "qws",
+    "u": "https://www.qwant.com/?q={{{s}}}&t=social"
+  },
+  {
+    "d": "qwant.com",
+    "s": "Qwant",
+    "t": "qwt",
+    "u": "https://qwant.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant Videos",
+    "t": "qwv",
+    "u": "https://www.qwant.com/?q={{{s}}}&t=videos"
+  },
+  {
+    "d": "www.qwant.com",
+    "s": "Qwant web",
+    "t": "qww",
+    "u": "https://www.qwant.com/?q={{{s}}}&t=web"
+  },
+  {
+    "d": "qz.com",
+    "s": "Quartz",
+    "t": "qz",
+    "u": "http://qz.com/search/{{{s}}}"
+  }
+]

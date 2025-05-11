@@ -1,0 +1,2360 @@
+[
+  {
+    "d": "www.o2.co.uk",
+    "s": "O2 uk",
+    "t": "o2",
+    "u": "https://www.o2.co.uk/shop/{{{s}}}"
+  },
+  {
+    "d": "www.oxfordlearnersdictionaries.com",
+    "s": "Oxford Advanced American Dictionary",
+    "t": "oaad",
+    "u": "https://www.oxfordlearnersdictionaries.com/definition/american_english/{{{s}}}"
+  },
+  {
+    "d": "openaccessbutton.org",
+    "s": "Open Access Button",
+    "t": "oab",
+    "u": "https://openaccessbutton.org/?url={{{s}}}"
+  },
+  {
+    "d": "www.oxforddictionaries.com",
+    "s": "Oxford Dictionaries (American English)",
+    "t": "oad",
+    "u": "http://www.oxforddictionaries.com/definition/american_english/{{{s}}}"
+  },
+  {
+    "d": "www.oxfordlearnersdictionaries.com",
+    "s": "Oxford Advanced Learner's Dictionary",
+    "t": "oald",
+    "u": "https://www.oxfordlearnersdictionaries.com/search/english/?q={{{s}}}"
+  },
+  {
+    "d": "overapi.com",
+    "s": "http://overapi.com/",
+    "t": "oapi",
+    "u": "http://overapi.com/{{{s}}}"
+  },
+  {
+    "d": "www.offresasaisir.fr",
+    "s": "Offres à Saisir",
+    "t": "oas",
+    "u": "https://www.offresasaisir.fr/recherche?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "The Oatmeal",
+    "t": "oatmeal",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site:theoatmeal.com"
+  },
+  {
+    "d": "onlinebooks.library.upenn.edu",
+    "s": "Online Books (Authors)",
+    "t": "oba",
+    "u": "http://onlinebooks.library.upenn.edu/webbin/book/search?author={{{s}}}&amode=words"
+  },
+  {
+    "d": "bible.oremus.org",
+    "s": "oremus Bible Browser",
+    "t": "obb",
+    "u": "http://bible.oremus.org/?passage={{{s}}}"
+  },
+  {
+    "d": "engine-codes.com",
+    "s": "Engine Codes",
+    "t": "obd",
+    "u": "http://engine-codes.com/search_codes.php?q={{{s}}}"
+  },
+  {
+    "d": "www.obi.at",
+    "s": "Obi Austria",
+    "t": "obiat",
+    "u": "https://www.obi.at/searchresult/?isi=true&searchTerm={{{s}}}"
+  },
+  {
+    "d": "www.obi.de",
+    "s": "OBI",
+    "t": "obi",
+    "u": "https://www.obi.de/decom/search/{{{s}}}"
+  },
+  {
+    "d": "openbuilds.com",
+    "s": "OpenBuilds",
+    "t": "ob",
+    "u": "https://openbuilds.com/search/49203883/?q={{{s}}}"
+  },
+  {
+    "d": "www.obrazky.cz",
+    "s": "Seznam Obrázky",
+    "t": "obrazky",
+    "u": "https://www.obrazky.cz/?q={{{s}}}"
+  },
+  {
+    "d": "observador.pt",
+    "s": "observador",
+    "t": "observador",
+    "u": "http://observador.pt/pesquisa/?q={{{s}}}"
+  },
+  {
+    "d": "build.opensuse.org",
+    "s": "openSUSE Build Service",
+    "t": "obs",
+    "u": "https://build.opensuse.org/search?search_text={{{s}}} "
+  },
+  {
+    "d": "docs.obspy.org",
+    "s": "Obspy documentation of development version",
+    "t": "obspydev",
+    "u": "http://docs.obspy.org/master/search.html?q={{{s}}}"
+  },
+  {
+    "d": "docs.obspy.org",
+    "s": "Obspy documentation",
+    "t": "obspy",
+    "u": "http://docs.obspy.org/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.ocado.com",
+    "s": "Ocado",
+    "t": "ocado",
+    "u": "https://www.ocado.com/webshop/getSearchProducts.do?entry={{{s}}}"
+  },
+  {
+    "d": "www.openclipart.org",
+    "s": "Open Clip Art Library",
+    "t": "ocal",
+    "u": "http://www.openclipart.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "caml.inria.fr",
+    "s": "OCaml Lib Ref",
+    "t": "ocaml",
+    "u": "http://caml.inria.fr/pub/docs/manual-ocaml/libref/{{{s}}}.html"
+  },
+  {
+    "d": "camlspotter.github.io",
+    "s": "OCamlOScope",
+    "t": "ocamloscope",
+    "u": "https://camlspotter.github.io/ocamloscope.html?q={{{s}}}"
+  },
+  {
+    "d": "odoo-community.org",
+    "s": "Odoo Community Association modules",
+    "t": "ocamod",
+    "u": "https://odoo-community.org/shop?search={{{s}}}"
+  },
+  {
+    "d": "www.openclipart.org",
+    "s": "Open Clip Art Library",
+    "t": "oca",
+    "u": "http://www.openclipart.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.overclockers.at",
+    "s": "o.v.e.r.clockers.at",
+    "t": "ocat",
+    "u": "https://www.overclockers.at/search.php?action=simplesearch&query={{{s}}}"
+  },
+  {
+    "d": "openclassrooms.com",
+    "s": "OpenClassroom Cours",
+    "t": "occ",
+    "u": "https://openclassrooms.com/courses?q={{{s}}}"
+  },
+  {
+    "d": "occuprint.org",
+    "s": "Occuprint",
+    "t": "occuprint",
+    "u": "http://occuprint.org/?action=search&q={{{s}}} "
+  },
+  {
+    "d": "ocdoc.cil.li",
+    "s": "Official documentation of OpenComputers",
+    "t": "ocdoc",
+    "u": "https://ocdoc.cil.li/doku.php?id=start&do=search&q={{{s}}}"
+  },
+  {
+    "d": "www.worldcat.org",
+    "s": "OCLC Worldcat",
+    "t": "oclc",
+    "u": "https://www.worldcat.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.opencaching.us",
+    "s": "Opencaching NA",
+    "t": "ocna",
+    "u": "https://www.opencaching.us/search.php?searchto=searchbyname&showresult=1&expert=0&output=HTML&sort=bydistance&f_inactive=0&f_ignored=0&f_userfound=0&f_userowner=0&f_watched=0&f_geokret=0&cachename=https://www.opencaching.us/search.php?searchto=searchbyname&showresult=1&expert=0&output=HTML&sort=bydistance&f_inactive=0&f_ignored=0&f_userfound=0&f_userowner=0&f_watched=0&f_geokret=0&cachename={{{s}}}&submit=Search&submit=Search"
+  },
+  {
+    "d": "camlspotter.github.io",
+    "s": "OCamlOscope",
+    "t": "oco",
+    "u": "https://camlspotter.github.io/ocamloscope.html?q={{{s}}}"
+  },
+  {
+    "d": "openclassrooms.com",
+    "s": "OpenClassrooms",
+    "t": "oc",
+    "u": "https://openclassrooms.com/courses?q={{{s}}}"
+  },
+  {
+    "d": "www.ocregister.com",
+    "s": "Orange County Register",
+    "t": "ocregister",
+    "u": "http://www.ocregister.com/search/?q={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "ocremix.org",
+    "s": "OverClocked Remix",
+    "t": "ocremix",
+    "u": "http://ocremix.org/quicksearch/remix/?qs_query={{{s}}}"
+  },
+  {
+    "d": "www.opendesktop.org",
+    "s": "openDesktop.org",
+    "t": "ocs",
+    "u": "https://www.opendesktop.org/search?projectSearchText={{{s}}}"
+  },
+  {
+    "d": "octopart.com",
+    "s": "Octopart",
+    "t": "octo",
+    "u": "https://octopart.com/search?q={{{s}}}"
+  },
+  {
+    "d": "octopart.com",
+    "s": "Octopart",
+    "t": "octopart",
+    "u": "https://octopart.com/search?q={{{s}}}"
+  },
+  {
+    "d": "overclockers.co.uk",
+    "s": "OverclockersUK",
+    "t": "ocuk",
+    "u": "http://overclockers.co.uk/search_results.php?keywords={{{s}}}"
+  },
+  {
+    "d": "www.oculus.com",
+    "s": "Oculus Rift Store",
+    "t": "oculus",
+    "u": "https://www.oculus.com/experiences/go/search/?q={{{s}}}"
+  },
+  {
+    "d": "search.mit.edu",
+    "s": "MIT OpenCourseWare",
+    "t": "ocw",
+    "u": "http://search.mit.edu/search?site=ocw&client=mit&output=xml_no_dtd&proxystylesheet=http://ocw.mit.edu/search/google-ocw.xsl&proxyreload=1&q={{{s}}}"
+  },
+  {
+    "d": "odb.org",
+    "s": "Our Daily Bread",
+    "t": "odb",
+    "u": "https://odb.org/search?q={{{s}}}"
+  },
+  {
+    "d": "theodd1sout.com",
+    "s": "https://theodd1sout.com/",
+    "t": "odd",
+    "u": "https://theodd1sout.com/search?q={{{s}}}"
+  },
+  {
+    "d": "data.europa.eu",
+    "s": "European Open Data Portal",
+    "t": "odeu",
+    "u": "https://data.europa.eu/euodp/en/data/dataset?q={{{s}}}"
+  },
+  {
+    "d": "en.oxforddictionaries.com",
+    "s": "Oxford Dictionaries",
+    "t": "odic",
+    "u": "https://en.oxforddictionaries.com/search?utf8=%E2%9C%93&filter=dictionary&query={{{s}}}"
+  },
+  {
+    "d": "www.oxforddnb.com",
+    "s": "Oxford Dictionary of National Biography",
+    "t": "odnb",
+    "u": "http://www.oxforddnb.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.odoo.com",
+    "s": "Odoo Apps",
+    "t": "odoo",
+    "u": "https://www.odoo.com/apps?search={{{s}}}"
+  },
+  {
+    "d": "www.opendota.com",
+    "s": "OpenDota",
+    "t": "odota",
+    "u": "https://www.opendota.com/search?q={{{s}}}"
+  },
+  {
+    "d": "oxforddictionaries.com",
+    "s": "Oxford Dictionary",
+    "t": "od",
+    "u": "http://oxforddictionaries.com/definition/english/{{{s}}}?q={{{s}}}"
+  },
+  {
+    "d": "odpiralnicasi.com",
+    "s": "Odpiralni časi",
+    "t": "odpiralni",
+    "u": "http://odpiralnicasi.com/spots?utf8=✓&q={{{s}}}"
+  },
+  {
+    "d": "public.opendatasoft.com",
+    "s": "Open Data Soft",
+    "t": "ods",
+    "u": "http://public.opendatasoft.com/explore/dataset/european-train-stations/?q={{{s}}}"
+  },
+  {
+    "d": "www.oeconsortium.org",
+    "s": "Open Education Consortium",
+    "t": "oec",
+    "u": "http://www.oeconsortium.org/courses/search/?search= {{{s}}} "
+  },
+  {
+    "d": "www.oed.com",
+    "s": "OED - Oxford English Dictionary",
+    "t": "oed",
+    "u": "http://www.oed.com/search?searchType=dictionary&q={{{s}}}&_searchBtn=Search"
+  },
+  {
+    "d": "oeis.org",
+    "s": "The On-Line Encyclopedia of Integer Sequences",
+    "t": "oeis",
+    "u": "http://oeis.org/search?q={{{s}}}&language=english&go=Search"
+  },
+  {
+    "d": "affygility.com",
+    "s": "OEL Fastrac",
+    "t": "oel",
+    "u": "https://affygility.com/oel/search.html?addsearch={{{s}}}"
+  },
+  {
+    "d": "www.oemstrade.com",
+    "s": "oemstrade",
+    "t": "oem",
+    "u": "http://www.oemstrade.com/search/{{{s}}}"
+  },
+  {
+    "d": "www.oercommons.org",
+    "s": "OER Commons",
+    "t": "oer",
+    "u": "http://www.oercommons.org/search?f.search={{{s}}}"
+  },
+  {
+    "d": "www.oeticket.com",
+    "s": "oeticket",
+    "t": "oeticket",
+    "u": "http://www.oeticket.com/Tickets.html?affiliate=EOE&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff={{{s}}}"
+  },
+  {
+    "d": "www.ofdb.de",
+    "s": "Online Film Datenbank",
+    "t": "ofdb",
+    "u": "http://www.ofdb.de/view.php?SText={{{s}}}&Kat=All&page=suchergebnis"
+  },
+  {
+    "d": "www.offerteinternet.net",
+    "s": "Offerte Internet",
+    "t": "offerteinternet",
+    "u": "https://www.offerteinternet.net/?s={{{s}}}"
+  },
+  {
+    "d": "www.officedepot.com",
+    "s": "OfficeDepot",
+    "t": "officedepot",
+    "u": "http://www.officedepot.com/catalog/search.do?Ntt={{{s}}}"
+  },
+  {
+    "d": "www.office-furniture-direct.co.uk",
+    "s": "Office Furniture Direct",
+    "t": "officefurniture",
+    "u": "https://www.office-furniture-direct.co.uk/search?query={{{s}}}"
+  },
+  {
+    "d": "offliberty.com",
+    "s": "Offliberty",
+    "t": "offliberty",
+    "u": "http://offliberty.com/#{{{s}}}"
+  },
+  {
+    "d": "www.downforeveryoneorjustme.com",
+    "s": "Down For Everyone Or Just Me?",
+    "t": "offline",
+    "u": "http://www.downforeveryoneorjustme.com/{{{s}}}"
+  },
+  {
+    "d": "world.openfoodfacts.org",
+    "s": "OpenFoodFacts World",
+    "t": "off",
+    "u": "http://world.openfoodfacts.org/cgi/search.pl?search_terms={{{s}}}"
+  },
+  {
+    "d": "openfontlibrary.org",
+    "s": "Open Font Library",
+    "t": "ofl",
+    "u": "http://openfontlibrary.org/en/search?query={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "OpenFrameworks",
+    "t": "of",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Ahttp%3A%2F%2Fforum.openframeworks.cc"
+  },
+  {
+    "d": "opengameart.org",
+    "s": "OpenGameArt.org",
+    "t": "oga",
+    "u": "http://opengameart.org/art-search?keys={{{s}}}"
+  },
+  {
+    "d": "ogdb.eu",
+    "s": "Online Games-Datenbank",
+    "t": "ogdb",
+    "u": "http://ogdb.eu/index.php?section=simplesearchresults&searchstring={{{s}}}"
+  },
+  {
+    "d": "www.oilandgasjobsearch.com",
+    "s": "Oil and Gas Job Search",
+    "t": "ogjs",
+    "u": "https://www.oilandgasjobsearch.com/Oil-and-Gas-Jobs/Search/{{{s}}}"
+  },
+  {
+    "d": "www.oglasnik.hr",
+    "s": "Oglasnik",
+    "t": "oglasnik",
+    "u": "https://www.oglasnik.hr/search?q={{{s}}}&category_id="
+  },
+  {
+    "d": "oglobo.globo.com",
+    "s": "https://oglobo.globo.com/",
+    "t": "oglobo",
+    "u": "https://oglobo.globo.com/busca/?q={{{s}}}"
+  },
+  {
+    "d": "www.outdoorgearlab.com",
+    "s": "OutdoorGearLab",
+    "t": "ogl",
+    "u": "https://www.outdoorgearlab.com/search.php?ftr={{{s}}}"
+  },
+  {
+    "d": "www.ogol.com.br",
+    "s": "OGol",
+    "t": "ogol",
+    "u": "http://www.ogol.com.br/search.php?inputString={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Omniglot",
+    "t": "og",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Aomniglot.com"
+  },
+  {
+    "d": "forums.online-go.com",
+    "s": "Online Go Server",
+    "t": "ogs",
+    "u": "https://forums.online-go.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.ohloh.net",
+    "s": "ohloh",
+    "t": "ohloh",
+    "u": "https://www.ohloh.net/search?q={{{s}}}"
+  },
+  {
+    "d": "orbithangar.com",
+    "s": "Orbit Hangar Mods",
+    "t": "ohm",
+    "u": "http://orbithangar.com/advsearch.php?text={{{s}}}"
+  },
+  {
+    "d": "ohmygear.net",
+    "s": "OhMyGear",
+    "t": "ohmygear",
+    "u": "https://ohmygear.net/en/search/{{{s}}}"
+  },
+  {
+    "d": "www.ohnorobot.com",
+    "s": "Oh No Robot",
+    "t": "ohnorobot",
+    "u": "http://www.ohnorobot.com/index.php?s={{{s}}}&Search=Search&comic="
+  },
+  {
+    "d": "www.openhub.net",
+    "s": "Open Hub",
+    "t": "oh",
+    "u": "https://www.openhub.net/p?q={{{s}}}"
+  },
+  {
+    "d": "rpg.hamsterrepublic.com",
+    "s": "OHRRPGCE Wiki",
+    "t": "ohr",
+    "u": "http://rpg.hamsterrepublic.com/ohrrpgce/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.oid-info.com",
+    "s": "Search OID registry",
+    "t": "oid",
+    "u": "http://www.oid-info.com/cgi-bin/display?oid={{{s}}}&submit=Display&action=display"
+  },
+  {
+    "d": "www.oilandgasjobsearch.com",
+    "s": "Oil and Gas Job Search",
+    "t": "oilandgas",
+    "u": "https://www.oilandgasjobsearch.com/Oil-and-Gas-Jobs/Search/{{{s}}}"
+  },
+  {
+    "d": "oxfordindex.oup.com",
+    "s": "Oxford Index",
+    "t": "oi",
+    "u": "http://oxfordindex.oup.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.oiseaux.net",
+    "s": "Oiseaux.net",
+    "t": "oiseaux",
+    "u": "http://www.oiseaux.net/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.gavo.t.u-tokyo.ac.jp",
+    "s": "OJAD - Online Japanese Accent Dictionary",
+    "t": "ojad",
+    "u": "http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:{{{s}}}"
+  },
+  {
+    "d": "ojibwe.lib.umn.edu",
+    "s": "https://ojibwe.lib.umn.edu",
+    "t": "ojen",
+    "u": "https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q={{{s}}}&commit=Search&type=ojibwe"
+  },
+  {
+    "d": "www.okazii.ro",
+    "s": "Okazii",
+    "t": "okazii",
+    "u": "http://www.okazii.ro/cautare/{{{s}}}.html?autoc=write"
+  },
+  {
+    "d": "www.okcaller.com",
+    "s": "okcaller.com",
+    "t": "okcaller",
+    "u": "http://www.okcaller.com/detail.php?number={{{s}}}"
+  },
+  {
+    "d": "okcupid.com",
+    "s": "OKCupid",
+    "t": "okc",
+    "u": "https://okcupid.com/profile/{{{s}}}"
+  },
+  {
+    "d": "www.okidoki.ee",
+    "s": "okidoki kuulutused",
+    "t": "okidoki",
+    "u": "http://www.okidoki.ee/buy/all/?query={{{s}}}"
+  },
+  {
+    "d": "www.okkazeo.com",
+    "s": "Okkazeo",
+    "t": "okkazeo",
+    "u": "https://www.okkazeo.com/jeux/searchJeux?rech_nom={{{s}}}"
+  },
+  {
+    "d": "www.oxfordlearnersdictionaries.com",
+    "s": "Oxford Learner's American Dictionariy",
+    "t": "olad",
+    "u": "http://www.oxfordlearnersdictionaries.com/definition/american_english/{{{s}}}"
+  },
+  {
+    "d": "olam.in",
+    "s": "Olam",
+    "t": "olam",
+    "u": "http://olam.in/Dictionary/en_ml/{{{s}}} "
+  },
+  {
+    "d": "www.oldapps.com",
+    "s": "OldApps.com",
+    "t": "oldapps",
+    "u": "http://www.oldapps.com/betasearch.php?cx=007779823686351122034%3Ai7o_lb6edjm&cof=FORID%3A9&ie=UTF-8&q={{{s}}}&siteurl="
+  },
+  {
+    "d": "search.cpan.org",
+    "s": "CPAN",
+    "t": "oldcpan",
+    "u": "http://search.cpan.org/search?query={{{s}}}&mode=all"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "Old Reddit",
+    "t": "oldreddit",
+    "u": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "old.reddit.com",
+    "t": "oldred",
+    "u": "https://old.reddit.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.oldversion.com",
+    "s": "OldVersion",
+    "t": "oldversion",
+    "u": "http://www.oldversion.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.oldversion.com",
+    "s": "OldVersion.com",
+    "t": "oldv",
+    "u": "http://www.oldversion.com/search?query={{{s}}}"
+  },
+  {
+    "d": "buscador.ole.com.ar",
+    "s": "Olé",
+    "t": "ole",
+    "u": "http://buscador.ole.com.ar/{{{s}}}"
+  },
+  {
+    "d": "openlibrary.org",
+    "s": "Open Library",
+    "t": "olib",
+    "u": "http://openlibrary.org/search?q={{{s}}}"
+  },
+  {
+    "d": "openlibrary.org",
+    "s": "Open Library (Full Text Search)",
+    "t": "olibtext",
+    "u": "https://openlibrary.org/search/inside?q={{{s}}}"
+  },
+  {
+    "d": "oliverse.ch",
+    "s": "Oliverse",
+    "t": "oliverse",
+    "u": "https://oliverse.ch/?search={{{s}}}"
+  },
+  {
+    "d": "www.dizionario-italiano.it",
+    "s": "Dizionario Italiano Olivetti",
+    "t": "olivetti",
+    "u": "https://www.dizionario-italiano.it/dizionario-italiano.php?parola={{{s}}}"
+  },
+  {
+    "d": "search.oregonlive.com",
+    "s": "OregonLive",
+    "t": "ol",
+    "u": "http://search.oregonlive.com/{{{s}}}"
+  },
+  {
+    "d": "www.onelook.com",
+    "s": "Onelook Reverse Dictionary",
+    "t": "olth",
+    "u": "http://www.onelook.com/reverse-dictionary.shtml?s={{{s}}}"
+  },
+  {
+    "d": "www.olx.com.ar",
+    "s": "OLX Argentina",
+    "t": "olxar",
+    "u": "https://www.olx.com.ar/nf/search/{{{s}}}"
+  },
+  {
+    "d": "bahiablanca.olx.com.ar",
+    "s": "OLX",
+    "t": "olxbb",
+    "u": "https://bahiablanca.olx.com.ar/nf/search/{{{s}}}"
+  },
+  {
+    "d": "www.olx.bg",
+    "s": "OLX Bulgaria",
+    "t": "olxbg",
+    "u": "https://www.olx.bg/ads/?q={{{s}}}"
+  },
+  {
+    "d": "www.olx.com.br",
+    "s": "OLX.com.br",
+    "t": "olxbr",
+    "u": "http://www.olx.com.br/brasil?q={{{s}}}"
+  },
+  {
+    "d": "df.olx.com.br",
+    "s": "OLX DF",
+    "t": "olxdf",
+    "u": "https://df.olx.com.br/?q={{{s}}}"
+  },
+  {
+    "d": "m.olx.co.id",
+    "s": "Olxid",
+    "t": "olxid",
+    "u": "https://m.olx.co.id/all-results/q-{{{s}}} "
+  },
+  {
+    "d": "www.olx.in",
+    "s": "Olx India",
+    "t": "olxin",
+    "u": "https://www.olx.in/?{{{s}}}"
+  },
+  {
+    "d": "olxliban.com",
+    "s": "OLX Lebanon",
+    "t": "olxlb",
+    "u": "https://olxliban.com/en/ads/q-{{{s}}}"
+  },
+  {
+    "d": "www.olx.pl",
+    "s": "OLX Poland",
+    "t": "olx",
+    "u": "https://www.olx.pl/oferty/q- {{{s}}}/"
+  },
+  {
+    "d": "www.olx.ph",
+    "s": "OLX Philippines",
+    "t": "olxph",
+    "u": "https://www.olx.ph/all-results?q={{{s}}}"
+  },
+  {
+    "d": "olx.pl",
+    "s": "OLX.pl",
+    "t": "olxpl",
+    "u": "http://olx.pl/oferty/q-{{{s}}}/"
+  },
+  {
+    "d": "olx.pl",
+    "s": "OLX Polska",
+    "t": "olxpoland",
+    "u": "http://olx.pl/oferty/q-{{{s}}}/"
+  },
+  {
+    "d": "www.olx.pt",
+    "s": "OLX Portugal",
+    "t": "olxpt",
+    "u": "https://www.olx.pt/ads/q-{{{s}}}"
+  },
+  {
+    "d": "www.olx.ro",
+    "s": "OLX Romania",
+    "t": "olxro",
+    "u": "https://www.olx.ro/ads/?q={{{s}}}"
+  },
+  {
+    "d": "olx.ua",
+    "s": "OLX Ukraine",
+    "t": "olxua",
+    "u": "http://olx.ua/uk/list/q-{{{s}}}/"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "Open Street Maps",
+    "t": "omap",
+    "u": "https://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "d": "omaps.worldofo.com",
+    "s": "World of O",
+    "t": "omaps",
+    "u": "http://omaps.worldofo.com/index.php?st={{{s}}}"
+  },
+  {
+    "d": "www.ombe.com",
+    "s": "OMBE.com",
+    "t": "ombe",
+    "u": "http://www.ombe.com/find/{{{s}}} "
+  },
+  {
+    "d": "www.omdb.org",
+    "s": "Open Media Database",
+    "t": "omdb",
+    "u": "https://www.omdb.org/search?search%5Btext%5D={{{s}}}"
+  },
+  {
+    "d": "www.omegawiki.org",
+    "s": "OmegaWiki",
+    "t": "omegawiki",
+    "u": "http://www.omegawiki.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "forum.omeka.org",
+    "s": "Omeka Forums",
+    "t": "omeka",
+    "u": "https://forum.omeka.org/search?q={{{s}}}"
+  },
+  {
+    "d": "omelete.uol.com.br",
+    "s": "omelete",
+    "t": "omelete",
+    "u": "https://omelete.uol.com.br/busca/?q={{{s}}}"
+  },
+  {
+    "d": "www.omevan.com",
+    "s": "Omevan",
+    "t": "omevan",
+    "u": "https://www.omevan.com/search?q={{{s}}}:"
+  },
+  {
+    "d": "open.mapquest.fr",
+    "s": "Open Mapquest France",
+    "t": "omfr",
+    "u": "http://open.mapquest.fr/?q={{{s}}} "
+  },
+  {
+    "d": "www.omgchrome.com",
+    "s": "OMG! Chrome!",
+    "t": "omgchrome",
+    "u": "http://www.omgchrome.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.omgchrome.com",
+    "s": "OMG! Chrome!",
+    "t": "omgc",
+    "u": "http://www.omgchrome.com/?s={{{s}}}"
+  },
+  {
+    "d": "omghackers.com",
+    "s": "OMG Hackers",
+    "t": "omgh",
+    "u": "https://omghackers.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.omgubuntu.co.uk",
+    "s": "OMG! Ubuntu!",
+    "t": "omg",
+    "u": "http://www.omgubuntu.co.uk/?s={{{s}}} "
+  },
+  {
+    "d": "www.omgubuntu.co.uk",
+    "s": "OMG! Ubuntu!",
+    "t": "omgubuntu",
+    "u": "http://www.omgubuntu.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "www.omgubuntu.co.uk",
+    "s": "OMG! Ubuntu!",
+    "t": "omgu",
+    "u": "http://www.omgubuntu.co.uk/?s={{{s}}}"
+  },
+  {
+    "d": "omgvoice.com",
+    "s": "OMGvoice",
+    "t": "omgvoice",
+    "u": "https://omgvoice.com/search?term={{{s}}}"
+  },
+  {
+    "d": "omgvoice.com",
+    "s": "OMG voice",
+    "t": "omgv",
+    "u": "https://omgvoice.com/search?term={{{s}}}"
+  },
+  {
+    "d": "omim.org",
+    "s": "OMIM Search",
+    "t": "omim",
+    "u": "http://omim.org/search?index=entry&sort=score+desc%2C+prefix_sort+desc&start=1&limit=10&search={{{s}}} "
+  },
+  {
+    "d": "omni.se",
+    "s": "Omni",
+    "t": "omni",
+    "u": "http://omni.se/sok?q={{{s}}}"
+  },
+  {
+    "d": "omnum.se",
+    "s": "Omnum",
+    "t": "omnum",
+    "u": "http://omnum.se/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.onmsft.com",
+    "s": "On MSFT",
+    "t": "oms",
+    "u": "https://www.onmsft.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.onemorething.nl",
+    "s": "One More Thing",
+    "t": "omt",
+    "u": "http://www.onemorething.nl/zoeken/{{{s}}}/"
+  },
+  {
+    "d": "theomx.com",
+    "s": "OMX",
+    "t": "omx",
+    "u": "https://theomx.com/companies?keyword%5D={{{s}}}"
+  },
+  {
+    "d": "www.onbit.pt",
+    "s": "Onbit",
+    "t": "onbit",
+    "u": "https://www.onbit.pt/catalogsearch/result/?q={{{s}}}"
+  },
+  {
+    "d": "oncyclopedia.org",
+    "s": "Oncyclopedia",
+    "t": "oncyclo",
+    "u": "http://oncyclopedia.org/wiki/Speciaal:Zoeken?search={{{s}}}&go=Zoeken"
+  },
+  {
+    "d": "www.ondarock.it",
+    "s": "OndaRock",
+    "t": "ondarock",
+    "u": "http://www.ondarock.it/websearch.php?domains=www.ondarock.it&q={{{s}}}&sitesearch=www.ondarock.it&client=pub-4895368002735382&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23117dd2%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A7292ab%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0569b7%3BLC%3A0569b7%3BT%3A191919%3BGFNT%3A73baf2%3BGIMP%3A73baf2%3BFORID%3A11&hl=it"
+  },
+  {
+    "d": "onecard.network",
+    "s": "South Australia Public Library",
+    "t": "onecard",
+    "u": "https://onecard.network/client/en_AU/sapubliclibraries/search/results?qu={{{s}}}"
+  },
+  {
+    "d": "onedrive.live.com",
+    "s": "OneDrive",
+    "t": "onedrive",
+    "u": "https://onedrive.live.com/#qt=search&q={{{s}}}"
+  },
+  {
+    "d": "us.oneill.com",
+    "s": "O'Neill",
+    "t": "oneill",
+    "u": "http://us.oneill.com/shop/search/?q={{{s}}}"
+  },
+  {
+    "d": "onelook.com",
+    "s": "OneLook",
+    "t": "onelook",
+    "u": "http://onelook.com/?w={{{s}}}"
+  },
+  {
+    "d": "onelook.com",
+    "s": "OneLook Reverse",
+    "t": "onelookr",
+    "u": "http://onelook.com/?w=*&loc=revfp2&clue={{{s}}}"
+  },
+  {
+    "d": "www.onelook.com",
+    "s": "Onelook Reverse Dictionary",
+    "t": "onelookth",
+    "u": "http://www.onelook.com/reverse-dictionary.shtml?s={{{s}}}"
+  },
+  {
+    "d": "onepiece.wikia.com",
+    "s": "One Piece Wiki",
+    "t": "onepiece",
+    "u": "http://onepiece.wikia.com/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "www.onestopenglish.com",
+    "s": "Onestopenglish",
+    "t": "onestopenglish",
+    "u": "http://www.onestopenglish.com/searchResults.aspx?keywords={{{s}}}"
+  },
+  {
+    "d": "ongoal.se",
+    "s": "Ongoal",
+    "t": "ongoal",
+    "u": "https://ongoal.se/search?type=article%2Cpage%2Cproduct&q={{{s}}}*"
+  },
+  {
+    "d": "www.ontario.ca",
+    "s": "Government of Ontario",
+    "t": "on",
+    "u": "https://www.ontario.ca/search/search-results?query={{{s}}}"
+  },
+  {
+    "d": "www.theonion.com",
+    "s": "The Onion",
+    "t": "onion",
+    "u": "http://www.theonion.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "oxygennotincluded.gamepedia.com",
+    "s": "Oxygen Not Included Wiki",
+    "t": "oni",
+    "u": "http://oxygennotincluded.gamepedia.com/index.php?search={{{s}}}"
+  },
+  {
+    "d": "onlinelinkscan.com",
+    "s": "Online Link Scan",
+    "t": "onlinelinkscan",
+    "u": "http://onlinelinkscan.com/results/{{{s}}}"
+  },
+  {
+    "d": "www.nexusmods.com",
+    "s": "Oblivion NexusMods",
+    "t": "onm",
+    "u": "https://www.nexusmods.com/oblivion/search/?gsearch={{{s}}}&gsearchtype=mods"
+  },
+  {
+    "d": "www.perseus.tufts.edu",
+    "s": "Old Norse dictionary",
+    "t": "onorsk",
+    "u": "http://www.perseus.tufts.edu/hopper/morph?l={{{s}}}&la=non"
+  },
+  {
+    "d": "www.ohnorobot.com",
+    "s": "Oh No Robot",
+    "t": "onr",
+    "u": "http://www.ohnorobot.com/index.php?s={{{s}}}&Search=Search&comic="
+  },
+  {
+    "d": "cad.onshape.com",
+    "s": "Onshape Docs",
+    "t": "onshape",
+    "u": "https://cad.onshape.com/documents?resourceType=filter&nodeId=1&column=modifiedAt&order=desc&viewMode=0&q={{{s}}}"
+  },
+  {
+    "d": "www.ons.gov.uk",
+    "s": "Office for National Statistics",
+    "t": "ons",
+    "u": "https://www.ons.gov.uk/search?q={{{s}}}"
+  },
+  {
+    "d": "www.onvista.de",
+    "s": "Onvista",
+    "t": "onvista",
+    "u": "http://www.onvista.de/suche/?onvHeaderSearchBoxAction=true&searchValue={{{s}}}"
+  },
+  {
+    "d": "onzetaal.nl",
+    "s": "Genootschap Onze Taal",
+    "t": "onzetaal",
+    "u": "https://onzetaal.nl/zoekresultaten/?q={{{s}}}"
+  },
+  {
+    "d": "outof.cards",
+    "s": "Out of Cards",
+    "t": "ooc",
+    "u": "https://outof.cards/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.oolone.com",
+    "s": "Oolone",
+    "t": "oolone",
+    "u": "http://www.oolone.com/?search={{{s}}}"
+  },
+  {
+    "d": "onelook.com",
+    "s": "OneLook.com",
+    "t": "o",
+    "u": "http://onelook.com/?w={{{s}}}&ls=a"
+  },
+  {
+    "d": "www.otto-office.com",
+    "s": "OTTO Office",
+    "t": "oo",
+    "u": "https://www.otto-office.com/de/app/search/index?query[query]={{{s}}}"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "r/OutOfTheLoop",
+    "t": "ootl",
+    "u": "https://www.reddit.com/r/OutOfTheLoop/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "www.imperialassembly.com",
+    "s": "L5R: Oracle of the Void",
+    "t": "ootv",
+    "u": "http://www.imperialassembly.com/oracle/?quicksearch=1&search_13={{{s}}}"
+  },
+  {
+    "d": "lhgrw.gbv.de",
+    "s": "OPAC Uni Greifswald",
+    "t": "opachgw",
+    "u": "https://lhgrw.gbv.de/DB=1/SET=18/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "d": "hu-berlin.hosted.exlibrisgroup.com",
+    "s": "Universitätsbibliothek Humboldt (Grimmzentrum)",
+    "t": "opachu",
+    "u": "https://hu-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&search_scope=default_scope&displayField=all&pcAvailabiltyMode=false&dum=true&vid=hub_ub&displayMode=full&bulkSize=30&mode=Basic&tab=default_tab&highlight=true&institution=HUB_UB&sortby=rank&lang=de_DE"
+  },
+  {
+    "d": "opac.ub.uni-potsdam.de",
+    "s": "Universitätsbibliothek Potsdam",
+    "t": "opacp",
+    "u": "https://opac.ub.uni-potsdam.de/DB=1/SET=4/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "OPAM",
+    "t": "opam",
+    "u": "http://duckduckgo.com/?q={{{s}}}+site:https://opam.ocaml.org/packages"
+  },
+  {
+    "d": "br.op.gg",
+    "s": "OP.GG Brazil - League of Legends Summoners statistics and MMR",
+    "t": "opbr",
+    "u": "http://br.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "fr.openclassrooms.com",
+    "s": "OpenClassrooms",
+    "t": "opc",
+    "u": "http://fr.openclassrooms.com/recherche/?search={{{s}}}"
+  },
+  {
+    "d": "openbadges.it",
+    "s": "OpenBadges",
+    "t": "openbadges",
+    "u": "https://openbadges.it/search/{{{s}}} "
+  },
+  {
+    "d": "openbox.org",
+    "s": "Openbox",
+    "t": "openbox",
+    "u": "http://openbox.org/wiki/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "man.openbsd.org",
+    "s": "man.openbsd.org",
+    "t": "openbsdman",
+    "u": "http://man.openbsd.org/?query={{{s}}}&apropos=0&sec=0&arch=default&manpath=OpenBSD-current"
+  },
+  {
+    "d": "marc.info",
+    "s": "OpenBSD misc list",
+    "t": "openbsdmisc",
+    "u": "http://marc.info/?l=openbsd-misc&w=2&r=1&s={{{s}}}&q=b"
+  },
+  {
+    "d": "man.openbsd.org",
+    "s": "OpenBSD",
+    "t": "openbsd",
+    "u": "http://man.openbsd.org/?query={{{s}}}"
+  },
+  {
+    "d": "marc.info",
+    "s": "marc.info",
+    "t": "openbsdports",
+    "u": "https://marc.info/?l=openbsd-ports&w=2&r=1&s={{{s}}}&q=b"
+  },
+  {
+    "d": "openclipart.org",
+    "s": "OpenClipart",
+    "t": "openclipart",
+    "u": "http://openclipart.org/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.opencompanies.nl",
+    "s": "OpenCompanies",
+    "t": "opencomp",
+    "u": "https://www.opencompanies.nl/zoekresultaten?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "openculture.com",
+    "t": "openculture",
+    "u": "https://duckduckgo.com/?q=site%3Aopenculture.com+{{{s}}}"
+  },
+  {
+    "d": "docs.opencv.org",
+    "s": "OpenCV",
+    "t": "opencv",
+    "u": "http://docs.opencv.org/3.0-last-rst/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.opendesktop.org",
+    "s": "Open Desktop",
+    "t": "opendesktop",
+    "u": "https://www.opendesktop.org/search?projectSearchText={{{s}}}"
+  },
+  {
+    "d": "www.opendns.com",
+    "s": "OpenDNS",
+    "t": "opendns",
+    "u": "http://www.opendns.com/search/?s={{{s}}}"
+  },
+  {
+    "d": "www.opendota.com",
+    "s": "OpenDota",
+    "t": "opendota",
+    "u": "https://www.opendota.com/search?q={{{s}}}"
+  },
+  {
+    "d": "openfontlibrary.org",
+    "s": "Open Font Library",
+    "t": "openfont",
+    "u": "http://openfontlibrary.org/en/search?query={{{s}}}"
+  },
+  {
+    "d": "open-freax.fr",
+    "s": "Open-Freax",
+    "t": "openfreax",
+    "u": "http://open-freax.fr/?s={{{s}}}"
+  },
+  {
+    "d": "opengameart.org",
+    "s": "OpenGameArt",
+    "t": "openga",
+    "u": "http://opengameart.org/art-search?keys={{{s}}}"
+  },
+  {
+    "d": "www.khronos.org",
+    "s": "OpenGL Wiki",
+    "t": "openglwiki",
+    "u": "https://www.khronos.org/opengl/wiki_opengl/index.php?search={{{s}}}"
+  },
+  {
+    "d": "openhours.dk",
+    "s": "OpenHours Denmark",
+    "t": "openhours",
+    "u": "https://openhours.dk/spots?utf8=%E2%9C%93&q={{{s}}}"
+  },
+  {
+    "d": "www.openhub.net",
+    "s": "Open HUB",
+    "t": "openhub",
+    "u": "https://www.openhub.net/p?query={{{s}}}&sort=relevance"
+  },
+  {
+    "d": "openings.moe",
+    "s": "Openings.moe",
+    "t": "openings",
+    "u": "http://openings.moe/list/?s={{{s}}}"
+  },
+  {
+    "d": "openlibra.com",
+    "s": "OpenLibra",
+    "t": "openlib",
+    "u": "https://openlibra.com/en/collection/search/term/{{{s}}}/"
+  },
+  {
+    "d": "openlibrary.org",
+    "s": "Open Library",
+    "t": "openlibrary",
+    "u": "http://openlibrary.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.openlistings.co",
+    "s": "Open Listings",
+    "t": "openlistings",
+    "u": "https://www.openlistings.co/s/{{{s}}} "
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "OpenStreetMap",
+    "t": "openmaps",
+    "u": "https://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.opennet.ru",
+    "s": "OpenNET",
+    "t": "opennet",
+    "u": "http://www.opennet.ru/search.shtml?exclude=index%7C%2Fman.shtml&words={{{s}}}"
+  },
+  {
+    "d": "openparliament.ca",
+    "s": "openparliament.ca",
+    "t": "openparl",
+    "u": "https://openparliament.ca/search/?q={{{s}}}"
+  },
+  {
+    "d": "openports.se",
+    "s": "OpenPorts",
+    "t": "openports",
+    "u": "http://openports.se/search.php?so={{{s}}}"
+  },
+  {
+    "d": "www.openprocessing.org",
+    "s": "OpenProcessing",
+    "t": "openprocessing",
+    "u": "http://www.openprocessing.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "openradar.appspot.com",
+    "s": "OpenRadar",
+    "t": "openradar",
+    "u": "http://openradar.appspot.com/search?query={{{s}}}"
+  },
+  {
+    "d": "www.openrent.co.uk",
+    "s": "OpenRent ",
+    "t": "openrent",
+    "u": "https://www.openrent.co.uk/properties-to-rent/{{{s}}}"
+  },
+  {
+    "d": "openrepos.net",
+    "s": "OpenRepos",
+    "t": "openrepos",
+    "u": "https://openrepos.net/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.openrice.com",
+    "s": "OpenRice",
+    "t": "openrice",
+    "u": "http://www.openrice.com/zh/hongkong/restaurant/sr1.htm?tc=sr1quick&s=1&region=0&inputstrwhat={{{s}}}&inputstrwhere="
+  },
+  {
+    "d": "www.opensecrets.org",
+    "s": "OpenSecrets.org",
+    "t": "opensecrets",
+    "u": "http://www.opensecrets.org/usearch/?q={{{s}}}"
+  },
+  {
+    "d": "opensource.com",
+    "s": "Opensource.com",
+    "t": "opensource",
+    "u": "https://opensource.com/sitewide-search?search_api_views_fulltext={{{s}}}"
+  },
+  {
+    "d": "cnx.org",
+    "s": "OpenStax",
+    "t": "openstax",
+    "u": "https://cnx.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "OpenStreetMap",
+    "t": "openstreetmap",
+    "u": "http://www.openstreetmap.org/?query={{{s}}}"
+  },
+  {
+    "d": "wiki.openstreetmap.org",
+    "s": "OpenStreetMap Wiki",
+    "t": "openstreetmapwiki",
+    "u": "https://wiki.openstreetmap.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "OpenStreetMap",
+    "t": "openstreet",
+    "u": "http://www.openstreetmap.org/?query={{{s}}}"
+  },
+  {
+    "d": "en.opensuse.org",
+    "s": "OpenSUSE",
+    "t": "opensuse",
+    "u": "http://en.opensuse.org/Special:Search?search={{{s}}}"
+  },
+  {
+    "d": "software.opensuse.org",
+    "s": "OpenSUSE Software Search",
+    "t": "opensusesoftware",
+    "u": "http://software.opensuse.org/search?q={{{s}}}"
+  },
+  {
+    "d": "openthebox.be",
+    "s": "Openthebox",
+    "t": "openthebox",
+    "u": "https://openthebox.be/search?q={{{s}}}&v=t"
+  },
+  {
+    "d": "search.open.ac.uk",
+    "s": "Open University",
+    "t": "openuni",
+    "u": "http://search.open.ac.uk/public/search/results?q={{{s}}}"
+  },
+  {
+    "d": "openuserjs.org",
+    "s": "OpenUserJS",
+    "t": "openuserjs",
+    "u": "https://openuserjs.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.yelp.com",
+    "s": "Yelp Open Search",
+    "t": "open",
+    "u": "http://www.yelp.com/search?find_desc=&ns=1#start=0&open_now=2510"
+  },
+  {
+    "d": "addons.opera.com",
+    "s": "Opera Extensions",
+    "t": "operaext",
+    "u": "https://addons.opera.com/addons/extensions/?query={{{s}}}&order=new&top=0"
+  },
+  {
+    "d": "addons.opera.com",
+    "s": "Opera Extension",
+    "t": "opera",
+    "u": "https://addons.opera.com/addons/extensions/?query={{{s}}}"
+  },
+  {
+    "d": "euw.op.gg",
+    "s": "OP.GG",
+    "t": "opeuw",
+    "u": "http://euw.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "euw.op.gg",
+    "s": "OP.GG",
+    "t": "opggeuw",
+    "u": "http://euw.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "na.op.gg",
+    "s": "OP.GG",
+    "t": "opggna",
+    "u": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "www.op.gg",
+    "s": "OP.GG",
+    "t": "opgg",
+    "u": "http://www.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "www.op.gg",
+    "s": "op.gg",
+    "t": "op.gg",
+    "u": "http://www.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "www.op.gg",
+    "s": "Opgg Champion",
+    "t": "opg",
+    "u": "http://www.op.gg/champion/{{{s}}}"
+  },
+  {
+    "d": "las.op.gg",
+    "s": "OP.GG LAS - League of Legends Summoners statistics and MMR",
+    "t": "oplas",
+    "u": "http://las.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "na.op.gg",
+    "s": "OP.GG North America - League of Legends Summoners statistics and MMR",
+    "t": "opna",
+    "u": "http://na.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "oce.op.gg",
+    "s": "OP.GG Oceania - League of Legends Summoners statistics and MMR",
+    "t": "opoce",
+    "u": "http://oce.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "www.oomipood.ee",
+    "s": "oomipood",
+    "t": "opood",
+    "u": "https://www.oomipood.ee/product/search?q={{{s}}}"
+  },
+  {
+    "d": "openplaques.org",
+    "s": "OpenPlaques",
+    "t": "op",
+    "u": "https://openplaques.org/search?utf8=%E2%9C%93&phrase={{{s}}}"
+  },
+  {
+    "d": "checklists.opquast.com",
+    "s": "Opquast Checklists",
+    "t": "opq",
+    "u": "http://checklists.opquast.com/fr/opquastv2?q={{{s}}} "
+  },
+  {
+    "d": "ru.op.gg",
+    "s": "OP.GG Russia - League of Legends Summoners statistics and MMR",
+    "t": "opru",
+    "u": "http://ru.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "opskins.com",
+    "s": "OPSkins",
+    "t": "opskins",
+    "u": "https://opskins.com/index.php?search_item={{{s}}}&min=&max=&grade=Grade&type=Type&sort=f&loc=shop_search"
+  },
+  {
+    "d": "www.opticsplanet.com",
+    "s": "Optics Planet",
+    "t": "opticsplanet",
+    "u": "https://www.opticsplanet.com/s/{{{s}}}"
+  },
+  {
+    "d": "aplicacions.llengua.gencat.cat",
+    "s": "Optimot",
+    "t": "optimot",
+    "u": "http://aplicacions.llengua.gencat.cat/llc/AppJava/index.html?action=Principal&method=cerca_generica&input_cercar={{{s}}}&tipusCerca=cerca.tot"
+  },
+  {
+    "d": "www.optomaeurope.com",
+    "s": "Optoma",
+    "t": "optoma",
+    "u": "https://www.optomaeurope.com/search?query={{{s}}}"
+  },
+  {
+    "d": "tr.op.gg",
+    "s": "OP.GG Turkey - League of Legends Summoners statistics and MMR",
+    "t": "optr",
+    "u": "http://tr.op.gg/summoner/userName={{{s}}}"
+  },
+  {
+    "d": "www.optus.com.au",
+    "s": "Optus",
+    "t": "optus",
+    "u": "https://www.optus.com.au/customercentre/search?query={{{s}}}"
+  },
+  {
+    "d": "www.opus-software.com.br",
+    "s": "Opus Software",
+    "t": "opussoftware",
+    "u": "http://www.opus-software.com.br/?s={{{s}}}"
+  },
+  {
+    "d": "www.ouquoicomment.ch",
+    "s": "OùQuoiComment",
+    "t": "oqc",
+    "u": "https://www.ouquoicomment.ch/?s={{{s}}}&search_by=all"
+  },
+  {
+    "d": "www.oracle.com",
+    "s": "Oracle",
+    "t": "oracle",
+    "u": "https://www.oracle.com/search/results?Ntt={{{s}}}&Dy=1&Nty=1&Ntk=SI-ALL5"
+  },
+  {
+    "d": "docs.oracle.com",
+    "s": "Oracle Docs",
+    "t": "oradocs",
+    "u": "https://docs.oracle.com/apps/search/search.jsp?q={{{s}}}"
+  },
+  {
+    "d": "orcid.org",
+    "s": "ORCID",
+    "t": "orcid",
+    "u": "https://orcid.org/orcid-search/quick-search?searchQuery={{{s}}} "
+  },
+  {
+    "d": "beta.ordbogen.com",
+    "s": "beta.ordbogen.com",
+    "t": "ordbog",
+    "u": "https://beta.ordbogen.com/da/search#/{{{s}}}"
+  },
+  {
+    "d": "www.ordbogen.com",
+    "s": "Ordbogen",
+    "t": "ordbogen",
+    "u": "http://www.ordbogen.com/opslag.php?word={{{s}}}&dict=auto"
+  },
+  {
+    "d": "ordbok.uib.no",
+    "s": "Bokmålsordboka | Nynorskordboka",
+    "t": "ordbok",
+    "u": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge"
+  },
+  {
+    "d": "www.ord.se",
+    "s": "Ord.se FR",
+    "t": "ordfr",
+    "u": "http://www.ord.se/oversattning/franska/?s={{{s}}}&l=FRASVE"
+  },
+  {
+    "d": "www.ordguru.se",
+    "s": "Ordguru",
+    "t": "ordguru",
+    "u": "https://www.ordguru.se/synonymer/sök?q={{{s}}}"
+  },
+  {
+    "d": "ordnet.dk",
+    "s": "Den Danske Ordbog",
+    "t": "ordnet",
+    "u": "http://ordnet.dk/ddo/ordbog?query={{{s}}}"
+  },
+  {
+    "d": "ordnet.dk",
+    "s": "Ordnet",
+    "t": "ordnet.dk",
+    "u": "http://ordnet.dk/ddo/ordbog?query={{{s}}}+&search=S%C3%B8g"
+  },
+  {
+    "d": "www.ordnett.no",
+    "s": "Ordnett",
+    "t": "ordnett",
+    "u": "https://www.ordnett.no/search?language=no&phrase={{{s}}}"
+  },
+  {
+    "d": "ne.ord.se",
+    "s": "Norstedts ordböcker",
+    "t": "ord",
+    "u": "https://ne.ord.se/ordbok/svenska/engelska/s%C3%B6k/{{{s}}}"
+  },
+  {
+    "d": "www.ord.se",
+    "s": "Ord.se SV",
+    "t": "ordsv",
+    "u": "http://www.ord.se/oversattning/Svenska/?s={{{s}}}&l=SVESVE"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "old reddit",
+    "t": "ored",
+    "u": "https://old.reddit.com/search?q={{{s}}}&sort=relevance&t=all"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Oregon Coast",
+    "t": "oregon",
+    "u": "https://duckduckgo.com/?q={{{s}}}+site%3Atheoregoncoast.info"
+  },
+  {
+    "d": "www.oreillyauto.com",
+    "s": "O'Reilly Auto Parts",
+    "t": "oreillyauto",
+    "u": "https://www.oreillyauto.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "search.oreilly.com",
+    "s": "O'Reilly",
+    "t": "oreilly",
+    "u": "http://search.oreilly.com/?q={{{s}}}"
+  },
+  {
+    "d": "www.orellfuessli.ch",
+    "s": "Orell Füssli",
+    "t": "orell",
+    "u": "https://www.orellfuessli.ch/suche?utf8=%E2%9C%93&filterPATHROOT=&sq={{{s}}}"
+  },
+  {
+    "d": "ore.spongepowered.org",
+    "s": "Package Repository for Minecraft",
+    "t": "ore",
+    "u": "https://ore.spongepowered.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.orfoqrafiya.az",
+    "s": "Orfoqrafiya",
+    "t": "orfo",
+    "u": "http://www.orfoqrafiya.az/aze/{{{s}}}"
+  },
+  {
+    "d": "www.orfoqrafiya.az",
+    "s": "Orfoqrafiya",
+    "t": "orfoqrafiya",
+    "u": "http://www.orfoqrafiya.az/aze/?q={{{s}}}"
+  },
+  {
+    "d": "tvthek.orf.at",
+    "s": "ORF TVThek",
+    "t": "orf",
+    "u": "http://tvthek.orf.at/search?q={{{s}}}"
+  },
+  {
+    "d": "duckduckgo.com",
+    "s": "Org Manual",
+    "t": "org",
+    "u": "https://duckduckgo.com/?q=site:http://orgmode.org/manual/+{{{s}}}"
+  },
+  {
+    "d": "bibsys-almaprimo.hosted.exlibrisgroup.com",
+    "s": "Oria NTNU",
+    "t": "oriantnu",
+    "u": "https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=NTNU_UB&lang=no_NO&offset=0"
+  },
+  {
+    "d": "www.origin.com",
+    "s": "Origin",
+    "t": "origin",
+    "u": "https://www.origin.com/en-us/store/browse?q={{{s}}}"
+  },
+  {
+    "d": "www.theoringstore.com",
+    "s": "The O-Ring Store LLC",
+    "t": "oring",
+    "u": "http://www.theoringstore.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}"
+  },
+  {
+    "d": "learning.oreilly.com",
+    "s": "https://learning.oreilly.com/home/",
+    "t": "orly",
+    "u": "https://learning.oreilly.com/search/?query={{{s}}}"
+  },
+  {
+    "d": "www.ormsdirect.co.za",
+    "s": "Orms Direct",
+    "t": "orms",
+    "u": "https://www.ormsdirect.co.za/catalogsearch/result/index/?q={{{s}}}"
+  },
+  {
+    "d": "or.justice.cz",
+    "s": "Obchodní rejstřík – Ministerstvo spravedlnosti České republiky",
+    "t": "or",
+    "u": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev={{{s}}}&polozek=50&typHledani=STARTS_WITH"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "Subreddit (Old Style)",
+    "t": "ors",
+    "u": "https://old.reddit.com/r/{{{s}}}/"
+  },
+  {
+    "d": "orthodoxwiki.org",
+    "s": "OrthodoxWiki",
+    "t": "orthodoxwiki",
+    "u": "http://orthodoxwiki.org/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "orthonet.sdv.fr",
+    "s": "orthonet",
+    "t": "orthonet",
+    "u": "http://orthonet.sdv.fr/php/rech_mot.php?mot={{{s}}}&x=0&y=0"
+  },
+  {
+    "d": "www.oru.se",
+    "s": "Örebro University",
+    "t": "oru",
+    "u": "https://www.oru.se/funktioner/sokresultat/?query={{{s}}}"
+  },
+  {
+    "d": "osaa.dk",
+    "s": "OSAA Wiki",
+    "t": "osaa",
+    "u": "http://osaa.dk/wiki/index.php?title=Speciel%3ASearch&search={{{s}}}&go=Gå+til"
+  },
+  {
+    "d": "osalt.com",
+    "s": "Open Source Alternative",
+    "t": "osalt",
+    "u": "https://osalt.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.osapublishing.org",
+    "s": "OSA Publishing",
+    "t": "osa",
+    "u": "https://www.osapublishing.org/search.cfm?q={{{s}}}"
+  },
+  {
+    "d": "oscobo.co.uk",
+    "s": "Oscobo Search",
+    "t": "osc",
+    "u": "https://oscobo.co.uk/search.php?q={{{s}}}"
+  },
+  {
+    "d": "wiki.osdev.org",
+    "s": "OSDev Wiki",
+    "t": "osdev",
+    "u": "https://wiki.osdev.org/index.php?title=Special%3ASearch&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "osdn.net",
+    "s": "OSDN",
+    "t": "osdn",
+    "u": "https://osdn.net/search/?iq={{{s}}}"
+  },
+  {
+    "d": "osf.io",
+    "s": "Open Science Framework",
+    "t": "osf",
+    "u": "https://osf.io/search/?q={{{s}}}"
+  },
+  {
+    "d": "opensource.org",
+    "s": "Open Source Initiative",
+    "t": "osi",
+    "u": "http://opensource.org/search/node/{{{s}}}"
+  },
+  {
+    "d": "libraries.io",
+    "s": "Libraries - The Open Source Discovery Service",
+    "t": "osl",
+    "u": "http://libraries.io/search?q={{{s}}}"
+  },
+  {
+    "d": "www.oslo.kommune.no",
+    "s": "Oslo kommune",
+    "t": "oslo",
+    "u": "https://www.oslo.kommune.no/sokeresultater/?q={{{s}}}"
+  },
+  {
+    "d": "encore.oslri.net",
+    "s": "Ocean State (Rhode Island) Libraries",
+    "t": "oslri",
+    "u": "https://encore.oslri.net/iii/encore/search?target={{{s}}}"
+  },
+  {
+    "d": "osmcha.mapbox.com",
+    "s": "OSMCha",
+    "t": "osmcha",
+    "u": "https://osmcha.mapbox.com/changesets/{{{s}}}"
+  },
+  {
+    "d": "discourse.osmc.tv",
+    "s": "OSMC",
+    "t": "osmc",
+    "u": "https://discourse.osmc.tv/search?q={{{s}}}"
+  },
+  {
+    "d": "forum.openstreetmap.org",
+    "s": "Openstreetmap forum Netherlands",
+    "t": "osmforumnl",
+    "u": "https://forum.openstreetmap.org/search.php?action=search&keywords={{{s}}}&forums[]=12"
+  },
+  {
+    "d": "forum.openstreetmap.org",
+    "s": "OpenStreetMap Forum",
+    "t": "osmforum",
+    "u": "http://forum.openstreetmap.org/search.php?action=search&keywords={{{s}}}&author=&forums=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics"
+  },
+  {
+    "d": "tile.openstreetmap.fr",
+    "s": "OpenStreetMap-fr",
+    "t": "osmfr",
+    "u": "http://tile.openstreetmap.fr/?q={{{s}}}"
+  },
+  {
+    "d": "www.openlinkmap.org",
+    "s": "OpenLinkMap",
+    "t": "osmlink",
+    "u": "http://www.openlinkmap.org/?q={{{s}}}"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "OpenStreetMap Node",
+    "t": "osmnode",
+    "u": "https://www.openstreetmap.org/node/{{{s}}}"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "OpenStreetMap",
+    "t": "osm",
+    "u": "https://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "OpenStreetMap Relation",
+    "t": "osmrelation",
+    "u": "https://www.openstreetmap.org/relation/{{{s}}}"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "OpenStreetMap Way",
+    "t": "osmway",
+    "u": "https://www.openstreetmap.org/way/{{{s}}}"
+  },
+  {
+    "d": "wiki.openstreetmap.org",
+    "s": "OpenStreetMap Wiki (short)",
+    "t": "osmwiki",
+    "u": "https://wiki.openstreetmap.org/wiki/Special:Search?search={{{s}}}&go=Go"
+  },
+  {
+    "d": "wiki.openstreetmap.org",
+    "s": "OpenStreetMap Wiki",
+    "t": "osmw",
+    "u": "http://wiki.openstreetmap.org/w/index.php?title=Special%3ASearch&search={{{s}}}"
+  },
+  {
+    "d": "www.osnews.com",
+    "s": "OSNews",
+    "t": "osnews",
+    "u": "http://www.osnews.com/search?q={{{s}}}"
+  },
+  {
+    "d": "software.opensuse.org",
+    "s": "openSUSE",
+    "t": "os",
+    "u": "http://software.opensuse.org/search?utf8=✓&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1"
+  },
+  {
+    "d": "map.project-osrm.org",
+    "s": "Open Source Routing Machine",
+    "t": "osrm",
+    "u": "http://map.project-osrm.org/?dest={{{s}}}"
+  },
+  {
+    "d": "old.reddit.com",
+    "s": "Old Reddit (subreddit)",
+    "t": "osr",
+    "u": "https://old.reddit.com/r/{{{s}}}"
+  },
+  {
+    "d": "services.runescape.com",
+    "s": "The Old School Runescape Grand Exchange",
+    "t": "osrsge",
+    "u": "http://services.runescape.com/m=itemdb_oldschool/results?query={{{s}}}"
+  },
+  {
+    "d": "services.runescape.com",
+    "s": "Old School Runescape Hiscores",
+    "t": "osrshs",
+    "u": "http://services.runescape.com/m=hiscore_oldschool/hiscorepersonal.ws?user1={{{s}}}"
+  },
+  {
+    "d": "oldschool.runescape.wiki",
+    "s": "Old School RuneScape Wiki",
+    "t": "osrs",
+    "u": "https://oldschool.runescape.wiki/?search={{{s}}}&title=Special%3ASearch"
+  },
+  {
+    "d": "oldschool.runescape.wiki",
+    "s": "Old School Runescape Wiki",
+    "t": "osrswiki",
+    "u": "https://oldschool.runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "d": "oldschool.runescape.wiki",
+    "s": "OSRS Official Wiki",
+    "t": "osrsw",
+    "u": "https://oldschool.runescape.wiki/?search={{{s}}}"
+  },
+  {
+    "d": "www.osstatus.com",
+    "s": "OSStatus",
+    "t": "oss",
+    "u": "https://www.osstatus.com/search/results?platform=all&framework=all&search={{{s}}}"
+  },
+  {
+    "d": "ostadium.com",
+    "s": "OStadium",
+    "t": "ostadium",
+    "u": "http://ostadium.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.osta.ee",
+    "s": "osta.ee",
+    "t": "osta",
+    "u": "http://www.osta.ee/index.php?q[q]={{{s}}}&fuseaction=search.search&q[show_items]=1&q[show_shop]=1&q[cat]=1000&search=OTSI"
+  },
+  {
+    "d": "www.ostarrichi.org",
+    "s": "Ostarrichi",
+    "t": "ostarrichi",
+    "u": "http://www.ostarrichi.org/dictionary-search.html?search={{{s}}}"
+  },
+  {
+    "d": "www.ostechnix.com",
+    "s": "OSTechNix",
+    "t": "ostech",
+    "u": "https://www.ostechnix.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.openstreetmap.org",
+    "s": "http://www.openstreetmap.org/",
+    "t": "ost",
+    "u": "http://www.openstreetmap.org/search?query={{{s}}}"
+  },
+  {
+    "d": "osu.ppy.sh",
+    "s": "Osu! Forums",
+    "t": "osuf",
+    "u": "http://osu.ppy.sh/forum/search.php?keywords={{{s}}}&terms=all&author=&sc=1&sd=d&sr=posts&ch=300&t=0&submit=Search"
+  },
+  {
+    "d": "oberlin.summon.serialssolutions.com",
+    "s": "Oberlin Summon",
+    "t": "osummon",
+    "u": "https://oberlin.summon.serialssolutions.com/search?q={{{s}}}"
+  },
+  {
+    "d": "osu.ppy.sh",
+    "s": "osu!",
+    "t": "osu",
+    "u": "https://osu.ppy.sh/home/search?query={{{s}}}"
+  },
+  {
+    "d": "osusearch.com",
+    "s": "osu!search",
+    "t": "osus",
+    "u": "http://osusearch.com/search/?title={{{s}}}"
+  },
+  {
+    "d": "osu.ppy.sh",
+    "s": "osu.ppy.sh",
+    "t": "osuu",
+    "u": "https://osu.ppy.sh/u/{{{s}}}"
+  },
+  {
+    "d": "en.opensuse.org",
+    "s": "openSUSE Wiki",
+    "t": "osw",
+    "u": "https://en.opensuse.org/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search"
+  },
+  {
+    "d": "osxdaily.com",
+    "s": "Osxdaily",
+    "t": "osxdaily",
+    "u": "http://osxdaily.com/gsearch/?cx=partner-pub-7321635426958037%3A1x5yj0-316e&cof=FORID%3A10&ie=ISO-8859-1&q={{{s}}}&sa=Search"
+  },
+  {
+    "d": "developer.apple.com",
+    "s": "OS X Developer Library",
+    "t": "osx",
+    "u": "https://developer.apple.com/search/?q={{{s}}}&platform=OS%20X"
+  },
+  {
+    "d": "optochip.org",
+    "s": "optochip",
+    "t": "ot4",
+    "u": "https://optochip.org/search/?q={{{s}}}"
+  },
+  {
+    "d": "www.openthesaurus.de",
+    "s": "OpenThesaurus-de",
+    "t": "othde",
+    "u": "https://www.openthesaurus.de/synonyme/{{{s}}}"
+  },
+  {
+    "d": "www.openthesaurus.de",
+    "s": "Open Thesaurus",
+    "t": "othesa",
+    "u": "https://www.openthesaurus.de/synonyme/{{{s}}}"
+  },
+  {
+    "d": "templates.office.com",
+    "s": "Microsoft Office Templates",
+    "t": "ot",
+    "u": "https://templates.office.com/en-US/Search/results?query={{{s}}}"
+  },
+  {
+    "d": "community.oracle.com",
+    "s": "Oracle Technology Network",
+    "t": "otn",
+    "u": "https://community.oracle.com/search.jspa?q={{{s}}}"
+  },
+  {
+    "d": "onelook.com",
+    "s": "http://onelook.com/thesaurus/",
+    "t": "otrd",
+    "u": "http://onelook.com/thesaurus/?s={{{s}}}"
+  },
+  {
+    "d": "ottawacitizen.com",
+    "s": "Ottawa Citizen",
+    "t": "ottawacitizen",
+    "u": "https://ottawacitizen.com/?s={{{s}}}"
+  },
+  {
+    "d": "www.ottobib.com",
+    "s": "http://www.ottobib.com",
+    "t": "ottobibtex",
+    "u": "http://www.ottobib.com/isbn/{{{s}}}/bibtex"
+  },
+  {
+    "d": "www.otto-office.com",
+    "s": "http://www.otto-office.com/",
+    "t": "ottooffice",
+    "u": "http://www.otto-office.com/de/search/si.obtshop?query[query]={{{s}}}"
+  },
+  {
+    "d": "www.otto.de",
+    "s": "OTTO",
+    "t": "otto",
+    "u": "https://www.otto.de/suche/{{{s}}}/"
+  },
+  {
+    "d": "ottawa.ca",
+    "s": "ottawa.ca",
+    "t": "ott",
+    "u": "https://ottawa.ca/en/search?searchfield={{{s}}}"
+  },
+  {
+    "d": "overpass-turbo.eu",
+    "s": "Overpass Turbo Wizard",
+    "t": "otw",
+    "u": "http://overpass-turbo.eu/?w={{{s}}}&R"
+  },
+  {
+    "d": "www.ouicar.fr",
+    "s": "OuiCar",
+    "t": "ouicar",
+    "u": "http://www.ouicar.fr/car/search?where={{{s}}}&from=ddgbang"
+  },
+  {
+    "d": "offerup.com",
+    "s": "offerup",
+    "t": "oup",
+    "u": "https://offerup.com/search/?q= {{{s}}}"
+  },
+  {
+    "d": "our.umbraco.com",
+    "s": "Umbraco Documentation",
+    "t": "ourdocs",
+    "u": "https://our.umbraco.com/search?q={{{s}}}&cat=documentation"
+  },
+  {
+    "d": "www.outclock.org",
+    "s": "Forum Outclock",
+    "t": "outclock",
+    "u": "http://www.outclock.org/index.php?searchword={{{s}}}&searchphrase=all&Itemid=548&option=com_search"
+  },
+  {
+    "d": "www.outdoorandcountry.co.uk",
+    "s": "Outdoor and Country",
+    "t": "outdoorandcountry",
+    "u": "https://www.outdoorandcountry.co.uk/search/go?w={{{s}}} "
+  },
+  {
+    "d": "www.ou.edu",
+    "s": "The University of Oklahoma",
+    "t": "ou",
+    "u": "http://www.ou.edu/content/web/search.html?q={{{s}}}"
+  },
+  {
+    "d": "www.outlet-pc.es",
+    "s": "Outlet PC",
+    "t": "outletpc",
+    "u": "http://www.outlet-pc.es/?q={{{s}}}:"
+  },
+  {
+    "d": "mail.live.com",
+    "s": "Outlook",
+    "t": "outlook",
+    "u": "https://mail.live.com/default.aspx?skws=hello#fid=flsearch&srch=1&skws={{{s}}}&sdr=4&satt=0"
+  },
+  {
+    "d": "www.outsideonline.com",
+    "s": "Outside Magazine",
+    "t": "outsidemag",
+    "u": "https://www.outsideonline.com/search/site/{{{s}}}"
+  },
+  {
+    "d": "www.overdrive.com",
+    "s": "OverDrive",
+    "t": "ovd",
+    "u": "https://www.overdrive.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.overdrive.com",
+    "s": "OverDrive",
+    "t": "overdrive",
+    "u": "https://www.overdrive.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.overstock.com",
+    "s": "Overstock",
+    "t": "overstock",
+    "u": "http://www.overstock.com/search?keywords={{{s}}}"
+  },
+  {
+    "d": "overwatch.wikia.com",
+    "s": "Overwatch Wiki",
+    "t": "overwatch",
+    "u": "http://overwatch.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1#"
+  },
+  {
+    "d": "store.ovi.com",
+    "s": "Ovi Store",
+    "t": "ovi",
+    "u": "http://store.ovi.com/search?q={{{s}}}"
+  },
+  {
+    "d": "stackoverflow.com",
+    "s": "StackOverflow",
+    "t": "ov",
+    "u": "http://stackoverflow.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.owasp.org",
+    "s": "OWASP",
+    "t": "owasp",
+    "u": "https://www.owasp.org/index.php?search={{{s}}}"
+  },
+  {
+    "d": "eshop.macsales.com",
+    "s": "Other World Computing (MacSales)",
+    "t": "owc",
+    "u": "https://eshop.macsales.com/search/?q={{{s}}}"
+  },
+  {
+    "d": "webstersdictionary1828.com",
+    "s": "Webster's Dictionary 1828 - Online Edition",
+    "t": "owd",
+    "u": "http://webstersdictionary1828.com/Dictionary/{{{s}}}"
+  },
+  {
+    "d": "overwatch.gamepedia.com",
+    "s": "Overwatch Gamepedia",
+    "t": "owgamepedia",
+    "u": "https://overwatch.gamepedia.com/index.php?search={{{s}}}&title=Special:Search&go=Go"
+  },
+  {
+    "d": "www.owid.de",
+    "s": "Online-Wortschatz-Informationssystem Deutsch",
+    "t": "owid",
+    "u": "http://www.owid.de/suche/wort?wort={{{s}}}"
+  },
+  {
+    "d": "www.owler.com",
+    "s": "Owler",
+    "t": "owler",
+    "u": "https://www.owler.com/iaApp/browsecompanyprofiles.htm?searchTerm={{{s}}}"
+  },
+  {
+    "d": "buscador.lechuza.org",
+    "s": "http://www.lechuza.org/",
+    "t": "owl",
+    "u": "http://buscador.lechuza.org/resultados.php?texto={{{s}}}&xx=buscar"
+  },
+  {
+    "d": "liquipedia.net",
+    "s": "Overwatch Liquipedia",
+    "t": "owliquipedia",
+    "u": "https://liquipedia.net/overwatch/index.php?search={{{s}}}"
+  },
+  {
+    "d": "www.owl-you-need.de",
+    "s": "Owl-You-Need",
+    "t": "owl-you-need",
+    "u": "http://www.owl-you-need.de/suche/{{{s}}}"
+  },
+  {
+    "d": "masteroverwatch.com",
+    "s": "OverWatchMaster",
+    "t": "owmaster",
+    "u": "https://masteroverwatch.com/search/{{{s}}}"
+  },
+  {
+    "d": "openweathermap.org",
+    "s": "Open Weather Map",
+    "t": "owm",
+    "u": "http://openweathermap.org/find?q={{{s}}}"
+  },
+  {
+    "d": "openwhyd.org",
+    "s": "Open Whyd",
+    "t": "ow",
+    "u": "https://openwhyd.org/search?q={{{s}}}"
+  },
+  {
+    "d": "www.officeworks.com.au",
+    "s": "Officeworks",
+    "t": "oworks",
+    "u": "https://www.officeworks.com.au/shop/SearchDisplay?searchTerm={{{s}}}"
+  },
+  {
+    "d": "openwrt.org",
+    "s": "OpenWrt",
+    "t": "owrt",
+    "u": "https://openwrt.org/doku.php?do=search&id=start&q={{{s}}}"
+  },
+  {
+    "d": "addons.opera.com",
+    "s": "Opera Add-ons XT WebStore",
+    "t": "ows",
+    "u": "https://addons.opera.com/ru/search/?query={{{s}}}&type=extensions"
+  },
+  {
+    "d": "www.reddit.com",
+    "s": "Overwatch subreddit",
+    "t": "owsr",
+    "u": "https://www.reddit.com/r/Overwatch/search?q={{{s}}}&restrict_sr=on"
+  },
+  {
+    "d": "www.oxfordbibliographies.com",
+    "s": "Oxford Bibliographies",
+    "t": "oxbib",
+    "u": "http://www.oxfordbibliographies.com/search?q={{{s}}}"
+  },
+  {
+    "d": "www.oxforddictionaries.com",
+    "s": "Oxford Dictionaries",
+    "t": "oxed",
+    "u": "http://www.oxforddictionaries.com/definition/english/{{{s}}}"
+  },
+  {
+    "d": "es.oxforddictionaries.com",
+    "s": "Oxford English to Spanish",
+    "t": "oxenes",
+    "u": "https://es.oxforddictionaries.com/translate/english-spanish/{{{s}}}"
+  },
+  {
+    "d": "es.oxforddictionaries.com",
+    "s": "Oxford Spanish to English",
+    "t": "oxesen",
+    "u": "https://es.oxforddictionaries.com/translate/spanish-english/{{{s}}}"
+  },
+  {
+    "d": "www.oxforddictionaries.com",
+    "s": "Oxford Dictionaries",
+    "t": "oxforddictionaries",
+    "u": "http://www.oxforddictionaries.com/definition/english/{{{s}}}"
+  },
+  {
+    "d": "www.oxfordlearnersdictionaries.com",
+    "s": "Oxford learners dictionary",
+    "t": "oxfordlearners",
+    "u": "http://www.oxfordlearnersdictionaries.com/definition/english/{{{s}}}"
+  },
+  {
+    "d": "en.oxforddictionaries.com",
+    "s": "Lexico",
+    "t": "oxford",
+    "u": "https://en.oxforddictionaries.com/definition/{{{s}}}"
+  },
+  {
+    "d": "www.oxfordreference.com",
+    "s": "Oxford Reference",
+    "t": "oxfordref",
+    "u": "http://www.oxfordreference.com/search?siteToSearch=aup&q={{{s}}}"
+  },
+  {
+    "d": "premium.oxforddictionaries.com",
+    "s": "Oxford French to English dictionary",
+    "t": "oxfren",
+    "u": "https://premium.oxforddictionaries.com/translate/french-english/{{{s}}}?q=insoumise&searchDictCode=english-french"
+  },
+  {
+    "d": "www.oxfordlearnersdictionaries.com",
+    "s": "Oxford Advanced Learners' dictionary",
+    "t": "oxl",
+    "u": "https://www.oxfordlearnersdictionaries.com/definition/english/{{{s}}}_1?isEntryInOtherDict=false"
+  },
+  {
+    "d": "www.lexico.com",
+    "s": "Oxford Dictionary",
+    "t": "ox",
+    "u": "https://www.lexico.com/search?utf8=%E2%9C%93&filter=dictionary&dictionary=en&query={{{s}}}"
+  },
+  {
+    "d": "en.oxforddictionaries.com",
+    "s": "Oxford Dictionary Thesaurus",
+    "t": "oxs",
+    "u": "https://en.oxforddictionaries.com/thesaurus/{{{s}}}"
+  },
+  {
+    "d": "en.oxforddictionaries.com",
+    "s": "Oxford Dictonaries - Thesaurus",
+    "t": "oxt",
+    "u": "https://en.oxforddictionaries.com/thesaurus/{{{s}}}"
+  },
+  {
+    "d": "www.oyez.org",
+    "s": "Oyez",
+    "t": "oyez",
+    "u": "https://www.oyez.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.oyez.org",
+    "s": "Oyez",
+    "t": "oyz",
+    "u": "https://www.oyez.org/search/{{{s}}}"
+  },
+  {
+    "d": "www.ozbargain.com.au",
+    "s": "OzBargain",
+    "t": "ozbargain",
+    "u": "https://www.ozbargain.com.au/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.ozbargain.com.au",
+    "s": "Oz Bargain",
+    "t": "ozb",
+    "u": "https://www.ozbargain.com.au/search/node/{{{s}}}"
+  },
+  {
+    "d": "www.ozdic.com",
+    "s": "http://www.ozdic.com",
+    "t": "ozdic",
+    "u": "http://www.ozdic.com/collocation-dictionary/{{{s}}}"
+  },
+  {
+    "d": "outdoorzer.com",
+    "s": "Outdoorzer",
+    "t": "ozer",
+    "u": "https://outdoorzer.com/s={{{s}}}"
+  },
+  {
+    "d": "www.ozon.ru",
+    "s": "OZON.ru",
+    "t": "ozon",
+    "u": "http://www.ozon.ru/?context=search&text={{{s}}}"
+  },
+  {
+    "d": "oz.by",
+    "s": "OZ.by",
+    "t": "oz",
+    "u": "http://oz.by/search/?q={{{s}}}"
+  },
+  {
+    "d": "ozsmoke.com.au",
+    "s": "www.ozsmoke.com.au",
+    "t": "ozsmoke.com.au",
+    "u": "https://ozsmoke.com.au/search/?q={{{s}}}"
+  },
+  {
+    "d": "cannabis.community.forums.ozstoners.com",
+    "s": "OZ Stoners",
+    "t": "ozstoners",
+    "u": "https://cannabis.community.forums.ozstoners.com/index.php?app=core&module=search&do=search&andor_type=and&sid=58ffdab89aaeb17e49a50f52929f35d6&search_content=both&search_app_filters[ccs][searchInKey]=pages&search_app_filters[ccs][pages][sortKey]=date&search_app_filters[ccs][pages][sortDir]=0&search_app_filters[ccs][database_1][sortKey]=date_added&search_app_filters[ccs][database_1][sortDir]=0&search_term={{{s}}}&search_app=forums"
+  }
+]
