@@ -1,13 +1,15 @@
 set shell := ['nu', '-l', '-c']
-set script-interpreter := ['nu', '-l']
-set unstable
+set windows-shell := ['nu', '-l', '-c']
 
 dev:
 	bun run build
 	bun run preview
 
-[script]
-get-bangs:
+remove-bangs:
+	rm --recursive ./src/bangs
+
+save-bangs:
+	#! nu
 	mkdir ./src/bangs
 	let sort_predicate = {|x| $x.t | split chars | first | if ($in =~ '[a-zA-Z0-9]') { 1 } else { 2 } }
 	let bangs = http get https://duckduckgo.com/bang.js
@@ -26,3 +28,5 @@ get-bangs:
 	  | sort-by $first_char_predicate
 	  | to json
 	  | save './src/bangs/other.json'
+
+update-bangs: remove-bangs save-bangs

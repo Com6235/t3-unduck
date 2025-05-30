@@ -12,5 +12,11 @@ export const customBangs: Bang[] = [
         s: "Modrinth",
         t: "modrinth",
         u: "https://modrinth.com/mods?q={{{s}}}",
+    },
+    {
+        d: "cobalt.tools",
+        s: "Cobalt.tools",
+        t: "cobalt",
+        u: "https://cobalt.tools/?u={{{s}}}",
     }
 ]
