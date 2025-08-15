@@ -1,9 +1,9 @@
 set shell := ['nu', '-l', '-c']
 set windows-shell := ['nu', '-l', '-c']
 
-dev:
+dev shouldHost="":
 	bun run build
-	bun run preview
+	bun run preview {{ if shouldHost == "true" { "--host 0.0.0.0" } else { '' } }}
 
 remove-bangs:
 	rm --recursive ./src/bangs

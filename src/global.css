@@ -1,6 +1,5 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"); */
 
-/* Font fallback that closely matches Inter metrics */
 @font-face {
   font-family: "Inter Fallback";
   size-adjust: 107%;
@@ -35,8 +34,7 @@
   box-sizing: border-box;
 }
 
-html,
-body {
+html, body {
   height: 100%;
   width: 100%;
 }
@@ -45,25 +43,20 @@ body {
   line-height: 1.5;
   font-weight: 400;
   font-size: 16px;
-  color: #1a1a1a;
+  color: #ddd;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.2;
 }
 
 a {
-  color: #444444;
+  color: #a9a9a9;
 }
 
 a:hover {
-  color: #888888;
+  color: #888;
 }
 
 button {
@@ -73,12 +66,18 @@ button {
   cursor: pointer;
 }
 
-input,
-textarea {
+input, textarea {
   font: inherit;
 }
 
-/* Add these new styles */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
 .url-container {
   display: flex;
   align-items: center;
@@ -86,20 +85,20 @@ textarea {
   margin-top: 16px;
 }
 
-/* Add this new style */
 .content-container {
   max-width: 36rem;
   text-align: center;
   padding: 0 8px;
 }
 
-/* Update url-input width to be 100% since container will control max width */
 .url-input {
-  padding: 8px 12px;
-  border: 1px solid #ddd;
+  background-color: #191919;
+  color: #fff;
+  border: 1px solid;
+  border-color: #3d3d3d;
   border-radius: 4px;
   width: 100%;
-  background: #f5f5f5;
+  padding: 8px 12px;
 }
 
 .copy-button {
@@ -113,23 +112,23 @@ textarea {
 }
 
 .copy-button:hover {
-  background: #f0f0f0;
+  background: #222;
 }
 
 .copy-button:active {
-  background: #e5e5e5;
+  background: #333;
 }
 
 .copy-button img {
   width: 20px;
   height: 20px;
+  filter: invert(1);
 }
 
 .copy-button.copied {
   background: #28a745;
 }
 
-/* Add footer styles */
 .footer {
   position: fixed;
   bottom: 16px;
@@ -137,60 +136,20 @@ textarea {
   right: 0;
   text-align: center;
   font-size: 14px;
-  color: #666;
+  color: #999;
 }
 
 .footer a {
-  color: #666;
   text-decoration: none;
   font-weight: 500;
+  color: #999;
 }
 
 .footer a:hover {
-  color: #333;
+  color: #ccc;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #ddd;
-  }
-
-  #app {
-    background-color: #131313;
-  }
-
-  a {
-    color: #a9a9a9;
-  }
-
-  a:hover {
-    color: #888;
-  }
-
-  .footer,
-  .footer a {
-    color: #999;
-  }
-
-  .footer a:hover {
-    color: #ccc;
-  }
-
-  .url-input {
-    border-color: #3d3d3d;
-    background-color: #191919;
-    color: #fff;
-  }
-
-  .copy-button img {
-    filter: invert(1);
-  }
-
-  .copy-button:hover {
-    background: #222;
-  }
-
-  .copy-button:active {
-    background: #333;
-  }
+#app {
+  background-color: #131313;
 }
+

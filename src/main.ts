@@ -5,16 +5,16 @@ import {Bang} from "./types.ts";
 function noSearchDefaultPageRender() {
   const app = document.querySelector<HTMLDivElement>("#app")!;
   app.innerHTML = `
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+    <main>
       <div class="content-container">
         <h1>Und*ck</h1>
         <p>DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables <a href="https://duckduckgo.com/bang.html" target="_blank">all of DuckDuckGo's bangs.</a></p>
-        <div class="url-container"> 
-          <input 
-            type="text" 
+        <div class="url-container">
+          <input
+            type="text"
             class="url-input"
             value="https://com6235.github.io/t3-unduck?q=%s"
-            readonly 
+            readonly
           />
           <button class="copy-button">
             <img src="/t3-unduck/clipboard.svg" alt="Copy" />
@@ -24,11 +24,11 @@ function noSearchDefaultPageRender() {
       <footer class="footer">
         <a href="https://github.com/Com6235/t3-unduck" target="_blank">github</a>
         •
-        <a href="https://x.com/theo" target="_blank">theo</a>
+        <a href="https://www.youtube.com/@t3dotgg" target="_blank">theo</a>
         •
         <a href="https://github.com/t3dotgg/unduck" target="_blank">original github (please give it a 🌟)</a>
       </footer>
-    </div>
+    </main>
   `;
 
   const copyButton = app.querySelector<HTMLButtonElement>(".copy-button")!;
