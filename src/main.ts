@@ -22,7 +22,7 @@ async function noSearchDefaultPageRender() {
         </div>
         <div class="bang-search">
           <form class="bang-search-search">
-            <input type="search" placeholder="Search bangs class="bang-search-search-input" aria-label="Bang search input field"/>
+            <input type="search" placeholder="Search bangs" class="bang-search-search-input" aria-label="Bang search input field"/>
             <button type="submit" class="bang-search-search-submit" aria-label="Bang search submit button">
               <img src="/t3-unduck/search.svg" class="bang-search-search-img" alt="Bang search submit button icon" />
             </button>
