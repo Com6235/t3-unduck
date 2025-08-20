@@ -5,7 +5,7 @@ export interface Bang {
     d: string,
     r?: number,
     // Name
-    s?: string,
+    s: string,
     // Category 2?
     sc?: string,
     // Bang tag

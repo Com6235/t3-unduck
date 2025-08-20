@@ -37,10 +37,10 @@ function noSearchDefaultPageRender() {
 
   copyButton.addEventListener("click", async () => {
     await navigator.clipboard.writeText(urlInput.value);
-    copyIcon.src = "/clipboard-check.svg";
+    copyIcon.src = "/t3-unduck/clipboard-check.svg";
 
     setTimeout(() => {
-      copyIcon.src = "/clipboard.svg";
+      copyIcon.src = "/t3-unduck/clipboard.svg";
     }, 2000);
   });
 }

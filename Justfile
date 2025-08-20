@@ -10,6 +10,7 @@ remove-bangs:
 
 save-bangs:
 	#! nu
+	print $"(ansi attr_bold)Updating bangs(ansi reset)"
 	mkdir ./src/bangs
 	let sort_predicate = {|x| $x.t | split chars | first | if ($in =~ '[a-zA-Z0-9]') { 1 } else { 2 } }
 	let bangs = http get https://duckduckgo.com/bang.js
