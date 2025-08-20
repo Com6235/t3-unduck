@@ -2,7 +2,7 @@ import "./global.css";
 import {customBangs} from "./custom-bangs.ts";
 import {Bang} from "./types.ts";
 
-function noSearchDefaultPageRender() {
+async function noSearchDefaultPageRender() {
   const app = document.querySelector<HTMLDivElement>("#app")!;
   app.innerHTML = `
     <main>
@@ -19,6 +19,15 @@ function noSearchDefaultPageRender() {
           <button class="copy-button">
             <img src="/t3-unduck/clipboard.svg" alt="Copy" />
           </button>
+        </div>
+        <div class="bang-search">
+          <form class="bang-search-search">
+            <input type="search" placeholder="Search bangs class="bang-search-search-input" aria-label="Bang search input field"/>
+            <button type="submit" class="bang-search-search-submit" aria-label="Bang search submit button">
+              <img src="/t3-unduck/search.svg" class="bang-search-search-img" alt="Bang search submit button icon" />
+            </button>
+          </form>
+          <div class="bang-search-container"></div>
         </div>
       </div>
       <footer class="footer">
@@ -43,6 +52,33 @@ function noSearchDefaultPageRender() {
       copyIcon.src = "/t3-unduck/clipboard.svg";
     }, 2000);
   });
+
+  await setupSearch(app)
+}
+
+async function setupSearch(app: HTMLDivElement) {
+  const searchContainer = app.querySelector<HTMLDivElement>(".bang-search-container")!;
+  const searchForm = app.querySelector<HTMLFormElement>(".bang-search-search")!;
+  const searchInput = app.querySelector<HTMLInputElement>(".bang-search-search-input")!;
+
+  const bangs: Bang[] = customBangs;
+
+  searchForm.onsubmit = (e) => {
+    e.preventDefault();
+    const input = searchInput.value.trim();
+
+    const tags = bangs
+      .filter((i) => i.s.includes(input) || i.t.includes(input) || i.t.includes(input.slice(1)))
+      .map(i => `<div class="bang-search-bang"><span>${i.t}</span><a href="http://${i.d}">${i.s}</a></div>`)
+      .join('');
+
+    searchContainer.innerHTML = tags;
+  }
+
+  for (const i of [...'abcdefghijklmnopqrstuvwxyz0123456789', 'other']) {
+    const ibangs = (await import(`./bangs/${i}.json`)).default as Bang[];
+    ibangs.forEach(i => { if (bangs.filter(a => a.t == i.t).length == 0) { bangs.push(i) } })
+  }
 }
 
 async function getBang(bang: string | undefined): Promise<Bang | undefined> {
@@ -71,7 +107,7 @@ async function getBangredirectUrl() {
   const url = new URL(window.location.href);
   const query = url.searchParams.get("q")?.trim() ?? "";
   if (!query) {
-    noSearchDefaultPageRender();
+    await noSearchDefaultPageRender();
     return null;
   }
 
